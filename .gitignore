@@ -1,7 +1,7 @@
+.DS_Store
+.Trash/
+
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache/
 .obsidian/plugins/*/data.json
-.DS_Store
-.Trash/
-*.tmp
