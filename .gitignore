@@ -5,3 +5,7 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache/
 .obsidian/plugins/*/data.json
+
+# Private context — NEVER commit. Secret Document lives here (essay phase).
+_Private/
+/_Private/
