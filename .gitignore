@@ -9,3 +9,6 @@
 # Private context — NEVER commit. Secret Document lives here (essay phase).
 _Private/
 /_Private/
+
+# Node (qmd / future tooling)
+node_modules/
