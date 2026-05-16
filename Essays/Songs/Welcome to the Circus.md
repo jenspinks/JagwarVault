@@ -1,9 +1,18 @@
+---
+type: song
+status: stable
+publish: false
+entry_points: [circus, inversion, consumption, labyrinth, the-final-boss]
+related: [CONCEPT-TheCircus, CHAR-SirLucius, CONCEPT-Inversion, CONCEPT-TheLabyrinth, SONG-LuciusLullaby]
+---
 # Welcome to the Circus
-
-Type: Song
 
 ## Album / Project
 - [[Lucius Lullaby (album)]] — Track 4
+
+## Lyrics
+
+![[Sources/Lyrics/Welcome to the Circus]]
 
 ---
 

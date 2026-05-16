@@ -42,12 +42,18 @@ for (const rel of pages) {
   const { fm, body } = readFrontmatter(join(ROOT, rel));
   if (!fm) { warns.push(`${rel}: no frontmatter.`); continue; }
 
-  // 2a. id present and canonical
-  if (!fm.id) errors.push(`${rel}: missing 'id'.`);
-  else {
-    if (!ids.has(fm.id)) errors.push(`${rel}: id '${fm.id}' not in Ontology.`);
-    if (seenIds.has(fm.id)) errors.push(`${rel}: id '${fm.id}' duplicates ${seenIds.get(fm.id)}.`);
-    else seenIds.set(fm.id, rel);
+  // 2a. id: REQUIRED + canonical for Brain (machine memory). Essays have no
+  //     id by schema (CLAUDE.md §6) — skip id checks there.
+  const isBrain = rel.startsWith("Brain/");
+  if (isBrain) {
+    if (!fm.id) errors.push(`${rel}: missing 'id' (required for Brain).`);
+    else {
+      if (!ids.has(fm.id)) errors.push(`${rel}: id '${fm.id}' not in Ontology.`);
+      if (seenIds.has(fm.id)) errors.push(`${rel}: id '${fm.id}' duplicates ${seenIds.get(fm.id)}.`);
+      else seenIds.set(fm.id, rel);
+    }
+  } else if (fm.id) {
+    warns.push(`${rel}: Essays pages should not carry 'id' (CLAUDE.md §6).`);
   }
 
   // 2b. every related/connections ref resolves to Ontology
