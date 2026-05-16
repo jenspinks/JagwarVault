@@ -1,9 +1,19 @@
+---
+type: song
+status: stable
+publish: false
+entry_points: [lucius-lullaby, the-deal, malkhut, descent, childhood-bedroom]
+related: [CHAR-SirLucius, CHAR-Roy, ALBUM-LuciusLullaby, SONG-SOL, CHAR-BallerinaBoy]
+---
 # Lucius Lullaby
-
-Type: Song
 
 ## Album / Project
 - [[Lucius Lullaby (album)]]
+
+## Lyrics
+
+![[Sources/Lyrics/Lucius Lullaby]]
+<!-- Source lyric file pending ingestion; transclusion resolves once Sources/Lyrics/Lucius Lullaby.md exists. -->
 
 ## Context
 

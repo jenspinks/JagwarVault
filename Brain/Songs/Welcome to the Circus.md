@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, CHAR-Roy, CONCEPT-TheCircus]
   strong_read: [CONCEPT-Inversion, CONCEPT-TheLabyrinth, CONCEPT-TheThread, CONCEPT-TheMouth, CONCEPT-Consumption, CONCEPT-TheMask, CONCEPT-TheAudience, SONG-LuciusLullaby, SONG-TheCircleLuciusVersion, CONCEPT-TheLaborsOfHercules]
   resonance:   [CONCEPT-TheAquarium, CONCEPT-TheSpectacle, CHAR-BallerinaBoy, SONG-TheCircle, SONG-NotYourHomie]
-referenced_by: []
+referenced_by: [ALBUM-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheLaborsOfHercules]
 review_date: 2026-11-15
 ---
 # Welcome to the Circus

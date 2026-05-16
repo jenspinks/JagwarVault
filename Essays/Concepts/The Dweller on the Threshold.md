@@ -1,6 +1,11 @@
+---
+type: concept
+status: stable
+publish: false
+entry_points: [the-dweller, the-mirror, shadow, threshold, integration]
+related: [CHAR-SirLucius, CHAR-Roy, CONCEPT-TheMirror, CHAR-Mary, ALBUM-LuciusLullaby]
+---
 # The Dweller on the Threshold
-
-Type: Concept / Symbol
 
 ## Definition
 

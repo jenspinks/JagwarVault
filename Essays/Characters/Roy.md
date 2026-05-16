@@ -1,7 +1,11 @@
+---
+type: character
+status: stable
+publish: false
+entry_points: [roy, el-roy, ballerina-boy, the-deal, mind-serve-heart]
+related: [CHAR-SirLucius, CHAR-Mary, CHAR-BallerinaBoy, SONG-LuciusLullaby, SONG-SOL]
+---
 # Roy (Artist)
-
-
-Type: Character
 
 ## Description
 -

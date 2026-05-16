@@ -1,6 +1,11 @@
-# Lucius Lullaby (album)
-
-Type: Album
+---
+type: arc
+status: draft
+publish: false
+entry_points: [lucius-lullaby, the-circle, descent-and-return, sol, the-moth-gallery]
+related: [CHAR-SirLucius, CHAR-Roy, SONG-LuciusLullaby, SONG-SOL, CONCEPT-TheCircle]
+---
+# Lucius Lullaby — Album Arc
 
 ## Metadata
 

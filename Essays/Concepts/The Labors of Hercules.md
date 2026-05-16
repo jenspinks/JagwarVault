@@ -1,6 +1,11 @@
+---
+type: concept
+status: stable
+publish: false
+entry_points: [hercules, the-beast, leo, champion, bailey]
+related: [CHAR-SirLucius, CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, SONG-NotYourHomie, SONG-1ChampionLaConquistadora]
+---
 # The Labors of Hercules
-
-Type: Concept / Framework
 
 ## Definition
 

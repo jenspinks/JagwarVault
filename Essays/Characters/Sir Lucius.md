@@ -1,6 +1,11 @@
+---
+type: character
+status: stable
+publish: false
+entry_points: [sir-lucius, the-mirror, the-dweller, three-modes, the-boss]
+related: [CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMirror, CHAR-Mary, SONG-WelcomeToTheCircus]
+---
 # Sir Lucius
-
-Type: Character
 
 ## Description
 
