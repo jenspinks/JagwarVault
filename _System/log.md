@@ -14,6 +14,16 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-05-16] ingest — gap lyrics (AZLyrics, pasted) + EP-name cleanup
+
+Filled all remaining Source gaps via Jen pasting AZLyrics pages. **Sources/Lyrics now covers all 47 catalogue songs.** New this pass: Dream-Dream, Good Day, Hell Of A Night, Hell Of A Night Pt. 2, Superhuman, No Fake Friends, Roy Voice Memo (spoken), Long Time Coming, Superhuman (Interlude) (spoken — Chaplin *Great Dictator* sample), Another Way II Heaven (completes *33*), LOOP, The Watchers, dumbledore, tomorrow (ANGLE OF ETERNITY). Replaced Precious Time + Shine drafts with better-sourced AZLyrics versions (both confirmed STF reissue tracks, not singles).
+
+AZLyrics paste carries writer credits + album confirmation → these are better-sourced than the Drive bulk (verified_against: AZLyrics/MusixMatch). Still `status: draft` (single-source; flip to stable on cross-check vs official release).
+
+Cleanup: dropped wrong " EP" suffix — `MAGIK EP`→`MAGIK`, `SideQuest EP`→`SideQuest`, `dumbledore EP`→`dumbledore` across Ontology IDs, Sources files, and Brain scaffolds. (Safe: no frontmatter referenced the old IDs.)
+
+---
+
 ## [2026-05-16] ingest — bulk lyrics → Sources/Lyrics/
 
 Bulk-ingested lyrics from Jen's two Google Drive docs into `Sources/Lyrics/`. 33 files total (18 from doc 2: 33/STF/singles; 13 from doc 1: Lucius Lullaby album tracks; + Welcome to the Circus and Soul Is A Star pre-existing/pilot). All `status: draft`, `verified_against: []` — transcriptions NOT yet verified against streaming. Verification is per-song at analysis time (cross-check Apple/Spotify/Letras/Shazam → record URLs → flip status to stable). Genius + Letras block Claude's fetcher; use WebSearch or manual.

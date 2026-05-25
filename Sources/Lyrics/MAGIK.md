@@ -6,7 +6,7 @@ verified_against: []
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 2)"
 ---
-# MAGIK EP — Lyrics (Source)
+# MAGIK — Lyrics (Source)
 
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
