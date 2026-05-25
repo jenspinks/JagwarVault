@@ -10,7 +10,21 @@ Action types:
 - `boundary` — change to public/private rules
 - `note` — administrative or process note
 
-For schema, see [[Claude.md]]. For content catalog, see [[index]].
+For schema, see [[CLAUDE]]. For content catalog, see [[index]].
+
+---
+
+## [2026-05-16] ingest — bulk lyrics → Sources/Lyrics/
+
+Bulk-ingested lyrics from Jen's two Google Drive docs into `Sources/Lyrics/`. 33 files total (18 from doc 2: 33/STF/singles; 13 from doc 1: Lucius Lullaby album tracks; + Welcome to the Circus and Soul Is A Star pre-existing/pilot). All `status: draft`, `verified_against: []` — transcriptions NOT yet verified against streaming. Verification is per-song at analysis time (cross-check Apple/Spotify/Letras/Shazam → record URLs → flip status to stable). Genius + Letras block Claude's fetcher; use WebSearch or manual.
+
+Added 3 new Ontology entities: SONG-PreciousTime, SONG-AllMyFriends, SONG-LifeIsGood (all Singles & EPs).
+
+Specials: The Circle (Lucius Version), Playing to the Gods, SOL = instrumental markers; Moths to the Flame = spoken text ("Civilization has been a mistake…"). SOL also carries the public video-shorts poem (URL pending).
+
+**Sources still PENDING (no lyrics in either doc — fetch later):** Another Way II Heaven; LOOP; The Watchers; dumbledore EP; tomorrow (ANGLE OF ETERNITY); Subject to Flooding tracks — Dream-Dream, Good Day, Hell Of A Night, Hell Of A Night Pt. 2, Long Time Coming, No Fake Friends, Roy Voice Memo - S1 Arrowhead, Superhuman, Superhuman (Interlude).
+
+Generators kept as one-shot scaffolds: `_System/_gen-sources-lyrics.mjs`, `_System/_gen-sources-doc1.mjs`.
 
 ---
 

@@ -104,6 +104,9 @@ hand-maintained thereafter.
 | `SONG-TheWatchers` | The Watchers | Singles & EPs |
 | `SONG-DumbledoreEP` | dumbledore EP | Singles & EPs |
 | `SONG-TomorrowANGLEOFETERNITY` | tomorrow (ANGLE OF ETERNITY) | Singles & EPs |
+| `SONG-PreciousTime` | Precious Time | Singles & EPs (2019; STF-adjacent era) |
+| `SONG-AllMyFriends` | All My Friends | Singles & EPs (2023 single, post-33) |
+| `SONG-LifeIsGood` | life is good | Singles & EPs (2023; w/ angelbaby) |
 
 ---
 
