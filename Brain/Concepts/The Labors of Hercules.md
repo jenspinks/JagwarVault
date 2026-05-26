@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-NotYourHomie, SONG-1ChampionLaConquistadora, SONG-WelcomeToTheCircus]
   strong_read: [CHAR-SirLucius, CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLabyrinth]
   resonance:   [CONCEPT-TheMirror, CONCEPT-TheCircle, CHAR-Mary]
-referenced_by: [CONCEPT-TheDwellerOnTheThreshold, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-TheDwellerOnTheThreshold, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # The Labors of Hercules

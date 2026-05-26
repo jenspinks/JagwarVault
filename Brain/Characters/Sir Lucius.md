@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, ALBUM-LuciusLullaby, SONG-WelcomeToTheCircus, SONG-Weirdness, SONG-TheCircleLuciusVersion]
   strong_read: [CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMirror, CONCEPT-TheMask, CONCEPT-TheAlgorithm, SONG-LuciusLullaby, CHAR-Mary, CHAR-TheBoss]
   resonance:   [CONCEPT-Yesod, CONCEPT-TheLightBearer, CHAR-Leif]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, SONG-LuciusLullaby, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Sir Lucius
