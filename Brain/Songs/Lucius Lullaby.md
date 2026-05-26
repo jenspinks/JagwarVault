@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, CHAR-Roy]
   strong_read: [CHAR-Mary, CONCEPT-TheMirror, CONCEPT-TheCircle, CHAR-BallerinaBoy, SONG-SOL]
   resonance:   [CONCEPT-Malkhut, CONCEPT-Yesod]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CHAR-SirLucius, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-Roy, CHAR-SirLucius, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Lucius Lullaby

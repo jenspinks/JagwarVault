@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, CHAR-Roy, ALBUM-LuciusLullaby]
   strong_read: [CONCEPT-TheMirror, CHAR-Mary, CONCEPT-TheLaborsOfHercules]
   resonance:   [CONCEPT-Yesod, CONCEPT-TheLightBearer]
-referenced_by: [CHAR-Roy, CHAR-SirLucius, CONCEPT-TheLaborsOfHercules]
+referenced_by: [CHAR-Roy, CHAR-SirLucius, CONCEPT-TheLaborsOfHercules, SONG-BALLERINABOY]
 review_date: 2026-11-16
 ---
 # The Dweller on the Threshold
