@@ -5,11 +5,11 @@ status: stable
 confidence: high
 source_quality: primary-source
 sources: [Sources/Lyrics/Not Your Homie.md]
-related: [CONCEPT-TheLaborsOfHercules, CHAR-SirLucius, SONG-WelcomeToTheCircus, SONG-LOOP, CONCEPT-TheMask]
+related: [CHAR-SirLucius, CONCEPT-TheLaborsOfHercules, SONG-WelcomeToTheCircus, SONG-SOL, CONCEPT-TheThread]
 connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, SONG-WelcomeToTheCircus, SONG-LOOP]
-  strong_read: [CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-Inversion, CHAR-Roy, SONG-HappyFace]
-  resonance:   [CONCEPT-Consumption, CONCEPT-TheAlgorithm, CONCEPT-TheCircle, CHAR-Mary]
+  strong_read: [CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-Inversion, CHAR-Roy, SONG-HappyFace, CONCEPT-TheThread, SONG-SOL, SONG-1ChampionLaConquistadora, CHAR-Mary, CHAR-BallerinaBoy]
+  resonance:   [CONCEPT-Consumption, CONCEPT-TheAlgorithm, CONCEPT-TheCircle, CONCEPT-Yesod, CONCEPT-TheMoon]
 referenced_by: [CONCEPT-TheLaborsOfHercules, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
@@ -41,10 +41,19 @@ Voiced: [[Sir Lucius]] [W] — predatory-charm register matches [[Welcome to the
 - [P] The Beast = integration not destruction. Lucius IS the Beast refined into strategy (Roy's anger/ambition/fear/charisma/survival-intelligence). Peril = Roy *serving* vs *integrating* him → resolution "my mind must serve my heart" ([[LOOP]]). "tame the beast / champion" = statement of terms more than offer-vs-taunt.
 - [P] Tragedy: Lucius isn't wrong — sincere songs underperformed ([[Ballerina Boy]], [[SOL]] overridden), childhood-bedroom bottom. "Shadow protects before it distorts." NYH = survival logic gone commercially triumphant.
 - [W] "stick it in your eye" → eye = perception; Lucius manages what you can see (resonance).
+- [P] "You don't know me" = Da'at-level knowing, not just anti-parasocial: shadow refusing *shallow* recognition; "let's not pretend" rejects spiritual bypassing / false integration. Accuses listener AND Roy of incomplete self-knowledge.
+- [P] Moon/Yesod: Lucius reflects what reaches him — fear/algorithm light → viral/dominating; source-light (faceless mother, [[SOL]], heart) → witness/bridge. "Moon trying to become a sun." Anchor (verify): Ballerina-Boy outro "even in the darkness there is light."
+- [W] El Roi ("God who sees me") on Lucius's throat (verify placement) = Da'at gate; every word passes through being-seen; camera-glances = longing for recognition not consumption. Irony: wears "seen" on the organ that says "you don't know me."
+- [W] False crown: in [[#1 Champion (la Conquistadora)]] Mary/La Conquistadora unseats Lucius's championship → here he resells a revoked crown.
+- [W] Loop, not [[The Circle|Circle]]: the repetition-structure ("pretend-tend…", "champion ×4", hooks) ENACTS trapped recursion; song went viral (form=content).
+- [P] NYH = the bargain where feeling was sacrificed ([[SOL]] suppressed, vulnerability traded). Father's "you're half the man that you know" (SOL poem) → integrate without sacrificing feeling = [[The Thread]] / "don't sacrifice what you can feel."
+- [P] Lucius wants integration AND fears it (recognition vs loss-of-rule). Protector-self craves+sabotages healing. Child performing sovereignty (apple, "you're very odd", camera-glances, Leif — verify EPs).
 
-## Open Questions
-- [ ] **Verify EP exchange** ("it's nonsense / what the people want") — episode/timestamp/URL → [[Master Source List]]. Load-bearing; anchor or downgrade.
-- [ ] Is "I'll give you this one" verbatim or paraphrase of the concession beat?
-- [ ] Who is **MERCY** (feature)? Section voiced? [?] name resonance with Kabbalah Pillar of Mercy; distinct from [[Mary]].
-- [ ] Whose rejection — Lucius→audience (leading) or Roy→Lucius?
+## Open Questions (verification debts — load-bearing)
+- [ ] Pin the **bargain scene** (SOL refused; "it's nonsense / what the people want") — EP/timestamp/URL → [[Master Source List]].
+- [ ] Verify **Ballerina-Boy moon line** ("even in the darkness there is light") against public track.
+- [ ] Verify **El Roi placement** on Lucius's throat (public photo/video) — Da'at reading depends on it.
+- [ ] Cite the **EP "child" beats** (apple, "you're very odd", camera-glances, Leif).
+- [ ] "I'll give you this one" — verbatim or paraphrase?
+- [ ] Who is **MERCY** (feature)? Section voiced? ?Pillar of Mercy; distinct from [[Mary]].
 - [ ] Verify writers/producers.
