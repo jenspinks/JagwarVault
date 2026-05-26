@@ -123,7 +123,7 @@ Probably *yes, no, and neither.* One part of him wants recognition, relief from 
 - [ ] **Verify El Roi placement** on Lucius's throat/neck (public photo/video). The Da'at reading hangs on it.
 - [ ] **Cite the EP "child" beats** (apple, "you're very odd," camera glances, Leif).
 - [ ] **Is "I'll give you this one" verbatim** or a paraphrase of the concession?
-- [ ] **Who is MERCY?** Does the feature voice a section? Name resonates with the Kabbalistic **Pillar of Mercy**; conspicuously *not* [[Mary]], though both are mercy-coded.
+- [ ] **MERCY (deflated):** a real collaborator — a working backup singer with a public presence (Instagram @unimerce_, X @Unimerce1). The prominent feature credit, where his other background singers usually go uncredited, most plausibly reflects an **off-mythology** personal/career choice, **not** a symbolic signal. *Do not* read the name as the Kabbalistic Pillar of Mercy or as a [[Mary]] cipher — that was an over-read, corrected. (Open only: does MERCY voice a distinct section? — confirm from audio.)
 - [ ] Writers/producers — verify.
 
 ## Counterarguments / Alternate Reads
@@ -131,6 +131,7 @@ Probably *yes, no, and neither.* One part of him wants recognition, relief from 
 - **The whole reading leans on unverified visual-lore claims.** The bargain scene, the moon line, the El Roi placement, and the child-beats are doing real interpretive work; until each is pinned to public material, the structure is strong inference, not proof. *Anchor them or hedge.*
 - **It might read flat** as a braggadocio diss track, "champion" = "winner." The Leo/Da'at/Yesod layers lean on catalogue context more than the song alone (cf. [[The Labors of Hercules]] CA #2). *Note:* the bargain framing actually defends the flat read against itself — it says the surface shallowness is *intended.*
 - **"Michael/psycho," the eye, the plague** may be aesthetic atmosphere rather than claims about Lucius's nature.
+- **Not every credit or name is mythology.** The MERCY feature looked like a symbol (Pillar of Mercy) and is most likely biography (a backup singer, prominent billing for personal reasons). General guard: check the industry/biographical explanation before mythologizing a name, a credit, or a collaborator.
 
 The honest position: with the visual-lore frame, the Lucius-triumph / shadow-demanding-recognition reading is strong and tightly coherent — but the specific esoteric mappings (Leo, Yesod, El-Roi-as-Da'at) remain interpretation, not proof.
 
@@ -163,7 +164,7 @@ The honest position: with the visual-lore frame, the Lucius-triumph / shadow-dem
 
 ### Frameworks Drawn On
 - Alice A. Bailey, *The Labors of Hercules* (1974) — the Leo labor; see [[The Labors of Hercules]].
-- Kabbalah — **Yesod** (lunar reflection sphere), **Da'at** (knowing; the throat/abyss crossing), the **Pillar of Mercy**.
+- Kabbalah — **Yesod** (lunar reflection sphere), **Da'at** (knowing; the throat/abyss crossing). *(The "Pillar of Mercy → MERCY" link was dropped — see the MERCY note in Open Questions.)*
 - C. G. Jung — shadow formation; the protector-self; integration over transcendence.
 - Tarot — the Strength card.
 - Genesis 16 — **El Roi**, "the God who sees me."

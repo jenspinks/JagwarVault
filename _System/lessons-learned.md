@@ -5,6 +5,16 @@ rule — so it is not repeated. Newest first. (CLAUDE.md §16.)
 
 ---
 
+## 2026-05-26 — Caught over-reading a credit as mythology
+
+**What happened.** In the Not Your Homie analysis I read the **MERCY** feature credit as symbolic — Kabbalistic Pillar of Mercy, a Mary-coded feminine presence. Jen corrected: MERCY is a real backup singer with public socials; the prominent credit (where his other background singers go uncredited) most plausibly reflects an off-mythology personal/career choice. The symbolic read was premature synthesis / totalization (CLAUDE.md §14).
+
+**Rule.** Before mythologizing a name, credit, or collaborator, check the **biographical / industry** explanation first. Not every signal is symbol. Deflate to the mundane when it fits.
+
+**Privacy note.** The fuller (relationship) explanation Jen shared is speculative AND personal — kept OUT of the vault entirely; used only as silent guidance to deflate the over-read. The public claim (MERCY = credited backup singer) stands on its own.
+
+---
+
 ## 2026-05-15 — Git: case-only rename splits from content edit
 
 **What happened.** `Claude.md` → `CLAUDE.md` is a case-only rename. On

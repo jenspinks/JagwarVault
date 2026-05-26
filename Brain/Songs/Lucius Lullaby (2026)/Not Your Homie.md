@@ -55,5 +55,5 @@ Voiced: [[Sir Lucius]] [W] — predatory-charm register matches [[Welcome to the
 - [ ] Verify **El Roi placement** on Lucius's throat (public photo/video) — Da'at reading depends on it.
 - [ ] Cite the **EP "child" beats** (apple, "you're very odd", camera-glances, Leif).
 - [ ] "I'll give you this one" — verbatim or paraphrase?
-- [ ] Who is **MERCY** (feature)? Section voiced? ?Pillar of Mercy; distinct from [[Mary]].
+- [~] **MERCY = real backup singer** (public: IG @unimerce_, X @Unimerce1). Prominent credit = likely off-mythology personal/career choice (others uncredited). [W] NOT Pillar of Mercy, NOT a [[Mary]] cipher — over-read corrected. Open: does MERCY voice a section? (audio).
 - [ ] Verify writers/producers.
