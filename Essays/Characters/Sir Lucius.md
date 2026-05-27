@@ -11,7 +11,7 @@ related: [CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMirror, CHAR-Ma
 
 - Co-credited performing artist with [[Jagwar Twin]] on [[Lucius Lullaby (album)]] (released March 27, 2026). Has his own Apple Music and Spotify artist pages. Appears in the album's premiere video series ("Sir Lucius takes over the premiere," EP 5).
 - Within the mythology: formed from [[Roy]]'s interior life. *"The mind divorced from the heart."* Roy says: *"I made you."* Lucius pulled Roy out of the bottom; the deal may have been worth it.
-- Carries the tattoo **El Roi** — Hebrew for *"the God who sees me"* (Genesis 16, Hagar's encounter). Complicates a simple antagonist reading.
+- Carries the tattoo **El Roi** — Hebrew for *"the God who sees me"* (Genesis 16, Hagar's encounter), inked **on his neck/throat** (confirmed via the EP transcript note + a head-tilted video still). Complicates a simple antagonist reading — and places "being seen" on the throat, the organ of utterance (the Da'at gate; see [[Not Your Homie]]).
 - Reads as a [[The Dweller on the Threshold|Dweller on the Threshold]] figure: self-generated from Roy's accumulated unintegrated material, mirror-anchored, unable to be defeated by force, growing in proportion to what has been disowned.
 
 ---

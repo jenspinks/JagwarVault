@@ -18,7 +18,7 @@ review_date: 2026-11-16
 The mind divorced from the heart. Co-credited artist on [[Lucius Lullaby (album)]]; own streaming pages. [W] Reads as [[The Dweller on the Threshold]] for [[Roy]].
 
 ## Origin / timeline (none unless marked)
-"I made you" (Roy). El Roi tattoo (Gen 16, "the God who sees me"). [W] Dweller does not begin — accumulates; visibility grows with what's disowned. Earliest trace 2008: **Rorrim Ehtni** = "In the Mirror" reversed (Eye Alaska, *Genesis Underground*); "(Rorrim Ehtni Lived)" → [W] phonetic "devil in the mirror"; "Legion" (Mark 5). 2023 "Good Time (1:08)" video: full face paint + Empty Mirror tattoo + "I'm a mastermind" — 3yr before the 2026 co-credit. [W] What changed in 2026 = billing, not the figure.
+"I made you" (Roy). El Roi tattoo — **Hebrew on the neck/throat** (none — EP transcript note + video still; אל ראי, reads ~"X73X" to a non-Hebrew eye), Gen 16 "the God who sees me" → Da'at gate (see [[Not Your Homie]]). [W] Dweller does not begin — accumulates; visibility grows with what's disowned. Earliest trace 2008: **Rorrim Ehtni** = "In the Mirror" reversed (Eye Alaska, *Genesis Underground*); "(Rorrim Ehtni Lived)" → [W] phonetic "devil in the mirror"; "Legion" (Mark 5). 2023 "Good Time (1:08)" video: full face paint + Empty Mirror tattoo + "I'm a mastermind" — 3yr before the 2026 co-credit. [W] What changed in 2026 = billing, not the figure.
 
 ## Three Modes [W] (Gurdjieff "many I's")
 1. Speech (Power) — cold, prophetic, invulnerable; [[Welcome to the Circus]] "final boss"; premiere speech "Get out of the way. You're welcome."

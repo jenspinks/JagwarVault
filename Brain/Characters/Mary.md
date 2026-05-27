@@ -25,13 +25,13 @@ Marker: a **faceless / face-hidden feminine presence**, often a blessing-to-shin
 | [[Lucius Lullaby]] | appears **twice, face hidden** both times | grounded (per song page; verify visual) |
 | [[#1 Champion (la Conquistadora)]] | **named**: "Mary, Mary… La Conquistadora with a gun in her hand… fawning over no man… such a Revolutionary" — unseats Lucius's championship | grounded (named in lyric) |
 | [[Weirdness]] | "she looked like an **angel baby** / but her **face was out of sight** … *stop pretending, baby / you were born to shine*" | strong_read (faceless-feminine = Mary-class) |
-| [[Ballerina Boy]] | the **moon line** voice ("even in the darkness there is light") — [?] reported as a faceless female voice (audio, verify); possibly first appearance | strong_read / verify |
+| [[Ballerina Boy]] | the **entire spoken outro** is an older *motherly* female voice (none — Jen, audio): self-discovery ("something clicks… 'this is me'"), blessing ("my son, let your light shine"), the moon line, and "there's no one else like you / out there" — the **clearest** divine-feminine appearance; possibly the earliest chronologically | grounded (audio-confirmed female voice; Mary-class read = strong) |
 
 [W] The blessing voice ("born to shine") is the structural answer to the shame-voice ("you're not a real boy", [[Ballerina Boy]]). Where [[Sir Lucius]] reflects (Yesod under distortion), Mary does not — consistent across contexts, face hidden until earned/seen.
 
 ## Open Questions
 - [ ] Why face hidden / out of sight each time — Roy's state (can't see her yet), or her own choice?
 - [ ] Archetype: biblical Mary, Magdalene, Shekinah, Anima, or a braid?
-- [ ] Is the faceless-female **voice** (Ballerina Boy, Weirdness) the same entity as **named** Mary (#1 Champion, Lucius Lullaby)? (Working assumption: yes, Mary-class. Verify by audio/credits — cf. Rachel Kanner bg-vocals question at [[Welcome to the Circus]].)
+- [~] Is the faceless-female **voice** (Ballerina Boy, Weirdness) the same entity as **named** Mary (#1 Champion, Lucius Lullaby)? Voice is now audio-confirmed female & motherly (Ballerina Boy). Unification with named-Mary stays the working assumption (Mary-class); a credits/casting source would settle it — cf. Rachel Kanner bg-vocals question at [[Welcome to the Circus]].
 - [ ] Relationship to [[Sir Lucius]]: opposition, or "two ways of relating to the same drive"?
 - [ ] Is Mary the one Roy "comes back for," or distinct from [[Ballerina Boy]] (the buried child)?
