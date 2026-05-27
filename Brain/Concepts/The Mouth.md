@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheMouth
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, CHAR-SirLucius, CHAR-Roy, SONG-BALLERINABOY, SONG-SOL]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
+  strong_read: [CHAR-Roy, SONG-BALLERINABOY, SONG-SOL, CONCEPT-TheVoice]
+  resonance:   [CONCEPT-Consumption, CONCEPT-TheAlgorithm]
+referenced_by: [CONCEPT-Consumption, CONCEPT-TheThread, CONCEPT-TheVoice, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # The Mouth / The Voice
 
 Type: Concept / Symbol

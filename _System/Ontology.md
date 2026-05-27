@@ -19,8 +19,10 @@ hand-maintained thereafter.
 | ID | Display name | Note |
 |---|---|---|
 | `CONCEPT-Consumption` | Consumption |  |
+| `CONCEPT-Duality` | Duality |  |
 | `CONCEPT-Fire` | Fire |  |
 | `CONCEPT-Inversion` | Inversion |  |
+| `CONCEPT-Nigredo` | Nigredo |  |
 | `CONCEPT-PanemEtCircenses` | Panem et Circenses |  |
 | `CONCEPT-TheAlgorithm` | The Algorithm |  |
 | `CONCEPT-TheAquarium` | The Aquarium |  |
@@ -125,6 +127,21 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 | `CONCEPT-Tiferet` | Tiferet | Kabbalah beauty/center; pending |
 | `CONCEPT-TheEmptyMirror` | The Empty Mirror | Lucius hand tattoo; pending |
 | `CONCEPT-TheAngleAngel` | The Angle/Angel | vowel/consonant, spirit/structure; pending |
+| `CONCEPT-AnimaAnimus` | Anima/Animus | Jungian feminine/masculine within; pending |
+| `CONCEPT-AlchemicalTransmutation` | Alchemical Transmutation | broader alchemy arc (Nigredo→Rubedo); pending |
+| `CONCEPT-TheLoop` | The Loop / Cycles | recurring cycles, cosmic and personal; pending |
+| `CONCEPT-TheAbyss` | The Abyss | void / dissolution threshold; pending |
+| `CONCEPT-ObjectiveArt` | Objective Art | art that transmits rather than expresses; pending |
+| `CONCEPT-SomaticCaptivity` | Somatic Captivity | body as site of constraint and suppression; pending |
+| `CONCEPT-CollectiveAmnesia` | Collective Amnesia | mass forgetting of authentic self; pending |
+| `CONCEPT-TwiceVoicedBlessing` | The Twice-Voiced Blessing | blessing that arrives at both breaking points; pending |
+| `CONCEPT-Tsimtsum` | Tsimtsum | divine contraction / withdrawal to create space; pending |
+| `CONCEPT-TikkunOlam` | Tikkun Olam | repair of the world; pending |
+| `CONCEPT-KeilimVessels` | Keilim / Vessels | vessels that hold or shatter the light; pending |
+| `CONCEPT-LiminalSpaces` | Liminal Spaces | thresholds, crossroads, in-between states; pending |
+| `CONCEPT-SacredGeometry` | Sacred Geometry | geometric forms as cosmological language; pending |
+| `CONCEPT-CosmicCycles` | Cosmic Cycles | solar/lunar/seasonal cycles in the work; pending |
+| `CONCEPT-SleepWakeUp` | Sleep / Wake Up | mechanical sleep vs. awakening; pending |
 | `CHAR-BallerinaBoy` | Ballerina Boy | buried child self; referenced, no page yet |
 | `CHAR-Leif` | Leif | Lucius sidekick mode; pending |
 | `CHAR-TheBoss` | The Boss / BMRC | whom Lucius reports to; pending |

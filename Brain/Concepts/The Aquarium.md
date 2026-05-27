@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheAquarium
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [CONCEPT-TheCircus, CONCEPT-TheLabyrinth, CONCEPT-TheAlgorithm, SONG-WelcomeToTheCircus, CONCEPT-TheDwellerOnTheThreshold]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus]
+  strong_read: [CONCEPT-TheCircus, CONCEPT-TheLabyrinth, CONCEPT-TheAlgorithm, CONCEPT-TheDwellerOnTheThreshold]
+  resonance:   [CONCEPT-Inversion, CONCEPT-TheMirror]
+referenced_by: [CONCEPT-TheLabyrinth, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # The Aquarium
 
 Type: Concept / Symbol

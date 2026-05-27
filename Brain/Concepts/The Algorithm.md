@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheAlgorithm
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [CHAR-SirLucius, SONG-WelcomeToTheCircus, CONCEPT-TheCircus, CONCEPT-TheSpectacle, SONG-HappyFace]
+connections:
+  grounded:    [CHAR-SirLucius, SONG-WelcomeToTheCircus]
+  strong_read: [CONCEPT-TheCircus, CONCEPT-TheSpectacle, SONG-HappyFace, SONG-GreatTimeToBeHuman]
+  resonance:   [CONCEPT-PanemEtCircenses, CONCEPT-Consumption]
+referenced_by: [CHAR-SirLucius, CONCEPT-PanemEtCircenses, CONCEPT-TheAquarium, CONCEPT-TheCircus, CONCEPT-TheMouth, CONCEPT-TheThread, CONCEPT-TheVoice, CONCEPT-TheWheel, SONG-NotYourHomie, SONG-Weirdness]
+review_date: 2026-11-16
+---
 # The Algorithm
 
 Type: Concept / Symbol

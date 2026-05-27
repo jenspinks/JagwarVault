@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheMask
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [CHAR-SirLucius, SONG-WelcomeToTheCircus, SONG-HappyFace, CHAR-Roy, CONCEPT-TheCircus]
+connections:
+  grounded:    [CHAR-SirLucius, SONG-WelcomeToTheCircus, SONG-HappyFace]
+  strong_read: [CHAR-Roy, CONCEPT-TheCircus, CONCEPT-TheDwellerOnTheThreshold]
+  resonance:   [CONCEPT-TheMirror, CONCEPT-Inversion]
+referenced_by: [CHAR-SirLucius, CONCEPT-TheVeil, SONG-BALLERINABOY, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # The Mask
 
 Type: Concept / Symbol

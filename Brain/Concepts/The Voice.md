@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheVoice
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, SONG-BALLERINABOY, SONG-SOL, CHAR-Roy, CONCEPT-TheMouth]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus, CHAR-Roy]
+  strong_read: [SONG-BALLERINABOY, SONG-SOL, CHAR-SirLucius, CONCEPT-TheMouth]
+  resonance:   [CONCEPT-TheAlgorithm, CONCEPT-TheCircus]
+referenced_by: [CONCEPT-TheMouth]
+review_date: 2026-11-16
+---
 # The Voice / Silence
 
 Type: Concept / Symbol

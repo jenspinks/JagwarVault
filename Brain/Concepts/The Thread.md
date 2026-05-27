@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheThread
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-TheCircle, CONCEPT-TheLabyrinth, CONCEPT-TheMouth, CHAR-Mary, SONG-WelcomeToTheCircus]
+connections:
+  grounded:    [SONG-TheCircle]
+  strong_read: [CONCEPT-TheLabyrinth, CONCEPT-TheMouth, CHAR-Mary, SONG-WelcomeToTheCircus]
+  resonance:   [CONCEPT-Inversion, CONCEPT-TheAlgorithm]
+referenced_by: [CONCEPT-TheLabyrinth, SONG-BALLERINABOY, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # The Thread
 
 Type: Concept / Symbol

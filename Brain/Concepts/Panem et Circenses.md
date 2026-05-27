@@ -1,3 +1,18 @@
+---
+id: CONCEPT-PanemEtCircenses
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [CONCEPT-TheCircus, SONG-WelcomeToTheCircus, CONCEPT-TheAudience, CONCEPT-TheSpectacle, CONCEPT-Consumption]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus]
+  strong_read: [CONCEPT-TheCircus, CONCEPT-TheAudience, CONCEPT-TheSpectacle]
+  resonance:   [CONCEPT-Consumption, CONCEPT-TheAlgorithm]
+referenced_by: [CONCEPT-Consumption, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheCircus, CONCEPT-TheSpectacle]
+review_date: 2026-11-16
+---
 # Panem et Circenses
 
 Type: Concept / Reference

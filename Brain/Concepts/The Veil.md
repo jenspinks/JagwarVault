@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheVeil
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, CHAR-SirLucius, CHAR-Roy, CONCEPT-TheMask, CONCEPT-TheSpectacle]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
+  strong_read: [CONCEPT-TheMask, CONCEPT-TheSpectacle, CHAR-Roy]
+  resonance:   [CONCEPT-Inversion, CONCEPT-TheMirror]
+referenced_by: []
+review_date: 2026-11-16
+---
 # The Veil / The Curtain
 
 Type: Concept / Symbol

@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheAudience
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, CHAR-SirLucius, CONCEPT-TheCircus, CONCEPT-TheSpectacle, CHAR-Roy]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
+  strong_read: [CONCEPT-TheCircus, CONCEPT-TheSpectacle, CHAR-Roy]
+  resonance:   [CONCEPT-Consumption, CONCEPT-PanemEtCircenses]
+referenced_by: [CONCEPT-Consumption, CONCEPT-PanemEtCircenses, CONCEPT-TheCircus, CONCEPT-TheSpectacle, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # The Audience
 
 Type: Concept / Symbol

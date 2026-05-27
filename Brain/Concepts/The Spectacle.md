@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheSpectacle
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, CONCEPT-TheCircus, CHAR-SirLucius, CONCEPT-TheAudience, CONCEPT-Inversion]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
+  strong_read: [CONCEPT-TheCircus, CONCEPT-TheAudience, SONG-HappyFace]
+  resonance:   [CONCEPT-Inversion, CONCEPT-PanemEtCircenses]
+referenced_by: [CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheCircus, CONCEPT-TheVeil, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # The Spectacle
 
 Type: Concept / Symbol

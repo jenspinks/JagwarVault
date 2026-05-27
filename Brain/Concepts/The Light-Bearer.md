@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheLightBearer
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [CHAR-SirLucius, SONG-WelcomeToTheCircus, CONCEPT-Inversion, CONCEPT-TheCircus, CONCEPT-TheMirror]
+connections:
+  grounded:    [CHAR-SirLucius, SONG-WelcomeToTheCircus]
+  strong_read: [CONCEPT-Inversion, CONCEPT-TheCircus, CONCEPT-TheMirror]
+  resonance:   [CONCEPT-Yesod, CONCEPT-TheDwellerOnTheThreshold]
+referenced_by: [CHAR-SirLucius, CONCEPT-Fire, CONCEPT-Inversion, CONCEPT-TheDwellerOnTheThreshold, SONG-Weirdness]
+review_date: 2026-11-16
+---
 # The Light-Bearer
 
 Type: Concept / Symbol

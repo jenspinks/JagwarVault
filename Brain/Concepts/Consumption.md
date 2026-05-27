@@ -1,3 +1,18 @@
+---
+id: CONCEPT-Consumption
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, CHAR-SirLucius, CONCEPT-TheCircus, CONCEPT-TheMouth, CONCEPT-TheAudience]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
+  strong_read: [CONCEPT-TheCircus, CONCEPT-TheMouth, CONCEPT-TheAudience, SONG-ILikeToParty]
+  resonance:   [CONCEPT-PanemEtCircenses, CONCEPT-Inversion]
+referenced_by: [CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheMouth, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # Consumption
 
 Type: Concept / Symbol

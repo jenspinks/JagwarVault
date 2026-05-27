@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheLabyrinth
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, CONCEPT-TheThread, CONCEPT-TheCircus, CHAR-SirLucius, CONCEPT-TheLaborsOfHercules]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus]
+  strong_read: [CONCEPT-TheThread, CONCEPT-TheCircus, CHAR-SirLucius, CONCEPT-TheLaborsOfHercules]
+  resonance:   [CONCEPT-TheAquarium, CHAR-Mary]
+referenced_by: [CONCEPT-TheAquarium, CONCEPT-TheCircus, CONCEPT-TheLaborsOfHercules, CONCEPT-TheThread, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # The Labyrinth
 
 Type: Concept / Symbol

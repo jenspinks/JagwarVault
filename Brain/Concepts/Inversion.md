@@ -1,3 +1,18 @@
+---
+id: CONCEPT-Inversion
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, CONCEPT-TheCircus, CHAR-SirLucius, CONCEPT-TheLightBearer, CONCEPT-TheMirror]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
+  strong_read: [CONCEPT-TheCircus, CONCEPT-TheLightBearer, CONCEPT-TheMirror]
+  resonance:   [CONCEPT-Yesod, CONCEPT-Tiferet]
+referenced_by: [CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-TheAquarium, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheSpectacle, CONCEPT-TheThread, CONCEPT-TheVeil, CONCEPT-TheWheel, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # Inversion
 
 Type: Concept / Symbol

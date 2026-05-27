@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheCircus
+type: concept
+status: draft
+confidence: high
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, CHAR-SirLucius, CONCEPT-TheAlgorithm, CONCEPT-TheSpectacle, CONCEPT-TheLabyrinth]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
+  strong_read: [CONCEPT-TheAlgorithm, CONCEPT-TheSpectacle, CONCEPT-TheAudience, CONCEPT-TheLabyrinth]
+  resonance:   [CONCEPT-PanemEtCircenses, CONCEPT-TheCircle]
+referenced_by: [CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-Inversion, CONCEPT-Nigredo, CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAquarium, CONCEPT-TheAudience, CONCEPT-TheLabyrinth, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheSpectacle, CONCEPT-TheVoice, CONCEPT-TheWheel, SONG-WelcomeToTheCircus]
+review_date: 2026-11-16
+---
 # The Circus
 
 Type: Concept / Symbol

@@ -1,3 +1,18 @@
+---
+id: CONCEPT-TheWheel
+type: concept
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: []
+related: [SONG-WelcomeToTheCircus, CONCEPT-TheCircus, CONCEPT-Inversion, CONCEPT-Fire, CONCEPT-TheAlgorithm]
+connections:
+  grounded:    [SONG-WelcomeToTheCircus]
+  strong_read: [CONCEPT-TheCircus, CONCEPT-Inversion, CONCEPT-Fire]
+  resonance:   [CONCEPT-TheCircle, CONCEPT-TheAlgorithm]
+referenced_by: [CONCEPT-Fire]
+review_date: 2026-11-16
+---
 # The Wheel
 
 Type: Concept / Symbol
