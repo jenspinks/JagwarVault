@@ -1,7 +1,7 @@
 # Hell Of A Night
 
 **Album:** [[Subject to Flooding (album)]] (2018, Atlantic Records)
-**Track:** 10 of 11
+**Track:** 10 of 13
 **Status:** Stub — not yet analyzed
 
 ---

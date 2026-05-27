@@ -1,7 +1,7 @@
 # Hell Of A Night Pt. 2 (The Hallelujah Stickup)
 
 **Album:** [[Subject to Flooding (album)]] (2018, Atlantic Records)
-**Track:** 11 of 11
+**Track:** 11 of 13
 **Status:** Stub — not yet analyzed
 
 ## Notes

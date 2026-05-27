@@ -1,7 +1,7 @@
 # Loser
 
 **Album:** [[Subject to Flooding (album)]] (2018, Atlantic Records)
-**Track:** 3 of 11
+**Track:** 3 of 13
 **Released as single:** September 7, 2018 (debut single, premiered on Zane Lowe / Beats 1)
 **Status:** Stub — not yet analyzed
 
