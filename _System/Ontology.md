@@ -131,6 +131,7 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 | `CONCEPT-Rubedo` | Rubedo | alchemical completion / integration achieved; pending |
 | `CONCEPT-OrbitReturn` | Orbit / Return | orbit = sustained distance; return = transformative approach; pending |
 | `CONCEPT-TheSpeakerProblem` | The Speaker Problem | Brandon/Roy/JT/Lucius/lyrical-I layering; pending |
+| `CONCEPT-FlattenedIdentity` | Flattened Identity | identity compressed into social role or utility; rich/poor/prophet/priest collapse; pending |
 | `CONCEPT-AnimaAnimus` | Anima/Animus | Jungian feminine/masculine within; pending |
 | `CONCEPT-AlchemicalTransmutation` | Alchemical Transmutation | broader alchemy arc (Nigredo→Rubedo); pending |
 | `CONCEPT-TheLoop` | The Loop / Cycles | recurring cycles, cosmic and personal; pending |

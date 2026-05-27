@@ -1,10 +1,10 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["AZLyrics.com (licensed via MusixMatch)"]
+status: stable
+verified_against: ["Apple Music streaming (Jen, 2026-05-27) — overrides AZLyrics: 'the lost, not the famous' confirmed; AZLyrics had 'framers' (error)"]
 ingested: 2026-05-16
-ingest_source: "AZLyrics.com (pasted by Jen)"
+ingest_source: "AZLyrics.com (pasted by Jen); corrected 2026-05-27 against Apple Music"
 ---
 # Long Time Coming — Lyrics (Source)
 
@@ -55,7 +55,7 @@ And they know, yeah, they know, that we ain't never running
 Ayy, it's been a long time coming
 
 This one's for the faceless
-Yeah, the lost, not the framers
+Yeah, the lost, not the famous
 And this one's for the dreamers
 Yeah, the beatdown believers, yeah
 
@@ -67,5 +67,5 @@ Ayy, it's been a long time coming
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen). Single-source; cross-check against official release to flip `status` to `stable`.
-- Note for analysis: 2018 mirror/disguise motif ("every night when I look in the mirror / I see the disguise on my face getting clearer") — early Lucius/mask seed. Travis Barker co-write.
+- Ingested 2026-05-16 from AZLyrics. Corrected 2026-05-27 against Apple Music streaming (Jen): "the lost, not the famous" — AZLyrics had "framers" (error). Status flipped to stable.
+- Note for analysis: 2018 mirror/disguise motif ("every night when I look in the mirror / I see the disguise on my face getting clearer") — earliest lyric anchor for protector/mask structure. Travis Barker co-write.
