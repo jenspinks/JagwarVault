@@ -21,17 +21,20 @@ related: [CHAR-SirLucius, CONCEPT-TheLaborsOfHercules, SONG-WelcomeToTheCircus, 
 
 ## Grounded
 
-- **Placement & credits:** Track 11 on [[Lucius Lullaby (album)]]; pre-album single. Credited artists: Jagwar Twin, **MERCY**, and Sir Lucius. The credit itself matters — Lucius is named as a *co-maker inside the system*, not a costume.
+- **Placement & credits:** Track 11 on [[Lucius Lullaby (album)]]; pre-album single, **released October 31, 2025**. Credited artists: Jagwar Twin, **MERCY**, and Sir Lucius. The credit itself matters — Lucius is named as a *co-maker inside the system*, not a costume. The writing/production credits are now verified (Qobuz, corroborated by Apple/Shazam): written by **Roy English, Mercedes Colletta Britton, and David ("Dave") Burris**; produced by Jagwar Twin and Dave Burris; mixed and vocal-produced by Roy English; mastered by Dale Becker and Noah McCorkle. (On **MERCY**, see Open Questions — the credits resolve her identity.)
 - **The official chain:** the press rollout names a three-single sequence — **LOOP → Not Your Homie → Welcome to the Circus** — *one path seeks clarity beyond the system, the other chooses to master it from within* (antiMusic, Jan 16 2026).
 - **The anchor line:** *"if you choose to tame the beast / you got to prove yourself to be / a champion."* The strongest public anchor for the Hercules/Leo reading (see [[The Labors of Hercules]]).
 - **The nursery-rhyme spine:** *"ringing rosies, my pocket's full of posies … Ashes, ashes, we all fall down"* ("Ring a Ring o' Roses").
-- **Claims pending public-source verification** (load-bearing; see Open Questions): the visual-lore *bargain* scene (SOL refused → "it's nonsense"); the Ballerina-Boy *moon* line; the placement of Lucius's **El Roi** tattoo on the throat; the EP "child" behaviors.
+- **The bargain — episode now pinned:** the *structure* of the bargain (Roy believes in a sincere new song; past failures breed doubt; Lucius pushes "not your homie" as "the only way" and wins) is grounded in the official description of **The Interview EP2, "The Rise of sir lucius"** (Oct 1, 2025; Jagwar Twin YouTube — see [[Master Source List]] §2). What remains unverified is the *verbatim dialogue* ("it's nonsense / what the people want," "I'll give you this one") — that lives in the video's audio — and *which* sincere song is refused (the episode says only "his new song"; see Open Questions).
+- **Claims still pending public-source verification** (load-bearing; see Open Questions): the verbatim bargain dialogue; the Ballerina-Boy *moon* line (and whether it's a female voice); the placement of Lucius's **El Roi** tattoo on the throat; the EP "child" behaviors.
 
-## The Bargain — SOL Refused *(visual-lore narrative; verify EP/URL)*
+## The Bargain *(episode pinned; verbatim dialogue still to verify)*
 
-The interpretive skeleton comes from the Interview series. Roy brings **[[SOL|the Song of Love]]** — among the most sincere things he's written. Lucius refuses it: audiences don't want vulnerability, sincerity loses, [[Ballerina Boy]] underperformed, survival requires hits, *people depend on Roy financially*, the system rewards spectacle. He offers leverage, virality, escape from powerlessness — and plays the demo. Its first words: *"You're not my homie."* Roy protests, *"It doesn't mean anything."* Lucius: *"Exactly. It's nonsense. It's all nonsense."*
+The interpretive skeleton comes from **The Interview** series, and the relevant episode is now identified: **EP2, "The Rise of sir lucius"** (Oct 1, 2025; [[Master Source List]] §2). Its official description states the shape directly — *"ROY believes in his new song, but after failures in the past, doubt lingers. Sir lucius steps forward with 'not your homie,' convincing ROY it's the only way."* So the **structure** is grounded: a sincere song Roy believes in, a history of underperformance, and Lucius pushing the caricature as the only viable path — and winning.
 
-That exchange is the key to the whole track, which is why pinning it to a public episode/timestamp matters so much (Open Questions). It tells us the emptiness is **engineered**, and it stages the moment Roy *concedes* — the spiritually catastrophic beat. Not the aggression; the giving-in.
+Two honest caveats remain. First, the *exact dialogue* — Lucius refusing the song; playing a demo whose first words are *"You're not my homie"*; Roy protesting *"it doesn't mean anything"*; Lucius answering *"Exactly. It's nonsense. It's all nonsense"* — lives in the episode's **audio**, which I can't transcribe from text; it should be confirmed by watching, with a timestamp. Second, the song Roy brings: the episode says only *"his new song,"* not **[[SOL]]** by name. The catalogue's *SOL → Welcome to the Circus* override reads as a **distinct, later beat** (per the EP3 note in [[Master Source List]] §2), so framing the *NYH* bargain specifically as "SOL refused" may conflate two different override moments. Held as: the NYH bargain is EP2 and is real; the identity of the refused song there is open.
+
+The reason this matters so much is that the bargain tells us the emptiness is **engineered**, and it stages the moment Roy *concedes* — the spiritually catastrophic beat. Not the aggression; the giving-in.
 
 ## Strong Read
 
@@ -118,13 +121,14 @@ Probably *yes, no, and neither.* One part of him wants recognition, relief from 
 
 ## Open Questions
 
-- [ ] **Pin the bargain scene** ("it's nonsense / what the people want," SOL refused) — episode, timestamp, URL → [[Master Source List]]. Load-bearing; anchor or downgrade.
-- [ ] **Verify the Ballerina-Boy moon line** ("even in the darkness there is light") against the public track/video.
+- [~] **Bargain scene — episode pinned (Oct 1, 2025, "The Rise of sir lucius," EP2); dialogue not.** The structure is grounded by the official episode description (above; [[Master Source List]] §2). Still open: the *verbatim* dialogue ("it's nonsense / what the people want") with a timestamp — audio-only — and the original "I'll give you this one" concession.
+- [ ] **Which sincere song does Lucius refuse for NYH?** EP2 says only "his new song." The [[SOL]]→[[Welcome to the Circus]] override may be a *separate* EP3 beat, so the "SOL refused" framing may belong there, not to the NYH bargain. Disambiguate by watching EP2 vs EP3.
+- [ ] **Verify the Ballerina-Boy moon line** ("even in the darkness there is light") against the public track/video — and whether it's a female voice.
 - [ ] **Verify El Roi placement** on Lucius's throat/neck (public photo/video). The Da'at reading hangs on it.
 - [ ] **Cite the EP "child" beats** (apple, "you're very odd," camera glances, Leif).
-- [ ] **Is "I'll give you this one" verbatim** or a paraphrase of the concession?
-- [ ] **MERCY (deflated):** a real collaborator — a working backup singer with a public presence (Instagram @unimerce_, X @Unimerce1). The prominent feature credit, where his other background singers usually go uncredited, most plausibly reflects an **off-mythology** personal/career choice, **not** a symbolic signal. *Do not* read the name as the Kabbalistic Pillar of Mercy or as a [[Mary]] cipher — that was an over-read, corrected. (Open only: does MERCY voice a distinct section? — confirm from audio.)
-- [ ] Writers/producers — verify.
+- [ ] **Is "I'll give you this one" verbatim** or a paraphrase of the concession? (Audio.)
+- [x] **MERCY — RESOLVED (public credits).** The track's credits (Qobuz, corroborated by Apple/Shazam) list "**Mercy**" as *Vocalist, Main Artist, Background Vocalist*, legal name **Mercedes Colletta Britton** — the same person credited as a **co-writer** (ComposerLyricist). So MERCY is a real collaborator who co-wrote and sang backing vocals: confirmed biography, **not** the Kabbalistic Pillar of Mercy and **not** a [[Mary]] cipher (over-read, corrected). The only sub-question left is whether she voices a distinct *lead* section, which would need audio. (Public presence: Instagram @unimerce_, X @Unimerce1.)
+- [x] **Writers/producers — DONE.** Written by Roy English, Mercedes Colletta Britton, Dave Burris; produced by Jagwar Twin + Dave Burris; mix/vocal-prod Roy English; mastered by Dale Becker, Noah McCorkle. (Qobuz; see Grounded + [[Master Source List]].)
 
 ## Counterarguments / Alternate Reads
 
@@ -153,11 +157,12 @@ The honest position: with the visual-lore frame, the Lucius-triumph / shadow-dem
 ## Sources
 
 ### Song & Official Release
-- "Not Your Homie" — Jagwar Twin, MERCY, Sir Lucius; on *Lucius Lullaby* (2026). Pre-album single. (Streaming URLs to add at verification.)
+- "Not Your Homie" — Jagwar Twin, MERCY, Sir Lucius; on *Lucius Lullaby* (2026). Pre-album single, **released October 31, 2025**.
+- **Credits** (verified 2026-05-26 via [Qobuz](https://www.qobuz.com/us-en/album/not-your-homie-jagwar-twin-mercy-sir-lucius/asgdylzf6a8pa), corroborated by Apple Music / Shazam): writers Roy English, Mercedes Colletta Britton, Dave Burris; producers Jagwar Twin + Dave Burris; mix/vocal-prod Roy English; mastering Dale Becker, Noah McCorkle. "Mercy" (Mercedes Colletta Britton) credited Vocalist/Main Artist/Background Vocalist.
 - Lyrics: [[Not Your Homie]] (Sources/Lyrics) — from AZLyrics, pending official cross-check.
 
 ### Visual Lore Series (Jagwar Twin YouTube channel)
-- *The Interview* series — the bargain scene (SOL refused; "it's nonsense / what the people want"); the "child" behaviors. **Specific EPs, timestamps, URLs pending verification** (Open Questions; cross-ref [[Master Source List]]).
+- *The Interview* **EP2, "The Rise of sir lucius"** (Oct 1, 2025) — the bargain scene; official description grounds the structure (sincere song vs. NYH; Lucius wins). Full episode map + URLs in [[Master Source List]] §2. **Still pending:** verbatim dialogue + timestamp; which sincere song is refused; the "child" behaviors (Open Questions).
 
 ### Press
 - "Jagwar Twin Streaming 'Welcome To The Circus'" — antiMusic, Jan 16 2026 — the LOOP → Not Your Homie → Welcome to the Circus chain.

@@ -15,12 +15,12 @@ review_date: 2026-11-16
 ---
 # Not Your Homie
 
-Track 11, *Lucius Lullaby*. Pre-album single. Credited: Jagwar Twin, **MERCY**, Sir Lucius (none). Middle of the public chain **LOOP → Not Your Homie → Welcome to the Circus** (antiMusic press, none). [?] writers/producers unverified.
+Track 11, *Lucius Lullaby*. Pre-album single, **released Oct 31, 2025** (none — streaming). Credited: Jagwar Twin, **MERCY**, Sir Lucius (none). Middle of the public chain **LOOP → Not Your Homie → Welcome to the Circus** (antiMusic press, none). Credits (none — Qobuz/Apple, verified 2026-05-26): writers **Roy English, Mercedes Colletta Britton, Dave Burris**; producers Jagwar Twin + Dave Burris; mix/vocal-prod Roy English; master Becker + McCorkle. → [[Master Source List]].
 
-**Frame:** *strategic* nonsense — Lucius demonstrating the algorithm rewards caricature over authenticity, and being right. Shallowness = thesis, not failure. EP intro (none, verify EP/URL): *"This is what the people want… It doesn't mean anything… Exactly. It's nonsense."* [?] "I'll give you this one" (Roy's concession) — verify verbatim.
+**Frame:** *strategic* nonsense — Lucius demonstrating the algorithm rewards caricature over authenticity, and being right. Shallowness = thesis, not failure. The bargain is staged in **The Interview EP2 ("The Rise of sir lucius," Oct 1 2025**, public — none): official desc = *"ROY believes in his new song, but after failures in the past, doubt lingers. Sir lucius steps forward with 'not your homie,' convincing ROY it's the only way."* → grounds the bargain STRUCTURE (sincere song vs. NYH; Lucius wins). [?] Verbatim dialogue (*"It doesn't mean anything… Exactly. It's nonsense"*; *"I'll give you this one"*) is in-video AUDIO — not text-confirmed; verify by watching. [?] Whether the refused song = [[SOL]] specifically: EP2 desc says only "his new song"; the SOL→WTTC override reads as a *distinct* EP3 beat (see OQ).
 
 ## Voicing
-Voiced: [[Sir Lucius]] [W] — predatory-charm register matches [[Welcome to the Circus]] ("classy and snazzy… but I'll end your life" ≈ pleasant surface / lethal content). [?] The "you're not my homie" rejection's *target* is ambiguous: Lucius pushing the audience away, or Roy pushing Lucius away. MERCY feature may voice a part — unconfirmed.
+Voiced: [[Sir Lucius]] [W] — predatory-charm register matches [[Welcome to the Circus]] ("classy and snazzy… but I'll end your life" ≈ pleasant surface / lethal content). [?] The "you're not my homie" rejection's *target* is ambiguous: Lucius pushing the audience away, or Roy pushing Lucius away. MERCY (Mercedes Colletta Britton) is credited **Background Vocalist** (none — Qobuz), so she sings backing here; whether she also voices a distinct *lead* section = audio-open.
 
 ## Loaded Phrases → entities
 - "Ring around the rosie / pocket full of posies / Ashes, ashes, we all fall down" → [W] nursery-rhyme spine, folk-linked to plague/death; weaponized
@@ -50,10 +50,11 @@ Voiced: [[Sir Lucius]] [W] — predatory-charm register matches [[Welcome to the
 - [P] Lucius wants integration AND fears it (recognition vs loss-of-rule). Protector-self craves+sabotages healing. Child performing sovereignty (apple, "you're very odd", camera-glances, Leif — verify EPs).
 
 ## Open Questions (verification debts — load-bearing)
-- [ ] Pin the **bargain scene** (SOL refused; "it's nonsense / what the people want") — EP/timestamp/URL → [[Master Source List]].
-- [ ] Verify **Ballerina-Boy moon line** ("even in the darkness there is light") against public track.
+- [~] **Bargain scene — episode PINNED, dialogue not.** Located: The Interview EP2 ("The Rise of sir lucius," Oct 1 2025, [yt H1lGRYY6204→xCwa3S7P8Jk]) → [[Master Source List]] §2. Official desc grounds the *structure* (sincere song vs. NYH; Lucius "convincing ROY it's the only way"). STILL OPEN (audio): verbatim *"it's nonsense / what the people want"* + timestamp.
+- [ ] **Which song does Lucius refuse for NYH?** EP2 desc says only "his new song." [?] The [[SOL]]→WTTC override may be a *separate* EP3 beat (per [[Master Source List]] §2 EP3 note) — so "SOL refused" may belong to the WTTC bargain, not the NYH bargain. Disambiguate by watching EP2 vs EP3.
+- [ ] Verify **Ballerina-Boy moon line** ("even in the darkness there is light") against public track — AUDIO (female voice?).
 - [ ] Verify **El Roi placement** on Lucius's throat (public photo/video) — Da'at reading depends on it.
-- [ ] Cite the **EP "child" beats** (apple, "you're very odd", camera-glances, Leif).
-- [ ] "I'll give you this one" — verbatim or paraphrase?
-- [~] **MERCY = real backup singer** (public: IG @unimerce_, X @Unimerce1). Prominent credit = likely off-mythology personal/career choice (others uncredited). [W] NOT Pillar of Mercy, NOT a [[Mary]] cipher — over-read corrected. Open: does MERCY voice a section? (audio).
-- [ ] Verify writers/producers.
+- [ ] Cite the **EP "child" beats** (apple, "you're very odd", camera-glances, Leif) — AUDIO/video, candidate EP1–3.
+- [ ] "I'll give you this one" — verbatim or paraphrase? (AUDIO, EP2/EP3.)
+- [x] ~~MERCY = backup singer / not mythology~~ **RESOLVED (none — Qobuz/Apple credits):** "Mercy" = Vocalist/Main Artist/**Background Vocalist**, legal name **Mercedes Colletta Britton**, also co-writer (ComposerLyricist). Real collaborator, NOT Pillar of Mercy / NOT a [[Mary]] cipher. (Sub-open: distinct *lead* section vs. backing only — audio.)
+- [x] ~~Verify writers/producers~~ **DONE (none — Qobuz):** Roy English, Mercedes Colletta Britton, Dave Burris (writers); Jagwar Twin + Dave Burris (prod). See top + [[Master Source List]].

@@ -32,13 +32,20 @@ For attribution rules, see [[Boundaries]].
 | "Happy Face" | — | early Jagwar Twin |
 | "I Like to Party" | 2022 | dir. Kyle Vorbach, Los Angeles |
 | "Good Time (1:08)" | October 11, 2023 | "Empty Mirror" tattoo + face paint visible; "I'm a mastermind" lyric |
+| "BALLERINA BOY" | June 13, 2025 | standalone single, 3 tracks / ~9 min; **kept OFF** *Lucius Lullaby* (absence reads as significant). Label: ℗ 2025 **Big Loud Rock, under exclusive license to Mercury Records (UMG)** ([Apple Music](https://music.apple.com/cd/album/ballerina-boy-single/1817557629)). Other 2 tracks not yet pinned. |
 | "LOOP" | 2025 | Roy single, not on album; first in pattern-breaking chain |
-| "Not Your Homie" | — | with MERCY, Sir Lucius; on *Lucius Lullaby*; contains "tame the Beast / champion" lyric |
+| "Not Your Homie" | October 31, 2025 | with MERCY, Sir Lucius; on *Lucius Lullaby*; contains "tame the Beast / champion" lyric. Credits verified — see note below. |
 | "welcome to the circus" | January 16, 2026 | with Sir Lucius; track 4 on *Lucius Lullaby* |
 | "Lucius Lullaby" | — | title track; childhood-bedroom origin |
 | "SOL" | — | track 14 on *Lucius Lullaby*; track Lucius cannot metabolize |
 
 Streaming and store links available via [Jagwar Twin's official site](https://jagwartwin.com/) and Apple Music / Spotify.
+
+**Verified credits — "Not Your Homie"** (via [Qobuz](https://www.qobuz.com/us-en/album/not-your-homie-jagwar-twin-mercy-sir-lucius/asgdylzf6a8pa), corroborated by Apple Music / Shazam / Spotify; verified 2026-05-26):
+- **ComposerLyricists:** Roy English, **Mercedes Colletta Britton**, David ("Dave") Burris
+- **Producers:** Jagwar Twin (Roy English), Dave Burris
+- **Mixing Engineer / Vocal Producer:** Roy English · **Mastering:** Dale Becker, Noah McCorkle
+- **MERCY identity (resolved):** the artist credited "Mercy" = *Vocalist, Main Artist, Background Vocalist*; legal name **Mercedes Colletta Britton** — same person also credited as ComposerLyricist. This publicly confirms MERCY is a real collaborator/co-writer/background vocalist, **not** a Kabbalistic "Pillar of Mercy" or a [[Mary]] cipher (over-read, corrected).
 
 ---
 
@@ -55,6 +62,8 @@ The narrative backbone of the *Lucius Lullaby* rollout. Public, citable, primary
 | *sir lucius takes over the "lucius lullaby" premiere (EP 5)* | March 23, 2026 | https://www.youtube.com/watch?v=aCftmfU_YpA | Lucius solo speech to label heads; *"Get out of the way. You're welcome."* |
 | EP 6 (kidnapping arc) | March 2026 | URL pending verification | Roy posts STOP SIR LUCIUS flyers; gets grabbed |
 | *"lucius lullaby" ROY's listening party (EP 7)* | March 30, 2026 | https://www.youtube.com/watch?v=m0RHiBe9il0 | Bound-Roy listening party; moth speech (prefigures track 6) |
+
+> **Do not confuse with "The Mirror Sessions."** "The Mirror Sessions" is a *separate, earlier* Jagwar Twin docuseries/podcast (c. 2023–24) in which **Roy interviews other people** (e.g. Briana Cuoco, Paris Berelc, AlmondMilkHunni, Mali-Koa). It is **not** the *Lucius Lullaby* lore narrative — that is "**The Interview**" / "**The Spoon**" EP series above. Any vault claim attributed to "the Mirror Sessions" (e.g. the [[Ballerina Boy]] inner-child / future-self account) must be re-checked against the correct series before it can be cited as Grounded — the attribution may be a conflation. Episode URLs for The Mirror Sessions still pending (Jagwar Twin YouTube channel). *(Disambiguation logged 2026-05-26.)*
 
 ---
 

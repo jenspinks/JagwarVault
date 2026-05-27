@@ -8,7 +8,7 @@ related: [CHAR-BallerinaBoy, CHAR-Roy, CHAR-SirLucius, SONG-Weirdness, CHAR-Mary
 # Ballerina Boy
 
 ## Album / Project
-- Standalone single (2025, Big Loud Rock — *verify*). **Not on [[Lucius Lullaby (album)]]**, despite the pre-album window — and the absence is part of the meaning.
+- Standalone single, **released June 13, 2025** (Apple Music); a 3-track release (~9 min). Label: ℗ 2025 **Big Loud Rock, under exclusive license to Mercury Records (UMG)**. **Not on [[Lucius Lullaby (album)]]**, despite the pre-album window — and the absence is part of the meaning. *(Why it was kept off the album is not publicly stated — that reading is interpretation, not fact.)*
 
 ## Lyrics
 
@@ -27,7 +27,7 @@ Everything here is in the public lyric — Roy released this story himself:
 - **The loop forward:** at 17 he starts a band, *"music just wasn't landing,"* couldn't afford an egg McMuffin — and the chant returns: *"you're not a real boy / what makes a real boy?"*
 - **The fork:** *"Do I kill myself or come back for that kid I let go / This song's for Ballerina Boy / This song's a prayer for hope."*
 - **The blessing (spoken outro):** *"You are one of a kind, God's design / So my son, let your light shine,"* then *"the moon reminds us that even in the darkness / there is light."*
-- **Release:** standalone single, kept off *Lucius Lullaby.*
+- **Release:** standalone single (June 13, 2025; Big Loud Rock / Mercury, UMG), kept off *Lucius Lullaby.*
 
 ## Strong Read
 
@@ -67,9 +67,9 @@ And there is a **cross-cutting figure to track.** Per your ear, the moon line is
 ## Open Questions / Verification
 
 - [ ] **The faceless female voice** on the moon line — confirm by audio. If so, this is an early (first?) divine-feminine-voice appearance.
-- [ ] **The Mirror Sessions inner-child account** (Roy returning meditatively to the boy, a future-self voice answering) — corroborates the rescue-ritual reading powerfully, but must be pinned to a **public** Mirror Sessions episode/URL before it can be cited as Grounded. Flag, don't assert.
-- [ ] **Lucius's EP mockery** of Ballerina Boy ("lowest-performing… vulnerability loses") — pin episode/URL.
-- [ ] **Release metadata** (2025 / Big Loud Rock) and **why it was kept off the album.**
+- [ ] **The "inner-child account" — re-check which series (possible conflation).** The meditative return-to-the-boy / future-self-voice account was attributed to *"The Mirror Sessions,"* but that title belongs to a **separate 2023–24 docuseries in which Roy interviews other people** (Briana Cuoco, Paris Berelc…), not the *Lucius Lullaby* lore. The account must be re-located to the correct public series + episode/URL before it can be cited as Grounded. Flag, don't assert. (See [[Master Source List]] §2 disambiguation note.)
+- [ ] **Lucius's EP mockery** of Ballerina Boy ("lowest-performing… vulnerability loses") — candidate location is the bargain in **The Interview EP2/EP3** (where Lucius invokes past failures to push *not your homie*); but the verbatim mockery is in the episode **audio** and is not yet confirmed. Pin episode + timestamp.
+- [x] **Release metadata — confirmed.** Released **June 13, 2025**; ℗ 2025 Big Loud Rock, under exclusive license to Mercury Records (UMG) (Apple Music). *Why* it was kept off the album remains unstated publicly — interpretation, not fact.
 - [ ] **Who is "you"** in *"no one understands me but you always listen"* — the buried child, a person, or the divine? The refrain's *"nobody else is like you / out there"* may address the child himself.
 
 ## Counterarguments / Alternate Reads
@@ -80,28 +80,28 @@ And there is a **cross-cutting figure to track.** Per your ear, the moon line is
 
 ## Connections
 
-| Song / Source | Relationship |
-| --- | --- |
-| [[Sir Lucius]] | Lucius is what grows around this grave; he mocks the song to defend his own necessity. |
-| [[Not Your Homie]] | Opposite poles of one wound: shadow says *you don't know me*; the child says *come back for me.* To know Lucius, Roy must know Ballerina Boy. |
-| [[Happy Face]] | The coping mechanism the wound installs (*"if you're sad don't let it show"*). |
-| [[Weirdness]] | Healing pair — the faceless feminine voice; *"you were born to shine"* answers *"you're not a real boy."* |
-| [[Welcome to the Circus]] | The public spectacle of the system whose private origin is this song. |
-| [[The Circle]] / [[The Thread]] | Rescue from the *inside of the inside*; the buried feeling retrieved, not traded. |
-| [[SOL]] | The love-current the rescue moves toward; the song Lucius overrides. |
-| [[Another Way II Heaven]] | The metaphysical map ("one become two… I was still I"); Ballerina Boy is its lived version. |
-| [[Soul Is A Star]] | *"Do you know who you are?"* — answered autobiographically here. |
-| [[Mary]] | The divine-feminine/blessing voice; tracked across appearances. |
-| [[Sir Lucius]] / [[The Dweller on the Threshold]] | The shadow-genesis framework. |
+| Song / Source                                     | Relationship                                                                                                                                  |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sir Lucius]]                                    | Lucius is what grows from this burial; he mocks the song to defend his own necessity and reject vulnerability.                                |
+| [[Not Your Homie]]                                | Opposite poles of one wound: shadow says *you don't know me*; the child says *come back for me.* To know Lucius, Roy must know Ballerina Boy. |
+| [[Happy Face]]                                    | The coping mechanism the wound installs (*"if you're sad don't let it show"*).                                                                |
+| [[Weirdness]]                                     | Healing pair — the faceless feminine voice; *"you were born to shine"* answers *"you're not a real boy."*                                     |
+| [[Welcome to the Circus]]                         | The public spectacle of the system whose private origin is this song.                                                                         |
+| [[The Circle]] / [[The Thread]]                   | Rescue from the *inside of the inside*; the buried feeling retrieved, not traded.                                                             |
+| [[SOL]]                                           | The love-current the rescue moves toward; the song Lucius overrides.                                                                          |
+| [[Another Way II Heaven]]                         | The metaphysical map ("one become two… I was still I"); Ballerina Boy is its lived version.                                                   |
+| [[Soul Is A Star]]                                | *"Do you know who you are?"* — answered autobiographically here.                                                                              |
+| [[Mary]]                                          | The divine-feminine/blessing voice; tracked across appearances.                                                                               |
+| [[Sir Lucius]] / [[The Dweller on the Threshold]] | The shadow-genesis framework.                                                                                                                 |
 
 ## Sources
 
 ### Song & Official Release
-- "BALLERINA BOY" — Jagwar Twin; standalone single (2025; label/URLs to verify). Lyrics: [[BALLERINA BOY]] (Sources/Lyrics), pending official cross-check.
+- "BALLERINA BOY" — Jagwar Twin; standalone single, **released June 13, 2025**; ℗ 2025 Big Loud Rock, under exclusive license to Mercury Records (UMG) ([Apple Music](https://music.apple.com/cd/album/ballerina-boy-single/1817557629)). 3-track release; other 2 tracks not yet pinned. Lyrics: [[BALLERINA BOY]] (Sources/Lyrics), pending official cross-check.
 
-### Visual Lore / Mirror Sessions *(pending verification)*
-- Interview series — Lucius's mockery of Ballerina Boy as "lowest-performing." Episode/URL pending → [[Master Source List]].
-- The Mirror Sessions — Roy's inner-child practice (future-self voice). Confirm public episode/URL before citing as Grounded.
+### Visual Lore *(pending verification)*
+- *The Interview* EP series — candidate location for Lucius's mockery of Ballerina Boy as "lowest-performing" (the bargain that pushes *not your homie*; EP2/EP3). Episode map + URLs in [[Master Source List]] §2; verbatim line is audio, unconfirmed.
+- **"Inner-child" account — series to re-confirm.** Attributed to "The Mirror Sessions," but that is a *separate* 2023–24 interview docuseries (Roy interviewing other guests), not the Lucius lore. Re-locate to the correct public series/episode before citing. (See [[Master Source List]] §2.)
 
 ### Frameworks Drawn On
 - C. G. Jung — the divine child; the compensating shadow; integration over transcendence.
