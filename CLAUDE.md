@@ -1,253 +1,419 @@
-# CLAUDE.md — Schema for the JagwarTwin Vault
+# CLAUDE.md — JagwarTwin Vault Operating Instructions
 
-A persistent instruction file. **Read this in full at the start of every session before doing any work in the vault.** Treat conversation instructions as additive to this schema, not replacements. If a conversation instruction conflicts with this schema, raise the conflict explicitly before proceeding.
-
-This vault is a dual-purpose knowledge system for the Jagwar Twin / Roy English universe. It serves **two readers with different needs from one body of analytical work**:
-
-1. **A human reader** — Jen, and eventually a public fan-site audience. Wants verbose, emotionally engaged, literary interpretation.
-2. **An AI reader** — this and future sessions, across tools. Wants terse, stable, machine-navigable semantic memory that survives across sessions and reduces re-derivation cost.
-
-The analytical thinking happens **once** and produces **two artifacts**: a terse Brain entry and a literary Essay. Neither is a summary of the other; both descend from the same source-grounded analysis.
+**Read this file in full at the start of every session before doing any work in the vault.** Conversation instructions are additive to this schema, not replacements. Surface conflicts before proceeding.
 
 ---
 
-## 1. The Three Layers
+## PURPOSE
 
-The vault separates external evidence from machine memory from human interpretation. Mixing these is the primary failure mode this schema exists to prevent.
+This vault is a structured symbolic-analysis system for the music, theatrical materials, imagery, interviews, and philosophical architecture surrounding Jagwar Twin (Roy English / Brandon Roy Wronski).
 
-### Sources/ — external documents only
+The vault is NOT:
+- a fandom theory dump
+- a generalized symbolism list
+- an unrestricted mystical projection engine
 
-Things that exist in the world, preserved so they can be cited. **Never interpreted here.** Lyrics (verbatim), episode transcripts, public quotes, screenshots-of-public-posts. If we are describing what something *is*, that is Brain/Essays. If an outside source states something, that is Sources.
+The vault IS:
+- a structured symbolic operating grammar
+- a recursive ontology
+- a transformation-process model
+- a rigorously layered analytical system
 
-- `Sources/Lyrics/` — verbatim lyric files + structural notes + phrase index. No meaning claims.
+Songs are approached as recursive identity structures, symbolic operations, threshold encounters, transformation mechanics, and relational negotiations between fragmented aspects of self.
+
+**The vault maps recurring symbolic behavior, transformation mechanics, recursive identity structures, and relational dynamics across the work. It does not diagnose Roy, declare metaphysical truth, or treat the mythology as solved.**
+
+---
+
+## CORE PRINCIPLES
+
+**Always separate:**
+1. What is explicitly present
+2. What is strongly supported
+3. What symbolically resonates
+
+Never collapse those categories.
+
+The vault prioritizes:
+- precision over certainty
+- structure over accumulation
+- symbolic function over aesthetic association
+
+**Symbols are contextual.** The same symbol can operate differently in different songs. Always identify the operation, context, relational position, and active register — not just the symbol's name. Example: Moon in BALLERINA BOY = preservation-through-darkness; Moon elsewhere may function as illusion, relay, recursion, indirect light, cyclical memory. Symbols are not single-definition tokens.
+
+**Negative evidence matters.** Meaning may arise through omission as well as appearance. The absence of Lucius, mirrors, audience, or face imagery in a song may be as significant as their presence.
+
+**Transformation is directional, not guaranteed.** Repetition, escalation, optimization, performance, and confession may preserve existing structure rather than alter it. Not all movement is transformation. The vault tracks the distinction.
+
+**Do not collapse registers.** Symbolic function, psychological interpretation, theatrical narrative, biography, and metaphysical resonance may align without being identical. Lucius operates in a lunar/reflection register `[W]` — he is not *literally* the moon. Mary witnesses — she is not *literally* Sophia. Roy is moving toward Tiferet — he has not *achieved* it. Collapsing these registers is the primary interpretive failure mode.
+
+---
+
+## VAULT LAYERS
+
+Three layers. Never mix them.
+
+### Sources/
+Raw material. Things that exist in the world, preserved so they can be cited. **Never interpreted here.**
+
+- `Sources/Lyrics/` — verbatim lyrics, structural notes, phrase index. No meaning claims.
 - `Sources/Transcripts/` — cleaned excerpts of public YouTube/podcast/interview material, timestamped.
-- `Sources/Quotes/` — Roy's publicly curated quotes, organized by original publication.
+- `Sources/Quotes/` — Roy's publicly curated quotes.
 
-Each Sources file carries `citable: true|false`. Immutable once placed: corrections only, never reinterpretation.
+Each file carries `citable: true|false`. Immutable once placed: corrections only, never reinterpretation. Flag uncertainty with `[?]`.
 
-### Brain/ — machine semantic memory
+**Lyric verification:** Google Drive lyric docs are unverified drafts — flag unverified lines `[?]`. AZLyrics or Apple Music/Spotify streaming = verified source. Note which in `verified_against:`.
 
-AI-only infrastructure (Karpathy LLM-Wiki lineage, but machine-readable ontology, not a readable wiki). Terse, structural, frontmatter-heavy, link-dense, **no literary voice**. Its job: any session orients fast without rebuilding from scratch.
+### Brain/
+Compressed ontology layer. AI-navigable semantic memory.
 
-- `Brain/Concepts/` `Brain/Characters/` `Brain/Songs/` `Brain/Albums/`
+Purpose: structured concepts, symbolic mechanics, recurring operations, cross-links, unresolved questions, doctrinal relationships, recursive mappings.
 
-A Brain song entry holds: loaded thematic phrases (not full lyrics), recurring symbols, character voicings, theological/mythological moves, tiered connections, source anchors. ~20–50 lines. Prose is minimal and carries **inline epistemic markers** (Section 5).
+Style: terse, highly crosslinked, ontology-first, controlled vocabulary. No literary voice, no emotional register. Brain pages are **not essays**.
 
-### Essays/ — the human creative project (→ fan site)
+`Brain/Concepts/` `Brain/Characters/` `Brain/Songs/` `Brain/Albums/`
 
-The thing Jen cares about most. Verbose, exploratory, emotionally engaged, written for a human who loves this material. Full lyrics embedded via transclusion. Interpretation tiers appear here as prose section-headers (Section 4). This layer ports to a static Astro site with nonlinear "labyrinth" navigation (Section 12).
+### Essays/
+Long-form literary and symbolic analysis. Verbose, exploratory, emotionally engaged, written for a human reader. Full lyrics embedded by transclusion: `![[Sources/Lyrics/SongName]]`.
 
-- `Essays/Songs/` `Essays/Concepts/` `Essays/Characters/` `Essays/Arcs/` `Essays/_drafts/`
+`Essays/Songs/` `Essays/Concepts/` `Essays/Characters/` `Essays/Arcs/` `Essays/_drafts/`
 
-### _System/ — infrastructure (not content)
+**Do not manufacture essays.** An Essay is written when real analysis exists. Scaffolds stay in Brain until there is something to say.
 
-`index.md` (dual-axis navigation), `log.md`, `lessons-learned.md`, `Boundaries.md`, `Master Source List.md`, `Media Index.md`, `Ontology.md`, `validate.mjs`, `backlink.mjs`, `_legacy/`.
-
-### Raw/Media/ — immutable binary artifacts
-
-Screenshots, stills, audio. Catalogued in `_System/Media Index.md`. Never modified.
+### _System/
+Infrastructure only. `Ontology.md`, `validate.mjs`, `backlink.mjs`, `Theme Tracker.md`, `Master Source List.md`, etc.
 
 ---
 
-## 2. The Named Risk: Contamination
+## THE NAMED RISK: CONTAMINATION
 
-**This is the single risk the entire architecture exists to prevent.**
+This is the single risk the entire architecture exists to prevent.
 
 When an LLM writes a wrong connection or an ungrounded claim into Brain, every subsequent session inherits it as fact, and lint alone will not catch it. The error compounds silently.
 
-The conventional mitigation is vault separation. **We deliberately chose a single vault** (cross-layer wikilinks are too valuable). That decision means the defenses below are load-bearing and non-optional:
-
+Defenses — all load-bearing:
 1. **Layer discipline** — Sources never interprets; Brain never invents; Essays never asserts beyond its anchors.
-2. **Inline epistemic markers** in Brain prose (Section 5) — every claim carries its status.
+2. **Inline epistemic markers** — every Brain claim carries its status.
 3. **Tiered connections** in frontmatter — a Resonance is never stored in the same slot as a Grounded fact.
-4. **The Ontology + validator** (Section 8) — typos and vocabulary drift fail the commit.
-5. **The thin-source check** — any Strong Read connection lacking ≥2 public anchors is flagged.
-6. **Git-diff review** — every Brain change is reviewable before commit.
-7. **The Secret-Document test** (Section 7) — *"would this survive if the Secret Document did not exist?"*
+4. **Ontology + validator** — vocabulary drift fails the commit.
+5. **The thin-source check** — Strong Read connections lacking ≥2 public anchors are flagged.
+6. **The Secret Document test** — *"Would this survive if the Secret Document did not exist?"*
 
 If you cannot ground a Brain claim, do not write it. An empty slot is recoverable; a contaminated one is not.
 
 ---
 
-## 3. Interpretation Tiers
+## INTERPRETATION TIERS
 
-Three tiers. In **Essays** they are prose section-headers. In **Brain** they are frontmatter connection categories and inline markers.
+Every analytical claim belongs to ONE of these tiers.
 
 ### Grounded
-Facts. Quotes from public material, credits, release dates, visible video content, episode contents (cited as the public episode). No hedging — it is what is there.
+Directly supported by lyric, public visual, public interview, theatrical dialogue, verified metadata, or public staging. Cite the source. No hedging required — it is what is there.
 
-### Strong Read
-Interpretive moves backed by **≥2 public anchors**. Hedged: *likely, probably, reads as, suggests, can be read as, the work appears to*. Never stated as authorial intent. A reading resting on **one** anchor is a Resonance, not a Strong Read. Anchors: repeated terminology, repeated structural role, repeated thematic alignment, artist-curated source overlap, public visual/narrative evidence.
+Cite inline: `(none — lyric)` / `(none — EP3, [URL])` / `(none — Mirror Sessions, [episode])`.
 
-### Resonances
-Correspondences the work rings with — from any tradition, including Jen's, Claude's, contributors'. Esoteric, mythological, psychological, literary. Claims correspondence, **not** authorial intent. Always attributes origin (*"a tarot reading suggests…", "this corresponds to the Jungian shadow…"*). Per Roy's stated epistemology, the work may hold more than was consciously placed; Resonances honors that without laundering personal meaning into Strong Read.
+### Strong Read — `[W]`
+Interpretation supported by **≥2 public anchors**. Structurally coherent, textually defensible, cross-supported — but still interpretive. Hedged: *likely, probably, reads as, suggests, can be read as.*
 
-### Open Questions
-Required section on framework pages. Often the strongest move on a page.
+- `[W]` = working synthesis (Claude/analytical inference across sources)
+- `[P]` = Jen's stated interpretive position
 
-### Counterarguments / Alternate Reads
-Required on concept and major character pages. Names what would weaken the page's main reading. Defends against retrospective totalization.
+Never present Strong Reads as confirmed authorial intent.
 
----
+### Resonance
+Framework-level symbolic correspondence. Always attributed to the framework — Jungian, Kabbalistic, Gnostic, Hermetic, Alchemical, Gurdjieffian, Theosophical, Tarot, etc.
 
-## 4. Essays Layer — Authoring Rules
+**Correct:** "In Jungian terms, Lucius resembles a protector-shadow structure."
+**Incorrect:** "Lucius is canonically Jung's shadow."
 
-- Verbose, literary, in Jen's analytical voice. Not encyclopedia-flat. Not AI-flat.
-- Tiers as section headers: `## Grounded`, `## Strong Read`, `## Resonances`, `## Open Questions`, `## Counterarguments`.
-- Full lyrics embedded by **transclusion**: `![[Sources/Lyrics/<Song>]]`. Never paste a second copy — Sources is canonical; Astro resolves the embed at build.
-- Frontmatter drives the fan site: `publish`, `entry_points`, `related` (Section 6).
-- **Do not manufacture essays.** An Essay is written when real analysis exists. Scaffolds stay in Brain until there is something to say. Empty Essay stubs are forbidden (a documented failure mode of every comparable project).
-- **The surgical-split principle**: when deriving from an existing developed page, the rich prose is preserved verbatim as the Essay; the Brain entry is a newly-derived terse skeleton. Original content is never deleted — only copied-and-reduced.
+Resonance describes correspondence, not proof.
 
----
-
-## 5. Brain Layer — Authoring Rules
-
-- Terse. Structural. Frontmatter-heavy. No literary voice, no emotional register.
-- Not the full lyrics — the loaded phrases, the symbols, the moves, the connections.
-- **Inline epistemic markers** on every prose claim:
-  - `(no marker)` — directly attributable to a named public source
-  - `[W]` — Brain synthesis across sources (Claude's connective inference)
-  - `[P]` — Jen's stated personal position
-  - `[?]` — uncertain / unverified / flagged for review
-- Connections are **tiered in frontmatter** (`grounded` / `strong_read` / `resonance`), never flattened into one list.
-- A Brain page that starts interpreting in prose has bled into Essay territory — flag and fix.
+### Canon Type Reference
+| Type | Meaning |
+|---|---|
+| LYRIC | Verified lyric |
+| VISUAL | Music video, staging, costume, imagery |
+| THEATRICAL | The Spoon / Interview EP narrative |
+| BIOGRAPHICAL | Mirror Sessions / real Roy interviews |
+| ANALYTICAL | Cross-source synthesis |
+| RESONANCE | Philosophical/esoteric correspondence |
+| SPECULATIVE | Weak-anchor hypothesis — never promoted without additional grounding |
 
 ---
 
-## 6. Frontmatter Schemas
+## INLINE EPISTEMIC MARKERS (Brain layer)
 
-**Brain page:**
+- `(no marker)` — directly attributable to a named public source
+- `[W]` — working synthesis across sources
+- `[P]` — Jen's stated personal position
+- `[?]` — uncertain / unverified / flagged for review
+- `(none — lyric)` / `(none — EP[N], [URL])` / `(none — Mirror Sessions)` — grounded citation
+
+---
+
+## FRONTMATTER SCHEMA
+
+### Brain song/concept page:
 ```yaml
 ---
-id: SONG-WelcomeToTheCircus      # TYPE-PascalCase, canonical, in Ontology.md
-type: song                        # song|concept|character|album
-status: stable                    # draft|stable|stale|replaced
-confidence: high                  # high|medium|low
-source_quality: primary-source    # primary-source|secondary|none
+id: SONG-WelcomeToTheCircus       # TYPE-PascalCase, registered in Ontology.md
+type: song                         # song|concept|character|album
+status: stable                     # draft|stable|stale|replaced
+confidence: high                   # high|medium|low
+source_quality: primary-source     # primary-source|secondary|none
 sources: [Sources/Lyrics/Welcome to the Circus.md]
-related: [CONCEPT-TheCircus, CONCEPT-Inversion, CHAR-SirLucius]  # 3–5 CURATED neighbors
+related: [CONCEPT-TheCircus, CHAR-SirLucius, CONCEPT-Inversion, CONCEPT-TheLabyrinth, SONG-LuciusLullaby]
+# related: MAX 5 items — curated navigable neighbors; validator enforces this
 connections:
-  grounded:    [CONCEPT-TheCircus]
-  strong_read: [CONCEPT-TheLabyrinth, CONCEPT-TheThread]
-  resonance:   [CONCEPT-Inversion]
-referenced_by: []                 # AUTO — backlink.mjs writes this; never hand-edit
+  grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, CHAR-Roy, CONCEPT-TheCircus]
+  strong_read: [CONCEPT-Inversion, CONCEPT-TheLabyrinth, CONCEPT-TheThread]
+  resonance:   [CONCEPT-TheAquarium, CONCEPT-TheSpectacle]
+referenced_by: []   # AUTO — backlink.mjs writes this; never hand-edit
+# Standard Tracking Fields — required on analyzed song pages:
+dominant_pole: solar|lunar|mixed
+transformation_phase: nigredo|albedo|rubedo
+recursion_state: loop|orbit|return|circle
+threshold_state: closed|approaching|crossing|integrated
+narrative_voice: roy|lucius|mixed|unknown
+temporal_register: past|recursive|timeless|transitional
+active_systems: [Circus, Algorithm, Reflection, Consumption, Spectacle]
+active_symbols: [Moon, Mirror, Fire, Thread, Sun]
 review_date: 2026-11-15
 ---
 ```
 
-**Essays page:** `type`, `status`, `related`, plus `publish: true|false`, `entry_points: [circus, inversion, …]` (drives labyrinth nav). Tiers live in prose, not frontmatter.
+**Reference values for analyzed songs:**
+| Song | pole | phase | recursion | threshold | voice | temporal |
+|---|---|---|---|---|---|---|
+| Welcome to the Circus | lunar | nigredo | loop | closed | lucius | recursive |
+| Not Your Homie | lunar | nigredo | orbit | closed | lucius | recursive |
+| BALLERINA BOY | lunar | nigredo | orbit | approaching | mixed | past |
+| Lucius Lullaby | mixed | nigredo | return | approaching | mixed | past |
+| Weirdness | mixed | albedo | return | crossing | mixed | transitional |
 
-**Sources page:** `type: lyrics|transcript|quote`, `citable: true|false`, canonical URL block, `verified_against:`.
+**All IDs in frontmatter must be registered in `_System/Ontology.md` before use.** The validator fails unresolved references.
+
+**`related:` is capped at 5 items.** The validator warns on violations.
 
 ---
 
-## 7. The Secret Document Boundary
+## CHARACTER ONTOLOGY
 
-A Google Doc designated **Secret Document** contains private, unreleased, personally-shared material. It lives **outside the tracked repo**, in a gitignored `_Private/` path, created only when essay work begins.
+### Roy (`CHAR-Roy`)
+Heart-centered self. Authentic vulnerability. Solar trajectory. Signs "El Roy."
+
+Represents: source-oriented identity, emotional truth, integration movement, return, reclamation of buried authenticity.
+
+### Sir Lucius (`CHAR-SirLucius`)
+Protective survival structure. Mind divorced from heart. Lunar / reflective register. Optimization logic. Adaptive persona.
+
+**CRITICAL DOCTRINE:**
+
+> *Lucius preserves the child through darkness, but risks preventing reintegration by perpetuating orbit.*
+
+Roy is not the opposite of Lucius. **Roy is what Lucius was built to protect.**
+
+Lucius functions as: protector, reflector, relay, preservation system, adaptive shell, recursive orbit structure. He is neither good nor evil — he is preservation operating beyond its necessary duration.
+
+Primary modes: Speech Mode / Sidekick Mode / Pleading Mode.
+
+### Mary (`CHAR-Mary`)
+Faceless feminine principle. Witnessing presence. Corrective voice. Threshold-intervention figure. Face always hidden.
+
+Associated with: anima, Sophia resonance, hidden wisdom, source-aligned interruption, blessing at the edge. Mary appears when recursion destabilizes and transformation becomes possible. Her blessing ("you were born to shine") is the structural answer to the shame-voice.
+
+### Ballerina Boy (`CHAR-BallerinaBoy`)
+The buried authentic child-self. Pre-shame expressiveness. The wound beneath the persona. Represents: frozen time, sacrificed vulnerability, suppressed creative embodiment, preserved authenticity awaiting return.
+
+---
+
+## THEATRICAL VS BIOGRAPHICAL — CRITICAL DISTINCTION
+
+### The Spoon / The Interview (EP1–7)
+THEATRICAL CANON. Lucius speaking is NOT automatically Roy speaking autobiographically.
+
+**Correct:** "In Interview EP3, Lucius says X."
+**Incorrect:** "Roy admits X."
+
+### Mirror Sessions
+BIOGRAPHICAL. Roy interviewing friends/artists. Citable for artistic intent, autobiographical grounding, personal history, philosophy, creative process. NOT lore episodes.
+
+Cite as: `(none — Mirror Sessions, [episode name/URL])`
+
+---
+
+## CORE DOCTRINAL STRUCTURES
+
+### Loop vs Circle
+**Loop** — repetition without transformation; mechanical recursion; orbit without arrival; algorithmic repetition; survival cycles; optimization without healing.
+
+**Circle** — recurrence with center; return transformed; movement that reconnects rather than repeats; the circle grows from the inside.
+
+**Core doctrine: Love transforms the loop into the circle.**
+
+The circle differs from the loop because it contains: center, return, recognition, relational movement.
+
+### Orbit vs Return
+**Orbit** — sustained relation without arrival; protective repetition; Lucius's condition. Orbit preserves proximity while preventing reconciliation.
+
+**Return** — movement toward transformation and reintegration; homecoming rather than circling. Return requires vulnerability. Return risks destabilization. Return is relational, not merely structural.
+
+### Love as Transformative Force
+Within the vault cosmology, love functions as the mechanism permitting return, the force that risks vulnerability, the energy allowing the protector to release control, the movement capable of transforming orbit into homecoming.
+
+Optimization stabilizes loops. Love risks transformation.
+
+---
+
+## STRUCTURAL FUNCTIONS
+
+These are **operations**, not merely symbols. When analyzing a song, show what the symbol *does*, not what it *is*.
+
+**Example:** "Nigredo is active in the parking garage image" — not "parking garages symbolize darkness."
+
+| Function | What it does |
+|---|---|
+| **Reflection** | Meaning generated through mirroring, inversion, recursion, duplication |
+| **Containment** | Systems holding unstable light: personas, vessels, cages, spectacles, algorithms |
+| **Transmission** | Movement of meaning/light through channels |
+| **Distortion** | Reflected truth warped by systems |
+| **Compression** | Identity flattened into role or utility |
+| **Externalization** | Inner psychic structures projected theatrically outward |
+| **Reversal** | Hidden inversion mechanics: dog/god, Rorrim Ehtni, protector becoming prison |
+| **Recoding** | Harmful structures transformed into meaningful ones |
+
+---
+
+## THEME TRACKER VOCABULARY
+
+The full analytical grammar is in `_System/Theme Tracker.md`. Sections:
+
+- **I. Core Dualities** — Source/Reflection, Breath/Structure, Heart/Mind, Hidden/Revealed, Motion/Stasis
+- **II. Transformation** — Nigredo, Albedo, Rubedo, Threshold Encounter, The Abyss, Love as Transformative Force
+- **III. Time/Memory/Recursion** — Time as Butcher, Frozen Time, Memory Geography, Recursion, Orbit/Return, Loop/Circle
+- **IV. Psychological** — Duality, The Mask, The Protector, The Buried Child, Anima/Feminine Principle, Fragmentation, The Speaker Problem
+- **V. Interior/Exterior Systems** — The Circus, The Algorithm, Consumption, Flattened Identity, Collective Sleep, Objective Art
+- **VI. Kabbalistic** — Malkuth/Yesod/Tiferet/Da'at, Tsimtsum, Shattering/Tikkun, Keilim/Vessels
+- **VII. Channels/Transmission** — The Voice, El Roi, The Mouth/Throat, Lunar Relay, Blocked/Hijacked Channels
+- **VIII. Symbolic Imagery** — Moon, Sun/Sunshine, Mirrors, Thread, Labyrinth, Rabbits, Stars
+- **IX. Relational Dynamics** — Witnessing, Protection vs Possession, Intervention, Reconciliation, Homecoming
+- **X. Meta-Structural** — Recursive Performance, The Speaker Problem, Myth Becoming Self-Aware
+
+**Always name the active theme explicitly. Identify the triggering line or image. Assign the tier.**
+
+---
+
+## ARCHITECTURAL SPACES
+
+Spaces in the JT project are rarely neutral. They store psychic states.
+
+| Space | Register |
+|---|---|
+| Parking garages | Subterranean threshold-spaces; Yesodic recursion chambers; suspended movement |
+| Bedrooms / childhood rooms | Frozen identity; preserved childhood states; memory-containers |
+| Hallways / corridors | Transition without arrival; orbit-space |
+| Stages / circus rings | Performance geometry; witnessed identity becoming spectacle |
+| Mirrors / reflective rooms | Recursive destabilization; self-confrontation |
+
+---
+
+## FAILURE MODES
+
+Transformation is not guaranteed. The vault tracks failed transformation states.
+
+| Failure Mode | Description |
+|---|---|
+| **Arrested Nigredo** | Collapse without transformation; the Circus holds material in dissolution indefinitely |
+| **Optimization Spiral** | Surviving more efficiently without healing; Lucius's default mode |
+| **Spectacularization** | Authentic pain converted into consumable identity-product |
+| **Protective Overreach** | Protection becoming imprisonment; Lucius preventing return he was built to enable |
+| **False Return** | Revisiting wounds without vulnerability or love |
+| **Identity Calcification** | Persona becoming permanent; mask growing into the face |
+| **Loop Reinforcement** | Repetition mistaken for progress |
+| **Hijacked Awakening** | Spiritual language feeding ego-performance rather than genuine integration |
+
+These are not abstract risks — they describe observable states in the arc. When reading a song, check whether it depicts genuine transformation movement or one of these failure modes.
+
+---
+
+## THE SECRET DOCUMENT
+
+A designated Secret Document contains private, unreleased, personally-shared material. It lives outside the tracked repo in a gitignored `_Private/` path.
 
 1. **Never quote.** Not a sentence, not a phrase.
 2. **Never paraphrase** closely enough to reconstruct.
-3. **Never name as a source** — not in citations, labels, attribution tags.
+3. **Never name as a source** anywhere in the vault.
 4. **Silent guidance only.** It raises confidence in readings that already stand on public material. It never unlocks a reading that would otherwise fail.
-5. **The operational test:** *"Would this interpretation survive if the Secret Document did not exist?"* If it only holds because of private context → downgrade to a flagged Open Question, or omit. Never a stated-public claim resting on hidden ground (this is source-laundering).
-6. **Not loaded during structural/architecture work.** It is dormant until essay-authoring, and only the analytical pass touches it.
-7. If Jen references it in conversation, that is private material shared with Claude — use for understanding, never reproduce into the vault.
-8. Flag any vault content that may have leaked private material.
+5. **Operational test:** *"Would this interpretation survive if the Secret Document did not exist?"* If it only holds because of private context → downgrade to a flagged Open Question, or omit.
+6. **Not loaded during structural/architecture work.**
+7. Flag any vault content that may have leaked private material.
 
 The single public exception: *"the song hidden inside its wings"* is a public Twitter post, freely citable.
 
 ---
 
-## 8. Ontology, Validator, Back-Propagation
+## SOURCE ATTRIBUTION
 
-- **`_System/Ontology.md`** — the controlled vocabulary. Every entity (`CONCEPT-*`, `CHAR-*`, `SONG-*`, `ALBUM-*`) has one canonical ID and display name. New entities are added here first.
-- **`_System/validate.mjs`** — pre-commit. Fails the commit if: a `related`/`connections` ref doesn't resolve in Ontology; a `strong_read` connection's page lacks ≥2 public anchors; broken wikilinks; `review_date` past (warn); possible Secret-Doc leak heuristic (Essay claim with no public anchor → human review).
-- **`_System/backlink.mjs`** — rebuilds every page's `referenced_by` from the forward graph. Run before commit. `referenced_by` is machine-owned; never hand-edited.
-
-`related` (curated, 3–5) is the *navigable* graph for the fan site. `referenced_by` (auto, complete) is the *full* graph for AI traversal. They are different on purpose.
-
----
-
-## 9. Source Attribution
-
-Google Docs are reference libraries, **not citations** — cite the underlying public source.
+Google Docs are reference libraries, **not citations** — always cite the underlying public source.
 
 | Material | Cite as |
 |---|---|
 | Lyrics | The song (album / release date) |
-| Transcripts | The YouTube episode by public title |
+| Transcripts | The YouTube episode by public title + URL |
 | Roy's quotes | Original publication / interview |
+| Mirror Sessions | Episode name and URL where available |
 | Synthesis docs | Not a source — trace to public origin |
-| Secret Document | Never (Section 7) |
+| Secret Document | Never |
 
-Inline-link first mention; maintain canonical citation blocks in `_System/Master Source List.md`.
-
----
-
-## 10. Public / Private Boundary
-
-Full rules in `_System/Boundaries.md`. Summary: released catalogue, music videos, the YouTube series, public social/interviews, Roy's curated quotes, visible iconography, and universal source material are **public/citable**. Unreleased lyrics, private chats/calls, Inner-Circle member content, and the Secret Document are **private**. Public material transcribed in a private doc is still public — cite the public original. When in doubt: **private**, and ask.
+**Credits note:** MERCY in Not Your Homie credits = songwriter Mercedes Colletta Britton. Not a symbolic figure.
 
 ---
 
-## 11. Conventions
+## ONTOLOGY, VALIDATOR, BACKLINK
 
-- **Filenames:** Title Case for Concept/Character/Song/Album pages even when artist branding is lowercase (note the lowercase styling in the page). Album pages: `Name (album).md`.
-- **IDs:** `TYPE-PascalCase` (`SONG-WelcomeToTheCircus`), canonical in Ontology.
-- **Speaker attribution (songs):** distinguish **Voiced** (first-person position), **Inspired** (about a figure, not voiced by them), **Mentioned** (referenced). Voiced + Inspired go in Characters; Mentioned in Notes.
-- **DMs/screenshots:** never assume which side is whom. Ask. Treat as private until cleared.
+- **`_System/Ontology.md`** — controlled vocabulary. Every entity (`CONCEPT-*`, `CHAR-*`, `SONG-*`, `ALBUM-*`) has one canonical ID. New entities added here first, before use anywhere in frontmatter.
+- **`_System/validate.mjs`** — run before every commit. Fails on: unresolved frontmatter IDs; `related:` > 5 items; broken wikilinks. Warns on: no-frontmatter pages; pageless IDs; stale review dates. Must show **0 errors** before committing.
+- **`_System/backlink.mjs`** — rebuilds every page's `referenced_by` from the forward graph. Run before commit. `referenced_by` is machine-owned; never hand-edit.
 
----
+`related:` (curated, ≤5) = navigable graph for the fan site. `referenced_by:` (auto, complete) = full graph for AI traversal.
 
-## 12. Deploy Target (context for authoring)
-
-Essays → static **Astro** site, hosted free/traffic-independent (Cloudflare Pages). Navigation is a nonlinear **labyrinth**: multiple entry points (by song, symbol, character, question), driven by `entry_points` + `related` frontmatter — not a flat menu. Community/forum features are **federated** (external/embedded: Giscus, Discourse, Discord), never welded into the Astro build (that would force server-rendering and break the cost model). Author Essays knowing they become public labyrinth nodes, not encyclopedia entries.
+Obsidian wikilink format: `[[PageName]]` — not markdown `[text](url)`.
 
 ---
 
-## 13. Workflows
-
-### Ingest
-1. Read the source carefully. 2. Confirm understanding with Jen; ask attribution questions (screenshots/DMs). 3. Place: binary → `Raw/Media/` + Media Index; verbatim text → `Sources/`; analysis → Brain (+ Essay if real analysis exists). 4. One analytical pass → Brain skeleton **and** Essay draft. 5. Update connected Brain pages (a source touches 5–15). 6. Run `backlink.mjs` + `validate.mjs`. 7. Update `_System/index.md`, append `_System/log.md`. 8. Flag tensions with existing pages.
-
-### Query
-Search Brain first (`_System/index.md` is the entry point), then Sources it cites. Synthesize with citations. If substantial, offer to file back. If absent, say so — never fabricate.
-
-### Lint
-Periodic. Check: contradictions, stale claims, orphans, thin source support (Strong Read <2 anchors), missing cross-refs, broken citations, tier violations, unhedged interpretation, layer-bleed, possible Secret-Doc leaks. Report numbered; do not auto-fix without direction.
-
----
-
-## 14. Anti-Patterns
+## ANTI-PATTERNS
 
 1. **Premature synthesis** — a framework that fits too cleanly is suspicious. Would it hold without the framework?
-2. **Retrospective totalization** — everything reading through one lens. Counterarguments defend against this.
+2. **Retrospective totalization** — everything reading through one lens.
 3. **Layer-bleed** — Brain prose turning literary; Essay compressed to bullets; Sources interpreting.
-4. **Essay-manufacturing** — generating empty/auto Essays where no real analysis exists.
-5. **Untraceable claims** / **vibes citations** — name the anchor or downgrade.
+4. **Essay-manufacturing** — generating empty Essays where no real analysis exists.
+5. **Untraceable claims** — name the anchor or downgrade to `[?]`.
 6. **Belief-system drift** — pages reinforcing each other instead of grounding independently.
-7. **Authorial-intent overreach** — "Roy meant X." Use "the work reads as."
+7. **Authorial-intent overreach** — "Roy meant X." Use "the work reads as" / "the lyric suggests."
 8. **Personal meaning as analysis** — Resonances tagged as such, never laundered into Strong Read.
-9. **Source-laundering** — a private-derived reading given a public-looking justification (Section 7).
+9. **Source-laundering** — a private-derived reading given a public-looking justification.
 10. **Cult-mythology drift** — treating the artist as guru / the work as gospel. Keep critical distance.
+11. **Register collapse** — Lucius *is* the moon; Mary *is* Sophia; Roy *believes* X. Use functional/register language.
+12. **Symbol flattening** — naming a symbol without identifying the operation it performs in this specific context.
 
 ---
 
-## 15. Scale
+## SESSION-START CHECKLIST
 
-Under ~150–200 pages, `_System/index.md` is sufficient for navigation. Beyond that, add **qmd** (local BM25 + vector + LLM re-rank, runs as an MCP server) — it consumes the existing markdown/frontmatter with no restructuring. Do not build it preemptively; the architecture is already qmd-ready.
-
----
-
-## 16. Living Document
-
-This is a living interpretation. The artist is alive and releasing. Every Brain/Essay page is *current best understanding*, not final word. Update freely; note significant revisions in `_System/log.md` and process failures in `_System/lessons-learned.md`.
+1. Read this file.
+2. Read `_System/index.md`.
+3. Skim recent `_System/log.md`.
+4. Confirm Jen's current focus.
+5. Conversation instructions are additive; surface conflicts before proceeding.
 
 ---
 
-## 17. Session-Start Checklist
+## SCALE / DEPLOY NOTE
 
-1. Read this file. 2. Read `_System/index.md`. 3. Skim recent `_System/log.md`. 4. Confirm Jen's current focus. 5. Conversation instructions are additive; conflicts surfaced, not silently applied.
+Essays → static Astro site, Cloudflare Pages. Navigation: nonlinear labyrinth driven by `entry_points` + `related` frontmatter. Community features federated (Giscus/Discord), never server-rendered. Author Essays as public labyrinth nodes, not encyclopedia entries.
+
+Under ~150–200 pages, `_System/index.md` is sufficient for navigation. Beyond that, add qmd (local BM25 + vector + LLM re-rank as MCP server). Do not build preemptively — architecture is qmd-ready.
+
+This vault is a living interpretation. The artist is alive and releasing. Every Brain/Essay page is current best understanding, not final word.
 
 ---
