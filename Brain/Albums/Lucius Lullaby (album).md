@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, CHAR-Roy, SONG-TheCircleLuciusVersion, SONG-LuciusLullaby, SONG-WelcomeToTheCircus, SONG-SOL]
   strong_read: [CONCEPT-TheCircle, CHAR-Mary, CHAR-BallerinaBoy]
   resonance:   [CONCEPT-Malkhut, CONCEPT-Yesod]
-referenced_by: [CHAR-SirLucius, CONCEPT-TheDwellerOnTheThreshold, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
+referenced_by: [CHAR-SirLucius, CONCEPT-TheDwellerOnTheThreshold, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-Weirdness, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Lucius Lullaby (album)

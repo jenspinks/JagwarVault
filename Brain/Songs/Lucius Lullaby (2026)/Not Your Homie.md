@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, SONG-WelcomeToTheCircus, SONG-LOOP]
   strong_read: [CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-Inversion, CHAR-Roy, SONG-HappyFace, CONCEPT-TheThread, SONG-SOL, SONG-1ChampionLaConquistadora, CHAR-Mary, CHAR-BallerinaBoy]
   resonance:   [CONCEPT-Consumption, CONCEPT-TheAlgorithm, CONCEPT-TheCircle, CONCEPT-Yesod, CONCEPT-TheMoon]
-referenced_by: [CONCEPT-TheLaborsOfHercules, SONG-BALLERINABOY, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-TheLaborsOfHercules, SONG-BALLERINABOY, SONG-Weirdness, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Not Your Homie

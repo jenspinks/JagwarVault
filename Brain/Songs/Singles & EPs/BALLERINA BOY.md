@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, CHAR-BallerinaBoy]
   strong_read: [CHAR-SirLucius, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMask, SONG-HappyFace, SONG-NotYourHomie, SONG-Weirdness, SONG-TheCircle, CONCEPT-TheThread, CHAR-Mary, SONG-SOL]
   resonance:   [CONCEPT-Malkhut, CONCEPT-Yesod, CONCEPT-Tiferet, CONCEPT-TheMoon, SONG-SoulIsAStar, SONG-AnotherWayIIHeaven]
-referenced_by: [CHAR-Mary]
+referenced_by: [CHAR-Mary, SONG-Weirdness]
 review_date: 2026-11-16
 ---
 # BALLERINA BOY
