@@ -14,7 +14,7 @@ Spoken voice-memo / recorded conversation fragment. **No interpretation here** �
 ## Source
 - **Album:** *Subject to Flooding* (2018) — reissue track
 - **Official title styling:** "Roy Voice Memo: S1 Arrowhead" (colon)
-- **Writers:** Brandon Wronski, Larry Darnell Griffin Jr. (S1)
+- **Writers:** Roy English, Larry Darnell Griffin Jr. (S1)
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)

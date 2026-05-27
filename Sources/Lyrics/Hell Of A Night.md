@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018)
-- **Writers:** Matthew Pauling, Brandon Wronski, Michael Morgan
+- **Writers:** Matthew Pauling, Roy English, Michael Morgan
 - Pairs with [[Hell Of A Night Pt. 2 (The Hallelujah Stickup)]].
 
 ### Citable as

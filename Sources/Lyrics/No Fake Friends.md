@@ -13,7 +13,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 ## Source
 - **Album:** *Subject to Flooding* (2018) — reissue track
 - **Official title styling:** "N.F.F. (No Fake Friends)"
-- **Writers:** Brandon Wronski, Matt Pauling, S1
+- **Writers:** Roy English, Matt Pauling, S1
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)

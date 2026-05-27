@@ -11,7 +11,7 @@ related: [CHAR-Roy, CHAR-SirLucius, CHAR-BallerinaBoy, SONG-BALLERINABOY, SONG-W
 
 - **Album:** *Subject to Flooding* (2018, Atlantic Records)
 - **Track:** 1 of 11
-- **Writers:** Travis L. Barker, Matthew Pauling, Brandon Wronski
+- **Writers:** Travis L. Barker, Matthew Pauling, Roy English
 - **Canonical Register:** Proto-Lucius awareness phase `[W]` — the protective survival structure is already operational and beginning to surface into consciousness.
 
 ## Lyrics
@@ -40,7 +40,7 @@ Everything below is directly in the public lyric (none — Apple Music, *Subject
   - *"the lost, not the famous"*
   - *"the beatdown believers"*
 - The repeated refrain *"it's been a long time coming"* creates inevitability language rather than surprise language.
-- Writers: Travis L. Barker, Matthew Pauling, Brandon Wronski (none — Apple Music credits).
+- Writers: Travis L. Barker, Matthew Pauling, Roy English (none — Apple Music credits).
 
 ---
 
@@ -150,5 +150,5 @@ This is an unmistakable Nigredo song. Active characteristics: collapse of false 
 ## Sources
 
 - "Long Time Coming" — Jagwar Twin (credited as Roy English); Track 1, *Subject to Flooding* (2018, Atlantic Records). Lyrics: [[Sources/Lyrics/Long Time Coming]] (ingested 2026-05-16 from AZLyrics; corrected 2026-05-27 against Apple Music streaming — "the lost, not the famous" confirmed; AZLyrics had "framers").
-- Writers: Travis L. Barker, Matthew Pauling, Brandon Wronski (none — Apple Music credits).
+- Writers: Travis L. Barker, Matthew Pauling, Roy English (none — Apple Music credits).
 - Frameworks: C. G. Jung — individuation, Persona; G. I. Gurdjieff — mechanical identity structures; Kabbalah — Yesod/reflection sphere; Western alchemy — Nigredo.

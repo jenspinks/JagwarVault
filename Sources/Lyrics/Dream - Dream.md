@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018) — track 2
-- **Writers:** Brandon Wronski, Matt Pauling, Sarah Vaughn
+- **Writers:** Roy English, Matt Pauling, Sarah Vaughn
 - **Title styling:** "Dream/Dream" (slash); filed as `Dream - Dream` for filesystem.
 
 ### Citable as

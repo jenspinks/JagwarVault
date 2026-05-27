@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, CHAR-Roy]
   strong_read: [CHAR-Mary, CONCEPT-TheMirror, CONCEPT-TheCircle, CHAR-BallerinaBoy, SONG-SOL]
   resonance:   [CONCEPT-Malkhut, CONCEPT-Yesod]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-Roy, CHAR-SirLucius, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-Roy, CHAR-SirLucius, SONG-DreamDream, SONG-WelcomeToTheCircus]
 dominant_pole: mixed
 transformation_phase: nigredo
 recursion_state: return

@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018) — track 4
-- **Writers:** Terry Knight, Brandon Wronski, Larry Darnell Griffin Jr.
+- **Writers:** Terry Knight, Roy English, Larry Darnell Griffin Jr.
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)
