@@ -2,75 +2,107 @@
 type: lyrics
 citable: true
 status: draft
-verified_against: []
+verified_against: [AZLyrics — verified 2026-05-27 against Jen-supplied page; ideally cross-check against Apple Music streaming to confirm]
 ingested: 2026-05-25
-ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
+ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album); corrected 2026-05-27 against AZLyrics"
 ---
 # Weirdness — Lyrics (Source)
 
-Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
+Verbatim. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- (release metadata pending — on *Lucius Lullaby*, 2026; add Apple/Spotify URLs at verification)
+- "Weirdness" — Jagwar Twin & Sir Lucius; Track on *Lucius Lullaby* (2026). Add Apple/Spotify URLs at full verification.
+
+## Corrections from original ingest (2026-05-27, AZLyrics)
+- Chorus 1 string line: was "Your head is **on** a string" — CORRECTED to "Your head is **off** its string" (confirmed by Jen's hearing + AZLyrics)
+- Pre-chorus appears **twice** — once after V1 and again after V2; original ingest had it only once
+- V1: "Life was a joke, **a fun one**" — original ingest had "before"
+- Pre-chorus: "then I saw **a** little light" — original ingest had "her little light"
+- Outro returns to "**Your** weirdness is the sunshine" — original ingest did not capture the return
 
 ## Lyrics
 
 ```
 [Intro]
-(Ba ba ba ba) (Oooohhh)
-Your weirdness is the Sunshine.
-It shines on everything.
-Your weirdness is the Sunshine, (ooooooh)
-(ah ha ha ha).
+Your weirdness is the sunshine
+(Ba ba ba ba)
+
+Ooh
+Your weirdness is the sunshine
+It shines on everything
+Your weirdness is the sunshine
+Ooh
+(Ba ba ba ba)
 
 [Verse 1]
-When I was just a young one, I danced in the rain.
-Life was a joke before. Now I'm in pain.
+When I was just a young one
+I danced in the rain
+Life was a joke, a fun one
+Now I'm in pain
 
 [Pre-Chorus]
-Thinkin' I should end it lately
-Then I saw her little light.
-She looked like an angel baby
-But her face was out of sight.
-She said stop pretending, baby
-You were born to shine.
+Thinking I should end it lately
+Then I saw a little light
+She looked like an angel, baby
+But her face was out of sight
+She said, "Stop pretending, baby
+You were born to shine"
 (Shine your light! Shine your light!)
-You know, you know, you know
+Ya know, ya know, ya know
 
 [Chorus]
-Your weirdness is the Sunshine.
-It shines on everything.
-Your weirdness is the Sunshine.
-Oooooohhhh…. (ah ha ha ha)
-Your weirdness is the Sunshine.
-Your head is on a string.   ⚠ VERIFY — Jen hears "off its string" here too; "on a string" may be a transcription error in the source doc.
-Your weirdness is the Sunshine.
+Your weirdness is the sunshine
+It shines on everything
+Your weirdness is the sunshine
+Ooh (Ba ba ba ba)
+Your weirdness is the sunshine
+Your head is off its string
+Your weirdness is the sunshine
+Ooh (Ba ba ba ba)
 
 [Verse 2]
-I grew up fast as lightening.
-I changed my name.
-No other child is like me.
+I grew up fast as lightning
+I changed my name
+No other child was like me
 Why am I this way?
 
+[Pre-Chorus — repeated]
+Thinking I should end it lately
+Then I saw a little light
+She looked like an angel, baby
+But her face was out of sight
+She said, "Stop pretending, baby
+You were born to shine"
+(Shine your light! Shine your light!)
+Ya know, ya know, ya know
+
 [Bridge]
-You're weird, And that's alright!
-You know
-You're strange, And that's alright!
+You're weird
+And that's alright
+You know you're strange
+And that's alright
 
 [Chorus]
-And now I know that all my weirdness is my Sunshine.
-It shines on everything.
-My weirdness is my Sunshine.
-
-[Post-Chorus]
-My weirdness is my Sunshine.
-My head is off its string.
-My weirdness is my Sunshine.
+And now I know that all my weirdness is my sunshine
+It shines on everything
+My weirdness is my sunshine
+Ooh (Ba ba ba ba)
+My weirdness is my sunshine
+My head is off its string
+My weirdness is my sunshine
+Ooh (Ba ba ba ba)
 
 [Outro]
-(ah ha ha ha) Shines on everything
+Ooh (Ba ba ba ba) [×3]
+It shines on everything
+(Ba ba ba ba)
+Your weirdness is the sunshine
+It shines on everything
+(Ba ba ba ba)
+Your weirdness is the sunshine
+Ooh (Ba ba ba ba)
 ```
 
 ## Maintenance
-- Bulk-ingested 2026-05-25 from Google Drive doc 1 (album doc).
-- **Not yet verified** against streaming release. Record URLs in `verified_against`; flip `status` to `stable`. Official release wins on divergence.
+- Original bulk-ingest 2026-05-25 from Google Drive doc 1 (album doc).
+- Corrected 2026-05-27 against AZLyrics (Jen-supplied). Ideally verify final word-level details against Apple Music streaming; AZLyrics is reliable but not official.

@@ -25,12 +25,13 @@ related: [CHAR-Roy, CHAR-SirLucius, CHAR-Mary, SONG-BALLERINABOY, ALBUM-LuciusLu
 Everything below is in the public lyric or the confirmed public EP4 exchange:
 
 - **The Spoon EP4 exchange (none — transcript):** Lucius says *"I'm your weirdness."* Roy answers: *"Your weirdness is the sunshine."* These lines become the song's Intro verbatim — the song begins exactly where the scene ends.
-- **The childhood image:** *"When I was just a young one, I danced in the rain / Life was a joke before. Now I'm in pain."* Pre-shame freedom, then the fall — the same biographical arc as [[Ballerina Boy]], but the focus here is on what happens when the wounded self starts reinterpreting the wound.
-- **The crisis and the intervention:** *"Thinkin' I should end it lately / Then I saw her little light / She looked like an angel baby / But her face was out of sight / She said stop pretending, baby / You were born to shine."*
-- **The pronoun shift (structural spine):** Intro and first chorus: *"Your weirdness is the Sunshine."* Final chorus and post-chorus: *"And now I know that all my weirdness is my Sunshine / My head is off its string."* Integration grammar, in the lyric itself.
-- **The string line:** Post-chorus: *"My head is off its string."* Source doc also transcribes the first chorus as *"Your head is on a string"* — but this may be a transcription error (Jen hears *"off its string"* in both instances). **Do not assert an on/off structural arc until verified against the streaming release.** The "head off its string" image stands regardless: liberation from puppet-control, connection to [[The Circle]]'s "world tied on a string."
-- **The bridge (permission):** *"You're weird, and that's alright / You're strange, and that's alright."*
-- **Biographical verse 2 (none — lyric):** *"I grew up fast as lightning / I changed my name / No other child is like me / Why am I this way?"* — the name change is explicitly in the lyric; it anchors the Roy English → Jagwar Twin transformation. The self-questioning ("Why am I this way?") is the question that precedes integration.
+- **The childhood image (none — lyric):** *"When I was just a young one, I danced in the rain / Life was a joke, a fun one / Now I'm in pain."* The childhood was genuinely fun before it became the wound — the joy was real, not a fantasy. Pre-shame freedom, then the fall; the same biographical arc as [[Ballerina Boy]], different emphasis.
+- **The crisis and the intervention (none — lyric):** *"Thinking I should end it lately / Then I saw a little light / She looked like an angel, baby / But her face was out of sight / She said, 'Stop pretending, baby / You were born to shine.'"* The pre-chorus appears **twice** in the song — once after verse 1 (childhood wound) and again after verse 2 (industry wound). The figure arrives at both breaking points, not one.
+- **The pronoun shift (structural spine, none — lyric):** Intro and Chorus 1: *"Your weirdness is the sunshine."* Final chorus: *"And now I know that all my weirdness is my sunshine."* Integration grammar in the lyric itself.
+- **The string line — both instances (none — AZLyrics, confirmed):** Chorus 1: *"Your head is off its string."* Final chorus: *"My head is off its string."* Both say "off." No on/off arc — see Strong Read below.
+- **The bridge (none — lyric):** *"You're weird, and that's alright / You're strange, and that's alright."*
+- **Biographical verse 2 (none — lyric):** *"I grew up fast as lightning / I changed my name / No other child was like me / Why am I this way?"* — the name change is explicitly in the lyric; it anchors the Roy English → Jagwar Twin transformation. "Was like me" (past tense): the strangeness is being remembered from the vantage of adulthood, not claimed as present identity — though the self-questioning ("Why am I this way?") is present tense.
+- **Outro (none — lyric):** After claiming "my weirdness is my sunshine," the song closes: *"Your weirdness is the sunshine."* Returns to the same register it opened in — see Open Questions.
 
 ---
 
@@ -46,7 +47,9 @@ That is the metaphysical reversal the song turns on. The thing that seemed like 
 
 The pre-chorus introduces a figure who appears at the edge of despair:
 
-> *Then I saw her little light / She looked like an angel baby / But her face was out of sight*
+> *Then I saw a little light / She looked like an angel, baby / But her face was out of sight*
+
+This pre-chorus appears **twice** in the song — once after verse 1 (the childhood wound) and again after verse 2 (the industry wound). She does not come once at the worst moment. She comes at both. The figure is persistent, not situational — which reinforces the Mary-class reading: this is not a vision; it is a recurring presence.
 
 Her facelessness is not incidental. She cannot be reduced to a romantic object, a celebrity image, a mirror projection, or a normal identity. She is there to reveal, not to be consumed. The same faceless feminine blessing voice appears:
 - in [[Ballerina Boy]] (the older motherly voice whose face is never shown, delivering "let your light shine")
@@ -72,21 +75,21 @@ This is the Lucius signature working in reverse. Lucius reflects the false world
 The movement across the song:
 
 - **Intro:** *"Your weirdness is the Sunshine"* — attributed outward, in Lucius's voice, still external
-- **First chorus:** *"Your weirdness is the Sunshine"* — still "your" *(the string line in this chorus is under verification — see Open Questions)*
+- **Chorus 1:** *"Your weirdness is the Sunshine / Your head is off its string"* — still "your," but notably the head is already off the string; the liberation is already stated (see string section below)
 - **Final chorus:** *"And now I know that all my weirdness is my Sunshine"* — claimed, first person, fully owned
-- **Post-chorus:** *"My head is off its string"* — liberation follows the claim, not the other way around
+- **Final chorus string line:** *"My head is off its string"* — same line, same state, different pronoun. The whole change is in the possessive, not in the string.
 
 The weirdness is no longer Lucius's domain. It is no longer a symptom or a defect. It is Roy's. This is Jungian individuation rendered as lyric: the split-off content is recognized, named, and reintegrated into the self. The shadow is not destroyed. It is known.
 
-### The string line — "my head is off its string"
+### The string line — what it means that both say "off its string"
 
-*(Note: the source lyric doc transcribes the first chorus as "your head is on a string," but this may be a transcription error — see Open Questions. The reading below holds for the confirmed post-chorus line and does not depend on the on/off contrast.)*
+Both chorus and final chorus use the same line: *"Your / My head is off its string."* There is no on/off arc across the song. The liberation is stated throughout — the head was already off the string in the first chorus, before the pronoun shifted.
 
-*"My head is off its string."* That image is the post-chorus counterpart to the pronoun shift — after *my weirdness is my sunshine*, the head comes free. The string is the control system: the algorithm, the audience-dependency, the Lucius machinery. A marionette off its wire.
+That is the more precise reading: **weirdness was never contained.** The string was never really holding. The control system — the algorithm, audience-dependency, the Lucius machinery — was not, in fact, the puppet-master it claimed to be. What changed between chorus 1 and the final chorus is not the state of the head; it is the state of the possessive. *Your* head is off its string — but whose head is it? *My* head is off its string — that is the answer.
 
-The image recurs in [[The Circle]] — *"a world tied on a string"* — where the string is creative connection, the thread between self and source. Here its breaking is freedom. Not clean, safe liberation — there is something almost vertiginous about a head off its string. But it is the moment the puppet becomes the person.
+The string image recurs in [[The Circle]] — *"a world tied on a string"* — where the string is creative connection, the thread between self and source. Here, in both iterations, the string is absent. The vertiginous quality of *"off its string"* is not new at the end of the song. It was already there. The song is not a journey from control to freedom; it is a journey from *not knowing the freedom was yours* to *knowing it.*
 
-The deeper movement: *the head is no longer the master.* The mind must serve the heart. The string that held the head in place was the mind's authority over the body — and its breaking is the first step toward *"my mind must serve my heart."*
+The deeper movement: *the head is no longer the master.* The mind must serve the heart. The string that might have held the head in its old command structure is simply not there — and the song is the act of finding that out.
 
 ### Lucius not simply dark
 
@@ -140,12 +143,13 @@ Weirdness orients toward Tiferet — the solar heart-center, the place where bea
 
 ## Open Questions
 
-- [ ] **"Your head is on a string" — VERIFY AGAINST STREAMING.** Source doc has this in the first chorus; Jen hears *"off its string"* in both chorus and post-chorus. If Jen's hearing is correct: the on/off structural contrast does not exist; both instances say "off." The "head off its string" image still stands (liberation, puppet-control, Circle resonance), but the reading of the first chorus as "controlled state" must be dropped. Pull the streaming release and confirm before the string-arc argument goes into any published form.
-- [~] **Mary-class angel = BB outro voice?** Working assumption: yes, same figure (faceless blessing, "born to shine" language). Credits/casting source would settle. The cross-catalogue pattern is strong enough to hold as strong read.
-- [ ] **"I changed my name"** — strongest explicit lyric anchor for the Roy English → Jagwar Twin transition. Worth noting in [[Roy]] biography section.
-- [ ] **Track 13 on Lucius Lullaby** — intentional placement? The number carries esoteric resonance (thirteen = transformation/death-and-rebirth in various traditions). Flag, don't assert.
+- [x] **String line — CONFIRMED (none — AZLyrics, Jen).** Both chorus and final chorus say *"off its string."* No on/off arc exists. The string reading is revised: the liberation was stated throughout; the whole change is the pronoun. (See Strong Read — string section.)
+- [ ] **Outro returns to "Your weirdness is the sunshine."** After claiming "my weirdness is my sunshine," the song closes on the "your" register. Three possible readings: (1) structural envelope — begins and ends the same, integration happens in the middle; (2) gift to the listener — having claimed his own light, Roy turns and names yours; (3) the Lucius register persists, unresolved. None of these requires the others to be wrong. Worth sitting with before asserting any one.
+- [~] **Mary-class angel = BB outro voice?** Working assumption: yes, same figure (faceless blessing, "born to shine" language). Pre-chorus appearing twice in this song strengthens the reading — she is persistent, not situational. Credits/casting source would settle.
+- [ ] **"I changed my name"** — strongest explicit lyric anchor for the Roy English → Jagwar Twin transition. Note in [[Roy]] biography section.
+- [ ] **Track 13 on Lucius Lullaby** — intentional placement? Flag, don't assert.
 - [ ] **Is this full integration?** No — working reading is threshold, not terminus. Lucius still exists in EP7 (post-Weirdness in release order). The shadow is named but not reconciled. Worth watching how the album arc positions this track relative to the end.
-- [ ] **Verse 2 biographical sequence** — "I grew up fast as lightning / I changed my name" suggests an accelerated timeline between childhood wound and identity transformation. Is the name-change presented as flight from the wound, or as its first reckoning?
+- [ ] **"No other child was like me"** — past tense. The strangeness is being remembered from adulthood, not claimed as current identity. How does this sit with "Why am I this way?" (present tense) immediately after? The temporal slippage may be intentional — the wound is past, the question is ongoing.
 
 ---
 
@@ -158,7 +162,7 @@ Weirdness orients toward Tiferet — the solar heart-center, the place where bea
 | [[Welcome to the Circus]] | The public performance of the Lucius system; Weirdness is the private threshold that counters it. |
 | [[#1 Champion (la Conquistadora)]] | Mary named here; same figure who appears faceless in Weirdness. |
 | [[Lucius Lullaby]] | Mary appears twice (face hidden); consistent with Weirdness appearance. |
-| [[The Circle]] | "A world tied on a string" — first chorus "your head is on a string." The string as control system. |
+| [[The Circle]] | "A world tied on a string" — both chorus instances say "your/my head is off its string." The freedom was already there; the song is finding out it's yours. |
 | [[SOL]] | The love-current beneath the weirdness; the song Lucius cannot metabolize. |
 | [[Sir Lucius]] | EP4 Pleading Mode — "I'm your weirdness" — this is the moment Lucius names his own function. The song is Roy's answer. |
 | [[Mary]] | Divine-feminine appearance tracker — Weirdness is a key row (faceless angel, "born to shine"). |
@@ -168,7 +172,7 @@ Weirdness orients toward Tiferet — the solar heart-center, the place where bea
 ## Sources
 
 ### Song & Official Release
-- "Weirdness" — Jagwar Twin; Track 13 on *Lucius Lullaby* (March 27, 2026). Lyrics: [[Sources/Lyrics/Weirdness]] (bulk-ingested 2026-05-25; not yet verified against streaming release).
+- "Weirdness" — Jagwar Twin & Sir Lucius; Track 13 on *Lucius Lullaby* (March 27, 2026). Lyrics: [[Sources/Lyrics/Weirdness]] (bulk-ingested 2026-05-25 from Google Drive doc; corrected 2026-05-27 against AZLyrics — ideally cross-check against Apple Music streaming for final word-level verification).
 
 ### Visual Lore
 - *The Spoon* **EP4** ("weirdness," February 17, 2026, https://www.youtube.com/watch?v=DKD44ULpy3o): Lucius eating an apple, childlike: *"I'm your weirdness."* Roy: *"Your weirdness is the sunshine."* — the exchange that becomes the Intro. Map + URLs in [[Master Source List]] §2.

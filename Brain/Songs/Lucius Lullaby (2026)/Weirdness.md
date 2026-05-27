@@ -25,14 +25,16 @@ Lucius: *"I'm your weirdness."* Roy: *"Your weirdness is the sunshine."* These l
 
 ## Structural moves
 - [W] **Pronoun shift** — Intro/Chorus 1: *"Your weirdness is the Sunshine"* (attributed outward, Lucius-tagged); Final Chorus/Post-Chorus: *"all my weirdness is my Sunshine."* Integration grammar: projection → ownership. The whole song is that movement.
-- [?] **String line** — Post-Chorus confirmed: *"my head is off its string"* (liberation from puppet-control; connects to [[The Circle]] "world tied on a string"). **VERIFY:** source doc transcribes first Chorus as *"your head is on a string"* — but Jen hears *"off its string"* in both instances. If correct, the on/off contrast does not exist; hold the arc reading until verified against streaming.
+- [W] **String line — both say "off its string"** (none — AZLyrics, confirmed Jen): Chorus 1: *"your head is off its string"*; Final Chorus: *"my head is off its string."* No on/off arc — the liberation is stated throughout. [P] The whole change is the **pronoun**: weirdness was always uncontained; the question was whether that freedom was owned ("my") or projected ("your"). Connects to [[The Circle]] "world tied on a string."
+- [W] **Pre-chorus appears twice** — after Verse 1 (childhood crisis) and after Verse 2 (industry crisis). The angel figure arrives at both breaking points, not one; reinforces [[Mary]]-class as a persistent figure, not a single apparition.
+- [W] **Outro returns to "Your"** — after claiming "my weirdness is my sunshine," the song closes on *"Your weirdness is the sunshine."* Structural envelope (begins and ends in the same register); or gift to the listener after integration; or the Lucius register remains present. Open.
 - [P] **Anti-pretense reversal** — [[Not Your Homie]]: *"Let's not pretend"* = Lucius enforcing distance; Weirdness: *"Stop pretending, baby / you were born to shine"* = dissolving the mask. Same phrase, opposite vector. Lucius uses anti-pretense to push away; the [[Mary]]-class voice uses it to open.
 - [W] **[[Mary]]-class faceless feminine** — *"She looked like an angel baby / but her face was out of sight."* Same register as [[Ballerina Boy]] outro voice and [[#1 Champion (la Conquistadora)]]. Tracked on [[Mary]] page.
 - [P] **Not full integration — threshold, not terminus.** Lucius still exists; shadow not fully reconciled. First successful ownership of split-off light.
 - [P] **Lucius not merely dark.** If his weirdness is sunshine, then he is distorted light — not absence of light. Reclaiming requires taking back what he carries, not defeating him.
 
 ## Biographical (none — lyric)
-*"When I was just a young one, I danced in the rain / Life was a joke before. Now I'm in pain."* → pre-shame freedom → fall (mirrors [[Ballerina Boy]]). *"I grew up fast as lightning / I changed my name."* — Roy English → Jagwar Twin; the name-change is explicitly in the lyric. *"No other child is like me / Why am I this way?"* — the question before integration arrives.
+*"When I was just a young one, I danced in the rain / Life was a joke, a fun one / Now I'm in pain."* → pre-shame freedom → fall (mirrors [[Ballerina Boy]]). *"I grew up fast as lightning / I changed my name."* — Roy English → Jagwar Twin; name-change is explicitly in the lyric. *"No other child was like me / Why am I this way?"* — the question before integration arrives.
 
 ## Open Questions
 - [ ] "I changed my name" — strongest explicit lyric anchor for Roy→JT identity shift; note in [[Roy]] biography
