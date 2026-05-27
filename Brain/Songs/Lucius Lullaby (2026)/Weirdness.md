@@ -25,7 +25,7 @@ Lucius: *"I'm your weirdness."* Roy: *"Your weirdness is the sunshine."* These l
 
 ## Structural moves
 - [W] **Pronoun shift** — Intro/Chorus 1: *"Your weirdness is the Sunshine"* (attributed outward, Lucius-tagged); Final Chorus/Post-Chorus: *"all my weirdness is my Sunshine."* Integration grammar: projection → ownership. The whole song is that movement.
-- [W] **String arc** — First Chorus: *"your head is on a string"* (puppet/control state, still external); Post-Chorus: *"my head is off its string"* (liberation, after pronoun claim). Connects to [[The Circle]] "a world tied on a string."
+- [?] **String line** — Post-Chorus confirmed: *"my head is off its string"* (liberation from puppet-control; connects to [[The Circle]] "world tied on a string"). **VERIFY:** source doc transcribes first Chorus as *"your head is on a string"* — but Jen hears *"off its string"* in both instances. If correct, the on/off contrast does not exist; hold the arc reading until verified against streaming.
 - [P] **Anti-pretense reversal** — [[Not Your Homie]]: *"Let's not pretend"* = Lucius enforcing distance; Weirdness: *"Stop pretending, baby / you were born to shine"* = dissolving the mask. Same phrase, opposite vector. Lucius uses anti-pretense to push away; the [[Mary]]-class voice uses it to open.
 - [W] **[[Mary]]-class faceless feminine** — *"She looked like an angel baby / but her face was out of sight."* Same register as [[Ballerina Boy]] outro voice and [[#1 Champion (la Conquistadora)]]. Tracked on [[Mary]] page.
 - [P] **Not full integration — threshold, not terminus.** Lucius still exists; shadow not fully reconciled. First successful ownership of split-off light.

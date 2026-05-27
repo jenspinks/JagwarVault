@@ -43,7 +43,7 @@ It shines on everything.
 Your weirdness is the Sunshine.
 Oooooohhhh…. (ah ha ha ha)
 Your weirdness is the Sunshine.
-Your head is on a string.
+Your head is on a string.   ⚠ VERIFY — Jen hears "off its string" here too; "on a string" may be a transcription error in the source doc.
 Your weirdness is the Sunshine.
 
 [Verse 2]

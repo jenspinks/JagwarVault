@@ -28,7 +28,7 @@ Everything below is in the public lyric or the confirmed public EP4 exchange:
 - **The childhood image:** *"When I was just a young one, I danced in the rain / Life was a joke before. Now I'm in pain."* Pre-shame freedom, then the fall — the same biographical arc as [[Ballerina Boy]], but the focus here is on what happens when the wounded self starts reinterpreting the wound.
 - **The crisis and the intervention:** *"Thinkin' I should end it lately / Then I saw her little light / She looked like an angel baby / But her face was out of sight / She said stop pretending, baby / You were born to shine."*
 - **The pronoun shift (structural spine):** Intro and first chorus: *"Your weirdness is the Sunshine."* Final chorus and post-chorus: *"And now I know that all my weirdness is my Sunshine / My head is off its string."* Integration grammar, in the lyric itself.
-- **The string arc:** First chorus: *"Your head is on a string"* (puppet/controlled state). Post-chorus: *"My head is off its string"* (liberation — occurs only after the pronoun claim).
+- **The string line:** Post-chorus: *"My head is off its string."* Source doc also transcribes the first chorus as *"Your head is on a string"* — but this may be a transcription error (Jen hears *"off its string"* in both instances). **Do not assert an on/off structural arc until verified against the streaming release.** The "head off its string" image stands regardless: liberation from puppet-control, connection to [[The Circle]]'s "world tied on a string."
 - **The bridge (permission):** *"You're weird, and that's alright / You're strange, and that's alright."*
 - **Biographical verse 2 (none — lyric):** *"I grew up fast as lightning / I changed my name / No other child is like me / Why am I this way?"* — the name change is explicitly in the lyric; it anchors the Roy English → Jagwar Twin transformation. The self-questioning ("Why am I this way?") is the question that precedes integration.
 
@@ -72,19 +72,19 @@ This is the Lucius signature working in reverse. Lucius reflects the false world
 The movement across the song:
 
 - **Intro:** *"Your weirdness is the Sunshine"* — attributed outward, in Lucius's voice, still external
-- **First chorus:** *"Your weirdness is the Sunshine / Your head is on a string"* — still "your," still a puppet
+- **First chorus:** *"Your weirdness is the Sunshine"* — still "your" *(the string line in this chorus is under verification — see Open Questions)*
 - **Final chorus:** *"And now I know that all my weirdness is my Sunshine"* — claimed, first person, fully owned
 - **Post-chorus:** *"My head is off its string"* — liberation follows the claim, not the other way around
 
 The weirdness is no longer Lucius's domain. It is no longer a symptom or a defect. It is Roy's. This is Jungian individuation rendered as lyric: the split-off content is recognized, named, and reintegrated into the self. The shadow is not destroyed. It is known.
 
-### The string arc — puppet-control and liberation
+### The string line — "my head is off its string"
 
-The first chorus holds: *"Your head is on a string."* That image is suffocation — the string here is the control system: the algorithm, the audience-dependency, the Lucius machinery that runs Roy's decisions. A marionette.
+*(Note: the source lyric doc transcribes the first chorus as "your head is on a string," but this may be a transcription error — see Open Questions. The reading below holds for the confirmed post-chorus line and does not depend on the on/off contrast.)*
 
-By the post-chorus, after the pronoun has shifted: *"My head is off its string."*
+*"My head is off its string."* That image is the post-chorus counterpart to the pronoun shift — after *my weirdness is my sunshine*, the head comes free. The string is the control system: the algorithm, the audience-dependency, the Lucius machinery. A marionette off its wire.
 
-That image recurs in [[The Circle]] — *"a world tied on a string"* — where the string is creative connection, the thread between self and source. Here the string is control; its breaking is freedom. The ecstatic risk of disconnecting the head from the old command structure. Not clean, safe liberation — there is something almost vertiginous about *"my head is off its string."* But it is the first moment the puppet becomes the person.
+The image recurs in [[The Circle]] — *"a world tied on a string"* — where the string is creative connection, the thread between self and source. Here its breaking is freedom. Not clean, safe liberation — there is something almost vertiginous about a head off its string. But it is the moment the puppet becomes the person.
 
 The deeper movement: *the head is no longer the master.* The mind must serve the heart. The string that held the head in place was the mind's authority over the body — and its breaking is the first step toward *"my mind must serve my heart."*
 
@@ -140,6 +140,7 @@ Weirdness orients toward Tiferet — the solar heart-center, the place where bea
 
 ## Open Questions
 
+- [ ] **"Your head is on a string" — VERIFY AGAINST STREAMING.** Source doc has this in the first chorus; Jen hears *"off its string"* in both chorus and post-chorus. If Jen's hearing is correct: the on/off structural contrast does not exist; both instances say "off." The "head off its string" image still stands (liberation, puppet-control, Circle resonance), but the reading of the first chorus as "controlled state" must be dropped. Pull the streaming release and confirm before the string-arc argument goes into any published form.
 - [~] **Mary-class angel = BB outro voice?** Working assumption: yes, same figure (faceless blessing, "born to shine" language). Credits/casting source would settle. The cross-catalogue pattern is strong enough to hold as strong read.
 - [ ] **"I changed my name"** — strongest explicit lyric anchor for the Roy English → Jagwar Twin transition. Worth noting in [[Roy]] biography section.
 - [ ] **Track 13 on Lucius Lullaby** — intentional placement? The number carries esoteric resonance (thirteen = transformation/death-and-rebirth in various traditions). Flag, don't assert.
