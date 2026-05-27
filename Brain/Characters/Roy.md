@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, CHAR-JagwarTwin, ALBUM-SubjectToFlooding, ALBUM-33, SONG-LuciusLullaby]
   strong_read: [CHAR-Mary, CHAR-BallerinaBoy, SONG-SOL, CONCEPT-TheDwellerOnTheThreshold]
   resonance:   [CONCEPT-Tiferet, CONCEPT-Yesod, CONCEPT-Malkhut, CONCEPT-TheAngleAngel]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-SirLucius, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, SONG-BALLERINABOY, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-Weirdness, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, CONCEPT-TheAudience, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-TheVeil, CONCEPT-TheVoice, SONG-BALLERINABOY, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-Weirdness, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Roy
@@ -22,6 +22,9 @@ Bands → solo 2015 → Jagwar Twin 2018. Dropped by major label; breakup; lost 
 
 ## Stated about the work (none)
 Studies [[Kabbalah]]. Writes "Hebrew style": consonants=structure (angles), vowels=breath/God (angels) — [P] the [[The Thread|thread]] cluster. Some songs come "beyond his intelligence." [[SOL]] = most connected to. [[The Circle|Circle]] at the heart of all.
+
+## Lyric anchors (none — lyrics)
+*"I changed my name"* ([[Weirdness]], V2) — strongest explicit lyric anchor for Roy English → Jagwar Twin as intentional identity transformation, not just rebranding. *"When I was just a young one, I danced in the rain / Life was a joke, a fun one"* ([[Weirdness]], V1) — childhood pre-shame freedom maps to [[Ballerina Boy]] wound.
 
 ## Relationships
 - [[Sir Lucius]] — "I made you." Mind divorced from heart; Lucius pulled him from bottom.

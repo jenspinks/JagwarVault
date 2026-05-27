@@ -10,7 +10,15 @@ connections:
   grounded:    [CHAR-Roy, CHAR-BallerinaBoy]
   strong_read: [CHAR-SirLucius, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMask, SONG-HappyFace, SONG-NotYourHomie, SONG-Weirdness, SONG-TheCircle, CONCEPT-TheThread, CHAR-Mary, SONG-SOL]
   resonance:   [CONCEPT-Malkhut, CONCEPT-Yesod, CONCEPT-Tiferet, CONCEPT-TheMoon, SONG-SoulIsAStar, SONG-AnotherWayIIHeaven]
-referenced_by: [CHAR-Mary, SONG-Weirdness]
+referenced_by: [CHAR-Mary, CONCEPT-Nigredo, CONCEPT-TheMouth, CONCEPT-TheVoice, SONG-Weirdness]
+dominant_pole: lunar
+transformation_phase: nigredo
+recursion_state: orbit
+threshold_state: approaching
+narrative_voice: mixed
+temporal_register: past
+active_systems: [Reflection]
+active_symbols: [Moon, Mirror, Thread]
 review_date: 2026-11-16
 ---
 # BALLERINA BOY

@@ -11,6 +11,14 @@ connections:
   strong_read: [CHAR-Mary, CONCEPT-TheMirror, CONCEPT-TheCircle, CHAR-BallerinaBoy, SONG-SOL]
   resonance:   [CONCEPT-Malkhut, CONCEPT-Yesod]
 referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-Roy, CHAR-SirLucius, SONG-WelcomeToTheCircus]
+dominant_pole: mixed
+transformation_phase: nigredo
+recursion_state: return
+threshold_state: approaching
+narrative_voice: mixed
+temporal_register: past
+active_systems: [Reflection]
+active_symbols: [Moon, Mirror, Stars]
 review_date: 2026-11-16
 ---
 # Lucius Lullaby

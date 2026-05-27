@@ -5,12 +5,20 @@ status: stable
 confidence: high
 source_quality: primary-source
 sources: [Sources/Lyrics/Weirdness.md]
-related: [CHAR-SirLucius, CHAR-Mary, CHAR-Roy, CHAR-BallerinaBoy, SONG-NotYourHomie, SONG-BALLERINABOY, ALBUM-LuciusLullaby]
+related: [CHAR-Roy, CHAR-SirLucius, CHAR-Mary, SONG-BALLERINABOY, ALBUM-LuciusLullaby]
 connections:
   grounded:    [CHAR-Roy, CHAR-SirLucius, CHAR-Mary, ALBUM-LuciusLullaby]
   strong_read: [CHAR-BallerinaBoy, SONG-BALLERINABOY, SONG-NotYourHomie, CONCEPT-TheMirror, CONCEPT-TheAlgorithm, SONG-TheCircle]
   resonance:   [CONCEPT-Tiferet, CONCEPT-Yesod, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLightBearer]
-referenced_by: [CHAR-Mary, CHAR-SirLucius, SONG-BALLERINABOY]
+referenced_by: [CHAR-Mary, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, SONG-BALLERINABOY]
+dominant_pole: mixed
+transformation_phase: albedo
+recursion_state: return
+threshold_state: crossing
+narrative_voice: mixed
+temporal_register: transitional
+active_systems: [Circus, Algorithm, Reflection]
+active_symbols: [Sun, Moon, Mirror]
 review_date: 2026-11-16
 ---
 # Weirdness

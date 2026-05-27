@@ -127,6 +127,10 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 | `CONCEPT-Tiferet` | Tiferet | Kabbalah beauty/center; pending |
 | `CONCEPT-TheEmptyMirror` | The Empty Mirror | Lucius hand tattoo; pending |
 | `CONCEPT-TheAngleAngel` | The Angle/Angel | vowel/consonant, spirit/structure; pending |
+| `CONCEPT-Albedo` | Albedo | alchemical whitening / first reclamation; pending |
+| `CONCEPT-Rubedo` | Rubedo | alchemical completion / integration achieved; pending |
+| `CONCEPT-OrbitReturn` | Orbit / Return | orbit = sustained distance; return = transformative approach; pending |
+| `CONCEPT-TheSpeakerProblem` | The Speaker Problem | Brandon/Roy/JT/Lucius/lyrical-I layering; pending |
 | `CONCEPT-AnimaAnimus` | Anima/Animus | Jungian feminine/masculine within; pending |
 | `CONCEPT-AlchemicalTransmutation` | Alchemical Transmutation | broader alchemy arc (Nigredo→Rubedo); pending |
 | `CONCEPT-TheLoop` | The Loop / Cycles | recurring cycles, cosmic and personal; pending |
