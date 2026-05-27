@@ -71,7 +71,7 @@ And the voice that delivers it is **the cross-cutting figure.** It is now confir
 - [x] **The female voice — CONFIRMED.** The *entire* spoken outro (not only the moon line) is an older motherly female voice (Jen, audio) → the clearest [[Mary]]-class / divine-feminine appearance in the catalogue.
 - [x] **Lucius's mockery — CONFIRMED verbatim, The Interview EP3:** *"your lowest performing song… Ballerina Boy. When you're vulnerable you LOSE!"* (transcribed from the public episode).
 - [~] **Who is "you"** — partly answered: the motherly/divine voice addresses the child directly, *"there's no one else like you out there."* So the refrain's "you" is at least the buried child being blessed; whether it also reaches a person or the divine stays open.
-- [ ] **The "inner-child account" — still re-check which series.** The EP-lore transcript (The Interview / The Spoon) does *not* contain the meditative return-to-the-boy / future-self account; it was attributed to *"The Mirror Sessions,"* a **separate 2023–24 docuseries** (Roy interviewing other guests). Re-locate to the correct public series + episode/URL before citing as Grounded. Flag, don't assert. (See [[Master Source List]] §2.)
+- [ ] **Mirror Sessions inner-child account — episode/URL still needed.** The inspiration story is in a **Mirror Sessions** episode — the series attribution is correct. Mirror Sessions = Roy interviewing friends and other artists (c. 2023–24); biographical/authorial, not lore/theatrical. The story is citable as authorial intent once the specific episode name/URL is pinned. (See [[Master Source List]] §2.)
 - [x] **Release metadata — confirmed.** Released **June 13, 2025**; ℗ 2025 Big Loud Rock, under exclusive license to Mercury Records (UMG) (Apple Music / MusicBrainz). *Why* kept off the album remains unstated publicly — interpretation, not fact.
 
 ## Counterarguments / Alternate Reads
@@ -103,7 +103,7 @@ And the voice that delivers it is **the cross-cutting figure.** It is now confir
 
 ### Visual Lore
 - *The Interview* **EP3** — Lucius's mockery of Ballerina Boy, verbatim: *"your lowest performing song… Ballerina Boy. When you're vulnerable you LOSE!"* Transcribed from the public episode; map + URLs in [[Master Source List]] §2.
-- **"Inner-child" account — series still to re-confirm** *(pending)*. Attributed to "The Mirror Sessions," but that is a *separate* 2023–24 interview docuseries (Roy interviewing other guests), not the Lucius lore, and the EP-lore transcript doesn't contain it. Re-locate to the correct public series/episode before citing. (See [[Master Source List]] §2.)
+- **The Ballerina Boy inspiration story** is in a **Mirror Sessions** episode (none — Mirror Sessions: Roy interviewing friends/artists, c. 2023–24; authorial biography, citable for intent). The series attribution is correct; specific episode name/URL still pending before it can be cited as Grounded. (See [[Master Source List]] §2.)
 
 ### Frameworks Drawn On
 - C. G. Jung — the divine child; the compensating shadow; integration over transcendence.

@@ -16,6 +16,24 @@ related: [CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMirror, CHAR-Ma
 
 ---
 
+## The El Roi Cluster (resonance)
+
+The tattoo is grounded: **El Roi** (אל ראי) — Hebrew for *"the God who sees me"* (Genesis 16, Hagar naming God after being seen in the wilderness: the only instance in scripture where a human names God) — inked in stylized Hebrew **on his neck/throat**. The throat placement is already load-bearing: "being seen" lives on the organ of utterance, the Da'at gate between the visible and the interior (see [[Not Your Homie]]).
+
+The cluster below is **resonance-tier**, enabled by Roy's stated compositional method — the consonants/vowels framework (none — Roy's own interviews): *consonants = structure / angles; vowels = activation / breath / God.* The Hebrew writing system natively encodes consonantal roots and fills them with vowels to generate meaning. Reading across vowel variations is what the system *permits*. It does not mean the tattoo asserts all of these simultaneously. The system permits; the artist uses; the reader listens.
+
+**Root cluster (ר-א-י, r-'-y):**
+
+- *re'i* — "my seeing"; also the Hebrew root for *mirror* (מַרְאָה, *mar'ah* — "that which shows"; a mirror is literally the root ר-א-ה / ר-א-י, "thing that makes visible")
+- *ari* — lion (אַרְיֵה shares the same consonants: aleph-resh-yod-he), pointing toward Leo and the light-bearer archetype
+- The full *אֵל* (El — strength, divinity) × *רֹאִי* (ro'i — "my seeing/seer") = the one whose gaze constitutes me
+
+**Functional synthesis (Jen's position):** *"The one in whose seeing I am reflected."* Seeing, reflection, light, identity, and guidance collapse into a single glyph, worn on the throat of the figure whose entire existence *is* reflection. And it is **Lucius's** tattoo — not Roy's. The mirror-self wears the name of the divine seer. He claims the "seen" position even while performing the "seer" role. That is either the deepest irony in the project, or the deepest honesty.
+
+**Guard:** This is not literary polysemy or symbol-stacking. The reading system allows the resonances to be *heard*. They are harmonics, not claims.
+
+---
+
 ## Timeline (Open)
 
 We do not know when Lucius started. We only know when he started leaving traces.

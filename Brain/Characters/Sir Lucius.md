@@ -31,6 +31,9 @@ The mind divorced from the heart. Co-credited artist on [[Lucius Lullaby (album)
 - [W] Reports to a [[The Boss|Boss]] ("my lullabi is everywhere"); disruptor pose may be assignment, not opposition.
 - [P] Not antagonist-simple: genuinely Roy's, genuinely accumulated, genuinely the obstacle — all at once.
 
+## El Roi cluster [resonance — system permits, not literal polysemy]
+Root ר-א-י (r-'-y), read through Roy's consonants/vowels framework (none — [[Roy]]): consonants=structure (angles), vowels=activation/breath → reading across vowel variations is permitted, not asserted. Cluster: *re'i* = "my seeing" / mirror (מַרְאָה shares root); *ari* = lion → Leo / light-bearer; *אֵל* (El) × *רֹאִי* = "God of my seeing." [P] Functional synthesis: *"the one in whose seeing I am reflected"* — seeing / reflection / light / identity / guidance as a tight cluster, landing on the throat (Da'at gate / utterance). That it is **Lucius's** tattoo (not Roy's) is the irony: the figure made of reflection wears the name of the divine seer. Guard: letters do not *mean* all of these — the system *permits* the resonances.
+
 ## Open Questions
 - [ ] Protecting Roy or training him to rule the Circus?
 - [ ] Who/what is the Boss (BMRC? algorithm? capital?)?
