@@ -62,7 +62,7 @@ hand-maintained thereafter.
 
 | ID | Display name | Note |
 |---|---|---|
-| `SONG-DreamDream` | Dream - Dream | Subject to Flooding (2018) |
+| `SONG-DreamDream` | Dream - Dream | Subject to Flooding (2018), track 2; interpolates Johnny Mercer's 1944 standard "Dream" (composers incl. Mercer + Sarah Vaughan) |
 | `SONG-GoodDay` | Good Day | Subject to Flooding (2018) |
 | `SONG-HellOfANightPt2TheHallelujahStickup` | Hell Of A Night Pt. 2 (The Hallelujah Stickup) | Subject to Flooding (2018) |
 | `SONG-HellOfANight` | Hell Of A Night | Subject to Flooding (2018) |

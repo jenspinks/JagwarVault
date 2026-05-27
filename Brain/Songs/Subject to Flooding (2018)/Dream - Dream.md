@@ -23,7 +23,11 @@ review_date: 2026-11-16
 ---
 # Dream / Dream
 
-Track 2, *Subject to Flooding* (2018, Atlantic Records). Writers: Roy English, Matt Pauling, Sarah Vaughn. **Lyrics: AZLyrics via MusixMatch (`status: draft`) — cross-check against Apple Music pending; all quotes carry `[?]`.**
+Track 2, *Subject to Flooding* (2018, Atlantic Records). **Composers (Apple Music): Johnny Mercer, Matthew Pauling, Roy English, Sarah Vaughan.** **Lyrics: AZLyrics via MusixMatch (`status: draft`) — quotes carry `[?]`.**
+
+## Interpolation (none — Apple Music composer credit + Mercer standard verified)
+**"Dream / Dream" interpolates Johnny Mercer's 1944 jazz standard "Dream (When You're Feeling Blue)"** — hence Mercer (original writer) and Sarah Vaughan (recorded the standard) in the composer credit. The doubled title = **the old Dream + the new Dream.** AZLyrics dropped Mercer entirely; this was the "AZLyrics had it wrong" error. ([?] Vaughan-as-composer when Mercer wrote it solo → likely her recording/arrangement is the sampled/interpolated source.)
+- [W] **The borrowed dream.** The song's awakening-anthem dream-language is not original to the speaker — it is inherited from the American songbook. A song that commands "dream, you gotta dream" is itself built on a 1944 dream. Deepens the pre-mirror reading: even the vehicle of liberation is received, not authored.
 
 ## Voicing
 [[Roy]], first-person/collective ("we"). Pre-Lucius-externalization — no mask visible in lyric. Speaker assumes system is external.

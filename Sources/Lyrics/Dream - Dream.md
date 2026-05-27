@@ -12,8 +12,10 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018) — track 2
-- **Writers:** Roy English, Matt Pauling, Sarah Vaughn
+- **Writers (composer credit, Apple Music):** Johnny Mercer, Matthew Pauling, Roy English, Sarah Vaughan
+- **Interpolation:** Interpolates **Johnny Mercer's 1944 jazz standard "Dream (When You're Feeling Blue)"** (recorded by Sarah Vaughan, among others). Mercer + Vaughan in the composer credit reflect that source. The doubled title "Dream / Dream" = the standard + the new Jagwar Twin song.
 - **Title styling:** "Dream/Dream" (slash); filed as `Dream - Dream` for filesystem.
+- **AZLyrics error (corrected 2026-05-27):** AZLyrics credited only "Brandon Wronski, Matt Pauling, Sarah Vaughn" — it **dropped Johnny Mercer entirely** and misspelled Vaughan. Apple Music composer field is authoritative here. ([?] *Why Vaughan is credited as composer when Mercer wrote it solo* — likely her specific recording/arrangement is the interpolated source.)
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)

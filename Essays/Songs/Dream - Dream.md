@@ -37,6 +37,7 @@ That distinction is critical.
 ## Grounded
 
 - "Dream / Dream" was released September 21, 2018 on *Subject to Flooding*.
+- **The song interpolates Johnny Mercer's 1944 jazz standard "Dream (When You're Feeling Blue)."** The Apple Music composer credit reads **Johnny Mercer, Matthew Pauling, Roy English & Sarah Vaughan** — Mercer wrote the original; Sarah Vaughan recorded it. The doubled title "Dream / Dream" marks the layering of the standard onto the new song. (AZLyrics omitted Mercer and misspelled Vaughan — the credit error that prompted this verification.)
 - The song repeatedly commands the listener to "dream."
 - The lyrics frame society as restrictive:
   - "Tryna stop our climb and keep us in line" [?]
@@ -260,6 +261,29 @@ Structurally, this makes "Dream / Dream" a pre-threshold song: the climb has beg
 
 ---
 
+### 8. The Borrowed Dream
+
+The composer credit — **Johnny Mercer, Matthew Pauling, Roy English & Sarah Vaughan** — reveals that the song is not an original utterance but an **interpolation of a 1944 jazz standard**, "Dream (When You're Feeling Blue)." This is grounded fact (Apple Music credit; the Mercer standard is well-documented). Its interpretive weight is considerable [W].
+
+Mercer's lyric: *"Dream, when you're feeling blue / Dream, that's the thing to do."*
+Jagwar Twin's hook: *"Dream, you gotta dream."* [?]
+
+The imperative is inherited. The awakening-anthem that tells the listener to dream is itself **built on a borrowed dream** — the dream-language is received from the American songbook, not authored by the speaker [W].
+
+This deepens, rather than undercuts, the pre-mirror reading:
+- In Section 6, the speaker's limitation was epistemic — he believed the system was external.
+- Here the limitation becomes formal — even his vehicle of liberation is **not his own**. He reaches for freedom using a language handed down to him.
+
+The doubled title "Dream / Dream" can now be read structurally:
+- the first **Dream** = the inherited standard (Mercer / Vaughan),
+- the second **Dream** = the new song layered over it.
+
+Two dreams, one title — the old dream and the attempt to make it new. Retrospectively this rhymes with the catalog's later concern that liberation-language can be **pre-scripted**: the Circus, too, hands the performer a script and calls it freedom [W]. Here the borrowing is benign — a love letter to a standard — but the structural fact (the dream is given, not generated) is the same one the later work will weaponize.
+
+[?] Why **Sarah Vaughan** appears as a *composer* (Mercer wrote the standard solo) is unresolved — most likely her specific recording/arrangement is the sampled or interpolated source, which would carry an adaptation credit.
+
+---
+
 ## Resonance
 
 ### Jungian Framework
@@ -339,7 +363,9 @@ The "stairway to Heaven" [?] functions symbolically as return-vector imagery: th
 
 ## Sources
 
-- Lyrics: `Sources/Lyrics/Dream - Dream.md` — AZLyrics via MusixMatch, ingested 2026-05-16 (`status: draft`; cross-check against Apple Music pending)
+- Lyrics: `Sources/Lyrics/Dream - Dream.md` — AZLyrics via MusixMatch, ingested 2026-05-16 (`status: draft`; lyric body cross-check against Apple Music still pending)
+- Composer credit (authoritative): Apple Music "Get Info" — Johnny Mercer, Matthew Pauling, Roy English & Sarah Vaughan
+- Johnny Mercer, "Dream (When You're Feeling Blue)" (1944 jazz standard); recorded by Sarah Vaughan, Frank Sinatra, the Pied Pipers, et al. — [Wikipedia](https://en.wikipedia.org/wiki/Dream_(1944_song))
 - *Subject to Flooding* (2018, Atlantic Records)
 - Carl Jung — *The Archetypes and the Collective Unconscious*
 - G.I. Gurdjieff — Fourth Way / Mechanical Sleep frameworks
