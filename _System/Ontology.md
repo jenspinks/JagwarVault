@@ -101,12 +101,12 @@ hand-maintained thereafter.
 | `SONG-GoodTime108` | Good Time (1-08) | Singles & EPs |
 | `SONG-LOOP` | LOOP | Singles & EPs |
 | `SONG-MAGIK` | MAGIK | Singles & EPs (title track styling; "EP" dropped per AZLyrics) |
-| `SONG-Shine` | Shine | Subject to Flooding (2018, reissue track) — confirmed via AZLyrics |
+| `SONG-Shine` | Shine | Subject to Flooding (2018), track 13 — confirmed via MusicBrainz |
 | `SONG-SideQuest` | SideQuest | Singles & EPs ("EP" dropped per AZLyrics) |
 | `SONG-TheWatchers` | The Watchers | Singles & EPs |
 | `SONG-Dumbledore` | dumbledore | Singles & EPs ("EP" dropped per AZLyrics; lyric ties to MAGIK) |
 | `SONG-TomorrowANGLEOFETERNITY` | tomorrow (ANGLE OF ETERNITY) | Singles & EPs |
-| `SONG-PreciousTime` | Precious Time | Subject to Flooding (2018, reissue track) — confirmed via AZLyrics tracklist |
+| `SONG-PreciousTime` | Precious Time | Subject to Flooding (2018), track 12 — confirmed via MusicBrainz |
 | `SONG-AllMyFriends` | All My Friends | Singles & EPs (2023 single, post-33) |
 | `SONG-LifeIsGood` | life is good | Singles & EPs (2023; w/ angelbaby) |
 
