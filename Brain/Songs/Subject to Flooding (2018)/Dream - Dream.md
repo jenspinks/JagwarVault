@@ -8,7 +8,7 @@ sources: [Sources/Lyrics/Dream - Dream.md]
 related: [CHAR-Roy, ALBUM-SubjectToFlooding, SONG-WelcomeToTheCircus, SONG-BALLERINABOY, SONG-LuciusLullaby]
 connections:
   grounded:    [CHAR-Roy, ALBUM-SubjectToFlooding]
-  strong_read: [SONG-WelcomeToTheCircus, SONG-BALLERINABOY, SONG-LuciusLullaby, CONCEPT-SleepWakeUp, CONCEPT-OrbitReturn]
+  strong_read: [SONG-WelcomeToTheCircus, SONG-BALLERINABOY, SONG-LuciusLullaby, CONCEPT-SleepWakeUp, CONCEPT-OrbitReturn, CONCEPT-InheritedSubstrate]
   resonance:   [CONCEPT-Yesod, CONCEPT-Tiferet, CONCEPT-ObjectiveArt]
 referenced_by: []
 dominant_pole: solar

@@ -30,7 +30,7 @@ That distinction is critical.
 ---
 
 > **One-line reading [W]:**
-> "Dream / Dream" is the pre-collapse aspiration: a collective awakening anthem where dreaming still means freedom, before the later catalog reveals that dreams, rebellion, and even awakening itself can become mirrors, loops, and engineered spectacle.
+> "Dream / Dream" is not the first statement of a JT cosmology but an **early, sincere participation in inherited dream-language** — Johnny Mercer's 1944 standard, reworked — that the later catalog gradually interrogates, fractures, and reconstructs. Dreaming still means freedom here; only later does the work discover that dreams can become mirrors, mirrors loops, and loops systems of capture.
 
 ---
 
@@ -279,6 +279,20 @@ The doubled title "Dream / Dream" can now be read structurally:
 - the second **Dream** = the new song layered over it.
 
 Two dreams, one title — the old dream and the attempt to make it new. Retrospectively this rhymes with the catalog's later concern that liberation-language can be **pre-scripted**: the Circus, too, hands the performer a script and calls it freedom [W]. Here the borrowing is benign — a love letter to a standard — but the structural fact (the dream is given, not generated) is the same one the later work will weaponize.
+
+**The inherited emotional DNA.** Sarah Vaughan's "Dream" is lush, melancholy, yearning — romantic transcendence. That emotional structure can survive a lyrical rewrite even where the words change [W]. So the song may carry not just a melody but an inherited *mood*: jazz-standard longing, aspirational melancholy, a received dream-vocabulary. This favors **mythic emergence over intentional encoding** — the symbolic density arises partly because Roy is plugging into a much older cultural current, not (or not only) because he is deliberately building cosmology. Under the vault's provenance axis (see `CONCEPT-InheritedSubstrate`), this song is mostly **inherited substrate**, not **internal architecture** — and naming that correctly is what keeps the symbolic reading honest.
+
+**The catalogue's changing relationship to the dream** [W]:
+
+| Era | Relationship to "the dream" |
+|---|---|
+| *Dream / Dream* (2018) | inherits the cultural dream — sincere participation |
+| *Long Time Coming* | notices the disguise *within* the dream |
+| *BALLERINA BOY* | uncovers the cost of surviving the dream |
+| *Weirdness* | recovers the authenticity buried *beneath* the dream |
+| *Lucius Lullaby* | interrogates the dream as simulation / loop |
+
+Read this way, "Dream / Dream" is not proto-Lucius theology but **sincere inherited optimism** — which makes the later destabilization tragic rather than naïve. Roy first *believed* the dream; the catalogue is the slow discovery that dreams can become mirrors, mirrors loops, and loops systems of captivity [W].
 
 [?] Why **Sarah Vaughan** appears as a *composer* (Mercer wrote the standard solo) is unresolved — most likely her specific recording/arrangement is the sampled or interpolated source, which would carry an adaptation credit.
 

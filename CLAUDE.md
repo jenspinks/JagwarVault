@@ -47,6 +47,12 @@ The vault prioritizes:
 
 **Do not collapse registers.** Symbolic function, psychological interpretation, theatrical narrative, biography, and metaphysical resonance may align without being identical. Lucius operates in a lunar/reflection register `[W]` — he is not *literally* the moon. Mary witnesses — she is not *literally* Sophia. Roy is moving toward Tiferet — he has not *achieved* it. Collapsing these registers is the primary interpretive failure mode.
 
+**Distinguish inherited substrate from internal architecture.** Not every symbol is JT-authored. Symbolic density often arises because the work plugs into older cultural-symbolic currents, not from deliberate encoding. Separate:
+- **A — Internal architecture** (developed *inside* the JT mythos): Sir Lucius; the El Roi throat placement; the theatrical EPs; loop/circle; algorithm language; mirror recursion; face-paint systems.
+- **B — Inherited substrate** (received and reworked from the wider culture): dream mythology; jazz-standard yearning; American-aspiration narratives; stairway/heaven imagery; gospel-uplift structures; romantic-transcendence language.
+
+Confirmed case: *Dream / Dream* interpolates Johnny Mercer's 1944 standard "Dream" (composers incl. Mercer + Sarah Vaughan) — its dream-language is **inherited, not invented**. **Prefer "mythic emergence" over "intentional esoteric encoding"** whenever a symbol predates JT in the culture: the honest claim is usually that Roy is *participating in* an older current, not consciously coding it. This does not weaken a symbolic reading — it relocates its source, and guards against the catalogue's largest latent failure mode: collapsing everything into "Roy intentionally encoded all of this." When a reading depends on authorial intent, ask first whether the material is inherited (B); if so, downgrade intent-claims to `[W]`/resonance and frame as participation, not authorship.
+
 ---
 
 ## VAULT LAYERS
