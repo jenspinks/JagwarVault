@@ -39,6 +39,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 - `Brain/Concepts/` — **22** files, **all with frontmatter ✦** (incl. new this session: [[Nigredo]], [[Duality]], [[Witnessing vs Surveillance]])
 - `Brain/Characters/` — 4 (Roy ✦, Sir Lucius ✦, Mary ◦, Jagwar Twin ◦)
 - `Brain/Albums/` — 3 (Lucius Lullaby ✦, 33 ◦, Subject to Flooding ◦ — substantially developed page; tracklist + composer credits + Flood frame)
+- `Brain/Roy Voice/` — **NEW (2026-05-28):** authorial-voice index — thematic aggregation of Roy's public statements, designed for context-loading during song analysis. See [[Brain/Roy Voice/README]]. Sources/Transcripts/ holds verbatim per-interview excerpts; Brain/Roy Voice/ holds the by-theme aggregation. Registered in [[Master Source List]] §11 (27 interviews queued for ingestion).
 
 **Essays/** (human creative project → fan site; verbose, tiered prose)
 - `Essays/Songs/` — **12:** [[Welcome to the Circus]] · [[Lucius Lullaby]] · [[Ballerina Boy]] · [[Not Your Homie]] · [[Weirdness]] (pre-session) + [[Long Time Coming]] · [[Dream - Dream]] · [[Superhuman (Interlude)]] · [[Loser]] · [[Good Day]] · [[No Fake Friends]] · [[Hell of a Night Pt. 2 (The Hallelujah Stickup)]] (this session)

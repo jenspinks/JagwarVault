@@ -188,6 +188,44 @@ External work that engages with the Jagwar Twin material analytically. Citable a
 
 ---
 
+## 11. Interviews & Press — Roy English / Jagwar Twin
+
+Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in [[Brain/Roy Voice/README|Brain/Roy Voice/]]. Convention: filename `Outlet-YYYY-Topic.md`. Status reflects whether the transcript file exists.
+
+| Date | Outlet | URL | Topic | Status |
+|---|---|---|---|---|
+| 2018-?? | Spindle Magazine | https://spindlemagazine.com/2018/10/jagwar-twin | JT debut | pending |
+| 2018-09-21 | Atwood Magazine | https://atwoodmagazine.com/jagwar-twin-loser-interview-subject-to-flooding-2018/ | Loser / *Subject to Flooding* | **ingested** — [[Sources/Transcripts/Atwood-2018-Loser]] |
+| 2019-05 | Boston Herald | https://www.bostonherald.com/2019/05/03/jagwar/ | STF era | pending |
+| 2019-09 | Billboard | https://www.billboard.com/music/rock/jagwar-twin-loser-video-8542690/ | Loser video | pending |
+| 2019-09 | Prelude Press | https://preludepress.com/interviews/2019/09/23/interview-with-jagwar-twin/ | JT interview | pending |
+| 2019-10 | Music Matters | https://musicmattersmagazine.com/2019/10/01/avril-lavigne-with-jagwar-twin-live-music-review-and-photo-gallery/ | Live review (Avril Lavigne tour) | pending |
+| 2019-12 | New England Sounds | https://newenglandsounds.com/2019/12/05/interview-jagwar-twin-on-their-foundations-opening-for-avril-lavigne-and-the-creative-process/ | Foundations / creative process / Avril tour | pending |
+| 2020-04 | Honey Pop | https://thehoneypop.com/2020/04/30/positivity-poise-promise-jagwar-twin-roy-english-provokes-passion-with-an-exclusive-qa/ | Quarantine Q&A | pending |
+| 2020-?? | American Songwriter | https://americansongwriter.com/jagwar-twin-lets-fans-shine-during-quarantine-on-new-single/ | Shine / quarantine single | pending |
+| 2020-?? | Knockturnal | https://theknockturnal.com/exclusive-jagwar-twins-studio-sessions-are-trippier-than-hippy-circles-interview/ | Studio sessions | pending |
+| 2020-?? | Artist Waves | https://artistwaves.com/checking-in-with-jagwar-twin/ | Checking in | pending |
+| 2021-?? | IM Music Magazine | https://im-musicmagazine.com/f/jagwar-twin-releases-new-single-ft-lovelytheband/ | Down to You feat. lovelytheband | pending |
+| 2022-?? | Digital Journal | https://www.digitaljournal.com/entertainment/jagwar-twin-talks-about-his-new-music/article | New music | pending |
+| 2022-10 | AltPress | http://altpress.com/jagwar-twin-33-interview/ | *33* | pending — **WebFetch 403 (gated); needs Jen paste or alternate fetch** |
+| 2022-10 | Clovis McEvoy | https://www.clovismcevoy.info/20221021-jagwer-twin.html | *33* long-form | pending |
+| 2022-?? | Ones to Watch (Q&A) | https://www.onestowatch.com/en/blog/jagwar-twin-shines-on-existential-sophomore-album-33-qa-the-noise | *33* Q&A | pending |
+| 2022-?? | Ones to Watch (Mall) | https://www.onestowatch.com/en/blog/jagwar-twin-takes-us-to-the-mall-of-america-and | Mall of America piece | pending |
+| 2023-04-23 | Honey Pop | https://thehoneypop.com/2023/04/23/jagwar-twin-ignites-a-new-outlook-on-the-human-experience-in-great-time-to-be-human/ | Great Time to Be Human | **ingested** — [[Sources/Transcripts/Honey-Pop-2023-Great-Time-Human]] |
+| 2024-07 | Strife Mag | https://www.strifemag.com/interviews/interviews-2024/interview-bad-feeling-oompa-loompa-new-music-music-as-a-career-with-jagwar-twin/ | Bad Feeling (Oompa Loompa) | **ingested** — [[Sources/Transcripts/Strife-2024-Bad-Feeling]] |
+| 2024-?? | Celeb Secrets | https://celebsecrets.com/jagwar-twin-says-he-knew-bad-feeling-oompa-loompa-was-going-to-be-massive-days-after-releasing-it-exclusive/ | Bad Feeling — knew it would be massive | pending |
+| 2024-?? | The Mic Magazine (UK) | https://www.themicmagazine.uk/post/an-interview-with-jagwar-twin-the-myth-of-music | Myth of music | pending |
+| 2025-?? | North Coast Music Beat | https://www.northcoastmusicbeat.com/jagwar-twin-interview | JT interview | pending |
+| current | Roy English (own site) | https://mirrors.jagwartwin.com/manifesto-faq | **Manifesto FAQ** — Roy's own framing | **ingested** — [[Sources/Transcripts/Manifesto-FAQ]] |
+| n/a | Wikipedia | https://en.wikipedia.org/wiki/Jagwar_Twin | Biographical baseline | **ingested** — [[Sources/Transcripts/Wikipedia]] |
+| n/a | Masquerade Atlanta | https://www.masqueradeatlanta.com/attraction/jagwar-twin/ | Venue listing (low value) | pending |
+| n/a | SoundBetter | https://soundbetter.com/profiles/221681-michael-morgan | Michael Morgan profile (collaborator credits) | pending |
+| n/a | YouTube | https://www.youtube.com/watch?v=DSTNppG5Bkg | Video interview (needs transcript) | pending |
+
+**Ingestion progress: 5 of 27** (Atwood 2018, Manifesto FAQ, Honey Pop 2023, Strife 2024, Wikipedia). AltPress 2022 needs alternate fetch path (WebFetch returned 403). 21 remaining for subsequent batches.
+
+---
+
 ## 10. Private Material — Acknowledged, Not Catalogued
 
 There exists a Google Doc designated **Secret Document** containing material shared privately by Roy. **Its contents are not described, quoted, paraphrased, or cited anywhere in the vault.** See [[Boundaries]] for the full rules.

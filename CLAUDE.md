@@ -245,6 +245,10 @@ THEATRICAL CANON. Lucius speaking is NOT automatically Roy speaking autobiograph
 **Correct:** "In Interview EP3, Lucius says X."
 **Incorrect:** "Roy admits X."
 
+### Roy Voice (authorial-voice consultation)
+
+`Brain/Roy Voice/` aggregates Roy English's public statements (interviews, press, the Manifesto FAQ, YouTube interviews) **by theme**, with citations back to verbatim excerpts in `Sources/Transcripts/`. **Consult it before completing a Strong Read on any song.** When Roy has spoken directly to a claim you're about to make: promote the claim from `[W]` to grounded and cite the relevant Roy Voice page in `connections.grounded`. When Roy's statements contradict or limit a `[W]` reading: soften it or add a Counterargument. When Roy is silent on a theme the song raises: that bears on the retrospective-coherence guard — mark as `[~]` open question, not absence of evidence. Conventions for the folder are in `Brain/Roy Voice/README.md`; the source registry is in `[[Master Source List]]` §11.
+
 ### Mirror Sessions
 BIOGRAPHICAL. Roy interviewing friends/artists. Citable for artistic intent, autobiographical grounding, personal history, philosophy, creative process. NOT lore episodes.
 
