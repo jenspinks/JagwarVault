@@ -194,22 +194,23 @@ Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in 
 
 | Date | Outlet | URL | Topic | Status |
 |---|---|---|---|---|
-| 2018-?? | Spindle Magazine | https://spindlemagazine.com/2018/10/jagwar-twin | JT debut | pending |
+| 2018-10 | Spindle Magazine | https://spindlemagazine.com/2018/10/jagwar-twin | JT debut | pending — **WebFetch returned empty page; needs Jen paste or alternate fetch** |
 | 2018-09-21 | Atwood Magazine | https://atwoodmagazine.com/jagwar-twin-loser-interview-subject-to-flooding-2018/ | Loser / *Subject to Flooding* | **ingested** — [[Sources/Transcripts/Atwood-2018-Loser]] |
+| 2018-09-28 | Artist Waves | https://artistwaves.com/checking-in-with-jagwar-twin/ | Checking in | **ingested** — [[Sources/Transcripts/Artist-Waves-2018-Checking-In]] |
 | 2019-05 | Boston Herald | https://www.bostonherald.com/2019/05/03/jagwar/ | STF era | pending — **WebFetch failed (site refuses bot); needs Jen paste or alternate fetch** |
 | 2019-09 | Billboard | https://www.billboard.com/music/rock/jagwar-twin-loser-video-8542690/ | Loser video | pending |
 | 2019-09-23 | Prelude Press | https://preludepress.com/interviews/2019/09/23/interview-with-jagwar-twin/ | JT interview / **masks framing** | **ingested** — [[Sources/Transcripts/Prelude-Press-2019-JT]] |
-| 2019-10 | Music Matters | https://musicmattersmagazine.com/2019/10/01/avril-lavigne-with-jagwar-twin-live-music-review-and-photo-gallery/ | Live review (Avril Lavigne tour) | pending |
+| 2019-10-01 | Music Matters | https://musicmattersmagazine.com/2019/10/01/avril-lavigne-with-jagwar-twin-live-music-review-and-photo-gallery/ | Live review (Avril Lavigne tour) | **ingested** (no direct Roy quotes) — [[Sources/Transcripts/Music-Matters-2019-Avril-Review]] |
 | 2019-10-10 | Knockturnal | https://theknockturnal.com/exclusive-jagwar-twins-studio-sessions-are-trippier-than-hippy-circles-interview/ | Studio sessions / Egyptian-mythology fascination | **ingested** — [[Sources/Transcripts/Knockturnal-2019-Studio-Sessions]] |
 | 2019-12-05 | New England Sounds | https://newenglandsounds.com/2019/12/05/interview-jagwar-twin-on-their-foundations-opening-for-avril-lavigne-and-the-creative-process/ | Foundations / creative process / Avril tour / **Twin = dark and light** | **ingested** — [[Sources/Transcripts/New-England-Sounds-2019-Avril-Tour]] |
 | 2020-04-27 | American Songwriter | https://americansongwriter.com/jagwar-twin-lets-fans-shine-during-quarantine-on-new-single/ | Shine / **"I just want to be a mirror"** | **ingested** — [[Sources/Transcripts/American-Songwriter-2020-Shine]] |
 | 2020-04-30 | Honey Pop | https://thehoneypop.com/2020/04/30/positivity-poise-promise-jagwar-twin-roy-english-provokes-passion-with-an-exclusive-qa/ | Quarantine Q&A / **ONENESS / per-song framings** | **ingested** — [[Sources/Transcripts/Honey-Pop-2020-Quarantine-QA]] |
 | 2020-?? | Artist Waves | https://artistwaves.com/checking-in-with-jagwar-twin/ | Checking in | pending |
 | 2021-?? | IM Music Magazine | https://im-musicmagazine.com/f/jagwar-twin-releases-new-single-ft-lovelytheband/ | Down to You feat. lovelytheband | pending |
-| 2022-?? | Digital Journal | https://www.digitaljournal.com/entertainment/jagwar-twin-talks-about-his-new-music/article | New music | pending |
+| ~2023 | Digital Journal | https://www.digitaljournal.com/entertainment/jagwar-twin-talks-about-his-new-music/article | Bad Feeling era / **third mirror statement** / "circus-like space" | **ingested** — [[Sources/Transcripts/Digital-Journal-2023-Bad-Feeling]] |
 | 2022-10 | AltPress | http://altpress.com/jagwar-twin-33-interview/ | *33* | pending — **WebFetch 403 (gated); needs Jen paste or alternate fetch** |
-| 2022-10 | Clovis McEvoy | https://www.clovismcevoy.info/20221021-jagwer-twin.html | *33* long-form | pending |
-| 2022-?? | Ones to Watch (Q&A) | https://www.onestowatch.com/en/blog/jagwar-twin-shines-on-existential-sophomore-album-33-qa-the-noise | *33* Q&A | pending |
+| 2022-12-21 | Clovis McEvoy | https://www.clovismcevoy.info/20221021-jagwer-twin.html | *33* long-form / immersion experiment / "we are the stories we tell" | **ingested** — [[Sources/Transcripts/Clovis-McEvoy-2022-33]] |
+| 2022 | Ones to Watch (Q&A) | https://www.onestowatch.com/en/blog/jagwar-twin-shines-on-existential-sophomore-album-33-qa-the-noise | *33* Q&A / **age=33 / catalyzing pain** / per-track quotes | **ingested** — [[Sources/Transcripts/Ones-To-Watch-2022-33-QA]] |
 | 2022-?? | Ones to Watch (Mall) | https://www.onestowatch.com/en/blog/jagwar-twin-takes-us-to-the-mall-of-america-and | Mall of America piece | pending |
 | 2023-04-23 | Honey Pop | https://thehoneypop.com/2023/04/23/jagwar-twin-ignites-a-new-outlook-on-the-human-experience-in-great-time-to-be-human/ | Great Time to Be Human | **ingested** — [[Sources/Transcripts/Honey-Pop-2023-Great-Time-Human]] |
 | 2024-07 | Strife Mag | https://www.strifemag.com/interviews/interviews-2024/interview-bad-feeling-oompa-loompa-new-music-music-as-a-career-with-jagwar-twin/ | Bad Feeling (Oompa Loompa) | **ingested** — [[Sources/Transcripts/Strife-2024-Bad-Feeling]] |
@@ -222,7 +223,7 @@ Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in 
 | n/a | SoundBetter | https://soundbetter.com/profiles/221681-michael-morgan | Michael Morgan profile (collaborator credits) | pending |
 | n/a | YouTube | https://www.youtube.com/watch?v=DSTNppG5Bkg | Video interview (needs transcript) | pending |
 
-**Ingestion progress: 10 of 27** (Atwood 2018, Manifesto FAQ, Honey Pop 2023, Strife 2024, Wikipedia, Prelude 2019, Knockturnal 2019, New England Sounds 2019, American Songwriter 2020, Honey Pop 2020). **Failed/gated (need Jen paste or alternate fetch):** AltPress 2022 (403), Boston Herald 2019 (refused). **16 remaining** for subsequent batches.
+**Ingestion progress: 15 of 27** ingested (Atwood 2018, Artist Waves 2018, Prelude 2019, Knockturnal 2019, NES 2019, Music Matters 2019 [no quotes], American Songwriter 2020, Honey Pop 2020, Clovis McEvoy 2022, Ones to Watch 2022, Digital Journal 2023, Honey Pop 2023, Strife 2024, Manifesto FAQ, Wikipedia). **Failed/gated (need Jen paste or alternate fetch):** AltPress 2022 (403), Boston Herald 2019 (refused), Spindle 2018 (empty page). **9 remaining** for subsequent batches.
 
 ---
 

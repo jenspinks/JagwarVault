@@ -33,6 +33,18 @@ Roy English's own statements about mirrors, the collective, the "we not me" fram
 - **[2020-04-30]** *"Everything is a vibrational frequency. Light, matter, sound, it's all the same thing at variable speeds."* — [[Honey-Pop-2020-Quarantine-QA]]
 - **[2020-04-30]** Key message: **"ONENESS"** — [[Honey-Pop-2020-Quarantine-QA]]
 
+## 2022 — *33* era
+
+- **[2022-12-21]** *"We are more connected to each other than ever, but somehow many of us feel more disconnected from ourselves."* — [[Clovis-McEvoy-2022-33]] (echo of the 2018 Atwood disconnection line — stable thread)
+- **[2022-12-21]** *"We are the stories we tell, and I wonder if we have forgotten who we are."* — [[Clovis-McEvoy-2022-33]]
+- **[2022-12-21]** *"I wanted to experiment with how a fan could really immerse themselves psychologically and physiologically in a song."* + *"We had over 1,000 weekly registered users"* — [[Clovis-McEvoy-2022-33]]. **This is the lineage line** between 2018 collective-consciousness framing and the later Hall-of-Mirrors / Web3 architecture in the Manifesto.
+
+## 2023-ish — Bad Feeling era
+
+- **[~2023]** **Third explicit mirror statement** (post-*33*): *"It's a mirror. It's a mirror for you."* — [[Digital-Journal-2023-Bad-Feeling]]
+
+(Mirror-doctrine now sourced at **2018 / 2020 / 2023** in three independent press contexts. "Song / artist / project as mirror" is Roy's stable lifelong self-description, not a Hall-of-Mirrors-era invention.)
+
 ## undated — Manifesto
 
 - **[current]** *"All I am is that I am."* — [[Manifesto-FAQ]] (riff on YHWH / Exodus 3:14 — divine self-naming. Compare with El Roi ("the God who sees") on Lucius's throat — Roy's "I am that I am" + Lucius's "El Roi" form a paired divine-naming structure across the project.)

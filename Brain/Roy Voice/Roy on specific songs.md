@@ -48,9 +48,22 @@ Catch-all for Roy's per-track commentary — quotes tied to specific songs rathe
 
 ## The Circle (33, 2022)
 
+- **[2022]** ***"It's my favorite song that has ever come through me."*** — [[Ones-To-Watch-2022-33-QA]] *(Roy's strongest personal-favorite statement in the corpus.)*
 - **[2024-07]** Favorite live song: **The Circle** — [[Strife-2024-Bad-Feeling]]
 
-(Not commentary on the song's meaning, but a personal-favorite signal. Useful context.)
+## [[Online]] (33, 2022)
+
+- **[2022]** *"That song is so fun and so ridiculous."* — [[Ones-To-Watch-2022-33-QA]] *(Counterweight to over-serious / over-doctrinal reads. The song is playful AND it diagnoses database identity / predictive profiling — both registers are real; Roy's own framing is the playful one.)*
+
+## Soul Is A Star (33, 2022)
+
+- **[2022]** *"I'm so glad I listened to that voice because that's what flowed through me."* — [[Ones-To-Watch-2022-33-QA]]
+
+## Bad Feeling (Oompa Loompa) (2023)
+
+- **[~2023]** *"The song came about a little over a year ago. I've been exploring my ancestors and my German, Polish, and Slavic roots, and so I was using a lot of accordions and tubas."* — [[Digital-Journal-2023-Bad-Feeling]]
+- **[~2023]** *"We were in the studio jamming on this accordion sort of vibe, and I kept saying, 'We need some oompa shit. We need German oompa music.'"* — [[Digital-Journal-2023-Bad-Feeling]]
+- **[~2023]** On the music video: *"The music video was sort of just expanding on that world. We wanted to bring it into this **circus-like space**..."* — [[Digital-Journal-2023-Bad-Feeling]] *(KEY — Roy himself names "circus-like space" in 2023, pre-WTTC. Soft-grounded support for tracing the visual-circus motif earlier than the theatrical canon.)*
 
 ---
 

@@ -28,6 +28,11 @@ Track 1, [[33 (album)]] (2022, Big Loud Rock). **Lyrics: Google Drive doc (`stat
 ## Voicing
 [W] Oscillating voice — the captured human (*"they infiltrate my brain"* [?]) interwoven with the machine's seductive pitch (*"we can help your better life"* [?], *"you feel good"* [?]). The two blur — the signature of **the machine becoming intimate** ([[Machine vs Human]]): the voice inside that sounds like you.
 
+## Roy's own framing (grounded — Ones to Watch 2022)
+> *"That song is so fun and so ridiculous."* — Roy English, [[Ones-To-Watch-2022-33-QA]]
+
+**Important counterweight to over-doctrinal reads.** Roy's own framing of Online is **playful**, not a Serious Machine-vs-Human treatise. Both registers are real — the song *is* playful AND its lyrics name database identity / predictive profiling sharply — but a reading that treats Online as purely doctrinal misses the half-comic surface. The Brain-page reads below are honest [W] interpretations *of what the lyric does*, not claims that Roy was building a thesis. (Cf. retrospective-coherence guard in [[CLAUDE]].) Aggregation: [[Brain/Roy Voice/Roy on 33|Roy on 33]].
+
 ## Position in the arc — the pivot
 [W] **Online is the bridge from *Subject to Flooding* optimism to *Lucius Lullaby* recursive awareness:**
 - [[Dream - Dream]] — escape is straightforward.
