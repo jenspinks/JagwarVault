@@ -43,7 +43,13 @@ Roy English's own statements about mirrors, the collective, the "we not me" fram
 
 - **[~2023]** **Third explicit mirror statement** (post-*33*): *"It's a mirror. It's a mirror for you."* — [[Digital-Journal-2023-Bad-Feeling]]
 
-(Mirror-doctrine now sourced at **2018 / 2020 / 2023** in three independent press contexts. "Song / artist / project as mirror" is Roy's stable lifelong self-description, not a Hall-of-Mirrors-era invention.)
+## undated (likely 2023-2024) — Mic Magazine + North Coast era
+
+- **[~2023-2024]** **Fourth explicit mirror statement**: *"We are all mirrors to each other and can teach each other things. We are really from one, and there is so much commonality."* — [[North-Coast-Music-Beat-JT]]
+- **[~2023-2024]** Jaguar mythology framing as proto-mirror: *"The Jaguar in Mayan mythology is the creature who looks into the darkness of itself and others but then is able to pull people out of that into the light."* — [[Mic-Magazine-UK-Myth-of-Music]]
+- **[2024-07-18]** Reviewer language: *"Jagwar Twin holds up a mirror to reflect humanity"* (third-party framing in [[IM-Music-2024-Tomorrow-AOE]] — consistent with Roy's own statements; press has caught the mirror-doctrine and uses it back at him.)
+
+(Mirror-doctrine now sourced **four times in Roy's own voice** across 2018 / 2020 / ~2023 / ~2024 — plus the Mayan-jaguar proto-mirror framing AND third-party reviewer adoption. The doctrine is robust, continuous, and pre-Hall-of-Mirrors-site. Promotes mirror-thread readings from `[W]` to grounded freely.)
 
 ## undated — Manifesto
 
