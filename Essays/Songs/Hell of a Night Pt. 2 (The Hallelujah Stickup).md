@@ -32,7 +32,7 @@ Retrospectively, this becomes one of the major fault lines that eventually produ
 
 ![[Sources/Lyrics/Hell Of A Night Pt. 2 (The Hallelujah Stickup)]]
 
-*(Lyric body currently AZLyrics-only / `status: draft` — Apple Music or Spotify lyric screenshot pending. Credits are fully verified via Spotify Credits view.)*
+*(Lyrics + credits fully verified-stable via Spotify, 2026-05-28. Substantive reconciliation against AZLyrics — see Sources/Lyrics maintenance notes — particularly V2: AZLyrics had *"Red and white shoelace, nobody found"*; Spotify shows ***"Red wine shoelace no body found"*** — wine-stained shoelace as crime-scene clue + cold-case imagery, materially stronger than the AZLyrics flattening.)*
 
 ---
 
@@ -60,6 +60,14 @@ Retrospectively, this becomes one of the major fault lines that eventually produ
 ### 1. When joy becomes contraband
 
 The phrase ***"The Hallelujah Stickup"*** works because it collapses two emotional worlds into each other: ***hallelujah*** and ***armed robbery***. The collision is not theatrical for its own sake — it tracks a psychological state where **ordinary pathways toward joy, freedom, transcendence, and authentic expression no longer feel accessible through legitimate means** [W].
+
+**The Spotify-verified lyric is more literal than abstract.** The song *enacts* a robbery scene with religious framing threaded throughout:
+
+- *"Sirens call out making their sound / Hallelujah, hallelujah"* — police sirens reframed as hallelujahs.
+- *"Backseat driving blood in my mouth"* — getaway-car imagery, injured speaker.
+- *"Buckle up / Lock it down / Give us what we ask for / Skip the line / Cut it twice / Fake it like your passport"* — rapid-fire robbery commands (Spotify renders each as its own line; the AZLyrics version flattened them into two long comma-separated lines, losing the imperative cadence).
+- *"Cause when we walk in, need to see your hands wave"* — hands up.
+- V2 closing image: ***"Red wine shoelace no body found"*** — wine-stained shoelace as crime-scene clue + missing body = cold-case imagery. (AZLyrics' *"Red and white shoelace, nobody found"* dilutes this into noise; Spotify preserves the heist evidence-set.)
 
 The song imagines liberation as a heist because the surrounding systems appear structurally incapable of giving it freely. The creators feel cornered financially, commercially, spiritually, emotionally. Under those conditions, **transcendence begins dressing like outlaw behavior** [W]: *the sacred has to be stolen because asking nicely got the creators exploited.*
 
@@ -154,7 +162,7 @@ Within that condition, **crime becomes psychologically reinterpreted as agency**
 - [ ] How intentionally did S1's production architecture amplify emotional invincibility to compensate for underlying lyrical instability?
 - [~] Does the transition from Track 10 ([[Hell Of A Night]]) into Track 11 represent the precise STF-era threshold where defensive adaptation mutates into overt behavioral volatility?
 - [x] **Why does the album repeatedly frame liberation through force, speed, or outlaw posture?** **Resolved [W]:** retrospective analysis across the STF-era material suggests the catalogue repeatedly treats **acceleration as a substitute for transformation** — the psyche attempts to outrun collapse through momentum until the strategy exhausts itself and formalizes into the Lucius structure.
-- [ ] **Lyric verification pending** — Apple Music or Spotify lyric screenshot for Hell Pt. 2 still needed; current lyric body is AZLyrics-only (draft).
+- [x] ~~**Lyric verification pending**~~ **RESOLVED 2026-05-28 (Spotify).** Substantive reconciliation: *"Red wine shoelace no body found"* (Spotify) vs AZLyrics' *"Red and white shoelace, nobody found"*; pre-chorus restructured into six short imperatives (robbery-command cadence); *"gonna"* → *"guna"* throughout. The Spotify body materially strengthens the heist reading; AZLyrics had flattened the crime-scene imagery.
 
 ---
 
@@ -177,7 +185,7 @@ Within that condition, **crime becomes psychologically reinterpreted as agency**
 
 ## Sources
 
-- Lyrics: [[Sources/Lyrics/Hell Of A Night Pt. 2 (The Hallelujah Stickup)]] — body currently AZLyrics-only (draft); credits fully verified via Spotify Credits view (2026-05-28)
+- Lyrics: [[Sources/Lyrics/Hell Of A Night Pt. 2 (The Hallelujah Stickup)]] — **lyrics + credits fully verified-stable via Spotify (2026-05-28)**; AZLyrics had substantive errors (flattened heist imagery, collapsed pre-chorus into long lines)
 - Credits: [[Sources/Credits/Subject to Flooding]] — Composition & Lyrics (Roy English, Michael Morgan); production team (Pauling, S1, Gehringer, Ellis)
 - *Subject to Flooding* (2018, Atlantic Records)
 - Theatrical canon: *The Interview* (Jagwar Twin YouTube series), Episodes 2–3

@@ -1,7 +1,7 @@
 ---
 id: SONG-HellOfANightPt2TheHallelujahStickup
 type: song
-status: draft
+status: stable
 confidence: high
 source_quality: primary-source
 sources: [Sources/Lyrics/Hell Of A Night Pt. 2 (The Hallelujah Stickup).md]
@@ -23,7 +23,7 @@ review_date: 2026-11-16
 ---
 # Hell Of A Night Pt. 2 (The Hallelujah Stickup)
 
-Track 11, *Subject to Flooding* (2018-09-21 release; 2019 Apple-metadata redistribution). Closes the album's final triad (paired with [[Hell Of A Night|Hell of a Night Pt. 1]] / Track 10). **Composition & Lyrics (Spotify Credits, verified 2026-05-28): Roy English, Michael Morgan.** **Production:** Roy English, Michael Morgan, Matt Pauling (Producers); S1 (Executive Producer); Chris Gehringer (Masterer); Jeff Ellis (Mixer). **Lyric body still AZLyrics-only — `status: draft` pending Apple/Spotify lyric screenshot. Credits fully verified.** Full essay: [[Hell of a Night Pt. 2 (The Hallelujah Stickup)|Essays/Songs/Hell of a Night Pt. 2]].
+Track 11, *Subject to Flooding* (2018-09-21 release; 2019 Apple-metadata redistribution). Closes the album's final triad (paired with [[Hell Of A Night|Hell of a Night Pt. 1]] / Track 10). **Composition & Lyrics (Spotify Credits, verified 2026-05-28): Roy English, Michael Morgan.** **Production:** Roy English, Michael Morgan, Matt Pauling (Producers); S1 (Executive Producer); Chris Gehringer (Masterer); Jeff Ellis (Mixer). **Lyrics + credits fully verified-stable** (Spotify, 2026-05-28). Full essay: [[Hell of a Night Pt. 2 (The Hallelujah Stickup)|Essays/Songs/Hell of a Night Pt. 2]].
 
 ## Voicing
 [[Roy]], first-person, anthemic/collective ("we"). Pre-Lucius — but **proto-Lucius outlaw architecture is forming**.
@@ -32,7 +32,7 @@ Track 11, *Subject to Flooding* (2018-09-21 release; 2019 Apple-metadata redistr
 *"The Hallelujah Stickup"* collapses two emotional worlds: **hallelujah + armed robbery.** Liturgical fused with criminal — early instance of [[Inversion]] (theological/criminal collision) before the pattern is theatrically named.
 
 ## Moves
-- [W] **When joy becomes contraband.** The "stickup" frames *the sacred as something that must be stolen* because ordinary pathways toward joy, freedom, and authentic expression no longer feel accessible through legitimate means. The creators feel cornered (financially, commercially, spiritually); **transcendence begins dressing like outlaw behavior.** Sacred-as-heist = survival instinct mutating into velocity and force.
+- [W] **When joy becomes contraband — the song is a literal heist scene.** Spotify-verified lyrics confirm the *Hallelujah Stickup* is structured as a fictional armed robbery threaded with religious framing: *"Sirens call out making their sound / Hallelujah, hallelujah"* (police sirens reframed as hallelujahs); *"Backseat driving blood in my mouth"* (getaway car / injury); robbery commands *"Buckle up / Lock it down / Give us what we ask for / Skip the line / Cut it twice / Fake it like your passport"* (each on its own beat — rapid-fire imperatives); *"Cause when we walk in, need to see your hands wave"* (hands up); crime-scene evidence in V2: *"Red wine shoelace **no body found**"* (wine-stained shoelace as clue + missing body = cold-case imagery). The sacred-as-heist reading is **fully grounded in the lyric** — not analogy, not metaphor-only: the song *enacts* a robbery scene, with hallelujah as the wail beneath it.
 - [W] **The Protector escalated — outlaw seizure fantasy.** Where [[Loser]] / [[Good Day]] / [[No Fake Friends]] build defensive perimeters (shame-preemption / vibe-protection / social filtration), Hell Pt. 2 abandons defense for **seizure**. Same `CONCEPT-TheProtector` architecture intensified into velocity; the most extreme STF adaptation. *Lucius is the residue left when this speed-strategy finally burns out its host.*
 - [W] **Production as emotional armor.** Pauling + S1's sonic framework is **aggressively triumphant compensation**: massive drums, compressed propulsion, anthem-scale momentum sell a structural stability the psyche doesn't actually possess. *The song sounds victorious because it is terrified of stopping.* Same compensatory-sonics pattern as [[Good Day]] (major-key brightness) / [[Loser]] (communal warmth disguising shame-defense) / [[Superhuman]] (martial cadence) — escalated to outlaw euphoria.
 - [W] **Orbit disguised as escape velocity.** The speaker believes enough force can break the loop. But the outlaw fantasy **does not resolve claustrophobia; it temporarily outruns awareness of it.** Speed itself becomes anesthetic. `recursion_state: orbit` — escape that becomes circular. (Same orbit-trap [[Good Day]] / [[No Fake Friends]] / [[Loser]] each enact at different intensities.)
@@ -42,7 +42,7 @@ Track 11, *Subject to Flooding* (2018-09-21 release; 2019 Apple-metadata redistr
 - [W] **Who controls the voice?** (Da'at register.) The song frames the voice as both weapon and survival mechanism. The industry wants performance; the psyche wants liberation. **Praise turned into confrontation** because ordinary speech no longer feels sufficient to cross the divide. Connects to [[Witnessing vs Surveillance]] / El Roi throat-doctrine.
 
 ## Open Questions
-- [ ] **Lyric verification pending** — Apple Music or Spotify lyric screenshot for Hell Pt. 2 still needed (body currently AZLyrics-only).
+- [x] ~~**Lyric verification pending**~~ **RESOLVED 2026-05-28 (Spotify).** Major reconciliation: AZLyrics had *"Red and white shoelace, nobody found"* — Spotify shows *"Red wine shoelace no body found"* (substantively different image). AZLyrics also collapsed the robbery-command sequence into two long lines; Spotify breaks them into six short imperatives. The Spotify body strengthens the heist reading considerably.
 - [ ] How intentionally did S1's production architecture amplify emotional invincibility to compensate for underlying lyrical instability?
 - [~] Does the Track 10 → 11 transition mark the precise STF-era threshold where defensive adaptation mutates into overt behavioral volatility?
 - [x] ~~Why does the album repeatedly frame liberation through force/speed/outlaw posture?~~ **Resolved [W]:** the catalogue treats *acceleration as a substitute for transformation* — the psyche outruns collapse through momentum until the strategy formalizes into the Lucius structure.
