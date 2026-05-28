@@ -48,7 +48,7 @@ Might run for president, I'm so presidential (Yeah)
 Coincidental, your fate is detrimental
 Walking 'round like I'm John Wick with my pencil
 Stick it in your eye, bury you alive
-Now you're on the dark side (Sucker)
+Now you're on the dark side (sucker, it's a vibe)
 But if you choose to tame the beast
 You got to prove yourself to be
 A champion, a champion, a champion, a champion
@@ -68,4 +68,10 @@ Let's not pretend-tend-tend-tend
 
 ## Maintenance
 - Bulk-ingested 2026-05-25 from Google Drive doc 1 (album doc).
-- **Not yet verified** against streaming release. Record URLs in `verified_against`; flip `status` to `stable`. Official release wins on divergence.
+- **2026-05-28 (Jen, Spotify screenshot):** added *"it's a vibe"* to *"Now you're on the dark side (sucker, it's a vibe)"* — present in Spotify's synced lyrics, **absent from both Apple Music and Genius**. Precedent: Spotify's lyric pane can be more complete than Apple Music's; cross-check both when verifying. Status stays `draft` pending full line-by-line streaming verification.
+- **Other Spotify-screenshot observations** (not yet applied — pending Jen review):
+  - *"You're no friend"* may render as *"You're no frie-e-e-end"* (stretched).
+  - *"Stick it in your eye, bury you alive"* may be *"Stick it in your eye (ah), bury you alive"*.
+  - *"(Leave me alone)"* may be *"(leave me alone, ah)"*.
+  - Champion repetition may include a *"A cha-cha, a champion"* variation.
+  - The current `[Verse 1]` block (*"Ahem, I'm ringing rosies… coming in like a plague from the dark side"*) was not visible in the partial Spotify screenshot — likely just below the scroll, but worth confirming on full view.

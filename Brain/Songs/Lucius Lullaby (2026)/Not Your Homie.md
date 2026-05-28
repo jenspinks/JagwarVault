@@ -8,7 +8,7 @@ sources: [Sources/Lyrics/Not Your Homie.md]
 related: [CHAR-SirLucius, CONCEPT-TheLaborsOfHercules, SONG-WelcomeToTheCircus, SONG-SOL, CONCEPT-TheThread]
 connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, SONG-WelcomeToTheCircus, SONG-LOOP]
-  strong_read: [CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-Inversion, CHAR-Roy, SONG-HappyFace, CONCEPT-TheThread, SONG-SOL, SONG-1ChampionLaConquistadora, CHAR-Mary, CHAR-BallerinaBoy]
+  strong_read: [CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-Inversion, CHAR-Roy, SONG-HappyFace, CONCEPT-TheThread, SONG-SOL, SONG-1ChampionLaConquistadora, CHAR-Mary, CHAR-BallerinaBoy, CONCEPT-TheProtector, SONG-GoodDay]
   resonance:   [CONCEPT-Consumption, CONCEPT-TheAlgorithm, CONCEPT-TheCircle, CONCEPT-Yesod, CONCEPT-TheMoon]
 referenced_by: [CONCEPT-TheLaborsOfHercules, CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, SONG-Weirdness, SONG-WelcomeToTheCircus]
 dominant_pole: lunar
@@ -35,6 +35,7 @@ Voiced: [[Sir Lucius]] [W] — predatory-charm register matches [[Welcome to the
 - "Coming in like a plague from the dark side" → [W] Lucius as contagion (literalizes the rhyme)
 - "Take that smile, turn it upside-down" → CONCEPT-TheMask, CONCEPT-Inversion ([W] the [[Happy Face]] smile inverted; cf. WTTC "everything's upside down")
 - "Walking 'round like I'm John Wick with my pencil / Stick it in your eye, bury you alive" → [W] assassin-loop violence; CONCEPT-Consumption ("bury you alive")
+- "Now you're on the dark side (sucker, it's a vibe)" → CONCEPT-TheProtector; cross-link [[Good Day]] — [W] "vibe" framing corruption as cool/desirable (seductive lure); **Spotify-only** addition (Apple Music and Genius omit "it's a vibe" — see source maintenance note)
 - "Might run for president, I'm so presidential" → [W] demagogue / ruler register (Circus scaled to society)
 - "if you choose to tame the beast / you got to prove yourself to be / a champion (×4)" → CONCEPT-TheLaborsOfHercules (none-on-lyric / [W]-on-framework) — the **strongest public Leo anchor**: tame (not kill) + Beast + champion + "choose to"
 - "I'm like Michael, I'm a psycho, so don't kill my vibe" → [?] Michael ambiguous (Jackson / archangel / slasher)
@@ -56,6 +57,7 @@ Voiced: [[Sir Lucius]] [W] — predatory-charm register matches [[Welcome to the
 - [W] Loop, not [[The Circle|Circle]]: the repetition-structure ("pretend-tend…", "champion ×4", hooks) ENACTS trapped recursion; song went viral (form=content).
 - [P] NYH = the bargain where feeling was sacrificed ([[SOL]] suppressed, vulnerability traded). Father's "you're half the man that you know" (SOL poem) → integrate without sacrificing feeling = [[The Thread]] / "don't sacrifice what you can feel."
 - [P] Lucius wants integration AND fears it (recognition vs loss-of-rule). Protector-self craves+sabotages healing. Child performing sovereignty — now grounded: apple-eating + "you're very strange" (EP4), "I'm your weirdness," Leif as bodyguard (EP5–6, "Boss, I got this").
+- [W] **"Vibe" — Protector-vocabulary across the catalogue.** Two "vibe" usages here — *"(sucker, it's a vibe)"* (Spotify-only addition; seductive lure: Lucius framing corruption as cool) and *"don't kill my vibe"* (bridge; defensive demand) — plus three in [[Good Day]] (*"Can't kill my vibe / Won't kill my vibe"*; the Protector armoring success-mode). **Same armor-word, evolving:** pre-Lucius Roy uses "vibe" as defense (Good Day's Protector in success-mode); theatrical Lucius weaponizes the same word as **both lure and demand**. Lucius = what Good Day's vibe-defense becomes when it acquires a face. `CONCEPT-TheProtector`.
 
 ## Open Questions (verification debts)
 - [x] ~~Bargain scene + verbatim~~ **CONFIRMED (none — transcript of public EP2):** SOL refused; *"this is what the people want / it doesn't mean anything / exactly, it's nonsense, it's all nonsense"*; Roy *"I'll give you this one"* (verbatim, not paraphrase). → [[Master Source List]] §2. *(Still ideal: in-video timestamp.)*
