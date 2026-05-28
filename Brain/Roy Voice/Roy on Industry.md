@@ -13,6 +13,12 @@ Roy English's own statements about commercial pressure, label dynamics, the stre
 - **[2018-09-21]** *"I have so many beautiful people around me, the best friends, and family. I've already 'made it' in my own being, but through this music I hope people will find energy and spirit in our shared humanity."* — [[Atwood-2018-Loser]]
 - **[2018-09-21]** On disconnection: *"The world has never felt more disconnected in a lot of ways. But we have all the tools at our disposal to connect, at all times."* — [[Atwood-2018-Loser]]
 
+## 2019 (continued) — "programmed / deprogram" language
+
+- **[2019-11-05]** **KEY — system-imposes-identity diagnosis** (proto-Algorithm language): *"we are all **programed by the world around us** to feel like losers about the very things we should pride ourselves in. If we all **deprogram** ourselves, we can come together and find spirit in our shared humanity."* — [[Billboard-2019-Loser-Video]]
+
+(*"Programmed" + "deprogram"* is the closest pre-Algorithm-naming Roy gets to the [[Machine vs Human]] arc's central claim. **Promotes related vault readings** — the Loser shame-preemption / proto-Protector / system-shapes-the-self framings — from `[W]` to grounded.)
+
 ## 2024 — Bad Feeling / Oompa Loompa era
 
 - **[2024-07]** On a song getting dropped early: *"They said the song sucked... it was too experimental for that time, got dropped from the label, but then it found its way."* — [[Strife-2024-Bad-Feeling]]

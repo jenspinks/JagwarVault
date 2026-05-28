@@ -198,7 +198,7 @@ Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in 
 | 2018-09-21 | Atwood Magazine | https://atwoodmagazine.com/jagwar-twin-loser-interview-subject-to-flooding-2018/ | Loser / *Subject to Flooding* | **ingested** — [[Sources/Transcripts/Atwood-2018-Loser]] |
 | 2018-09-28 | Artist Waves | https://artistwaves.com/checking-in-with-jagwar-twin/ | Checking in | **ingested** — [[Sources/Transcripts/Artist-Waves-2018-Checking-In]] |
 | 2019-05 | Boston Herald | https://www.bostonherald.com/2019/05/03/jagwar/ | STF era | pending — **WebFetch failed (site refuses bot); needs Jen paste or alternate fetch** |
-| 2019-09 | Billboard | https://www.billboard.com/music/rock/jagwar-twin-loser-video-8542690/ | Loser video | pending |
+| 2019-11-05 | Billboard | https://www.billboard.com/music/rock/jagwar-twin-loser-video-8542690/ | Loser video / **"programmed / deprogram"** language | **ingested** — [[Sources/Transcripts/Billboard-2019-Loser-Video]] |
 | 2019-09-23 | Prelude Press | https://preludepress.com/interviews/2019/09/23/interview-with-jagwar-twin/ | JT interview / **masks framing** | **ingested** — [[Sources/Transcripts/Prelude-Press-2019-JT]] |
 | 2019-10-01 | Music Matters | https://musicmattersmagazine.com/2019/10/01/avril-lavigne-with-jagwar-twin-live-music-review-and-photo-gallery/ | Live review (Avril Lavigne tour) | **ingested** (no direct Roy quotes) — [[Sources/Transcripts/Music-Matters-2019-Avril-Review]] |
 | 2019-10-10 | Knockturnal | https://theknockturnal.com/exclusive-jagwar-twins-studio-sessions-are-trippier-than-hippy-circles-interview/ | Studio sessions / Egyptian-mythology fascination | **ingested** — [[Sources/Transcripts/Knockturnal-2019-Studio-Sessions]] |
@@ -219,11 +219,21 @@ Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in 
 | undated | North Coast Music Beat | https://www.northcoastmusicbeat.com/jagwar-twin-interview | JT interview / **fourth mirror line** / Twin = light-and-dark | **ingested** — [[Sources/Transcripts/North-Coast-Music-Beat-JT]] |
 | current | Roy English (own site) | https://mirrors.jagwartwin.com/manifesto-faq | **Manifesto FAQ** — Roy's own framing | **ingested** — [[Sources/Transcripts/Manifesto-FAQ]] |
 | n/a | Wikipedia | https://en.wikipedia.org/wiki/Jagwar_Twin | Biographical baseline | **ingested** — [[Sources/Transcripts/Wikipedia]] |
-| n/a | Masquerade Atlanta | https://www.masqueradeatlanta.com/attraction/jagwar-twin/ | Venue listing (low value) | pending |
+| ~2022 | Masquerade Atlanta | https://www.masqueradeatlanta.com/attraction/jagwar-twin/ | Venue bio / **childhood ballet** confirmation / 33-era framing / Happy Face = social media inauthenticity | **ingested** — [[Sources/Transcripts/Masquerade-Atlanta-Venue-Bio]] |
 | n/a | SoundBetter | https://soundbetter.com/profiles/221681-michael-morgan | Michael Morgan profile (collaborator credits — co-writer Hell Pt. 2) | **ingested** — [[Sources/Transcripts/SoundBetter-Michael-Morgan-Profile]] |
-| n/a | YouTube | https://www.youtube.com/watch?v=DSTNppG5Bkg | Video interview (needs transcript) | pending |
+| ~2022 | YouTube | https://www.youtube.com/watch?v=DSTNppG5Bkg | **"Creative Process For New Album '33'"** — full body pending | partial — [[Sources/Transcripts/YouTube-DSTNppG5Bkg-33-CreativeProcess]] (metadata only; needs Jen paste or yt-dlp for transcript) |
 
-**Ingestion progress: 21 of 27** ingested. Batch 1: Atwood 2018, Manifesto FAQ, Strife 2024, Honey Pop 2023, Wikipedia. Batch 2: Prelude 2019, Knockturnal 2019, NES 2019, American Songwriter 2020, Honey Pop 2020. Batch 3: Artist Waves 2018, Music Matters 2019 [no quotes], Clovis McEvoy 2022, Ones to Watch 2022, Digital Journal 2023. Batch 4: Mic Magazine, North Coast, Celeb Secrets, IM Music, Ones to Watch Mall [no quotes], SoundBetter Michael Morgan. **Failed/gated (need Jen paste or alternate fetch):** AltPress 2022 (403), Boston Herald 2019 (refused), Spindle 2018 (empty page). **Remaining (3 + alternates):** Billboard 2019 (likely paywall), Masquerade Atlanta (venue listing, low value), YouTube DSTNppG5Bkg (video — needs transcript approach).
+**Ingestion progress: 24 of 27** ingested + 1 partial (YouTube metadata-only). Final batch 5: Billboard 2019, Masquerade Atlanta, YouTube DSTNppG5Bkg (partial). **All 27 URLs are now registered, statused, and either ingested or actively flagged.**
+
+**Failed/gated — 3 URLs still need Jen paste or alternate fetch path:**
+- AltPress 2022 (403 — Cloudflare/anti-bot)
+- Boston Herald 2019 (server refused WebFetch)
+- Spindle 2018 (page returned empty / JS-only)
+
+**Partial:**
+- YouTube DSTNppG5Bkg (*"Creative Process For New Album '33'"* — title confirmed; full transcript needs Jen paste or yt-dlp + auto-subtitles)
+
+The 24 fully-ingested transcripts cover 2018 baseline → 2024 Bad Feeling era continuously across multiple outlets; the gaps remaining (AltPress 33 long-form, Boston Herald STF, Spindle JT debut, YouTube 33 creative-process video) would add depth but the cosmology / process / mirrors / Algorithm / Circus / Twin doctrines are all well-grounded in Roy's own voice from the available 24.
 
 ---
 
