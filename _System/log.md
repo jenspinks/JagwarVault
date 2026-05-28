@@ -14,6 +14,80 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-05-28] restructure — iCloud vault decommissioned; Claude Desktop MCP path corrected
+
+Discovered a second JagwarTwin vault on disk at `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/JagwarTwin` — the **pre-restructure** vault (Raw/Processed/Wiki layout, lowercase `Claude.md`, Karpathy three-layer schema). Claude Desktop's `obsidian` MCP server was pointed only at the iCloud copy, so a parallel chat session was operating on the stale vault while Code worked on the live one (`~/Vaults/JagwarTwin/`). Moved iCloud vault to iCloud Trash (recoverable ~30 days); rewrote `~/Library/Application Support/Claude/claude_desktop_config.json` so the `obsidian` MCP points only at the live vault. Backup: `claude_desktop_config.json.bak-2026-05-28`. Claude Desktop restart required.
+
+---
+
+## [2026-05-28] lint — AZLyrics downgraded to draft-tier; Spotify ≥ Apple Music rule codified
+
+[[CLAUDE]] lyric-verification rule updated. **AZLyrics + Google Drive lyric docs are draft-tier only** — they do NOT count as verification. Apple Music + Spotify streaming = authoritative. Documented AZLyrics errors this session: *Dream / Dream* dropped Johnny Mercer + misspelled Vaughan; *Long Time Coming* "framers" → "famous"; *Good Day* phantom "Terry Knight"; *Hell Pt. 2* Producer↔Writer conflation (Matt Pauling listed as Writer when he is a Producer). Further rule: **Spotify ≥ Apple Music on lyric completeness** — Apple's synced-lyrics pane has repeatedly proved less complete (four confirmed omissions: *Loser* closing bridge "I think the world's gone insane", *Not Your Homie* "(sucker, it's a vibe)" ad-lib, *Superhuman (Interlude)* line-break corrections, *Hell Pt. 2* the entire restructured pre-chorus + "Red wine shoelace no body found" crime-scene image). When the two diverge, prefer the more complete reading. Composer-credit note added: Apple Music *Lyrics-tab "Written By"* line can fill in when *Details composer* field is blank (Good Day pattern); Spotify Credits view is the most complete (Composition & Lyrics + full production team).
+
+---
+
+## [2026-05-28] lint — Subject to Flooding tracklist corrected to 13 (was 11)
+
+[[Subject to Flooding (album)]] is **13 tracks**, not 11, verified via MusicBrainz. Track positions 1–11 in the existing Brain stubs were all correct; the vault was simply incomplete. Created stub Brain pages for the missing tracks: **Precious Time (12)** and **Shine (13)**. Updated 9 stub pages' denominators ("Track N of 11" → "Track N of 13"). Album page tracklist extended; "Shine = standalone single" claim corrected (it's the album closer, also a 2020 Live In Studio single). Two pre-existing open questions ("Are there bonus tracks?", "Where does Shine fit?") resolved. [[Ontology]] entries for `SONG-PreciousTime` and `SONG-Shine` revised from misleading "reissue track" notes to "standard album track 12/13 per MusicBrainz."
+
+---
+
+## [2026-05-28] ingest — Sources/Credits/Subject to Flooding (new): per-track composer verification
+
+New subfolder `Sources/Credits/` with authoritative composer-credit record for [[Subject to Flooding (album)]]. Built from Jen's per-track Apple Music + Spotify Credits screenshots. Records: tracks with composer field beyond "Jagwar Twin" (Dream / Dream, Good Day, Superhuman Interlude, Move To You, Roy Voice Memo, Hell Pt. 2); per-track verified entries (Loser, Good Day, N.F.F., Hell Pt. 2); album-wide production team (S1 Executive Producer, Matt Pauling Producer, Chris Gehringer Masterer, Jeff Ellis Mixer — recurring across tracks); flagged conflicts with prior AZLyrics writer lists (now mostly resolved). **Establishes Apple Music composer field / Spotify Credits view as the album's authoritative songwriting-credit source**, with AZLyrics downgraded. ℗ Atlantic Recording Corporation / WEA International Inc.; Apple metadata release date 2019-04-26 (redistribution; album first released 2018-09-21).
+
+---
+
+## [2026-05-28] ingest — Subject to Flooding essays + Brain pages: 7 of 13 tracks fully verified
+
+Verify-then-build campaign across [[Subject to Flooding (album)]]: each track's lyrics + composer screenshot-verified by Jen against Apple Music / Spotify, source files reconciled against Google-Drive / AZLyrics drafts, then full Brain page + Essay filed. **Done (7/13):** [[Long Time Coming]] · [[Dream - Dream]] (Dream / Dream) · [[Superhuman (Interlude)]] · [[Loser]] · [[Good Day]] · [[No Fake Friends]] (N.F.F.) · [[Hell Of A Night Pt. 2 (The Hallelujah Stickup)|Hell of a Night Pt. 2]]. **Stubs remaining:** Superhuman (partial — visible portion Spotify-verified, scroll-down + Details pending), Move To You, Roy Voice Memo, Hell of a Night (Pt. 1), Precious Time, Shine. Each filed essay matches vault convention (essay-style frontmatter, filename wikilinks, tier markers preserved); Brain pages carry full frontmatter including Standard Tracking Fields. Multiple Jen "convergence-point" essay drafts (ChatGPT-generated) were converted to vault conventions and integrated — Loser, Good Day, Hell Pt. 2, N.F.F. essays each incorporate her sharpenings (e.g. Loser's "brightness ≠ emergence" correction; Good Day's "orbit as travel itinerary" + "untouchable = unreachable"; N.F.F.'s "stars flattened into sidewalks" + "recovers altitude, not trust").
+
+---
+
+## [2026-05-28] query — inherited-substrate practice confirmed on Subject to Flooding
+
+Three documented external composer/cultural credits on a single album establish a relay/curation practice at multiple register-levels — central to the new provenance-axis doctrine (`CONCEPT-InheritedSubstrate`). **Licensed interpolation:** [[Dream - Dream]] (track 2) interpolates **Johnny Mercer's 1944 jazz standard "Dream (When You're Feeling Blue)"** (recorded by Sarah Vaughan); composer credit: Mercer, Pauling, Roy English, Vaughan. **Licensed sample:** [[Superhuman (Interlude)]] (track 5) is verbatim **Charlie Chaplin's *The Great Dictator* (1940) closing speech** ("kingdom of God is within man… you the people have the power… let us all unite"); composer credit includes Charles Chaplin; corroborated by pre-existing vault note + Apple Music verbatim lyrics. **Unlicensed allusion:** [[Loser]] (track 3) echoes Beck's "Loser" (1993); no Beck composer credit → allusion-tier, not interpolation. Open question: a fourth credit, *"Essex"* on [[Good Day]] (track 4), remains **unidentified** — possibly another interpolation source (Discogs gated; web search inconclusive; needs ASCAP/BMI or audio sample-spotting).
+
+---
+
+## [2026-05-28] query — Machine vs Human arc; Witnessing vs Surveillance doctrine
+
+New thread spine for the catalogue: [[Machine vs Human]] (`Essays/Arcs/`, `CONCEPT-MachineVsHuman`). Traces 1940 Chaplin (abstract/external/authoritarian machine, in [[Superhuman (Interlude)]]) → 33-era 2022 (ambient/intimate machine: "Online", "Pay Attention") → 2026 Lucius (personified machine: the Algorithm, the Circus). Critical guardrails: **the machine is NOT the antagonist** — the antagonist is the *severing of structure from heart* (Tiferet-guided structure vs Yesod severed from Tiferet). **The Flood frame** [P]: *Subject to Flooding* names the biblical Flood (Genesis 6–9) — extinction event; immersion, not explosion; the digital deluge is the stake. Sibling doctrine: [[Witnessing vs Surveillance]] (`CONCEPT-WitnessingVsSurveillance`) — two modes of being-seen: **witnessing transforms** (El Roi, "the God who sees"; relational presence); **surveillance shapes** (the Algorithm; extractive prediction). *"The algorithm does not know you — it knows how to shape you."* Lucius wears `אל ראי` on his throat (the El Roi tattoo) — carries "the God who sees" on the very organ that says *"you don't know me."* Anchored in [[Online]] (newly built Brain page).
+
+---
+
+## [2026-05-28] query — The Protector concept; STF Protector triad cross-track reading
+
+Registered `CONCEPT-TheProtector` — adaptive psychic-defense architecture; *"if humiliation is inevitable, control the humiliation yourself"*; precursor to [[Sir Lucius]] (**Lucius = The Protector crystallized into theatrical identity**). Cross-track reading established: **STF Protector triad** — [[Loser]] (shame-preemption: claim the label first) / [[Good Day]] (vibe-protection: armor the mood-state) / [[No Fake Friends]] (social filtration: list-keeping, exclusion as policy). Three faces of the same architecture. Bridge to Lucius confirmed via cross-catalogue *"vibe"* vocabulary: Good Day's *"Can't kill my vibe / Won't kill my vibe"* (pre-Lucius armor) + Not Your Homie's *"don't kill my vibe"* (bridge) + *"sucker, it's a vibe"* (Spotify-only ad-lib added this session). Same armor-word evolving; Lucius = what Good Day's vibe-defense becomes when it acquires a face.
+
+---
+
+## [2026-05-28] note — CLAUDE.md CORE PRINCIPLES expanded (3 additions)
+
+Added to [[CLAUDE]] CORE PRINCIPLES section, alongside existing "Symbols are contextual" / "Negative evidence matters" / "Transformation is directional" / "Do not collapse registers":
+1. **Distinguish inherited substrate from internal architecture** — provenance axis. Symbols built *inside* the JT mythos (Lucius, El Roi placement, theatrical EPs, loop/circle, algorithm language, mirror recursion, face-paint) vs. **received and reworked** from the wider culture (dream mythology, jazz-standard yearning, gospel uplift, stairway/heaven, anti-fascist speech). Prefer "mythic emergence" over "intentional esoteric encoding" when material predates JT in the culture; downgrade intent-claims to `[W]`/resonance and frame as participation, not authorship. See `CONCEPT-InheritedSubstrate`.
+2. **Retrospective coherence ≠ original intentional encoding** — guard against back-dating doctrine into early songs. The early catalogue likely holds genuine sincerity, straightforward rebellion, ordinary pop craft. A song joins a thread only on its own anchors. Use `[W]` / `[P]` / Open Questions aggressively.
+3. **Spotify ≥ Apple Music on lyric completeness** (see paired lint entry above).
+
+---
+
+## [2026-05-28] note — Standard Tracking Fields + [[Theme Tracker]] + concept-page infrastructure
+
+Earlier in session, established the analytical-tracking layer that later song pages depend on:
+- **[[Theme Tracker]]** created in `_System/` — 10-section master symbolic grammar (Core Dualities, Transformation/Initiation, Time/Memory/Recursion, Psychological Architecture, Interior/Exterior Systems, Kabbalistic Architecture, Channels/Transmission, Symbolic Imagery, Relational Dynamics, Meta-Structural) + the **Standard Tracking Fields** reference table.
+- **Standard Tracking Fields** added to [[CLAUDE]] frontmatter schema with enum values: `dominant_pole` (solar/lunar/mixed), `transformation_phase` (nigredo/albedo/rubedo), `recursion_state` (loop/orbit/return/circle), `threshold_state` (closed/approaching/crossing/integrated), `narrative_voice` (roy/lucius/mixed/unknown), `temporal_register` (past/recursive/timeless/transitional), `active_systems` (list), `active_symbols` (list).
+- **17 concept-page YAML frontmatter retrofitted**: The Algorithm, The Spectacle, The Audience, The Mask, The Thread, Consumption, Inversion, Panem et Circenses, The Circus, The Labyrinth, Fire, The Aquarium, The Light-Bearer, The Veil, The Wheel, The Voice, The Mouth — all now in [[Ontology]] with connections.
+- **New concept pages:** [[Nigredo]], [[Duality]], [[Witnessing vs Surveillance]] (`CONCEPT-WitnessingVsSurveillance`).
+- **CLAUDE.md** itself was replaced this session with a merged canonical version that preserves Secret-Document boundary, contamination model, validator/backlink workflow, and adds: Theatrical-vs-Biographical, Loop/Circle, Orbit/Return, Love-as-transformative-force, Structural Functions, Failure Modes, Architectural Spaces, the three new CORE PRINCIPLES above. MERCY reference kept small (Mercedes Colletta Britton = the Not Your Homie songwriter, not a Mary-cipher) per Jen's preference.
+
+---
+
+## [2026-05-28] note — pre-2026-05-15 TODOs partially superseded by restructure outcome
+
+The "Folder restructure (Wiki/Concepts, Wiki/Characters, Wiki/Songs, Wiki/Albums, Wiki/Theatrical; move Media/ to Raw/Media/; create Processed/ structure)" checkbox in the 2026-05-05 entry below is **obsolete**. The restructure happened, but to a different target architecture: the live vault now uses `Sources/Brain/Essays/_System` (per current [[CLAUDE]]) — not Wiki/Raw/Processed. The Processed/Lyrics + Processed/Episode Transcripts TODOs are also moot in this layer: lyric files live in `Sources/Lyrics/` (47 files ingested) and transcript work happens under `Sources/Transcripts/` when ingested. Older log references to specific pages (Sir Lucius, Lucius Lullaby (album), Mary, The Dweller on the Threshold, The Labors of Hercules, Welcome to the Circus, Media Index) still point at the right entities — the file paths just live in the current layer structure now. (See [[index]] for current count by layer.)
+
+---
+
 ## [2026-05-16] ingest — gap lyrics (AZLyrics, pasted) + EP-name cleanup
 
 Filled all remaining Source gaps via Jen pasting AZLyrics pages. **Sources/Lyrics now covers all 47 catalogue songs.** New this pass: Dream-Dream, Good Day, Hell Of A Night, Hell Of A Night Pt. 2, Superhuman, No Fake Friends, Roy Voice Memo (spoken), Long Time Coming, Superhuman (Interlude) (spoken — Chaplin *Great Dictator* sample), Another Way II Heaven (completes *33*), LOOP, The Watchers, dumbledore, tomorrow (ANGLE OF ETERNITY). Replaced Precious Time + Shine drafts with better-sourced AZLyrics versions (both confirmed STF reissue tracks, not singles).
