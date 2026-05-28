@@ -25,7 +25,13 @@ Recording owner (℗-line): Atlantic Recording Corporation / WEA International I
 | 9 | Roy Voice Memo: S1 Arrowhead | Roy English, S1 | matches existing vault credit |
 | 11 | Hell of a Night Pt. 2 (The Hallelujah Stickup) | Michael Morgan, Roy English | AZLyrics also listed Matthew Pauling — not in Apple composer field |
 
-All remaining tracks — **1** Long Time Coming, **3** Loser, **6** Superhuman, **8** N.F.F. (No Fake Friends), **10** Hell of a Night, **12** Precious Time, **13** Shine — showed composer = **"Jagwar Twin"** only.
+### Per-track screenshot verification (in progress)
+
+| # | Title | Composer field (Apple Music — verified screenshot) | Note |
+|---|---|---|---|
+| 3 | Loser | Matthew Pauling & Roy English | verified 2026-05-27 (Jen screenshot) |
+
+**Important correction:** an earlier inference in this file claimed that the tracks not on Jen's first-pass "non-JT" list (1 / 3 / 6 / 8 / 10 / 12 / 13) showed composer = **"Jagwar Twin" only**. The Loser screenshot proves that inference wrong (Loser = Pauling & English). Jen's first pass was flagging only **external/third-party** names (Mercer, Chaplin, S1, Morgan); the unlisted tracks may carry the core Pauling/English credit (or others) and need their own per-track Apple Music screenshots. Do not treat "Jagwar Twin only" as established for any track without its own screenshot.
 
 ## Inherited-substrate flags (provenance axis → `CONCEPT-InheritedSubstrate`)
 
@@ -38,8 +44,8 @@ Two confirmed external composers reveal interpolated cultural material — the s
 
 Apple Music composer field is authoritative **where populated**. Where it shows only "Jagwar Twin," AZLyrics-added co-writers are **`[?]` unconfirmed — not disproven** (Apple composer metadata is frequently incomplete). To reconcile in `Sources/Lyrics/`:
 
-- **Long Time Coming** (1): AZLyrics "Travis L. Barker, Matthew Pauling, Roy English" vs Apple "Jagwar Twin" only. Travis Barker = confirmed album *contributor* (blink-182), **not** an Apple-listed *composer*; co-writer credit `[?]`.
-- **Superhuman** (6): AZLyrics "Jeffrey Nath Bhasker, Matthew Pauling, Roy English" vs Apple "Jagwar Twin" only. Bhasker confirmed on the interlude (track 5), so plausible — but `[?]`.
+- **Long Time Coming** (1): AZLyrics "Travis L. Barker, Matthew Pauling, Roy English"; Apple composer **not yet screenshot-verified** (earlier "Jagwar Twin only" was an inference now in doubt — see correction above). Travis Barker = confirmed album *contributor* (blink-182); his composer status is `[?]` pending screenshot.
+- **Superhuman** (6): AZLyrics "Jeffrey Nath Bhasker, Matthew Pauling, Roy English"; Apple composer **not yet screenshot-verified**. Bhasker confirmed on the interlude (track 5), so plausible — but `[?]`.
 - **Good Day** (4): AZLyrics "Terry Knight, Roy English, Larry Darnell Griffin Jr." vs Apple **blank**. "Terry Knight" especially suspect (likely a wrong-song scrape); `[?]`.
 - **Hell of a Night Pt. 2** (11): AZLyrics added "Matthew Pauling"; Apple composer = "Michael Morgan, Roy English" only.
 

@@ -1,20 +1,22 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Apple Music lyrics + composer field (Jen, 2026-05-27)", "Google Drive (initial ingest 2026-05-25)"]
 ingested: 2026-05-25
-ingest_source: "Google Drive (Jen's lyrics doc 2)"
+ingest_source: "Google Drive (Jen's lyrics doc 2); verified against Apple Music 2026-05-27"
 ---
 # Loser — Lyrics (Source)
 
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- (release metadata pending — Apple Music / Spotify / Genius URLs to add at verification time)
+- **Album:** *Subject to Flooding* (2018) — track 3
+- **Composer (Apple Music):** Matthew Pauling & Roy English
+- Breakthrough single (premiered Zane Lowe / Beats 1; later released as a single 2019-09-13).
 
 ### Citable as
-- [release links pending]
+- Apple Music — *Subject to Flooding* (2018), track 3. Verified 2026-05-27.
 
 ## Lyrics
 
@@ -53,7 +55,7 @@ Just like you, just like you
 
 Click on your clock radio
 
-Ain't got much time 'til I blow
+Ain't got much time till I blow
 
 I'm a loser, baby, just like you
 
@@ -82,23 +84,10 @@ Just like you, just like you
 Baby, I'm a loser, yeah, yeah, yeah
 
 Just like you, just like you
-
-I think the world's gone insane
-
-I think the world's gone insane
-
-We're singing
-
-Baby, I'm a loser, yeah, yeah, yeah
-
-Just like you, just like you
-
-Baby, I'm a loser, yeah, yeah, yeah
-
-Just like you, just like you
 ```
 
 ## Maintenance
-- Bulk-ingested 2026-05-25 from Google Drive lyrics doc.
-- **Not yet verified** against streaming release. Verification target → cross-check on Apple Music, Spotify, Letras, or Shazam; record URLs in `verified_against`; flip `status` to `stable`.
-- If transcription diverges from official release, official wins.
+- Ingested 2026-05-25 from Google Drive lyrics doc.
+- **Verified against Apple Music 2026-05-27 (Jen screenshot)** → `status: stable`. Corrections: "'til I blow" → "till I blow".
+- **[?] Removed line — verify by ear.** Google Drive draft included a bridge before the final chorus — *"I think the world's gone insane / I think the world's gone insane / We're singing"* — which is **not present** in Apple Music's synced lyrics. Apple Music wins per the verification rule, but the line is thematically loaded ("Television on your frame / Everybody's all the same") and may be an audible bridge Apple omitted. Restore if confirmed audible.
+- **Composer (Apple Music):** Matthew Pauling & Roy English.

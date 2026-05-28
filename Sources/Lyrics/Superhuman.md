@@ -80,3 +80,4 @@ Yeah, we gon' fight 'til it's through 'cause we're superhuman
 
 ## Maintenance
 - Ingested 2026-05-16 from AZLyrics (pasted by Jen). Single-source; cross-check against official release to flip `status` to `stable`.
+- **Partial Apple Music verification (Jen screenshot 2026-05-27):** visible top ~⅔ of lyrics confirmed, with differences from AZLyrics — Apple shows *"Can't knock us down we're back the road"* (vs draft *"They can't knock us down, we're back on the road"*) and ad-libs *"oh!"* (vs *"(No)"*). **Screenshot cut off** at *"Left, right, left it goes and we"*; the song's thematically-critical ending — *"All we are is human / But I'll try, try, try, try to be / Superhuman"* — is below the cutoff and **still unverified**. Status remains `draft` pending the scroll-down screenshot.
