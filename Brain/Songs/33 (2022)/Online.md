@@ -47,4 +47,4 @@ Doctrinal weight: the first song that *sees the system as system* — database, 
 ## Open Questions
 - [ ] Verify lyrics against Apple Music (currently Google Drive draft); check composer field for non-JT names (the Mercer/Chaplin interpolation pattern).
 - [ ] Is the *"we can help your better life"* voice the machine, or the sedated human ventriloquizing it?
-- [ ] Track count: header says "1 of 10" — verify *33*'s tracklist against MusicBrainz (the *Subject to Flooding* count was wrong by 2).
+- [x] ~~Track count~~ **CONFIRMED (none — MusicBrainz):** *33* = 10 tracks, Online = track 1. (Unlike STF, the count was already right.)
