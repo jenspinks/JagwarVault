@@ -11,9 +11,12 @@ ingest_source: "AZLyrics.com (pasted by Jen)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- **Album:** *Subject to Flooding* (2018) — reissue track
-- **Writers (Apple Music composer):** Michael Morgan, Roy English. [?] AZLyrics also listed Matthew Pauling, not in Apple composer field — see [[Sources/Credits/Subject to Flooding]].
+- **Album:** *Subject to Flooding* (2018) — **track 11** (not a "reissue track" — standard album track per MusicBrainz)
+- **Composition & Lyrics (Spotify Credits, verified 2026-05-28; also confirmed via Apple Music composer field):** Roy English, Michael Morgan
+- **Production & Engineering (Spotify Credits, verified 2026-05-28):** Roy English (Producer), Michael Morgan (Producer), Matt Pauling (Producer), S1 (Executive Producer), Chris Gehringer (Masterer), Jeff Ellis (Mixer)
+- **Sources line:** Atlantic Records
 - **Title styling (AZLyrics):** "Hell Of A Night, PT. 2 (The Hallelujah Stickup)"
+- **AZLyrics conflict — clarified:** AZLyrics listed Matt Pauling as a *Writer*; per Spotify Credits + Apple Music, Matt Pauling is a **Producer**, not a Writer. The AZLyrics error was conflating Producer with Writer (a common conflation; cf. Long Time Coming where Travis Barker was a *contributor* but appeared as a "writer" in AZLyrics).
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)
@@ -55,4 +58,6 @@ It's gonna be a...
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen). Single-source; cross-check against official release to flip `status` to `stable`.
+- Ingested 2026-05-16 from AZLyrics (pasted by Jen).
+- **2026-05-28: Credits fully verified via Spotify Credits view** (Jen screenshot). Writers (Roy English, Michael Morgan) match Apple Music composer field. Full production team recorded: Roy English / Michael Morgan / Matt Pauling all credited as Producers; S1 as Executive Producer; Chris Gehringer Masterer; Jeff Ellis Mixer.
+- **Lyrics body is still AZLyrics-only** — no Apple Music or Spotify lyric screenshot yet. `status` remains `draft` for the lyric body pending streaming verification. (Status will flip to stable once lyric pane is screenshot-verified.)

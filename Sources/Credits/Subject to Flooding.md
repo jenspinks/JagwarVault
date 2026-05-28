@@ -31,6 +31,14 @@ Recording owner (℗-line): Atlantic Recording Corporation / WEA International I
 |---|---|---|---|
 | 3 | Loser | Matthew Pauling & Roy English | verified 2026-05-27 (Jen screenshot) |
 | 4 | Good Day | Details: **BLANK**. Lyrics-tab Written By: **Essex, Roy English, S1** | verified 2026-05-28 (Jen screenshots). "Essex" unidentified — possible interpolation source `[?]`. AZLyrics' "Terry Knight" was a phantom (wrong-song scrape). |
+| 8 | N.F.F. (No Fake Friends) | Composition & Lyrics (Spotify): **Roy English, Matt Pauling, S1** | verified 2026-05-28 (Jen Spotify Credits screenshot). Matches AZLyrics writer list (no conflict on this track). Full production team: Roy English/Matt Pauling/S1 (Producers), S1 (Executive Producer), Chris Gehringer (Masterer), Jeff Ellis (Mixer). |
+| 11 | Hell of a Night Pt. 2 (The Hallelujah Stickup) | Composition & Lyrics (Spotify, confirms Apple): **Roy English, Michael Morgan** | verified 2026-05-28 (Jen Spotify Credits). Full production: Roy English/Michael Morgan/Matt Pauling (Producers), S1 (Executive Producer), Chris Gehringer (Masterer), Jeff Ellis (Mixer). **AZLyrics' "Matt Pauling as Writer" was a Producer↔Writer conflation** — Pauling is a Producer, not a Writer on this track. |
+
+### Album-wide engineering team (Spotify Credits, observed across tracks)
+- **Chris Gehringer** — Masterer (on every track screenshotted so far)
+- **Jeff Ellis** — Mixer (on every track screenshotted so far)
+- **S1 (Larry Darnell Griffin Jr.)** — Executive Producer (recurring across tracks; also writer on Good Day, N.F.F.)
+- **Matt Pauling** — Producer (recurring; also writer on Loser, N.F.F.)
 
 **Important correction:** an earlier inference in this file claimed that the tracks not on Jen's first-pass "non-JT" list (1 / 3 / 6 / 8 / 10 / 12 / 13) showed composer = **"Jagwar Twin" only**. The Loser screenshot proves that inference wrong (Loser = Pauling & English). Jen's first pass was flagging only **external/third-party** names (Mercer, Chaplin, S1, Morgan); the unlisted tracks may carry the core Pauling/English credit (or others) and need their own per-track Apple Music screenshots. Do not treat "Jagwar Twin only" as established for any track without its own screenshot.
 
@@ -48,7 +56,7 @@ Apple Music composer field is authoritative **where populated**. Where it shows 
 - **Long Time Coming** (1): AZLyrics "Travis L. Barker, Matthew Pauling, Roy English"; Apple composer **not yet screenshot-verified** (earlier "Jagwar Twin only" was an inference now in doubt — see correction above). Travis Barker = confirmed album *contributor* (blink-182); his composer status is `[?]` pending screenshot.
 - **Superhuman** (6): AZLyrics "Jeffrey Nath Bhasker, Matthew Pauling, Roy English"; Apple composer **not yet screenshot-verified**. Bhasker confirmed on the interlude (track 5), so plausible — but `[?]`.
 - **Good Day** (4): AZLyrics "Terry Knight, Roy English, Larry Darnell Griffin Jr." — **confirmed wrong** (2026-05-28). Apple Music **Details composer is blank**; Apple Music **Lyrics-tab Written By = "Essex, Roy English, S1"**. "Terry Knight" was a phantom credit (wrong-song scrape); "Essex" is the actual co-writer (unidentified, `[?]` — possible interpolation source); S1 = LDG Jr. (matches).
-- **Hell of a Night Pt. 2** (11): AZLyrics added "Matthew Pauling"; Apple composer = "Michael Morgan, Roy English" only.
+- **Hell of a Night Pt. 2** (11): **RESOLVED 2026-05-28** — AZLyrics' "Matt Pauling" listed under Writer was a Producer↔Writer conflation. Spotify Credits + Apple Music: Pauling is a **Producer** on this track, not a Writer. Writers = Roy English, Michael Morgan only.
 
 ## Maintenance
 - Ingested 2026-05-27 from Apple Music Get Info (composer field), per-track verification by Jen.
