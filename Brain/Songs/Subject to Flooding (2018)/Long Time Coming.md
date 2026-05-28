@@ -23,7 +23,7 @@ review_date: 2026-11-16
 ---
 # Long Time Coming
 
-Track 1, *Subject to Flooding* (2018, Atlantic). Writers: Travis L. Barker, Matthew Pauling, Roy English. Earliest lyric anchor for the protector/mask structure — predates theatrical Lucius by ~7 years.
+Track 1, *Subject to Flooding* (2018, Atlantic). Writers: [?] Apple Music composer field = Jagwar Twin only; AZLyrics-derived "Travis L. Barker, Matthew Pauling" unconfirmed (Barker = album contributor, not Apple-listed composer — see [[Sources/Credits/Subject to Flooding]]). Earliest lyric anchor for the protector/mask structure — predates theatrical Lucius by ~7 years.
 
 ## Voicing
 [[Roy]], autobiographical lyric. Proto-Lucius awareness phase — the adaptive survival structure is already operational and becoming consciously visible. NOT yet integration; recognition only.

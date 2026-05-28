@@ -357,7 +357,7 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 ### Provenance Axis — Inherited Substrate vs Internal Architecture
 - **A — Internal architecture** (built inside the JT mythos): Lucius, El Roi throat placement, theatrical EPs, loop/circle, algorithm language, mirror recursion, face-paint systems.
 - **B — Inherited substrate** (received/reworked from the wider culture): dream mythology, jazz-standard yearning, American-aspiration narratives, stairway/heaven imagery, gospel-uplift structures, romantic-transcendence language.
-- Confirmed case: *Dream / Dream* interpolates Johnny Mercer's 1944 "Dream" (Mercer + Sarah Vaughan credited) — inherited, not invented.
+- Confirmed cases (*Subject to Flooding*): *Dream / Dream* interpolates Johnny Mercer's 1944 "Dream" (Mercer + Sarah Vaughan credited); *Superhuman (Interlude)* samples Charlie Chaplin's *Great Dictator* (1940) closing speech (Chaplin credited). Both inherited, not invented. Credits: [[Sources/Credits/Subject to Flooding]].
 - Rule: prefer **mythic emergence** over **intentional encoding** when a symbol predates JT. Symbolic density can arise from Roy *participating in* an older current. Reading survives; its source relocates. Guards against "Roy intentionally encoded everything." See `CONCEPT-InheritedSubstrate`.
 
 ---

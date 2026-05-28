@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018)
-- **Writers:** Jeffrey Nath Bhasker, Matthew Pauling, Roy English
+- **Writers:** [?] Apple Music composer field = Jagwar Twin only. AZLyrics "Jeffrey Nath Bhasker, Matthew Pauling, Roy English" unconfirmed (Bhasker is confirmed on the interlude, track 5). See [[Sources/Credits/Subject to Flooding]].
 - Distinct from [[Superhuman (Interlude)]] (separate track).
 
 ### Citable as

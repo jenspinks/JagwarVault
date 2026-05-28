@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018) — track 4
-- **Writers:** Terry Knight, Roy English, Larry Darnell Griffin Jr.
+- **Writers:** [?] Apple Music composer field is BLANK for this track. AZLyrics list (Terry Knight, Roy English, Larry Darnell Griffin Jr.) unconfirmed; "Terry Knight" especially suspect — see [[Sources/Credits/Subject to Flooding]].
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)

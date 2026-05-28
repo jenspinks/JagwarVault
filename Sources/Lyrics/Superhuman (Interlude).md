@@ -13,7 +13,8 @@ Spoken interlude — a sampled excerpt of **Charlie Chaplin's final speech from 
 
 ## Source
 - **Album:** *Subject to Flooding* (2018) — interlude, precedes [[Superhuman]]
-- **Sampled text:** Charlie Chaplin, *The Great Dictator* (1940), closing speech (public/historical)
+- **Composer (Apple Music):** Charles Chaplin, Jeff Bhasker, Matthew Pauling, Roy English (see [[Sources/Credits/Subject to Flooding]])
+- **Sampled text:** Charlie Chaplin, *The Great Dictator* (1940), closing speech (public/historical). **Corroborated:** the Apple Music Charles Chaplin composer credit confirms this sample — inherited substrate (`CONCEPT-InheritedSubstrate`).
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)

@@ -5,6 +5,7 @@
 **Label:** Atlantic Records
 **Producers:** S1 (Kanye West, Beyoncé, Lorde), Linus (Twenty One Pilots), Matthew Pauling; mixed by Adam Hawkins
 **Contributors:** Travis Barker (blink-182), Jeff Bhasker
+**Composer credits:** see [[Sources/Credits/Subject to Flooding]] (Apple Music composer fields, verified 2026-05-27). Note: Travis Barker / Bhasker appear as *contributors*, not as Apple-listed *composers*. Two inherited-substrate interpolations: track 2 *Dream / Dream* (Johnny Mercer, 1944) and track 5 *Superhuman (Interlude)* (Charlie Chaplin, *Great Dictator* speech).
 **Status:** Stub — not yet analyzed as a whole
 
 ---

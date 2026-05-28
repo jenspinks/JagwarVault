@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018) — track 1
-- **Writers:** Travis L. Barker, Matthew Pauling, Roy English
+- **Writers:** [?] Apple Music composer field = Jagwar Twin only. AZLyrics "Travis L. Barker, Matthew Pauling, Roy English" unconfirmed — Travis Barker is a confirmed album contributor, not an Apple-listed composer. See [[Sources/Credits/Subject to Flooding]].
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)

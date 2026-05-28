@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018) — reissue track
-- **Writers:** Matthew Pauling, Roy English, Michael Morgan
+- **Writers (Apple Music composer):** Michael Morgan, Roy English. [?] AZLyrics also listed Matthew Pauling, not in Apple composer field — see [[Sources/Credits/Subject to Flooding]].
 - **Title styling (AZLyrics):** "Hell Of A Night, PT. 2 (The Hallelujah Stickup)"
 
 ### Citable as
