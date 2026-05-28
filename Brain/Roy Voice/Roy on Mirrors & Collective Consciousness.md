@@ -19,6 +19,20 @@ Roy English's own statements about mirrors, the collective, the "we not me" fram
 - **[2018-09-21]** *"So my experience of being a loser and the listeners' are one in the same."* — [[Atwood-2018-Loser]]
 - **[2018-09-21]** On naming Jagwar Twin: *"I felt like I was given new eyes and I started to see myself, others, and the world differently as a result."* — [[Atwood-2018-Loser]] (Mayan-jaguar framing — *seeing into all living beings*. Compare: Wikipedia's editorial framing of the name as Mayan-mythological.)
 
+## 2019 — STF promotional era
+
+- **[2019-09-23]** *"That everything is possible and we are all one. More now than ever, we need to come together as a human race."* — [[Prelude-Press-2019-JT]]
+- **[2019-12-05]** On the Jagwar Twin name: *"Jagwar in my mythology is this creature who kind of looks first into itself really deeply, but that self realization allows it to look and see into others."* — [[New-England-Sounds-2019-Avril-Tour]] (the self-reflection-enabling-other-reflection structure — proto-mirror doctrine)
+
+## 2020 — quarantine era (KEY for mirror doctrine)
+
+- **[2020-04-27]** **THE primary mirror statement**: *"I just want to be a mirror."* — [[American-Songwriter-2020-Shine]]
+- **[2020-04-27]** **"A song is a mirror"**: *"I hope that people see themselves. More and more I realize that a song is a mirror."* — [[American-Songwriter-2020-Shine]]
+- **[2020-04-30]** Co-creation framing: *"It really is a co-creation. Even the word 'fan' has had this connotation of being less than the artist in the past. We are ALL creators. We are ALL artists in our own way because we all co-create the world we live in."* — [[Honey-Pop-2020-Quarantine-QA]]
+- **[2020-04-30]** *"The thoughts inside of us become the thoughts of the collective, and in that, there is a huge responsibility."* — [[Honey-Pop-2020-Quarantine-QA]]
+- **[2020-04-30]** *"Everything is a vibrational frequency. Light, matter, sound, it's all the same thing at variable speeds."* — [[Honey-Pop-2020-Quarantine-QA]]
+- **[2020-04-30]** Key message: **"ONENESS"** — [[Honey-Pop-2020-Quarantine-QA]]
+
 ## undated — Manifesto
 
 - **[current]** *"All I am is that I am."* — [[Manifesto-FAQ]] (riff on YHWH / Exodus 3:14 — divine self-naming. Compare with El Roi ("the God who sees") on Lucius's throat — Roy's "I am that I am" + Lucius's "El Roi" form a paired divine-naming structure across the project.)

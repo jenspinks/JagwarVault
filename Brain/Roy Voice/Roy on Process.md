@@ -17,6 +17,20 @@ Roy English's own statements about songwriting, production, collaboration, and t
 - **[2018-09-21]** On the [[Loser]] children's-choir vocal switch: *"It was definitely a conscious decision to use a choir of children."* — [[Atwood-2018-Loser]]
 - **[2018-09-21]** On collaboration: *"There were so many talented people that made this album what it is and everybody let go of ego to create something bigger than all of us as individuals."* — [[Atwood-2018-Loser]]
 
+## 2019 — STF promotional era
+
+- **[2019-09-23]** *"Through the process of Subject To Flooding I completely changed my diet, my meditation and prayer practices, views on governmental and human made institutions and most of all, learned so much about myself."* — [[Prelude-Press-2019-JT]]
+- **[2019-10-10]** *"We were doing ice baths and saunas and guided meditations all the time. It was amazing!"* — [[Knockturnal-2019-Studio-Sessions]]
+- **[2019-10-10]** *"All these things made us look inward. I think to make good art, you have to learn about yourself first, and all those experiences combined helped me do that."* — [[Knockturnal-2019-Studio-Sessions]]
+- **[2019-12-05]** Download framing again: *"I don't feel that I'm even writing what's coming through me and there's so many amazing people involved."* — [[New-England-Sounds-2019-Avril-Tour]]
+- **[2019-12-05]** Standard: *"If everyone in the room feels like this is the best thing we can be doing, we get the chills. Do we believe this? Is it authentic to me as a person?"* — [[New-England-Sounds-2019-Avril-Tour]]
+
+## 2020 — quarantine era
+
+- **[2020-04-27]** *"I'm at my best as a songwriter when I'm alone and centered into myself."* — [[American-Songwriter-2020-Shine]]
+- **[2020-04-27]** Morning practice: *"I like to wake up, grab a guitar first-thing and follow whatever comes out for five or ten minutes and then leave it. Don't judge it."* — [[American-Songwriter-2020-Shine]]
+- **[2020-04-27]** *"I have found that my best songwriting comes from being alone, centered and present in myself and what I'm feeling."* — [[American-Songwriter-2020-Shine]]
+
 ## 2024 — Bad Feeling era
 
 - **[2024-07]** *"I never thought about genres, even when I was a kid, I never thought about them. I would just feel a feeling or an emotion."* — [[Strife-2024-Bad-Feeling]]

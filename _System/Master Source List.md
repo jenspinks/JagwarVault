@@ -196,14 +196,14 @@ Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in 
 |---|---|---|---|---|
 | 2018-?? | Spindle Magazine | https://spindlemagazine.com/2018/10/jagwar-twin | JT debut | pending |
 | 2018-09-21 | Atwood Magazine | https://atwoodmagazine.com/jagwar-twin-loser-interview-subject-to-flooding-2018/ | Loser / *Subject to Flooding* | **ingested** — [[Sources/Transcripts/Atwood-2018-Loser]] |
-| 2019-05 | Boston Herald | https://www.bostonherald.com/2019/05/03/jagwar/ | STF era | pending |
+| 2019-05 | Boston Herald | https://www.bostonherald.com/2019/05/03/jagwar/ | STF era | pending — **WebFetch failed (site refuses bot); needs Jen paste or alternate fetch** |
 | 2019-09 | Billboard | https://www.billboard.com/music/rock/jagwar-twin-loser-video-8542690/ | Loser video | pending |
-| 2019-09 | Prelude Press | https://preludepress.com/interviews/2019/09/23/interview-with-jagwar-twin/ | JT interview | pending |
+| 2019-09-23 | Prelude Press | https://preludepress.com/interviews/2019/09/23/interview-with-jagwar-twin/ | JT interview / **masks framing** | **ingested** — [[Sources/Transcripts/Prelude-Press-2019-JT]] |
 | 2019-10 | Music Matters | https://musicmattersmagazine.com/2019/10/01/avril-lavigne-with-jagwar-twin-live-music-review-and-photo-gallery/ | Live review (Avril Lavigne tour) | pending |
-| 2019-12 | New England Sounds | https://newenglandsounds.com/2019/12/05/interview-jagwar-twin-on-their-foundations-opening-for-avril-lavigne-and-the-creative-process/ | Foundations / creative process / Avril tour | pending |
-| 2020-04 | Honey Pop | https://thehoneypop.com/2020/04/30/positivity-poise-promise-jagwar-twin-roy-english-provokes-passion-with-an-exclusive-qa/ | Quarantine Q&A | pending |
-| 2020-?? | American Songwriter | https://americansongwriter.com/jagwar-twin-lets-fans-shine-during-quarantine-on-new-single/ | Shine / quarantine single | pending |
-| 2020-?? | Knockturnal | https://theknockturnal.com/exclusive-jagwar-twins-studio-sessions-are-trippier-than-hippy-circles-interview/ | Studio sessions | pending |
+| 2019-10-10 | Knockturnal | https://theknockturnal.com/exclusive-jagwar-twins-studio-sessions-are-trippier-than-hippy-circles-interview/ | Studio sessions / Egyptian-mythology fascination | **ingested** — [[Sources/Transcripts/Knockturnal-2019-Studio-Sessions]] |
+| 2019-12-05 | New England Sounds | https://newenglandsounds.com/2019/12/05/interview-jagwar-twin-on-their-foundations-opening-for-avril-lavigne-and-the-creative-process/ | Foundations / creative process / Avril tour / **Twin = dark and light** | **ingested** — [[Sources/Transcripts/New-England-Sounds-2019-Avril-Tour]] |
+| 2020-04-27 | American Songwriter | https://americansongwriter.com/jagwar-twin-lets-fans-shine-during-quarantine-on-new-single/ | Shine / **"I just want to be a mirror"** | **ingested** — [[Sources/Transcripts/American-Songwriter-2020-Shine]] |
+| 2020-04-30 | Honey Pop | https://thehoneypop.com/2020/04/30/positivity-poise-promise-jagwar-twin-roy-english-provokes-passion-with-an-exclusive-qa/ | Quarantine Q&A / **ONENESS / per-song framings** | **ingested** — [[Sources/Transcripts/Honey-Pop-2020-Quarantine-QA]] |
 | 2020-?? | Artist Waves | https://artistwaves.com/checking-in-with-jagwar-twin/ | Checking in | pending |
 | 2021-?? | IM Music Magazine | https://im-musicmagazine.com/f/jagwar-twin-releases-new-single-ft-lovelytheband/ | Down to You feat. lovelytheband | pending |
 | 2022-?? | Digital Journal | https://www.digitaljournal.com/entertainment/jagwar-twin-talks-about-his-new-music/article | New music | pending |
@@ -222,7 +222,7 @@ Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in 
 | n/a | SoundBetter | https://soundbetter.com/profiles/221681-michael-morgan | Michael Morgan profile (collaborator credits) | pending |
 | n/a | YouTube | https://www.youtube.com/watch?v=DSTNppG5Bkg | Video interview (needs transcript) | pending |
 
-**Ingestion progress: 5 of 27** (Atwood 2018, Manifesto FAQ, Honey Pop 2023, Strife 2024, Wikipedia). AltPress 2022 needs alternate fetch path (WebFetch returned 403). 21 remaining for subsequent batches.
+**Ingestion progress: 10 of 27** (Atwood 2018, Manifesto FAQ, Honey Pop 2023, Strife 2024, Wikipedia, Prelude 2019, Knockturnal 2019, New England Sounds 2019, American Songwriter 2020, Honey Pop 2020). **Failed/gated (need Jen paste or alternate fetch):** AltPress 2022 (403), Boston Herald 2019 (refused). **16 remaining** for subsequent batches.
 
 ---
 

@@ -45,4 +45,4 @@ Track 3, *Subject to Flooding* (2018, Atlantic). Debut JT single (premiered Zane
 - [ ] California / Mexico pairing — border-threshold image between systems/identities/psychic states? [~]
 - [ ] Trojan Horse cadence — does it mirror the songwriting structures Roy discussed studying during the early commercial period?
 - [ ] Beck "Loser" (1993) echo: deliberate homage or coincidence? (No credit → allusion-tier.)
-- [ ] Roy's *"we all walk around with masks on"* framing — locate the exact interview/source for citation.
+- [x] ~~Roy's *"we all walk around with masks on"* framing — locate the exact interview/source for citation.~~ **RESOLVED 2026-05-28 via Prelude Press 2019** — verbatim: *"Loser is about how we all walk around with these masks on and try to be what we think other people want us to be. But if we remove those masks we find that we're all human underneath and we're all losers. There is only perceived separation."* See [[Sources/Transcripts/Prelude-Press-2019-JT]] and the aggregation page [[Brain/Roy Voice/Roy on Authenticity & Masks]]. **The Roy's framing section above (grounded) is now citation-anchored, not just inferred from artist commentary.**

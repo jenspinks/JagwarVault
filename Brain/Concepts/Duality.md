@@ -21,6 +21,16 @@ The root structure of the Jagwar Twin project. Every major symbol, character, an
 
 Duality is not opposition. The project does not argue for synthesis that erases difference, or for one side defeating the other. It argues for **correct relationship**: the mind in service of the heart, the angles animated by the angel, the reflection oriented toward the sun rather than the audience. The split is the starting condition; the question is always the orientation of the relationship.
 
+## Grounded — Roy's own framing
+
+The project's name itself encodes the duality. From Roy directly:
+
+> *"The twin is just the nature of everything we've been talking about. The dark and the light."* — Roy English, New England Sounds 2019-12-05 ([[New-England-Sounds-2019-Avril-Tour]])
+
+> *"I think it captures a bit of who I am at the core, playing in light and dark."* — Roy on the Jagwar Twin name, Strife Mag 2024-07 ([[Strife-2024-Bad-Feeling]])
+
+The dark/light duality is **2019 vocabulary in Roy's own voice**, not a retrospective vault projection. The structural precondition that later becomes Roy/Lucius is named at the project's name from the start. See [[Brain/Roy Voice/Roy on Authenticity & Masks]] for additional sourcing.
+
 ## The Root Split — Roy / Sir Lucius
 
 | Roy | Sir Lucius |
