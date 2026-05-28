@@ -1,10 +1,10 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["AZLyrics.com (licensed via MusixMatch)"]
+status: stable
+verified_against: ["Apple Music lyrics + composer field (Jen, 2026-05-27)", "AZLyrics.com (initial ingest; had 'Not one man' — corrected)"]
 ingested: 2026-05-16
-ingest_source: "AZLyrics.com (pasted by Jen)"
+ingest_source: "AZLyrics.com (pasted by Jen); verified against Apple Music 2026-05-27"
 format: spoken
 ---
 # Superhuman (Interlude) — Source (spoken)
@@ -22,10 +22,12 @@ Spoken interlude — a sampled excerpt of **Charlie Chaplin's final speech from 
 ## Text
 
 ```
-[Charlie Chaplin:]
+[Charlie Chaplin — The Great Dictator (1940), closing speech:]
 The kingdom of God is within man
-Not one man, nor a group of men
-But in all men, in you
+Not in one man
+Nor a group of men
+But in all men
+In you
 You, the people, have the power
 The power to create machines
 The power to create happiness
@@ -37,4 +39,5 @@ Let us all unite
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen). Sampled spoken text; the words are Chaplin's. Cross-check the exact in-track excerpt against the official release to flip `status` to `stable`.
+- Ingested 2026-05-16 from AZLyrics; **verified against Apple Music lyrics 2026-05-27** (Jen) → `status: stable`. Correction: AZLyrics had "Not one man" / "But in all men, in you"; Apple Music = "Not in one man / Nor a group of men / But in all men / In you".
+- Source text confirmed as Charlie Chaplin's *The Great Dictator* (1940) closing speech — verbatim. Apple Music **composer field** credits Charles Chaplin (+ Bhasker, Pauling, Roy English); note the Apple Music **"Written By"** line omits Chaplin (lists only Bhasker, Pauling, Roy English) — a metadata inconsistency, but the composer field + verbatim text confirm the Chaplin sample. Inherited substrate (`CONCEPT-InheritedSubstrate`).

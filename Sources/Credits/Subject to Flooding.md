@@ -32,7 +32,7 @@ All remaining tracks — **1** Long Time Coming, **3** Loser, **6** Superhuman, 
 Two confirmed external composers reveal interpolated cultural material — the second and (so far) clearest evidence for the provenance axis:
 
 - **Track 2 — Dream / Dream** ← Johnny Mercer, "Dream (When You're Feeling Blue)" (1944); recorded by Sarah Vaughan. Confirmed.
-- **Track 5 — Superhuman (Interlude)** ← Charles Chaplin, *The Great Dictator* (1940) closing speech ("you are not machines… you are men"). **Confirmed** — the Apple Music Chaplin composer credit corroborates the pre-existing vault note (`Sources/Lyrics/Superhuman (Interlude).md`: "Sampled text: Charlie Chaplin, The Great Dictator (1940), closing speech"). Thematically exact for "Superhuman": transcending the machine, the cry to remain human. Two independent confirmations → grounded.
+- **Track 5 — Superhuman (Interlude)** ← Charles Chaplin, *The Great Dictator* (1940) closing speech. **Confirmed (grounded), three ways:** (1) Apple Music lyrics are verbatim the speech ("The kingdom of God is within man… you, the people, have the power… let us all unite"); (2) Apple Music composer field credits Charles Chaplin; (3) pre-existing vault note. Thematically exact for "Superhuman": the people's power to "create machines" vs. "make this life free and beautiful." Note: the Apple Music **"Written By"** line omits Chaplin (lists only Bhasker, Pauling, Roy English) — a composer-field/Written-By metadata inconsistency, but the verbatim text settles it.
 
 ## Conflicts with prior AZLyrics writer lists
 

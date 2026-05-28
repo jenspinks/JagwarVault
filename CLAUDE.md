@@ -68,7 +68,7 @@ Raw material. Things that exist in the world, preserved so they can be cited. **
 
 Each file carries `citable: true|false`. Immutable once placed: corrections only, never reinterpretation. Flag uncertainty with `[?]`.
 
-**Lyric verification:** Google Drive lyric docs are unverified drafts — flag unverified lines `[?]`. AZLyrics or Apple Music/Spotify streaming = verified source. Note which in `verified_against:`.
+**Lyric verification:** Apple Music / Spotify streaming = authoritative verified source. **AZLyrics and Google Drive lyric docs are draft-tier — they do NOT count as verification.** AZLyrics has produced multiple documented errors (Dream / Dream dropped Johnny Mercer + misspelled Vaughan; Long Time Coming "framers" → "famous"; phantom co-writers on Good Day / Hell of a Night Pt. 2). A lyric or credit sourced only from AZLyrics stays `status: draft` with lines flagged `[?]` until cross-checked against Apple Music/streaming. Record the real source in `verified_against:`; AZLyrics alone does not satisfy it. For composer/songwriter credits, the **Apple Music composer field is authoritative** (see `Sources/Credits/`).
 
 ### Brain/
 Compressed ontology layer. AI-navigable semantic memory.
