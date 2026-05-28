@@ -1,19 +1,41 @@
+---
+id: SONG-SuperhumanInterlude
+type: song
+status: stable
+confidence: high
+source_quality: primary-source
+sources: [Sources/Lyrics/Superhuman (Interlude).md]
+related: [ALBUM-SubjectToFlooding, SONG-Superhuman, CONCEPT-MachineVsHuman, CONCEPT-InheritedSubstrate, CONCEPT-WitnessingVsSurveillance]
+connections:
+  grounded:    [ALBUM-SubjectToFlooding, SONG-Superhuman]
+  strong_read: [CONCEPT-MachineVsHuman, CONCEPT-InheritedSubstrate, CONCEPT-WitnessingVsSurveillance]
+  resonance:   [CONCEPT-Tiferet, CONCEPT-Yesod]
+referenced_by: []
+dominant_pole: solar
+transformation_phase: albedo
+recursion_state: return
+threshold_state: approaching
+narrative_voice: unknown
+temporal_register: timeless
+active_systems: [MachineVsHuman]
+active_symbols: [Machine]
+review_date: 2026-11-16
+---
 # Superhuman (Interlude)
 
-**Album:** [[Subject to Flooding (album)]] (2018, Atlantic Records)
-**Track:** 5 of 13
-**Status:** Stub — not yet analyzed
+Track 5, *Subject to Flooding* (2018, Atlantic). ~0:22, spoken. **Composers (Apple Music): Charles Chaplin, Jeff Bhasker, Matthew Pauling, Roy English.** Precedes [[Superhuman]] (track 6). Lyrics **verified-stable** (Apple Music).
 
----
+## Content (grounded)
+A verbatim sample of **Charlie Chaplin's *The Great Dictator* (1940) closing speech**: *"The kingdom of God is within man… you, the people, have the power — the power to create machines, the power to create happiness… to make this life free and beautiful… let us all unite."* Confirmed three ways (verbatim Apple Music lyrics + Chaplin composer credit + pre-existing vault note). See [[Sources/Credits/Subject to Flooding]].
 
-## Grounded
+## Voicing
+[W] Voice = **Chaplin, sampled** — neither [[Roy]] nor [[Sir Lucius]]. An *inherited* voice placed into the sequence (`narrative_voice: unknown` for that reason). Inherited substrate, not internal architecture (`CONCEPT-InheritedSubstrate`).
 
-## Strong Read
-
-## Resonances
+## Moves
+- **The anchor of [[Machine vs Human]]** (grounded). The speech states the thread at its source: *"the power to create **machines**"* set beside *"the power to create **happiness**."* The machine is **human creative capacity**, not the enemy — the opposition is heart-integrated creation vs optimization severed from heart ([[Tiferet]] vs [[Yesod]]-severed). The interlude is the album's clearest statement that *the machine is not the antagonist*.
+- [W] **Solar counter-voice inside the Flood.** The album is named for the deluge ([[Subject to Flooding (album)]] = the Flood, nigredo immersion); this 22-second speech is the **human cry against drowning** — "let us all unite," "make this life free and beautiful." A momentary albedo call (awakening) inside the nigredo.
+- [W] **"The kingdom of God is within man."** Interior divinity, not external authority — proto-El Roi: the human as the site of the sacred. Counterpoint to the surveillance the thread later names ([[Witnessing vs Surveillance]]).
 
 ## Open Questions
-
----
-
-## Sources
+- [ ] Why open the album's machine-statement with a *borrowed* 1940 voice? (Inherited-substrate practice — cf. [[Dream - Dream]]'s Mercer interpolation, same album.)
+- [ ] How does the interlude function against the full [[Superhuman]] (track 6) that follows — setup, ironic frame, or thesis?
