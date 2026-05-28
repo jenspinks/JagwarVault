@@ -53,6 +53,8 @@ The vault prioritizes:
 
 Confirmed case: *Dream / Dream* interpolates Johnny Mercer's 1944 standard "Dream" (composers incl. Mercer + Sarah Vaughan) — its dream-language is **inherited, not invented**. **Prefer "mythic emergence" over "intentional esoteric encoding"** whenever a symbol predates JT in the culture: the honest claim is usually that Roy is *participating in* an older current, not consciously coding it. This does not weaken a symbolic reading — it relocates its source, and guards against the catalogue's largest latent failure mode: collapsing everything into "Roy intentionally encoded all of this." When a reading depends on authorial intent, ask first whether the material is inherited (B); if so, downgrade intent-claims to `[W]`/resonance and frame as participation, not authorship.
 
+**Retrospective coherence ≠ original intentional encoding.** As the cosmology coheres, there is a standing temptation to make every song secretly recursive, machine-aware, or Lucius-aware. Resist it. Later work may *reinterpret* earlier material without that material having *originally* carried the architecture — the early catalogue likely holds genuine sincerity, straightforward rebellion, and ordinary pop craft. A song joins a thread only on its own anchors; do not back-date doctrine. The `[W]`/`[P]`/Open-Question tiers are what keep the vault credible here — use them aggressively.
+
 ---
 
 ## VAULT LAYERS

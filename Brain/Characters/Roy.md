@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, CHAR-JagwarTwin, ALBUM-SubjectToFlooding, ALBUM-33, SONG-LuciusLullaby]
   strong_read: [CHAR-Mary, CHAR-BallerinaBoy, SONG-SOL, CONCEPT-TheDwellerOnTheThreshold]
   resonance:   [CONCEPT-Tiferet, CONCEPT-Yesod, CONCEPT-Malkhut, CONCEPT-TheAngleAngel]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, CONCEPT-TheAudience, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-TheVeil, CONCEPT-TheVoice, SONG-BALLERINABOY, SONG-DreamDream, SONG-LongTimeComing, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-Weirdness, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, CONCEPT-TheAudience, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-TheVeil, CONCEPT-TheVoice, SONG-BALLERINABOY, SONG-DreamDream, SONG-LongTimeComing, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-Online, SONG-Weirdness, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Roy
