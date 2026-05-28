@@ -133,6 +133,7 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 | `CONCEPT-TheSpeakerProblem` | The Speaker Problem | Brandon/Roy/JT/Lucius/lyrical-I layering; pending |
 | `CONCEPT-FlattenedIdentity` | Flattened Identity | identity compressed into social role or utility; rich/poor/prophet/priest collapse; pending |
 | `CONCEPT-InheritedSubstrate` | Inherited Substrate vs Internal Architecture | provenance axis: symbols received/reworked from the wider culture (dream mythology, jazz-standard yearning, gospel uplift, stairway/heaven) vs. built inside the JT mythos (Lucius, loop/circle, algorithm, mirror recursion); prefer mythic emergence over intentional encoding; pending |
+| `CONCEPT-MachineVsHuman` | Machine vs Human | core duality: human (heart, soul, freedom, being seen-and-loved) vs machine (optimization, algorithm, surveillance, being watched-and-quantified); seeded 2018 (Chaplin/Superhuman Interlude), escalates through digital age + *33* (2022), personified as Lucius; arc at Essays/Arcs/Machine vs Human; pending |
 | `CONCEPT-AnimaAnimus` | Anima/Animus | Jungian feminine/masculine within; pending |
 | `CONCEPT-AlchemicalTransmutation` | Alchemical Transmutation | broader alchemy arc (Nigredo→Rubedo); pending |
 | `CONCEPT-TheLoop` | The Loop / Cycles | recurring cycles, cosmic and personal; pending |

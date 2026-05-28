@@ -47,6 +47,14 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 - Feeling vs calculation.
 - Lucius as survival-intellect separated from heart.
 
+### Machine / Human (`CONCEPT-MachineVsHuman`)
+- The cosmic-scale statement of Heart/Mind: human (heart, soul, freedom, being *seen-and-loved*) vs machine (optimization, algorithm, surveillance, being *watched-and-quantified*).
+- Seeded 2018 — Chaplin's *Great Dictator* speech in *Superhuman (Interlude)*: "create machines" vs "make this life free and beautiful."
+- Escalates through the digital age and *33* (2022): "Online," "Pay Attention."
+- Personified as Lucius (the Algorithm, the Circus, "mind divorced from heart").
+- Surveillance = counterfeit El Roi (being-watched vs being-seen). Album frame: *Subject to Flooding* = the Flood, an extinction event [P].
+- Arc: [[Machine vs Human]].
+
 ### Hidden / Revealed
 - Buried child.
 - Veiled feminine.
