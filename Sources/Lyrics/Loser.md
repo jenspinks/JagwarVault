@@ -84,10 +84,30 @@ Just like you, just like you
 Baby, I'm a loser, yeah, yeah, yeah
 
 Just like you, just like you
+
+♪
+
+I think the world's gone insane
+
+I think the world's gone insane
+
+We're singing
+
+Baby, I'm a loser, yeah, yeah, yeah
+
+Just like you, just like you
+
+Baby, I'm a loser, yeah, yeah, yeah
+
+Just like you, just like you
 ```
 
 ## Maintenance
 - Ingested 2026-05-25 from Google Drive lyrics doc.
-- **Verified against Apple Music 2026-05-27 (Jen screenshot)** → `status: stable`. Corrections: "'til I blow" → "till I blow".
-- **[?] Removed line — verify by ear.** Google Drive draft included a bridge before the final chorus — *"I think the world's gone insane / I think the world's gone insane / We're singing"* — which is **not present** in Apple Music's synced lyrics. Apple Music wins per the verification rule, but the line is thematically loaded ("Television on your frame / Everybody's all the same") and may be an audible bridge Apple omitted. Restore if confirmed audible.
+- **Verified against Apple Music 2026-05-27** (Jen screenshot) → `status: stable`. Corrections: "'til I blow" → "till I blow".
+- **2026-05-28: Bridge restored — Spotify cross-check (Jen screenshot) confirms the closing bridge** *"♪ / I think the world's gone insane / I think the world's gone insane / We're singing"* + final chorus repeat. **This was Apple Music's third documented synced-lyric omission** (after the Superhuman Interlude line-break corrections and the Not Your Homie *"it's a vibe"* ad-lib). **Precedent confirmed: Spotify often has more complete licensed lyrics than Apple Music — cross-check both when verifying.**
+- **Other Spotify-Apple discrepancies (not applied; flagged for ear-check):**
+  - Spotify ad-lib reads *"La da da da da"* (×2 per chorus); Apple's reading was *"(La-la-la-la-la, la-la-la-la-la)"* — same syllable count, different phoneme. *"La la"* vs *"La da"*.
+  - Spotify uses *"Baby, I'm a loser, **ya ya ya**"* and *"Just like you **(just like you)**"* (parens); Apple uses *"yeah, yeah, yeah"* and no parens. Probably the same audio, two transcription conventions.
+  - Spotify uses *"'til I blow"* (apostrophe); Apple shows *"till"*. Minor.
 - **Composer (Apple Music):** Matthew Pauling & Roy English.

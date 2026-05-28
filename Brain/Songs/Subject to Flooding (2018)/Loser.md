@@ -41,7 +41,7 @@ Track 3, *Subject to Flooding* (2018, Atlantic). Debut JT single (premiered Zane
 - [W] **Beck echo (inherited-substrate allusion).** *"I'm a loser, baby"* unmistakably echoes Beck's "Loser" (1993). No Beck composer credit → cultural allusion, not licensed interpolation. Same album as [[Dream - Dream]] (Mercer interpolation) and [[Superhuman (Interlude)]] (Chaplin sample) — STF practices relay at multiple register-levels (`CONCEPT-InheritedSubstrate`).
 
 ## Open Questions
-- [ ] **[?] Possible missing bridge.** *"I think the world's gone insane / We're singing"* — present in Google Drive draft, absent from Apple Music synced lyrics. Apple wins per the verification rule, but thematically loaded; **verify by ear**.
+- [x] ~~**[?] Possible missing bridge.**~~ **RESOLVED 2026-05-28 — Spotify confirms** the closing bridge: *"♪ / I think the world's gone insane / I think the world's gone insane / We're singing"* + final chorus repeat **is present**. Apple Music's synced lyrics omitted it; Spotify's didn't. **Third documented Apple-Music synced-lyric omission** (after Superhuman Interlude line-break corrections and Not Your Homie's *"sucker, it's a vibe"*). Source body restored. The line is now grounded and can carry full analytical weight (cf. the Gnostic / Kenoma reading in the essay — the speaker *explicitly* diagnoses the world as insane).
 - [ ] California / Mexico pairing — border-threshold image between systems/identities/psychic states? [~]
 - [ ] Trojan Horse cadence — does it mirror the songwriting structures Roy discussed studying during the early commercial period?
 - [ ] Beck "Loser" (1993) echo: deliberate homage or coincidence? (No credit → allusion-tier.)

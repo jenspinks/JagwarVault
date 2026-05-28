@@ -38,7 +38,7 @@ Retrospectively, the song occupies a foundational place in the formation of **Th
 - The chorus repeatedly asserts an internalized source of emotional light: *"I got sunshine in my mind."*
 - The song references time pressure and impending eruption: *"Ain't got much time till I blow."*
 - The refrain applies a low-status social label to both speaker and listener: *"I'm a loser, baby, just like you."*
-- **[?] Contested closing line.** A reading of the song treats *"I think the world's gone insane"* as a closing bridge before the final chorus. This line was present in the Google-Drive lyric draft but is **absent from Apple Music's synced lyrics** (verified 2026-05-27). It may be an audible bridge Apple omitted, or a Google-Drive artifact. The line is preserved here as analytically active **subject to ear-check.** If confirmed audible, restore it in `Sources/Lyrics/Loser`; if not, the line's analytical weight here weakens.
+- **Closing bridge — CONFIRMED 2026-05-28 via Spotify** (Jen screenshot). *"♪ / I think the world's gone insane / I think the world's gone insane / We're singing"* followed by a final chorus repeat **is present** in Spotify's synced lyrics; Apple Music's pane omitted it. Restored to `Sources/Lyrics/Loser`. The line is now grounded — and it carries real weight: the speaker *explicitly* names the world insane, which is exactly the Gnostic / Kenoma diagnosis the Resonance section identifies.
 
 ---
 
@@ -160,7 +160,7 @@ The refrain *"I'm a loser, baby, just like you"* therefore becomes a strange for
 - [ ] To what extent does the repetitive nursery-rhyme cadence intentionally mirror the "Trojan Horse" songwriting structures Roy discussed studying during the early commercial period?
 - [~] Does the California / Mexico pairing function symbolically as a border-threshold image between systems, identities, or psychic states?
 - [x] **Is the brightness of the song evidence of genuine emergence?** **No.** Retrospective catalogue analysis shows the brightness functions primarily as **emotional survival architecture** rather than stable integration [W].
-- [ ] **Lyric verification:** is *"I think the world's gone insane"* actually audible? Apple Music's synced lyrics omit it; the Google-Drive draft included it. An ear-check resolves the analytical weight of section 5's "World gone insane" beat.
+- [x] ~~**Lyric verification:** is *"I think the world's gone insane"* actually audible?~~ **RESOLVED 2026-05-28 (Spotify confirms).** The bridge is present in Spotify's synced lyrics (Apple's omitted it). Source body restored; section 5's "World gone insane" beat now carries full grounded weight.
 
 ---
 
