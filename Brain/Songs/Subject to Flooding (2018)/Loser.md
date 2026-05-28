@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, ALBUM-SubjectToFlooding, CONCEPT-TheMask]
   strong_read: [CONCEPT-TheProtector, CONCEPT-FlattenedIdentity, CONCEPT-MachineVsHuman, CONCEPT-InheritedSubstrate, SONG-HappyFace, SONG-LuciusLullaby]
   resonance:   [CONCEPT-Nigredo, CONCEPT-SleepWakeUp, CONCEPT-Yesod]
-referenced_by: []
+referenced_by: [SONG-GoodDay]
 dominant_pole: mixed
 transformation_phase: nigredo
 recursion_state: orbit

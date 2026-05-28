@@ -1,10 +1,10 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["AZLyrics.com (licensed via MusixMatch)"]
+status: stable
+verified_against: ["Apple Music lyrics + Written By line (Jen, 2026-05-28)", "AZLyrics (initial ingest 2026-05-16; had wrong 'Terry Knight' credit)"]
 ingested: 2026-05-16
-ingest_source: "AZLyrics.com (pasted by Jen)"
+ingest_source: "AZLyrics.com (pasted by Jen); verified against Apple Music 2026-05-28"
 ---
 # Good Day — Lyrics (Source)
 
@@ -12,16 +12,19 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018) — track 4
-- **Writers:** [?] Apple Music composer field is BLANK for this track. AZLyrics list (Terry Knight, Roy English, Larry Darnell Griffin Jr.) unconfirmed; "Terry Knight" especially suspect — see [[Sources/Credits/Subject to Flooding]].
+- **Composer / Written By (Apple Music):** Essex, Roy English, S1
+  - Apple Music **Details composer field is BLANK** for this track, but the **Lyrics-tab "Written By" line** provides the credit (verified via Jen screenshot 2026-05-28).
+  - **AZLyrics was wrong:** it had "Terry Knight, Roy English, Larry Darnell Griffin Jr." → "Terry Knight" was a **phantom credit** (corrected to "Essex"); S1 = Larry Darnell Griffin Jr. (same person, both forms appear correct).
+  - [?] **"Essex" unidentified** — possible inherited-substrate / interpolation source (cf. the album's Mercer / Chaplin / Vaughan pattern). Identity pending research (Discogs gated, web search inconclusive).
 
 ### Citable as
-- Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)
+- Apple Music — *Subject to Flooding* (2018), track 4. Verified 2026-05-28.
 
 ## Lyrics
 
 ```
 Woke up and I think today is gonna be a good day
-I just wanna spend it with you (And I got a feeling)
+I just wanna spend it with you (and I got a feeling)
 Woke up and I think today is gonna be a good day
 I just wanna spend it with you
 Can't kill my vibe, la-la-la-la-la-la, la-la-la-la
@@ -33,10 +36,10 @@ She never been about the nightlife
 A little dinner with the white wine
 East End on the skyline
 London on the fly-by
-'Cause I had nothin almost three years
-But now we're getting to the peak years (Peak years)
+'Cause I had nothing almost three years
+But now we're getting to the peak years (peak years)
 Aspen with the ski gear
-I don't ski but I look fresh (Sheesh)
+I don't ski but I look fresh (sheesh)
 
 Today is gonna be a good day
 Spending the money that I should save
@@ -48,7 +51,7 @@ Used to have no money
 Now it's sunny out and everything's okay
 
 Woke up and I think today is gonna be a good day
-I just wanna spend it with you (And I got a feeling)
+I just wanna spend it with you (and I got a feeling)
 Woke up and I think today is gonna be a good day
 I just wanna spend it with you
 Can't kill my vibe, la-la-la-la-la-la, la-la-la-la
@@ -76,7 +79,7 @@ Used to have no money
 Now it's sunny out and everything's okay
 
 Woke up and I think today is gonna be a good day
-I just wanna spend it with you (And I got a feeling)
+I just wanna spend it with you (and I got a feeling)
 Woke up and I think today is gonna be a good day
 I just wanna spend it with you
 Can't kill my vibe, la-la-la-la-la-la, la-la-la-la
@@ -91,4 +94,6 @@ I just wanna spend it with you
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen). Single-source; cross-check against official release to flip `status` to `stable`.
+- Ingested 2026-05-16 from AZLyrics (pasted by Jen).
+- **Verified against Apple Music 2026-05-28 (Jen screenshots — Details + Lyrics tabs)** → `status: stable`. Corrections to AZLyrics body: "(And I got a feeling)" → "(and I got a feeling)" (×3 occurrences); "nothin" → "nothing"; "(Peak years)" → "(peak years)"; "(Sheesh)" → "(sheesh)".
+- **Credit correction:** AZLyrics "Terry Knight, Roy English, Larry Darnell Griffin Jr." → Apple Music Lyrics-tab Written By "Essex, Roy English, S1" (Details composer field BLANK). Terry Knight was a phantom (likely wrong-song scrape); Essex is the actual co-writer (unidentified — possible interpolation source).
