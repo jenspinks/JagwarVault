@@ -50,7 +50,7 @@ Everything in the Jagwar Twin mythology flows forward from this moment. The arc 
 
 - [[The Deal]] — Lucius pulls Roy from the bottom; something is exchanged
 - [[The Lullaby]] — form subverted; singing awake, not asleep
-- The childhood bedroom — biographical grounding; Roy returns to the site of original wounding (see [[Ballerina Boy]])
+- The childhood bedroom — biographical grounding; Roy returns to the site of original wounding (see [[Essays/Concepts/Songs/Ballerina Boy]])
 - Desperation as portal — the collapse is what opens the channel
 - [[Mary]] — appears twice, face hidden both times. She is present but not yet accessible. What she represents remains partly unresolved
 
@@ -86,11 +86,11 @@ Everything in the Jagwar Twin mythology flows forward from this moment. The arc 
 
 | Song                      | Relationship                                                                |
 | ------------------------- | --------------------------------------------------------------------------- |
-| [[Ballerina Boy]]         | The original wounding/nigredo                                               |
+| [[Essays/Concepts/Songs/Ballerina Boy]]         | The original wounding/nigredo                                               |
 | [[33]]                    | The age-related crucifixion parallel; biographical overlap with the crisis  |
 | [[Subject to Flooding]]   | The emotional overflow that precedes or accompanies collapse                |
 | [[SOL]]                   | The destination — what the arc initiated here is moving toward              |
-| [[Welcome to the Circus]] | Lucius warning against the archon system; his protective function continues |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | Lucius warning against the archon system; his protective function continues |
 | [[Soul is a Star]]        | Contains two failed micro-cycles — what happens when the ascent stalls      |
 | [[Another Way II Heaven]] | An alternative path upward; response to the conventional route failing      |
 

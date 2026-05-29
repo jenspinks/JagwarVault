@@ -21,7 +21,7 @@ Type: Concept / Symbol
 
 ## Description
 
-The Circus is the dominant negative structure of the [[Lucius Lullaby (album)]] era — the attention economy, the algorithmic spectacle machine, industrialized performance at scale. It is named explicitly in [[Welcome to the Circus]] (track 4) and haunts the rest of the album.
+The Circus is the dominant negative structure of the [[Lucius Lullaby (album)]] era — the attention economy, the algorithmic spectacle machine, industrialized performance at scale. It is named explicitly in [[Brain/Songs/Welcome to the Circus]] (track 4) and haunts the rest of the album.
 
 The Circus is not simply external — the song opens *"every day is a circus all in my brain,"* locating it as a totalized interior installation. It is the [[Aquarium]] at full operational capacity: a closed system that experiences itself as the only reality, experienced from within as inescapable.
 
@@ -41,7 +41,7 @@ Structurally, the Circus is [[The Circle]] inverted. Same recursive motion; oppo
 
 ## In the Project
 
-- [[Welcome to the Circus]] — primary; the song that names and defines the mechanism
+- [[Brain/Songs/Welcome to the Circus]] — primary; the song that names and defines the mechanism
 - [[Great Time to Be Human]] — the ironic pop-affect surface the Circus runs on
 - [[Happy Face]] — the minimum-viable mask; what the Circus optimizes into a jester face
 - [[I Like to Party]] — the cake-before-the-Circus; the force-feeding mechanism four years before the Circus is named
@@ -72,7 +72,7 @@ Structurally, the Circus is [[The Circle]] inverted. Same recursive motion; oppo
 - [[The Spectacle]] — the Circus as Debord's spectacle
 - [[The Audience]] — who the Circus exists for and feeds on
 - [[Sir Lucius]] — the Circus as Lucius scaled to social infrastructure
-- [[Welcome to the Circus]] — primary song page
+- [[Brain/Songs/Welcome to the Circus]] — primary song page
 - [[The Labors of Hercules]] — the Circus as the lion's territory before the cave; the un-integrated dominant personality operating publicly
 
 ---

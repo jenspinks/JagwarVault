@@ -51,7 +51,7 @@ The later catalogue increasingly suggests the problem is not machinery but the *
 
 Charlie Chaplin — the source voice — is historically one of the world's most recognizable **clown/persona figures** [W]. His transition from silent physical caricature into direct humanitarian *speech* creates an unexpectedly precise proto-parallel to the later Jagwar Twin cosmology.
 
-The interlude therefore functions as a **historical inversion of the later Circus architecture**: a clown figure speaking *against* mechanization, *against* authoritarian systems, *against* dehumanization, *against* humanity becoming machine-like. Placed retrospectively beside [[Welcome to the Circus]] or [[Online]], it reads almost like a preserved artifact from *before* spectacle fully captured the clown archetype itself. Where the Ringmaster manipulates the crowd through synchronization, the Chaplin transmission attempts to **awaken the crowd back into human agency** [W].
+The interlude therefore functions as a **historical inversion of the later Circus architecture**: a clown figure speaking *against* mechanization, *against* authoritarian systems, *against* dehumanization, *against* humanity becoming machine-like. Placed retrospectively beside [[Essays/Concepts/Songs/Welcome to the Circus]] or [[Online]], it reads almost like a preserved artifact from *before* spectacle fully captured the clown archetype itself. Where the Ringmaster manipulates the crowd through synchronization, the Chaplin transmission attempts to **awaken the crowd back into human agency** [W].
 
 ### 4. The last pre-cynical collective vision
 
@@ -62,7 +62,7 @@ The interlude therefore functions as a **historical inversion of the later Circu
 - technology and beauty can coexist,
 - mass awakening is possible without capture.
 
-Later entries destabilize all four — through [[The Algorithm]], [[Welcome to the Circus|the Circus]], recursive performance systems, database identity ([[Online]]), and spectacle-driven loops. Placed beside *Welcome to the Circus*, *Online*, or *Lucius Lullaby*, the interlude reads almost painfully hopeful: a moment before the catalogue fully recognizes how easily collective energy can be redirected into optimization, metrics, and engineered identity systems [W].
+Later entries destabilize all four — through [[The Algorithm]], [[Essays/Concepts/Songs/Welcome to the Circus|the Circus]], recursive performance systems, database identity ([[Online]]), and spectacle-driven loops. Placed beside *Welcome to the Circus*, *Online*, or *Lucius Lullaby*, the interlude reads almost painfully hopeful: a moment before the catalogue fully recognizes how easily collective energy can be redirected into optimization, metrics, and engineered identity systems [W].
 
 ### 5. Decentralized Tiferet-humanism
 
@@ -97,7 +97,7 @@ The catalogue increasingly appears to operate not only by **inventing** symbols,
 
 ## Open Questions
 
-- [ ] Why open the album's machine-statement with a *borrowed* 1940 voice? (Relay practice — cf. [[Dream - Dream]]'s Mercer interpolation on the same album.)
+- [ ] Why open the album's machine-statement with a *borrowed* 1940 voice? (Relay practice — cf. [[Essays/Concepts/Songs/Dream - Dream]]'s Mercer interpolation on the same album.)
 - [ ] How does the interlude function against the full [[Superhuman]] (track 6) that follows — setup, ironic frame, or thesis?
 - [ ] Is the "clown before the Circus" parallel structural (Chaplin → Lucius) or only resonant? Currently [W].
 
@@ -109,10 +109,10 @@ The catalogue increasingly appears to operate not only by **inventing** symbols,
 |---|---|
 | [[Superhuman]] | The full track this 22-second relay precedes (setup) |
 | [[Machine vs Human]] | The arc this anchors — "create machines" vs "free and beautiful"; machine ≠ antagonist |
-| [[Welcome to the Circus]] | The clown-archetype *captured* by spectacle — the historical inversion |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | The clown-archetype *captured* by spectacle — the historical inversion |
 | [[Online]] | The database/synchronization capture the interlude's hope predates |
 | [[Witnessing vs Surveillance]] | "Kingdom of God within man" — proto-El Roi, decentralized vs surveilled |
-| [[Dream - Dream]] | Same-album relay practice (Mercer interpolation) |
+| [[Essays/Concepts/Songs/Dream - Dream]] | Same-album relay practice (Mercer interpolation) |
 | `CONCEPT-InheritedSubstrate` | Curated inherited transmission (B), not internal architecture (A) |
 
 ---

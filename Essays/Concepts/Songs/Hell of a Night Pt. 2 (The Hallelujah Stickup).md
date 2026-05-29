@@ -79,13 +79,13 @@ Hell Pt. 2 belongs to a broader adaptive family of songs across *Subject to Floo
 
 | Song | Adaptive strategy |
 |---|---|
-| [[Dream - Dream]] | recognition of the cage |
-| [[Loser]] | shame adaptation (shame-preemption) |
-| [[Good Day]] | vibe-protection / mood defense |
+| [[Essays/Concepts/Songs/Dream - Dream]] | recognition of the cage |
+| [[Essays/Concepts/Songs/Loser]] | shame adaptation (shame-preemption) |
+| [[Essays/Concepts/Songs/Good Day]] | vibe-protection / mood defense |
 | [[Superhuman]] | force mobilization |
 | [[No Fake Friends|N.F.F.]] | defensive filtration (social perimeter) |
 | **Hell of a Night Pt. 2** | **outlaw seizure fantasy** |
-| [[Welcome to the Circus]] | capture of the acceleration itself |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | capture of the acceleration itself |
 
 Together these reveal the album's central psychological doctrine:
 
@@ -105,17 +105,17 @@ This is one of the defining mechanics of *Subject to Flooding*: **emotionally vo
 
 Massive drums, compressed propulsion, anthem-scale momentum, and explosive energy create the sensation that the speaker is untouchable. The instrumentation **artificially sells a structural stability that the psyche itself does not actually possess** [W].
 
-This links directly to earlier STF adaptive songs — [[Good Day]] using major-key brightness to defend against collapse; [[Loser]] disguising shame-defense as communal warmth; [[Superhuman]] converting vulnerability into martial cadence. Hell Pt. 2 escalates the same pattern into outright **outlaw euphoria**.
+This links directly to earlier STF adaptive songs — [[Essays/Concepts/Songs/Good Day]] using major-key brightness to defend against collapse; [[Essays/Concepts/Songs/Loser]] disguising shame-defense as communal warmth; [[Superhuman]] converting vulnerability into martial cadence. Hell Pt. 2 escalates the same pattern into outright **outlaw euphoria**.
 
 > *The song sounds victorious because it is terrified of stopping.*
 
 ### 4. Orbit disguised as escape velocity
 
-One of the most important STF-era motifs is **Orbit**: movement without arrival, acceleration without transformation, escape attempts that become circular ([[Good Day]]'s travel-itinerary, [[Loser]]'s wave-surfing, etc.). Hell Pt. 2 stages this problem in its **purest high-energy form** [W].
+One of the most important STF-era motifs is **Orbit**: movement without arrival, acceleration without transformation, escape attempts that become circular ([[Essays/Concepts/Songs/Good Day]]'s travel-itinerary, [[Essays/Concepts/Songs/Loser]]'s wave-surfing, etc.). Hell Pt. 2 stages this problem in its **purest high-energy form** [W].
 
 The speaker believes that enough force can break the loop — push harder, seize harder, move faster, overwhelm the system before the system overwhelms you. But the song's energy already contains the seeds of its exhaustion: **the outlaw fantasy does not resolve claustrophobia; it temporarily outruns awareness of it.** Speed itself becomes anesthetic [W].
 
-This is why the later [[Lucius Lullaby|Lucius]] material feels less like a sudden corruption and more like **accumulated burnout finally becoming self-aware**.
+This is why the later [[Essays/Concepts/Songs/Lucius Lullaby|Lucius]] material feels less like a sudden corruption and more like **accumulated burnout finally becoming self-aware**.
 
 ---
 
@@ -123,7 +123,7 @@ This is why the later [[Lucius Lullaby|Lucius]] material feels less like a sudde
 
 ### Alchemical
 
-The song operates as a **premature Rubedo attempt** [W]. Unlike [[Loser]] and [[Good Day]], which build adaptive defenses *inside* psychological darkness, Hell Pt. 2 attempts to **force the sunrise early through sheer intensity**.
+The song operates as a **premature Rubedo attempt** [W]. Unlike [[Essays/Concepts/Songs/Loser]] and [[Essays/Concepts/Songs/Good Day]], which build adaptive defenses *inside* psychological darkness, Hell Pt. 2 attempts to **force the sunrise early through sheer intensity**.
 
 This is not integrated gold. It is **over-heated gold**. The song tries to seize illumination before the slower work of transformation has stabilized the psyche beneath it [W]. The result is ecstatic but unstable — **a false dawn powered by momentum rather than reconciliation**.
 
@@ -170,14 +170,14 @@ Within that condition, **crime becomes psychologically reinterpreted as agency**
 
 | Song / Source | Relationship |
 |---|---|
-| [[Dream - Dream]] | Establishes the initial recognition that the social world functions as a containment architecture |
-| [[Loser]] | Early adaptive response; shame-preemption becomes psychological armor |
-| [[Good Day]] | Shared compensatory brightness; emotional instability hidden beneath triumphant sonic infrastructure |
+| [[Essays/Concepts/Songs/Dream - Dream]] | Establishes the initial recognition that the social world functions as a containment architecture |
+| [[Essays/Concepts/Songs/Loser]] | Early adaptive response; shame-preemption becomes psychological armor |
+| [[Essays/Concepts/Songs/Good Day]] | Shared compensatory brightness; emotional instability hidden beneath triumphant sonic infrastructure |
 | [[Superhuman]] | Converts vulnerability into disciplined force and endurance |
-| [[No Fake Friends]] | Social filtration strategy — protect the psyche through selective exclusion |
+| [[Essays/Concepts/Songs/No Fake Friends]] | Social filtration strategy — protect the psyche through selective exclusion |
 | [[Hell Of A Night]] | Pt. 1 — the night this song escalates |
-| [[Welcome to the Circus]] | The eventual **failure point** of STF acceleration logic — the system captures and monetizes the rebellion itself |
-| [[Lucius Lullaby]] | The exhausted aftermath — the speed-strategy collapses; the psyche stranded with its own fragmentation |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | The eventual **failure point** of STF acceleration logic — the system captures and monetizes the rebellion itself |
+| [[Essays/Concepts/Songs/Lucius Lullaby]] | The exhausted aftermath — the speed-strategy collapses; the psyche stranded with its own fragmentation |
 | `CONCEPT-TheProtector` | The outlaw posture is the Protector escalated into velocity/force |
 | *The Interview* EP 2 | Explicitly names the real-world financial / interpersonal pressures (the "Michael" reference = Michael Morgan, this song's co-writer) |
 

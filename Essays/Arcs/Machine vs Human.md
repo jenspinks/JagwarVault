@@ -36,7 +36,7 @@ More precisely, the Genesis Flood is not an *explosion* but an **immersion** —
 
 ## The inherited seed — Chaplin, 2018 (grounded)
 
-[[Superhuman (Interlude)]] opens the thread explicitly. It samples — verbatim — the closing speech of Charlie Chaplin's *The Great Dictator* (1940):
+[[Essays/Concepts/Songs/Superhuman (Interlude)]] opens the thread explicitly. It samples — verbatim — the closing speech of Charlie Chaplin's *The Great Dictator* (1940):
 
 > *"You, the people, have the power — the power to create machines, the power to create happiness… to make this life free and beautiful."*
 
@@ -65,7 +65,7 @@ The user's framing: machine-vs-human pressure — *digital age, social media, su
 [W] What was an ambient pressure becomes a character. [[Sir Lucius]] is the machine made personal:
 
 - **[[The Algorithm]]** — Lucius's fuel; "the algorithm baby" (EP3).
-- **[[Welcome to the Circus]]** — the machine scaled to society; spectacle powered by performer collapse.
+- **[[Brain/Songs/Welcome to the Circus]]** — the machine scaled to society; spectacle powered by performer collapse.
 - **"mind divorced from the heart"** — Lucius's self-description: the human reduced to optimization.
 - **"I'm the final boss"** — the machine claiming sovereignty.
 
@@ -114,9 +114,9 @@ Per `CONCEPT-InheritedSubstrate`: the thread's raw material is largely **inherit
 
 | Node | Relationship |
 |---|---|
-| [[Superhuman (Interlude)]] | The inherited seed — Chaplin: "create machines" vs "free and beautiful" (grounded) |
+| [[Essays/Concepts/Songs/Superhuman (Interlude)]] | The inherited seed — Chaplin: "create machines" vs "free and beautiful" (grounded) |
 | [[Subject to Flooding (album)]] | The Flood frame — extinction event as the stake [P] |
-| [[Welcome to the Circus]] | The machine scaled to society; spectacle from collapse |
+| [[Brain/Songs/Welcome to the Circus]] | The machine scaled to society; spectacle from collapse |
 | [[Sir Lucius]] | The machine personified — algorithm, optimization, "mind divorced from heart" |
 | [[The Algorithm]] | The machine's operating logic |
 | [[The Aquarium]] / [[The Audience]] | Surveillance — counterfeit El Roi, being-watched vs being-seen |

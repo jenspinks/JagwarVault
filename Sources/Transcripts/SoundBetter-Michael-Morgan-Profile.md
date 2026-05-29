@@ -10,7 +10,7 @@ ingest_source: "WebFetch by Code, 2026-05-28"
 ---
 # SoundBetter — Michael Morgan producer profile
 
-Collaborator credit/bio for **Michael Morgan**, co-writer of [[Hell Of A Night Pt. 2 (The Hallelujah Stickup)]] and producer/mixer/engineer who's worked with Jagwar Twin / Roy English. Not a Roy interview — filed in the same folder for credit-tracking purposes.
+Collaborator credit/bio for **Michael Morgan**, co-writer of [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)]] and producer/mixer/engineer who's worked with Jagwar Twin / Roy English. Not a Roy interview — filed in the same folder for credit-tracking purposes.
 
 ## Profile summary
 
@@ -29,12 +29,12 @@ Collaborator credit/bio for **Michael Morgan**, co-writer of [[Hell Of A Night P
 **Pop / Alt-Rock; "Pop from an Emo background."**
 
 ## Verified Roy/Morgan collaborations (per [[Sources/Credits/Subject to Flooding]])
-- [[Hell Of A Night Pt. 2 (The Hallelujah Stickup)]] — co-writer + producer
+- [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)]] — co-writer + producer
 - [[Hell Of A Night]] (Pt. 1) — likely involved per Sources/Lyrics writer credits
 - Possibly more (need verification via per-song credits)
 
 ## Real-world context (relevant to *The Interview* EP 2 / theatrical canon)
-*The Interview* EP 2 has Sir Lucius citing real economic pressure: *"Michael's about to have his first kid. You wouldn't want him out of a job, would you?"* — the "Michael" referenced is Michael Morgan, this co-writer. Verified-real collaborator, not fictional. (See [[Sir Lucius]] page; [[Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell Pt. 2 essay]].)
+*The Interview* EP 2 has Sir Lucius citing real economic pressure: *"Michael's about to have his first kid. You wouldn't want him out of a job, would you?"* — the "Michael" referenced is Michael Morgan, this co-writer. Verified-real collaborator, not fictional. (See [[Sir Lucius]] page; [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell Pt. 2 essay]].)
 
 ## Pulled into Brain/Roy Voice/
 - (None — this is a collaborator profile, not Roy quotes; tracked here for credit-chain reference.)

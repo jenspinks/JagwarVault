@@ -21,7 +21,7 @@ Type: Concept / Symbol
 
 ## Description
 
-The Labyrinth is the maze with no exit sign — a closed system designed to prevent escape, built so that the inhabitant cannot think their way out because the system was built by the same kind of mind doing the thinking. It appears explicitly in [[Welcome to the Circus]]: *"flashing lights, there's no exit sign in my maze."*
+The Labyrinth is the maze with no exit sign — a closed system designed to prevent escape, built so that the inhabitant cannot think their way out because the system was built by the same kind of mind doing the thinking. It appears explicitly in [[Brain/Songs/Welcome to the Circus]]: *"flashing lights, there's no exit sign in my maze."*
 
 The Labyrinth is structurally related to but distinct from [[The Aquarium]] (the Aquarium is the totalized interior; the Labyrinth is the active navigation problem inside it). The Aquarium explains why you can't see outside; the Labyrinth explains why you can't find the exit even once you know you're inside.
 
@@ -42,7 +42,7 @@ The exit from the Labyrinth, in the classical tradition, requires a **thread** �
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"there's no exit sign in my maze"* — primary naming
+- [[Brain/Songs/Welcome to the Circus]] — *"there's no exit sign in my maze"* — primary naming
 - [[The Thread]] — the missing element; the labyrinth is solvable only with Ariadne's thread
 - [[The Circle]] — the Circle could be read as a successfully navigated labyrinth; the Circus as a labyrinth without thread; [[The Aquarium]] as the labyrinth so total you forgot you were inside
 - [[Sir Lucius]] — Lucius as the Minotaur at the labyrinth's center, *and* as Daedalus who built the trap, *and* possibly as the one who took the thread

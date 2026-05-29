@@ -18,13 +18,13 @@ review_date: 2026-11-16
 Brandon Roy Wronski · b. 1988-05-22, LA · Roy English (2006–2015) → Jagwar Twin (2018–). Signs "El Roy". The heart / vulnerable authentic self.
 
 ## Biographical (none)
-Bands → solo 2015 → Jagwar Twin 2018. Dropped by major label; breakup; lost a close friend. Age 35: rock bottom, wrote [[Lucius Lullaby]] from childhood bedroom. Age 7: ballet at Christian school; overheard he was thought gay; prayed to be "good"; buried the self that came alive on stage — [[Ballerina Boy]].
+Bands → solo 2015 → Jagwar Twin 2018. Dropped by major label; breakup; lost a close friend. Age 35: rock bottom, wrote [[Brain/Songs/Lucius Lullaby]] from childhood bedroom. Age 7: ballet at Christian school; overheard he was thought gay; prayed to be "good"; buried the self that came alive on stage — [[Essays/Concepts/Songs/Ballerina Boy]].
 
 ## Stated about the work (none)
 Studies [[Kabbalah]]. Writes "Hebrew style": consonants=structure (angles), vowels=breath/God (angels) — [P] the [[The Thread|thread]] cluster. Some songs come "beyond his intelligence." [[SOL]] = most connected to. [[The Circle|Circle]] at the heart of all.
 
 ## Lyric anchors (none — lyrics)
-*"I changed my name"* ([[Weirdness]], V2) — strongest explicit lyric anchor for Roy English → Jagwar Twin as intentional identity transformation, not just rebranding. *"When I was just a young one, I danced in the rain / Life was a joke, a fun one"* ([[Weirdness]], V1) — childhood pre-shame freedom maps to [[Ballerina Boy]] wound.
+*"I changed my name"* ([[Essays/Concepts/Songs/Weirdness]], V2) — strongest explicit lyric anchor for Roy English → Jagwar Twin as intentional identity transformation, not just rebranding. *"When I was just a young one, I danced in the rain / Life was a joke, a fun one"* ([[Essays/Concepts/Songs/Weirdness]], V1) — childhood pre-shame freedom maps to [[Essays/Concepts/Songs/Ballerina Boy]] wound.
 
 ## Relationships
 - [[Sir Lucius]] — "I made you." Mind divorced from heart; Lucius pulled him from bottom.

@@ -6,11 +6,11 @@ Catch-all for Roy's per-track commentary — quotes tied to specific songs rathe
 
 ---
 
-## [[Dream - Dream]] (Subject to Flooding, 2018)
+## [[Essays/Concepts/Songs/Dream - Dream]] (Subject to Flooding, 2018)
 
 (No Roy quotes ingested yet. Note: AltPress 2022 fetch returned 403 — may contain Dream framing once alternate fetch happens.)
 
-## [[Loser]] (Subject to Flooding, 2018)
+## [[Essays/Concepts/Songs/Loser]] (Subject to Flooding, 2018)
 
 - **[2018-09-21]** *"Linus and I came up with the original idea of Loser over this dark dreamy kind of movie soundtrack vibe. Then one day he muted all the music and played this '60s sounding guitar riff over it and we both heard it through a new lens that brought out the essence of the message. So it really was removing everything that brought it to life."* — [[Atwood-2018-Loser]]
 - **[2018-09-21]** On the children's-choir vocal switch: *"It was definitely a conscious decision to use a choir of children. The pre-chorus is about getting back to that childlike self before people told you you were different… When you were just you, unashamed."* — [[Atwood-2018-Loser]]

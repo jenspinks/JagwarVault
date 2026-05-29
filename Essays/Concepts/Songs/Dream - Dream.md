@@ -364,11 +364,11 @@ The "stairway to Heaven" [?] functions symbolically as return-vector imagery: th
 
 | Song / Source | Relationship |
 |---|---|
-| [[Long Time Coming]] | Shared awakening and anti-system language; shared era |
-| [[Welcome to the Circus]] | Liberation mechanics inverted into spectacle; same crowd-channel, different current |
-| [[Lucius Lullaby]] | Dream-language destabilized into ambiguous register |
-| [[BALLERINA BOY]] | Reveals the buried wound beneath the awakening impulse |
-| [[Weirdness]] | Moves from rebellion toward reclamation; first confirmed solar return |
+| [[Essays/Concepts/Songs/Long Time Coming]] | Shared awakening and anti-system language; shared era |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | Liberation mechanics inverted into spectacle; same crowd-channel, different current |
+| [[Essays/Concepts/Songs/Lucius Lullaby]] | Dream-language destabilized into ambiguous register |
+| [[Essays/Concepts/Songs/Ballerina Boy]] | Reveals the buried wound beneath the awakening impulse |
+| [[Essays/Concepts/Songs/Weirdness]] | Moves from rebellion toward reclamation; first confirmed solar return |
 | [[The Circle]] | Distinguishes transformational recurrence from repetition |
 | Orbit / Return distinction | Escape-vector motion (this song) vs. transformative return (later arc) |
 | Collective Sleep | The song attempts to wake what the Circus later re-captures |

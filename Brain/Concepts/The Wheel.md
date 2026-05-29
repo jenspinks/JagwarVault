@@ -21,7 +21,7 @@ Type: Concept / Symbol
 
 ## Description
 
-The Wheel is the circular-spinning structure that appears as both cosmic machinery and existential trap — the same circle that elsewhere in the project is the path of return, here experienced as the motion you cannot stop. *"Spinning you 'round and 'round"* — the pre-chorus of [[Welcome to the Circus]] — is the Wheel made experiential: vertigo, loss of orientation, the impossibility of knowing which direction leads out.
+The Wheel is the circular-spinning structure that appears as both cosmic machinery and existential trap — the same circle that elsewhere in the project is the path of return, here experienced as the motion you cannot stop. *"Spinning you 'round and 'round"* — the pre-chorus of [[Brain/Songs/Welcome to the Circus]] — is the Wheel made experiential: vertigo, loss of orientation, the impossibility of knowing which direction leads out.
 
 The Wheel is [[The Circle]] in its most mechanical form — the spinning without the consciousness, the return without the integration.
 
@@ -29,7 +29,7 @@ The Wheel is [[The Circle]] in its most mechanical form — the spinning without
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"Spinning you 'round and 'round"* — primary appearance; the Wheel as Circus mechanism
+- [[Brain/Songs/Welcome to the Circus]] — *"Spinning you 'round and 'round"* — primary appearance; the Wheel as Circus mechanism
 - [[The Circle]] — the Circle as the Wheel redeemed; or the Circle as what the Wheel looks like when you're conscious inside it
 - [[The Circus]] — the Circus is the Wheel at social scale; the audience is spun by the Circus the same way a top spins
 

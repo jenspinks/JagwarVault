@@ -23,7 +23,7 @@ Type: Concept / Reference
 
 *Panem et circenses* — "bread and circuses" — is the phrase Roman satirist Juvenal used (*Satires*, c. 100 CE) to diagnose the political sedation of the Roman populace: give them food and spectacle, and they will not notice they have lost power. The term has become shorthand for any system of mass distraction that prevents people from seeing their own political or spiritual condition.
 
-In the Jagwar Twin project, the phrase is a resonance for [[Welcome to the Circus]] and the Circus concept more broadly. The Circus, in the Roman context, was not just a metaphor for entertainment — it was the literal site where political control was performed through spectacle, and where those who bore witness (early Christian martyrs) were consumed by the entertainment apparatus for the crowd's enjoyment.
+In the Jagwar Twin project, the phrase is a resonance for [[Brain/Songs/Welcome to the Circus]] and the Circus concept more broadly. The Circus, in the Roman context, was not just a metaphor for entertainment — it was the literal site where political control was performed through spectacle, and where those who bore witness (early Christian martyrs) were consumed by the entertainment apparatus for the crowd's enjoyment.
 
 ---
 
@@ -48,7 +48,7 @@ This aspect is less often noted. In the Roman Empire, the circus and the arena w
 ## In the Project
 
 - [[The Circus]] — the Circus concept; panem et circenses as its historical antecedent
-- [[Welcome to the Circus]] — primary song; the Circus at full scale
+- [[Brain/Songs/Welcome to the Circus]] — primary song; the Circus at full scale
 - [[The Audience]] — the audience that demands bread and circuses; the crowd that *"they love it when you lose control"* names
 - [[The Spectacle]] — Debord's analysis is essentially a modernization of Juvenal's diagnosis
 - [[The Algorithm]] — the algorithmic attention economy as the contemporary delivery mechanism for panem et circenses

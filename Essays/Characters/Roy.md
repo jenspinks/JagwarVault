@@ -17,11 +17,11 @@ _Brandon Roy Wronski · b. May 22, 1988 · Los Angeles, California_ _Also known 
 
 Started in bands — Dead Letter Diaries, Eye Alaska, Canary Dynasty. Went solo 2015 as Roy English. Became Jagwar Twin 2018. Has been dropped by a major label, gone through a significant breakup, lost a close friend to death.
 
-At 35: broke, couch-surfing, living at his parents' house. Wrote [[Lucius Lullaby]] from his childhood bedroom, at his lowest, into a MacBook microphone in desperation.
+At 35: broke, couch-surfing, living at his parents' house. Wrote [[Brain/Songs/Lucius Lullaby]] from his childhood bedroom, at his lowest, into a MacBook microphone in desperation.
 
 At seven years old: did ballet at Christian school. A teacher told his father they thought he was gay. Roy overheard. He prayed to God to make him good. He was surrounded by girls who told him he wasn't a real boy. His father looked him in the eyes and said "there's nothing wrong with you, my son." Roy buried the part of himself that came alive on stage. Never danced again.
 
-> "I never danced again / I killed that ballerina boy / I buried him inside" — [[Ballerina Boy]]
+> "I never danced again / I killed that ballerina boy / I buried him inside" — [[Essays/Concepts/Songs/Ballerina Boy]]
 
 
 ---
@@ -71,7 +71,7 @@ At seven years old: did ballet at Christian school. A teacher told his father th
 ## Key Relationships
 
 - [[Sir Lucius]] — formed from Roy's interior life. The mind divorced from the heart. Roy says: "I made you." Lucius pulled him out of the bottom. The deal may have been worth it.
-- [[Mary]] — appears twice in [[Lucius Lullaby]], both times face hidden. Does not appear in earlier confirmed catalogue.
+- [[Mary]] — appears twice in [[Brain/Songs/Lucius Lullaby]], both times face hidden. Does not appear in earlier confirmed catalogue.
 - [[The Jaguar]] — Roy's original self. The inter-world traveler. The name Jagwar Twin comes from Mayan belief that jaguars could see into all living beings.
 
 ---
@@ -94,8 +94,8 @@ Whether he gets there is still open.
 
 - [[Sir Lucius]] · [[Mary]] · [[The Jaguar]]
 - [[The Circle]] · [[El Roi]] · [[Tiferet]] · [[Yesod]] · [[Malkhut]]
-- [[Lucius Lullaby]] · [[33]] · [[Subject to Flooding]]
-- [[Another Way II Heaven]] · [[Ballerina Boy]] · [[SOL]] · [[Move to You]]
+- [[Brain/Songs/Lucius Lullaby]] · [[33]] · [[Subject to Flooding]]
+- [[Another Way II Heaven]] · [[Essays/Concepts/Songs/Ballerina Boy]] · [[SOL]] · [[Move to You]]
 - [[Kabbalah]] · [[Tree of Life]] · [[Gurdjieff]] · [[Jung]]
 - [[The Mirrors Platform]]
 

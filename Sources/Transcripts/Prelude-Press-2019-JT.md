@@ -10,7 +10,7 @@ ingest_source: "WebFetch by Code, 2026-05-28"
 ---
 # Prelude Press — 2019-09-23 Jagwar Twin interview
 
-STF promotional interview. **Contains the verbatim "masks" framing** that the [[Loser]] Brain page had previously cited as Roy's stated framing without a citable source. Now grounded here.
+STF promotional interview. **Contains the verbatim "masks" framing** that the [[Essays/Concepts/Songs/Loser]] Brain page had previously cited as Roy's stated framing without a citable source. Now grounded here.
 
 ## Verbatim excerpts
 

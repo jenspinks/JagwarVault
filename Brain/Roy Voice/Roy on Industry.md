@@ -54,4 +54,4 @@ Roy English's own statements about commercial pressure, label dynamics, the stre
 - *33* era press (2022) on commercial pressure, virality, the streaming model — does Roy name "the algorithm" in press here, or only in his own platforms?
 - The Bad Feeling (Oompa Loompa) virality story — Roy says he *knew* it would be massive days after release (Celeb Secrets headline). When that interview ingests, full transcript.
 - The Manifesto's date — when written, when last updated? Affects whether the algorithm critique is 2018-coexistent or post-hoc.
-- *Lucius Lullaby* era (2025–26): the EP3 line *"the algorithm baby"* — does Roy frame this as Lucius speaking, or as his own diagnosis? Cross with [[Welcome to the Circus]] notes.
+- *Lucius Lullaby* era (2025–26): the EP3 line *"the algorithm baby"* — does Roy frame this as Lucius speaking, or as his own diagnosis? Cross with [[Brain/Songs/Welcome to the Circus]] notes.

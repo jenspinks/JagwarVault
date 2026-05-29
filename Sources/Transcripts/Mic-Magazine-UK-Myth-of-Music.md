@@ -33,7 +33,7 @@ ingest_source: "WebFetch by Code, 2026-05-28"
 ### KEY — **THE thesis statement** of the project
 > ***"I love being able to do that and infiltrate pop music and blast people with a healing frequency."***
 
-(This is **Roy's own project thesis**. "Pop music as Trojan Horse for healing frequency" is the literal authorial framing — *not* a retrospective vault interpretation. Promotes the "Trojan Horse" reads on [[Loser]] / [[Good Day]] from inference to citation-grounded.)
+(This is **Roy's own project thesis**. "Pop music as Trojan Horse for healing frequency" is the literal authorial framing — *not* a retrospective vault interpretation. Promotes the "Trojan Horse" reads on [[Essays/Concepts/Songs/Loser]] / [[Essays/Concepts/Songs/Good Day]] from inference to citation-grounded.)
 
 ### On perseverance / inner voice
 > *"There was always something in me that knew everything would be ok and I would make it and be successful, but it was a tiny whisper voice."*

@@ -27,7 +27,7 @@ Fire in the Jagwar Twin project is irreducibly dual — it is both the divine re
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"a ring of fire, no escaping"* — fire as perimeter trap, the Circle weaponized into a burning boundary
+- [[Brain/Songs/Welcome to the Circus]] — *"a ring of fire, no escaping"* — fire as perimeter trap, the Circle weaponized into a burning boundary
 - The seraphim connection — the burning ones who surround the divine throne (Isaiah 6); fire as the innermost sanctuary's guardian rather than its barrier. If [[The Circle]] is the throne-room and the Circus is the inverted throne-room, the ring of fire in WTTC is the seraphim's fire turned outward as a wall.
 
 ---

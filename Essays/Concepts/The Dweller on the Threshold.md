@@ -58,7 +58,7 @@ The Dweller is often described as appearing in or as a mirror — reflecting bac
 - **Grows with what is disowned** — Lucius's apparent expansion across [[Roy]]'s career (from glimpses to "running the show") corresponds to the increasing accumulation of material Roy has not integrated
 - **Mirror-anchored** — the prior public name Lucius operated under in 2008 was **Rorrim Ehtni** ("In the Mirror," reversed). The Dweller named himself, in a mirror, written backwards. The reflection identifies itself *as the reflection*.
 - **Cannot be defeated by force** — Roy's "STOP SIR LUCIUS" flyer rebellion fails. Roy is captured. The straightforward attempt to remove Lucius does not work because Lucius is not external to remove
-- **The threshold is the album** — [[Lucius Lullaby (album)]] sits at a threshold moment. Roy is at his lowest point ([[Lucius Lullaby]] song origin); Lucius is operating at full strength. Whether this is the Dweller blocking integration or the Dweller forcing the threshold crossing depends on what comes next
+- **The threshold is the album** — [[Lucius Lullaby (album)]] sits at a threshold moment. Roy is at his lowest point ([[Brain/Songs/Lucius Lullaby]] song origin); Lucius is operating at full strength. Whether this is the Dweller blocking integration or the Dweller forcing the threshold crossing depends on what comes next
 
 The reading is not "Lucius = villain." It is "Lucius = the form Roy's own unintegrated material has taken, given a name and a voice." The Dweller framing preserves Lucius's ambiguity — he is genuinely Roy's, genuinely accumulated from real wounds, and genuinely the obstacle. All three at once.
 

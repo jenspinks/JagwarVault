@@ -34,7 +34,7 @@ Voiced: [[Sir Lucius]] (primary), to [[Roy]]. [W] Lullaby form subverted — sin
 ## Moves
 - [P] Lucius genuinely trying to wake Roy, not trap him; shadow-as-ally not villain.
 - [W] Origin of "the deal" — Lucius pulls Roy from the bottom; cost unspecified, "may have been worth it."
-- [W] Childhood bedroom = site of original wounding; geographic echo with [[Ballerina Boy]].
+- [W] Childhood bedroom = site of original wounding; geographic echo with [[Brain/Songs/Singles & EPs/BALLERINA BOY]].
 - [?] Kabbalah: Malkhut→Yesod threshold; Lucius (Yesod) reaches down into Malkhut. Esoteric mapping, not verified intent.
 
 ## Open Questions

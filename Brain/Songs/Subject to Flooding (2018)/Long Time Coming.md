@@ -35,15 +35,15 @@ Track 1, *Subject to Flooding* (2018, Atlantic). Writers: [?] Apple Music compos
 - *"it's been a long time coming"* — deferred return language; inevitability without surprise
 
 ## Structural moves
-- [W] **Disguise already present** — the speaker does not build a mask here; he recognizes one that already exists. This places the protector structure's formation before 2018, consistent with [[Ballerina Boy]] (burial at age 7).
+- [W] **Disguise already present** — the speaker does not build a mask here; he recognizes one that already exists. This places the protector structure's formation before 2018, consistent with [[Essays/Concepts/Songs/Ballerina Boy]] (burial at age 7).
 - [W] **The mirror does not heal** — awareness increases ("getting clearer") without transformation completing. The song is firmly in orbit, not return.
 - [W] **"They know"** — ambiguous referent: generalized social consciousness, or systemic authority? The `[?]` version of "The Boss" / algorithmic structure is legible retroactively, not asserted.
 - [W] **"Faceless" vs later faceless-feminine** — the "faceless" here (the unseen, unmarketable) creates a resonance with the faceless Mary-class figure, though the register is social/political here, not specifically divine. Structural echo, not equivalence.
 
 ## Connections
-- [[Ballerina Boy]] — origin wound and origin of the protector; burial event that predates this song
-- [[Welcome to the Circus]] — this song diagnoses the system; WTTC exteriorizes it at full scale
-- [[Weirdness]] — albedo counterpart; this song recognizes the disguise but cannot yet claim the light beneath it
+- [[Essays/Concepts/Songs/Ballerina Boy]] — origin wound and origin of the protector; burial event that predates this song
+- [[Brain/Songs/Welcome to the Circus]] — this song diagnoses the system; WTTC exteriorizes it at full scale
+- [[Essays/Concepts/Songs/Weirdness]] — albedo counterpart; this song recognizes the disguise but cannot yet claim the light beneath it
 
 ## Open Questions
 - [~] "They know" — systemic forces or something more specific? Forward-compatible with theatrical authority structures but not asserted.

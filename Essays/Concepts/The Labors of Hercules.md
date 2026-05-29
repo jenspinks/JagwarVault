@@ -121,13 +121,13 @@ The cluster — *tame + Beast + champion* in three consecutive lines — is stru
 
 ### #1 Champion (la Conquistadora)
 
-The song title and album placement reinforce the champion-archetype reading. Track 8 on *Lucius Lullaby*, after [[Welcome to the Circus]] (track 4). The album sequencing suggests an arc where champion-status emerges *through* the Circus rather than around it. *La Conquistadora* — "the conquering one" (feminine) — connects to the Strength card's gendered iconography: not the violent conqueror, but the one who has tamed.
+The song title and album placement reinforce the champion-archetype reading. Track 8 on *Lucius Lullaby*, after [[Brain/Songs/Welcome to the Circus]] (track 4). The album sequencing suggests an arc where champion-status emerges *through* the Circus rather than around it. *La Conquistadora* — "the conquering one" (feminine) — connects to the Strength card's gendered iconography: not the violent conqueror, but the one who has tamed.
 
 This is a Strong Read — the title alone is suggestive, the placement supports it, and the broader lyric content aligns. Confirmation depends on closer analysis of the song itself, which is pending.
 
 ### Welcome to the Circus
 
-The Leo Labor argument applied to [[Welcome to the Circus]]: the Circus is what the aspirant faces *after* engaging the Beast. The cave was interior; the Circus is the externalization of the same dominance-mechanism *running on industrial scale*. Lucius as ringmaster of the Circus is the dominant ego operating *outside the cave*, having never been confronted in the dark. The song's "no exit sign in my maze" reads, in this framework, as the maze of the un-tamed lion's territory — the labyrinth the aspirant has not yet voluntarily entered.
+The Leo Labor argument applied to [[Brain/Songs/Welcome to the Circus]]: the Circus is what the aspirant faces *after* engaging the Beast. The cave was interior; the Circus is the externalization of the same dominance-mechanism *running on industrial scale*. Lucius as ringmaster of the Circus is the dominant ego operating *outside the cave*, having never been confronted in the dark. The song's "no exit sign in my maze" reads, in this framework, as the maze of the un-tamed lion's territory — the labyrinth the aspirant has not yet voluntarily entered.
 
 ---
 
@@ -139,7 +139,7 @@ Roy publicly maintains an Influences / Quotes catalogue. Three Bailey quotes app
 
 2. *"The path of liberation leads through the midst of the world of illusion."* — Crucial: through, not around. The Circus must be entered, not avoided. Liberation is *through* illusion, not *escape from* illusion. This is the framework's operating principle.
 
-3. *"The world is today the victim of illusion, propaganda, and mass suggestion."* — Bailey on the modern condition; the same diagnosis [[Welcome to the Circus]] makes in lyric form.
+3. *"The world is today the victim of illusion, propaganda, and mass suggestion."* — Bailey on the modern condition; the same diagnosis [[Brain/Songs/Welcome to the Circus]] makes in lyric form.
 
 **An artist who keeps three Bailey quotes in their working catalogue of influences is engaged with Bailey's framework.** This is the ground-floor evidence that the Labors framework is in the project, not imported into it.
 
@@ -208,8 +208,8 @@ Once a framework "clicks," every symbol begins reading through it. This is the f
 - [[Sir Lucius]] — the Lucius character maps onto Bailey's "coordinated dominant personality" (the lion of Leo as ego-grown-tyrannical)
 - [[Roy]] — the embryo-Hercules; the aspirant in trial
 - [[The Dweller on the Threshold]] — overlapping framework; the Dweller is the figure encountered at threshold-crossings throughout the Labors, especially Leo (the cave's threshold) and Capricorn (Hades' gate)
-- [[Welcome to the Circus]] — the maze of the un-tamed lion's territory; the Circus as the dominant ego operating publicly
-- [[Not Your Homie]] — contains the strongest direct lyric anchor for the framework
+- [[Brain/Songs/Welcome to the Circus]] — the maze of the un-tamed lion's territory; the Circus as the dominant ego operating publicly
+- [[Essays/Concepts/Songs/Not Your Homie]] — contains the strongest direct lyric anchor for the framework
 - [[#1 Champion (la Conquistadora)]] — the champion-archetype, possibly the strength-card position
 - [[The Mirror]] — the jaguar's gift of seeing into itself, structurally aligned with the Leo move of facing the lion in the cave
 - [[The Circle]] — Bailey's Labors are themselves a circular journey through the zodiac

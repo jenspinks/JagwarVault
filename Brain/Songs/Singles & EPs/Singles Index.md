@@ -31,7 +31,7 @@ Standalone releases not part of a full album. Organized chronologically.
 | [[dumbledore EP]] | 2025 | EP |
 | [[MAGIK EP]] | 2025 | EP |
 | [[SideQuest EP]] | 2025 | EP |
-| [[BALLERINA BOY]] | 2025 | Standalone single; pending analysis (suppressed voice / Algorithm-resistant) |
+| [[Brain/Songs/Singles & EPs/BALLERINA BOY]] | 2025 | Standalone single; pending analysis (suppressed voice / Algorithm-resistant) |
 | [[LOOP]] | 2025 | 3-song single; the LOOP concept made explicit |
 
 *Note: Several 2025 singles (LOOP, Not Your Homie, Welcome to the Circus, Ballerina Boy) preceded Lucius Lullaby. Some became album tracks; Ballerina Boy and LOOP did not.*

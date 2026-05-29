@@ -29,7 +29,7 @@ The term carries both a vernacular sense (something spectacular, impressive) and
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"It's a spectacle, I'm the final boss"* — primary naming
+- [[Brain/Songs/Welcome to the Circus]] — *"It's a spectacle, I'm the final boss"* — primary naming
 - [[The Circus]] — the Circus is the Spectacle's venue
 - [[Sir Lucius]] — Lucius as the Spectacle's operator and its primary product simultaneously
 - [[The Audience]] — the Spectacle requires an audience; without watchers, there is no spectacle

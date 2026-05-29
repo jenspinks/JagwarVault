@@ -32,18 +32,18 @@ Functional test: **surveillance gathers data; witnessing transforms the witnesse
 
 ## El Roi anchor
 
-[W] **El Roi** — Genesis 16:13, "the God who sees me." Roy signs himself **"El Roy."** Hebrew **אל ראי** is inked on [[Sir Lucius]]'s neck/throat (confirmed — Jen transcript note + video still) → Da'at gate (see [[Not Your Homie]]). The irony is load-bearing: Lucius wears *"the God who sees"* on the very organ that insists *"you don't know me."* **The machine that watches everything cannot witness anyone.**
+[W] **El Roi** — Genesis 16:13, "the God who sees me." Roy signs himself **"El Roy."** Hebrew **אל ראי** is inked on [[Sir Lucius]]'s neck/throat (confirmed — Jen transcript note + video still) → Da'at gate (see [[Essays/Concepts/Songs/Not Your Homie]]). The irony is load-bearing: Lucius wears *"the God who sees"* on the very organ that insists *"you don't know me."* **The machine that watches everything cannot witness anyone.**
 
 ## Surveillance cluster (machine-pole)
-[[The Audience]], [[The Spectacle]], [[The Algorithm]], [[The Aquarium]] (the self watched in a tank), parasociality, the feed. *"Did you like the show?"* ([[Welcome to the Circus]]) = the watched performing for the watchers; harm-as-product.
+[[The Audience]], [[The Spectacle]], [[The Algorithm]], [[The Aquarium]] (the self watched in a tank), parasociality, the feed. *"Did you like the show?"* ([[Brain/Songs/Welcome to the Circus]]) = the watched performing for the watchers; harm-as-product.
 
 ## Witnessing cluster (human-pole)
 El Roi; the faceless angel / [[Mary]] (witnesses without consuming — "born to shine," face out of sight); "Listening is an art form" [?]; being **seen** vs being **consumed** (cf. [[Consumption]], the Mouth).
 
 ## In the songs
 - [[Online]] (2022): *"they know my every step, they infiltrate my brain"* [?]; *"a bug inside your database"* [?]; *"they know what you like in bed before you come into"* [?] — surveillance + predictive profiling named (prediction as counterfeit intimacy).
-- [[Not Your Homie]] (2026): El Roi on the throat; *"you don't know me."*
-- [[Welcome to the Circus]] (2026): the Audience; *"did you like the show?"*
+- [[Essays/Concepts/Songs/Not Your Homie]] (2026): El Roi on the throat; *"you don't know me."*
+- [[Brain/Songs/Welcome to the Circus]] (2026): the Audience; *"did you like the show?"*
 
 ## Open Questions
 - [ ] Does [[Mary]] model true witnessing as the antidote to surveillance (seen-and-loved vs watched-and-ranked)?

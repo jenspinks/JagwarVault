@@ -29,7 +29,7 @@ The Circus collapses the co-creator into the audience-member. The instruction *"
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"Take your seat, scream and shout / 'Cause I'm the one they're talking 'bout"* / *"they love it when you lose control"* — the audience as the Circus's fuel and its product
+- [[Brain/Songs/Welcome to the Circus]] — *"Take your seat, scream and shout / 'Cause I'm the one they're talking 'bout"* / *"they love it when you lose control"* — the audience as the Circus's fuel and its product
 - [[Sir Lucius]] — *"no audience → no Lucius"* — Lucius requires the Audience to exist; he is the most audience-dependent figure in the project
 - Roy's publicly stated philosophy — Roy explicitly rejects the word "fan" and calls his listeners *co-creators of the world*, imposing responsibility rather than offering entertainment (from public interviews)
 - The Inner Circle — the paid subscriber community; the space where the Audience attempts to move from spectator to participant; also the most vulnerable to the dynamic WTTC names

@@ -25,7 +25,7 @@ related: [CHAR-Roy, CHAR-SirLucius, CHAR-Mary, SONG-BALLERINABOY, ALBUM-LuciusLu
 Everything below is in the public lyric or the confirmed public EP4 exchange:
 
 - **The Spoon EP4 exchange (none — transcript):** Lucius says *"I'm your weirdness."* Roy answers: *"Your weirdness is the sunshine."* These lines become the song's Intro verbatim — the song begins exactly where the scene ends.
-- **The childhood image (none — lyric):** *"When I was just a young one, I danced in the rain / Life was a joke, a fun one / Now I'm in pain."* The childhood was genuinely fun before it became the wound — the joy was real, not a fantasy. Pre-shame freedom, then the fall; the same biographical arc as [[Ballerina Boy]], different emphasis.
+- **The childhood image (none — lyric):** *"When I was just a young one, I danced in the rain / Life was a joke, a fun one / Now I'm in pain."* The childhood was genuinely fun before it became the wound — the joy was real, not a fantasy. Pre-shame freedom, then the fall; the same biographical arc as [[Essays/Concepts/Songs/Ballerina Boy]], different emphasis.
 - **The crisis and the intervention (none — lyric):** *"Thinking I should end it lately / Then I saw a little light / She looked like an angel, baby / But her face was out of sight / She said, 'Stop pretending, baby / You were born to shine.'"* The pre-chorus appears **twice** in the song — once after verse 1 (childhood wound) and again after verse 2 (industry wound). The figure arrives at both breaking points, not one.
 - **The pronoun shift (structural spine, none — lyric):** Intro and Chorus 1: *"Your weirdness is the sunshine."* Final chorus: *"And now I know that all my weirdness is my sunshine."* Integration grammar in the lyric itself.
 - **The string line — both instances (none — AZLyrics, confirmed):** Chorus 1: *"Your head is off its string."* Final chorus: *"My head is off its string."* Both say "off." No on/off arc — see Strong Read below.
@@ -52,15 +52,15 @@ The pre-chorus introduces a figure who appears at the edge of despair:
 This pre-chorus appears **twice** in the song — once after verse 1 (the childhood wound) and again after verse 2 (the industry wound). She does not come once at the worst moment. She comes at both. The figure is persistent, not situational — which reinforces the Mary-class reading: this is not a vision; it is a recurring presence.
 
 Her facelessness is not incidental. She cannot be reduced to a romantic object, a celebrity image, a mirror projection, or a normal identity. She is there to reveal, not to be consumed. The same faceless feminine blessing voice appears:
-- in [[Ballerina Boy]] (the older motherly voice whose face is never shown, delivering "let your light shine")
+- in [[Essays/Concepts/Songs/Ballerina Boy]] (the older motherly voice whose face is never shown, delivering "let your light shine")
 - in [[#1 Champion (la Conquistadora)]] (where **Mary** is named outright)
-- in [[Lucius Lullaby]] (Mary, twice, face hidden)
+- in [[Essays/Concepts/Songs/Lucius Lullaby]] (Mary, twice, face hidden)
 
 The Mary-class reading is not speculative at this point — it is the working pattern. What she says here is consistent across all appearances: *stop pretending, you were born to shine.* She never flatters. She only tells the truth about the light.
 
 ### "Stop pretending" — same phrase, mirrored vector
 
-[[Not Your Homie]] contains: *"Let's not pretend."*
+[[Essays/Concepts/Songs/Not Your Homie]] contains: *"Let's not pretend."*
 
 There, Lucius uses anti-pretense to enforce distance — stop pretending we are intimate, stop pretending you know me, stop pretending there is real connection. Anti-pretense as weapon.
 
@@ -135,7 +135,7 @@ The faceless angel resembles Sophia — divine wisdom, appearing from outside th
 
 ### Kabbalistic — Tiferet and solar reorientation
 
-Lucius operates in the Yesod register: lunar, reflective, mediating, audience-dependent, moon-lit. [[Ballerina Boy]] lives in the wound between Malkuth and Yesod — earthly shame driving the self into the memory sphere.
+Lucius operates in the Yesod register: lunar, reflective, mediating, audience-dependent, moon-lit. [[Essays/Concepts/Songs/Ballerina Boy]] lives in the wound between Malkuth and Yesod — earthly shame driving the self into the memory sphere.
 
 Weirdness orients toward Tiferet — the solar heart-center, the place where beauty emerges from integration. The keywords here are *sunshine*, *shine*, *light*, *born to* — all solar. The song is not Tiferet achieved; it is the first genuine solar movement after a long lunar passage. Reflected weirdness → owned weirdness → the beginning of solar weirdness.
 
@@ -157,11 +157,11 @@ Weirdness orients toward Tiferet — the solar heart-center, the place where bea
 
 | Song / Source | Relationship |
 |---|---|
-| [[Ballerina Boy]] | Wound-song and healing-song: BB focuses on the burial; Weirdness begins the reclamation. The dancing child in the rain maps to the ballerina. |
-| [[Not Your Homie]] | Anti-pretense mirrored: "Let's not pretend" (Lucius, enforcing distance) vs. "Stop pretending" (angel, dissolving mask). |
-| [[Welcome to the Circus]] | The public performance of the Lucius system; Weirdness is the private threshold that counters it. |
+| [[Essays/Concepts/Songs/Ballerina Boy]] | Wound-song and healing-song: BB focuses on the burial; Weirdness begins the reclamation. The dancing child in the rain maps to the ballerina. |
+| [[Essays/Concepts/Songs/Not Your Homie]] | Anti-pretense mirrored: "Let's not pretend" (Lucius, enforcing distance) vs. "Stop pretending" (angel, dissolving mask). |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | The public performance of the Lucius system; Weirdness is the private threshold that counters it. |
 | [[#1 Champion (la Conquistadora)]] | Mary named here; same figure who appears faceless in Weirdness. |
-| [[Lucius Lullaby]] | Mary appears twice (face hidden); consistent with Weirdness appearance. |
+| [[Essays/Concepts/Songs/Lucius Lullaby]] | Mary appears twice (face hidden); consistent with Weirdness appearance. |
 | [[The Circle]] | "A world tied on a string" — both chorus instances say "your/my head is off its string." The freedom was already there; the song is finding out it's yours. |
 | [[SOL]] | The love-current beneath the weirdness; the song Lucius cannot metabolize. |
 | [[Sir Lucius]] | EP4 Pleading Mode — "I'm your weirdness" — this is the moment Lucius names his own function. The song is Roy's answer. |

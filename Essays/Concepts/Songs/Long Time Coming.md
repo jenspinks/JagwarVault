@@ -56,13 +56,13 @@ The speaker does not accuse society of wearing masks. He realizes he is already 
 
 Within the vault framework, this functions as the earliest clear articulation of The Protector becoming consciously visible `[W]`. Importantly, this is NOT the birth of Lucius — it is the recognition of the adaptive structure already in operation.
 
-Integrating this with [[BALLERINA BOY]] significantly changes the chronology `[W]`. If the burial of the authentic child occurs around age seven — *"I killed that ballerina boy / I buried him inside"* — then the protector system necessarily predates 2018 `[W]`. The song catches the protector mid-operation, becoming visible in the mirror, not at its formation.
+Integrating this with [[Essays/Concepts/Songs/Ballerina Boy]] significantly changes the chronology `[W]`. If the burial of the authentic child occurs around age seven — *"I killed that ballerina boy / I buried him inside"* — then the protector system necessarily predates 2018 `[W]`. The song catches the protector mid-operation, becoming visible in the mirror, not at its formation.
 
 ### The Flattened World-System `[W]`
 
 The repeated pairings — *"rich man, poor man," "prophet and priest"* — perform what the vault calls Flattened Identity. Every role collapses into the same condition: bleeding, kneeling, trapped, performing.
 
-This anticipates the later Circus architecture almost exactly `[W]`. In [[Welcome to the Circus]], the performer, audience, clown, algorithm, and spectacle all become trapped inside the same machine. Long Time Coming already contains the diagnostic blueprint: hierarchy is performative, roles are disguises, systems consume identity, nobody is free.
+This anticipates the later Circus architecture almost exactly `[W]`. In [[Essays/Concepts/Songs/Welcome to the Circus]], the performer, audience, clown, algorithm, and spectacle all become trapped inside the same machine. Long Time Coming already contains the diagnostic blueprint: hierarchy is performative, roles are disguises, systems consume identity, nobody is free.
 
 The Circus is therefore not a new revelation in the later catalogue. It is the exteriorization of a system already diagnosed here `[W]`.
 
@@ -84,7 +84,7 @@ The song therefore functions less as rebellion and more as the first crack in st
 
 ### "This One's for the Faceless" `[W]`
 
-The phrase "the faceless" becomes increasingly significant when mapped against later presence imagery: the hidden-faced angel in [[Weirdness]], Mary's veil, the witness-voice at the end of [[BALLERINA BOY]].
+The phrase "the faceless" becomes increasingly significant when mapped against later presence imagery: the hidden-faced angel in [[Essays/Concepts/Songs/Weirdness]], Mary's veil, the witness-voice at the end of [[Essays/Concepts/Songs/Ballerina Boy]].
 
 Here the faceless are the unseen, the unmarketable, the spiritually compressed — those surviving beneath identity systems. This directly opposes celebrity, spectacle, optimization, and audience-metric identity.
 
@@ -139,11 +139,11 @@ This is an unmistakable Nigredo song. Active characteristics: collapse of false 
 
 | Song / Source | Relationship |
 |---|---|
-| [[BALLERINA BOY]] | Origin wound; the burial event that predates this recognition; the moon named at the grave |
-| [[Welcome to the Circus]] | This song diagnoses the system; WTTC exteriorizes it at full theatrical scale 8 years later |
-| [[Weirdness]] | Albedo counterpart; Weirdness reclaims what Long Time Coming can only recognize |
-| [[Not Your Homie]] | Lucius at full operational mode — orbit codified and defended; what LTC's protector eventually becomes |
-| [[Lucius Lullaby]] | The collapse that makes return possible; what happens after the orbit has run its course |
+| [[Essays/Concepts/Songs/Ballerina Boy]] | Origin wound; the burial event that predates this recognition; the moon named at the grave |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | This song diagnoses the system; WTTC exteriorizes it at full theatrical scale 8 years later |
+| [[Essays/Concepts/Songs/Weirdness]] | Albedo counterpart; Weirdness reclaims what Long Time Coming can only recognize |
+| [[Essays/Concepts/Songs/Not Your Homie]] | Lucius at full operational mode — orbit codified and defended; what LTC's protector eventually becomes |
+| [[Essays/Concepts/Songs/Lucius Lullaby]] | The collapse that makes return possible; what happens after the orbit has run its course |
 
 ---
 

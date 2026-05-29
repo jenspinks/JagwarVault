@@ -33,7 +33,7 @@ Age 7, Christian school, ballet, "came alive on that stage." Teacher → dad: "w
 
 ## Moves
 - [P] **Lucius's origin wound.** Lucius is not the ballerina boy — Lucius is *what grows around the grave*: the armor the psyche builds once softness is buried ([[The Dweller on the Threshold]]). Explains why Lucius mocks this song — **confirmed verbatim, The Interview EP3** (none — transcript): *"Do you know what your lowest performing song of all time is? (mimes ballet) Ballerina Boy. When you're vulnerable you LOSE!"* — he defends the system that created him; rescuing the child ends his monopoly on protection.
-- [W] **The loop.** Verse 1 childhood / Verse 2 industry: "you're not a real boy" → "music just wasn't landing." Same mechanism (schoolyard→religion→industry→algorithm): *sacrifice the true self so the world stops punishing you.* The shame Lucius later weaponizes (cf. [[Not Your Homie]], [[Welcome to the Circus]]).
+- [W] **The loop.** Verse 1 childhood / Verse 2 industry: "you're not a real boy" → "music just wasn't landing." Same mechanism (schoolyard→religion→industry→algorithm): *sacrifice the true self so the world stops punishing you.* The shame Lucius later weaponizes (cf. [[Essays/Concepts/Songs/Not Your Homie]], [[Brain/Songs/Welcome to the Circus]]).
 - [P] **The fork (central line):** "Do I kill myself or come back for that kid I let go." Not career — **integration**. "This song's for Ballerina Boy / a prayer for hope" = rescue ritual; goes *inward first* — inverse of Lucius's bargain songs. Maps to [[The Circle]] ("inside of the inside"); [[The Thread]] (the feeling not sacrificed).
 - [W] **Blessing, not armor.** "God's design / let your light shine" — anti-Lucius: Lucius protects by armoring, the parental/divine voice protects by blessing. Note the two blessings: the **father** narrated ("there's nothing wrong with you, my son") and the **Divine Mother** in the outro (the motherly voice; "let your light shine"). Both bless; Lucius alone armors.
 - [W] **Counter-algorithm.** Refuses the performance economy; risks being "low-performing" because value ≠ streams. Form/content: the off-album single about the off-album child.
@@ -41,7 +41,7 @@ Age 7, Christian school, ballet, "came alive on that stage." Teacher → dad: "w
 - [P] Integration ≠ Lucius obsolete. Rescue means *Lucius can no longer rule by claiming the child still needs armor more than love.*
 
 ## Divine-feminine voice (cross-cutting — track on [[Mary]])
-Faceless feminine blessing voice recurs: here (moon line, verify), [[Weirdness]] ("angel baby… face out of sight… you were born to shine"), [[#1 Champion (la Conquistadora)]] (Mary named), [[Lucius Lullaby]] (Mary ×2, face hidden). [W] likely all [[Mary]]-class.
+Faceless feminine blessing voice recurs: here (moon line, verify), [[Essays/Concepts/Songs/Weirdness]] ("angel baby… face out of sight… you were born to shine"), [[#1 Champion (la Conquistadora)]] (Mary named), [[Brain/Songs/Lucius Lullaby]] (Mary ×2, face hidden). [W] likely all [[Mary]]-class.
 
 ## Open Questions (verification debts)
 - [x] ~~Moon line = female voice~~ **CONFIRMED (none — Jen, audio):** the whole spoken outro is an older *motherly* female voice → divine-feminine / [[Mary]]-class. The clearest Mary-voice appearance in the catalogue.

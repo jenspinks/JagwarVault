@@ -31,7 +31,7 @@ The Aquarium differs from [[The Mirror]] in that the Mirror shows you a reflecti
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"Every day is a circus all in my brain"* — the Circus as interior installation; the Aquarium encoded in the song's first line
+- [[Brain/Songs/Welcome to the Circus]] — *"Every day is a circus all in my brain"* — the Circus as interior installation; the Aquarium encoded in the song's first line
 - [[The Circle]] — *"the inside of the inside"* — the project's foundational image can be read both ways: the Aquarium (trapped at the innermost layer) or the path of liberation (the inside of the inside as the way home)
 - [[The Circus]] — the Circus as the Aquarium at operational scale; the social machinery of the totalized enclosure
 - [[The Algorithm]] — the Algorithm as the Aquarium's maintenance system; it ensures the glass stays invisible by optimizing for content that confirms the Aquarium's reality

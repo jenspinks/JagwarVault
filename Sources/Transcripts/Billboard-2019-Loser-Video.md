@@ -21,7 +21,7 @@ Tied to the Loser music video premiere. **Contains "programmed / deprogram" lang
 - **"Programmed" / "deprogram"** is system-language in Roy's own voice **2019**. The framing of social/cultural identity as *programming* (and the move out of it as *de-programming*) is the same logic that later becomes:
   - the [[Machine vs Human]] arc (the algorithm shaping behavior),
   - [[Witnessing vs Surveillance]] (surveillance predicting → shaping the watched),
-  - the [[CONCEPT-TheProtector|Protector triad]] reading of [[Loser]] / [[Good Day]] / [[No Fake Friends]].
+  - the [[CONCEPT-TheProtector|Protector triad]] reading of [[Essays/Concepts/Songs/Loser]] / [[Essays/Concepts/Songs/Good Day]] / [[Essays/Concepts/Songs/No Fake Friends]].
 - This is **load-bearing**: it sources the *system-programs-identity-and-the-work-is-to-deprogram* doctrine to 2019, in Roy's own voice. Promotes related vault claims from `[W]` to grounded.
 
 ### Video directors named

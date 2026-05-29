@@ -18,7 +18,7 @@ Venue-page bio with surprisingly substantive biographical and per-song framing. 
 - Rejected by multiple major labels throughout career
 - Periods of financial hardship; persisted in musical pursuits
 - **Grew up listening to Joni Mitchell and Bob Dylan via his mother** (narrative-driven songmaking influence)
-- **"Embraced ballet as a child while his peers pursued sports, establishing an artistic sensibility that would define his work"** — KEY: confirms the childhood-ballet detail outside Mirror Sessions sourcing; this is the lived biographical reality behind [[Ballerina Boy]].
+- **"Embraced ballet as a child while his peers pursued sports, establishing an artistic sensibility that would define his work"** — KEY: confirms the childhood-ballet detail outside Mirror Sessions sourcing; this is the lived biographical reality behind [[Essays/Concepts/Songs/Ballerina Boy]].
 
 ## Direct Roy quotes
 
@@ -62,4 +62,4 @@ No mentions of Lucius, the Circus, the Algorithm, the Beast, the Dweller, El Roi
 - [[Roy on 33]] (age + Bad-era MJ comparison + boundary-pushing)
 - [[Roy on specific songs]] (Happy Face = social media inauthenticity)
 - [[Roy on Industry]] ("popular music can push boundaries" / "collective fog")
-- **[[Ballerina Boy]] biographical anchor** — childhood ballet confirmed outside Mirror Sessions
+- **[[Essays/Concepts/Songs/Ballerina Boy]] biographical anchor** — childhood ballet confirmed outside Mirror Sessions

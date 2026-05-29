@@ -4,7 +4,7 @@ Type: Character / Project
 
 ## Description
 - The primary musical project of [[Roy|Brandon Roy Wronski]] since 2018 (previously: Roy English, 2006–2015).
-- Per [[Context Store 1]]: the **meta-system / container** — not a single voice but a stage for voices. Contains [[Sir Lucius]] (mind / strategy / reflection), [[Roy]] (heart / meaning / interpretation), and [[Ballerina Boy]] (origin / light).
+- Per [[Context Store 1]]: the **meta-system / container** — not a single voice but a stage for voices. Contains [[Sir Lucius]] (mind / strategy / reflection), [[Roy]] (heart / meaning / interpretation), and [[Essays/Concepts/Songs/Ballerina Boy]] (origin / light).
 - Name etymology: Mayan jaguar mythology — the jaguar could see into all living beings, travel between worlds. The self-knowing inter-world traveler. (source: [[Roy]])
 - Signed to Big Loud Rock, under exclusive license to Mercury Records (UMG).
 - Notable streaming and viral metrics: over 1 billion global streams, over 1 billion YouTube views, Happy Face (RIAA Certified Gold), Bad Feeling (Oompa Loompa) (Top 40 US radio).

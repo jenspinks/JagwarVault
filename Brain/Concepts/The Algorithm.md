@@ -21,7 +21,7 @@ Type: Concept / Symbol
 
 ## Description
 
-The Algorithm is the mechanism that decides what is seen, what is amplified, what is rewarded, and what is buried — operating without announced logic, invisible until you're caught in it. In the Jagwar Twin project, the Algorithm is not an abstraction; it is named explicitly as the author of [[Welcome to the Circus]]: *"the algorithm baby"* — Lucius's confession in [*The Interview EP 3*](https://www.youtube.com/watch?v=HqsTH99QcPk) that the song is algorithmically engineered, not soul-authored.
+The Algorithm is the mechanism that decides what is seen, what is amplified, what is rewarded, and what is buried — operating without announced logic, invisible until you're caught in it. In the Jagwar Twin project, the Algorithm is not an abstraction; it is named explicitly as the author of [[Brain/Songs/Welcome to the Circus]]: *"the algorithm baby"* — Lucius's confession in [*The Interview EP 3*](https://www.youtube.com/watch?v=HqsTH99QcPk) that the song is algorithmically engineered, not soul-authored.
 
 The Algorithm is the modern form of the systemic illusion that multiple traditions address: Bailey's *"mass suggestion"*, Gurdjieff's *"mechanical sleep"*, the Gnostic Demiurge. It is not personal and does not hate you. It processes you. The Circus runs on algorithmic fuel; the Algorithm is the engine beneath the spectacle.
 
@@ -29,7 +29,7 @@ The Algorithm is the modern form of the systemic illusion that multiple traditio
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"the algorithm baby"* (from *EP 3*, Lucius's on-camera confession as to what generated the song)
+- [[Brain/Songs/Welcome to the Circus]] — *"the algorithm baby"* (from *EP 3*, Lucius's on-camera confession as to what generated the song)
 - [[Sir Lucius]] — Lucius's three modes (Speech, Sidekick, Pleading) can be read as different algorithmic optimization states; Lucius-as-agent-of-the-algorithm
 - [[Great Time to Be Human]] — the ironic pop-affect surface is algorithmically optimized
 - [[Happy Face]] — the mask that the Algorithm rewards

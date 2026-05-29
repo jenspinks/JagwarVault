@@ -44,4 +44,4 @@ The name *Jagwar Twin* references "the ancient Mayan belief that jaguars possess
 Wikipedia does not contain mentions of Sir Lucius, the Circus, the Algorithm, the Beast, the Dweller, El Roi, or any cosmological/mythological framing beyond the jaguar name origin.
 
 ## Pulled into Brain/Roy Voice/
-- [[Roy on Authenticity & Masks]] (the "stardust / losers / brilliant beautiful souls" framing — already grounded on the [[Loser]] Brain page)
+- [[Roy on Authenticity & Masks]] (the "stardust / losers / brilliant beautiful souls" framing — already grounded on the [[Essays/Concepts/Songs/Loser]] Brain page)

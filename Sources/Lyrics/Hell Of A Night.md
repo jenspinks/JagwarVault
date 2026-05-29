@@ -13,7 +13,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 ## Source
 - **Album:** *Subject to Flooding* (2018)
 - **Writers:** Matthew Pauling, Roy English, Michael Morgan
-- Pairs with [[Hell Of A Night Pt. 2 (The Hallelujah Stickup)]].
+- Pairs with [[Sources/Lyrics/Hell Of A Night Pt. 2 (The Hallelujah Stickup)]].
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)

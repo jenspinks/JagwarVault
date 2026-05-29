@@ -31,11 +31,11 @@ There are two modes of mouth in the project: **the mouth that testifies** (Roy's
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"My teeth are falling out my mouth / I'm screaming, but no words come out"* + *"shut your mouth"* + *"I'll chew you up, spit you out"* — three different mouth-failures in one song
+- [[Brain/Songs/Welcome to the Circus]] — *"My teeth are falling out my mouth / I'm screaming, but no words come out"* + *"shut your mouth"* + *"I'll chew you up, spit you out"* — three different mouth-failures in one song
 - [[I Like to Party]] — the force-feeding sequence: cake forced into Roy's mouth by a jeweled hand entering from off-screen; the consumption mechanism rendered visually four years before it is named lyrically
-- [[Lucius Lullaby]] — *"sung into a MacBook microphone in desperation"* (origin story); the mouth at its most vulnerable and authentic as the source of the whole project
+- [[Brain/Songs/Lucius Lullaby]] — *"sung into a MacBook microphone in desperation"* (origin story); the mouth at its most vulnerable and authentic as the source of the whole project
 - [[SOL]] — the Song of Love; Roy's mouth at its most integrated; possibly what the mouth sounds like when the Circus mechanism fails to suppress it
-- [[Ballerina Boy]] — the voice the Circus cannot metabolize; the unmasked mouth
+- [[Essays/Concepts/Songs/Ballerina Boy]] — the voice the Circus cannot metabolize; the unmasked mouth
 - [[Happy Face]] — *"say you're good, say you're fine"* — the instructed mouth, suppression of authentic speech
 
 ---
@@ -71,7 +71,7 @@ There are two modes of mouth in the project: **the mouth that testifies** (Roy's
 - [[The Circus]] — the Circus as the consuming mouth at social scale
 - [[The Mask]] — shut your mouth / paint my face — same cluster
 - [[The Algorithm]] — what decides whose mouth gets amplified
-- [[Ballerina Boy]] — the mouth the system cannot process
+- [[Essays/Concepts/Songs/Ballerina Boy]] — the mouth the system cannot process
 - [[SOL]] — the mouth in its most integrated state
 - [[Sir Lucius]] — the consuming voice; the operator of the digestive Circus
 - [[Roy]] — the testifying voice; the mouth beneath the mask

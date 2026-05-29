@@ -11,14 +11,14 @@ related: [CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMirror, CHAR-Ma
 
 - Co-credited performing artist with [[Jagwar Twin]] on [[Lucius Lullaby (album)]] (released March 27, 2026). Has his own Apple Music and Spotify artist pages. Appears in the album's premiere video series ("Sir Lucius takes over the premiere," EP 5).
 - Within the mythology: formed from [[Roy]]'s interior life. *"The mind divorced from the heart."* Roy says: *"I made you."* Lucius pulled Roy out of the bottom; the deal may have been worth it.
-- Carries the tattoo **El Roi** — Hebrew for *"the God who sees me"* (Genesis 16, Hagar's encounter), inked **on his neck/throat** (confirmed via the EP transcript note + a head-tilted video still). Complicates a simple antagonist reading — and places "being seen" on the throat, the organ of utterance (the Da'at gate; see [[Not Your Homie]]).
+- Carries the tattoo **El Roi** — Hebrew for *"the God who sees me"* (Genesis 16, Hagar's encounter), inked **on his neck/throat** (confirmed via the EP transcript note + a head-tilted video still). Complicates a simple antagonist reading — and places "being seen" on the throat, the organ of utterance (the Da'at gate; see [[Essays/Concepts/Songs/Not Your Homie]]).
 - Reads as a [[The Dweller on the Threshold|Dweller on the Threshold]] figure: self-generated from Roy's accumulated unintegrated material, mirror-anchored, unable to be defeated by force, growing in proportion to what has been disowned.
 
 ---
 
 ## The El Roi Cluster (resonance)
 
-The tattoo is grounded: **El Roi** (אל ראי) — Hebrew for *"the God who sees me"* (Genesis 16, Hagar naming God after being seen in the wilderness: the only instance in scripture where a human names God) — inked in stylized Hebrew **on his neck/throat**. The throat placement is already load-bearing: "being seen" lives on the organ of utterance, the Da'at gate between the visible and the interior (see [[Not Your Homie]]).
+The tattoo is grounded: **El Roi** (אל ראי) — Hebrew for *"the God who sees me"* (Genesis 16, Hagar naming God after being seen in the wilderness: the only instance in scripture where a human names God) — inked in stylized Hebrew **on his neck/throat**. The throat placement is already load-bearing: "being seen" lives on the organ of utterance, the Da'at gate between the visible and the interior (see [[Essays/Concepts/Songs/Not Your Homie]]).
 
 The cluster below is **resonance-tier**, enabled by Roy's stated compositional method — the consonants/vowels framework (none — Roy's own interviews): *consonants = structure / angles; vowels = activation / breath / God.* The Hebrew writing system natively encodes consonantal roots and fills them with vowels to generate meaning. Reading across vowel variations is what the system *permits*. It does not mean the tattoo asserts all of these simultaneously. The system permits; the artist uses; the reader listens.
 
@@ -38,7 +38,7 @@ The cluster below is **resonance-tier**, enabled by Roy's stated compositional m
 
 We do not know when Lucius started. We only know when he started leaving traces.
 
-The temptation is to date Lucius to a specific origin — the wound at age seven, or the [[Lucius Lullaby]] crisis at thirty-five, or the Sir Lucius co-credit on the 2026 album. None of these is right. Each is a moment Lucius became *more visible*, not a moment he began.
+The temptation is to date Lucius to a specific origin — the wound at age seven, or the [[Brain/Songs/Lucius Lullaby]] crisis at thirty-five, or the Sir Lucius co-credit on the 2026 album. None of these is right. Each is a moment Lucius became *more visible*, not a moment he began.
 
 The earliest surviving public artifact is from 2008 (see Prior Identities below). That is not the beginning. That is the earliest trace we have.
 
@@ -86,7 +86,7 @@ Lucius does not appear on every Jagwar Twin track. "I Like to Party" (2022, Los 
 
 The video shows Roy being **force-fed cake** by jeweled, ringed hands entering from off-screen. The feeding escalates in aggression across the video; by mid-song, cake is smashed across his face and torso (see [[Media Index]] — three stills from this video). The party is happening *to him*, not with him. The pop-friendly title and chorus run on top of imagery of restraint, mouth-stuffing, and saturation.
 
-This is **the Lucius mechanism in pastry form** — four years before [[Welcome to the Circus]] names it directly. The mechanism: forced celebration as coercion, algorithmically pleasant surface concealing devastating substance, the artist as object being processed by external authority, *the cake before the Circus*. Same dual-register move (ironic pop affect + horrifying visual) that produces "great time to be human" and "welcome to the circus" later.
+This is **the Lucius mechanism in pastry form** — four years before [[Brain/Songs/Welcome to the Circus]] names it directly. The mechanism: forced celebration as coercion, algorithmically pleasant surface concealing devastating substance, the artist as object being processed by external authority, *the cake before the Circus*. Same dual-register move (ironic pop affect + horrifying visual) that produces "great time to be human" and "welcome to the circus" later.
 
 The distinction matters: **Lucius-voiced** songs (Lucius singing, Lucius's words, Lucius's position) and **Lucius-inspired** songs (about the Lucius mechanism, but voiced from a different position — Roy as object of the mechanism, or Roy describing it from inside) are both legitimate categories, and the line between them needs case-by-case judgment. "I Like to Party" is the cleanest example of Lucius-inspired-but-not-voiced. Worth tracking song-by-song.
 
@@ -99,7 +99,7 @@ Lucius operates in three registers — context-dependent selves, with no integra
 ### 1. Speech Mode (Power)
 - Cold, prophetic, invulnerable
 - Performs dominance
-- Examples: [[Welcome to the Circus]] ("I'm the final boss"); the listening party industry-room speech ("Get out of the way. You're welcome")
+- Examples: [[Brain/Songs/Welcome to the Circus]] ("I'm the final boss"); the listening party industry-room speech ("Get out of the way. You're welcome")
 - This is Lucius at full external authority
 
 ### 2. Sidekick Mode (Leif)
@@ -112,7 +112,7 @@ Lucius operates in three registers — context-dependent selves, with no integra
 - Childlike, dependent
 - Emotionally real
 - Reveals the core need underneath the dominance and the comedy
-- Examples: [[Weirdness]] ("I'm your weirdness")
+- Examples: [[Essays/Concepts/Songs/Weirdness]] ("I'm your weirdness")
 - This is the layer the other two modes defend
 
 The cleanest synthesis: **Lucius is a reactive system built to avoid a core state of need.** Prophet and comic modes are defenses; pleading mode is the truth underneath.
@@ -131,7 +131,7 @@ The entirety of [[Lucius Lullaby (album)]] is Lucius's album — his production,
 
 At the [[Lucius Lullaby (album)]] listening party, Lucius delivers **one** in-person speech — the solo address to the industry room. It ends: *"Get out of the way. You're welcome."*
 
-This speech is sometimes confused with the content of [[Welcome to the Circus]] because both carry a similar authority-voice and both use the word *welcome* at their close. They are **not** two speeches. One is a live address; the other is an album track. Worth tracking carefully, because they point in different directions:
+This speech is sometimes confused with the content of [[Brain/Songs/Welcome to the Circus]] because both carry a similar authority-voice and both use the word *welcome* at their close. They are **not** two speeches. One is a live address; the other is an album track. Worth tracking carefully, because they point in different directions:
 
 - The **song** speaks as the Ringmaster from *inside* the Circus — "I'm the final boss," "chew you up spit you out," "did you like the show." Position: system operator, mask-off inside the mask.
 - The **speech** speaks as a system-disruptor from *above* the Circus — systems fail when belief collapses, the future arrives wearing a mask the room rejected, build your own table. Position: announcer of the existing system's obsolescence.
@@ -154,7 +154,7 @@ Transport this forward: Lucius reports to a **Boss** (*"Boss, I got this… My l
 Lucius has been naming his own position for years. The progression escalates:
 
 - **"I am in the business of the human kind / I'm a mastermind"** — from "Good Time" (Roy English / Jagwar Twin catalogue)
-- **"I'm the final boss"** — from [[Welcome to the Circus]] (2026)
+- **"I'm the final boss"** — from [[Brain/Songs/Welcome to the Circus]] (2026)
 
 Mastermind → Final Boss. The self-naming arc is its own timeline, worth tracking as Lucius's biography in his own words.
 
@@ -183,9 +183,9 @@ Mastermind → Final Boss. The self-naming arc is its own timeline, worth tracki
 ## Related Songs
 
 - [[The Circle (Lucius Version)]]
-- [[Lucius Lullaby]]
-- [[Welcome to the Circus]]
-- [[Weirdness]]
+- [[Brain/Songs/Lucius Lullaby]]
+- [[Brain/Songs/Welcome to the Circus]]
+- [[Essays/Concepts/Songs/Weirdness]]
 - [[#1 Champion (la Conquistadora)]]
 - *Influence-only (not voiced by Lucius):* "I Like to Party," and likely others — this distinction is worth tracking song-by-song
 

@@ -130,7 +130,7 @@ The reveal. The fourth wall collapses. Lucius steps out of character and asks th
 
 The song's real thesis. The Circus economy is **powered by watching the performer collapse.** This is algorithmic psychology — emotional volatility as engagement signal. The system is not neutral about your breakdown; it requires it.
 
-This connects directly to [[Lucius Lullaby]]: the song is the public artifact of an actual breakdown, eventually monetized into the spectacle. The original collapse becomes the source material that the Circus then demands more of. The loop closes here.
+This connects directly to [[Essays/Concepts/Songs/Lucius Lullaby]]: the song is the public artifact of an actual breakdown, eventually monetized into the spectacle. The original collapse becomes the source material that the Circus then demands more of. The loop closes here.
 
 ---
 
@@ -172,11 +172,11 @@ It also raises the open question: **is Lucius protecting Roy, or training him to
 
 ## Position in the Arc
 
-Track 4. The album opens with [[The Circle (Lucius Version)]], [[Lucius Lullaby]], [[Great Time to Be Human]] — three tracks that orient the listener inside the problem. The Circle is announced. The bottom is named. The ironic affirmation lands. By track 4, the title card goes up: **Welcome to the Circus.**
+Track 4. The album opens with [[The Circle (Lucius Version)]], [[Essays/Concepts/Songs/Lucius Lullaby]], [[Great Time to Be Human]] — three tracks that orient the listener inside the problem. The Circle is announced. The bottom is named. The ironic affirmation lands. By track 4, the title card goes up: **Welcome to the Circus.**
 
 It is the confession that makes the rest of the album possible. After this, the listener cannot claim not to have been warned. The Circus has been named, the mechanism described, the final-boss self-designation made on the record.
 
-What follows on the album ([[Bad Feeling (Oompa Loompa)]], [[Moths to the Flame]], [[Bananas]], [[#1 Champion (la Conquistadora)]], [[Playing to the Gods]], [[City of Angels]], [[Not Your Homie]], [[Bounce]]) is the listener continuing to dance inside the Circus *after having been told*.
+What follows on the album ([[Bad Feeling (Oompa Loompa)]], [[Moths to the Flame]], [[Bananas]], [[#1 Champion (la Conquistadora)]], [[Playing to the Gods]], [[City of Angels]], [[Essays/Concepts/Songs/Not Your Homie]], [[Bounce]]) is the listener continuing to dance inside the Circus *after having been told*.
 
 ---
 
@@ -199,7 +199,7 @@ The fifth labor of Hercules requires the hero to confront the Nemean Lion *insid
 
 Welcome to the Circus likely reads as **what the dominant personality looks like when it has not been confronted in the cave.** Lucius is operating publicly as the un-tamed lion, ravaging the countryside (the audience) as the song explicitly describes (*chew you up, spit you out / they love it when you lose control*). The maze with *no exit sign* is the cave the aspirant has not yet voluntarily entered.
 
-[[Not Your Homie]] (track 11) carries the lyric *"if you choose to tame The Beast / you've got to prove yourself to be / a champion."* That song reads as the Leo-trial named directly: the choice to tame, the integration framework, the initiatory champion language. WTTC is the tyranny *before* the trial; Not Your Homie names the trial as available.
+[[Essays/Concepts/Songs/Not Your Homie]] (track 11) carries the lyric *"if you choose to tame The Beast / you've got to prove yourself to be / a champion."* That song reads as the Leo-trial named directly: the choice to tame, the integration framework, the initiatory champion language. WTTC is the tyranny *before* the trial; Not Your Homie names the trial as available.
 
 The Bailey-curated quote *"the path of liberation leads through the midst of the world of illusion"* applies here: the Circus must be entered, not avoided. WTTC is the entry. Liberation is *through*, not around.
 
@@ -224,7 +224,7 @@ The Bailey-curated quote *"the path of liberation leads through the midst of the
 - [[Sir Lucius]] — the speaking voice; the ringmaster; the "final boss"; in Speech Mode
 - [[Roy]] — the body providing the voice; the reluctant performer
 - **Absent:** [[Mary]] — does not appear
-- **Absent:** [[Ballerina Boy]] — does not appear (see *Resonances* below)
+- **Absent:** [[Essays/Concepts/Songs/Ballerina Boy]] — does not appear (see *Resonances* below)
 
 ---
 
@@ -256,17 +256,17 @@ The Bailey-curated quote *"the path of liberation leads through the midst of the
 | [[Happy Face]]                         | The Mask Layer at minimum-viable scale. WTTC is Happy Face industrialized.                                                                   |
 | [[I Like to Party]]                    | The cake-before-the-Circus. Force-feeding rendered visually four years before chewing-up named lyrically.                                    |
 | [[LOOP]] *(not on album)*              | Roy's single. First in the official pattern-breaking chain. Lucius's loop-accusation in EP 3 inverts it: he accuses Roy of being in a loop. |
-| [[Not Your Homie]]                     | The previous Lucius-produced hit that made this one possible. Also: contains the Beast/champion lyric — the Leo-trial named directly.        |
+| [[Essays/Concepts/Songs/Not Your Homie]]                     | The previous Lucius-produced hit that made this one possible. Also: contains the Beast/champion lyric — the Leo-trial named directly.        |
 | [[The Circle]]                         | The Circus is The Circle inverted. Same motion, opposite direction.                                                                          |
 | [[The Circle (Lucius Version)]]        | Lucius's opening framing of the Circle on the album; this song is the inverted Circle in motion.                                             |
-| [[Lucius Lullaby]]                     | The song's namesake; the origin contact that this track monetizes.                                                                           |
+| [[Essays/Concepts/Songs/Lucius Lullaby]]                     | The song's namesake; the origin contact that this track monetizes.                                                                           |
 | [[Great Time to Be Human]]             | Track 3 — the ironic affirmation that precedes this unmasking.                                                                               |
 | [[Bad Feeling (Oompa Loompa)]]         | Track 5 — the bad feeling about this exact dynamic.                                                                                          |
 | [[Moths to the Flame]]                 | Track 6 — Lucius's moth speech at EP 7 is the prose form of this next track.                                                                 |
 | [[#1 Champion (la Conquistadora)]]     | Track 8 — the champion archetype; possible Leo-trial completion song.                                                                        |
 | [[Playing to the Gods]]                | Track 9 — different face of the same performance mechanism.                                                                                  |
 | [[SOL]]                                | The Song of Love. The track Lucius overrode in EP 3. The song that closes the album's structural arc.                                        |
-| [[Ballerina Boy]]                      | Roy's lowest-performing song; the voice that *cannot* appear inside the Circus.                                                              |
+| [[Essays/Concepts/Songs/Ballerina Boy]]                      | Roy's lowest-performing song; the voice that *cannot* appear inside the Circus.                                                              |
 | [[The Labors of Hercules]]             | Framework. WTTC reads as the Lion-untamed; Not Your Homie names the trial as available.                                                      |
 
 ---
@@ -275,12 +275,12 @@ The Bailey-curated quote *"the path of liberation leads through the midst of the
 
 - [ ] **Is Lucius protecting Roy or training him to rule the Circus?** The song stops pleading and starts teaching. This is a fundamental reframe of the protector/shadow-ally reading.
 - [ ] Who is Lucius's **Boss**? In the visual lore series Lucius is heard reporting to one — *"Boss, I got this, my lullabi is everywhere."* Is the Boss BMRC (the bonus track's credited entity), the algorithm itself, capital, the collective audience, something more abstract?
-- [ ] Where is [[Ballerina Boy]]? The song's structural silence about him may be the song's most important feature.
+- [ ] Where is [[Essays/Concepts/Songs/Ballerina Boy]]? The song's structural silence about him may be the song's most important feature.
 - [ ] **Why does [[SOL]] unsettle Lucius?** SOL is the song he overrode in EP 3 and the track he reportedly cannot metabolize. SOL is the note Lucius cannot absorb. Why?
 - [ ] Rachel Kanner on background vocals — recurring voice across the catalogue? Possible sonic register for [[Mary]]?
 - [ ] *"They love it when you lose control"* — is this describing audience, industry, or Lucius himself? Who loves it?
 - [ ] Is the song's refusal to name an exit a *description* (the Circus has no exit) or a *strategy* (the exit exists but Lucius will not mention it)?
-- [ ] Does the Leo-trial framework apply to WTTC specifically — i.e., is this song the lion ravaging the countryside *before* the cave, with [[Not Your Homie]] naming the cave as available? (See [[The Labors of Hercules]] Open Questions.)
+- [ ] Does the Leo-trial framework apply to WTTC specifically — i.e., is this song the lion ravaging the countryside *before* the cave, with [[Essays/Concepts/Songs/Not Your Homie]] naming the cave as available? (See [[The Labors of Hercules]] Open Questions.)
 
 ---
 
@@ -310,7 +310,7 @@ Roy's "STOP SIR LUCIUS" flyer rebellion (from the visual lore series) deploys an
 The 2022 "I Like to Party" music video shows Roy being force-fed cake by jeweled hands from off-screen, escalating in aggression to saturation. *I'll chew you up, spit you out* is the lyrical naming of an operation Roy was filmed enacting four years prior — as the thing being eaten. The visual catalogue of the Lucius mechanism predates the lyrical naming by a substantial margin.
 
 ### Ballerina Boy as Structural Absence
-The song does not name [[Ballerina Boy]]. Possible readings:
+The song does not name [[Essays/Concepts/Songs/Ballerina Boy]]. Possible readings:
 1. Ballerina Boy is *underneath* the Circus, sealed before the Circus was built. The Circus is what got constructed on top of the buried child.
 2. Ballerina Boy is *what the Circus cannot absorb.* His absence is his protection — the thing Lucius cannot commodify is the thing he cannot name.
 Both readings point in the same direction: the most important figure in the project is *not in the song*, and the absence is the song's shape.
@@ -353,8 +353,8 @@ Both readings point in the same direction: the most important figure in the proj
 - "I Like to Party" Official Music Video, dir. Kyle Vorbach — 2022, Los Angeles — *(cake-feeding sequence)*
 - [[Happy Face]] — Jagwar Twin
 - [[The Circle]] — Jagwar Twin
-- [[Not Your Homie]] — Jagwar Twin, MERCY, Sir Lucius
-- [[Lucius Lullaby]] — Jagwar Twin, Sir Lucius
+- [[Essays/Concepts/Songs/Not Your Homie]] — Jagwar Twin, MERCY, Sir Lucius
+- [[Essays/Concepts/Songs/Lucius Lullaby]] — Jagwar Twin, Sir Lucius
 
 ### Frameworks Drawn On
 

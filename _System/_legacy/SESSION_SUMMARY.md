@@ -131,7 +131,7 @@ If the thread is feeling, and feeling is what allows navigation of the closed sy
 ## Pending Work (Prioritized)
 
 ### Immediate
-- [ ] Fold detailed WTTC analysis into [[Welcome to the Circus]] wiki page
+- [ ] Fold detailed WTTC analysis into [[Brain/Songs/Welcome to the Circus]] wiki page
 - [ ] Execute folder restructure (move 30+ files into new Wiki/ and Processed/ structure)
 - [ ] Build `Processed/Episode Transcripts/` files (cleaned extracts from public YouTube series)
 - [ ] Build `Processed/Quotes - Roy Curated.md` (master list of Roy's public influence quotes)

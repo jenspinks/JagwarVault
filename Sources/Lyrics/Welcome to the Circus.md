@@ -1,6 +1,6 @@
 # welcome to the circus — Lyrics (Processed)
 
-Cleaned lyric file. Text + structural notes + phrase index. **No interpretation here.** For analysis, see [[Welcome to the Circus]] in Wiki/Songs/.
+Cleaned lyric file. Text + structural notes + phrase index. **No interpretation here.** For analysis, see [[Sources/Lyrics/Welcome to the Circus]] in Wiki/Songs/.
 
 ---
 
@@ -115,7 +115,7 @@ Welcome to the circus
 
 ## Notable Phrases (Index Only)
 
-A flat list of phrases for cross-reference from other vault pages. **No interpretation here** — interpretation lives in [[Welcome to the Circus]]. Listed in song order with their structural location. These are phrases identified as either repeated, structurally load-bearing, or carrying recognizable symbolic, biblical, mythological, or philosophical resonance worth tracking across the catalogue.
+A flat list of phrases for cross-reference from other vault pages. **No interpretation here** — interpretation lives in [[Sources/Lyrics/Welcome to the Circus]]. Listed in song order with their structural location. These are phrases identified as either repeated, structurally load-bearing, or carrying recognizable symbolic, biblical, mythological, or philosophical resonance worth tracking across the catalogue.
 
 ### Refrain
 - "Welcome to the circus" *(repeated 11+ times — refrain)*
@@ -244,7 +244,7 @@ Music video / visualizer stills are catalogued in [[Media Index]] under appropri
 ## Cross-References
 
 This file is referenced from:
-- [[Welcome to the Circus]] (Wiki/Songs/) — full analysis
+- [[Sources/Lyrics/Welcome to the Circus]] (Wiki/Songs/) — full analysis
 - [[Lucius Lullaby (album)]] — track 4 placement
 - [[Sir Lucius]] — vocal credit, character analysis
 - [[The Labors of Hercules]] — Strong Read connection

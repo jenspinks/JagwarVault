@@ -24,18 +24,18 @@ related: [CHAR-SirLucius, CHAR-Roy, SONG-LuciusLullaby, SONG-SOL, CONCEPT-TheCir
 | # | Title | Duration |
 |---|-------|----------|
 | 1 | [[The Circle (Lucius Version)]] | 0:44 |
-| 2 | [[Lucius Lullaby]] | 2:31 |
+| 2 | [[Essays/Arcs/Lucius Lullaby]] | 2:31 |
 | 3 | [[Great Time to Be Human]] | 3:23 |
-| 4 | [[Welcome to the Circus]] | 2:29 |
+| 4 | [[Brain/Songs/Welcome to the Circus]] | 2:29 |
 | 5 | [[Bad Feeling (Oompa Loompa)]] | 2:13 |
 | 6 | [[Moths to the Flame]] | 1:31 |
 | 7 | [[Bananas]] | 2:22 |
 | 8 | [[#1 Champion (la Conquistadora)]] | 3:33 |
 | 9 | [[Playing to the Gods]] | 1:05 |
 | 10 | [[City of Angels]] | 2:55 |
-| 11 | [[Not Your Homie]] | 2:47 |
+| 11 | [[Essays/Concepts/Songs/Not Your Homie]] | 2:47 |
 | 12 | [[Bounce]] | 2:12 |
-| 13 | [[Weirdness]] | 3:03 |
+| 13 | [[Essays/Concepts/Songs/Weirdness]] | 3:03 |
 | 14 | [[SOL]] | 1:18 |
 | 15 | Bad Feeling (Oompa Loompa) — acoustic live at MOTH Gallery (BMRC bonus) | 3:49 |
 
@@ -49,7 +49,7 @@ These are observations about the album-as-object, independent of lyrical or inte
 
 - **Lucius brackets the album.** Track 1 is "The Circle (Lucius version)" — Lucius's telling of the organizing cosmological concept. Track 15 is "Bad Feeling (Oompa Loompa)" acoustic live at the MOTH Gallery, an intimate Lucius-adjacent closing. The first voice and the last voice belong to the same side of the house.
 - **Lucius dominates the opening third.** Of the first four tracks, three are Lucius-titled or Lucius-aligned: The Circle (Lucius version), Lucius Lullaby, Welcome to the Circus. Track 3 (Great Time to Be Human) is the first non-Lucius slot. The album opens inside Lucius's territory before handing off.
-- **SOL is track 14, not 15.** If [[SOL]] is the Song of Love / destination per [[Lucius Lullaby]]'s arc mapping, then the album's *structural* ending lands at 14 — and the 15th position loops back to a Lucius-adjacent bonus. The tracklist itself enacts a Circle: arrival at SOL, then return to the opening voice. See [[The Circle]].
+- **SOL is track 14, not 15.** If [[SOL]] is the Song of Love / destination per [[Essays/Arcs/Lucius Lullaby]]'s arc mapping, then the album's *structural* ending lands at 14 — and the 15th position loops back to a Lucius-adjacent bonus. The tracklist itself enacts a Circle: arrival at SOL, then return to the opening voice. See [[The Circle]].
 - **MOTH imagery on both ends of the album.** Track 6 is "Moths to the Flame" (the archetypal false-light image, classical). Track 15 is recorded at "the MOTH Gallery." Whether this is intentional echo or coincidence is open, but the word *moth* appears as both subject and location.
 
 ---
@@ -64,7 +64,7 @@ These are observations about the album-as-object, independent of lyrical or inte
 
 ## Kabbalistic Mapping
 
-*The [[Lucius Lullaby]] song is mapped to the Malkhut → Yesod threshold. Whether each subsequent track maps to a rising sphere on the Tree, or whether the structure is something else entirely, is open.*
+*The [[Essays/Arcs/Lucius Lullaby]] song is mapped to the Malkhut → Yesod threshold. Whether each subsequent track maps to a rising sphere on the Tree, or whether the structure is something else entirely, is open.*
 
 - [ ]
 
@@ -81,7 +81,7 @@ These are observations about the album-as-object, independent of lyrical or inte
 - [[Sir Lucius]]
 - [[Roy]]
 - [[Mary]]
-- [[Ballerina Boy]]
+- [[Essays/Concepts/Songs/Ballerina Boy]]
 
 ---
 

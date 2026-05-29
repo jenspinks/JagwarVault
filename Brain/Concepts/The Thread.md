@@ -56,7 +56,7 @@ These are likely not different threads — they are the *same thing* described a
 ## In the Project
 
 - [[The Circle]] — *"the world tied on a string"*; *"the song hidden inside its wings"*
-- [[Welcome to the Circus]] — *"there's no exit sign in my maze"* — the maze without thread
+- [[Brain/Songs/Welcome to the Circus]] — *"there's no exit sign in my maze"* — the maze without thread
 - [[The Labyrinth]] — the thread is what the labyrinth requires
 - [[The Mouth]] — *"don't sacrifice what you can feel"* — the feeling as the thread
 - [[SOL]] — possibly what the thread sounds like when it's held: the Song of Love as the thread made audible

@@ -76,12 +76,12 @@ Only later does this memory-preservation begin hardening into **defensive archit
 - social filtering,
 - emotional access control.
 
-This is where the early Lucius-shell begins emerging across the *Subject to Flooding* era — **not as destiny, but as adaptive residue** [W]. A crucial connective thread appears when paired with [[Good Day]]:
+This is where the early Lucius-shell begins emerging across the *Subject to Flooding* era — **not as destiny, but as adaptive residue** [W]. A crucial connective thread appears when paired with [[Essays/Concepts/Songs/Good Day]]:
 
-- **[[Good Day]]** introduces the **vibe-perimeter:** *"Can't kill my vibe."*
+- **[[Essays/Concepts/Songs/Good Day]]** introduces the **vibe-perimeter:** *"Can't kill my vibe."*
 - **N.F.F.** introduces the **social-perimeter:** *"No fake friends. They ain't even on my radar."*
 
-Together, the songs begin constructing a unified survival system: **protect mood, protect access, protect energy, track betrayal, filter proximity**. The later theatrical [[Sir Lucius]] figure does not appear from nowhere — he **crystallizes gradually out of repeated defensive adaptations that were initially understandable, human, and survivable** [W]. (See also [[Loser]] for the third face of this triad — shame-preemption.)
+Together, the songs begin constructing a unified survival system: **protect mood, protect access, protect energy, track betrayal, filter proximity**. The later theatrical [[Sir Lucius]] figure does not appear from nowhere — he **crystallizes gradually out of repeated defensive adaptations that were initially understandable, human, and survivable** [W]. (See also [[Essays/Concepts/Songs/Loser]] for the third face of this triad — shame-preemption.)
 
 ### 3. Stars flattened into sidewalks
 
@@ -111,7 +111,7 @@ The song ends with apparent success — Bali, "seeing so clear," the list workin
 
 > **The speaker does not recover trust. He recovers altitude.**
 
-*That distinction is the tragedy of the song* [W]. Compare with [[Good Day]]'s travel-itinerary ("East End / London / Aspen / Paris") — both songs convert relational wound into *geographic motion*, never homecoming. Orbit, not Return.
+*That distinction is the tragedy of the song* [W]. Compare with [[Essays/Concepts/Songs/Good Day]]'s travel-itinerary ("East End / London / Aspen / Paris") — both songs convert relational wound into *geographic motion*, never homecoming. Orbit, not Return.
 
 ---
 
@@ -135,7 +135,7 @@ The song does not yet contain the fully autonomous theatrical intelligence later
 
 The defensive adaptations emerging here are initially **protective and coherent**. The tragedy is that **successful survival strategies often continue operating long after the immediate danger has passed** [W].
 
-The later Lucius architecture can therefore be understood **not as a hidden mastermind secretly orchestrating the early catalogue**, but as the accumulated crystallization of repeated perimeter-building behaviors first visible in songs like N.F.F. and [[Good Day]]. (This is the *retrospective-coherence guard* in CLAUDE.md applied: the Protector emerged as adaptation; Lucius is what it eventually crystallized into; the early speaker was not encoding Lucius.)
+The later Lucius architecture can therefore be understood **not as a hidden mastermind secretly orchestrating the early catalogue**, but as the accumulated crystallization of repeated perimeter-building behaviors first visible in songs like N.F.F. and [[Essays/Concepts/Songs/Good Day]]. (This is the *retrospective-coherence guard* in CLAUDE.md applied: the Protector emerged as adaptation; Lucius is what it eventually crystallized into; the early speaker was not encoding Lucius.)
 
 ### Existential / Phenomenological
 
@@ -152,7 +152,7 @@ Phenomenologically, the song tracks the moment an individual realizes that **soc
 
 ## Open Questions
 
-- [ ] How intentionally does the STF-era sequencing place N.F.F. after the increasingly velocity-driven defensive tracks ([[Good Day]], [[Superhuman]], [[Move To You]]) — to reveal the emotional cost underneath them?
+- [ ] How intentionally does the STF-era sequencing place N.F.F. after the increasingly velocity-driven defensive tracks ([[Essays/Concepts/Songs/Good Day]], [[Superhuman]], [[Move To You]]) — to reveal the emotional cost underneath them?
 - [~] Does the repeated use of surveillance language across the early catalogue (*night watch*, *radar*, *vibe*, "frame") indicate a unified thematic concern around **attention, exposure, and psychic perimeter-management**? Likely yes — see [[Witnessing vs Surveillance]].
 - [x] **Does N.F.F. portray the completed Lucius identity?** **No.** The song portrays the **adaptive conditions and perimeter psychology** that later make the Lucius crystallization structurally possible [W].
 - [ ] Lowercase *"i"* in *"when i had nothing"* — Spotify renders it lowercase; confirm Apple's rendering matches. If yes, the small-*i* preservation of the diminished pre-success self is a real authorial choice (see Brain page).
@@ -163,11 +163,11 @@ Phenomenologically, the song tracks the moment an individual realizes that **soc
 
 | Song / Source | Relationship |
 |---|---|
-| [[Good Day]] | **Companion perimeter-track:** Good Day protects mood (*"vibe"*); N.F.F. protects social access and trust boundaries |
-| [[Loser]] | Earlier adaptive response to collapse — both songs transform vulnerability into survivable public posture (shame-preemption ↔ social filtration) |
+| [[Essays/Concepts/Songs/Good Day]] | **Companion perimeter-track:** Good Day protects mood (*"vibe"*); N.F.F. protects social access and trust boundaries |
+| [[Essays/Concepts/Songs/Loser]] | Earlier adaptive response to collapse — both songs transform vulnerability into survivable public posture (shame-preemption ↔ social filtration) |
 | [[Superhuman]] | Shared velocity-survival architecture — force and motion used to outrun psychic collapse |
-| [[Welcome to the Circus]] | Later macro-system where relational authenticity fully collapses into spectacle and performative exchange |
-| [[Lucius Lullaby]] | Documents the exhaustion point of prolonged defensive ascent and unresolved fragmentation |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | Later macro-system where relational authenticity fully collapses into spectacle and performative exchange |
+| [[Essays/Concepts/Songs/Lucius Lullaby]] | Documents the exhaustion point of prolonged defensive ascent and unresolved fragmentation |
 | [[Sir Lucius]] | The crystallized end-state of the Protector architecture this song helps form |
 | `CONCEPT-TheProtector` | The third face of the STF triad — social filtration as the interpersonal interface of the Protector |
 | *The Interview* EP 1–2 | Retroactively frames the STF-era wounds; Lucius weaponizes the housing/financial wound recorded here |

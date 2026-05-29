@@ -1,8 +1,8 @@
 # Roy on Authenticity & Masks
 
-Roy English's own statements about masks, performance, the misfit / outcast self, authenticity, and the project of "remove the mask, find we're all human underneath." Chronological. **Grounds the "we all walk around with masks on" framing that the [[Loser]] page already cites — now citable.**
+Roy English's own statements about masks, performance, the misfit / outcast self, authenticity, and the project of "remove the mask, find we're all human underneath." Chronological. **Grounds the "we all walk around with masks on" framing that the [[Essays/Concepts/Songs/Loser]] page already cites — now citable.**
 
-> **Use this page** when analyzing songs that touch [[The Mask]], [[Loser]], [[Happy Face]], [[Welcome to the Circus]], or any Protector-architecture work. Roy on masks is unusually well-documented — promote `[W]` claims to grounded where Roy speaks directly.
+> **Use this page** when analyzing songs that touch [[The Mask]], [[Essays/Concepts/Songs/Loser]], [[Happy Face]], [[Brain/Songs/Welcome to the Circus]], or any Protector-architecture work. Roy on masks is unusually well-documented — promote `[W]` claims to grounded where Roy speaks directly.
 
 ---
 
@@ -13,7 +13,7 @@ Roy English's own statements about masks, performance, the misfit / outcast self
 
 ## 2019 — STF promotional era
 
-- **[2019-09-23]** **KEY — verbatim "masks" framing** (grounds the [[Loser]] Brain page Open Question): *"Loser is about how we all walk around with these masks on and try to be what we think other people want us to be. But if we remove those masks we find that we're all human underneath and we're all losers. There is only perceived separation."* — [[Prelude-Press-2019-JT]]
+- **[2019-09-23]** **KEY — verbatim "masks" framing** (grounds the [[Essays/Concepts/Songs/Loser]] Brain page Open Question): *"Loser is about how we all walk around with these masks on and try to be what we think other people want us to be. But if we remove those masks we find that we're all human underneath and we're all losers. There is only perceived separation."* — [[Prelude-Press-2019-JT]]
 - **[2019-10-10]** On the outcast / misfit self: *"For a large majority of my life, I was a misfit, an outcast, really thinking negativity… once I got older, my perceptive changed."* — [[Knockturnal-2019-Studio-Sessions]]
 - **[2019-10-10]** On bullies: *"Those people who bullied me… I have no anger against them. They were just projecting their insecurities."* — [[Knockturnal-2019-Studio-Sessions]]
 - **[2019-12-05]** On authenticity: *"Do we believe this? Is it authentic to me as a person?"* (creative standard) — [[New-England-Sounds-2019-Avril-Tour]]
@@ -45,9 +45,9 @@ Roy English's own statements about masks, performance, the misfit / outcast self
 
 ## Patterns visible in the corpus so far
 
-- **"Masks" framing is 2019** (Prelude). The [[Loser]] Brain page now has a citable Roy-voice source for the masks reading — **promote that move from `[W]` to grounded**.
+- **"Masks" framing is 2019** (Prelude). The [[Essays/Concepts/Songs/Loser]] Brain page now has a citable Roy-voice source for the masks reading — **promote that move from `[W]` to grounded**.
 - **The "remove the mask → we're all human underneath" structure is stable across years.** Same logic in 2018 (Atwood), 2019 (Prelude), 2020 (Honey Pop). Not retrospective; this is core to the project from the start.
-- **The outcast / misfit / bullied self** (Knockturnal 2019) is autobiographical material — grounds the [[Loser]] proto-Protector / shame-preemption reading. Roy IS speaking from his own outcast wound when he writes "I'm a loser baby just like you."
+- **The outcast / misfit / bullied self** (Knockturnal 2019) is autobiographical material — grounds the [[Essays/Concepts/Songs/Loser]] proto-Protector / shame-preemption reading. Roy IS speaking from his own outcast wound when he writes "I'm a loser baby just like you."
 - **"Self-discovery" framing** (2020 Honey Pop) is the bridge between the early "remove the mask" framing and the later [[Sir Lucius]] / Dweller / shadow-encounter material. Roy frames the work as inward, not outward, as early as 2018–2020. The Lucius theatrical canon dramatizes what was already a private discipline.
 
 ---

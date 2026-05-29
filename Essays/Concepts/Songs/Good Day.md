@@ -11,7 +11,7 @@ related: [SONG-GoodDay, ALBUM-SubjectToFlooding, SONG-Loser, SONG-NotYourHomie, 
 
 Track 4 on *Subject to Flooding* (2018, Atlantic Records). **Composer / Written By (Apple Music):** *Essex, Roy English, S1* — the Apple Music Details composer field is **blank**, but the Lyrics-tab "Written By" line lists this credit (Jen screenshot, verified 2026-05-28). *"Essex"* is unidentified — possible interpolation source, see Open Questions.
 
-Good Day follows [[Loser]], which converts shame into communal survival, and precedes the [[Superhuman (Interlude)|Superhuman]] sequence, where survival becomes mobilized into endurance. If Loser is **shame-preemption**, Good Day is **mood-protection**. Both are early *Subject to Flooding* adaptive structures: **bright pop surfaces built over unresolved pressure** [W].
+Good Day follows [[Essays/Concepts/Songs/Loser]], which converts shame into communal survival, and precedes the [[Essays/Concepts/Songs/Superhuman (Interlude)|Superhuman]] sequence, where survival becomes mobilized into endurance. If Loser is **shame-preemption**, Good Day is **mood-protection**. Both are early *Subject to Flooding* adaptive structures: **bright pop surfaces built over unresolved pressure** [W].
 
 ---
 
@@ -55,7 +55,7 @@ The center of Good Day is not happiness. It is **the urgent protection of happin
 
 > *I need today to be good so badly that nobody is allowed to disturb it* [W].
 
-This is a major **proto-Lucius** thread. In Good Day, vibe-protection is **defensive**. By [[Not Your Homie]], the same substance has hardened into **threat**:
+This is a major **proto-Lucius** thread. In Good Day, vibe-protection is **defensive**. By [[Essays/Concepts/Songs/Not Your Homie]], the same substance has hardened into **threat**:
 
 > *"Now you're on the dark side, sucker, it's a vibe."*
 > *"Don't kill my vibe…"*
@@ -118,7 +118,7 @@ The parenthetical echo *"(I might jump 'cause I feel untouchable)"* doubles the 
 
 ### 6. "No time for the clown" as retrospective irony
 
-*"No time for the clown, clowns"* should not be read as prophecy [W]. In 2018, the speaker rejects the clown as distraction, falseness, or unserious performance. Later, the clown / ringmaster register becomes one of the primary forms through which the shadow returns ([[Sir Lucius]], [[Welcome to the Circus]]).
+*"No time for the clown, clowns"* should not be read as prophecy [W]. In 2018, the speaker rejects the clown as distraction, falseness, or unserious performance. Later, the clown / ringmaster register becomes one of the primary forms through which the shadow returns ([[Sir Lucius]], [[Essays/Concepts/Songs/Welcome to the Circus]]).
 
 The irony is not:
 > *Roy predicted Lucius.*
@@ -126,7 +126,7 @@ The irony is not:
 It is:
 > *the thing the speaker had no time for came back wearing his face* [W].
 
-That framing keeps the line powerful **without overstating authorial intent** — the discipline the inherited-substrate / retrospective-coherence guard exists to enforce. (Same album reverently samples Charlie Chaplin — *the* clown — in [[Superhuman (Interlude)]]; the layered tension is real but doesn't require Roy to have *encoded* it: a 2018 speaker can dismiss "clowns" while the album simultaneously honors a specific clown's humanism without contradiction. The retrospective irony tightens later.)
+That framing keeps the line powerful **without overstating authorial intent** — the discipline the inherited-substrate / retrospective-coherence guard exists to enforce. (Same album reverently samples Charlie Chaplin — *the* clown — in [[Essays/Concepts/Songs/Superhuman (Interlude)]]; the layered tension is real but doesn't require Roy to have *encoded* it: a 2018 speaker can dismiss "clowns" while the album simultaneously honors a specific clown's humanism without contradiction. The retrospective irony tightens later.)
 
 ---
 
@@ -157,7 +157,7 @@ The song critiques day-job automation — *"Working so hard at your day job / Ha
 - [~] Does *"Phoebe"* carry **lunar resonance** through its mythic association (Phoebe the Titan, "bright moon," grandmother of Apollo/Artemis), or is that over-reading? Currently `[~]` — tonally suggestive given the album's Yesodic register but under-anchored without authorial context.
 - [x] Is *"No time for the clown"* a prediction of Lucius? — **No.** Best reading: retrospective irony [W].
 - [x] Is this albedo? — **No.** Better: **nigredo-adaptive brightness** — relief protected as mood rather than integrated as wholeness [W].
-- [ ] Wave / Flood inversion: confirm Good Day is the Flood's *success-pole* sibling to [[Loser]]'s loser-pole? Same survival-architecture playing both win and lose.
+- [ ] Wave / Flood inversion: confirm Good Day is the Flood's *success-pole* sibling to [[Essays/Concepts/Songs/Loser]]'s loser-pole? Same survival-architecture playing both win and lose.
 
 ---
 
@@ -165,12 +165,12 @@ The song critiques day-job automation — *"Working so hard at your day job / Ha
 
 | Song / Source | Relationship |
 |---|---|
-| [[Loser]] | Paired STF-era adaptation — Loser neutralizes shame; Good Day protects mood [W] |
+| [[Essays/Concepts/Songs/Loser]] | Paired STF-era adaptation — Loser neutralizes shame; Good Day protects mood [W] |
 | [[Superhuman]] | Converts adaptive survival into endurance and mobilized force [W] |
-| [[Superhuman (Interlude)]] | Same album reverently samples *the clown* (Chaplin) — layered context for "no time for the clown" |
+| [[Essays/Concepts/Songs/Superhuman (Interlude)]] | Same album reverently samples *the clown* (Chaplin) — layered context for "no time for the clown" |
 | [[Happy Face]] | Later systematizes defended positivity into forced performance |
-| [[Welcome to the Circus]] | The clown rejected here returns as spectacle architecture [W] |
-| [[Not Your Homie]] | **Good Day protects the vibe; Not Your Homie weaponizes it** [W] — the catalogue's clearest pre-Lucius / Lucius cross-link |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | The clown rejected here returns as spectacle architecture [W] |
+| [[Essays/Concepts/Songs/Not Your Homie]] | **Good Day protects the vibe; Not Your Homie weaponizes it** [W] — the catalogue's clearest pre-Lucius / Lucius cross-link |
 | [[Subject to Flooding (album)]] | "I'm on a wave" inverted into success posture vs the album's Flood frame |
 | `CONCEPT-TheProtector` | The vibe-defense IS the Protector in success-mode (twin of Loser's shame-preemption) |
 
@@ -181,5 +181,5 @@ The song critiques day-job automation — *"Working so hard at your day job / Ha
 - Lyrics: [[Sources/Lyrics/Good Day]] — Apple Music verified 2026-05-28
 - Composer (Apple Music Lyrics-tab Written By): *Essex, Roy English, S1*; see [[Sources/Credits/Subject to Flooding]] (Details field blank; AZLyrics' "Terry Knight" was a phantom)
 - *Subject to Flooding* (2018, Atlantic Records)
-- Theatrical canon for later vibe / clown / Lucius development: [[Not Your Homie]], [[Welcome to the Circus]], *The Interview*
+- Theatrical canon for later vibe / clown / Lucius development: [[Essays/Concepts/Songs/Not Your Homie]], [[Essays/Concepts/Songs/Welcome to the Circus]], *The Interview*
 - Analytical frameworks: C. G. Jung (shadow / persona); G. I. Gurdjieff (mechanical sleep); Hermetic Qabalah (Yesod / Tiferet)

@@ -21,7 +21,7 @@ Type: Concept / Symbol
 
 ## Description
 
-The Veil or Curtain is the boundary between performance and reality, between the visible show and what exists behind it, between the outer court and the holy of holies. In the Jagwar Twin project it appears in [[Welcome to the Circus]] — *"but when the curtains close / did you like the show?"* — as the threshold where the performance's truth is revealed. The closing of the curtain is the moment of potential unmasking.
+The Veil or Curtain is the boundary between performance and reality, between the visible show and what exists behind it, between the outer court and the holy of holies. In the Jagwar Twin project it appears in [[Brain/Songs/Welcome to the Circus]] — *"but when the curtains close / did you like the show?"* — as the threshold where the performance's truth is revealed. The closing of the curtain is the moment of potential unmasking.
 
 The Veil is also the boundary between what is shown and what is most sacred. In the Hebrew temple, the veil (*parokhet*) separated the outer sanctuary from the inner sanctuary where God's presence dwelt. The veil's tearing at Christ's death was the most radical act of boundary-dissolution in biblical narrative.
 
@@ -29,7 +29,7 @@ The Veil is also the boundary between what is shown and what is most sacred. In 
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"but when the curtains close / did you like the show?"* — the curtain as the boundary after which the performer asks for approval
+- [[Brain/Songs/Welcome to the Circus]] — *"but when the curtains close / did you like the show?"* — the curtain as the boundary after which the performer asks for approval
 - [[Sir Lucius]] — Lucius operates entirely in front of the curtain; the question is what exists behind it
 - [[Roy]] — Roy is possibly what exists behind the curtain; the face the curtain conceals
 - The theatrical series — the entire theatrical frame (*EP 1-7*) is a curtain being raised and lowered; the kidnapping, the bound-Roy listening party, are all staged curtain-raises over the album's making

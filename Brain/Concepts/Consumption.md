@@ -21,7 +21,7 @@ Type: Concept / Symbol
 
 ## Description
 
-Consumption is the mechanism by which the Circus processes its material — performers, audiences, and meaning are taken in, metabolized for fuel, and expelled. In [[Welcome to the Circus]], Lucius names this explicitly: *"I'll chew you up, spit you out."* The Circus is not neutral architecture; it is a digestive system.
+Consumption is the mechanism by which the Circus processes its material — performers, audiences, and meaning are taken in, metabolized for fuel, and expelled. In [[Brain/Songs/Welcome to the Circus]], Lucius names this explicitly: *"I'll chew you up, spit you out."* The Circus is not neutral architecture; it is a digestive system.
 
 Consumption in this project runs in multiple directions: the industry consumes the artist, the Circus consumes the audience, the algorithm consumes attention, the mask consumes the face. The figure being consumed varies; the mechanism is consistent.
 
@@ -29,7 +29,7 @@ Consumption in this project runs in multiple directions: the industry consumes t
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"I'll chew you up, spit you out"* — primary naming; Lucius as the Circus's digestive voice
+- [[Brain/Songs/Welcome to the Circus]] — *"I'll chew you up, spit you out"* — primary naming; Lucius as the Circus's digestive voice
 - [[I Like to Party]] — the force-feeding sequence (cake forced into Roy's mouth by the jeweled hand); the consumption mechanism rendered visually in 2022, four years before named lyrically. **The cake before the Circus.**
 - [[Sir Lucius]] — Lucius as the consuming force; *"I'm juggling your darkest thoughts"* — the shadow as entertainment-consumed
 - [[The Audience]] — *"they love it when you lose control"* — the audience consuming the performer's dissolution

@@ -21,7 +21,7 @@ Type: Concept / Symbol
 
 ## Description
 
-The Voice / Silence dialectic is one of the project's central dramatic tensions: the authentic voice trying to speak against the systemic forces that silence, suppress, or co-opt it. In [[Welcome to the Circus]], three forms of voice-failure appear in rapid succession: *"My teeth are falling out my mouth / I'm screaming, but no words come out"* (internal collapse of the speech apparatus) and *"step right up, shut your mouth"* (external silencing command). The voice is failing from inside and being suppressed from outside simultaneously.
+The Voice / Silence dialectic is one of the project's central dramatic tensions: the authentic voice trying to speak against the systemic forces that silence, suppress, or co-opt it. In [[Brain/Songs/Welcome to the Circus]], three forms of voice-failure appear in rapid succession: *"My teeth are falling out my mouth / I'm screaming, but no words come out"* (internal collapse of the speech apparatus) and *"step right up, shut your mouth"* (external silencing command). The voice is failing from inside and being suppressed from outside simultaneously.
 
 The resolution of this tension — the reappearance of authentic voice — is the arc the project works toward. The Song of Love ([[SOL]]) may be what the voice sounds like when neither failure mode is operating.
 
@@ -29,9 +29,9 @@ The resolution of this tension — the reappearance of authentic voice — is th
 
 ## In the Project
 
-- [[Welcome to the Circus]] — triple voice-failure: teeth out, silent scream, commanded silence
-- [[Lucius Lullaby]] — the origin song; Roy's voice at its most vulnerable, sung into a MacBook microphone in desperation at thirty-five; the voice before the Circus optimized it
-- [[Ballerina Boy]] — the voice the Circus cannot metabolize; the most vulnerable Roy; reportedly his lowest-performing song and therefore the one the Algorithm suppresses
+- [[Brain/Songs/Welcome to the Circus]] — triple voice-failure: teeth out, silent scream, commanded silence
+- [[Brain/Songs/Lucius Lullaby]] — the origin song; Roy's voice at its most vulnerable, sung into a MacBook microphone in desperation at thirty-five; the voice before the Circus optimized it
+- [[Essays/Concepts/Songs/Ballerina Boy]] — the voice the Circus cannot metabolize; the most vulnerable Roy; reportedly his lowest-performing song and therefore the one the Algorithm suppresses
 - [[SOL]] — the Song of Love; possibly the voice fully integrated; the song Lucius cannot absorb
 - [[Happy Face]] — *"say you're good, say you're fine"* — the instructed voice, authentic speech suppressed
 - [[I Like to Party]] — the mouth stuffed with cake from outside; the voice physically prevented from forming
@@ -70,7 +70,7 @@ The project seems to be moving toward *chosen silence* (the voice that speaks wh
 
 - [[The Mouth]] — the voice and the mouth are the same cluster; these two concept pages may eventually merge
 - [[The Algorithm]] — the Algorithm silences the vulnerable voice (Ballerina Boy suppressed) while amplifying the Circus voice (WTTC rewarded)
-- [[Ballerina Boy]] — the suppressed voice par excellence in this project
+- [[Essays/Concepts/Songs/Ballerina Boy]] — the suppressed voice par excellence in this project
 - [[SOL]] — the integrated voice; what happens when neither suppression mode is operating
 - [[Roy]] — the voice trying to speak beneath the Lucius overlay
 - [[Sir Lucius]] — the voice that speaks loudly and drowns out
@@ -83,7 +83,7 @@ The project seems to be moving toward *chosen silence* (the voice that speaks wh
 - [ ] Is Roy's authentic voice recoverable after the Lucius-overlay? Or has the Circus-voice become the only voice available?
 - [ ] *"Nonsense is the only sense that makes sense"* — Roy's public writing philosophy suggests the authentic voice arrives *before* conscious control can suppress it. Is this the way back to the voice — not through the controlled mouth but through the pre-conscious one?
 - [ ] If the vowels are the angels and the consonants are the angles — and the voice is the meeting of vowel and consonant — then *"teeth falling out"* (angles gone) and *"screaming with no words"* (angles gone) both describe a voice of pure vowel, pure spirit with no structure. Is this a failure state, or is it the voice at its most raw?
-- [ ] Is [[Ballerina Boy]] the answer? The voice that can't perform for the algorithm but might be the most authentic in the catalogue?
+- [ ] Is [[Essays/Concepts/Songs/Ballerina Boy]] the answer? The voice that can't perform for the algorithm but might be the most authentic in the catalogue?
 
 ---
 

@@ -42,10 +42,10 @@ Early-COVID-era Q&A. Substantive on Roy's process, philosophy, and per-song fram
 
 ### Per-song quotes (HIGH-VALUE)
 
-**On [[Loser]]:**
+**On [[Essays/Concepts/Songs/Loser]]:**
 > "We're all losers, and we're all also brilliant, beautiful souls."
 
-(This is the canonical "stardust / brilliant beautiful souls" line, sourced from this 2020 interview — citable for the [[Loser]] Brain page.)
+(This is the canonical "stardust / brilliant beautiful souls" line, sourced from this 2020 interview — citable for the [[Essays/Concepts/Songs/Loser]] Brain page.)
 
 **On [[Shine]]:**
 > "Be a light in your own world. Everyone can be a giant sun and shine."

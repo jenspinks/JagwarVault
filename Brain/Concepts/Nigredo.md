@@ -28,7 +28,7 @@ The Circus is not nigredo itself — it is the *prevention* of nigredo completin
 | Event | Nature |
 |---|---|
 | **Age 7 — the burial** | The dancing child exiled; the self goes underground; Ballerina Boy buried |
-| **Age 35 — the collapse** | Rock bottom; major label dropped; breakup; friend lost; wrote [[Lucius Lullaby]] from childhood bedroom |
+| **Age 35 — the collapse** | Rock bottom; major label dropped; breakup; friend lost; wrote [[Brain/Songs/Lucius Lullaby]] from childhood bedroom |
 | **Lucius as externalized nigredo** | The split-off shadow personality; distorted light operating as darkness; prima materia given a name and face |
 
 ## The Circus as Perpetual Nigredo
@@ -37,14 +37,14 @@ The Circus is not nigredo itself — it is the *prevention* of nigredo completin
 
 ## Movement Toward Albedo
 
-[[Weirdness]] is the first solar movement after a long lunar passage — the moment the split-off light is recognized and named (none — lyric). Not Rubedo, not even Citrinitas — but nigredo lifting, the first orientation toward Tiferet. [[SOL]] may be what follows if the process completes.
+[[Essays/Concepts/Songs/Weirdness]] is the first solar movement after a long lunar passage — the moment the split-off light is recognized and named (none — lyric). Not Rubedo, not even Citrinitas — but nigredo lifting, the first orientation toward Tiferet. [[SOL]] may be what follows if the process completes.
 
 ## Connections
 
 - [[Sir Lucius]] — Lucius as the nigredo externalized; the blackened prima materia given voice
-- [[Ballerina Boy]] — the burial at seven; the first nigredo event witnessed
+- [[Essays/Concepts/Songs/Ballerina Boy]] — the burial at seven; the first nigredo event witnessed
 - [[The Circus]] — perpetual nigredo; dissolution without transmutation
-- [[Weirdness]] — first solar movement; albedo beginning
+- [[Essays/Concepts/Songs/Weirdness]] — first solar movement; albedo beginning
 - [[SOL]] — possible rubedo; the completed transmutation (if reached)
 - [[Roy]] — the alchemical subject; the one undergoing the work
 

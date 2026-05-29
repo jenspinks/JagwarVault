@@ -69,8 +69,8 @@ The dark/light duality is **2019 vocabulary in Roy's own voice**, not a retrospe
 - [[Sir Lucius]] — the mind-pole; the split-off intellectual/defensive structure
 - [[The Angle/Angel]] — consonant/vowel axis; duality in Roy's compositional framework
 - [[The Mirror]] — the physical and symbolic instrument of duality
-- [[The Circle]] / [[Welcome to the Circus]] — same shape, two orientations; duality at structural scale
-- [[Weirdness]] — pronoun shift (*your*→*my*) as the duality becoming integrated grammar
+- [[The Circle]] / [[Brain/Songs/Welcome to the Circus]] — same shape, two orientations; duality at structural scale
+- [[Essays/Concepts/Songs/Weirdness]] — pronoun shift (*your*→*my*) as the duality becoming integrated grammar
 
 ## Open Questions
 

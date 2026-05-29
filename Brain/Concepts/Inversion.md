@@ -41,7 +41,7 @@ The key move: **the surface of an inverted system looks identical to the origina
 
 ## In the Project
 
-- [[Welcome to the Circus]] — *"Everything's upside down"* / *"spinning you 'round and 'round"* — the vertigo of the inverted world
+- [[Brain/Songs/Welcome to the Circus]] — *"Everything's upside down"* / *"spinning you 'round and 'round"* — the vertigo of the inverted world
 - [[The Circus]] — the Circle inverted; same motion, opposite direction and outcome
 - [[The Light-Bearer]] — Lucifer as the inverted light; light that disorients rather than illuminates
 - [[The Mouth]] — the anti-Eucharist (*"I'll chew you up, spit you out"*); *"step right up"* as the anti-*"come unto me"*
@@ -52,7 +52,7 @@ The key move: **the surface of an inverted system looks identical to the origina
 
 ## The Christ-Mirror as Inversion
 
-This deserves special attention. In [[Welcome to the Circus]], Lucius uses the *form* of Christ's speech acts with opposite content:
+This deserves special attention. In [[Brain/Songs/Welcome to the Circus]], Lucius uses the *form* of Christ's speech acts with opposite content:
 
 | Christ's move | Lucius's inverted form |
 |---|---|

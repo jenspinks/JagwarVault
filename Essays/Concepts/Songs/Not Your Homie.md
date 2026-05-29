@@ -27,7 +27,7 @@ related: [CHAR-SirLucius, CONCEPT-TheLaborsOfHercules, SONG-WelcomeToTheCircus, 
 - **The nursery-rhyme spine:** *"ringing rosies, my pocket's full of posies … Ashes, ashes, we all fall down"* ("Ring a Ring o' Roses").
 - **The bargain — confirmed verbatim.** In **The Interview EP2, "The Rise of sir lucius"** (Oct 1, 2025; Jagwar Twin YouTube — [[Master Source List]] §2), Roy brings *"my favorite song I've ever written… The Song of Love"* (= [[SOL]]) and sings it; Lucius cuts it off — *"STOP!!! No one wants this love stuff. Your label doesn't want to put this out"* — plays **not your homie** instead, and the exchange runs *"this is what the people want" / "it doesn't mean anything" / "exactly. It's nonsense. It's all nonsense,"* ending on Roy's concession *"Fine, I'll give you this one."* (Transcribed from the public episode.) So the song refused for NYH **is SOL** — and SOL is overridden a *second* time, for *Welcome to the Circus*, in EP3.
 - **El Roi — confirmed.** Lucius wears **Hebrew on his neck reading "El Roi"** ("the God who sees me," Genesis 16) — established by Jen's transcript note and a head-tilted video still (the stylized Hebrew reads ~"X73X" to a non-Hebrew eye). The Da'at reading below is now anchored, not speculative.
-- **Still pending** (now narrow): the Ballerina-Boy *moon* line is confirmed a female voice (see [[Ballerina Boy]]); the only loose visual claim left here is Lucius's habitual *camera-glances*; in-video timestamps for the EP dialogue would be the final polish.
+- **Still pending** (now narrow): the Ballerina-Boy *moon* line is confirmed a female voice (see [[Essays/Concepts/Songs/Ballerina Boy]]); the only loose visual claim left here is Lucius's habitual *camera-glances*; in-video timestamps for the EP dialogue would be the final polish.
 
 ## The Bargain — SOL Refused *(confirmed, The Interview EP2)*
 
@@ -67,7 +67,7 @@ The most repeated line works on two depths at once. On the surface: an attack on
 The deliberate inversion of [[The Mask|Happy Face]]: mandated cheerfulness flipped into menace; *"everything's upside down"* is WTTC's disorientation. (See [[Inversion]].)
 
 ### Infantilization as diagnosis; the child in the villain costume
-The playground rhymes, taunts, and cartoon violence are **Lucius's method**, of a piece with the carnival/nursery/Oompa-Loompa register he works in ([[Welcome to the Circus]], [[Bad Feeling (Oompa Loompa)]]). The wager: modern culture is itself psychologically regressed — dopamine-driven, algorithmically conditioned. The [[The Circus|Circus]] is a model of the internet, and the song is a hyper-compressed viral identity-object built to win that game — in a sense, *bait.*
+The playground rhymes, taunts, and cartoon violence are **Lucius's method**, of a piece with the carnival/nursery/Oompa-Loompa register he works in ([[Essays/Concepts/Songs/Welcome to the Circus]], [[Bad Feeling (Oompa Loompa)]]). The wager: modern culture is itself psychologically regressed — dopamine-driven, algorithmically conditioned. The [[The Circus|Circus]] is a model of the internet, and the song is a hyper-compressed viral identity-object built to win that game — in a sense, *bait.*
 
 And the register cuts back on its speaker. Across the visual lore Lucius often behaves less like a sovereign than like **a child performing sovereignty** — eating the apple loudly, *"you're very odd,"* glancing at the camera, performative toughness, visible relief when Roy agrees, posturing around Leif *(EP beats to cite)*. These are compensatory gestures: someone trying to become *enormous enough never to feel powerless again.* That is textbook protector-self formation around early pain — and it means the operation can be entirely real while the psychology underneath stays wounded and childlike.
 
@@ -104,7 +104,7 @@ A tight irony falls out *[W]*: Lucius wears *"the God who sees me"* on the very 
 
 ## The Beast — Integration, Not Destruction
 
-The line says *tame*, never *kill.* In Jung, alchemy, Hermeticism, and the project's own grammar, the Beast is instinct, libido, vitality, survival-force — and **Lucius is that Beast refined into strategy**: Roy's anger, ambition, humiliation, fear, charisma, performance-intelligence, organized into a working system. So the peril the song stages is not defeating Lucius but whether Roy will **serve** him instead of **integrating** him. The catalogue is consistent: wholeness is *heart + shadow*, not *heart instead of shadow*. Without shadow, spirit becomes weak dissociation; without heart, shadow becomes domination. Best read beside [[Welcome to the Circus]] (the lion *untamed*) and toward [[#1 Champion (la Conquistadora)]] (the archetype titled).
+The line says *tame*, never *kill.* In Jung, alchemy, Hermeticism, and the project's own grammar, the Beast is instinct, libido, vitality, survival-force — and **Lucius is that Beast refined into strategy**: Roy's anger, ambition, humiliation, fear, charisma, performance-intelligence, organized into a working system. So the peril the song stages is not defeating Lucius but whether Roy will **serve** him instead of **integrating** him. The catalogue is consistent: wholeness is *heart + shadow*, not *heart instead of shadow*. Without shadow, spirit becomes weak dissociation; without heart, shadow becomes domination. Best read beside [[Essays/Concepts/Songs/Welcome to the Circus]] (the lion *untamed*) and toward [[#1 Champion (la Conquistadora)]] (the archetype titled).
 
 ## "Don't Sacrifice What You Can Feel" — the Father's Diagnostic
 
@@ -127,8 +127,8 @@ Probably *yes, no, and neither.* One part of him wants recognition, relief from 
 ## Open Questions
 
 - [x] **Bargain scene + verbatim dialogue — CONFIRMED** (transcript of public EP2): SOL refused; *"this is what the people want / it doesn't mean anything / exactly, it's nonsense, it's all nonsense"*; Roy's concession *"I'll give you this one"* is **verbatim**, not a paraphrase. Final polish only: an in-video timestamp.
-- [x] **Which sincere song is refused — RESOLVED: [[SOL]] ("The Song of Love"), in EP2** (and overridden again for [[Welcome to the Circus]] in EP3 — two override beats).
-- [x] **Ballerina-Boy moon line — CONFIRMED a female voice.** The whole BB outro, including the moon line, is an older motherly female voice (Jen, audio) — see [[Ballerina Boy]] / [[Mary]].
+- [x] **Which sincere song is refused — RESOLVED: [[SOL]] ("The Song of Love"), in EP2** (and overridden again for [[Essays/Concepts/Songs/Welcome to the Circus]] in EP3 — two override beats).
+- [x] **Ballerina-Boy moon line — CONFIRMED a female voice.** The whole BB outro, including the moon line, is an older motherly female voice (Jen, audio) — see [[Essays/Concepts/Songs/Ballerina Boy]] / [[Mary]].
 - [x] **El Roi placement — CONFIRMED:** Hebrew on Lucius's neck reading "El Roi" (transcript note + video still). The Da'at reading is anchored.
 - [~] **EP "child" beats** — mostly grounded: apple-eating + *"you're very strange"* in EP4; **Leif** introduced EP5 and speaking EP6 (*"Boss, I got this"*). The habitual *camera-glances* remain a loose visual claim.
 - [ ] Does MERCY sing a distinct *lead* section (vs. backing only)? — audio.
@@ -149,12 +149,12 @@ The honest position: with the visual-lore frame, the Lucius-triumph / shadow-dem
 | Song / Source | Relationship |
 | --- | --- |
 | [[SOL]] | The Song of Love this bargain *refuses*; the Father's "half the man" diagnostic; the feeling that gets traded. |
-| [[Welcome to the Circus]] | Chain-sibling. NYH = trial *named* / feeling *sacrificed*; WTTC = lion *untamed*. Shared strategic-spectacle thesis. |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | Chain-sibling. NYH = trial *named* / feeling *sacrificed*; WTTC = lion *untamed*. Shared strategic-spectacle thesis. |
 | [[LOOP]] | The loop Lucius accuses Roy of; carries *"my mind must serve my heart."* |
 | [[The Labors of Hercules]] | "Tame the beast / champion" — strongest public anchor; integration-not-destruction. |
 | [[#1 Champion (la Conquistadora)]] | The crown Lucius resells here is revoked there by Mary / La Conquistadora. |
 | [[The Thread]] | "Don't sacrifice what you can feel" — the feeling NYH trades away. |
-| [[Ballerina Boy]] | The underperforming sincerity Lucius cites; the moon-line source. |
+| [[Essays/Concepts/Songs/Ballerina Boy]] | The underperforming sincerity Lucius cites; the moon-line source. |
 | [[Sir Lucius]] | Voicing; Beast refined into strategy; Yesod/moon; El Roi; the mirror-flip. |
 | [[Happy Face]] / [[The Mask]] / [[Inversion]] | The inverted smile; one of the masks stripped. |
 | [[Bad Feeling (Oompa Loompa)]] | Shared infantilized/carnival register as method. |
@@ -164,7 +164,7 @@ The honest position: with the visual-lore frame, the Lucius-triumph / shadow-dem
 ### Song & Official Release
 - "Not Your Homie" — Jagwar Twin, MERCY, Sir Lucius; on *Lucius Lullaby* (2026). Pre-album single, **released October 31, 2025**.
 - **Credits** (verified 2026-05-26 via [Qobuz](https://www.qobuz.com/us-en/album/not-your-homie-jagwar-twin-mercy-sir-lucius/asgdylzf6a8pa), corroborated by Apple Music / Shazam): writers Roy English, Mercedes Colletta Britton, Dave Burris; producers Jagwar Twin + Dave Burris; mix/vocal-prod Roy English; mastering Dale Becker, Noah McCorkle. "Mercy" (Mercedes Colletta Britton) credited Vocalist/Main Artist/Background Vocalist.
-- Lyrics: [[Not Your Homie]] (Sources/Lyrics) — from AZLyrics, pending official cross-check.
+- Lyrics: [[Essays/Concepts/Songs/Not Your Homie]] (Sources/Lyrics) — from AZLyrics, pending official cross-check.
 
 ### Visual Lore Series (Jagwar Twin YouTube channel)
 - *The Interview* **EP2, "The Rise of sir lucius"** (Oct 1, 2025) — the bargain scene, verbatim (SOL refused; "it's nonsense"; "I'll give you this one"). **EP3** (Jan 5, 2026) — SOL overridden again for WTTC; the Ballerina-Boy mockery ("lowest performing… vulnerable you LOSE"); "the algorithm baby." Full episode map, verified beats + URLs in [[Master Source List]] §2. Dialogue transcribed from the public episodes (working transcript = Jen's Doc; cite the episodes per [[Boundaries]]). Final polish: in-video timestamps.

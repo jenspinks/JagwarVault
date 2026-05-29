@@ -11,7 +11,7 @@ related: [SONG-Loser, ALBUM-SubjectToFlooding, CONCEPT-TheProtector, CONCEPT-Fla
 
 Track 3 on Jagwar Twin's debut album, *Subject to Flooding* (2018). Composer (verified Apple Music): **Matthew Pauling & Roy English**. Released as a single in 2018; later released again as a standalone single 2019-09-13 (per MusicBrainz). One of the project's earliest breakthrough tracks.
 
-Positioned directly after [[Dream - Dream]], the song represents a critical shift in the catalogue's emotional architecture. If *Dream / Dream* frames awakening as collective possibility and upward movement, **Loser introduces the psychological cost of perceiving oneself outside the system** — the external critique of society begins collapsing inward into self-diagnosis.
+Positioned directly after [[Essays/Concepts/Songs/Dream - Dream]], the song represents a critical shift in the catalogue's emotional architecture. If *Dream / Dream* frames awakening as collective possibility and upward movement, **Loser introduces the psychological cost of perceiving oneself outside the system** — the external critique of society begins collapsing inward into self-diagnosis.
 
 Retrospectively, the song occupies a foundational place in the formation of **The Protector** [W] (`CONCEPT-TheProtector`). The speaker has not yet externalized [[Sir Lucius]] as a theatrical figure, but the adaptive logic that later generates him is already emerging psychologically.
 
@@ -46,7 +46,7 @@ Retrospectively, the song occupies a foundational place in the formation of **Th
 
 ### 1. Shame before the mask
 
-Loser occupies a critical **pre-mask** position in the catalogue [W]. Unlike later works such as [[Happy Face]] or [[Welcome to the Circus]], the speaker has not yet constructed a sophisticated performative identity capable of metabolizing alienation into spectacle. The wound remains emotionally exposed:
+Loser occupies a critical **pre-mask** position in the catalogue [W]. Unlike later works such as [[Happy Face]] or [[Essays/Concepts/Songs/Welcome to the Circus]], the speaker has not yet constructed a sophisticated performative identity capable of metabolizing alienation into spectacle. The wound remains emotionally exposed:
 
 > *"Maybe I'm bad in my brain."*
 
@@ -101,7 +101,7 @@ The song's solar imagery remains psychologically constrained:
 
 The light **never leaves the interior mental space.** This is not yet embodied solar integration, relational warmth, reconciled wholeness, or stable Tiferet consciousness. It is **internal refuge** [W].
 
-The sunshine functions less like emergence and more like **emotional bunker-light**: a protected internal glow preserved against an external world perceived as insane. This distinction matters enormously for the broader arc. Later works such as [[Weirdness]] move toward actual *albedo emergence*, where light begins safely re-entering relationship and embodiment. **Loser remains in survival mode. The brightness exists because the darkness already has.**
+The sunshine functions less like emergence and more like **emotional bunker-light**: a protected internal glow preserved against an external world perceived as insane. This distinction matters enormously for the broader arc. Later works such as [[Essays/Concepts/Songs/Weirdness]] move toward actual *albedo emergence*, where light begins safely re-entering relationship and embodiment. **Loser remains in survival mode. The brightness exists because the darkness already has.**
 
 (This is the single largest correction the Loser reading needed: do not confuse brightness with emergence.)
 
@@ -113,7 +113,7 @@ Loser belongs to an early catalogue stage where awakening is still framed primar
 
 The speaker still believes that *recognizing* societal insanity might be enough to *escape* it [W]. The problem appears external: television, sameness, cultural hypnosis, collective madness.
 
-Later works radically complicate this premise. The catalogue eventually reveals that awakening alone changes nothing if the **internal architecture** remains fragmented [W]. By the time of [[Lucius Lullaby]] and the theatrical interviews, the speaker recognizes: the system is partially internal, the oppressor has become psychological, survival itself generated adaptive distortions.
+Later works radically complicate this premise. The catalogue eventually reveals that awakening alone changes nothing if the **internal architecture** remains fragmented [W]. By the time of [[Essays/Concepts/Songs/Lucius Lullaby]] and the theatrical interviews, the speaker recognizes: the system is partially internal, the oppressor has become psychological, survival itself generated adaptive distortions.
 
 Loser therefore occupies a tragic retrospective position: **the speaker has awakened to the system — but not yet to the internal mechanisms built to survive it.**
 
@@ -168,11 +168,11 @@ The refrain *"I'm a loser, baby, just like you"* therefore becomes a strange for
 
 | Song / Source | Relationship |
 |---|---|
-| [[Dream - Dream]] | Early-stage awakening doctrine before the internal architecture of protection and fragmentation becomes visible [W] |
+| [[Essays/Concepts/Songs/Dream - Dream]] | Early-stage awakening doctrine before the internal architecture of protection and fragmentation becomes visible [W] |
 | [[Superhuman]] | Evolves the survival impulse into disciplined defensive mobilization and endurance architecture [W] |
 | [[Happy Face]] | The perfected commercial mask — Loser exposes the wound directly; Happy Face optimizes and conceals it |
-| [[Welcome to the Circus]] | The eventual capture and monetization of survival-performance loops by spectacle systems [W] |
-| [[Lucius Lullaby]] | Reveals the long-term psychological consequences of survival architecture calcifying into identity [W] |
+| [[Essays/Concepts/Songs/Welcome to the Circus]] | The eventual capture and monetization of survival-performance loops by spectacle systems [W] |
+| [[Essays/Concepts/Songs/Lucius Lullaby]] | Reveals the long-term psychological consequences of survival architecture calcifying into identity [W] |
 | `CONCEPT-TheProtector` | The proto-Protector emerges here as anticipatory shame-neutralization |
 | [[Machine vs Human]] | Earliest seed: the "Television on your frame" diagnosis of mediated/flattened consciousness |
 | [[Subject to Flooding (album)]] | Jericho-collapse imagery parallels the album's Flood frame — extinction-event biblical anchor |

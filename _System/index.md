@@ -42,10 +42,10 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 - `Brain/Roy Voice/` — **NEW (2026-05-28):** authorial-voice index — thematic aggregation of Roy's public statements, designed for context-loading during song analysis. See [[Brain/Roy Voice/README]]. Sources/Transcripts/ holds verbatim per-interview excerpts; Brain/Roy Voice/ holds the by-theme aggregation. Registered in [[Master Source List]] §11 (27 interviews queued for ingestion). **Updated 2026-05-29:** The Mirror Sessions aggregated in; new page [[Roy on the Heart-Mind Split]] added (Roy equates the rational mind with the Lucifer archetype — grounds [[Sir Lucius]] = the mind).
 
 **Essays/** (human creative project → fan site; verbose, tiered prose)
-- `Essays/Songs/` — **12:** [[Welcome to the Circus]] · [[Lucius Lullaby]] · [[Ballerina Boy]] · [[Not Your Homie]] · [[Weirdness]] (pre-session) + [[Long Time Coming]] · [[Dream - Dream]] · [[Superhuman (Interlude)]] · [[Loser]] · [[Good Day]] · [[No Fake Friends]] · [[Hell of a Night Pt. 2 (The Hallelujah Stickup)]] (this session)
+- `Essays/Songs/` — **12:** [[Brain/Songs/Welcome to the Circus]] · [[Brain/Songs/Lucius Lullaby]] · [[Essays/Concepts/Songs/Ballerina Boy]] · [[Essays/Concepts/Songs/Not Your Homie]] · [[Essays/Concepts/Songs/Weirdness]] (pre-session) + [[Essays/Concepts/Songs/Long Time Coming]] · [[Essays/Concepts/Songs/Dream - Dream]] · [[Essays/Concepts/Songs/Superhuman (Interlude)]] · [[Essays/Concepts/Songs/Loser]] · [[Essays/Concepts/Songs/Good Day]] · [[Essays/Concepts/Songs/No Fake Friends]] · [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)]] (this session)
 - `Essays/Characters/` — [[Roy]] ✦ · [[Sir Lucius]] ✦
 - `Essays/Concepts/` — [[The Labors of Hercules]] ✦ · [[The Dweller on the Threshold]] ✦
-- `Essays/Arcs/` — [[Lucius Lullaby]] (album arc) ✦ · [[Machine vs Human]] ✦ (**new 2026-05-28**)
+- `Essays/Arcs/` — [[Brain/Songs/Lucius Lullaby]] (album arc) ✦ · [[Machine vs Human]] ✦ (**new 2026-05-28**)
 - `Essays/_drafts/` — empty
 
 ---
@@ -85,30 +85,30 @@ The Circle · The Mirror · The Moon · Yesod · Malkhut · Tiferet · The Empty
 Symbols/themes that route a reader into the work. Sourced from Essays
 `entry_points` frontmatter; grows as Essays are written.
 
-- **circus / spectacle** → [[Welcome to the Circus]]
-- **inversion / upside-down** → [[Welcome to the Circus]]
-- **consumption / chew you up** → [[Welcome to the Circus]]
-- **labyrinth / no exit** → [[Welcome to the Circus]]
-- **the final boss** → [[Welcome to the Circus]] · [[Sir Lucius]]
-- **the deal** → [[Lucius Lullaby]] · [[Roy]]
+- **circus / spectacle** → [[Brain/Songs/Welcome to the Circus]]
+- **inversion / upside-down** → [[Brain/Songs/Welcome to the Circus]]
+- **consumption / chew you up** → [[Brain/Songs/Welcome to the Circus]]
+- **labyrinth / no exit** → [[Brain/Songs/Welcome to the Circus]]
+- **the final boss** → [[Brain/Songs/Welcome to the Circus]] · [[Sir Lucius]]
+- **the deal** → [[Brain/Songs/Lucius Lullaby]] · [[Roy]]
 - **the mirror / Rorrim Ehtni** → [[Sir Lucius]] · [[The Dweller on the Threshold]]
 - **the dweller / shadow / threshold** → [[The Dweller on the Threshold]] · [[Sir Lucius]]
 - **three modes / the boss** → [[Sir Lucius]]
-- **el-roy / ballerina boy** → [[Roy]] · [[Ballerina Boy]]
+- **el-roy / ballerina boy** → [[Roy]] · [[Essays/Concepts/Songs/Ballerina Boy]]
 - **mind serve heart** → [[Roy]]
 - **hercules / the beast / leo / champion / bailey** → [[The Labors of Hercules]]
-- **descent and return / malkhut / sol** → [[Lucius Lullaby]] (arc) · [[Lucius Lullaby]] (song)
-- **childhood bedroom** → [[Lucius Lullaby]]
+- **descent and return / malkhut / sol** → [[Brain/Songs/Lucius Lullaby]] (arc) · [[Brain/Songs/Lucius Lullaby]] (song)
+- **childhood bedroom** → [[Brain/Songs/Lucius Lullaby]]
 - **machine vs human / the algorithm / digital age** → [[Machine vs Human]] · [[Online]]
 - **the flood / extinction event / subject to flooding** → [[Machine vs Human]] · [[Subject to Flooding (album)]]
-- **witnessing vs surveillance / el roi / counterfeit seeing** → [[Witnessing vs Surveillance]] · [[Not Your Homie]]
-- **the protector / proto-lucius / survival armor** → [[Loser]] · [[Good Day]] · [[No Fake Friends]] · [[Sir Lucius]]
-- **vibe-defense / shame-preemption / social filtration** → [[Loser]] · [[Good Day]] · [[No Fake Friends]]
-- **inherited substrate / interpolation / relay** → [[Dream - Dream]] (Mercer) · [[Superhuman (Interlude)]] (Chaplin) · [[Loser]] (Beck echo) · `CONCEPT-InheritedSubstrate`
-- **the clown / clown-before-the-circus** → [[Superhuman (Interlude)]] · [[Welcome to the Circus]]
-- **outlaw seizure / sacred-as-heist** → [[Hell of a Night Pt. 2 (The Hallelujah Stickup)]]
-- **stars flattened into sidewalks / hollywood walk of fame** → [[No Fake Friends]]
-- **the borrowed dream / dream-as-inherited** → [[Dream - Dream]] · [[Machine vs Human]]
+- **witnessing vs surveillance / el roi / counterfeit seeing** → [[Witnessing vs Surveillance]] · [[Essays/Concepts/Songs/Not Your Homie]]
+- **the protector / proto-lucius / survival armor** → [[Essays/Concepts/Songs/Loser]] · [[Essays/Concepts/Songs/Good Day]] · [[Essays/Concepts/Songs/No Fake Friends]] · [[Sir Lucius]]
+- **vibe-defense / shame-preemption / social filtration** → [[Essays/Concepts/Songs/Loser]] · [[Essays/Concepts/Songs/Good Day]] · [[Essays/Concepts/Songs/No Fake Friends]]
+- **inherited substrate / interpolation / relay** → [[Essays/Concepts/Songs/Dream - Dream]] (Mercer) · [[Essays/Concepts/Songs/Superhuman (Interlude)]] (Chaplin) · [[Essays/Concepts/Songs/Loser]] (Beck echo) · `CONCEPT-InheritedSubstrate`
+- **the clown / clown-before-the-circus** → [[Essays/Concepts/Songs/Superhuman (Interlude)]] · [[Brain/Songs/Welcome to the Circus]]
+- **outlaw seizure / sacred-as-heist** → [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)]]
+- **stars flattened into sidewalks / hollywood walk of fame** → [[Essays/Concepts/Songs/No Fake Friends]]
+- **the borrowed dream / dream-as-inherited** → [[Essays/Concepts/Songs/Dream - Dream]] · [[Machine vs Human]]
 
 ---
 
@@ -121,7 +121,7 @@ Symbols/themes that route a reader into the work. Sourced from Essays
 - **Active analytical thread:** [[Machine vs Human]] arc + [[Witnessing vs Surveillance]] doctrine + the Protector triad. Strong cross-track linkages now in place (Good Day ↔ Not Your Homie via "vibe"; Loser/Good Day/N.F.F. as STF Protector triad; Dream/Dream/Superhuman-Interlude/Loser as the album's three-register inherited-substrate practice).
 - **Next STF priorities** (verify-then-build loop continuing): Superhuman (scroll-down + Details pending), Move To You, Roy Voice Memo, Hell of a Night (Pt. 1), Precious Time, Shine.
 - **Next catalogue priorities** (deferred until STF complete, per Jen): the *33* album — Online has its Brain page (built as the Machine vs Human pivot); Pay Attention is the obvious next anchor; the rest of 33 is uncatalogued.
-- **Standing open questions** (composer): identity of *"Essex"* on [[Good Day]] (possible interpolation source); Apple Details composer for N.F.F. (Spotify Credits shows three writers; Apple Details unknown). The Loser bridge "I think the world's gone insane" is **resolved as audible** via Spotify (Apple omitted).
+- **Standing open questions** (composer): identity of *"Essex"* on [[Essays/Concepts/Songs/Good Day]] (possible interpolation source); Apple Details composer for N.F.F. (Spotify Credits shows three writers; Apple Details unknown). The Loser bridge "I think the world's gone insane" is **resolved as audible** via Spotify (Apple omitted).
 
 ---
 

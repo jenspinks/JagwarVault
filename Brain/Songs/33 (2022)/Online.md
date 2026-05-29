@@ -35,8 +35,8 @@ Track 1, [[33 (album)]] (2022, Big Loud Rock). **Lyrics: Google Drive doc (`stat
 
 ## Position in the arc — the pivot
 [W] **Online is the bridge from *Subject to Flooding* optimism to *Lucius Lullaby* recursive awareness:**
-- [[Dream - Dream]] — escape is straightforward.
-- [[Long Time Coming]] — diagnoses the mask.
+- [[Essays/Concepts/Songs/Dream - Dream]] — escape is straightforward.
+- [[Essays/Concepts/Songs/Long Time Coming]] — diagnoses the mask.
 - [[Superhuman]] — still trusts collective activation.
 - **Online — already knows the architecture is recursive.** It names the web and stays in it.
 
