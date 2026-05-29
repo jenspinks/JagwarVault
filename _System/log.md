@@ -14,6 +14,12 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-05-29] note — CLAUDE.md: Essays path corrected; Google Docs citation-by-proxy convention expanded
+
+Two [[CLAUDE]] edits. (1) **VAULT LAYERS** corrected: song essays are documented at `Essays/Concepts/Songs/` (the former top-level `Essays/Songs/` was retired in the 2026-05-28 restructure and removed from disk). (2) **SOURCE ATTRIBUTION** expanded into an explicit *"sources are citable by proxy"* convention: Google Docs are the full-context ingestion layer, never the source of record. Some material (esp. video) requires consulting a doc that transcribes/describes the original, but the citation always points at the original — **video** → episode title + *The Mirror Sessions* / Jagwar Twin channel + `watch?v=` URL; **print interviews** (Atwood, HoneyPop, Cleveland/Greg D) → the publication/article (never videos; the doc is only an access proxy); **lyrics** → song/album + Genius/Spotify link. No content reinterpreted; doc-vs-source boundary clarified.
+
+---
+
 ## [2026-05-29] ingest — The Mirror Sessions (12 episodes) transcribed, aggregated, and registered
 
 Ingested all 12 cleaned, speaker-attributed episodes of **The Mirror Sessions** (Roy's own interview series) from two Jen-maintained Google Docs (working references, not citations — per [[Boundaries]]). Filed full cleaned transcripts at `Sources/Transcripts/MirrorSessions-*.md` (`status: draft` pending listen-through of flagged attribution calls). **Resolved the long-standing open thread** ("does the series name come from the mirror-doctrine, and when did it begin?"): yes — Roy restates the *be-a-mirror / get-out-of-the-way* premise across ≥4 episodes and names the metaverse "the Hall of Mirrors" inside a Mirror Session; **series start = 2022-11-30** (Calum Hood "Comfortable in Silence," episode 1).

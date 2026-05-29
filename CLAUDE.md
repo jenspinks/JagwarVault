@@ -86,7 +86,9 @@ Style: terse, highly crosslinked, ontology-first, controlled vocabulary. No lite
 ### Essays/
 Long-form literary and symbolic analysis. Verbose, exploratory, emotionally engaged, written for a human reader. Full lyrics embedded by transclusion: `![[Sources/Lyrics/SongName]]`.
 
-`Essays/Songs/` `Essays/Concepts/` `Essays/Characters/` `Essays/Arcs/` `Essays/_drafts/`
+`Essays/Concepts/Songs/` `Essays/Concepts/` `Essays/Characters/` `Essays/Arcs/` `Essays/_drafts/`
+
+(Song essays live under `Essays/Concepts/Songs/`. The former top-level `Essays/Songs/` folder was retired in the 2026-05-28 restructure.)
 
 **Do not manufacture essays.** An Essay is written when real analysis exists. Scaffolds stay in Brain until there is something to say.
 
@@ -368,7 +370,15 @@ The single public exception: *"the song hidden inside its wings"* is a public Tw
 
 ## SOURCE ATTRIBUTION
 
-Google Docs are reference libraries, **not citations** — always cite the underlying public source.
+**Citation convention — sources are citable by proxy.**
+
+Google Docs in this vault are **not the source of record**; they're the full-context ingestion layer for material that can't otherwise be reached directly. Always cite the actual underlying source, never the Google Doc itself. For some material (notably video) you will have to *consult* a Google Doc that transcribes or describes the original — but the citation still points at that original, not the doc:
+
+- **Video** (Mirror Sessions, on-camera interviews): episode title + *The Mirror Sessions* / Jagwar Twin channel + the `watch?v=` URL preserved in the doc.
+- **Print interviews** (Atwood, HoneyPop, Cleveland / Greg D, etc.): the publication / article — these were never videos; the doc is only the access proxy.
+- **Lyrics**: the song / album, with the Genius or Spotify link where given.
+
+The doc gets you the content; the underlying source gets the citation.
 
 | Material | Cite as |
 |---|---|
