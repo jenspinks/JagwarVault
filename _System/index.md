@@ -32,14 +32,14 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 **Sources/** (external evidence, immutable)
 - `Sources/Lyrics/` — 47 files (all catalogue songs ingested); 6 verified-stable (Long Time Coming, Dream / Dream, Superhuman Interlude, Loser, Good Day, No Fake Friends, Hell Pt. 2 + Welcome to the Circus); rest `status: draft` pending streaming verification
 - `Sources/Credits/` — **NEW (2026-05-28):** [[Sources/Credits/Subject to Flooding|Subject to Flooding]] composer-credit record (per-track Apple/Spotify verified)
-- `Sources/Transcripts/` · `Sources/Quotes/` — empty, pending ingestion
+- `Sources/Transcripts/` — **NEW (2026-05-29):** 12 **The Mirror Sessions** episodes ingested (`MirrorSessions-*.md`, full cleaned/attributed transcripts, `status: draft` pending listen-through). Registered in [[Master Source List]] §2; aggregated into Brain/Roy Voice. · `Sources/Quotes/` — empty, pending ingestion
 
 **Brain/** (machine semantic memory — terse, frontmatter, tiered connections)
 - `Brain/Songs/` — **47** files; 13 with full frontmatter (the 7 STF essay-filed + 6 from Lucius Lullaby / Singles area); rest scaffolds ◦
 - `Brain/Concepts/` — **22** files, **all with frontmatter ✦** (incl. new this session: [[Nigredo]], [[Duality]], [[Witnessing vs Surveillance]])
 - `Brain/Characters/` — 4 (Roy ✦, Sir Lucius ✦, Mary ◦, Jagwar Twin ◦)
 - `Brain/Albums/` — 3 (Lucius Lullaby ✦, 33 ◦, Subject to Flooding ◦ — substantially developed page; tracklist + composer credits + Flood frame)
-- `Brain/Roy Voice/` — **NEW (2026-05-28):** authorial-voice index — thematic aggregation of Roy's public statements, designed for context-loading during song analysis. See [[Brain/Roy Voice/README]]. Sources/Transcripts/ holds verbatim per-interview excerpts; Brain/Roy Voice/ holds the by-theme aggregation. Registered in [[Master Source List]] §11 (27 interviews queued for ingestion).
+- `Brain/Roy Voice/` — **NEW (2026-05-28):** authorial-voice index — thematic aggregation of Roy's public statements, designed for context-loading during song analysis. See [[Brain/Roy Voice/README]]. Sources/Transcripts/ holds verbatim per-interview excerpts; Brain/Roy Voice/ holds the by-theme aggregation. Registered in [[Master Source List]] §11 (27 interviews queued for ingestion). **Updated 2026-05-29:** The Mirror Sessions aggregated in; new page [[Roy on the Heart-Mind Split]] added (Roy equates the rational mind with the Lucifer archetype — grounds [[Sir Lucius]] = the mind).
 
 **Essays/** (human creative project → fan site; verbose, tiered prose)
 - `Essays/Songs/` — **12:** [[Welcome to the Circus]] · [[Lucius Lullaby]] · [[Ballerina Boy]] · [[Not Your Homie]] · [[Weirdness]] (pre-session) + [[Long Time Coming]] · [[Dream - Dream]] · [[Superhuman (Interlude)]] · [[Loser]] · [[Good Day]] · [[No Fake Friends]] · [[Hell of a Night Pt. 2 (The Hallelujah Stickup)]] (this session)

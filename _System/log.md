@@ -14,6 +14,16 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-05-29] ingest — The Mirror Sessions (12 episodes) transcribed, aggregated, and registered
+
+Ingested all 12 cleaned, speaker-attributed episodes of **The Mirror Sessions** (Roy's own interview series) from two Jen-maintained Google Docs (working references, not citations — per [[Boundaries]]). Filed full cleaned transcripts at `Sources/Transcripts/MirrorSessions-*.md` (`status: draft` pending listen-through of flagged attribution calls). **Resolved the long-standing open thread** ("does the series name come from the mirror-doctrine, and when did it begin?"): yes — Roy restates the *be-a-mirror / get-out-of-the-way* premise across ≥4 episodes and names the metaverse "the Hall of Mirrors" inside a Mirror Session; **series start = 2022-11-30** (Calum Hood "Comfortable in Silence," episode 1).
+
+Aggregated Roy's load-bearing statements into [[Roy on Mirrors & Collective Consciousness]], [[Roy on Process]], [[Roy on the cosmology (Manifesto)]], and [[Roy on Authenticity & Masks]]; created one new page, **[[Roy on the Heart-Mind Split]]** (≥6-quote cluster), anchored by the episode's most load-bearing beat — Roy, unprompted, equating **the rational mind with the Lucifer archetype** ([[MirrorSessions-S1-HearGodsVoice]]), which grounds the vault's [[Sir Lucius]] = the-mind reading. Other cornerstones surfaced: Roy naming the project *"a modern mythology approach"* with Mali-Koa confirming *"the Jaguar's twin mythology"* ([[MirrorSessions-MaliKoa-SoloToARCO]]); the Mercury/Hermes-as-higher-self Hermeticism beat; the chaos→order (gendered feminine) mechanism-of-art beat.
+
+Resolved 11 of 12 YouTube URLs (registered in [[Master Source List]] §2). **Follow-ups:** (1) episode 10 (AlmondMilkHunni "Overcoming Self-Doubt") URL unconfirmed — candidate `eDVg4xdk2GQ`, verify by ear; (2) several publish dates resolve only to year; (3) a separate **little luna** Mirror Session exists, not yet ingested; (4) the Bohnes "Power of Music" whale/tattoo/proposal/"Josephine" closing sequence has an unresolved speaker-attribution call (Roy vs. Bohnes) that determines whose biography it is — **must be confirmed by ear before any of it enters a character note.**
+
+---
+
 ## [2026-05-28] restructure — iCloud vault decommissioned; Claude Desktop MCP path corrected
 
 Discovered a second JagwarTwin vault on disk at `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/JagwarTwin` — the **pre-restructure** vault (Raw/Processed/Wiki layout, lowercase `Claude.md`, Karpathy three-layer schema). Claude Desktop's `obsidian` MCP server was pointed only at the iCloud copy, so a parallel chat session was operating on the stale vault while Code worked on the live one (`~/Vaults/JagwarTwin/`). Moved iCloud vault to iCloud Trash (recoverable ~30 days); rewrote `~/Library/Application Support/Claude/claude_desktop_config.json` so the `obsidian` MCP points only at the live vault. Backup: `claude_desktop_config.json.bak-2026-05-28`. Claude Desktop restart required.

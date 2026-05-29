@@ -27,6 +27,20 @@ Roy English's own statements about masks, performance, the misfit / outcast self
 
 - **[2024-07]** On Jagwar Twin name: *"That's a good question. I think it captures a bit of who I am at the core, playing in light and dark."* — [[Strife-2024-Bad-Feeling]]
 
+## 2023–2024 — *The Mirror Sessions* era
+
+### "Shy" as an imposed label that becomes shadow (the observer reframe)
+
+- **[~2023-2024]** *"I never felt shy until someone said it, and then I was like, 'Wait, I am shy,' and then you put that on as your identity, and it becomes part of your shadow. Or it can. But… a lot of times people who are labeled as shy are just incredibly aware and observant — you're paying attention, and that's a superpower."* — [[MirrorSessions-CalumHood-ObservantVsShy]]
+
+(**Roy names the Jungian shadow explicitly** and frames an externally-imposed label as a projection that becomes shadow-material — the same structure as the 2019 Knockturnal "bullies were projecting their insecurities" line above, now with the shadow mechanism stated. The "observing, not shy" reframe recurs across the Bohnes / S1 episodes; this is its sharpest statement. Connects mask/identity to [[The Dweller on the Threshold]] / shadow material.)
+
+### Identity is *who we are*, not *what we do* — and the "I AM"
+
+- **[~2023-2024]** *"that's the reason we're here, is to know who we are, not what we do. It's like, who am I, really?… that feeling of 'I am' that everybody has."* — [[MirrorSessions-CalumHood-ComfortableInSilence]]
+
+(The anti-performance / anti-mask move stated as a first principle — **be, don't perform a role**. Note the **"I AM"** language [Exodus 3:14 / Ehyeh register], which rhymes with the Manifesto's *"All I am is that I am"* — see [[Roy on the cosmology (Manifesto)]]. Mali-Koa's episode carries the same beat from Roy: *"letting go of the thing, because the thing is just guiding you to becoming you"* — [[MirrorSessions-MaliKoa-SoloToARCO]] — vocation as a vehicle for self-becoming, not an identity to wear.)
+
 ---
 
 ## Patterns visible in the corpus so far

@@ -51,6 +51,38 @@ Roy English's own statements about mirrors, the collective, the "we not me" fram
 
 (Mirror-doctrine now sourced **four times in Roy's own voice** across 2018 / 2020 / ~2023 / ~2024 — plus the Mayan-jaguar proto-mirror framing AND third-party reviewer adoption. The doctrine is robust, continuous, and pre-Hall-of-Mirrors-site. Promotes mirror-thread readings from `[W]` to grounded freely.)
 
+## 2023–2024 — *The Mirror Sessions* (Roy's own interview series)
+
+**This is where the open thread resolves: the folder/series name comes from the same mirror-doctrine.** Across the cleaned episodes Roy restates the series premise in his own voice — *get out of the way and let the other person see themselves* — and pairs it with the projection/mirror law and the collective-consciousness framing already documented above. Citable as BIOGRAPHICAL/authorial (artistic intent, philosophy), not lore. Episode URLs pending verification (`status: draft`).
+
+### The Mirror Sessions premise, in Roy's own words (clustered — the cleanest statements of the doctrine)
+
+- **[~2023-2024]** *"But the mirrors — because, like, I think that's one thing that I'm good at, is just sort of getting out of the way and having someone else see themselves."* — [[MirrorSessions-Bohnes-PowerOfMusic]]
+- **[~2023-2024]** *"part of what I'm supposed to do while I'm here, one of the things, is be a mirror for other people to, like, see themselves more… they are able to see themselves, and I'm able to see myself in a different light, through every interaction."* — [[MirrorSessions-CalumHood-ObservantVsShy]] (**the premise of the entire series, stated outright** when asked "why this?")
+- **[~2023-2024]** *"I want to… show human beings the reflection of themselves back to themselves. Because I know what it's like to be lost. I know what it's like to not know yourself and feel like you're alone."* — [[MirrorSessions-JeffEllis-MixingMastering]]
+- **[~2023-2024]** *"Every single thing externally is mirroring our internal world."* — [[MirrorSessions-ParisBerelc-Reiki]]
+
+(Four near-identical restatements of the get-out-of-the-way / reflection-back doctrine across four different conversations. **This grounds the Mirror Sessions series name as a direct extension of the mirror-doctrine** — answering the long-standing open thread in [[_System/index|index]] and on this page.)
+
+### Projection / mirror law (the perceive-only-what's-in-you principle)
+
+- **[~2023-2024]** *"you can only perceive something in someone else if you've already seen it in yourself, for positive or negative. You see something negative, it's in you; you see the positive, it's in you."* — [[MirrorSessions-CalumHood-ObservantVsShy]] (clearest single-sentence statement of the projection law across the corpus)
+- **[~2023-2024]** *"we're reflections, everyone's a reflection of each other."* — [[MirrorSessions-CalumHood-ComfortableInSilence]]
+- **[~2023-2024]** **World-as-mirror, at the largest scale**: *"everything negative that's happening, or bad, I know is a reflection of something that I have in me that's unhealed… how am I causing this in some internal way that I'm seeing external?"* — [[MirrorSessions-CalumHood-ComfortableInSilence]] (the most expansive version — the *world* as a reflection of the unhealed self)
+
+### Collective consciousness / body-of-God
+
+- **[~2023-2024]** *"we're all like little neurons in the body of God, or like atoms, or blood cells, or however you could picture it, talking to each other in this greater body of this universe."* — [[MirrorSessions-S1-HearGodsVoice]]
+- **[~2023-2024]** *"if we were a cell in God's body — it's like, I'm a white blood cell, you're a red blood cell, then we're tiny. But then, like, our own blood cells are little sentient things too."* — [[MirrorSessions-JeffEllis-FeelingVsThinking]] (as-above-so-below; the body-of-God image restated)
+- **[~2023-2024]** *"Who I am is also you… we're all each other looking back at each other."* — [[MirrorSessions-CalumHood-ComfortableInSilence]] (mirror-nonduality; ties to the "I AM" self-knowledge material — see [[Roy on the Heart-Mind Split]])
+- **[~2023-2024]** **Truth as a sphere of points**: *"the truth being like this sphere, and each one of us has a point of consciousness, a little dot that makes up this whole truth… if one of us doesn't tell the truth, it's like we're not, as a collective, able to see the whole picture."* — [[MirrorSessions-CalumHood-ComfortableInSilence]] (a sphere built of points — Resonance with the Circle/sphere geometry the vault tracks; cf. [[The Circle]])
+
+### Hall of Mirrors = the Jagwar Twin metaverse (Roy names it on the record)
+
+- **[~2023-2024]** Bohnes: *"House of mirrors. That's probably the name of, like, a Goosebumps book."* / Roy: *"Not to be confused with the Hall of Mirrors — which is the Jagwar Twin metaverse. There you go."* — [[MirrorSessions-Bohnes-PowerOfMusic]]
+
+(**Direct confirmation that the metaverse *is* named for mirrors** — connecting the Hall of Mirrors / Web3 architecture in [[Roy on the cosmology (Manifesto)]] explicitly to the mirror-doctrine. The reflection through-line is the literal architecture of the project's platform, by Roy's own naming.)
+
 ## undated — Manifesto
 
 - **[current]** *"All I am is that I am."* — [[Manifesto-FAQ]] (riff on YHWH / Exodus 3:14 — divine self-naming. Compare with El Roi ("the God who sees") on Lucius's throat — Roy's "I am that I am" + Lucius's "El Roi" form a paired divine-naming structure across the project.)
@@ -71,6 +103,6 @@ Roy English's own statements about mirrors, the collective, the "we not me" fram
 ## Open queue
 
 - Full Manifesto transcription (not just summary) — the live page may have more direct mirror-language than the WebFetch summary captured.
-- *Mirror Sessions* — Roy's own interview series — does this folder's name come from the same mirror-doctrine? When did the series begin?
+- ~~*Mirror Sessions* — Roy's own interview series — does this folder's name come from the same mirror-doctrine?~~ **RESOLVED (2026-05-29):** yes — Roy restates the "be a mirror / get out of the way and let them see themselves" premise in his own voice across ≥4 episodes (see the 2023–2024 section above), and names the metaverse itself "the Hall of Mirrors." The series is a direct extension of the mirror-doctrine. *Still open:* the exact start date of the series (episode publish dates pending — `status: draft`).
 - **SARAVI** — Roy's named AI. Verify in *33* / *Lucius Lullaby* era press; cross with [[Sir Lucius]] for distinction or overlap.
 - Has Roy ever explicitly tied the "mirrors to each other" 2018 line to the later Hall of Mirrors site? That would be a strong continuity anchor.

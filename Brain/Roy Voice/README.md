@@ -19,6 +19,8 @@ Thematic aggregation of **Roy English's own public statements** about his music 
 | [[Roy on Process]] | Songwriting / production process; collaboration; recording habits |
 | [[Roy on Industry]] | Commercial pressure, labels, the music business, streaming economy |
 | [[Roy on Authenticity & Masks]] | Identity, performance, "we all walk around with masks on" |
+| [[Roy on Mirrors & Collective Consciousness]] | Mirror-doctrine, "we not me", Hall of Mirrors, projection law, *Mirror Sessions* premise |
+| [[Roy on the Heart-Mind Split]] | Heart/intuition vs mind/intellect; **mind = Lucifer archetype**; grounds [[Sir Lucius]] = the mind |
 | [[Roy on Influences]] | Cited frameworks (Bailey, Steiner, Karpathy); musical influences |
 | [[Roy on Lucius]] | Statements about Sir Lucius — **when does this enter the discourse?** |
 | [[Roy on Subject to Flooding]] | Album-era statements (2018–19) |

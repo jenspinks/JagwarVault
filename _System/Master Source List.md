@@ -81,6 +81,27 @@ The narrative backbone of the *Lucius Lullaby* rollout. Public, citable, primary
 
 > **Do not confuse with "The Mirror Sessions."** "The Mirror Sessions" is a *separate, earlier* series (c. 2023–24) in which **Roy interviews friends and other artists** (e.g. Briana Cuoco, Paris Berelc, AlmondMilkHunni, Mali-Koa). It is **not** lore / theatrical — it is **authorial biography**: Roy speaking plainly about his life, views, and the themes informing his music. Citable as **authorial intent / biographical context** (tag: `none — Mirror Sessions, [episode name/URL]`); not citable for lore claims. The [[Ballerina Boy]] inspiration story is in a Mirror Session — the attribution is correct, and the series is a legitimate source; what is still pending is the specific episode URL. *(Corrected 2026-05-27 — prior note wrongly flagged this as a possible conflation.)*
 
+### The Mirror Sessions — episode registry (12 episodes ingested 2026-05-29)
+
+**Series start: 2022-11-30** (Calum Hood "Being Comfortable in Silence" = the first episode; the launch was covered by The Honey Pop, 2022-12-05). Full cleaned, speaker-attributed transcripts are filed in `Sources/Transcripts/MirrorSessions-*.md` (`status: draft` — flagged speaker-attribution calls still need a listen-through). Roy's load-bearing statements are aggregated into [[Roy on Mirrors & Collective Consciousness]], [[Roy on Process]], [[Roy on the cosmology (Manifesto)]], [[Roy on Authenticity & Masks]], and the new [[Roy on the Heart-Mind Split]]. Cite as `(none — Mirror Sessions, [episode title] + URL)`.
+
+| # | Episode | Guest | Published | URL | Transcript |
+|---|---|---|---|---|---|
+| 1 | Being Comfortable in Silence | Calum Hood (5SOS) | 2022-11-30 | https://www.youtube.com/watch?v=Rym-EhMKkYI | [[MirrorSessions-CalumHood-ComfortableInSilence]] |
+| 2 | Talks Being Observant vs. Shy | Calum Hood (5SOS) | 2022-12-07 | https://www.youtube.com/watch?v=YdkIZXAUeTU | [[MirrorSessions-CalumHood-ObservantVsShy]] |
+| 3 | Reveals How to Hear God's Voice | Symbolyc One (S1) | 2023-01-11 | https://www.youtube.com/watch?v=g8WpzElHm3M | [[MirrorSessions-S1-HearGodsVoice]] |
+| 4 | Discusses the Power of Music in Turbulent Times | Bohnes (Alexander DeLeon) | 2023-02-08 | https://www.youtube.com/watch?v=_aw7Ad5EMH4 | [[MirrorSessions-Bohnes-PowerOfMusic]] |
+| 5 | Opens Up About His Dark Lyrics | Bohnes (Alexander DeLeon) | 2023 (date pending) | https://www.youtube.com/watch?v=kwATlEarQaQ | [[MirrorSessions-Bohnes-DarkLyrics]] |
+| 6 | On Dying Empty: The Secret to Meaningful Creativity | Symbolyc One (S1) | 2023 (date pending) | https://www.youtube.com/watch?v=mLHs1Da7OAo | [[MirrorSessions-S1-DyingEmpty]] |
+| 7 | On Mixing and Mastering Authenticity | Jeff Ellis | 2023 (date pending) | https://www.youtube.com/watch?v=SEz4Kx8pvXA | [[MirrorSessions-JeffEllis-MixingMastering]] |
+| 8 | On Feeling vs. Thinking When Making Music | Jeff Ellis | 2023 (date pending) | https://www.youtube.com/watch?v=oL_nTIBc7_8 | [[MirrorSessions-JeffEllis-FeelingVsThinking]] |
+| 9 | Journey as an Artist: From Solo Career to AR/CO | Mali-Koa | 2023 (date pending) | https://www.youtube.com/watch?v=9NIaZKpfWOU | [[MirrorSessions-MaliKoa-SoloToARCO]] |
+| 10 | Overcoming Self-Doubt and Enjoying the Ride | AlmondMilkHunni (Paris Berelc) | 2023-08-31 | **pending** — candidate `eDVg4xdk2GQ` UNCONFIRMED | [[MirrorSessions-AlmondMilkHunni-SelfDoubt]] |
+| 11 | Talks Eating Frogs, Time Traveling in Malibu and Reiki Healing | Paris Berelc (AMH) | 2023-11-20 | https://www.youtube.com/watch?v=VFo5ob7sZIU | [[MirrorSessions-ParisBerelc-Reiki]] |
+| 12 | Journey: From Childhood Insecurities to Netflix Star | Briana Cuoco | 2024 (date pending) | https://www.youtube.com/watch?v=k0tRvRSfdQQ | [[MirrorSessions-BrianaCuoco-Journey]] |
+
+> **Two open items.** (1) Episode 10 (AlmondMilkHunni "Overcoming Self-Doubt") — the YouTube URL is not yet confirmed; `eDVg4xdk2GQ` is a candidate only, verify by ear. (2) Several publish dates resolve only to the year; confirm exact dates from the YouTube watch pages. A separate **`little luna`** Mirror Session (`https://www.youtube.com/watch?v=VlWdW8yoIxM`) surfaced in search but is **not** in the current 12-episode set — ingest pending. Note: **Paris Berelc records as AlmondMilkHunni** — episodes 10 and 11 are the same guest under different framings (an actor-bio episode vs. a music/handle episode), not duplicates.
+
 ---
 
 ## 3. Music Videos
