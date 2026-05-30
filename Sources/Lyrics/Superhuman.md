@@ -1,19 +1,19 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["AZLyrics.com (licensed via MusixMatch)"]
+status: stable
+verified_against: ["Apple Music — Details (composer) + Lyrics tab (Jen screenshots, 2026-05-30): full lyrics incl. bridge confirmed; composer = Jeff Bhasker, Matt Pauling & Roy English", "AZLyrics.com (initial ingest, now superseded)"]
 ingested: 2026-05-16
-ingest_source: "AZLyrics.com (pasted by Jen)"
+ingest_source: "AZLyrics.com (pasted by Jen); verified against Apple Music 2026-05-30"
 ---
 # Superhuman — Lyrics (Source)
 
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- **Album:** *Subject to Flooding* (2018)
-- **Writers:** [?] Apple Music composer field = Jagwar Twin only. AZLyrics "Jeffrey Nath Bhasker, Matthew Pauling, Roy English" unconfirmed (Bhasker is confirmed on the interlude, track 5). See [[Sources/Credits/Subject to Flooding]].
-- Distinct from [[Sources/Lyrics/Superhuman (Interlude)]] (separate track).
+- **Album:** *Subject to Flooding* (2018; Apple metadata year 2019) — **track 6 of 13** (Apple, Jen screenshot 2026-05-30)
+- **Writers (confirmed):** **Jeff Bhasker, Matt Pauling & Roy English** — Apple Music Details composer field (populated) + Lyrics-tab "Written By," verified 2026-05-30. (Resolves the prior `[?]`: AZLyrics' "Jeffrey Nath Bhasker, Matthew Pauling, Roy English" was correct; Bhasker also confirmed on the Interlude.) See [[Sources/Credits/Subject to Flooding]].
+- Distinct from [[Sources/Lyrics/Superhuman (Interlude)]] (separate track, track 5).
 
 ### Citable as
 - Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)
@@ -79,5 +79,6 @@ Yeah, we gon' fight 'til it's through 'cause we're superhuman
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen). Single-source; cross-check against official release to flip `status` to `stable`.
-- **Partial Apple Music verification (Jen screenshot 2026-05-27):** visible top ~⅔ of lyrics confirmed, with differences from AZLyrics — Apple shows *"Can't knock us down we're back the road"* (vs draft *"They can't knock us down, we're back on the road"*) and ad-libs *"oh!"* (vs *"(No)"*). **Screenshot cut off** at *"Left, right, left it goes and we"*; the song's thematically-critical ending — *"All we are is human / But I'll try, try, try, try to be / Superhuman"* — is below the cutoff and **still unverified**. Status remains `draft` pending the scroll-down screenshot.
+- Ingested 2026-05-16 from AZLyrics (pasted by Jen).
+- **Partial Apple verification (2026-05-27):** top ~⅔ confirmed, minor ad-lib diffs (Apple *"Can't knock us down we're back the road"*; *"oh!"* vs *"(No)"*).
+- **FULL verification (2026-05-30, Jen scroll-down screenshots): `status` → `stable`.** The thematically-critical bridge — *"All we are is human / But I'll try, try, try, try to be / Superhuman"* — and the back half ("Ain't gonna be no!", "Raise up your voices…", "Scream out the battle cry", "Left, right, left it goes and we / Don't stop never, no") are **Apple-confirmed**, along with the "Written By: Jeff Bhasker, Matt Pauling, Roy English" credit. Minor line-break differences from the AZLyrics text above are cosmetic; substance verified.
