@@ -29,7 +29,13 @@ Roy publicly engages Bailey's *Labors of Hercules* — captured: an Instagram St
 ## The 12-labour JT mapping — working scaffold [P] (Jen)
 **Order = Bailey's ZODIACAL sequence (Aries I → Pisces XII), not the classical myth-book order.** This matters: Roy uses Bailey, so the vault numbers by Bailey (Lion = V/Leo, *not* "Labour 1"). Cross-supported by two independent passes that agree on each monster's *meaning*; where a pass used classical order, it renumbers — ignore that numbering.
 
-[P] **Jen's thesis:** each labour = a **distorted faculty**; Hercules (= Roy / the aspirant) becomes whole not by destroying these forces but by **returning them to the heart's rule** — i.e. JT's "mind must serve the heart." **GUARD (retrospective totalization):** this is a *scaffold of hypotheses*, **not** Roy's stated intent. Roy has grounded the framework, all-twelve-as-internal, and Cancer (his Venus lesson); he has **not** said "song X = labour Y." Build each row only on its own lyric/visual anchors. Anchors below are Jen's — **verify against `Sources/Lyrics` before promoting any from [P].**
+[P] **Jen's thesis (load-bearing):** each labour = a **distorted faculty**; Hercules (= Roy / the aspirant) becomes whole not by destroying these forces but by **returning them to the heart's rule** — JT's "mind must serve the heart." **Jen holds this mapping to be *intentional* on Roy's part — deliberate design, not interpreter-projection — stated as conviction, direct evidence not yet in hand (`[P]`).** This is the working hypothesis the build-out is meant to confirm, not a coincidence to be explained away.
+
+**Two senses of "intentional" — keep them apart:**
+- **(a) Roy intentionally works the Bailey labours as a self-framework → GROUNDED.** Names the book, annotates it, applies Cancer to his own chart, teaches the all-twelve-as-internal model, calls the project "a modern mythology approach." Intentional engagement with Bailey is *established*.
+- **(b) Roy intentionally encoded specific catalogue songs as specific labours → `[P]` (Jen), undocumented.** Roy has not (yet) said "song X = labour Y." This is the claim the row-by-row anchoring exists to test.
+
+**On "fits too well":** a clean fit is consistent with *both* intentional design (b) **and** interpreter-projection — cleanness alone doesn't decide which, so it is neither evidence for nor a strike against. Only **per-song anchors** adjudicate. Rows stay `[P]` pending anchors **not as doubt of the thesis but to keep the grounded layer anchor-backed** — the discipline that lets Jen's conviction stand on the record boldly without risking the archive if a given row never finds its anchor. Build each row on its own lyric/visual anchor; **verify against `Sources/Lyrics` before promoting.**
 
 | # · Sign · Bailey title | Faculty tested (distorted → heart-ruled) | JT anchor(s) [verify] | Tier |
 |---|---|---|---|
