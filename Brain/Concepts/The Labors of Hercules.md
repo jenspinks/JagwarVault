@@ -26,6 +26,30 @@ Bailey founded the **Lucis Trust** (incorporated 1922), whose publishing arm was
 ## Public engagement (none — CAPTURED 2026-05-29)
 Roy publicly engages Bailey's *Labors of Hercules* — captured: an Instagram Story, @jagwartwin (verified), ~2026-05-28, captioned **"Alice Bailey ⚔️"**, photographing a **hand-underlined page** of the book (none — [[Sources/Quotes/Roy IG Story - Bailey Labour VII]]). Plus an **Instagram Live** (Cancer-themed; ~50 viewers) in which **Roy names the book outright and states his own reading** (none — [[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]]): *"a book by Alice Bailey called The Twelve Labours of Hercules, and Hercules, which is the soul, which is us, the initiate, goes through all twelve signs of the zodiac essentially, but we all have these inside of us… in different aspects of our life."* This is the **highest-grounding Bailey evidence in the vault** — not curation-by-proxy but Roy *teaching the framework as his own*. (Other livestream[s] still to capture.) This **upgrades Bailey from "curated illusion-quotes" to active, named, *annotated* engagement** — the strongest grounding in the vault that Bailey is *in* the project, not imported; the curation+annotation is direct evidence of study, not citation-by-others. (A private-setting mention also exists; private, never cited — the public artifact lets the reading stand without it.)
 
+## The 12-labour JT mapping — working scaffold [P] (Jen)
+**Order = Bailey's ZODIACAL sequence (Aries I → Pisces XII), not the classical myth-book order.** This matters: Roy uses Bailey, so the vault numbers by Bailey (Lion = V/Leo, *not* "Labour 1"). Cross-supported by two independent passes that agree on each monster's *meaning*; where a pass used classical order, it renumbers — ignore that numbering.
+
+[P] **Jen's thesis:** each labour = a **distorted faculty**; Hercules (= Roy / the aspirant) becomes whole not by destroying these forces but by **returning them to the heart's rule** — i.e. JT's "mind must serve the heart." **GUARD (retrospective totalization):** this is a *scaffold of hypotheses*, **not** Roy's stated intent. Roy has grounded the framework, all-twelve-as-internal, and Cancer (his Venus lesson); he has **not** said "song X = labour Y." Build each row only on its own lyric/visual anchors. Anchors below are Jen's — **verify against `Sources/Lyrics` before promoting any from [P].**
+
+| # · Sign · Bailey title | Faculty tested (distorted → heart-ruled) | JT anchor(s) [verify] | Tier |
+|---|---|---|---|
+| I · Aries · Man-Eating Mares | the untrained **mind** devouring; thought-as-fuel; Lucius's strategy / the LOOP | LOOP material; "mind divorced from heart" | [P]/[W] |
+| II · Taurus · Cretan Bull | **desire** / life-force (sex, money, fame, creation): consecrate, don't possess | — | [P] |
+| III · Gemini · Golden Apples | premature **knowledge**; green-apple / unearned knowing; info ≠ illumination | green-apple symbol; Roy's knowledge→understanding→wisdom (IG Live) | [P]/[W] |
+| IV · Cancer · Doe/Hind | the **soul** / tender-self; courted, not conquered | Ballerina Boy ("come back for that kid I let go") | [P] |
+| V · Leo · Nemean Lion | the **ego** / persona / performer-mask; integrate (wear the skin), don't reject | [[Brain/Songs/Welcome to the Circus]]; tame-the-Beast ([[Essays/Concepts/Songs/Not Your Homie]]) | [W] |
+| VI · Virgo · Girdle of Hippolyte | the **feminine** / intuition (Sophia): honor & receive, don't seize | rose symbolism; cf. [[Mary]] | [P]/res |
+| VII · Libra · Erymanthian Boar | **instinct / chaos** → balance & rhythm; "chaos is creativity, then order it" | Roy "chaos is creativity" ([[Roy on Process]]); captured Story page | [W] |
+| VIII · Scorpio · Lernaean Hydra | the **shadow** that regenerates when attacked wrong; root not symptom; descend | LOOP; "Happy Face" mask | [P]/[W] |
+| IX · Sagittarius · Stymphalian Birds | weaponized **speech** / noise / intrusive thought; clear the air | Happy Face; "circus… in my brain" (WTTC) | [P] |
+| X · Capricorn · Cerberus | **death** / descent; the threshold dog (Lucius) faced & brought to light, not obeyed | [[Brain/Songs/Lucius Lullaby]] (childhood bedroom, bottoming out, "life is but a dream") | [W] |
+| XI · Aquarius · Augean Stables | the **collective** / systemic rot; redirect the river (new current), not shovel-by-shovel | "empires built cages and sold everything" | [P] |
+| XII · Pisces · Red Cattle of Geryon | retrieval of the **dispersed self** (three-bodied = divided being); return with the whole herd | "come back for that kid"; "the wise one… held the string" | [P] |
+
+**Arc Jen reads:** Mind → Desire → Knowledge → Soul → Ego → Feminine → Balance → Shadow → Speech → Death → Collective → Wholeness — *the soul learning not to misuse power*, each monster a faculty returned to service. Grounded deep-dives below for the three Roy has publicly engaged: **IV Cancer · V Leo · VII Libra.**
+
+**Doe divergence (do not collapse):** the Cancer doe now carries **three** readings — Bailey: **intuition** · Roy: **"what I attract / love"** (Venus in Cancer) · Jen: **the buried child-self / Ballerina Boy.** Cancer's nurture/home/child register makes Jen's reading apt, but it is a `[P]` overlay distinct from Bailey's and Roy's — keep the three layers labeled.
+
 ## Labour VII — Libra (none — the captured page) [NEW node]
 The page Roy shared is **Labour VII = Capture of the Erymanthian Boar = Libra** (the page names it: *"The Libran is not inclined to be either a zealot or a tyrant"*). This **widens the vault beyond the Leo labour** the Strong Reads above center. Anchors now: **Leo** (lyric reads), **Libra/VII** (captured page), **Cancer/IV** (Roy's own soul-lesson, IG Live — see below), **plus Roy's grounded "all twelve signs… inside of us" framing**. So the engagement is the *whole cycle as internalized initiation*, not a single labour — which is exactly how Roy frames it. Bears on the open question below (full 12-labour map vs. single lens) — tilts toward *multi-labour engagement*.
 
@@ -59,7 +83,7 @@ Nemean Lion = coordinated dominant personality (successful ego turned tyrannical
 "tame the beast" is universal; "champion" may = winner not initiate; Bailey is one syncretic layer not spine; album arc has ≥1 valid frame; retrospective-totalization risk. **Updated test (2026-05-30):** Bailey-*presence* is now grounded (Roy names the book), so the guard is no longer "is Bailey here?" but **"does *this song* actually map to a labour, or am I back-fitting Roy's stated interest onto unrelated material?"** Roy using the framework licenses the lens; it does not license mapping every track.
 
 ## Open Questions
-- [ ] Full 12-labor map onto catalogue, or one lens? *(2026-05-30: Roy's own framing — "all twelve signs… we all have these inside of us" (IG Live) — favors the **whole cycle as internal initiation**. But that's his reading of the *book*; whether the *catalogue* maps track-by-track to labours is a separate, still-open question.)*
+- [ ] Full 12-labor map onto catalogue, or one lens? *(2026-05-30: Roy's own framing — "all twelve signs… we all have these inside of us" (IG Live) — favors the **whole cycle as internal initiation**. But that's his reading of the *book*; whether the *catalogue* maps track-by-track to labours is a separate, still-open question.)* → **Scaffold now started** (§The 12-labour JT mapping, Jen `[P]`); build each row from its own anchors before promoting.
 - [ ] Which catalogue song(s) carry the **Libra / Labour VII** material (service-misread, "perversity that upholds the opposite of what is said", spiritual-compromise)? No song anchor assigned yet.
 - [ ] #1 Champion = completion song or Lucius naming the destination he can't occupy?
 - [ ] Hercules anchors in earlier catalogue (Subject to Flooding, 33)?
