@@ -29,7 +29,11 @@ The project's name itself encodes the duality. From Roy directly:
 
 > *"I think it captures a bit of who I am at the core, playing in light and dark."* — Roy on the Jagwar Twin name, Strife Mag 2024-07 ([[Strife-2024-Bad-Feeling]])
 
-The dark/light duality is **2019 vocabulary in Roy's own voice**, not a retrospective vault projection. The structural precondition that later becomes Roy/Lucius is named at the project's name from the start. See [[Brain/Roy Voice/Roy on Authenticity & Masks]] for additional sourcing.
+> *"Gemini can also hold two truths at once… there's a duality… I can understand the lower and the higher, and the dark and the light — which is **a lot of what Jagwar Twin is**."* — Roy, IG Live ~2026-05-23 ([[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]])
+
+The dark/light duality is **2019 vocabulary in Roy's own voice**, not a retrospective vault projection — and it recurs 2019 → 2024 → **2026**, where Roy ties it explicitly to his own **Gemini Sun** (the Twins, the astrological literalization of "Jagwar **Twin**") and names the duality as "a lot of what Jagwar Twin is." The structural precondition that later becomes Roy/Lucius is named at the project's name from the start. See [[Brain/Roy Voice/Roy on Authenticity & Masks]] for additional sourcing.
+
+[W] **The resolution mechanism, in his own voice (2026):** in the same Live Roy gives a *synthesis* model — instinct + intellect resolved by a higher third faculty, **intuition** ("higher than instinct and intellect… the god voice"). That is **correct ordering, not erasure**: the two held and transcended by a third, not collapsed into one — consistent with this page's thesis. See [[Roy on the Heart-Mind Split]] §the third faculty.
 
 ## The Root Split — Roy / Sir Lucius
 

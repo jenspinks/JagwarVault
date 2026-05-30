@@ -38,6 +38,16 @@ Roy English's own statements distinguishing the **heart / intuition / feeling** 
 
 (Roy frames the *purpose of art* in Heart/Mind terms — its job is to seed the subconscious and open the heart, correcting a culture tilted toward intellect. Lineage straight to the Lucifer-as-mind beat: the mind over-weighted is the fall.)
 
+## The third faculty: instinct → intellect → intuition (the synthesis) — Roy, 2026, Grounded
+
+> *"there's two goddesses that are talking to Hercules… One essentially represents the **instinct**… like an animal… lower. And then there's a higher force which is your **mind**. … And so there's a **third voice**… the synthesis between the instinct and the intellect… the **intuition**. So intuition is higher than instinct and intellect. Intuition, super consciousness, **the god voice thing in here**."* — Roy, IG Live ~2026-05-23 ([[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]])
+
+**This completes the architecture in Roy's own voice.** The Heart/Mind split is not a flat binary — it resolves *upward* into a **third term: intuition / "the god voice" / super-consciousness** that synthesizes instinct (lower) and intellect (the mind/Lucifer pole, "higher" but not final). Exactly consistent with "the mind is a step, not the destination" above — the destination is the intuitive synthesis. [W] Maps onto the vault's **Tiferet / synthesis** movement, and *"the god voice thing in here"* (gesturing to the throat/chest) lands on the **El Roi** utterance/Da'at gate ([[The Voice]]). **Guard:** Roy's *instinct* pole ≠ literally Roy-the-heart-character and *intellect* ≠ literally Lucius — same three-part *shape*, different register; do not collapse.
+
+> *"knowledge has to lead higher to understanding, and if it doesn't, you just get stuck in the abyss… information will get you stuck in the abyss between worlds. Knowledge has to move higher to understanding… and then that understanding will lead to wisdom."* — same Live
+
+[W] The same rise-or-stall structure, now **epistemic**: knowledge → understanding → wisdom, with failure = *"the abyss between worlds."* Resonance (attributed, not asserted): mirrors the Kabbalistic supernals **Chokmah** (wisdom) / **Binah** (understanding) / **Da'at** (knowledge) and **the Abyss** beneath them — the same map the vault tracks elsewhere. Pairs with the "know intellectually vs. actually feel/understand" beat above.
+
 ---
 
 ## Patterns visible in the corpus so far

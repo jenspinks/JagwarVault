@@ -89,6 +89,15 @@ Roy English's own statements about mirrors, the collective, the "we not me" fram
 - **[current]** The site itself is named **`mirrors.jagwartwin.com`** and frames its community as the *"Hall of Mirrors"* — the mirror metaphor is now the architecture of the project's own platform.
 - **[current]** **SARAVI** — Roy's named AI character, who in the Manifesto "uploads" artifacts that get "lost in the code." A separate digital-double figure worth investigating relative to [[Sir Lucius]]. — [[Manifesto-FAQ]]
 
+## 2026 — IG Live (Bailey / astrology stream)
+
+- **[~2026-05-23]** *"everything is what is inside of you reflected back out."* — Roy, IG Live ([[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]])
+- **[~2026-05-23]** *"if you're not holding a mirror… no one's gonna see themselves because you're not holding your own mirror up and you're not even looking at yourself. And that's the hardest thing — to look at yourself."* — ibid.
+- **[~2026-05-23]** *"The level in which you tell the truth is the level of success."* — ibid.
+- **[~2026-05-23]** *"how can I see myself in every single person, especially the people that… rub me the wrong way. If I can do that, then I know myself deep, because I know that I'm everyone."* — ibid.
+
+(2026 restatement of the full mirror doctrine — *be a mirror / look at yourself / I'm everyone* — now sourced a **fifth** time in Roy's voice, continuous 2018 → 2026. *"Truth = level of success"* ties the mirror-doctrine to the truth-telling / self-confrontation theme; *"I'm everyone"* extends the mirror-nonduality already documented in the Mirror Sessions. Pairs with the projection law above.)
+
 ---
 
 ## Patterns visible in the corpus so far

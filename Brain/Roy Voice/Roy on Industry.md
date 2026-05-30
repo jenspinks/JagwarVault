@@ -24,6 +24,14 @@ Roy English's own statements about commercial pressure, label dynamics, the stre
 - **[2024-07]** On a song getting dropped early: *"They said the song sucked... it was too experimental for that time, got dropped from the label, but then it found its way."* — [[Strife-2024-Bad-Feeling]]
 - **[2024-07]** On acceleration: *"I think that it's moving quicker, now, the waves are moving faster. Life is moving faster."* — [[Strife-2024-Bad-Feeling]]
 
+## 2026 — IG Live (self-reliance; current label)
+
+- **[~2026-05-23]** *"no one can break you \[but\] you. No one can do it for you — \[you\] can't hire someone to make you successful in anything."* — Roy, IG Live ([[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]])
+- **[~2026-05-23]** On the current label (Atlantic) and *Lucius Lullaby*: *"my current label is great… with \[Lucius\] Lullaby they let me go with my vision."* — ibid.
+- **[~2026-05-23]** On internal pressure: *"\[with\] multiple record deals… once I got a record deal, this internal pressure \[set in\] — but now I have to make it, and I have to grasp at this thing that I want so bad."* — ibid.
+
+(2026 commercial framing: consistent dismissal of external rescue ("no one can break you but you") + a new note that the *current* label affords creative freedom on [[Lucius Lullaby (album)]]. Roy reframes the deal-pressure ("grasp at this thing I want so bad") through the **Cancer-shadow "holds too tight"** — the cure he names is *letting go / non-attachment*; see [[The Labors of Hercules]] §Labour IV.)
+
 ## undated — Roy's own Manifesto (mirrors.jagwartwin.com)
 
 - **[current]** **The substitution table** (Roy's own framing of internet culture):

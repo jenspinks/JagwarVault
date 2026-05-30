@@ -60,6 +60,12 @@ Roy's process language across the cleaned Mirror Sessions episodes is remarkably
 
 - **[~2023-2024]** *"chaos is creativity… everything is birthed out of chaos. Of course. Darkness, nothing — the feminine principle of, you know, like yin-yang."* — [[MirrorSessions-Bohnes-PowerOfMusic]] (and, per the cleaned set, the ordering of that chaos as "part of the mechanism of art… bring the light side of the yin-yang." Note Roy explicitly **genders** chaos/darkness as the feminine principle — recorded as his framework, not the vault's reading; cf. [[Duality]])
 
+## 2026 — IG Live (the "antenna" / sober creation)
+
+- **[~2026-05-23]** *"\[caffeine/matcha\] changes your antenna, it affects your aura, where you can become not as clear as what's coming through… what information is coming through — is it the information of this matcha leaf… or what being is talking to me now? … can I trust the information that's coming through?"* — Roy, IG Live ([[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]])
+
+(Extends the **antenna / channel** image already documented from the Mirror Sessions — here with a *purity-of-reception* discipline: stay sober-minded to keep the channel clear and the "information" trustworthy. Same receptive model of composition; the body as instrument/antenna.)
+
 ---
 
 ## Patterns visible in the corpus so far
