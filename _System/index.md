@@ -17,7 +17,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 | [[index]] | This file — dual-axis catalog |
 | [[log]] | Chronological operational log |
 | [[lessons-learned]] | Drift & process register |
-| [[Ontology]] | Canonical entity registry (IDs) — currently 115 |
+| [[Ontology]] | Canonical entity registry (IDs) — currently 116 |
 | [[Theme Tracker]] | Master analytical framework (10 sections + Standard Tracking Fields) |
 | [[Boundaries]] | Public/private rules; Secret Document boundary |
 | [[Master Source List]] | Canonical public-source registry |
@@ -46,7 +46,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 **Essays/** (human creative project → fan site; verbose, tiered prose)
 - `Essays/Songs/` — **12:** [[Brain/Songs/Welcome to the Circus]] · [[Brain/Songs/Lucius Lullaby]] · [[Essays/Concepts/Songs/Ballerina Boy]] · [[Essays/Concepts/Songs/Not Your Homie]] · [[Essays/Concepts/Songs/Weirdness]] (pre-session) + [[Essays/Concepts/Songs/Long Time Coming]] · [[Essays/Concepts/Songs/Dream - Dream]] · [[Essays/Concepts/Songs/Superhuman (Interlude)]] · [[Essays/Concepts/Songs/Loser]] · [[Essays/Concepts/Songs/Good Day]] · [[Essays/Concepts/Songs/No Fake Friends]] · [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)]] (this session)
 - `Essays/Characters/` — [[Roy]] ✦ · [[Sir Lucius]] ✦
-- `Essays/Concepts/` — [[The Labors of Hercules]] ✦ · [[The Dweller on the Threshold]] ✦
+- `Essays/Concepts/` — [[The Labors of Hercules]] ✦ · [[The Dweller on the Threshold]] ✦ · [[Jacob & Esau]] ◦ (draft — Roy/Lucius as the divided-blessing twins; `CONCEPT-JacobEsau`)
 - `Essays/Arcs/` — [[Brain/Songs/Lucius Lullaby]] (album arc) ✦ · [[Machine vs Human]] ✦ (**new 2026-05-28**)
 - `Essays/_drafts/` — empty
 

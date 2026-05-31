@@ -20,6 +20,7 @@ hand-maintained thereafter.
 |---|---|---|
 | `CONCEPT-Consumption` | Consumption |  |
 | `CONCEPT-Duality` | Duality |  |
+| `CONCEPT-JacobEsau` | Jacob & Esau | Roy/Lucius as the divided-blessing twins (Gen 25–33); interpretation on the Genesis substrate (no Bailey claim); integration = the embrace (Gen 33:4), not conquest; Essay filed, Brain node pending |
 | `CONCEPT-Fire` | Fire |  |
 | `CONCEPT-Inversion` | Inversion |  |
 | `CONCEPT-Nigredo` | Nigredo |  |
