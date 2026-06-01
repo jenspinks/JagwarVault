@@ -17,7 +17,7 @@ related: [CHAR-Roy, SONG-Superhuman, SONG-MoveToYou, CONCEPT-TheProtector, ALBUM
 
 ![[Sources/Lyrics/Roy Voice Memo - S1 Arrowhead]]
 
-> **Transcription note:** spoken cadence — text verified against Spotify's lyrics view (`status: stable`).
+> **Transcription note:** spoken text transcribed from the Spotify lyrics view (`status: stable`); pull clean before quoting (e.g. "you guys learnin' each other"). The memo names *"Ryan, who's been with you"* — a real person, but **public**: Roy released this conversation as a commercial album track, so it's published information, no protection needed.
 
 ---
 

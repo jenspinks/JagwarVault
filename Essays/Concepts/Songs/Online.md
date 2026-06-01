@@ -35,12 +35,12 @@ related: [ALBUM-33, CONCEPT-TheAlgorithm, CONCEPT-TheAquarium, CHAR-SirLucius, S
 
 ---
 
-## Public anchors `[?]` — UNVERIFIED, pending screenshots
+## Public anchors — public posts (per Jen, vault owner); verbatim pending screenshot
 
-> These two posts came via a parallel-chat draft and are **not yet in the vault or confirmed.** §4's public anchor and all of §5 depend on them. **Do not quote as grounded until Jen supplies screenshots** (date + verbatim). Recorded here so the readings have a target to attach to once verified.
+> Both are **real public posts** by the verified accounts (Jen confirms) — citable, public, names included (Boundaries: public social = citable). They are **not yet ingested as their own `Sources/` files**, and the wording below is a parallel-chat transcription — **lock it against a screenshot before public migration** (and ideally file each as a Sources/Quotes record). The §4/§5 readings stand on them as real artifacts.
 
-- `[?]` **X / Jagwar Twin (~Apr 2026):** reportedly *"Everyone's a guru. We are now fully in the aquarium."*
-- `[?]` **Instagram, signed Sir Lucius (🗡🍏):** reportedly Lucius ranking the field by the industry scorecard — Jagwar a *"one hit wonder,"* dismissing *"bad feeling"* as a *"cringe TikTok song"* despite ~100M streams, *"can't sell out a tour,"* naming peers (Charli XCX / the 1975 / Chappell Roan) as "cool" and Jagwar not; closing *"Everyone is an artist or a guru or a dj these days… your loyal servant, Sir Lucius."*
+- **X / Jagwar Twin (~Apr 2026):** *"Everyone's a guru. We are now fully in the aquarium."* *(verbatim pending screenshot)*
+- **Instagram, signed Sir Lucius (🗡🍏):** Lucius ranking the field by the industry scorecard — Jagwar a *"one hit wonder,"* *"bad feeling"* a *"cringe TikTok song"* (~100M streams), *"can't sell out a tour,"* peers (Charli XCX / the 1975 / Chappell Roan) "cool" and Jagwar not; closing *"Everyone is an artist or a guru or a dj these days… your loyal servant, Sir Lucius."* *(verbatim pending screenshot)*
 
 ---
 
@@ -60,13 +60,13 @@ Surveillance is the *mechanism*; the *subject* is what surveillance does to iden
 
 ### 4. "Everyone's a guru" → the aquarium — anti-authority, not syncretist [W]
 
-The *"shamans and Brahmans and mamas and Lamas say we come from space"* pile-up isn't Roy invoking those authorities — it's stacking *every* guru-voice at once to refuse all of them, then deflating the edifice with *"maybe Jupiter is stupider than people say."* The plurality *is* the refusal: every authority talking = none worth deferring to — consistent with his **grounded** anti-categorization stance (*"I'm no thing,"* [[Roy on Authenticity & Masks]]). So: **anti-authority, not all-paths syncretism**; he's mocking the impulse to outsource the answer to a guru. Structurally the song stages collapse — every transcendent claim (*"we come from space"*) is answered by *"but we're stuck / just like a bug inside your database"*: reach for the cosmic, land in the surveillance grid → the totalized closed system, [[The Aquarium|the aquarium]]. *(The "everyone's a guru / fully in the aquarium" public anchor is `[?]` unverified above — the reading holds on the lyric + the grounded "no thing" stance even without it, but confirming the post would make the anchor explicit.)*
+The *"shamans and Brahmans and mamas and Lamas say we come from space"* pile-up isn't Roy invoking those authorities — it's stacking *every* guru-voice at once to refuse all of them, then deflating the edifice with *"maybe Jupiter is stupider than people say."* The plurality *is* the refusal: every authority talking = none worth deferring to — consistent with his **grounded** anti-categorization stance (*"I'm no thing,"* [[Roy on Authenticity & Masks]]). So: **anti-authority, not all-paths syncretism**; he's mocking the impulse to outsource the answer to a guru. Structurally the song stages collapse — every transcendent claim (*"we come from space"*) is answered by *"but we're stuck / just like a bug inside your database"*: reach for the cosmic, land in the surveillance grid → the totalized closed system, [[The Aquarium|the aquarium]]. *(The "everyone's a guru / fully in the aquarium" public anchor is a real post per Jen — verbatim pending screenshot above; the reading also stands on the lyric + the grounded "no thing" stance.)*
 
-### 5. `[?]` The Lucius IG post — the same line, weaponized (PROVISIONAL — rests on an unverified post)
+### 5. The Lucius IG post — the same line, weaponized [W]
 
-> **This section depends entirely on the unverified Lucius IG post above. Held `[?]` until screenshotted.** If confirmed, it's one of the cleanest public demonstrations of the Roy/Lucius split in the corpus:
+> Rests on the Lucius IG post above (a real public post per Jen; **exact wording pending screenshot**). One of the cleanest public demonstrations of the Roy/Lucius split in the corpus:
 
-Roy's *"everyone's a guru… fully in the aquarium"* is **rueful** — *we're all trapped performing authority, me included.* The Lucius post would be the **identical observation as contempt** — *you're all beneath me.* Roy's anti-guru = humility (nobody's a guru, including me); Lucius's anti-guru = superiority (everyone's worthless except me). One sentiment split across the two poles, audible in tone alone. And the post is **pure Yesod-metric** — ranking the field by cool/streamable/sellable/tour numbers, the exact value system the music keeps refusing — delivered *on Roy's own account, signed "your loyal servant, Sir Lucius"*: the servant who despises the master, trashing the artist by the industry's scorecard. The inversion artifact in complete public form — **pending verification.**
+Roy's *"everyone's a guru… fully in the aquarium"* is **rueful** — *we're all trapped performing authority, me included.* The Lucius post would be the **identical observation as contempt** — *you're all beneath me.* Roy's anti-guru = humility (nobody's a guru, including me); Lucius's anti-guru = superiority (everyone's worthless except me). One sentiment split across the two poles, audible in tone alone. And the post is **pure Yesod-metric** — ranking the field by cool/streamable/sellable/tour numbers, the exact value system the music keeps refusing — delivered *on Roy's own account, signed "your loyal servant, Sir Lucius"*: the servant who despises the master, trashing the artist by the industry's scorecard. The inversion artifact in complete public form — *exact wording pending screenshot.*
 
 ### 6. Infrastructure before the character [W]
 
@@ -89,7 +89,7 @@ Identity dissolved into automated code — but with no reformation following. Th
 
 ## Open Questions
 
-- [ ] **Verify the two public posts** (§ Public anchors): the X "everyone's a guru / fully in the aquarium" line (date + wording) and the **Lucius IG ranking** post. §4's anchor and **all of §5** depend on them — screenshots needed before any of it is quoted as grounded.
+- [ ] **Lock the two public posts from screenshots** (§ Public anchors) — confirmed real/public by Jen, but the exact wording/date is a from-memory transcription. Get screenshots → ingest each as a `Sources/Quotes` record → then §4's anchor and §5 are fully grounded (incl. the named peers + numbers).
 - [ ] Confirm **track position** on *33* against [[33 (album)]].
 - [ ] Confirm the **"Ones to Watch" (2022)** interview quotes — Roy reportedly calling *Online* "fun and ridiculous" (bears on the §2 guard) and the "spider's food" framing — before citing.
 - [~] **Projection risk:** the "*33* = recursive machine-awareness pivot" framing is a strong `[W]`, but the hyper-clean fit with the later mythology may be the vault smoothing a loose pop artifact into a neat arc. Held open — the brightness may be the seduction (§2), or it may just be a fun song.
@@ -115,6 +115,6 @@ Identity dissolved into automated code — but with no reformation following. Th
 ## Sources
 
 - **Lyrics & track facts:** *Online*, *33* (2022), 2:50. Spotify (track `4rUA1L4SkcF0LL1JVMdzd6`), verified 2026-05-30: [[Sources/Lyrics/Online]]. Track # + writer credits `[?]`.
-- **Public posts `[?]` (UNVERIFIED):** Jagwar Twin X post (~Apr 2026, "everyone's a guru… the aquarium"); Sir Lucius IG post (🗡🍏). **Both pending screenshots — not citable until confirmed.**
+- **Public posts (real/public per Jen; verbatim pending screenshot):** Jagwar Twin X post (~Apr 2026, "everyone's a guru… the aquarium"); Sir Lucius IG post (🗡🍏). Citable as public; lock exact wording/date from screenshots and file each as a `Sources/Quotes` record.
 - **Interview `[?]`:** *Ones to Watch* (2022) — "fun and ridiculous" / "spider's food" quotes, pending confirmation.
 - **Esoteric frameworks:** Gnostic trapped-pneuma; the "from above" mytheme (comparative resonance, **no source claim**); alchemical Nigredo. *No private material used. No Bailey-sourcing claim made.*
