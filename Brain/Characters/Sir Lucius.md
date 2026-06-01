@@ -36,6 +36,9 @@ Root ר-א-י (r-'-y), read through Roy's consonants/vowels framework (none — 
 
 [resonance] **Lucis Trust convergence:** Bailey — whose *Labors of Hercules* Roy not only curates but (2026-05-28) publicly shared a **hand-annotated page** of (none — [[Sources/Quotes/Roy IG Story - Bailey Labour VII]]) — published through the **Lucis Trust**, orig. **Lucifer Publishing Company** (none — see [[The Labors of Hercules]] §Bailey's vehicle). *Lucis/Lucifer/Lucius* share the *luc-/light* root, converging on [[The Light-Bearer]]. Guard: the Bailey *engagement* is now grounded, but the **name-link is still resonance** — convergence within shared Theosophical substrate, **not** evidence Roy named Lucius after the Trust ("Lucius" already means light). Open Q lives on the Hercules page.
 
+## "Everyone's a guru" — the contempt pole (none — IG post, signed Lucius)
+Lucius (IG @jagwartwin, signed *"Your loyal servant, Sir Lucius 🗡🍏"*): *"Everyone is an artist or a guru or a dj these days. I'm bored. Find something more interesting to do with your little life"* — inside a pure industry-scorecard rant (Jagwar a *"one hit wonder,"* *"can't sell out a tour,"* ranking Charli XCX / the 1975 / Chappell Roan above him; image = the horned/rabbit mask + body-text) ([[Sources/Quotes/Sir Lucius IG Post - One Hit Wonder]]). **Yesod-metric contempt** — the value system the music refuses, posted *on Roy's own account by his shadow.* [W] **Same line Roy says as humility:** his X post *"Everyone's a guru. We are now fully in the aquarium"* ([[Roy]]) voices the identical observation as rueful self-implication. One sentiment, two affects: Roy = nobody's a guru (me included); Lucius = everyone's worthless except me. The cleanest public split-artifact — see [[Essays/Concepts/Songs/Online]] §5.
+
 ## Open Questions
 - [ ] Protecting Roy or training him to rule the Circus?
 - [ ] Who/what is the Boss (BMRC? algorithm? capital?)?

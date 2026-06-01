@@ -34,6 +34,9 @@ Studies [[Kabbalah]]. Writes "Hebrew style": consonants=structure (angles), vowe
 ## Self-naming & fragmentation (none — IG Live ~2026-05-23)
 [[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]]: signs off **"Elroy sounding off"** — a *spoken* instance of the **El Roy** self-naming (cf. "Signs El Roy" above; the El Roi throat tattoo on [[Sir Lucius]]). Closes with the wordplay *"I am at peace, in peace, in pieces. I'm in pieces, looking for pieces of one piece."* [W] Fragmentation→wholeness in his own voice — the scattered self seeking the one piece; resonant with the arc toward integration. Also self-IDs **Gemini Sun** (the Twins) — [W] the astrological literalization of "Jagwar **Twin**" / the [[Duality]] he calls "a lot of what Jagwar Twin is."
 
+## "Everyone's a guru" — the humble pole (none — X post)
+Roy (X, 2026-04-14): *"Everyone's a guru. We are now fully in the aquarium"* ([[Sources/Quotes/Roy X Post - Everyone's a Guru (Aquarium)]]). **Rueful/humble** — *we're all trapped performing authority, me included* (of a piece with the grounded "I'm no thing" anti-categorization, [[Roy on Authenticity & Masks]]). [W] **The same observation splits across the poles:** [[Sir Lucius]] posts the *identical* "everyone's a guru / artist / dj" line as **contempt** (everyone's beneath me) — see [[Essays/Concepts/Songs/Online]] §5. One sentiment, two affects: Roy = nobody's a guru, *including me*; Lucius = everyone's worthless *except* me. A clean public demonstration of the split.
+
 ## Moves
 - [W] Arc: buried Ballerina Boy (Malkhut) → collapse at 35 → toward unresolved. Resolution stated: "my mind must serve my heart."
 - [?] Roy ≈ Tiferet (heart center / savior archetype) — inflation risk; identification-vs-service trap. Esoteric, hedged.
