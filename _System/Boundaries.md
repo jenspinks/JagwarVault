@@ -20,7 +20,7 @@ If you find yourself writing a claim and your only support is something Roy said
 
 Treat everything in this list as fully citable, quotable, and reference-able.
 
-- **Released catalogue** — songs, albums, lyrics published on streaming platforms
+- **Released catalogue** — songs, albums, lyrics published on streaming platforms. **(Clarified 2026-05-30 per Jen: names that appear in released lyrics are public — quote and analyze them freely; no anonymization or privacy scrub. This is distinct from names in private DMs/calls/screenshots, which remain private per "DMs and screenshots" below.)**
 - **Music videos** — official Jagwar Twin YouTube uploads
 - **The theatrical YouTube series** — The Interview EP 1–7, The Spoon EP 4, listening party episodes (see [[Master Source List]] for full citations)
 - **Public social media** — Twitter/X, Instagram, TikTok, Facebook posts from verified Jagwar Twin accounts
@@ -110,6 +110,8 @@ When the user shares a DM or chat screenshot:
 ## Living document disclosure
 
 These rules can evolve as the project does. If the project's public/private intent shifts (e.g. the user decides certain currently-private material is now okay to reference), update this file with the date and the change. Do not silently update; the boundary is too important.
+
+- **2026-05-30** — Jen: *names in released lyrics need no privacy treatment.* They're public (it's the released song). Applied in "What's public." Does **not** loosen the Secret Document, private DMs/calls, or member-to-member Inner Circle rules.
 
 ---
 

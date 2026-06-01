@@ -1,93 +1,97 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["AZLyrics.com (licensed via MusixMatch)"]
+status: stable
+verified_against: ["Spotify track page — Lyrics (Jen screenshots, 2026-05-30; track 7ECdgylUCaSTNwxzY1Size)", "AZLyrics (initial ingest 2026-05-16, superseded)"]
 ingested: 2026-05-16
-ingest_source: "AZLyrics.com (pasted by Jen)"
+ingest_source: "AZLyrics.com (pasted by Jen); verified against Spotify 2026-05-30"
 ---
 # Shine — Lyrics (Source)
 
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- **Album:** *Subject to Flooding* (2018) — reissue track
-- **Writers:** Matthew Pauling, Roy English
+- **Album:** *Subject to Flooding* (2018; streaming metadata 2019) — **track 13** (album closer); 2:56. Spotify track `7ECdgylUCaSTNwxzY1Size`. (Also a 2020 standalone/Live-In-Studio single.)
+- **Writers:** Matthew Pauling, Roy English (per prior ingest; not re-screenshotted — `[?]` confirm against Spotify Credits when convenient).
 
 ### Citable as
-- Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)
+- Spotify — *Subject to Flooding*, track `7ECdgylUCaSTNwxzY1Size`.
 
 ## Lyrics
 
+*(Verbatim per Spotify's lyrics view.)*
+
 ```
-When I rise to a brand new morning, I
+When I rise
+To a brand new morning I
 Know the sun's gonna
 Shine, shine down on me
 Shine, shine down on me
-When I rise to a brand new morning, I
+When I rise
+To a brand new morning I
 Know the sun's gonna
 Shine, shine down on me
 Shine, shine down on me
-
-Wake up, look at my phone, and read the news
-It's bad, really bad, I mean really really really bad
-Seems like the world is going crazy, getting out of hand
-They run the house and rig the game to get the upperhand
+Wake up, look at my phone and read the news
+It's bad, really bad
+I mean really, really, really bad
+Seems like the world is goin crazy getting outa hand
+They run the house and rig the game to get the upper hand
 Man, I wish that life was like a movie
-Maybe one of the classics, I like those movies a lot
-Don't understand why people doin' what they doin'
-All of this violence is tragic 'cause we could all get along
-
-So let's change the world, we could start today
+Maybe one of the classics
+I like those movies a lot
+Don't understand
+Why people doing what they doing
+All this violence is tragic
+'Cause we could all get along
+So let's change the world, we can start today
 Know that everything's gonna be okay
 Move oceans and earth 'cause we got the faith
 Know that everything's gonna be okay
 So everywhere I go, I'm gonna shine, shine, shine
 Yeah, anywhere I go, I'm gonna shine, shine, shine
 So sing it if you know you're gonna shine, shine, shine
-I was in the clouds, now the sun's coming out, singing
-
-When I rise to a brand new morning, I
-Know the sun's gonna
+I was in the clouds, now the sun is coming out singing
+When I rise
+To a brand new morning
+I know the sun's gonna
 Shine, shine down on me
 Shine, shine down on me
-When I rise to a brand new morning, I
-Know the sun's gonna
+When I rise
+To a brand new morning
+I know the sun's gonna
 Shine, shine down on me
 Shine, shine down on me
-
 Sometimes it feels so hard to keep your ground
-Feels like an earthquake under your feet, but you're in the sea so you're gonna drown
-And everyone's against you from your family to your country
-It's so hard to continue watching home runs while you bunting
+It's like an earthquake under your feet
+But you're in the sea so you're gonna drown
+And everyone's against you
+From your family to your country
+It's so hard to continue watching homeruns while you bunting
 Nothing can stop you from doing what you believe
 When life was not a celebration, I had dreams and then I made 'em
 Something that no teacher teaching could ever teach
-We're all the same in every nation, Jenner of my generation
-
-So let's change the world, we could start today
+We're all the same in every nation
+Gender of my generation
+So let's change the world, we can start today
 Know that everything's gonna be okay
 Move oceans and earth 'cause we got the faith
 Know that everything's gonna be okay
-So everywhere I go, I'm gonna shine, shine, shine
-Yeah, anywhere I go, I'm gonna shine, shine, shine
+So everywhere I go I'm gonna shine, shine, shine
+Yeah, anywhere I go I'm gonna shine, shine, shine
 So sing it if you know you're gonna shine, shine, shine
-I was in the clouds, now the sun's coming out, singing
-
-When I rise to a brand new morning, I
-Know the sun's gonna
+I was in the clouds now the sun is coming out singing
+When I rise
+To a brand new morning
+I know the sun's gonna
 Shine, shine down on me
 Shine, shine down on me
-When I rise to a brand new morning, I
-Know the sun's gonna
-Shine, shine down on me
-Shine, shine down on me
-
-When I rise to a brand new morning, I
-Know the sun's gonna
+When I rise
+To a brand new morning
+I know the sun's gonna
 Shine, shine down on me
 Shine, shine down on me
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen); replaced earlier Drive-doc draft. Single-source; cross-check against official release to flip `status` to `stable`.
+- Ingested 2026-05-16 (AZLyrics); **verified against Spotify 2026-05-30 (Jen screenshots) → `status: stable`.** Spotify supersedes AZLyrics. **Notable correction:** Spotify reads *"**Gender** of my generation"* — AZLyrics had *"Jenner of my generation"* (a meaningfully different word; if this line ever becomes analytically load-bearing, confirm by ear). Other fixes: "we can start today" (not "could"), "It's like an earthquake" (not "Feels like"), "goin… getta outa hand," "upper hand," "the sun is coming out singing." `[?]` writer credits not re-screenshotted.

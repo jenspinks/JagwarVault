@@ -646,13 +646,15 @@ Roy: No.
 
 Briana: Are you — do you consider yourself sober, or you just don't drink and you do sometimes?
 
-Roy: I consider myself no thing. I'm so sorry, I keep doing that, I don't mean to put you — try to —
+Roy: I consider myself no thing.
 
-Briana: Pigeonhole me.
+Briana: I'm so sorry, I keep doing that, I don't mean to put you — try to —
 
-Roy: I don't mean to Enneagram you.
+Roy: Pigeonhole me.
 
-Briana: Yeah. I don't really like say I'm sober or say I don't drink, but I just don't.
+Briana: I don't mean to Enneagram you.
+
+Roy: Yeah. I don't really like to say I'm sober or say I don't drink, but I just don't.
 
 Roy: When was the last time you — was it like a conscious thing or just kind of happened?
 

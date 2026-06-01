@@ -3,7 +3,7 @@ type: credits
 citable: true
 status: stable
 album: ALBUM-SubjectToFlooding
-verified_against: ["Apple Music track metadata — composer field, per-track (checked by Jen, 2026-05-27)", "Spotify Credits view, per-track (Jen, 2026-05-28 & 2026-05-30: N.F.F., Hell Pt. 2, Move To You) + Apple Details/Lyrics (Superhuman, 2026-05-30)"]
+verified_against: ["Apple Music track metadata — composer field, per-track (checked by Jen, 2026-05-27)", "Spotify Credits view, per-track (Jen, 2026-05-28 & 2026-05-30: N.F.F., Hell Pt. 2, Move To You, Roy Voice Memo, Precious Time) + Apple Details/Lyrics (Superhuman, 2026-05-30)"]
 recording_owner: "Atlantic Recording Corporation / WEA International Inc."
 ingested: 2026-05-27
 ingest_source: "Apple Music Get Info — composer field, per-track (Jen)"
@@ -33,12 +33,14 @@ Recording owner (℗-line): Atlantic Recording Corporation / WEA International I
 | 4 | Good Day | Details: **BLANK**. Lyrics-tab Written By: **Essex, Roy English, S1** | verified 2026-05-28 (Jen screenshots). "Essex" unidentified — possible interpolation source `[?]`. AZLyrics' "Terry Knight" was a phantom (wrong-song scrape). |
 | 7 | Move To You | Composition & Lyrics (Spotify): **Roy English, S1** | verified 2026-05-30 (Jen Spotify Credits). Confirms the Apple composer field. Full production: **Roy English & Michael Morgan & S1** (Producers), **S1** (Executive Producer), **Chris Gehringer** (Masterer), **Jeff Ellis** (Mixer). |
 | 6 | Superhuman | Composer (Apple Details + Lyrics-tab Written By): **Jeff Bhasker, Matt Pauling & Roy English** | verified 2026-05-30 (Jen screenshots). Confirms the AZLyrics writer list; Bhasker also on the Interlude (5). Track 6 of 13. |
+| 9 | Roy Voice Memo: S1 Arrowhead | Composition & Lyrics (Spotify): **Roy English, S1** | verified 2026-05-30 (Jen Spotify Credits). Confirms the Apple composer field. Production: Roy English (Producer), S1 (Executive Producer), Chris Gehringer (Masterer), Jeff Ellis (Mixer) — no third producer. |
 | 8 | N.F.F. (No Fake Friends) | Composition & Lyrics (Spotify): **Roy English, Matt Pauling, S1** | verified 2026-05-28 (Jen Spotify Credits screenshot). Matches AZLyrics writer list (no conflict on this track). Full production team: Roy English/Matt Pauling/S1 (Producers), S1 (Executive Producer), Chris Gehringer (Masterer), Jeff Ellis (Mixer). |
+| 12 | Precious Time | Composition & Lyrics (Spotify): **Roy English, Matt Pauling, Sarah Vaughan** | verified 2026-05-30 (Jen Spotify Credits). **Sarah Vaughan writer credit → probable jazz-standard interpolation** (cf. Dream/Dream, track 2, which also credits Vaughan + Mercer) — inherited-substrate flag; identify the sampled standard `[?]`. Production: Roy English / Matt Pauling (Producers), **Adam Hawkins (Mixer — note: *not* Jeff Ellis on this track)**, Chris Gehringer (Masterer), S1 (Executive Producer). |
 | 11 | Hell of a Night Pt. 2 (The Hallelujah Stickup) | Composition & Lyrics (Spotify, confirms Apple): **Roy English, Michael Morgan** | verified 2026-05-28 (Jen Spotify Credits). Full production: Roy English/Michael Morgan/Matt Pauling (Producers), S1 (Executive Producer), Chris Gehringer (Masterer), Jeff Ellis (Mixer). **AZLyrics' "Matt Pauling as Writer" was a Producer↔Writer conflation** — Pauling is a Producer, not a Writer on this track. |
 
 ### Album-wide engineering team (Spotify Credits, observed across tracks)
 - **Chris Gehringer** — Masterer (on every track screenshotted so far)
-- **Jeff Ellis** — Mixer (on every track screenshotted so far)
+- **Jeff Ellis** — Mixer (most tracks screenshotted so far). **Exception: Precious Time (12) is mixed by Adam Hawkins** — Ellis is recurring, not universal.
 - **S1 (Larry Darnell Griffin Jr.)** — Executive Producer (recurring across tracks; also writer on Good Day, N.F.F.)
 - **Matt Pauling** — Producer (recurring; also writer on Loser, N.F.F.)
 - **Michael Morgan** — Producer (Hell of a Night Pt. 2, Move To You; also a *writer* on Hell Pt. 2)
@@ -50,6 +52,7 @@ Recording owner (℗-line): Atlantic Recording Corporation / WEA International I
 Two confirmed external composers reveal interpolated cultural material — the second and (so far) clearest evidence for the provenance axis:
 
 - **Track 2 — Dream / Dream** ← Johnny Mercer, "Dream (When You're Feeling Blue)" (1944); recorded by Sarah Vaughan. Confirmed.
+- **Track 12 — Precious Time** ← **Sarah Vaughan** writer credit (Spotify, 2026-05-30). **Refined 2026-05-30:** the lyrics are now verified ([[Sources/Lyrics/Precious Time]]) and are **original** (Roy/Pauling) — *not* a Vaughan-standard's words. So unlike *Dream / Dream* (lyrical interpolation of Mercer's standard), the Vaughan credit here most likely flags a **musical sample of a Vaughan recording** (vocal/instrumental), which wouldn't surface in the lyric. `[?]` source recording unidentified. **Third inherited-substrate candidate on the album** — identify the sample before asserting. (Sarah Vaughan = jazz vocalist, not a writer; the "writer" credit is the sample-clearance artifact.)
 - **Track 5 — Superhuman (Interlude)** ← Charles Chaplin, *The Great Dictator* (1940) closing speech. **Confirmed (grounded), three ways:** (1) Apple Music lyrics are verbatim the speech ("The kingdom of God is within man… you, the people, have the power… let us all unite"); (2) Apple Music composer field credits Charles Chaplin; (3) pre-existing vault note. Thematically exact for "Superhuman": the people's power to "create machines" vs. "make this life free and beautiful." Note: the Apple Music **"Written By"** line omits Chaplin (lists only Bhasker, Pauling, Roy English) — a composer-field/Written-By metadata inconsistency, but the verbatim text settles it.
 
 ## Conflicts with prior AZLyrics writer lists

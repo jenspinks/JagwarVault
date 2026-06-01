@@ -41,6 +41,12 @@ Roy English's own statements about masks, performance, the misfit / outcast self
 
 (The anti-performance / anti-mask move stated as a first principle — **be, don't perform a role**. Note the **"I AM"** language [Exodus 3:14 / Ehyeh register], which rhymes with the Manifesto's *"All I am is that I am"* — see [[Roy on the cosmology (Manifesto)]]. Mali-Koa's episode carries the same beat from Roy: *"letting go of the thing, because the thing is just guiding you to becoming you"* — [[MirrorSessions-MaliKoa-SoloToARCO]] — vocation as a vehicle for self-becoming, not an identity to wear.)
 
+### "I'm no thing" — refusing the category (apophatic identity) [Grounded]
+
+- **[~2024]** Twice in one conversation, Briana reaches for a category and Roy refuses it. (1) Briana: *"Are you a hiker in general?"* — Roy: **"I'm no thing."** — Briana: *"Sorry to pigeonhole you… I know you better than that."* (2) Briana: *"do you consider yourself sober…?"* — Roy: *"I consider myself **no thing**."* — Briana (catching *herself* again): *"I'm so sorry, I keep doing that, I don't mean to put you —"* — Roy, finishing her sentence: *"Pigeonhole me."* — Briana: *"I don't mean to Enneagram you."* — [[MirrorSessions-BrianaCuoco-Journey]]
+
+(Grounded; recurs **twice**. The deliberate two-word **"no thing"** — not a category, not an object — is **apophatic identity** (self defined by negation), pairing with the **"I AM"** / *"All I am is that I am"* beat above: the self is the bare *am*, not any *thing* you could name. The *interviewer* keeps reflexively reaching for a box — hiker, sober, Myers-Briggs, Enneagram — and Roy deflects each into "no thing," even turning her apology into a punchline. [W] Reads as the personal-disposition root of the catalogue's **anti-flattening** stance — refusing to be a role/type is the inverse of the Algorithm/Circus flattening of identity into a consumable category. [W] Bears on *Shine*'s *"we're all the same in every nation / gender of my generation"* (lyric: [[Sources/Lyrics/Shine]]) — *gender* reading as one more box the song sees past, **not** a statement about gender; develop in the Shine essay when built.)
+
 ---
 
 ## Patterns visible in the corpus so far

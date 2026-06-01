@@ -14,6 +14,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 | Page | Purpose |
 |---|---|
 | [[CLAUDE]] | Schema — layers, tiers, source rules, frontmatter, workflows |
+| [[GEMINI]] | Drafting guide for the Gemini collaborator (root file) — division of labor, tiers, boundaries, output template, fact-verification hand-off |
 | [[index]] | This file — dual-axis catalog |
 | [[log]] | Chronological operational log |
 | [[lessons-learned]] | Drift & process register |
