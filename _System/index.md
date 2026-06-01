@@ -32,7 +32,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 
 **Sources/** (external evidence, immutable)
 - `Sources/Lyrics/` — 47 files (all catalogue songs ingested); 6 verified-stable (Long Time Coming, Dream / Dream, Superhuman Interlude, Loser, Good Day, No Fake Friends, Hell Pt. 2 + Welcome to the Circus); rest `status: draft` pending streaming verification
-- `Sources/Credits/` — **NEW (2026-05-28):** [[Sources/Credits/Subject to Flooding|Subject to Flooding]] composer-credit record (per-track Apple/Spotify verified)
+- `Sources/Credits/` — [[Sources/Credits/Subject to Flooding|Subject to Flooding]] composer-credit record (per-track Apple/Spotify verified) · **[[Sources/Credits/33|33]]** (Big Loud; started 2026-05-30 with It's Your Time)
 - `Sources/Reference/` — **NEW (2026-05-30):** external reference substrate. [[Sources/Reference/Bailey - The Labours of Hercules (reference)]] (12-labour↔sign table + verified passages; scaffold for the full-cycle mapping)
 - `Sources/Quotes/` — [[Sources/Quotes/Roy IG Story - Bailey Labour VII]] (Roy's annotated Bailey page)
 - `Sources/Transcripts/` — 12 **The Mirror Sessions** episodes ingested; **+ [[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]]** (2026-05-30; Roy names the Bailey book + states his reading on IG Live; `status: draft` pending listen-through) (`MirrorSessions-*.md`, full cleaned/attributed transcripts, `status: draft` pending listen-through). Registered in [[Master Source List]] §2; aggregated into Brain/Roy Voice. · `Sources/Quotes/` — **1 file (2026-05-29):** [[Sources/Quotes/Roy IG Story - Bailey Labour VII]] (Roy's annotated Bailey page, IG Story)
