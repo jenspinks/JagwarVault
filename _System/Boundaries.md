@@ -105,6 +105,8 @@ When the user shares a DM or chat screenshot:
 - **Do not name** the other person without explicit permission, even if their handle is visible in the screenshot.
 - **Treat all DM content as private** unless the user has explicitly cleared it for public reference.
 
+**Refinement (2026-06-01, Jen) — Roy-exposed material:** content **Roy himself has purposefully exposed publicly** (including DM/chat screenshots *he* chose to share or embed in material he circulates — e.g. his own "I'm 33 this year" board) **is citable. Do not second-guess Roy's decision to expose his own information.** The one carve-out: **Jen's own DMs with Roy are NOT public** and remain private even when they appear on Roy's board. Operational consequence: embedded DMs on a Roy-exposed artifact are citable *except* any that are Jen↔Roy — and since the speaker often isn't identifiable from the bubble, **confirm with Jen which (if any) are hers before transcribing**, then quote the rest. This does **not** loosen the Secret Document, private *calls*, member-to-member Inner Circle content, or DMs Roy did **not** expose.
+
 ---
 
 ## Living document disclosure
@@ -112,6 +114,7 @@ When the user shares a DM or chat screenshot:
 These rules can evolve as the project does. If the project's public/private intent shifts (e.g. the user decides certain currently-private material is now okay to reference), update this file with the date and the change. Do not silently update; the boundary is too important.
 
 - **2026-05-30** — Jen: *names in released lyrics need no privacy treatment.* They're public (it's the released song). Applied in "What's public." Does **not** loosen the Secret Document, private DMs/calls, or member-to-member Inner Circle rules.
+- **2026-06-01** — Jen: *anything Roy has purposefully exposed publicly is citable — don't second-guess his exposure* (incl. DMs he shares/embeds in his own circulated material). Carve-out: **Jen's own DMs with Roy stay private.** Applied in "DMs and screenshots." Does **not** loosen the Secret Document, private calls, Inner Circle member content, or un-exposed DMs.
 
 ---
 

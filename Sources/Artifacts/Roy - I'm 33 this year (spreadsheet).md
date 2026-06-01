@@ -240,8 +240,8 @@ The full **Soul Is A Star** lyric is laid out in colored cells, **but written "S
 
 ---
 
-## Private material (NOT citable — flagged for classification)
-The board embeds **many screenshots of private text-message / DM exchanges** (dark/blue chat bubbles; one is an Instagram DM thread with a visible handle). Per [[_System/Boundaries]], **DMs are a distinct private tier** from the spreadsheet itself and are **not transcribed or quoted here.** They are flagged for Jen's separate classification. Topically they include: warm personal notes to/from Roy, scheduling/"alchemy"/Web3 logistics, fan-style encouragement about Jagwar Twin playing stadiums / award nominations, a "portal timeline / true voice" reference, and **one relevant to the Joni-Mitchell / Ladies-of-the-Canyon thread** (surfaced to Jen in-session). Sender identities are unverified — do not analyze without confirming "which side is whom" (Boundaries / DM rule).
+## Embedded DMs — policy (per Jen, 2026-06-01)
+Per the [[_System/Boundaries]] refinement: **DMs Roy purposefully exposed (by embedding them in this board) are citable** — *except* **Jen's own DMs with Roy**, which stay private. Because the speaker usually isn't identifiable from the bubble, the embedded DMs are **held un-transcribed pending Jen flagging which (if any) are hers**; the rest will then be quoted here. Topics present: warm personal notes to/from Roy; scheduling/"alchemy"/Web3 logistics; fan encouragement (stadiums / award nomination — one Instagram thread, handle visible); a "portal timeline / true voice" reference; and **one relevant to the Joni-Mitchell / Ladies-of-the-Canyon thread** (the highest-value, attribution unconfirmed). *(Still do not **name** the other party without permission even where a handle shows — Boundaries.)*
 
 ---
 
