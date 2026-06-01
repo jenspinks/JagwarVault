@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *Subject to Flooding* (2018; streaming metadata 2019) — **track 12**; 3:12. Spotify track `37aTSFnh7wPmbrbgwZ5wdG`.
-- **Writers (Spotify Credits):** **Roy English, Matt Pauling, Sarah Vaughan** — see [[Sources/Credits/Subject to Flooding]]. (The visible lyrics are original; the Vaughan credit most likely reflects a **musical sample** of a Vaughan recording, not interpolated lyrics — `[?]` source unidentified.)
+- **Writers (Spotify Credits):** **Roy English, Matt Pauling, Sarah Vaughan** — see [[Sources/Credits/Subject to Flooding]]. The visible lyrics are original; the Vaughan credit is a **sample**, not interpolated lyrics. **Source identified (Jen, by ear + YouTube, 2026-05-30):** the spoken **studio/stage banter *before* the vocal** on Sarah Vaughan's **"Dream" (Live At Mister Kelly's, Chicago, 1957)** (album *Sarah Vaughan at Mister Kelly's*; youtube.com/watch?v=t71I47u2iB4) — the *talk before she sings*, not the cover itself. `[P]` by-ear ID; exact banter words + the spot in Precious Time `[?]` to pin by listen.
 
 ### Citable as
 - Spotify — *Subject to Flooding*, track `37aTSFnh7wPmbrbgwZ5wdG`.
