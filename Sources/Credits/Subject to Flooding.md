@@ -3,7 +3,7 @@ type: credits
 citable: true
 status: stable
 album: ALBUM-SubjectToFlooding
-verified_against: ["Apple Music track metadata — composer field, per-track (checked by Jen, 2026-05-27)", "Spotify Credits view, per-track (Jen, 2026-05-28 & 2026-05-30: N.F.F., Hell Pt. 2, Move To You, Roy Voice Memo, Precious Time) + Apple Details/Lyrics (Superhuman, 2026-05-30)"]
+verified_against: ["Apple Music track metadata — composer field, per-track (checked by Jen, 2026-05-27)", "Spotify Credits view, per-track (Jen, 2026-05-28 & 2026-05-30: N.F.F., Hell Pt. 2, Move To You, Roy Voice Memo, Precious Time, Long Time Coming) + Apple Details/Lyrics (Superhuman, 2026-05-30)"]
 recording_owner: "Atlantic Recording Corporation / WEA International Inc."
 ingested: 2026-05-27
 ingest_source: "Apple Music Get Info — composer field, per-track (Jen)"
@@ -29,6 +29,7 @@ Recording owner (℗-line): Atlantic Recording Corporation / WEA International I
 
 | # | Title | Composer field (Apple Music — verified screenshot) | Note |
 |---|---|---|---|
+| 1 | Long Time Coming | Composition & Lyrics (Spotify): **Travis Barker, Matt Pauling, Roy English** | verified 2026-05-30 (Jen Spotify Credits) — **confirms the AZLyrics writer list, incl. Travis Barker as a *writer*** (blink-182; album contributor *and* co-writer here). Production: Roy English / Matt Pauling (Producers), **Adam Hawkins (Mixer)**, Chris Gehringer (Masterer), S1 (Executive Producer). |
 | 3 | Loser | Matthew Pauling & Roy English | verified 2026-05-27 (Jen screenshot) |
 | 4 | Good Day | Details: **BLANK**. Lyrics-tab Written By: **Essex, Roy English, S1** | verified 2026-05-28 (Jen screenshots). "Essex" unidentified — possible interpolation source `[?]`. AZLyrics' "Terry Knight" was a phantom (wrong-song scrape). |
 | 7 | Move To You | Composition & Lyrics (Spotify): **Roy English, S1** | verified 2026-05-30 (Jen Spotify Credits). Confirms the Apple composer field. Full production: **Roy English & Michael Morgan & S1** (Producers), **S1** (Executive Producer), **Chris Gehringer** (Masterer), **Jeff Ellis** (Mixer). |
@@ -40,7 +41,7 @@ Recording owner (℗-line): Atlantic Recording Corporation / WEA International I
 
 ### Album-wide engineering team (Spotify Credits, observed across tracks)
 - **Chris Gehringer** — Masterer (on every track screenshotted so far)
-- **Jeff Ellis** — Mixer (most tracks screenshotted so far). **Exception: Precious Time (12) is mixed by Adam Hawkins** — Ellis is recurring, not universal.
+- **Jeff Ellis** — Mixer (most tracks screenshotted so far). **Exceptions: Long Time Coming (1) and Precious Time (12) are mixed by Adam Hawkins** — Ellis is recurring, not universal.
 - **S1 (Larry Darnell Griffin Jr.)** — Executive Producer (recurring across tracks; also writer on Good Day, N.F.F.)
 - **Matt Pauling** — Producer (recurring; also writer on Loser, N.F.F.)
 - **Michael Morgan** — Producer (Hell of a Night Pt. 2, Move To You; also a *writer* on Hell Pt. 2)
@@ -59,7 +60,7 @@ Two confirmed external composers reveal interpolated cultural material — the s
 
 Apple Music composer field is authoritative **where populated**. Where it shows only "Jagwar Twin," AZLyrics-added co-writers are **`[?]` unconfirmed — not disproven** (Apple composer metadata is frequently incomplete). To reconcile in `Sources/Lyrics/`:
 
-- **Long Time Coming** (1): AZLyrics "Travis L. Barker, Matthew Pauling, Roy English"; Apple composer **not yet screenshot-verified** (earlier "Jagwar Twin only" was an inference now in doubt — see correction above). Travis Barker = confirmed album *contributor* (blink-182); his composer status is `[?]` pending screenshot.
+- **Long Time Coming** (1): **RESOLVED 2026-05-30** — Spotify Credits = **Travis Barker, Matt Pauling, Roy English** (Composition & Lyrics). Confirms the AZLyrics writer list; **Travis Barker is a writer**, not merely a contributor. No longer `[?]`.
 - **Superhuman** (6): **RESOLVED 2026-05-30** — Apple Music Details composer field = **Jeff Bhasker, Matt Pauling & Roy English** (+ Lyrics-tab "Written By" identical; Jen screenshots). Confirms the AZLyrics writer list (Bhasker confirmed on the interlude, track 5). No longer `[?]`.
 - **Good Day** (4): AZLyrics "Terry Knight, Roy English, Larry Darnell Griffin Jr." — **confirmed wrong** (2026-05-28). Apple Music **Details composer is blank**; Apple Music **Lyrics-tab Written By = "Essex, Roy English, S1"**. "Terry Knight" was a phantom credit (wrong-song scrape); "Essex" is the actual co-writer (unidentified, `[?]` — possible interpolation source); S1 = LDG Jr. (matches).
 - **Hell of a Night Pt. 2** (11): **RESOLVED 2026-05-28** — AZLyrics' "Matt Pauling" listed under Writer was a Producer↔Writer conflation. Spotify Credits + Apple Music: Pauling is a **Producer** on this track, not a Writer. Writers = Roy English, Michael Morgan only.
