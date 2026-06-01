@@ -163,18 +163,98 @@ A stacked column building the divine name letter by letter:
 
 ---
 
+# PART 2 — lower board (rows ~548 → end)
+
+*(Captured 2026-06-01 from Jen's high-res screenshots covering the rest of the sheet. Typed cells verbatim; Russell/esoteric charts inventoried; DMs held private.)*
+
+## 9. "Tracks" — an apparent concept-album tracklist (typed)
+A numbered **"Tracks"** list (distinct from the released *33* — see [[33 (album)]] — this reads as a separate **concept album**, the "upload my consciousness" project):
+1. xWebx `[reading tentative]` (linked "Amazon.com")
+2. *(Amazon.com link)*
+3. The Fall into Matter
+4. Marduk
+5. Let Them Eat Cake
+6. Sun of God
+7. Dissolution
+8. As Above, so Below
+9. Genesis
+10. The All Is Mind
+11. O
+
+*(The arc — Fall into Matter → … → Dissolution → As Above So Below → Genesis → The All Is Mind → O — is a Hermetic descent/return. Note **"Let Them Eat Cake"** ↔ the released [[Sources/Lyrics/I Like to Party|I Like to Party]] ("Devil's Food cake / bake a truth with a lie / sell 'em the cake"); **"Sun of God"** ↔ "The sun = manifesting energy" and the Sun/Son pun below. Pointer only — flag as a distinct/likely-unreleased project, do not conflate with *33*.)*
+
+## 10. "Hermetics — 7 Principles" (the Kybalion, typed verbatim)
+1. **Mentalism** — "The All is Mind. The Universe is Mental. / Our outer reality is created in and by the mind. / The seemingly solid, material world is made up of particles of energy and empty space which the mind receives as information and interprets through our 5 senses. / Our world is our interpretation of information. / Food is information. / Apples and Air! And Water! Well everything. / The mind lives within a sea of information. / The manifest dream."
+2. **Correspondence** — "As above, so below. As below, so above. As within, so without. As without, so within. / The formula is the same from a solar system down to the atom. / Adam / Hurricane / Galaxy / Fibonacci / The Pattern is present on all levels."
+3. **Vibration** — "Nothing rests; everything moves; everything vibrates. / Tesla said 'If you wish to understand the universe, think in terms of energy, frequency and vibration.' / Atoms are constantly vibrating. Kinetic Theory of Matter. Entropy. Waves of probability. / All manifestation of thought, emotion, reason, will or desire … are accompanied by vibrations … which tend to affect the minds of other persons by 'induction'. / This is the principle which produces the phenomena of 'telepathy' … mind over mind. / Tune to desired frequency."
+4. **Polarity** — "Everything is Dual; everything has poles; everything has its pair of opposites; / opposites are identical in nature, but different in degree; extremes meet; all truths are but half-truths; / Where does fast end and slow begin? / Love and Hate are two poles of the same thing. … / Change the vibrations of hate into the vibrations of love in one's own mind and in the minds of others."
+5. **Rhythm** — "Everything flows, out and in; everything has its tides; all things rise and fall; the pendulum-swing manifests in everything; / Everything repeats itself in rhythmic cycles as if the code of reality is operating on an algorithm. / Civilizations rise and fall … the seasons, day and night, the tides, and birth and death. / Work with natural rhythms."
+6. **Cause and Effect** — "Every Cause has its Effect. Every Effect has its Cause. Everything happens according to Law. / Chance is but a name for Law not recognized. Even the roll of a dice is not a game of chance. Tiny causes create effects. / How to play the game?"
+7. **Gender** — "Everything has its Masculine and Feminine Principles. Battery power. (–) (+). Giving and receiving. / Masculine and Feminine energies generate and regenerate all things. / Masculine and Feminine are two poles of the same thing."
+- Adjacent: **"Left hemisphere of brain — Order, reason, masculine (+)"** / **"Right hemisphere of brain — Chaos, creativity, feminine (–)"**; **"BATTERIES"**; **"The direction of current flow from a battery cell is from negative to positive. The disintegration of the negative electrode provides the supply of energy."**
+
+## 11. The cosmogonic poem (typed, column-laid)
+> "In the begining / Back long ago / I was just me / but who was I to know? / I wanted to see myself and where I could go. / I spoke the words **'One become Two'** / Then I was in reverse / but now I could see my self / and I became You. / Well, You and I could dance forever — **A Darkness and a Light** — / But, when we crashed and came together, **A Sun was born inside.** / Next there were 4 — **Process & Time** — / I opened up a door and I just released myself to cover the sky. / Split into 5 / 6 / 7 / 8 / 9. / But when it came to 9 I had to remind my Self that **'I' was still I.** / Well, all of Us could dance forever, in every Space and Time, / But one day **We'll get back together and see The Great Design.**"
+
+*(A complete emanation myth: the One sees itself, becomes Two — Darkness/Light — they "crash" and a Sun is born, then the decad unfolds 4→9, ending in reunion. Ties to the artist bio "There's two sides to every story," the [[Sir Lucius]] split, and Soul Is A Star. Pointer only.)*
+
+## 12. The 10-stage scheme — three more encodings
+- **"Body Part Stages"** (a somatic map): 1 Feet, base of spine · 2 Lungs, Stomach, Sexual Organs · 3 Right arm, right hip · 4 Left arm, left hip · 5 Heart · 6 Right shoulder, throat · 7 Left shoulder, throat · 8 Right side of head, forehead · 9 Left side of head, forehead · 10 Crown of head.
+- **Japanese stage-labels** (for the "Enlightened Being" concentric diagram): 最高の自己 *(highest self)* · 霊的な意志 *(spiritual will)* · 霊的な愛 *(spiritual love)* · 魂の気づき *(soul awareness)* · ソウルパワー *(soul power)* · センター *(center)* · 感情 *(emotion)* · 思索 *(contemplation)* · 下意識 *(subconscious)* · 身体 *(body)*. *(Also 道教 = "Taoism".)*
+- **A 0–10 emanation list** (handwritten, Tree-of-Life glosses): "0. Nothing IS, Nothing Becomes, Nothing is Not / 1. I AM / 2. I speak the word / 3. I hear the word — Abyss (knowledge is relation) / 4. Father + mother concealed in generation / 5. whirling energy = Fortune / 6. The mirror of the Soul and the heart / 7. Beauty / 8. wavering, flowing / 9. stability / 10. The World."
+- **"How to Live Forever? ∞"** hopscotch ladder **Earth (1) → … → 9 → Heaven** (top, haloed figure), marked **"NChSh"** (Heb. *Nachash*, serpent).
+
+## 13. The Hero's Journey (typed stage-labels) + "cycles of consciousness"
+**"Review cycles of human consciousness throughout history"** beside a Hero's-Journey wheel and Campbell stage-labels: **Ordinary World · Rabbit Hole · The Fool · Guardian at The Gate · Testing 1,2 · Belly of Whale · Rescue Father · Dragon · Water · Treasure · Ancestors · The Way Back · Master of Twin Worlds · New Cycle Begins.** Nearby red cell: **"To find truth we must plunge into its bottomless well"** *(↔ It's Your Time's heart-Well)*.
+
+## 14. Aphorism cells (typed verbatim — Roy's own statements)
+- **"What is Form?"** — "The interlocking of free-moving Force into patterns which then operate as a unity."
+- **"What is consciousness?"** — "How do you build a tree? / A small tree. / Every generation carries within it the seed of all previous generations."
+- "It's very inconvenient to live life awake. / It's more comfortable in the planetary dream. / Once you're awake you can't go back to sleep. / The world is larger and other than I was told. / I am larger and other than I was told."
+- "Life operates on reflex principles. / We reflect ourselves to ourselves both inwardly and outwardly. / Our experience of anything is not the thing itself, but our own reactions to it."
+- "Cybernetics — Here we are thinking together. Threaded together across the globe by a wireless network and relativity. The world in which I Am extracting these thoughts from my atomic mind, externalizing them by pressing some keys on a computer, and transmitting them to you via bits that you receive on a digital screen to metabolize with your own atomic mind. **All the world is mind. Mind woven into matter.**"
+- "Man devours God, God devours Man. One Life feeding another end of its Self."
+- "To 'Burn forever in hell' is to not Let go. Rewilling to Let Go. Let it Burn. Sacrifice lesser aspects of self for greater." / (handwritten) **"the way to Heaven lies through Hell, but it is a commonplace pathway."**
+- "One must be someone to exist / One is someone to do something / We exist to act like we think and to speak."
+- "Im an egg, in the process of becoming a chicken to make more eggs to make more chickens."
+- "Maybe a planet is one stars way of becoming another star."
+- "Subtle difference between a name and what something is called." *(↔ "I'm no thing" / anti-categorization.)*
+- "What is the ideal of human perfection? / Equilibrium?"
+- "Just stay at the center of the circle and let all things take their course."
+- "The light of dreams/illusions is like a black light. Nervous organisms congested with black light attract things without knowing."
+- "The inside of the inside." · "Nothing changed and everything changed." · "Nothing is impossible ❤️." · "There must be a Link." · "the value of nothing."
+- **Question-prompts:** "How are babies made? → Look into Genesis stories" · "How to create and steer a soul? → Karma?" · "How to anthropomorphize attention? → Marduk" · "Mars?" ×3 / "Fission vs. Fusion" / "Mars vs Jupiter" · "What is my story now?" with name-numerology "5+22+1+9+8+8 = 53 / 5+3=8."
+- **Biographical (typed, board — not a DM):** "My mom always said 'He who plants a seed believes in God.' I used to think that was dumb. Now I'm like… WOAH." · "I was really proud of this song before being dropped by my record label. I think it shook my confidence. IDK [youtu.be/PyKOzmLnVSk] / Maybe I shook my own confidence / I love what I create now. And it's okay if it doesn't get outside validation. I know it's special."
+
+## 15. Soul Is A Star on the board — the "Sun" spelling
+The full **Soul Is A Star** lyric is laid out in colored cells, **but written "Sun" where the release reads "Son"**: *"I met a Man / Who had a **Sun** / But He lost Him to The World / He said 'My **Sun** was a singer'…"*, and **"We Fall down as Seeds on the ground"** ×4. *(The board's **Sun/Son** homophone is deliberate — coheres with "The sun = manifesting energy," "Sun of God" on the Tracks list, and the seed/garden imagery. The **released** lyric is verified as "Son" — see [[Sources/Lyrics/Soul Is A Star]]. Record the board spelling as an artifact detail; do not "correct" the released lyric.)*
+
+## 16. More charts / images (inventory)
+- **Walter Russell** cosmology suite (a major influence on the board): "THERE IS BUT ONE DYNAMIC FORCE" (Gravitation/Radiation, Simplicity↔Complexity); "THE LAW" (induction/conduction cones); "ANALYSIS OF THIS PLANET'S POTENTIAL POSITION…"; "THE OCTAVE NUMBERS"; "EVOLUTION OF MASS FROM PLANE TO SPHERE"; "THE SOLAR MYSTERY"; the octave-of-elements spiral (periodic table in octaves).
+- **Platonic Lambda / "World Soul"** — pyramid of numbers **1 · 2,3 · 4,6,9 · 8,12,18,27** labeled "Extended continuous geometric proportion" (Timaeus World-Soul series).
+- **Tree of Life / sephirot** sketches ("A Head of Adam," "Atom = Consciousness of an Atom, Degrees of Being alive"); **Jung psyche map** (Persona/Ego/Shadow/Anima/Self/Collective Unconscious) ×2; **Eye-of-Horus fractions** (½+¼+⅛… → 63/64); **Lo Shu magic square** (4 9 2 / 3 5 7 / 8 1 6); **"Rabbits in the key of F"** (Fibonacci dendrogram); knowledge→understanding→**wisdom** triangle ("Empty cup," "Ascension of consciousness," "VI (6)").
+- **Kabbalah veils:** "Ring Pass-Not / Ring Chaos (Ain Soph) / Ring Cosmos (Ain)"; handwritten "Strange Theory / 4 worlds / Genesis 1:26"; "ENSO — Tell Us Who You Are" (Zen circle = wholeness/mirror); Egyptian hieroglyph strip.
+- **"Statue of Roy"** — a museum placard photograph: *"Roy, a well-known high priest of Amun-Ra in Thebes … Ramesside period … cult of Hathor …"* ("Please do not touch"). *(The name **Roy** as an ancient Egyptian high-priest of Amun-Ra — biographical/name resonance.)*
+- Art/photos: Michelangelo's **Creation of Adam**; Blake's **Jacob's Ladder**; a 2001-style **monolith** in desert (Black Rock); ouroboros/alchemy emblem (Star of David, twin dragons; "Volatile/Fixum/Abyssus"); inverted **golden tree** (crown + triangle); **human brain-waves** chart (Gamma→Delta); **LHC**; **parts of an atom**; a **kangaroo** in a hoodie; airplane/festival/studio/family photos; a childhood home with **"3233"**; "**alice 211 song mirror**" voice-memo frame (Feb 28 2022).
+- Handwritten misc: "Logos (Ratio)"; "Element, Tortoise / Eagle, Atlas"; "Matter — 2 main electrical qualities: resistance / Conduction (without resistance — no reaction)"; "Computations of GOD / Theory of Existence / the existence of the Soul? / the essence of man: … microtubules"; acoustics formulas (speed of sound; tensioned-string fundamental); "I.H.S."; "VI – Love – Sacrifice"; "ROSE" (cross); "the Pearl of Great Price"; "Forbidden City"; "East Is Everywhere"; Japanese 出口はドアを通っている ("the exit passes through the door"); "Thought-Form: It is man that anthropomorphises his gods. Images formed in mind."; "Happy Birthday to YOU" (lightbulb); "1-2-ME" (Hanged-Man figure).
+
+---
+
 ## Private material (NOT citable — flagged for classification)
-The board embeds several **screenshots of private text-message/DM exchanges** (dark/blue chat bubbles). Per [[_System/Boundaries]], **DMs are a distinct private tier** from the spreadsheet itself and are **not transcribed or quoted here.** They are flagged for Jen's separate classification. *(One appears topically relevant to the Joni-Mitchell / Ladies-of-the-Canyon thread; surfaced to Jen in-session for a decision rather than ingested.)* Sender identities are unverified — do not analyze without confirming "which side is whom" (Boundaries / DM rule).
+The board embeds **many screenshots of private text-message / DM exchanges** (dark/blue chat bubbles; one is an Instagram DM thread with a visible handle). Per [[_System/Boundaries]], **DMs are a distinct private tier** from the spreadsheet itself and are **not transcribed or quoted here.** They are flagged for Jen's separate classification. Topically they include: warm personal notes to/from Roy, scheduling/"alchemy"/Web3 logistics, fan-style encouragement about Jagwar Twin playing stadiums / award nominations, a "portal timeline / true voice" reference, and **one relevant to the Joni-Mitchell / Ladies-of-the-Canyon thread** (surfaced to Jen in-session). Sender identities are unverified — do not analyze without confirming "which side is whom" (Boundaries / DM rule).
 
 ---
 
 ## Connections (pointers only — no interpretation here)
-- [[The Labors of Hercules]] — the **sun/money "Life Force"**, **"patterns of right living… mind of a race"**, and the **10-stage virtue/vice scale** are Bailey-in-Roy's-hand.
-- [[Essays/Concepts/Songs/It's Your Time]] — **Noah's Ark "3 stories: Heaven, Man, Earth"** ↔ "a man is like an in-between, animating Heaven and Hell."
-- [[33 (album)]] — board title **"I'm 33 this year,"** the **"32"** on the Ark, and the consciousness/immortality preoccupations sit directly behind *33*.
-- [[Essays/Concepts/Songs/Online]] / [[Sources/Lyrics/Soul Is A Star]] — "upload my consciousness," "we come from space," soul/star cosmology as Roy's own working notes.
-- `CONCEPT-InheritedSubstrate` — Fibonacci/golden-ratio/continued fractions, EM spectrum, tone↔color, torus, gematria: received esoteric/scientific motifs.
+- [[The Labors of Hercules]] — the **sun/money "Life Force"**, **"patterns of right living… mind of a race / Coding Consciousness"**, and the **10-stage virtue/vice scale** are Bailey-in-Roy's-hand. The whole board is steeped in **Bailey + Walter Russell + the Kybalion (Hermeticism) + Kabbalah (Tree of Life, Ain/Ain Soph, 4 worlds) + Jung (Shadow/Self) + Plato (Timaeus World-Soul)** — a candidate for a `CONCEPT-` page (see offer in-session).
+- [[Essays/Concepts/Songs/It's Your Time]] — **Noah's Ark "3 stories: Heaven, Man, Earth = 32"** and **"the way to Heaven lies through Hell"** ↔ "a man is like an in-between, animating Heaven and Hell"; the **Well** ("plunge into its bottomless well") ↔ the heart-Well.
+- [[Sir Lucius]] / [[Essays/Concepts/Jacob & Esau]] — the **Jung Persona/Shadow/Self map**, **"One become Two — A Darkness and a Light"**, **Left/Right-hemisphere polarity**, and the Kybalion **Polarity/Gender** principles are the cosmological substrate of the Roy/Lucius split and "two sides to every story."
+- [[33 (album)]] — board title **"I'm 33 this year,"** the **"32"** on the Ark, name-numerology, and the consciousness/immortality preoccupations sit behind *33*; **but the board's "Tracks" list is a distinct concept album** (Fall into Matter → Genesis → The All Is Mind → O), not *33*.
+- [[Sources/Lyrics/Soul Is A Star]] / [[Essays/Concepts/Songs/Online]] / [[Sources/Lyrics/I Like to Party]] — Soul Is A Star drafted here with the **"Sun" (vs released "Son")** pun + "We fall down as seeds"; "Let Them Eat Cake" ↔ I Like to Party's cake; "upload my consciousness / we come from space" ↔ Online.
+- **Name/biography:** the **"Statue of Roy"** placard (Roy = high priest of Amun-Ra) and "He who plants a seed believes in God" (mom) are grounded biographical anchors.
+- `CONCEPT-InheritedSubstrate` — Fibonacci/golden-ratio/continued fractions, EM spectrum, tone↔color, torus, gematria (Hebrew YHWH, Greek isopsephy, Lo Shu, Eye-of-Horus), Walter Russell octaves: received esoteric/scientific motifs.
 
 ## Maintenance / legibility log
 - 2026-06-01: created from Chrome pass (regions 1–3, partial); **same day rewritten to `stable`** from Jen's 5 high-res screenshots covering the full board — typed cells now high-confidence (the two matrices, three 10-stage scales, sun/money/Intelligence-Evolution notes, Hebrew+Greek gematria, the 22-film "Pattern in Movies" list, Noah's-Ark 3-stories=32, "greatest song = HBD").
-- **Still flagged:** the "Being × Knowing / Time = Life" co-notation `[illegible]`; some Greek/circle gematria values `[tentative]`; "Ashwood 2/18/14" reading; the embedded **private DMs** (await Jen's classification).
+- 2026-06-01 (later): **Part 2 appended** from Jen's hi-res screenshots of the lower board (rows ~548→end) — the "Tracks" concept-album list, the full Kybalion 7 Principles, the cosmogonic poem, Hero's Journey labels, Body-Part / Japanese / 0–10 stage encodings, the aphorism cells, Soul-Is-A-Star's "Sun" spelling, the Walter Russell suite, "Statue of Roy," ENSO, and the biographical/label note. Whole board now captured.
+- **Still flagged:** the "Being × Knowing / Time = Life" co-notation `[illegible]`; some Greek/circle gematria values + the "xWebx" track-1 reading + the "5+22+1+9+8+8" name-numerology `[tentative]`; "Ashwood 2/18/14" reading; the many embedded **private DMs** (await Jen's classification).
