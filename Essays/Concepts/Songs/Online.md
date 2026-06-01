@@ -10,7 +10,7 @@ related: [ALBUM-33, CONCEPT-TheAlgorithm, CONCEPT-TheAquarium, CHAR-SirLucius, S
 ## Album / Position
 
 - **Album:** *33* (2022). Spotify track `4rUA1L4SkcF0LL1JVMdzd6`; 2:50; ~670k streams (at capture).
-- **Position:** `[?]` track number not confirmed — verify against [[33 (album)]] (drafts guessed track 1; reads as an early/pivot placement, but confirm).
+- **Position:** **Track 1 of 10** — the album *opener* (confirmed via the *33* tracklist, 2026-05-30). The pivot reading lands harder for it being the literal first track: *33* opens on the surveillance-jingle.
 
 ## Lyrics
 

@@ -11,7 +11,7 @@ ingest_source: "Google Drive (Jen's lyrics doc 2); verified against Spotify 2026
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- **Album:** *33* (2022) — Spotify track `4rUA1L4SkcF0LL1JVMdzd6`; 2:50.
+- **Album:** *33* (2022, Big Loud Rock) — **track 1 of 10** (confirmed via album tracklist, 2026-05-30); Spotify track `4rUA1L4SkcF0LL1JVMdzd6`; 2:50.
 - **Writers:** `[?]` not screenshotted yet — pull Spotify Credits to confirm.
 
 ### Citable as
