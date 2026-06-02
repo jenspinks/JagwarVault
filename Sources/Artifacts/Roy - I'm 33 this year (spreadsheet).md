@@ -240,8 +240,30 @@ The full **Soul Is A Star** lyric is laid out in colored cells, **but written "S
 
 ---
 
-## Embedded DMs — policy (per Jen, 2026-06-01)
-Per the [[_System/Boundaries]] refinement: **DMs Roy purposefully exposed (by embedding them in this board) are citable** — *except* **Jen's own DMs with Roy**, which stay private. Because the speaker usually isn't identifiable from the bubble, the embedded DMs are **held un-transcribed pending Jen flagging which (if any) are hers**; the rest will then be quoted here. Topics present: warm personal notes to/from Roy; scheduling/"alchemy"/Web3 logistics; fan encouragement (stadiums / award nomination — one Instagram thread, handle visible); a "portal timeline / true voice" reference; and **one relevant to the Joni-Mitchell / Ladies-of-the-Canyon thread** (the highest-value, attribution unconfirmed). *(Still do not **name** the other party without permission even where a handle shows — Boundaries.)*
+## Embedded DMs (Roy-exposed — citable)
+**Status:** Jen confirmed (2026-06-01) that **nothing on this board is hers** and the whole artifact is fully usable — so the embedded DMs are **citable** per the [[_System/Boundaries]] Roy-exposure refinement. **Senders/handles are withheld** (naming a non-consenting third party still requires explicit permission — Boundaries). Wording below is **best-effort OCR of small chat bubbles; the board images are the authority** for exact text.
+
+**Joni / Ladies-of-the-Canyon thread (high value):**
+- "I'm honored. I was listening to **LOTC** in the womb." · "She loved it from what I heard! She was quite impressed."
+- A longer bubble re: **"my dad sent me … 'Woodstock' … his favorite Joni song …"** `[partially legible — verify exact wording against source before quoting in an essay]`. *(Biographical corroboration for the Joni influence; pointer to [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]] / [[Sources/Credits/33]].)*
+
+**Affirmation / personal (to-or-from Roy):**
+- "Brother. You're like someone I've known for a long time. I felt that the day I met you."
+- "Hey brother, just wanted to tell you that I love you very much. I am so blessed to know you in this lifetime. This next chapter is infinite ∞"
+- "Thank you for helping me succeed in life and for sharing your wisdom and love openly with me. I hope I can always reciprocate the friend you are to me."
+- "Always inside you my dude! You don't need to try and be anything. You just need to be."
+- "Thanks for being there last night. So appreciate you and our friendship … your energy feels like I'm at home."
+
+**Creative / logistics:**
+- "Yo!! How was alchemy?!! Also, what time you wanna start tomorrow?"
+- "Yo! Got some Web3 questions and want to catch up, you around today?"
+- "Yo, what's your schedule like next week? Would you be interested in getting back in and working on management?"
+- "OMG remember that whole portal timeline where your 'true voice' came in?"
+- "Roy I can't wait to cry side stage watching you play stadiums."
+- (Instagram thread) "Hahaha dude… if Jagwar Twin is nominated promise you'll wear this? / Hahahaha / **Yes**." `[sender withheld]`
+
+**Short / ambiguous:**
+- "These are those cycles." · "I need to make that full flip." · "is anyone even going to read this thing?" / "I did." · "It's amazing garbage." · "Before i would have been like 'there's a hidden tree!!! Somewhere in the world!' / Hahaha / Haha me too!!" · "Yea. It's confusing but the thought holds water. I'm trying to fully wrap my head around it all." · "Remember when I was the camel? I look at us now." · "Says Death School at 6pm… is that something that can be moved or not?" · "No it sounded like you have someone trying to kill you." · "It just depends on what kind of light." · "You know what's crazy. I've never felt like 'what if this doesn't work out.'"
 
 ---
 
@@ -257,4 +279,5 @@ Per the [[_System/Boundaries]] refinement: **DMs Roy purposefully exposed (by em
 ## Maintenance / legibility log
 - 2026-06-01: created from Chrome pass (regions 1–3, partial); **same day rewritten to `stable`** from Jen's 5 high-res screenshots covering the full board — typed cells now high-confidence (the two matrices, three 10-stage scales, sun/money/Intelligence-Evolution notes, Hebrew+Greek gematria, the 22-film "Pattern in Movies" list, Noah's-Ark 3-stories=32, "greatest song = HBD").
 - 2026-06-01 (later): **Part 2 appended** from Jen's hi-res screenshots of the lower board (rows ~548→end) — the "Tracks" concept-album list, the full Kybalion 7 Principles, the cosmogonic poem, Hero's Journey labels, Body-Part / Japanese / 0–10 stage encodings, the aphorism cells, Soul-Is-A-Star's "Sun" spelling, the Walter Russell suite, "Statue of Roy," ENSO, and the biographical/label note. Whole board now captured.
-- **Still flagged:** the "Being × Knowing / Time = Life" co-notation `[illegible]`; some Greek/circle gematria values + the "xWebx" track-1 reading + the "5+22+1+9+8+8" name-numerology `[tentative]`; "Ashwood 2/18/14" reading; the many embedded **private DMs** (await Jen's classification).
+- 2026-06-01 (later still): **DMs cleared & transcribed.** Jen confirmed nothing on the board is hers → whole artifact fully citable. Embedded DMs transcribed (senders withheld). Boundary refinement recorded in [[_System/Boundaries]].
+- **Still flagged (OCR re-check before load-bearing use):** the "Being × Knowing / Time = Life" co-notation `[illegible]`; some Greek/circle gematria values + the "xWebx" track-1 reading + the "5+22+1+9+8+8" name-numerology `[tentative]`; "Ashwood 2/18/14" reading; the longer Joni "Woodstock" DM bubble `[partially legible]`. Board images are the authority for exact wording.
