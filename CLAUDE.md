@@ -366,6 +366,8 @@ A designated Secret Document contains private, unreleased, personally-shared mat
 
 The single public exception: *"the song hidden inside its wings"* is a public Twitter post, freely citable.
 
+**Canonical boundary doc:** the rules above are the core, but the **full public/private boundary spec lives in `_System/Boundaries.md`** — read it. It covers what's citable vs. private in detail, **DM/screenshot attribution** (never assume which side is whom; don't name the other party without permission), the **"private Docs that consolidate public material"** distinction, the **Inner Circle** rules, and the dated **living-document refinements** (e.g. 2026-05-30 names-in-lyrics; 2026-06-01 *Roy-exposed material is citable, but Jen's own DMs stay private*). When Boundaries.md and this section disagree, **Boundaries.md is authoritative** and more current.
+
 ---
 
 ## SOURCE ATTRIBUTION
@@ -425,10 +427,11 @@ Obsidian wikilink format: `[[PageName]]` — not markdown `[text](url)`.
 ## SESSION-START CHECKLIST
 
 1. Read this file.
-2. Read `_System/index.md`.
-3. Skim recent `_System/log.md`.
-4. Confirm Jen's current focus.
-5. Conversation instructions are additive; surface conflicts before proceeding.
+2. Read `_System/Boundaries.md` (public/private rules — non-negotiable; more current than the inline §THE SECRET DOCUMENT).
+3. Read `_System/index.md`.
+4. Skim recent `_System/log.md`.
+5. Confirm Jen's current focus.
+6. Conversation instructions are additive; surface conflicts before proceeding.
 
 ---
 
