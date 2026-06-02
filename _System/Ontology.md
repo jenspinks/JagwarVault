@@ -36,6 +36,7 @@ hand-maintained thereafter.
 | `CONCEPT-TheMask` | The Mask |  |
 | `CONCEPT-TheMouth` | The Mouth |  |
 | `CONCEPT-ThePath` | The Path |  |
+| `CONCEPT-ThePattern` | The Pattern | Roy's own term for the single fractal law repeating at every scale ("The Pattern is present on all levels" / "The Pattern Represented in Movies"); the unified system he assembles on the [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] board from Bailey + Walter Russell + Kybalion + Kabbalah + Jung + Plato; hub node for that artifact; anchors several pageless concepts (SacredGeometry, CosmicCycles, SleepWakeUp, CollectiveAmnesia, TheLoop) |
 | `CONCEPT-TheSpectacle` | The Spectacle |  |
 | `CONCEPT-TheThread` | The Thread |  |
 | `CONCEPT-TheVeil` | The Veil |  |

@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, ALBUM-LuciusLullaby, SONG-WelcomeToTheCircus, SONG-Weirdness, SONG-TheCircleLuciusVersion]
   strong_read: [CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMirror, CONCEPT-TheMask, CONCEPT-TheAlgorithm, SONG-LuciusLullaby, CHAR-Mary, CHAR-TheBoss]
   resonance:   [CONCEPT-Yesod, CONCEPT-TheLightBearer, CHAR-Leif]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-Roy, CONCEPT-Consumption, CONCEPT-Duality, CONCEPT-Inversion, CONCEPT-Nigredo, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheCircus, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLabyrinth, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-TheSpectacle, CONCEPT-TheVeil, CONCEPT-TheVoice, CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, SONG-HellOfANightPt2TheHallelujahStickup, SONG-LongTimeComing, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-Weirdness, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-Roy, CONCEPT-Consumption, CONCEPT-Duality, CONCEPT-Inversion, CONCEPT-Nigredo, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheCircus, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLabyrinth, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-ThePattern, CONCEPT-TheSpectacle, CONCEPT-TheVeil, CONCEPT-TheVoice, CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, SONG-HellOfANightPt2TheHallelujahStickup, SONG-LongTimeComing, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-Weirdness, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Sir Lucius
