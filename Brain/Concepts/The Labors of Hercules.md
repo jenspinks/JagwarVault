@@ -4,10 +4,10 @@ type: concept
 status: stable
 confidence: medium
 source_quality: primary-source
-sources: [Sources/Quotes/Roy IG Story - Bailey Labour VII.md]
+sources: [Sources/Quotes/Roy IG Story - Bailey Labour VII.md, Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules.md, Sources/Artifacts/Roy - I'm 33 this year (spreadsheet).md]
 related: [CHAR-SirLucius, CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, SONG-NotYourHomie, SONG-1ChampionLaConquistadora]
 connections:
-  grounded:    [SONG-NotYourHomie, SONG-1ChampionLaConquistadora, SONG-WelcomeToTheCircus]
+  grounded:    [SONG-NotYourHomie, SONG-1ChampionLaConquistadora, SONG-WelcomeToTheCircus, CONCEPT-ThePattern]
   strong_read: [CHAR-SirLucius, CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLabyrinth, CONCEPT-Inversion]
   resonance:   [CONCEPT-TheMirror, CONCEPT-TheCircle, CHAR-Mary]
 referenced_by: [CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLabyrinth, CONCEPT-ThePattern, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
@@ -25,6 +25,14 @@ Bailey founded the **Lucis Trust** (incorporated 1922), whose publishing arm was
 
 ## Public engagement (none — CAPTURED 2026-05-29)
 Roy publicly engages Bailey's *Labors of Hercules* — captured: an Instagram Story, @jagwartwin (verified), ~2026-05-28, captioned **"Alice Bailey ⚔️"**, photographing a **hand-underlined page** of the book (none — [[Sources/Quotes/Roy IG Story - Bailey Labour VII]]). Plus an **Instagram Live** (Cancer-themed; ~50 viewers) in which **Roy names the book outright and states his own reading** (none — [[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]]): *"a book by Alice Bailey called The Twelve Labours of Hercules, and Hercules, which is the soul, which is us, the initiate, goes through all twelve signs of the zodiac essentially, but we all have these inside of us… in different aspects of our life."* This is the **highest-grounding Bailey evidence in the vault** — not curation-by-proxy but Roy *teaching the framework as his own*. (Other livestream[s] still to capture.) This **upgrades Bailey from "curated illusion-quotes" to active, named, *annotated* engagement** — the strongest grounding in the vault that Bailey is *in* the project, not imported; the curation+annotation is direct evidence of study, not citation-by-others. (A private-setting mention also exists; private, never cited — the public artifact lets the reading stand without it.)
+
+## Board corroboration — the "I'm 33 this year" spreadsheet [GROUNDED]
+Roy's own conceptual board ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]], citable per Jen 2026-06-01) renders Bailey **in Roy's own hand**, independent of the IG Story/Live — so Bailey-*presence* and Bailey-*as-active-framework* are now **grounded across multiple independent Roy artifacts**, not a single source:
+- **Money as externalised energy:** *"The sun = Symbol of manifesting energy / externalized 'Life Force'"*; *"Money… on the physical plane it is energy; on the mental plane intelligence and knowledge… transmuted by appropriate alchemy into money."* Close paraphrase of Bailey's teaching on money as concretised/externalised spiritual energy.
+- **Race-mind / conditioning:** *"Patterns of right Living are formed in the unconscious mind of a race so that it becomes easier to follow for generations after"* + *"Coding Consciousness"* — Bailey's race-mind / group-conditioning register.
+- **Virtue/vice by sign:** the board's *"Positive/Negative traits — 10 Stages"* reads as sign-by-sign virtue/vice attribution — kin to Bailey's labour-per-sign scheme; one of three parallel 10-stage encodings (tone/color/virtue) on the board.
+
+Bailey now sits as **one named pillar** of Roy's larger system — see [[The Pattern]] (Bailey + Walter Russell + Kybalion + Kabbalah + Jung + Plato). **Tier change:** Bailey-in-the-project moves from *grounded-on-one-artifact* to **grounded across the Story, the Live, and the board.** **Unchanged:** the **per-song labour mapping** below stays `[P]`/`[W]` — the board does **not** map songs to labours.
 
 ## The 12-labour JT mapping — working scaffold [P] (Jen)
 **Order = Bailey's ZODIACAL sequence (Aries I → Pisces XII), not the classical myth-book order.** This matters: Roy uses Bailey, so the vault numbers by Bailey (Lion = V/Leo, *not* "Labour 1"). Cross-supported by two independent passes that agree on each monster's *meaning*; where a pass used classical order, it renumbers — ignore that numbering.

@@ -11,7 +11,7 @@ connections:
   strong_read: [CHAR-SirLucius, CHAR-Roy, CONCEPT-InheritedSubstrate]
   resonance:   [CONCEPT-Duality, CONCEPT-TheCircle, CONCEPT-SacredGeometry, CONCEPT-CosmicCycles]
 review_date: 2026-12-01
-referenced_by: []
+referenced_by: [CONCEPT-TheLaborsOfHercules]
 ---
 # The Pattern
 
@@ -60,7 +60,7 @@ Board drafts [[Sources/Lyrics/Soul Is A Star|Soul Is A Star]] as **"Sun"** (*"wh
 - [ ] Is the "Tracks" list a real (unreleased) project, a working title set, or abandoned? Confirm before treating as a release.
 - [ ] Does the Pattern *generate* the catalogue or is it Roy's after-the-fact map of it? (Same problem as the labours.) Per-song mapping needs per-song anchors — do not back-fit.
 - [ ] Split into sub-concepts later? "The Pattern" (fractal law) vs "Consciousness Upload" (the application) may each want their own page as material grows.
-- [ ] Which named source is load-bearing where — Bailey vs **Walter Russell** (heavily present, not yet its own node) vs Kybalion. Russell may merit a substrate node.
+- [ ] Home the board's source-material as **concept nodes (the ideas), not person nodes** (Jen, 2026-06-01) — Roy's material sits *alongside* the same concepts other thinkers built (Bailey, Hermes/Kybalion, Plato, Jung), who may surface elsewhere in the vault. So **Walter Russell**'s heavy presence (charge/discharge, gravitation–radiation, octaves) should feed shared concepts — e.g. [[Duality]] (polarity), `CONCEPT-SacredGeometry`, `CONCEPT-CosmicCycles` — **not** a `CONCEPT-WalterRussell` page. Same for the others: attribute the contributor in prose; let the *concept* be the node.
 
 ---
 *Hub node for the [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] artifact. Brain-terse; full transcription + image inventory live on the source. Draft — grows as the board's threads are worked into songs.*
