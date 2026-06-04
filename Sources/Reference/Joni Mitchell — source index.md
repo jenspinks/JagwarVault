@@ -64,6 +64,33 @@ ingest_source: "Public press/reference articles about Joni Mitchell, supplied by
 ## 8. New York Magazine (nymetro) — `[content pending]`
 - **URL:** nymag.com/nymetro/arts/music/pop/11888/ — **blocked to WebFetch** (`nymag.com`, like pitchfork.com). Not yet read. To ingest: paste the text. *(Likely an early-2000s NY Mag Joni feature/interview.)*
 
+## 9. James Caig — "…Don't Interrupt The Sorrow" (Medium, 2015)
+- **Cite:** James Caig, *"In flames our prophet witches: A love letter to the lyrics of Don't Interrupt The Sorrow by Joni Mitchell,"* **Medium**, 21 Sep 2015 (critical essay — *secondary*).
+- **Says:** reads "Don't Interrupt The Sorrow" (*Hissing of Summer Lawns*, 1975) as patriarchy vs feminist resistance, via Jung's **"Anima Rising."** No direct Joni quotes (lyric analysis only).
+- **JT relevance `[~]`:** Jung **Anima Rising** ↔ JT anima/animus + the masculine/feminine pole of the Roy/Lucius split ([[Duality]]). Secondary criticism — cite the *song*, not the essay.
+
+## 10. Max Heine — "Joni Mitchell's 'Mystical Thread'" (Christ and Pop Culture, 2025)
+- **Cite:** Max Heine, *"Unraveling Joni Mitchell's 'Mystical Thread',"* **Christ and Pop Culture**, 24 Nov 2025 (critical essay — *secondary*).
+- **Says:** her spiritual worldview — disillusioned with institutional religion yet persistently truth-seeking (Job, the Magdalene Laundries); skepticism + yearning unresolved.
+- **JT relevance `[W]`/`[~]`:** Joni's own phrase **"a mystical thread that runs through my life"** ↔ JT's **[[The Thread]]** (by-proxy quote — verify the underlying interview). *"I'm interested in the prophets of all religions, but the religions themselves don't make any sense to me"* ↔ JT's syncretism + the **"Before Prophets ever turned"** line in [[Sources/Lyrics/Soul Is A Star]].
+- **⚠ Bears on the devil's-bargain conflict:** this essay treats *"Caught in the devil's bargain"* as **Joni's own Woodstock final-chorus pivot** — a data point **leaning AGAINST** the dossier's "it's CSNY-only" claim ([[Sources/Reference/Joni Mitchell — JT-relevant analysis (research dossiers)]] Part 3). Still not authoritative — **jonimitchell.com's Woodstock lyric page settles it.**
+
+## 11. Wonji Dharma — "Joni Mitchell and Buddhism: Zen Mirror" (2013)
+- **Cite:** Wonji Dharma, *"Joni Mitchell and Buddhism: Zen Mirror,"* **Zen Mirror** (blog), 4 Jul 2013 (*secondary*; embeds Joni quotes).
+- **Says:** Joni ↔ Buddhism; the **Chögyam Trungpa** 1975 3-day awakened state (corroborates #1 & dossier Part 3); *Hejira* / *Wild Things Run Fast*; she calls herself a **"Buddhist-Gnostic hybrid."**
+- **JT relevance `[W]`/`[~]` (rich):** **"I am of the 'God is within' school"** ↔ JT **"Heaven is within your heart"** ([[Sources/Lyrics/I Like to Party]]) + the board's kingdom-within; **"My mind was back in Eden, the mind before the fall"** ↔ the **garden/Eden/fall** weld (Soul Is A Star seeds; board "Garden of Eden"; anamnesis); **"Buddhist-Gnostic hybrid"** ↔ JT's Gnostic/Hermetic syncretism ([[The Pattern]]); the **mirror** framing ↔ Empty Mirror. (By-proxy quotes — verify the underlying interviews.)
+
+## 12. Henry Carrigan — "Joni Mitchell: 50 Years After 'Court and Spark'" (Folk Alley, 2024)
+- **Cite:** Henry Carrigan, *"Joni Mitchell: 50 Years After 'Court and Spark',"* **Folk Alley**, 17 Jan 2024 (album-retrospective — *secondary*).
+- **Says:** *Court and Spark* (1974, #2 US / #1 Canada) as the jazz-pop pivot; "Free Man in Paris" = a "playful portrait" of David Geffen. No direct Joni quotes.
+- **JT relevance `[~]`:** context for the **"star maker machinery"** song (Free Man in Paris / Geffen); Court-and-Spark-era framing.
+
+## 13. "Mirror, not self-portrait" quote — ⚠ ATTRIBUTION SUSPECT (via Facebook video)
+- **The quote (as Jen supplied it):** *"The songs were not intended as a portrait of myself… They were intended to be a mirror of human nature. I think they can be best enjoyed if the listener sees themself in them, not if they see Joni doing something."*
+- **Attribution as given:** "Joni in conversation with **WIRED magazine, May 1988**" — delivered via a Facebook video share (facebook.com/share/v/1BsuRsbMaT/ — not fetchable).
+- **⚠ FLAG — the citation can't be right:** **WIRED launched in 1993**, so "WIRED magazine, May 1988" is a **misattribution** (wrong outlet and/or date). The *quote* is fully consistent with Joni's documented **"mirror, not self-portrait"** stance (cf. the WIRED quote actually belongs to some 1988-era interview — likely *Smash*/Chalk Mark press, see #7). **Do NOT cite "WIRED 1988"** — pin the real source first.
+- **JT relevance `[W]` (high, if genuine):** *"a mirror of human nature… the listener sees themself in them, not Joni doing something"* is **the Empty-Mirror / ENSO ("Tell Us Who You Are") / witness stance** at the heart of JT — and the structural mate of **Soul Is A Star addressing the listener** (*"do you know who you are?"*) and the board's ENSO. A strong anchor for the mirror thread **once the citation is fixed.**
+
 ---
 
 ## Cross-references
@@ -75,3 +102,4 @@ ingest_source: "Public press/reference articles about Joni Mitchell, supplied by
 - 2026-06-02: indexed 5 Jen-supplied URLs. Fetched 4 (Guardian via its jonimitchell.com mirror; WBUR; EBSCO; +the Guardian/jonimitchell duplicate). **Pitchfork pending** (WebFetch blocked). `citable: true` (real articles) — but verify exact quotes against the URL before essay use. Key gains: independent corroboration of the **"Claude"/Art Nouveau persona** (WBUR) and the **fame-machinery resistance**; the **Trungpa awakening** (Guardian) corroborates dossier Part 3.
 - 2026-06-02 (later): added **#5 — Millennium Project Interview (NicheTV, 2000)** (Jen opened it in the Chrome tab; fetched via jonimitchell.com). Joni's own "back to the garden"/end-times gloss on "Woodstock" + Jung-subconscious-beyond-time. Pitchfork still pending.
 - 2026-06-02 (later still): added **#6 — Denberg/KGSR 1998** (industry-as-sick / exploited-artist; "in the game and not of it"; painter-first) and **#7 — Shuttleworth/Smash 1988** (Jung "Medicine Wheel" four-faculty model; intuition-over-intellect ↔ Roy's instinct/intellect/intuition triad). Both via jonimitchell.com. **Still blocked (pending paste):** Pitchfork "33 Songs" (#3) and NY Mag nymetro (#8) — both domain-blocked to WebFetch & the Chrome extension.
+- 2026-06-02 (batch 3): added **#9** Caig/Medium (Anima Rising), **#10** Heine/Christ&PopCulture ("mystical thread" ↔ The Thread; + a data point that "devil's bargain" IS Joni's), **#11** Wonji Dharma/Zen Mirror ("God is within" ↔ "Heaven within"; "mind before the fall"/Eden; Buddhist-Gnostic), **#12** Folk Alley Court-and-Spark-50. **#13** = the *"mirror, not self-portrait"* quote — **attribution flagged WRONG** ("WIRED 1988" — WIRED postdates 1988; pin the real source). #9–#12 are *secondary* essays/blogs — cite the underlying songs/interviews, not them. nymag (#8) + Pitchfork (#3) still pending.
