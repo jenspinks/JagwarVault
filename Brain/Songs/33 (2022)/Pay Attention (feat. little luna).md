@@ -32,13 +32,13 @@ Type: Song · *33* (2022, Big Loud Rock), **track 3 of 10**, 3:04. Writers **Roy
 - **[W] Counterfeit-light** — *"Stars are Born from Light"* / *"more than you Mind"* = sacred/consciousness idiom in the tempter's mouth → [[Sir Lucius]]'s channel-mistaken-for-source error; light/*ohr* ↔ [[Essays/Concepts/Songs/Soul Is A Star|Soul Is A Star]].
 - **[W] Lucius *function*, not figure** — persuasion-not-force, leverage on existing desire, concealment behind visible structures (*"behind the Empires… televise is my disguise"*). Prototype of [[Sir Lucius]].
 - **[W] Form collects the toll** — the *"What's my name? / Attention"* call-and-response makes answering = paying attention; recursive loop, rhymes with [[The Circle|Circle]]/[[Welcome to the Circus|Circus]] (awareness pulled *outward*).
-- **[W] little luna = procurer + desire-namer** (intro introduces the mark; pre-chorus voices the wanting). **⚠ vocal attribution is by-ear** — lyric sheet assigns no vocals; confirm against the recording. *(Supersedes the old stub guess that luna = a [[Mary]]/witness function — her textual role here is Lucius-adjacent recruitment/desire, not witnessing.)*
+- **Vocal casting (grounded — per the release / Jen):** **Roy = Attention**; **little luna = the guide / introducer / chorus.** little luna is a *character* (MC/recruiter who introduces the listener + voices the chorus-terms), not background vocals. [W] → a **guide-and-deity two-hander**. *(Supersedes the old stub guess that luna = a [[Mary]]/witness function — her role here is the guide who delivers the mark, not the witness. Note the inversion: **Roy voices the tempter** — the persuader-function Lucius usually carries.)*
 
 ## Resonance
 Mammon/idolatry · the Demiurge (awareness directed outward) · Hermes/trickster · the Ringmaster (*"step right up"*) · marketplace-of-souls bargain (the *rendezvous*). [~] naming-as-power (El Roy/El Roi). All framework-attributed, not authorial intent.
 
 ## Open Questions
-- Confirm vocal assignment (luna vs Roy/Attention) by ear → governs the §5 read.
+- [resolved] Vocal assignment: **luna = guide/introducer/chorus; Roy = Attention** (Jen, 2026-06-02).
 - Deliberate attention-economy critique, or read back from later work? (retrospective-coherence guard.)
 - [~] Cover art (fragmented/doubled bust on red) — confirm before use.
 
