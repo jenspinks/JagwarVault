@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *33* (2022, Big Loud Rock) — **track 1 of 10** (confirmed via album tracklist, 2026-05-30); Spotify track `4rUA1L4SkcF0LL1JVMdzd6`; 2:50.
-- **Writers:** `[?]` not screenshotted yet — pull Spotify Credits to confirm.
+- **Writers:** **Roy English, Matt Pauling, Kevin Bard, Mike Daly** (Spotify Credits, verified 2026-06-02; producers: English + Pauling). Expanded 4-writer team — see [[Sources/Credits/33]].
 
 ### Citable as
 - Spotify — *33* (2022), track `4rUA1L4SkcF0LL1JVMdzd6`.
@@ -92,4 +92,4 @@ It's okay
 ```
 
 ## Maintenance
-- Ingested 2026-05-25 (Google Drive); **verified against Spotify 2026-05-30 (Jen screenshots) → `status: stable`.** Spotify supersedes the Google-Drive draft. Corrections: **"We can help you / Buy! Buy! Buy!"** then **"Bye! Bye! Bye!"** (draft had "we can help your better life / [?]"); "before you come **in two**" (not "into"); "(It's not as far fetched as it may seem)"; "mamas and the **Lamas**" (v1) vs "shamans and the **Brahman's**" (v2); fuller ad-lib outro ("In the static… Know my every step… It's okay"). `[?]` writer credits pending Spotify Credits.
+- Ingested 2026-05-25 (Google Drive); **verified against Spotify 2026-05-30 (Jen screenshots) → `status: stable`.** Spotify supersedes the Google-Drive draft. Corrections: **"We can help you / Buy! Buy! Buy!"** then **"Bye! Bye! Bye!"** (draft had "we can help your better life / [?]"); "before you come **in two**" (not "into"); "(It's not as far fetched as it may seem)"; "mamas and the **Lamas**" (v1) vs "shamans and the **Brahman's**" (v2); fuller ad-lib outro ("In the static… Know my every step… It's okay"). **Writer credits verified 2026-06-02:** Roy English, Matt Pauling, **Kevin Bard, Mike Daly** (4-writer team; producers English+Pauling) — [[Sources/Credits/33]].

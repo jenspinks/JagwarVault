@@ -87,7 +87,7 @@ Against [[Sources/Lyrics/Precious Time|Precious Time]] (awakening *too late*; ti
 
 - [x] **Track position** — resolved: track 2 of 10 (after Online, track 1).
 - [x] **The mutating line** — resolved: both renderings ("to be / you fell" and "to 'me' / your Self") are verified in [[Sources/Lyrics/It's Your Time]]; the variation is intended.
-- [ ] **Credits comparison:** It's Your Time = Roy English + Matt Pauling (confirmed). *Online's* writers are still `[?]` — pull them to test the "engineered pair" reading (shared writing/production with track 1).
+- [x] **Credits comparison (resolved 2026-06-02):** It's Your Time = **Roy English + Matt Pauling** (2 writers). *Online* = **Roy English, Matt Pauling, Kevin Bard, Mike Daly** (4 writers; producers still English+Pauling) — [[Sources/Credits/33]]. They **share the English+Pauling core, but Online adds two outside co-writers** (Bard, Daly). So the "deliberate pair" `[W]` reading rests on **adjacency + shared cosmology + the shared English/Pauling spine** — *not* an identical writing team (Online was the more-produced lead single). Mild caution against reading the pair as one authored unit; the core overlap holds.
 - [~] **Projection-risk flag (held):** the seamless move from *Online*'s techno-satire into *It's Your Time*'s soaring encouragement fits the vault arc almost too well. Equal evidence for deliberate design and for retrospective smoothing — conscious multi-track progression, or a standard motivational single being conformed to the mythology? Keep both live.
 
 ---
