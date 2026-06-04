@@ -43,6 +43,12 @@ ingest_source: "Public press/reference articles about Joni Mitchell, supplied by
 - **What it is / says:** Encyclopedic bio anchor. **Born Roberta Joan Anderson, Fort Macleod, Alberta, 7 Nov 1943**; self-taught; folk → folk-rock (*Ladies of the Canyon*, *Blue*) → commercial peak (*Court and Spark*, 1974) → jazz-experimental (*Hejira* onward). **Deliberately abandoned commercial accessibility for artistic integrity** — a role-model framing. Trail-blazer for female artists (Patti Smith, Courtney Love) + influence on Prince, Elvis Costello. 5 Grammys; RRHoF 1997; Lifetime Achievement Grammy 2002; 2024 Grammy.
 - **JT relevance `[~]`:** the **"deliberately moved away from commercial accessibility"** = the artistic-integrity-vs-industry posture that rhymes with JT's anti-machine stance; bio dates for any timeline work.
 
+## 5. Joni Mitchell — *The Millennium Project Interview* (NicheTV, 2000)
+- **Cite:** Kathryn Walker, *"The Millennium Project Interview,"* **NicheTV.com**, 15 Mar 2000 (archived: jonimitchell.com/library/print.cfm?id=1389 / view.cfm?id=1389).
+- **What it is / says:** Joni on **end-times / indigenous prophecy** (Aboriginal Dreamtime, Hopi, Judeo-Christian Revelation) manifesting through environmental collapse; pessimism about human self-correction (greed, war-instinct); prophetic dreams; **Jung's subconscious transcending time**; finding presence/joy in nature; becoming "more present" with age over material accumulation.
+- **JT relevance `[W]`/`[~]`:** **she glosses her own "Woodstock"** — *"we've got to get ourselves back to the garden"* = "my own primitive instinct that we were rushing towards the end," a reversal of humanity's destructive trajectory. This is **Joni's own reading of the garden/return** that JT welds into [[Sources/Lyrics/Soul Is A Star]] (seeds/garden) — and the apocalyptic register ↔ JT's *I Like to Party* bridge ("Devil waking up to claim the kingdom"), the board's mushroom-cloud/Revelation imagery; the **Jung-subconscious-beyond-time** ↔ JT's Jungian Shadow/Self material + anamnesis.
+- **Quotes (verify verbatim):** *"We've got to get ourselves back to the garden."* · *"We're a stupid animal, you know?"* · *"Many must die that some may live."*
+
 ---
 
 ## Cross-references
@@ -52,3 +58,4 @@ ingest_source: "Public press/reference articles about Joni Mitchell, supplied by
 
 ## Maintenance
 - 2026-06-02: indexed 5 Jen-supplied URLs. Fetched 4 (Guardian via its jonimitchell.com mirror; WBUR; EBSCO; +the Guardian/jonimitchell duplicate). **Pitchfork pending** (WebFetch blocked). `citable: true` (real articles) — but verify exact quotes against the URL before essay use. Key gains: independent corroboration of the **"Claude"/Art Nouveau persona** (WBUR) and the **fame-machinery resistance**; the **Trungpa awakening** (Guardian) corroborates dossier Part 3.
+- 2026-06-02 (later): added **#5 — Millennium Project Interview (NicheTV, 2000)** (Jen opened it in the Chrome tab; fetched via jonimitchell.com). Joni's own "back to the garden"/end-times gloss on "Woodstock" + Jung-subconscious-beyond-time. Pitchfork still pending.
