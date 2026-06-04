@@ -49,6 +49,21 @@ ingest_source: "Public press/reference articles about Joni Mitchell, supplied by
 - **JT relevance `[W]`/`[~]`:** **she glosses her own "Woodstock"** — *"we've got to get ourselves back to the garden"* = "my own primitive instinct that we were rushing towards the end," a reversal of humanity's destructive trajectory. This is **Joni's own reading of the garden/return** that JT welds into [[Sources/Lyrics/Soul Is A Star]] (seeds/garden) — and the apocalyptic register ↔ JT's *I Like to Party* bridge ("Devil waking up to claim the kingdom"), the board's mushroom-cloud/Revelation imagery; the **Jung-subconscious-beyond-time** ↔ JT's Jungian Shadow/Self material + anamnesis.
 - **Quotes (verify verbatim):** *"We've got to get ourselves back to the garden."* · *"We're a stupid animal, you know?"* · *"Many must die that some may live."*
 
+## 6. Jody Denberg — "A Conversation with Joni Mitchell" (KGSR-FM, 1998)
+- **Cite:** Jody Denberg, *"A Conversation with Joni Mitchell,"* **KGSR-FM** (Austin), 9 Sep 1998 (radio interview transcript; archived jonimitchell.com/library/print.cfm?id=998 / view.cfm?id=998).
+- **What it is / says:** *Taming the Tiger* comeback after a 4-yr hiatus (the VG8 guitar solved tuning + post-polio issues); sharp **industry critique** — "blacklisted ~25 years," systematic devaluation, exploitation by managers/labels/taxation; her **painter-first** identity; evolution-over-repetition.
+- **JT relevance `[W]`/`[~]`:** the **industry-as-sick / exploited-artist** register corroborates the fame-bargain/thieves thread (dossier Parts 1 & 3; the board's *"dropped by my record label"*). *"I was in the game and not of it"* ↔ JT's **in-the-world-not-of-it / witness / the Circle**. Painter-first ↔ objective-art / cross-medium (cf. Roy's own multi-medium board).
+- **Quotes (verify):** *"I was in the game and not of it. You know, suited up, but not allowed to run."* · *"The business is sick. And music and the genuinely gifted… being shunned from the airwaves."* · *"I'm a painter first and a musician second, as it turns out."* · *"I never wanted to be a human jukebox."*
+
+## 7. Lynne Shuttleworth — "Joni Gets a Little Help From Her Friends" (Smash, 1988)
+- **Cite:** Lynne Shuttleworth, *"Joni Gets a Little Help From Her Friends,"* **Smash** (Toronto), 1 Apr 1988 (interview/profile; archived jonimitchell.com/library/print.cfm?id=1331 / view.cfm?id=1331).
+- **What it is / says:** Promoting *Chalk Mark in a Rain Storm* (guests Gabriel, Idol, Petty). Frames her creative evolution via **Carl Jung's "Medicine Wheel"** (intellect, emotion, clarity, introspection); environmental/indigenous/war themes (Hopi uranium mining, Chernobyl); **intuition/spontaneity/"magic" over conceptual planning.**
+- **JT relevance `[W]`/`[~]`:** the **Jung "Medicine Wheel" four-faculty model** ↔ JT's Jungian Shadow/Self material (the board) + heart-mind + the board's **10-stage faculty-ascent**; **intuition-over-intellect** ("magic = spontaneous"; avoid overthinking) ↔ **Roy's own instinct→intellect→intuition triad** ([[The Labors of Hercules]] / Roy on the Heart-Mind Split) and his "I don't think about it" stance ([[Brain/Roy Voice/Roy on Influences]]). A genuine faculty/process resonance — `[W]`, both confirmed-influence and shared-Jung.
+- **Quotes (verify):** *"magic being those things that occur spontaneously"*; *"to try and articulate what it's like to live in these times."*
+
+## 8. New York Magazine (nymetro) — `[content pending]`
+- **URL:** nymag.com/nymetro/arts/music/pop/11888/ — **blocked to WebFetch** (`nymag.com`, like pitchfork.com). Not yet read. To ingest: paste the text. *(Likely an early-2000s NY Mag Joni feature/interview.)*
+
 ---
 
 ## Cross-references
@@ -59,3 +74,4 @@ ingest_source: "Public press/reference articles about Joni Mitchell, supplied by
 ## Maintenance
 - 2026-06-02: indexed 5 Jen-supplied URLs. Fetched 4 (Guardian via its jonimitchell.com mirror; WBUR; EBSCO; +the Guardian/jonimitchell duplicate). **Pitchfork pending** (WebFetch blocked). `citable: true` (real articles) — but verify exact quotes against the URL before essay use. Key gains: independent corroboration of the **"Claude"/Art Nouveau persona** (WBUR) and the **fame-machinery resistance**; the **Trungpa awakening** (Guardian) corroborates dossier Part 3.
 - 2026-06-02 (later): added **#5 — Millennium Project Interview (NicheTV, 2000)** (Jen opened it in the Chrome tab; fetched via jonimitchell.com). Joni's own "back to the garden"/end-times gloss on "Woodstock" + Jung-subconscious-beyond-time. Pitchfork still pending.
+- 2026-06-02 (later still): added **#6 — Denberg/KGSR 1998** (industry-as-sick / exploited-artist; "in the game and not of it"; painter-first) and **#7 — Shuttleworth/Smash 1988** (Jung "Medicine Wheel" four-faculty model; intuition-over-intellect ↔ Roy's instinct/intellect/intuition triad). Both via jonimitchell.com. **Still blocked (pending paste):** Pitchfork "33 Songs" (#3) and NY Mag nymetro (#8) — both domain-blocked to WebFetch & the Chrome extension.
