@@ -9,7 +9,8 @@ Roy English's own statements about musical and intellectual influences. Chronolo
 ## 2018 — *Subject to Flooding* era
 
 - **[2018-09-21]** *"I'm a product, like everyone else of our time. We have had an incredible access to all kinds of music since we were kids."* — [[Atwood-2018-Loser]]
-- **[2018-09-21]** *"Alternative music was where I first felt like I 'fit in' somewhere so it will always have my heart but growing up I listened to everything from the Kinks, and the Stones, to Biggie, Earth Wind and Fire."* — [[Atwood-2018-Loser]]
+- **[2018-09-21]** *"Alternative music was where I first felt like I 'fit in' somewhere so it will always have my heart but growing up I listened to everything from the Kinks, and the Stones, to Biggie, Earth Wind and Fire, a ton of orchestral stuff like Ryuichi Sakamoto and Harry Gregson Williams, to Blackstreet, Eminem, Nirvana."* — [[Atwood-2018-Loser]] *(full list verified verbatim 2026-06-02)*
+- **[2018-09-21]** **Beck — NOT named.** Asked directly about the *"I'm a loser, baby"* line, he answers about repetition (*"There's freedom in the repetition of that phrase…"*) and **does not mention Beck.** So the *Loser* ↔ Beck "Loser" echo is a **listener inference, not a stated influence** — keep `[~]`, relevant to `SONG-Loser`. (verified 2026-06-02) — [[Atwood-2018-Loser]]
 - **[2018-09-21]** On his mom's record collection: *"My mom listened to pretty much only weird world music. There'd be Celtic chants and amazing African drumming, Native American flute music."* — [[Atwood-2018-Loser]]
 - **[2018-09-21]** *"So yeah, a lot of things! But all of it had such a range of emotions that I pulled from."* — [[Atwood-2018-Loser]]
 - **[2018-09-21]** On how influences land: *"I don't think about it. What's inside you is bound to come out when you let it."* — [[Atwood-2018-Loser]]
@@ -18,9 +19,18 @@ Roy English's own statements about musical and intellectual influences. Chronolo
 
 - **[2019-10-10]** **Egyptian mythology and ancient cultures** (KEY — grounds the EP1 Egyptian-statue note on [[Sir Lucius]]): *"I've been fascinated with Egyptian mythology and other ancient cultures since I was a kid."* — [[Knockturnal-2019-Studio-Sessions]]
 
+## ~2022 — *33* era (Masquerade venue bio)
+
+- **[~2022]** **Joni Mitchell & Bob Dylan — the childhood-origin anchor:** *"He grew up serenaded by the lucid new romance storytelling of Joni Mitchell and Bob Dylan, who the singer's mom played around the house."* — [[Masquerade-Atlanta-Venue-Bio]] *(verified verbatim 2026-06-02)*. **Grounds the Joni thread biographically** (cf. the Joni co-write on Soul Is A Star, [[Sources/Credits/33]]; [[Essays/Concepts/Songs/Soul Is A Star]]). Caveat: it's a venue **bio / PR copy** — citable as a published statement, but third-person framing, not Roy's own first-person words.
+- **[~2022]** Bowie / MJ / Madonna / Freddie Mercury / Queen — aspirational framing (*"channel… a Bad-era MJ and Bowie's Ziggy Stardust days"*; *"like Queen at Wembley Stadium in 1990"*). **PR framing → Medium**; but Bowie/MJ/Madonna/Mercury are *separately* named by Roy himself in the "sweaty dance floors" *33*-era quote (verify that quote's own source before grounding). — [[Masquerade-Atlanta-Venue-Bio]]
+
 ## 2024 — Bad Feeling era
 
 - **[2024-07]** Road listening: **Kendrick Lamar** — [[Strife-2024-Bad-Feeling]]
+- **[2024-07]** **Twenty One Pilots** — *"one of my favorite bands ever and Josh has been a friend for a very long time… I love their new album, Clancy… I think that they're genius."* Also a **real collaboration:** Josh Dun plays **drums on "Happy Face" and "Bad Feeling."** — [[Strife-2024-Bad-Feeling]] *(verified 2026-06-02; personnel note flagged for [[Sources/Credits/33]])*
+- **[2024-07]** **Coldplay** — named as the artist he most hopes to collaborate with. — [[Strife-2024-Bad-Feeling]]
+- **[2024-07]** **Live-performance mentors** (not compositional): **Jared Leto / Thirty Seconds to Mars** (*"the way that Jared interacts with the crowd"*), **Avril Lavigne**, **5 Seconds of Summer**. — [[Strife-2024-Bad-Feeling]]
+- **[2024-07]** **Dr. Dre + S1 studio session** (recounted): played an orchestral track "Worldstop" w/o drums; Dre asked *"But where are the drums, bro?"*; Roy declined. **Corroborates the "Dr. Dre playin us some new stuff" DM** on [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]]. Production-lineage, not a stated taste-influence. — [[Strife-2024-Bad-Feeling]]
 
 ## 2026 — Alice Bailey / *Labors of Hercules* (public, named, annotated)
 
