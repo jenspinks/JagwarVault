@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, ALBUM-33]
   strong_read: [CONCEPT-MachineVsHuman, CONCEPT-WitnessingVsSurveillance, CONCEPT-TheAlgorithm, CONCEPT-TheSpectacle, CONCEPT-FlattenedIdentity, SONG-WelcomeToTheCircus]
   resonance:   [CONCEPT-TheAquarium, CONCEPT-Yesod]
-referenced_by: [CONCEPT-WitnessingVsSurveillance, SONG-PayAttentionFeatLittleLuna]
+referenced_by: [CONCEPT-WitnessingVsSurveillance, SONG-ILikeToParty, SONG-PayAttentionFeatLittleLuna]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop
