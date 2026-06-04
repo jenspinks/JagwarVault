@@ -70,6 +70,14 @@ Jen's Google Docs (lyrics docs, transcript docs) are **reference libraries, not 
 Cite the **underlying public source** — the song, the YouTube episode + `watch?v=` URL, the
 publication. Never cite or name a Google Doc. (The Secret Document is off-limits entirely.)
 
+**Compilation ≠ citation — but it's a finding aid, not a dead end.** Same logic for any summary,
+research dossier, or `citable: false` reference: **don't cite the compilation**, but **do trace
+the primary source it references and cite THAT** — the idea is then fully usable. Don't reject a
+good idea just because it arrived inside a `citable: false` file; route it to its origin (a
+`citable: false` file should point you to its "citable counterparts"). No traceable source →
+unverified lead `[?]`. And keep them separate: a `[W]` *interpretation* seeded by a compilation
+stands on its own anchors; an *empirical fact* needs its primary source.
+
 ## Output template (use this so Claude can drop it in)
 ```
 ---

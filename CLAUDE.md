@@ -391,6 +391,12 @@ The doc gets you the content; the underlying source gets the citation.
 | Synthesis docs | Not a source — trace to public origin |
 | Secret Document | Never |
 
+**Compilation ≠ citation — but it's a finding aid, not a dead end.** A summary, synthesis, LLM research dossier, or any **`citable: false`** reference is **not itself a citation.** But it *is* a finding aid: a concept in it **can be validated and cited through the primary source it references.** The rule is two-sided — apply BOTH halves:
+1. **Never cite the compilation itself** (that's source-laundering).
+2. **Do trace its referenced primary source and cite THAT.** If the compilation names/quotes a real article, interview, lyric, video, or credit, validate against that source and cite it — the idea is then **fully usable.** Don't refuse a good idea just because it arrived inside a `citable: false` file; **route it to its origin.**
+
+If a claim in the compilation has **no** traceable primary source, it stays an **unverified lead `[?]`** — not citable until one is found. Keep two epistemic objects apart: an **interpretive `[W]` read** seeded by a compilation is sayable on its own anchors (per the tiers); an **empirical fact** needs its primary source, full stop. **Convention:** every `citable: false` synthesis file should carry a **"citable counterparts"** pointer to where its real sources live (e.g. the Joni dossiers → [[Sources/Reference/Joni Mitchell — source index]]).
+
 **Credits note:** MERCY in Not Your Homie credits = songwriter Mercedes Colletta Britton. Not a symbolic figure.
 
 ---
