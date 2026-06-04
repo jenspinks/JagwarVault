@@ -11,7 +11,7 @@ connections:
   strong_read: [CHAR-SirLucius, CHAR-Roy, CONCEPT-InheritedSubstrate]
   resonance:   [CONCEPT-Duality, CONCEPT-TheCircle, CONCEPT-SacredGeometry, CONCEPT-CosmicCycles]
 review_date: 2026-12-01
-referenced_by: [CONCEPT-TheLaborsOfHercules]
+referenced_by: [CONCEPT-TheLaborsOfHercules, SONG-AnotherWayIIHeaven]
 ---
 # The Pattern
 
