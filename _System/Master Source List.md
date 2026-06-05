@@ -215,6 +215,7 @@ Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in 
 
 | Date | Outlet | URL | Topic | Status |
 |---|---|---|---|---|
+| 2010-01-12 | YouTube tour-press interview (outlet `[?]`) | https://www.youtube.com/watch?v=1CkdBGw2M08 | **Eye Alaska era (pre-JT)** — Jay-Z influence (musical + "bigger platform"); the "Eye Alaska" name meaning; band origins (Cameron Trowbridge, Anaheim, Chain Reaction) | **ingested** — [[Sources/Transcripts/Eye Alaska Interview - 2010]] (`draft`, auto-caption — listen-through pending; date Jan-12 vs 1-Dec to confirm) |
 | 2018-10 | Spindle Magazine | https://spindlemagazine.com/2018/10/jagwar-twin | JT debut | pending — **WebFetch returned empty page; needs Jen paste or alternate fetch** |
 | 2018-09-21 | Atwood Magazine | https://atwoodmagazine.com/jagwar-twin-loser-interview-subject-to-flooding-2018/ | Loser / *Subject to Flooding* | **ingested** — [[Sources/Transcripts/Atwood-2018-Loser]] |
 | 2018-09-28 | Artist Waves | https://artistwaves.com/checking-in-with-jagwar-twin/ | Checking in | **ingested** — [[Sources/Transcripts/Artist-Waves-2018-Checking-In]] |

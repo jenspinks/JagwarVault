@@ -6,6 +6,16 @@ Roy English's own statements about musical and intellectual influences. Chronolo
 
 ---
 
+## 2010 — Eye Alaska era (pre-Jagwar Twin)
+
+*Source: video interview with "Brandon" (Roy English) fronting Eye Alaska, ~2010-01-12 — [[Sources/Transcripts/Eye Alaska Interview - 2010]] (auto-caption transcript, `draft` pending listen-through; cite the video for exact wording).*
+
+- **[~2010] Jay-Z — named influence (musical AND non-musical).** *"A big inspiration… musical and non-musical… has been Jay-Z for me… even what he chooses to do outside music is awesome — the whole Water for Life campaign… building wells… on a bigger scale."* The load-bearing part: **"one of our main goals… is to use music as a means to a bigger platform"** — an **early (2010) statement of the artist-as-vehicle-for-a-larger-mission** stance that recurs through JT (the manifesto / "modern mythology"). `[~]/[W]` continuity, not a style claim. — [[Sources/Transcripts/Eye Alaska Interview - 2010]]
+- **[~2010] The "Eye Alaska" name** *(Roy's own gloss)*: *"to look to … that which the sea breaks against … people who other people follow are usually the people who have gone through things to make them wiser."* **[~] prefigures JT's wisdom-through-trial / "the wise one"** ([[The Circle]]'s "wise one… remembered"; the Bailey [[The Labors of Hercules|labours]] as initiation-through-trial) — a decade-early continuity, **not** intentional encoding. *(Real etymology of "Alaska" — Aleut **aláxsxa(q)**, "that which the sea breaks against" — matches his gloss.)*
+- **Biographical:** Eye Alaska began with **Cameron** [Trowbridge] (played together since junior high), Anaheim/Orange County base, **Chain Reaction** "home venue" — corroborates the [[Sources/Reference/Roy's Stated Influences (research dossier)|influences dossier]] + the **EYE ALASKA** board poster.
+
+---
+
 ## 2018 — *Subject to Flooding* era
 
 - **[2018-09-21]** *"I'm a product, like everyone else of our time. We have had an incredible access to all kinds of music since we were kids."* — [[Atwood-2018-Loser]]
