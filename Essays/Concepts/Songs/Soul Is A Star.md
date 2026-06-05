@@ -24,6 +24,8 @@ related: [ALBUM-33, CONCEPT-ThePattern, CONCEPT-TheThread, SONG-ItSYourTime, CON
 
 ## I. The grounded floor — what actually holds
 
+**[G] Track 5 of 10 — the center of *33*.** ([[Sources/Lyrics/Soul Is A Star]], 3:17.) The Joni co-write and the soul-transmission thesis sit at the album's **literal midpoint**. **[W] It is the album's anamnesis pivot:** SiaS is where *33* first poses its governing question — *"do you know who you are?"* — which the record then works through and resolves into doctrine at the close ([[The Circle]], *"the inside of the inside"*). (Arc detail in §II-A.)
+
 The Joni connection is more than shared-philosophy inference, but the floor is **smaller than the draft claimed**. What's genuinely grounded:
 
 - **[G] The co-write.** Joni Mitchell is co-credited on "Soul Is A Star" (*33*, 2022) — Spotify Credits, [[Sources/Credits/33]]. This alone makes her a **confirmed influence** on the album (the credit is the anchor the whole Joni thread rests on — see [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]]).
@@ -53,6 +55,19 @@ Both songs public; both lyric sets are in-vault ([[Sources/Lyrics/Soul Is A Star
 
 ---
 
+## II-A. Place in the *33* argument [W]
+
+With the album now fully mapped, SiaS reads as the **hinge of a single arc**, not an isolated Joni song *(track numbers + themes [G]; the arc-reading [W])*:
+- **3 [[Essays/Concepts/Songs/Pay Attention (feat. little luna)|Pay Attention]] / 4 [[Essays/Concepts/Songs/I Like to Party|I Like to Party]]** — the attention-force pulls awareness **outward**; people *"stay in and pretend."* This is the **forgetting** (cf. [[The Circle]]: the Jagwars *"told they never could sing"*).
+- **5 Soul Is A Star** — the **question posed at the center:** *"do you know who you are?"* The buried song (*"songs you never heard"*) and the descending soul enter here.
+- **7 [[Essays/Concepts/Songs/Down to You|Down to You]]** — the **inward refusal:** *"one cannot live on bread alone"*; names and rejects the very gods that consumed the girl — *"is it fame? is it money?"* ↔ SiaS *"she wanted Love but got Fame and Power from The Thieves."*
+- **8 [[Essays/Concepts/Songs/Another Way II Heaven|Another Way II Heaven]]** — the **cosmology under it:** *"One, become Two"* (the son/girl as the divided soul); and *"when it came to Nine… I had to remind myself that 'I' was still 'I'"* — the **same anamnesis gesture** as SiaS's *"do you know who you are."*
+- **10 [[The Circle]]** — the **answer:** the song was hidden *inside* all along; *"the inside of the inside must be where you go."*
+
+SiaS poses the question at the center (5); The Circle resolves it at the close (10).
+
+---
+
 ## III. Who is the son
 
 - **[W] The descending soul is every soul.** Child of God = the son = Jesus = Mozart = all of us — the soul that descends into matter and is lost; not one biographical person.
@@ -66,6 +81,7 @@ Both songs public; both lyric sets are in-vault ([[Sources/Lyrics/Soul Is A Star
 
 - **[W] NOT Joni.** Mapping the girl to Joni would be **laundering** (contact ≠ every overlap traveling through her). "Papa was a sinner playin' God… wanted love but got fame and power from the thieves… bullet in her genes" is an *inherited-corruption / lineage* story, not Joni's mythology.
 - **[W] Feminine counterpart to the son's descent.** Son = soul lost through self-sacrifice; girl = soul lost through fame + poisoned inheritance — masculine/feminine, the Hermetic **Gender** polarity (board's Kybalion Principle 7). → [[Duality]] (heart-mind / polarity).
+- **[W] HIGH VALUE — "The Thieves" = Joni's industry-as-thief lexicon.** The capitalized *"Power from **The Thieves**"* is now anchorable in Joni's documented commodification vocabulary — *"star maker machinery,"* the *"golden egg… tossed by the company,"* thieves who *"buy and sell"* (dossier Part 1, [[Sources/Reference/Joni Mitchell — JT-relevant analysis (research dossiers)]]; **cite the underlying Joni songs/credit, never the dossier**). Because **Joni co-wrote SiaS** `[G]`, the lexicon plausibly enters *through her register* rather than as a generic word. **Guard (unchanged):** this anchors the **vocabulary**, NOT *girl = Joni* — the anti-laundering ruling above stands.
 - **[W] "For Free" maps by inversion.** Joni's busker who plays "real good, for free" and goes **unheard** = the soul that *refused* the bargain (and maps to the **son** directly — the unheard player ↔ "songs you never heard"). The girl is the soul that *took* it. Road-not-taken, not portrait. *(For Free is on the [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)|Ladies of the Canyon]] reference.)*
 - **[W] "bullet in her genes" = the ancestral-wound node** — inherited corruption that transmits cleanly. Ties to the genetic-repair / "lost the vowels" thread and the sterile-banana symbol (independent vault work, not the board's layout).
 - **[CORRECTION — adjacency error, struck]** "Mom's song" is **not** a label on this verse — it's a separate YouTube link near the SiaS block on the board, analytically inert. The girl-verse does **not** route to Roy's mother. (See §XIV.)
@@ -91,6 +107,7 @@ Both songs public; both lyric sets are in-vault ([[Sources/Lyrics/Soul Is A Star
 - **[W] "Latent," not "failed."** "Failed transmission" smuggles in pathology and the destruction-frame the seed refutes. Honest word: **latent** — buried, awaiting. Not "one succeeded, one failed" but "one stayed audible, one went latent."
 - **[?] Roy's own vocabulary.** The draft says Roy has spoken of **Da'at** and **gnosis** — **pin a citable source** before using the terms in his register (currently unverified in-vault).
 - **[W] Da'at → gnosis.** Same word (knowledge) in Hebrew/Greek: the drama is knowledge that fell into the gap arriving **known** on the other side — not the lost retrieved but **the forgotten recognized.** Anamnesis. → proposed concept (§XI). Cf. [[Essays/Concepts/Songs/It's Your Time]] (the journey as recollection).
+- **[W] The Thread's textual origin is [[The Circle]] — and SiaS extends it.** The Circle opens *"a [Jagwar] with **a world tied on a string**"* and closes *"the wise one **remembered she once held the string**"* — both phrases the vault's Thread converges on (*world-on-a-string* + *song-in-the-wings*) originate there. So SiaS's *"living thread from a song that stayed strong for half a century"* (Joni's voice tied to the buried inheritance) is **the same gesture as The Circle's wise one re-grasping the string**; and *"songs you never heard"* ↔ The Circle's *"hid the song inside their wings… left them to sing"* — in both, the song goes **latent** (§V's word) and is recovered by **remembrance**, not retrieval. *(Cross-link strengthens the **reading**; §VIII's actual-voice basis stays `[?]`.)*
 
 ---
 
@@ -137,7 +154,7 @@ Is the work **fighting** the asymmetry (pain transmits, wisdom doesn't) or **acc
 - `[PROPOSE] Burial Over Destruction` — the seed waits; latency not death. Anchors: SiaS, [[The Circle]], Ballerina Boy, Lucius (contained light), the Loop. *(Cf. existing pageless `CONCEPT-TheLoop`, `CONCEPT-KeilimVessels`.)*
 - `[PROPOSE] The Witness` — Mary/Shekinah/Sophia seeing-function; the non-substitutable seer. **Likely fold into existing [[Witnessing vs Surveillance]]** rather than a new node. Anchors: SiaS (Joni's voice), the Mary thread.
 - `[UPDATE] The Vowels` (genetic-repair, pageless) — add "angels and angles": consonants = wound/structure; vowels = breath/wisdom lost; add the girl's "bullet in her genes."
-- `[UPDATE] [[The Thread]]` — add Joni's voice as a *living thread* of unbroken lineage (literal here, if the actual-voice claim holds).
+- `[UPDATE] [[The Thread]]` — **the Thread's lyric source is [[The Circle]]** (*world-on-a-string* + *she once held the string*); SiaS **extends/ties** that thread, with Joni's voice as the living strand (literal only if the actual-voice claim holds — else the *gesture* still stands: tying a surviving song to a latent one).
 - `[UPDATE] [[Duality]]` (heart-mind / Hermetic Gender) — son/girl as masculine/feminine descent.
 
 *(Several map to already-declared pageless IDs in [[Ontology]]: CollectiveAmnesia, SleepWakeUp, the Loop. Prefer feeding those over minting new ones.)*
@@ -162,6 +179,7 @@ Is the work **fighting** the asymmetry (pain transmits, wisdom doesn't) or **acc
 - **[~→ leans coincidence] "Down to You"** — Joni's "Down to You" (*Court and Spark*, 1974) is judged "about the transience of love and style, **not fame**" (dossier Part 3), so the shared title with *33* track 7 reads **coincidental** rather than an echo. Confirm with a lyric side-by-side before closing. (carried)
 - **[~] Joni's "Shine" (2007)** vs JT's "Shine" — title coincidence only (both light/benediction); logged, not built.
 - **[ ]** "There's so much more" — Jen holding further Joni ties; the 3 dossiers (exploitation vocab / Art-Nouveau persona / unheard-artist+bargain) are now filed as `citable: false` leads — see [[Sources/Reference/Joni Mitchell — JT-relevant analysis (research dossiers)]].
+- **[W — spot-check before grounding] "Art Nouveau" carried occult/psychedelic freight in Joni's mid-70s scene** — *not* via the 1890s decorative movement but its **1960s psychedelic revival** (Fillmore poster artists drawing on Mucha/Beardsley) inside an occult-saturated counterculture (tarot, I Ching, Theosophy). **Cite the real sources, never the LLM artifact:** V&A poster entries (*"almost mystical"*), **Erik Davis**, *"Counterculture and the Occult"* (Davis = **Rice** PhD — a prior note mis-said "Yale"), the SUMA *"Flowing Line"* show. **IN:** the persona-name carried psychedelic-mystical freight *in her scene* (`[W]`, ambient — whether or not she reached for it). **OUT:** "a coded nod to the ones listening" (intentional encoding + listener-decoding — **unsupported**). **Spot-check the two keystones** (V&A "almost mystical"; the Davis piece) before grounding. *(Bears on SiaS only indirectly — firms the "Joni as serious esoteric lineage" floor / the Art-Nouveau-persona dossier lead, not SiaS's text. Reconciled into the dossier Part 2 note.)*
 - **[ ]** Build/confirm: is the existing [[Brain/Songs/33 (2022)/Soul Is A Star|Brain SiaS node]] consistent with this essay? Reconcile.
 
 ---
