@@ -32,7 +32,7 @@ At seven years old: did ballet at Christian school. A teacher told his father th
 - Sometimes discovers new songs "Hebrew Style" using consonants as structure, letting vowels fill in through feeling and emotion later.  Angels and angles. Build structure with consonants. God is in the vowels (the breath).
 - Some songs come through him beyond his intelligence. He cannot take full credit.
 - [[SOL]] is the song he is most connected to.
-- The [[Circle]] is at the heart of it all. All songs can be understood through it
+- The [[The Circle|Circle]] is at the heart of it all. All songs can be understood through it
 - Often uses the signature "El Roy". 
 
 ---

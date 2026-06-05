@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-TheCircle]
   strong_read: [CONCEPT-TheLabyrinth, CONCEPT-TheMouth, CHAR-Mary, SONG-WelcomeToTheCircus]
   resonance:   [CONCEPT-Inversion, CONCEPT-TheAlgorithm]
-referenced_by: [CONCEPT-TheLabyrinth, SONG-BALLERINABOY, SONG-NotYourHomie, SONG-TheCircle, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-TheCircle, CONCEPT-TheLabyrinth, SONG-BALLERINABOY, SONG-NotYourHomie, SONG-TheCircle, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # The Thread

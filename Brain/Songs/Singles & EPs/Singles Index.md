@@ -22,7 +22,7 @@ Standalone releases not part of a full album. Organized chronologically.
 
 | Title | Year | Notes |
 |-------|------|-------|
-| [[Good Time (1:08)]] | 2023 | Standalone single |
+| [[Good Time (1-08)|Good Time (1:08)]] | 2023 | Standalone single |
 | [[All My Friends]] | 2023 | Standalone single |
 | [[The Circle - The Great Jagwar Myth\|The Circle: The Great Jagwar Myth]] | 2023 | Reimagined version of [[The Circle]] from *33*; significance TBD |
 | [[life is good]] | 2023 | Standalone single |

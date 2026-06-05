@@ -10,9 +10,9 @@ This file is the canonical place for boundary rules. [[Claude.md]] references th
 
 **If a claim cannot be defended on public material alone, it cannot go in the vault.**
 
-Private material can *guide* analysis. It cannot *substitute* for public evidence. The Secret Document promotes confidence in readings that already stand on public material; it does not unlock readings that would otherwise fail.
+Private material can *guide* analysis and may be **read** freely. It cannot *substitute* for public evidence in a **grounded claim.** The Secret Document promotes confidence in readings that already stand on public material; on its own it can only inspire **explicitly-flagged speculation** (`[~]`/`[?]`/Open Question), never a grounded claim — see [§The Secret Document](#the-secret-document).
 
-If you find yourself writing a claim and your only support is something Roy said privately, the claim doesn't go in. Find the public anchor or hedge harder.
+If you find yourself writing a **grounded** claim and your only support is something Roy said privately, the grounded claim doesn't go in. Find the public anchor, downgrade it to flagged speculation, or hedge harder.
 
 ---
 
@@ -47,17 +47,21 @@ Do not quote, paraphrase, summarize, or attribute. Do not name as a source.
 
 ## The Secret Document
 
-A Google Doc designated **Secret Document** exists in the user's Google Drive. It contains private, unreleased, and personally-shared material from Roy.
+A Google Doc designated **Secret Document** exists (in the user's Google Drive; a gitignored local copy may also exist outside the tracked repo). It contains private, unreleased, and personally-shared material from Roy.
 
-**Rules for the Secret Document:**
+**It is findable and readable — just never quotable.** A contributor (including an AI chat the user has given access to it) **may locate and read it to inform their understanding.** It is *not* hidden from the analyst, and you should not refuse to look at it or tell the user to stop looking for it. The constraint is on *use in the vault*, not on *reading*:
 
 1. **Never quote** any content from it. Not a sentence, not a phrase.
 2. **Never paraphrase** it closely enough that the original is reconstructible.
-3. **Never name it as a source.** Not in citations, not in section labels, not in attribution tags, not in `(per the synthesis materials)`-style attributions.
-4. **Use it as silent interpretive guidance only.** If it confirms a reading, the reading is stated *based on public material that supports it*, hedged appropriately. The Secret Document is the user's private confirmation, not the citation.
-5. **The Secret Document is acknowledged in [[Master Source List]] as existing**, but its contents are never described.
-6. **If the user references content from the Secret Document in conversation**, treat that as private material the user is sharing with Claude. Use it for understanding; do not reproduce it into the vault.
-7. **If you suspect a vault page may have leaked private material**, flag it for user review immediately.
+3. **Never name it as a source**, and never *describe* its contents in vault content. Not in citations, not in section labels, not in attribution tags, not in `(per the synthesis materials)`-style attributions.
+4. **An idea it raises has exactly two legitimate paths into the vault — otherwise omit it:**
+   - **(a) Cast it as clearly-flagged speculation** — a Resonance `[~]` / flagged-leap `[?]` / Open Question, hedged as unverified, **never grounded**, and **never reproducing the document's wording.** The hypothesis stands on its own as a question; the private doc is not cited as its evidence.
+   - **(b) Find an independent public source** that supports it, and ground/cite *that* instead.
+   *(This refines the older "silent guidance only" framing: the doc may be read, and may legitimately **inspire** flagged speculation — it just may never be quoted, named, described, or used to ground a claim.)*
+5. **Operational test:** *"Would this stand as a **grounded** claim if the Secret Document did not exist?"* If no → it can only enter as flagged speculation (4a) or via an alternate public source (4b).
+6. **The Secret Document is acknowledged in [[Master Source List]] as existing**, but its contents are never reproduced.
+7. **If the user references content from the Secret Document in conversation**, treat it as private material shared for understanding. Use it under rule 4; do not reproduce it into the vault.
+8. **If you suspect a vault page may have leaked private material** (quoted / closely paraphrased / named / described), flag it for user review immediately.
 
 The single exception: **the line "the song hidden inside its wings"** is from a public Twitter/X post and is therefore freely citable, even though related material exists in the Secret Document. The line is publicly anchored; the rest of that material cluster is not.
 
@@ -115,6 +119,7 @@ These rules can evolve as the project does. If the project's public/private inte
 
 - **2026-05-30** — Jen: *names in released lyrics need no privacy treatment.* They're public (it's the released song). Applied in "What's public." Does **not** loosen the Secret Document, private DMs/calls, or member-to-member Inner Circle rules.
 - **2026-06-01** — Jen: *anything Roy has purposefully exposed publicly is citable — don't second-guess his exposure* (incl. DMs he shares/embeds in his own circulated material). Carve-out: **Jen's own DMs with Roy stay private.** Applied in "DMs and screenshots." Does **not** loosen the Secret Document, private calls, Inner Circle member content, or un-exposed DMs.
+- **2026-06-05** — Jen: *the Secret Document is **findable and readable**, just never quotable.* A contributor may read it for understanding (do not refuse to look or tell the user to stop seeking it); an idea it raises must be **cast as flagged speculation** or **re-grounded on an independent public source**, else omitted. Corrects an earlier characterization (Code's) that the chat should simply "stop looking for it." Does **not** loosen never-quote / never-reconstruct / never-name / never-describe.
 
 ---
 

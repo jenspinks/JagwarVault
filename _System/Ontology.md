@@ -28,6 +28,7 @@ hand-maintained thereafter.
 | `CONCEPT-TheAlgorithm` | The Algorithm |  |
 | `CONCEPT-TheAquarium` | The Aquarium |  |
 | `CONCEPT-TheAudience` | The Audience |  |
+| `CONCEPT-TheCircle` | The Circle | **keystone doctrine** — no beginning/end, song-hidden-within, remembrance, "inside of the inside"; [[Brain/Concepts/The Circle]]. Distinct from `SONG-TheCircle` (the *33* song) |
 | `CONCEPT-TheCircus` | The Circus |  |
 | `CONCEPT-TheDwellerOnTheThreshold` | The Dweller on the Threshold |  |
 | `CONCEPT-TheLaborsOfHercules` | The Labors of Hercules |  |
@@ -122,7 +123,6 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 
 | ID | Display name | Note |
 |---|---|---|
-| `CONCEPT-TheCircle` | The Circle | foundational mythos; referenced everywhere, no page yet |
 | `CONCEPT-TheMirror` | The Mirror | Lucius anchor; referenced, no page yet |
 | `CONCEPT-TheMoon` | The Moon | lunar/Yesod register; pending |
 | `CONCEPT-Yesod` | Yesod | Kabbalah reflection sphere; pending |
@@ -162,7 +162,7 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 ## Classification notes
 
 - EPs (`SONG-MagikEp`, `SONG-SidequestEp`, `SONG-DumbledoreEp`) are releases, typed `song` for schema simplicity; refine if EP-level analysis grows.
-- Two distinct "The Circle" song entities: `SONG-TheCircle` (33, 2022) and `SONG-TheCircleLuciusVersion` (Lucius Lullaby, 2026). `CONCEPT-TheCircle` is the foundational mythos (pageless), separate from both songs.
+- Two distinct "The Circle" song entities: `SONG-TheCircle` (33, 2022) and `SONG-TheCircleLuciusVersion` (Lucius Lullaby, 2026). `CONCEPT-TheCircle` is the foundational mythos — **now its own concept page [[Brain/Concepts/The Circle]]** (promoted from pageless 2026-06-05) — separate from both songs.
 - "Roy Voice Memo - S1 Arrowhead" retained as a song-type artifact.
 - "Singles Index" is a navigation page, not an entity — excluded.
 

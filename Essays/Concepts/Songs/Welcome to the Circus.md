@@ -252,7 +252,7 @@ The Bailey-curated quote *"the path of liberation leads through the midst of the
 | *The Interview EP 3 (visual lore)*     | Direct narrative setup: Roy wants a Song of Love; Lucius overrides with this song                                                           |
 | *EP 5 — Lucius takes over the premiere (visual lore)* | Lucius's solo speech to the industry room; structurally adjacent to the song, not identical                                                  |
 | *EP 7 — ROY's listening party (visual lore)* | Bound-Roy listening party where Lucius's moth speech foreshadows track 6                                                                     |
-| [[Good Time]]                          | Earlier Lucius self-designation: *"I'm a mastermind."* Direct precursor to *"I'm the final boss."*                                           |
+| [[Good Time (1-08)|Good Time]]                          | Earlier Lucius self-designation: *"I'm a mastermind."* Direct precursor to *"I'm the final boss."*                                           |
 | [[Happy Face]]                         | The Mask Layer at minimum-viable scale. WTTC is Happy Face industrialized.                                                                   |
 | [[I Like to Party]]                    | The cake-before-the-Circus. Force-feeding rendered visually four years before chewing-up named lyrically.                                    |
 | [[LOOP]] *(not on album)*              | Roy's single. First in the official pattern-breaking chain. Lucius's loop-accusation in EP 3 inverts it: he accuses Roy of being in a loop. |
@@ -321,7 +321,7 @@ Both readings point in the same direction: the most important figure in the proj
 
 - The lowercase stylization of the official title is *welcome to the circus*. Vault convention uses title case for filenames, but the artist's branding is lowercase.
 - Rachel Kanner's background vocals are worth tracking across the catalogue. If she is a recurring voice, the question of how [[Mary]] enters sonically becomes more concrete.
-- The "mastermind → final boss" escalation in Lucius's self-designations across [[Good Time]] (2023) and this song (2026) is its own catalogue-spanning timeline. Lucius has been naming his position for years; this is the latest declaration.
+- The "mastermind → final boss" escalation in Lucius's self-designations across [[Good Time (1-08)|Good Time]] (2023) and this song (2026) is its own catalogue-spanning timeline. Lucius has been naming his position for years; this is the latest declaration.
 - The Hercules / Leo framing operates throughout this analysis as a Strong Read, not a Confirmed claim. Anchored at [[The Labors of Hercules]].
 
 ---

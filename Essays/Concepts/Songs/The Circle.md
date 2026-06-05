@@ -43,6 +43,8 @@ related: [ALBUM-33, CONCEPT-TheThread, CONCEPT-TheCircle, SONG-AnotherWayIIHeave
 ### 1. The foundational Jagwar myth — and the namesake [W]
 The catalogue's origin story: where the **Jagwars** came from, what was lost, how, and how it returns. The creatures are *Jagwars* — **the artist's own name**; "**Jagwar Twin**" reads as a self-identification with the made-and-divided creatures of this song. The maker who *makes others* is the same gesture as the One becoming two in [[Essays/Concepts/Songs/Another Way II Heaven|Another Way II Heaven]] / the board cosmogony ([[The Pattern]]). As closer, it's the record's resolving word.
 
+> **Earliest documented naming (2019) — the doctrine predates this song.** *The Circle* (this *33* closer, 2022) is the **fully-narrated, mythologized** statement of a doctrine Roy had already been speaking aloud **three years earlier.** In the *Subject to Flooding* press cycle he names it directly, attached to **[[Essays/Concepts/Songs/Move To You]]**: *"there is no beginning and no end — it's just a circle,"* felt live when the crowd sings it back (none — Digital Journal **2019-09-23**, [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]]). So the keystone was **laid in the debut era, on its most vulnerable song** — which gives the "*33* grew from *Subject to Flooding*'s flood-rich soil" thesis a literal receipt (see [[Subject to Flooding (album)]]). `[G]` the 2019 naming · `[W]` this song as its mythic elaboration.
+
 ### 2. The gift is song, not power [W]
 The maker gives neither wealth, dominion, nor knowledge — she teaches them to **sing**. Song = essence (authentic expression, identity, participation in creation). The tragedy isn't losing a possession — it's being convinced the essence was never theirs.
 
@@ -86,10 +88,11 @@ A circle expanding from a center — the plot tracks it (hidden → remembered �
 | --- | --- |
 | [[Essays/Concepts/Songs/Another Way II Heaven]] | The maker who *"made other Jagwars"* ↔ *"One, become Two"*; both descent/withdrawal cosmologies; the board cosmogony ([[The Pattern]]). |
 | [[The Thread]] | **Originates here** — *world-on-a-string* + *song-in-the-wings* = the Thread. |
-| The Circle (`CONCEPT-TheCircle`) | This song is the foundational statement of the Circle mythos. |
+| [[Brain/Concepts/The Circle\|The Circle (concept)]] | This song is the foundational *song* statement of the Circle doctrine; the **concept page** carries the cross-catalogue anchor, the Circle-vs-Loop distinction, and the 2019 provenance/date-floor. |
 | [[Welcome to the Circus]] | The same recursive circle run **outward** as spectacle; the cages-and-selling empires. |
 | [[Sources/Lyrics/The Circle (Lucius Version)]] / [[Lucius Lullaby]] | The myth re-sung through the distorting Lucius voice. |
 | [[Essays/Concepts/Songs/Pay Attention (feat. little luna)]] / [[Essays/Concepts/Songs/I Like to Party]] | The empires that *"told Jagwars they never could sing"* and *"sold everything"* — the album's attention-disease whose mythic cure is this closer. |
+| [[Essays/Concepts/Songs/Move To You]] | **The Circle's earliest documented naming (2019)** — Roy: *"there is no beginning and no end, it's just a circle"* in the Move To You interview, 3 yrs before this closer. The doctrine's origin point — and the song Lucius later buries in EP3. (Digital Journal 2019-09-23) |
 | [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]] | Joni's "Circle Game" (carousel-of-time) ↔ this growing circle — the Joni *33* dialogue. |
 
 ## Sources

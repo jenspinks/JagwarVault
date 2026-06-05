@@ -63,7 +63,7 @@ Streaming and store links available via [Jagwar Twin's official site](https://ja
 
 ## 2. Theatrical Series — Jagwar Twin YouTube Channel
 
-The narrative backbone of the *Lucius Lullaby* rollout. Public, citable, primary material.
+The narrative backbone of the *Lucius Lullaby* rollout. Public, citable, primary material. **Full consolidated transcript (all 7 EPs, verbatim dialogue + stage directions): [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]]** (ingested 2026-06-05 from Jen's working Doc; `status: draft`). The beats below are the quick-reference map; the transcript file is the full text. Cite the YouTube episodes, never the Doc.
 
 | Episode | Released | URL | Key content (verified dialogue per transcript — see note) |
 |---|---|---|---|
@@ -72,12 +72,12 @@ The narrative backbone of the *Lucius Lullaby* rollout. Public, citable, primary
 | *The Interview EP 3 (welcome to the circus)* | January 5, 2026 | https://www.youtube.com/watch?v=HqsTH99QcPk | NYH succeeded. Roy: *"while Lucius was singing songs about sticking pencils in people's eyes, I was recording **the song of love**."* Lucius derails him again — ***"Do you know what your lowest performing song of all time is? (mimes ballet) Ballerina Boy. When you're vulnerable you LOSE!"*** / *"You're in a loop and you don't even realize it"* (cites Loser→"Move to You" ballad, Happy Face). Roy: *"music is supposed to come from your soul… vulnerable."* Lucius plays **welcome to the circus** (banana again). *"What happened to music created from the soul?"* — Lucius: ***"The algorithm baby."*** Roy: *"I feel like I was born in the wrong time."* |
 | *The Spoon EP 4 (weirdness)* | February 17, 2026 | https://www.youtube.com/watch?v=DKD44ULpy3o | Roy in parking garage staring into a **spoon**, headphones; Lucius childlike, eating an apple. Lucius: *"You're very strange."* Roy: *"says the rabbit clown. What even are you?"* Lucius: ***"I'm your weirdness."*** Roy: *"Your weirdness is the sunshine."* (Weirdness plays.) Lucius: *"I'll take that."* |
 | *sir lucius takes over the "lucius lullaby" premiere (EP 5)* | March 23, 2026 *(listening party 3/3 Santa Monica)* | https://www.youtube.com/watch?v=aCftmfU_YpA | **Leif's first appearance** (bodyguard, stands in front). Lucius full makeup + ringmaster jacket, cold/emotionless, red light + heartbeat. Solo speech: *"Systems don't fail because they get attacked; they fail when people stop believing in them… the future doesn't ask permission to arrive… It's wearing a mask… speaking in a voice you tried to eliminate \[with fear]… build your own table… **Get out of the way. You're welcome.**"* |
-| EP 6 (kidnapping arc) | March 2026 | URL pending verification | Leif↔Lucius: *"Boss, look. I got this." / "Stop. Leave them." / "But boss, I can't be stopped. This is inevitable. My lullaby is everywhere."* Roy puts up **STOP SIR LUCIUS** flyers; is grabbed off the street, bag over head. |
+| EP 6 (kidnapping arc) | March 2026 | https://www.youtube.com/watch?v=eHuttX-p7Ic *(from Jen's transcript Doc, 2026-06-05; confirm by ear)* | Leif↔Lucius: *"Boss, look. I got this." / "Stop. Leave them." / "But boss, I can't be stopped. This is inevitable. My lullaby is everywhere."* Roy puts up **STOP SIR LUCIUS** flyers; is grabbed off the street, bag over head. |
 | *"lucius lullaby" ROY's listening party (EP 7)* | March 30, 2026 | https://www.youtube.com/watch?v=m0RHiBe9il0 | Roy **bound, eyes covered**; Lucius yells over the playback: *"I wrote this for you."* / *"Civilization has been a mistake… if a moth mistakes a flame for a mating call and flies into the flame, so what?"* (**moth speech** → [[Moths to the Flame]]). Re: **The Circle (Lucius Version)** — *"a gift… I took a few liberties… 'She went to a chemist to make her a dog, he was dyslexic and made a god.'"* Calls **#1 Champion (la Conquistadora)** *"another song about ME"* (irony — it unseats him). **When [[SOL]] plays, Lucius gets agitated, has Roy taken away, then sits unsettled until it finishes** (the song he can't metabolize — confirmed). |
 
 > **El Roi tattoo — confirmed.** Lucius wears **Hebrew on his neck reading "El Roi"** (אל ראי, "the God who sees me," Genesis 16) — per Jen's transcript note + a head-tilted video still (the stylized Hebrew reads ~"X73X" to a non-Hebrew eye). Closes the throat-placement debt the Da'at reading depended on (see [[Essays/Concepts/Songs/Not Your Homie]], [[Sir Lucius]]). His hat (an "Anonymous Club" / "Lambchop" piece) reads as bunny ears / could double as horns or moth antennae.
 
-> **Dialogue provenance.** Verbatim lines above are transcribed from the **public YouTube episodes** (the citable source); the working transcript is a Jen-maintained Google Doc (a *reference*, not itself a citation — per [[Boundaries]]). Exact in-video timestamps still ideal for EP1–4; EP6–7 carry partial timestamps in the transcript.
+> **Dialogue provenance.** Verbatim lines above are transcribed from the **public YouTube episodes** (the citable source); the working transcript is a Jen-maintained Google Doc (a *reference*, not itself a citation — per [[Boundaries]]), now consolidated into the vault at [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]]. Exact in-video timestamps still ideal for EP1–4; EP6–7 carry partial timestamps in the transcript.
 
 > **Do not confuse with "The Mirror Sessions."** "The Mirror Sessions" is a *separate, earlier* series (c. 2023–24) in which **Roy interviews friends and other artists** (e.g. Briana Cuoco, Paris Berelc, AlmondMilkHunni, Mali-Koa). It is **not** lore / theatrical — it is **authorial biography**: Roy speaking plainly about his life, views, and the themes informing his music. Citable as **authorial intent / biographical context** (tag: `none — Mirror Sessions, [episode name/URL]`); not citable for lore claims. The [[Essays/Concepts/Songs/Ballerina Boy]] inspiration story is in a Mirror Session — the attribution is correct, and the series is a legitimate source; what is still pending is the specific episode URL. *(Corrected 2026-05-27 — prior note wrongly flagged this as a possible conflation.)*
 
@@ -119,6 +119,7 @@ The narrative backbone of the *Lucius Lullaby* rollout. Public, citable, primary
 | Title | Outlet | Date | URL | Notes |
 |---|---|---|---|---|
 | "Jagwar Twin Streaming 'Welcome To The Circus'" | antiMusic | January 16, 2026 | https://www.antimusic.com/p/26/p0116jagwar_twin_streaming_welcome_to_the_circus.shtml | Source for the official LOOP → not your homie → welcome to the circus chain framing |
+| "Long Time Coming" video premiere | PAPER Magazine | ~2018–2019 | **URL: find** (named in [[Sources/Reference/Subject to Flooding — context & sources (research dossier)]]) | premiered the *Long Time Coming* video (dir. Emily Elizabeth Thomas, Joshua Tree); Travis Barker drums; *"Rich man, poor man, all of us bleed the same"* | pending — locate; citable once located |
 
 (Add additional press as it surfaces.)
 
@@ -204,8 +205,13 @@ External work that engages with the Jagwar Twin material analytically. Citable a
 - Public deep-dive podcasts and analyses of the work
 - Fan / subscriber writing in public venues
 - Reviews and music criticism
+  - **Alternative Addiction** — contemporaneous *Subject to Flooding* review (*"part WALK THE MOON, part Gnarls Barkley, and part Lorde"*; praised S1's "less-is-more" production). **URL: find** (named in the STF dossier). Citable as criticism, not authorial statement.
 
-(Add specific entries as they're identified.)
+**LLM research dossiers (`citable: false` finding aids — trace to the primaries they name, never cite the dossier):**
+- [[Sources/Reference/Subject to Flooding — context & sources (research dossier)]] (2026-06-05) — context/sources/reassessment of the debut; independently corroborates [[Sources/Credits/Subject to Flooding]]; maps the Essex / Sarah-Vaughan-source / collaborator-interview open items. Artifact: `claude.ai/public/artifacts/fd468b9e-886f-40af-9985-ef1dfebddeeb`.
+- [[Sources/Reference/Joni Mitchell — JT-relevant analysis (research dossiers)]] · [[Sources/Reference/Roy's Stated Influences (research dossier)]]
+
+(Add further entries as identified.)
 
 ---
 
@@ -219,6 +225,8 @@ Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in 
 | 2018-10 | Spindle Magazine | https://spindlemagazine.com/2018/10/jagwar-twin | JT debut | pending — **WebFetch returned empty page; needs Jen paste or alternate fetch** |
 | 2018-09-21 | Atwood Magazine | https://atwoodmagazine.com/jagwar-twin-loser-interview-subject-to-flooding-2018/ | Loser / *Subject to Flooding* | **ingested** — [[Sources/Transcripts/Atwood-2018-Loser]] |
 | 2018-09-28 | Artist Waves | https://artistwaves.com/checking-in-with-jagwar-twin/ | Checking in | **ingested** — [[Sources/Transcripts/Artist-Waves-2018-Checking-In]] |
+| ~2018–2019 | Alternative Press | **URL: find** (named in [[Sources/Reference/Subject to Flooding — context & sources (research dossier)]]) | *Subject to Flooding* — **the "we all walk around with masks on… we are all losers" quote** (load-bearing for [[The Mask]]) | pending — locate article + ingest; citable once located |
+| 2019-09-23 | Digital Journal (Markos Papadatos) | https://www.digitaljournal.com/article/jagwar-twin-talks-subject-to-flooding-loser-and-technology | **STF era** — Move To You (favorite / Florence + Joshua Tree / *"a prayer to and from the universe"*); **earliest known Circle naming** (*"no beginning and no end, it's just a circle"*); Loser (bullying-blog origin → *"we all feel like losers"* solidarity). **Distinct from the ~2023 DJ/Papadatos row below.** | **ingested (excerpts)** — [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]] (`draft`; full article pending) |
 | 2019-05 | Boston Herald | https://www.bostonherald.com/2019/05/03/jagwar/ | STF era | pending — **WebFetch failed (site refuses bot); needs Jen paste or alternate fetch** |
 | 2019-11-05 | Billboard | https://www.billboard.com/music/rock/jagwar-twin-loser-video-8542690/ | Loser video / **"programmed / deprogram"** language | **ingested** — [[Sources/Transcripts/Billboard-2019-Loser-Video]] |
 | 2019-09-23 | Prelude Press | https://preludepress.com/interviews/2019/09/23/interview-with-jagwar-twin/ | JT interview / **masks framing** | **ingested** — [[Sources/Transcripts/Prelude-Press-2019-JT]] |

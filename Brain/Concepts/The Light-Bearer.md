@@ -31,7 +31,7 @@ The distinction matters: **steady light illuminates**. You can navigate by it. *
 
 - [[Brain/Songs/Welcome to the Circus]] — *"flashing lights, there's no exit sign in my maze"* — the flashing light as the reason the exit cannot be found
 - [[Sir Lucius]] — Lucius as light-bearer in the disorienting sense; the name roots (Lucius / Lucifer / lux) are at minimum a resonance worth tracking
-- [[Good Time (1:08)]] — the face paint, the cigarette, the theatrical persona in the 2023 video; the Light-Bearer's visual vocabulary assembled before the Lucius co-credit
+- [[Good Time (1-08)|Good Time (1:08)]] — the face paint, the cigarette, the theatrical persona in the 2023 video; the Light-Bearer's visual vocabulary assembled before the Lucius co-credit
 - [[The Mask]] — the mask is painted white; white as the color of light and the color of concealment simultaneously
 - [[Inversion]] — Lucifer as the inverted angel; the Light-Bearer who inverts the function of light
 

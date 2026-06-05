@@ -247,6 +247,8 @@ THEATRICAL CANON. Lucius speaking is NOT automatically Roy speaking autobiograph
 **Correct:** "In Interview EP3, Lucius says X."
 **Incorrect:** "Roy admits X."
 
+**Full transcript:** `Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7).md` — the consolidated verbatim dialogue + stage directions for all 7 EPs (the spine of the Lucius layer). Quick-reference beats + URLs in `Master Source List` §2. Cite the YouTube episodes, never the Doc/file.
+
 ### Roy Voice (authorial-voice consultation)
 
 `Brain/Roy Voice/` aggregates Roy English's public statements (interviews, press, the Manifesto FAQ, YouTube interviews) **by theme**, with citations back to verbatim excerpts in `Sources/Transcripts/`. **Consult it before completing a Strong Read on any song.** When Roy has spoken directly to a claim you're about to make: promote the claim from `[W]` to grounded and cite the relevant Roy Voice page in `connections.grounded`. When Roy's statements contradict or limit a `[W]` reading: soften it or add a Counterargument. When Roy is silent on a theme the song raises: that bears on the retrospective-coherence guard — mark as `[~]` open question, not absence of evidence. Conventions for the folder are in `Brain/Roy Voice/README.md`; the source registry is in `[[Master Source List]]` §11.
@@ -354,13 +356,13 @@ These are not abstract risks — they describe observable states in the arc. Whe
 
 ## THE SECRET DOCUMENT
 
-A designated Secret Document contains private, unreleased, personally-shared material. It lives outside the tracked repo in a gitignored `_Private/` path.
+A designated Secret Document contains private, unreleased, personally-shared material. It lives outside the tracked repo in a gitignored `_Private/` path (and/or the user's Drive). **It is findable and readable for understanding — just never quotable.** Reading it is allowed (don't refuse to look or tell the user to stop seeking it); *using it in the vault* is constrained:
 
 1. **Never quote.** Not a sentence, not a phrase.
 2. **Never paraphrase** closely enough to reconstruct.
-3. **Never name as a source** anywhere in the vault.
-4. **Silent guidance only.** It raises confidence in readings that already stand on public material. It never unlocks a reading that would otherwise fail.
-5. **Operational test:** *"Would this interpretation survive if the Secret Document did not exist?"* If it only holds because of private context → downgrade to a flagged Open Question, or omit.
+3. **Never name as a source**, and never *describe* its contents, anywhere in the vault.
+4. **Two paths in, or omit.** An idea it raises may enter ONLY as **(a)** clearly-flagged speculation — Resonance `[~]` / Open Question, hedged, **never grounded**, never reproducing its wording — or **(b)** re-grounded on an independently-found public source. Otherwise omit. *(Refines the old "silent guidance only": the doc may be read and may inspire flagged speculation; it just may never be quoted, named, described, or used to ground a claim.)*
+5. **Operational test:** *"Would this stand as a **grounded** claim if the Secret Document did not exist?"* If no → speculation (4a) or alternate public source (4b) only.
 6. **Not loaded during structural/architecture work.**
 7. Flag any vault content that may have leaked private material.
 
@@ -439,13 +441,15 @@ Obsidian wikilink format: `[[PageName]]` — not markdown `[text](url)`.
 5. Confirm Jen's current focus.
 6. Conversation instructions are additive; surface conflicts before proceeding.
 
+**Finding a specific file (do NOT infer existence from the catalog).** `index.md` is curated, not exhaustive — it won't name every file. To locate something: (a) `grep -rli "term" .` from the vault root — fastest and always current; (b) `_System/file-map.md` — a flat enumeration of every `.md` by folder (regen: `python3 _System/gen-file-map.py`); (c) the registries (interviews → `Master Source List` §11/§2; IDs → `Ontology`). Never conclude a page is missing because it isn't listed in `index.md` — grep or check `file-map.md` first. See `index.md` → "Finding things" for the folder cheat-sheet.
+
 ---
 
 ## SCALE / DEPLOY NOTE
 
 Essays → static Astro site, Cloudflare Pages. Navigation: nonlinear labyrinth driven by `entry_points` + `related` frontmatter. Community features federated (Giscus/Discord), never server-rendered. Author Essays as public labyrinth nodes, not encyclopedia entries.
 
-Under ~150–200 pages, `_System/index.md` is sufficient for navigation. Beyond that, add qmd (local BM25 + vector + LLM re-rank as MCP server). Do not build preemptively — architecture is qmd-ready.
+Under ~150–200 pages, `_System/index.md` is sufficient for navigation. **The vault crossed that threshold (~240 `.md` files as of 2026-06-05) — index.md alone is no longer enough.** Interim fix in place: `_System/file-map.md` (flat enumeration, regen via `gen-file-map.py`) + grep as the primary find method + the "Finding things" cheat-sheet in index.md. **Next step at scale: qmd** (local BM25 + vector + LLM re-rank as MCP server) — the proper fix once a reader needs *semantic* search, not just "where is file X." Note: a file-map/grep helps any reader with filesystem access; an external claude.ai chat without it depends on the curated catalog + whatever is shared, so keep index.md + file-map current. Architecture is qmd-ready; don't build qmd preemptively.
 
 This vault is a living interpretation. The artist is alive and releasing. Every Brain/Essay page is current best understanding, not final word.
 

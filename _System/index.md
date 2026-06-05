@@ -9,6 +9,31 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 
 ---
 
+## Finding things — read this first
+
+> This index is **curated** (it explains what things *mean*); it does **not** list every file. To locate a specific file, use one of these — in order:
+>
+> 1. **`grep -rli "term" .`** from the vault root — fastest, and **always current**. (e.g. `grep -rli "honey pop" Sources/Transcripts/`.) Always authoritative; prefer it over inferring a file exists from this catalog.
+> 2. **[[file-map]]** (`_System/file-map.md`) — a **flat, complete enumeration of every `.md` file by folder.** Use when you can't grep or want to see everything at a glance. (Snapshot — regenerate with `python3 _System/gen-file-map.py`.)
+> 3. **The registries below** — for sourced material with URLs/status.
+>
+> **Where things live (folder cheat-sheet):**
+> | Looking for… | Folder | Full registry |
+> |---|---|---|
+> | An **interview / podcast transcript** | `Sources/Transcripts/` (`Outlet-YYYY-Topic.md`; see its [[Sources/Transcripts/README\|README]]) | [[Master Source List]] §11 (interviews) + §2 (Mirror Sessions) |
+> | **Song lyrics** | `Sources/Lyrics/` (one file per song) | — |
+> | **Composer credits** | `Sources/Credits/` (one file per album) | — |
+> | **Roy's public quotes / IG posts** | `Sources/Quotes/` | [[Master Source List]] §4 |
+> | **Reference substrate** (Bailey, Joni, influences) | `Sources/Reference/` | [[Sources/Reference/Joni Mitchell (index)]] |
+> | **Primary Roy artifacts** (the "I'm 33" board) | `Sources/Artifacts/` | — |
+> | A **concept / character / album / song ontology page** | `Brain/` (Concepts, Characters, Albums, Songs) | [[Ontology]] (canonical ID registry) |
+> | An **essay** (human-facing prose) | `Essays/` (Concepts, Concepts/Songs, Characters, Arcs) | Axis 1 below |
+> | **What an entity ID means** | — | [[Ontology]] |
+>
+> **Don't conclude a file doesn't exist** because it isn't named in this index — grep or check [[file-map]] first.
+
+---
+
 ## Infrastructure (`_System/`)
 
 | Page | Purpose |
@@ -16,6 +41,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 | [[CLAUDE]] | Schema — layers, tiers, source rules, frontmatter, workflows |
 | [[GEMINI]] | Drafting guide for the Gemini collaborator (root file) — division of labor, tiers, boundaries, output template, fact-verification hand-off |
 | [[index]] | This file — dual-axis catalog |
+| [[file-map]] | **Flat enumeration of every `.md` file by folder** — the "what exists & where" map (regen: `gen-file-map.py`) |
 | [[log]] | Chronological operational log |
 | [[lessons-learned]] | Drift & process register |
 | [[Ontology]] | Canonical entity registry (IDs) — currently 117 |
@@ -33,14 +59,14 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 **Sources/** (external evidence, immutable)
 - `Sources/Lyrics/` — 47 files (all catalogue songs ingested); 6 verified-stable (Long Time Coming, Dream / Dream, Superhuman Interlude, Loser, Good Day, No Fake Friends, Hell Pt. 2 + Welcome to the Circus); rest `status: draft` pending streaming verification
 - `Sources/Credits/` — [[Sources/Credits/Subject to Flooding|Subject to Flooding]] composer-credit record (per-track Apple/Spotify verified) · **[[Sources/Credits/33|33]]** (Big Loud; started 2026-05-30 with It's Your Time)
-- `Sources/Reference/` — external reference substrate. [[Sources/Reference/Bailey - The Labours of Hercules (reference)]] (12-labour↔sign table). **JONI MITCHELL CLUSTER (2026-06-02) — start here: [[Sources/Reference/Joni Mitchell (index)]]** (map-of-content linking all Joni files by tier): [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]] (full LotC lyrics + 33-dialogue table, `citable`); [[Sources/Reference/Joni Mitchell — source index]] (13 indexed public articles, `citable`; all read); [[Sources/Reference/Joni Mitchell — JT-relevant analysis (research dossiers)]] (3 LLM dossiers, **`citable:false` — leads**); + [[Sources/Reference/Roy's Stated Influences (research dossier)]] (`citable:false`)
+- `Sources/Reference/` — external reference substrate. [[Sources/Reference/Bailey - The Labours of Hercules (reference)]] (12-labour↔sign table). **JONI MITCHELL CLUSTER (2026-06-02) — start here: [[Sources/Reference/Joni Mitchell (index)]]** (map-of-content linking all Joni files by tier): [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]] (full LotC lyrics + 33-dialogue table, `citable`); [[Sources/Reference/Joni Mitchell — source index]] (13 indexed public articles, `citable`; all read); [[Sources/Reference/Joni Mitchell — JT-relevant analysis (research dossiers)]] (3 LLM dossiers, **`citable:false` — leads**); + [[Sources/Reference/Roy's Stated Influences (research dossier)]] (`citable:false`); + **[[Sources/Reference/Subject to Flooding — context & sources (research dossier)]]** (2026-06-05, `citable:false` — corroborates [[Sources/Credits/Subject to Flooding]]; maps the Essex / Sarah-Vaughan / collaborator-gap open items)
 - `Sources/Artifacts/` — **NEW (2026-06-01):** primary Roy artifacts. [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] — Roy's own cosmology board (Kybalion/Bailey/Russell/Kabbalah/Jung/Plato; the "Tracks" concept-album; "Statue of Roy"; Soul-Is-A-Star "Sun" draft); hub concept = [[The Pattern]]
 - `Sources/Quotes/` — [[Sources/Quotes/Roy IG Story - Bailey Labour VII]] (Roy's annotated Bailey page) + IG posts (Half the Man / El Roy / Everyone's a Guru / Sir Lucius One Hit Wonder)
-- `Sources/Transcripts/` — 12 **The Mirror Sessions** episodes ingested; **+ [[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]]** (2026-05-30; Roy names the Bailey book + states his reading on IG Live; `status: draft` pending listen-through) (`MirrorSessions-*.md`, full cleaned/attributed transcripts, `status: draft` pending listen-through). Registered in [[Master Source List]] §2; aggregated into Brain/Roy Voice. · `Sources/Quotes/` — **1 file (2026-05-29):** [[Sources/Quotes/Roy IG Story - Bailey Labour VII]] (Roy's annotated Bailey page, IG Story)
+- `Sources/Transcripts/` — **40 files.** Verbatim interview/podcast/series excerpts, one file per source (`Outlet-YYYY-Topic.md`); see [[Sources/Transcripts/README]] for the convention. **THEATRICAL CANON (the Roy vs Sir Lucius spine): [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]]** — full verbatim dialogue for all 7 EPs (*The War Begins* → *ROY's listening party*); the most-cited primary source in the vault. Also: the **12 The Mirror Sessions** (`MirrorSessions-*.md`, *separate & biographical* — Roy interviewing other artists, NOT lore), the named-interview transcripts (Atwood, Strife, Knockturnal, Masquerade, etc.), **[[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]]**, and **[[Sources/Transcripts/Eye Alaska Interview - 2010]]** (Brandon/Roy, pre-JT). **For the complete enumerated list:** [[file-map]] (or `ls Sources/Transcripts/`); **for URLs + status:** [[Master Source List]] §2 (theatrical + Mirror Sessions) + §11 (press interviews). Aggregated by theme into Brain/Roy Voice.
 
 **Brain/** (machine semantic memory — terse, frontmatter, tiered connections)
 - `Brain/Songs/` — **47** files; 13 with full frontmatter (the 7 STF essay-filed + 6 from Lucius Lullaby / Singles area); rest scaffolds ◦
-- `Brain/Concepts/` — **23** files, **all with frontmatter ✦** (incl. [[Nigredo]], [[Duality]], [[Witnessing vs Surveillance]]; **new 2026-06-01: [[The Pattern]]** `CONCEPT-ThePattern` — hub for Roy's "I'm 33" board)
+- `Brain/Concepts/` — **24** files, **all with frontmatter ✦** (incl. [[Nigredo]], [[Duality]], [[Witnessing vs Surveillance]]; [[The Pattern]] `CONCEPT-ThePattern`; **new 2026-06-05: [[Brain/Concepts/The Circle|The Circle]]** `CONCEPT-TheCircle` — the keystone doctrine promoted from pageless, with its 2019 date-floor provenance)
 - `Brain/Characters/` — 4 (Roy ✦, Sir Lucius ✦, Mary ◦, Jagwar Twin ◦)
 - `Brain/Albums/` — 3 (Lucius Lullaby ✦, 33 ◦, Subject to Flooding ◦ — substantially developed page; tracklist + composer credits + Flood frame)
 - `Brain/Roy Voice/` — **NEW (2026-05-28):** authorial-voice index — thematic aggregation of Roy's public statements, designed for context-loading during song analysis. See [[Brain/Roy Voice/README]]. Sources/Transcripts/ holds verbatim per-interview excerpts; Brain/Roy Voice/ holds the by-theme aggregation. Registered in [[Master Source List]] §11 (27 interviews queued for ingestion). **Updated 2026-05-29:** The Mirror Sessions aggregated in; new page [[Roy on the Heart-Mind Split]] added (Roy equates the rational mind with the Lucifer archetype — grounds [[Sir Lucius]] = the mind).
@@ -60,6 +86,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 Each links the Brain entry (always) and the Essay (if written ✦).
 
 **Load-bearing**
+- [[Brain/Concepts/The Circle]] ✦ — `CONCEPT-TheCircle`; **the keystone doctrine**: no beginning/end, song-hidden-within, remembrance, "the inside of the inside"; first documented 2019 (date-floor), formalized as the *33* closer 2022. The figure every other concept serves or inverts.
 - The Thread ◦ — world tied on a string; Ariadne; feeling as the labyrinth's solution
 - The Circus ◦ — the Circle inverted; spectacle at social scale
 - The Labyrinth ◦ — maze without exit; requires the thread
@@ -80,7 +107,7 @@ Each links the Brain entry (always) and the Essay (if written ✦).
 The Mask · The Mouth · The Voice · The Audience · The Light-Bearer · The Spectacle · Consumption · Fire · The Wheel · The Veil · The Aquarium · Panem et Circenses
 
 **Pageless** ⬚ (declared in [[Ontology]], referenced, no page yet)
-The Circle · The Mirror · The Moon · Yesod · Malkhut · Tiferet · The Empty Mirror · The Angle/Angel · Ballerina Boy · Leif · The Boss/BMRC · The Loop · The Abyss · Objective Art · Somatic Captivity · Collective Amnesia · The Twice-Voiced Blessing · Tsimtsum · Tikkun Olam · Keilim/Vessels · Liminal Spaces · Sacred Geometry · Cosmic Cycles · Sleep / Wake Up · Albedo · Rubedo · Orbit / Return · The Speaker Problem · Flattened Identity · Anima/Animus · Alchemical Transmutation
+The Mirror · The Moon · Yesod · Malkhut · Tiferet · The Empty Mirror · The Angle/Angel · Ballerina Boy · Leif · The Boss/BMRC · The Loop · The Abyss · Objective Art · Somatic Captivity · Collective Amnesia · The Twice-Voiced Blessing · Tsimtsum · Tikkun Olam · Keilim/Vessels · Liminal Spaces · Sacred Geometry · Cosmic Cycles · Sleep / Wake Up · Albedo · Rubedo · Orbit / Return · The Speaker Problem · Flattened Identity · Anima/Animus · Alchemical Transmutation
 
 **Characters**
 [[Roy]] ✦ · [[Sir Lucius]] ✦ · Mary ◦ · Jagwar Twin ◦ · Ballerina Boy ⬚

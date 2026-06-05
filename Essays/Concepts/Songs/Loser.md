@@ -39,6 +39,7 @@ Retrospectively, the song occupies a foundational place in the formation of **Th
 - The song references time pressure and impending eruption: *"Ain't got much time till I blow."*
 - The refrain applies a low-status social label to both speaker and listener: *"I'm a loser, baby, just like you."*
 - **Closing bridge — CONFIRMED 2026-05-28 via Spotify** (Jen screenshot). *"♪ / I think the world's gone insane / I think the world's gone insane / We're singing"* followed by a final chorus repeat **is present** in Spotify's synced lyrics; Apple Music's pane omitted it. Restored to `Sources/Lyrics/Loser`. The line is now grounded — and it carries real weight: the speaker *explicitly* names the world insane, which is exactly the Gnostic / Kenoma diagnosis the Resonance section identifies.
+- **Origin + stated intent (Digital Journal, 2019-09-23) [G].** Roy's origin for the song: older kids once ran a **blog mocking his singing** — the bullying wound the track answers. His stated resolution: **"we all feel like losers sometimes"** → turn the slur into solidarity, not self-pity. This is a **third independent outlet** grounding the masks-off / shared-humanity reading (with **Prelude Press 2019-09-23**'s "masks" line and **Knockturnal 2019**'s misfit/outcast framing) — so the §1 *"I'm a loser, baby, just like you"* solidarity move is **Roy-stated intent**, not only an inferred read. — [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]]
 
 ---
 
@@ -184,5 +185,6 @@ The refrain *"I'm a loser, baby, just like you"* therefore becomes a strange for
 - Lyrics: [[Sources/Lyrics/Loser]] — Apple Music verified 2026-05-27 (with one outstanding ear-check, see Grounded)
 - Composer: Apple Music Details field — Matthew Pauling & Roy English (see [[Sources/Credits/Subject to Flooding]])
 - *Subject to Flooding* (2018, Atlantic Records)
-- Theatrical reference: *The Interview* EP3 for Lucius's retrospective framing of "Loser" as an early commercial turning point
+- Roy's words (origin + "we all feel like losers" solidarity): Digital Journal, Markos Papadatos, **2019-09-23** — [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]] (cite the article)
+- Theatrical reference: *The Interview* EP3 for Lucius's retrospective framing of "Loser" as an early commercial turning point — full transcript [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] §EP3
 - Analytical frameworks: C. G. Jung (*The Archetypes and the Collective Unconscious*); G. I. Gurdjieff (*In Search of the Miraculous*); selected Gnostic cosmology sources

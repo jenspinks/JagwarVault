@@ -45,7 +45,7 @@ Structurally, the Circus is [[The Circle]] inverted. Same recursive motion; oppo
 - [[Great Time to Be Human]] — the ironic pop-affect surface the Circus runs on
 - [[Happy Face]] — the minimum-viable mask; what the Circus optimizes into a jester face
 - [[I Like to Party]] — the cake-before-the-Circus; the force-feeding mechanism four years before the Circus is named
-- [[Good Time (1:08)]] — the mastermind self-designation as early Circus
+- [[Good Time (1-08)|Good Time (1:08)]] — the mastermind self-designation as early Circus
 - The theatrical series — Lucius's industry-premiere speech (*EP 5*) explicitly addresses the Circus's mechanism (*"systems fail when belief collapses"*)
 - [[The Circle (Lucius Version)]] — the Circus as Lucius's version of the Circle from the album's first track
 

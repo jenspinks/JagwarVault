@@ -119,7 +119,7 @@ The song ends with apparent success — Bali, "seeing so clear," the list workin
 
 ### Kabbalistic / Hermetic
 
-Within Hermetic Qabalistic language, N.F.F. maps closely onto the pressure relationship between **[[Malkuth]] and [[Yesod]]** [W].
+Within Hermetic Qabalistic language, N.F.F. maps closely onto the pressure relationship between **[[Malkhut|Malkuth]] and [[Yesod]]** [W].
 
 The song begins in raw Malkuth conditions: no money, no home, bodily instability, physical exposure, survival anxiety. Under sufficient pressure, the psyche **retreats upward into reflective and defensive structures associated with Yesod**: memory, vigilance, emotional filtering, social projection, strategic awareness.
 

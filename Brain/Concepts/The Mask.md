@@ -33,7 +33,7 @@ The project traces a progression: **Happy Face** (the minimum-viable social mask
 - [[Brain/Songs/Welcome to the Circus]] — *"Paint my face, and they clap and smile / I'm so outrageous, I'm so in style"* — the mask as optimized entertainment product
 - [[Sir Lucius]] — Lucius's jester face paint (white, black X crosses on cheeks) is the fully-assembled mask identity; confirmed in public videos from 2023 (*Good Time 1:08*) through 2026
 - [[Roy]] — the face beneath the mask; the question of what Roy looks like without the Lucius-mask is the project's central dramatic question
-- [[Good Time (1:08)]] — 2023 music video; earliest confirmed visual evidence of the full mask iconography including the *"The Empty Mirror"* tattoo on the hand that holds it
+- [[Good Time (1-08)|Good Time (1:08)]] — 2023 music video; earliest confirmed visual evidence of the full mask iconography including the *"The Empty Mirror"* tattoo on the hand that holds it
 - [[The Mirror]] — the mask and the mirror are structurally related; the mask is what you show the mirror; the mirror shows you the mask back
 
 ---
