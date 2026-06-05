@@ -11,7 +11,7 @@ connections:
   strong_read: [CHAR-SirLucius, SONG-WelcomeToTheCircus]
   resonance:   [SONG-TheCircle, SONG-SoulIsAStar]
 review_date: 2026-12-01
-referenced_by: [SONG-DownToYou, SONG-ILikeToParty]
+referenced_by: [SONG-DownToYou, SONG-ILikeToParty, SONG-ImagineAWorld]
 ---
 # Pay Attention (feat. little luna)
 

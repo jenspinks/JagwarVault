@@ -11,7 +11,7 @@ connections:
   strong_read: [CONCEPT-Duality, SONG-PayAttentionFeatLittleLuna, CHAR-SirLucius]
   resonance:   [CONCEPT-Malkhut, SONG-TheCircle]
 review_date: 2026-12-01
-referenced_by: [SONG-AnotherWayIIHeaven]
+referenced_by: [SONG-AnotherWayIIHeaven, SONG-ImagineAWorld]
 ---
 # Down to You
 
