@@ -43,6 +43,7 @@ hand-maintained thereafter.
 | `CONCEPT-TheVeil` | The Veil |  |
 | `CONCEPT-TheVoice` | The Voice |  |
 | `CONCEPT-TheWheel` | The Wheel |  |
+| `CONCEPT-SourceVsReflection` | Source vs Reflection | **master-key meta-frame** — does a reflection return you to the source or trap you in the image?; genus above Machine-vs-Human / Witnessing-vs-Surveillance / Circle-vs-Loop / Sun-vs-Moon; [[Brain/Concepts/Source vs Reflection]] |
 | `CONCEPT-WitnessingVsSurveillance` | Witnessing vs Surveillance | being-seen: witnessing transforms (El Roi) vs surveillance shapes (the Algorithm) |
 
 ## Characters

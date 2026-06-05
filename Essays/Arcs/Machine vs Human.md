@@ -125,6 +125,7 @@ Per `CONCEPT-InheritedSubstrate`: the thread's raw material is largely **inherit
 | *33* (2022): also "Pay Attention" | The digital-age escalation node |
 | [[Tiferet]] / [[Yesod]] | The real axis: heart-integrated structure vs structure severed from heart |
 | `CONCEPT-InheritedSubstrate` | Provenance: inherited tension reworked into internal architecture |
+| [[Brain/Concepts/Source vs Reflection]] | **The genus above this arc** — the machine is the late-stage *reflection-engine*; "optimization severed from the heart" = a reflection that forgot its source. Machine-vs-Human is one species of Source-vs-Reflection. |
 
 ---
 

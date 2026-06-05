@@ -9,9 +9,9 @@ related: [CONCEPT-InheritedSubstrate, CONCEPT-TheLaborsOfHercules, CHAR-SirLuciu
 connections:
   grounded:    [CONCEPT-TheLaborsOfHercules, ALBUM-33, SONG-SoulIsAStar]
   strong_read: [CHAR-SirLucius, CHAR-Roy, CONCEPT-InheritedSubstrate]
-  resonance:   [CONCEPT-Duality, CONCEPT-TheCircle, CONCEPT-SacredGeometry, CONCEPT-CosmicCycles]
+  resonance:   [CONCEPT-Duality, CONCEPT-TheCircle, CONCEPT-SacredGeometry, CONCEPT-CosmicCycles, CONCEPT-SourceVsReflection]
 review_date: 2026-12-01
-referenced_by: [CONCEPT-TheLaborsOfHercules, SONG-AnotherWayIIHeaven]
+referenced_by: [CONCEPT-SourceVsReflection, CONCEPT-TheLaborsOfHercules, SONG-AnotherWayIIHeaven]
 ---
 # The Pattern
 
@@ -55,12 +55,14 @@ Board drafts [[Sources/Lyrics/Soul Is A Star|Soul Is A Star]] as **"Sun"** (*"wh
 - Inherited Substrate (`CONCEPT-InheritedSubstrate`, pageless) — the board is the explicit substrate document.
 - [[Sources/Lyrics/Soul Is A Star]] / [[Essays/Concepts/Songs/It's Your Time]] — "we fall down as seeds," the Well, Heaven/Man/Earth in-between.
 - [[Duality]] / [[The Circle]] — polarity; ENSO/cycles/return.
+- [[Brain/Concepts/Source vs Reflection]] — **parallel concept, not a sub-case.** The Pattern is *correspondence of structure across scales*; Source-vs-Reflection is *fidelity of a mediation* (transmit vs substitute). They **overlap** where a faithful reflection = a true As-Above-So-Below, and **part** where a *distorted* reflection = a *broken* correspondence (something the Pattern-as-structure doesn't itself name). Parallel, overlapping, not nested (Jen, 2026-06-05).
 
 ## Open Questions
 - [ ] Is the "Tracks" list a real (unreleased) project, a working title set, or abandoned? Confirm before treating as a release.
 - [ ] Does the Pattern *generate* the catalogue or is it Roy's after-the-fact map of it? (Same problem as the labours.) Per-song mapping needs per-song anchors — do not back-fit.
 - [ ] Split into sub-concepts later? "The Pattern" (fractal law) vs "Consciousness Upload" (the application) may each want their own page as material grows.
 - [ ] Home the board's source-material as **concept nodes (the ideas), not person nodes** (Jen, 2026-06-01) — Roy's material sits *alongside* the same concepts other thinkers built (Bailey, Hermes/Kybalion, Plato, Jung), who may surface elsewhere in the vault. So **Walter Russell**'s heavy presence (charge/discharge, gravitation–radiation, octaves) should feed shared concepts — e.g. [[Duality]] (polarity), `CONCEPT-SacredGeometry`, `CONCEPT-CosmicCycles` — **not** a `CONCEPT-WalterRussell` page. Same for the others: attribute the contributor in prose; let the *concept* be the node.
+- [x] **Expected concept-alignment, by design of the substrate (Jen, 2026-06-05).** Because the board braids Bailey + the Kybalion/Hermeticism + Kabbalah + Neoplatonism + Jung + Plato — a **theosophical / perennialist synthesis** — the vault's concepts will *naturally* align and rhyme: [[Brain/Concepts/Source vs Reflection]] ∥ As-Above-So-Below, [[Duality]] ∥ Polarity/Gender, [[The Circle]] ∥ Cosmic Cycles, and so on. **This alignment is a property of the shared root, not in itself evidence of deliberate cross-encoding by Roy.** Treat rhyme between concepts as *expected*; keep parallel concepts parallel (don't collapse them into one), and don't upgrade alignment to authorial design without per-case anchors. *(A specific application of this page's top guard: license the lens, not a master key.)*
 
 ---
 *Hub node for the [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] artifact. Brain-terse; full transcription + image inventory live on the source. Draft — grows as the board's threads are worked into songs.*

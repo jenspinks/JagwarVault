@@ -66,7 +66,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 
 **Brain/** (machine semantic memory — terse, frontmatter, tiered connections)
 - `Brain/Songs/` — **47** files; 13 with full frontmatter (the 7 STF essay-filed + 6 from Lucius Lullaby / Singles area); rest scaffolds ◦
-- `Brain/Concepts/` — **24** files, **all with frontmatter ✦** (incl. [[Nigredo]], [[Duality]], [[Witnessing vs Surveillance]]; [[The Pattern]] `CONCEPT-ThePattern`; **new 2026-06-05: [[Brain/Concepts/The Circle|The Circle]]** `CONCEPT-TheCircle` — the keystone doctrine promoted from pageless, with its 2019 date-floor provenance)
+- `Brain/Concepts/` — **25** files, **all with frontmatter ✦** (incl. [[Nigredo]], [[Duality]], [[Witnessing vs Surveillance]]; [[The Pattern]] `CONCEPT-ThePattern`; **2026-06-05: [[Brain/Concepts/The Circle|The Circle]]** `CONCEPT-TheCircle` — keystone doctrine, 2019 date-floor; **+ [[Brain/Concepts/Source vs Reflection]]** `CONCEPT-SourceVsReflection` — the master-key meta-frame above Machine-vs-Human)
 - `Brain/Characters/` — 4 (Roy ✦, Sir Lucius ✦, Mary ◦, Jagwar Twin ◦)
 - `Brain/Albums/` — 3 (Lucius Lullaby ✦, 33 ◦, Subject to Flooding ◦ — substantially developed page; tracklist + composer credits + Flood frame)
 - `Brain/Roy Voice/` — **NEW (2026-05-28):** authorial-voice index — thematic aggregation of Roy's public statements, designed for context-loading during song analysis. See [[Brain/Roy Voice/README]]. Sources/Transcripts/ holds verbatim per-interview excerpts; Brain/Roy Voice/ holds the by-theme aggregation. Registered in [[Master Source List]] §11 (27 interviews queued for ingestion). **Updated 2026-05-29:** The Mirror Sessions aggregated in; new page [[Roy on the Heart-Mind Split]] added (Roy equates the rational mind with the Lucifer archetype — grounds [[Sir Lucius]] = the mind).
@@ -86,6 +86,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 Each links the Brain entry (always) and the Essay (if written ✦).
 
 **Load-bearing**
+- [[Brain/Concepts/Source vs Reflection]] ✦ — `CONCEPT-SourceVsReflection`; **the master-key meta-frame**: *does a reflection return you to the source, or trap you in the image?* The genus above Machine-vs-Human, Witnessing-vs-Surveillance, Circle-vs-Loop, and Sun-vs-Moon.
 - [[Brain/Concepts/The Circle]] ✦ — `CONCEPT-TheCircle`; **the keystone doctrine**: no beginning/end, song-hidden-within, remembrance, "the inside of the inside"; first documented 2019 (date-floor), formalized as the *33* closer 2022. The figure every other concept serves or inverts.
 - The Thread ◦ — world tied on a string; Ariadne; feeling as the labyrinth's solution
 - The Circus ◦ — the Circle inverted; spectacle at social scale
