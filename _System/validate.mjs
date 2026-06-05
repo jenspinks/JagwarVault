@@ -14,10 +14,12 @@ const infos = [];
 // 1. Load canonical IDs from Ontology.md (every `BACKTICK-id-BACKTICK` in tables)
 const onto = readFileSync(join(ROOT, "_System/Ontology.md"), "utf8");
 const ids = new Set([...onto.matchAll(/`([A-Z]+-[A-Za-z0-9]+)`/g)].map((m) => m[1]));
+// Pageless = IDs in the "Declared — pageless" section ONLY. Bound the region at
+// the next "## " heading so later sections (e.g. "Classification notes") that
+// mention paged IDs in prose don't get mis-read as pageless declarations.
+const pagelessRegion = (onto.split("Declared — pageless")[1] || "").split(/\n## /)[0];
 const pageless = new Set(
-  onto.split("Declared — pageless")[1]
-    ? [...onto.split("Declared — pageless")[1].matchAll(/`([A-Z]+-[A-Za-z0-9]+)`/g)].map((m) => m[1])
-    : []
+  [...pagelessRegion.matchAll(/`([A-Z]+-[A-Za-z0-9]+)`/g)].map((m) => m[1])
 );
 if (ids.size === 0) errors.push("Ontology.md: no entity IDs parsed — check format.");
 
@@ -36,6 +38,13 @@ function walk(dir) {
   return out;
 }
 const pages = [...walk("Brain"), ...walk("Essays")];
+// For wikilink resolution, mirror Obsidian: any .md anywhere in the vault is a
+// valid target, by full vault-relative path OR by basename. (Frontmatter/id
+// checks below still apply only to `pages` = Brain/ + Essays/.)
+const linkTargets = [...pages, ...walk("Sources"), ...walk("_System")];
+// Lowercased — Obsidian resolves wikilinks case-insensitively.
+const linkPathSet = new Set(linkTargets.map((p) => p.replace(/\.md$/, "").toLowerCase()));
+const linkBaseSet = new Set(linkTargets.map((p) => p.split("/").pop().replace(/\.md$/, "").toLowerCase()));
 const seenIds = new Map();
 
 for (const rel of pages) {
@@ -70,11 +79,20 @@ for (const rel of pages) {
     warns.push(`${rel}: review_date ${fm.review_date} is past — review/refresh 'status'.`);
 
   // 2e. broken wikilinks (lenient: resolve by Ontology display-name OR existing file basename)
-  for (const lm of body.matchAll(/\[\[([^\]|#]+)(?:[#|][^\]]*)?\]\]/g)) {
-    const target = lm[1].trim();
-    const fileExists = pages.some((p) => p.split("/").pop().replace(/\.md$/, "") === target)
-      || target === "CLAUDE" || target.startsWith("Sources/") || target.startsWith("_System/");
-    const nameKnown = onto.includes(`| ${target} |`);
+  //     Strip code (fenced blocks + inline spans) first: a `[[link]]` inside backticks
+  //     is documentation of a link (e.g. a provenance note recording a fix), not a live
+  //     link — Obsidian renders it as code. Don't lint it.
+  const scanBody = body
+    .replace(/```[\s\S]*?```/g, "")
+    .replace(/`[^`\n]*`/g, "");
+  for (const lm of scanBody.matchAll(/\[\[([^\]|#]+)(?:[#|][^\]]*)?\]\]/g)) {
+    // Strip a trailing backslash left by an escaped pipe (`\|alias` in table cells).
+    const target = lm[1].trim().replace(/\\$/, "");
+    const t = target.toLowerCase();
+    // Resolve like Obsidian: any vault .md by full vault-relative path OR basename, case-insensitive.
+    const fileExists = linkPathSet.has(t) || linkBaseSet.has(t)
+      || t === "claude" || t === "gemini";
+    const nameKnown = onto.toLowerCase().includes(`| ${t} |`);
     if (!fileExists && !nameKnown) infos.push(`${rel}: wikilink [[${target}]] unresolved (page not yet written?).`);
   }
 }
