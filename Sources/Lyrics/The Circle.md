@@ -12,7 +12,7 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Album:** *33* (2022, Big Loud Rock) — **track 10 of 10** (album closer); 3:50.
-- **Writers:** `[?]` — pull Spotify Credits ([[Sources/Credits/33]]).
+- **Writer:** **Roy English (sole writer)** — verified 2026-06-02 (Spotify Credits); Roy English & Matt Pauling produce ([[Sources/Credits/33]]).
 - Distinct from [[Sources/Lyrics/The Circle (Lucius Version)]] (the 2026 Lucius Lullaby reworking). This is the **33** original — the foundational Jagwar-myth song. (The *"hid the song inside their wings"* line is the source of the public *"the song hidden inside its wings"* phrasing — public/citable.)
 
 ### Citable as
@@ -69,4 +69,4 @@ But the inside of the inside must be where you go
 ```
 
 ## Maintenance
-- Ingested 2026-05-25 (Google Drive); **verified against Spotify 2026-05-30 (Jen screenshots) → `status: stable`.** Foundational Jagwar-myth song (the Circle doctrine, "song inside their wings," "the wise one… held the string," "empires built cages and sold everything"). Writer credits `[?]` pending.
+- Ingested 2026-05-25 (Google Drive); **verified against Spotify 2026-05-30 (Jen screenshots) → `status: stable`.** Foundational Jagwar-myth song (the Circle doctrine, "song inside their wings," "the wise one… held the string," "empires built cages and sold everything"). **Writer verified 2026-06-02: Roy English (sole); English+Pauling produce.** Essay: [[Essays/Concepts/Songs/The Circle]].

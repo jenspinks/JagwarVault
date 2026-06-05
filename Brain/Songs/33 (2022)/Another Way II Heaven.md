@@ -11,7 +11,7 @@ connections:
   strong_read: [CHAR-SirLucius, SONG-DownToYou, SONG-TheCircle]
   resonance:   [CONCEPT-Malkhut, SONG-SoulIsAStar]
 review_date: 2026-12-01
-referenced_by: [SONG-BALLERINABOY, SONG-ImagineAWorld]
+referenced_by: [SONG-BALLERINABOY, SONG-ImagineAWorld, SONG-TheCircle]
 ---
 # Another Way II Heaven
 
