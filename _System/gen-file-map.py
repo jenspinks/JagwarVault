@@ -11,7 +11,7 @@ grep against the live tree is always authoritative if this looks stale.
 import os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SKIP_TOP = {".git", "_legacy"}
+SKIP_TOP = {".git", "_legacy", "_Private"}  # _Private = the gitignored Secret Document store — never enumerate it
 
 groups = {}
 for dp, dn, fn in os.walk(ROOT):

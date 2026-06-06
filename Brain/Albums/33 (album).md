@@ -1,11 +1,30 @@
+---
+id: ALBUM-33
+type: album
+status: draft
+confidence: medium
+source_quality: primary-source
+sources: ["Sources/Credits/33.md", "Sources/Transcripts/Ones-To-Watch-2022-33-QA.md"]
+related: [ALBUM-SubjectToFlooding, ALBUM-LuciusLullaby, CONCEPT-TheCircle, CONCEPT-MachineVsHuman, CONCEPT-ThePattern]
+connections:
+  grounded:    [SONG-TheCircle, SONG-HappyFace, SONG-SoulIsAStar]
+  strong_read: [CONCEPT-TheCircle, CONCEPT-MachineVsHuman, ALBUM-SubjectToFlooding]
+  resonance:   [CONCEPT-SourceVsReflection, CONCEPT-ThePattern]
+referenced_by: [CHAR-Roy, CONCEPT-TheCircle, CONCEPT-ThePattern, SONG-AnotherWayIIHeaven, SONG-DownToYou, SONG-HappyFace, SONG-ILikeToParty, SONG-ImagineAWorld, SONG-Online, SONG-PayAttentionFeatLittleLuna, SONG-TheCircle]
+review_date: 2026-12-05
+---
 # 33 (album)
 
-**Artist:** Jagwar Twin (Roy English)
-**Released:** September 30, 2022
-**Label:** Big Loud Rock / Big Loud Records
-**Producer:** Matthew Pauling (Twenty One Pilots, 5 Seconds of Summer)
-**Mixed by:** Jeff Ellis (Grandson, Frank Ocean, Doja Cat)
-**Status:** Stub — not yet analyzed as a whole
+**Artist:** Jagwar Twin (Roy English) · **Released:** September 30, 2022 · **Label:** Big Loud Rock / Big Loud Records · **Producer:** Matt Pauling · **Mixed by:** Jeff Ellis · 10 tracks, 35:20.
+**Composer credits:** [[Sources/Credits/33]] (Spotify-verified, per-track; core = **Roy English + Matt Pauling**, exceptions below). **Inherited substrate:** track 5 *Soul Is A Star* is co-written by **Joni Mitchell** `[G]`.
+**Status:** Built out 2026-06-05 from Code's grounded vault-traversal brief.
+**Tiers:** [G] grounded · [W] strong read · [~] resonance · [P] plausible/framework · [?] flagged.
+
+---
+
+## The Frame
+
+*33* is **the cosmology album.** Where the debut ([[Subject to Flooding (album)]]) turned a personal wound into a *we-not-me* humanism, *33* turns it **outward into a diagnosis of the attention/machine age** (tracks 1–4), poses the catalogue's central question at the literal center (5, *"do you know who you are?"*), and answers it with the **foundational myth** at the close (10, *"the inside of the inside"*). The album moves **from forgetting to remembrance** — from external-system critique to the myth underneath everything — and it does so **before any of it is named "Lucius."** Title = Roy's age (33); by his own framing it *"represents peace within and without."*
 
 ---
 
@@ -13,35 +32,119 @@
 
 | # | Title |
 |---|-------|
-| 1 | [[Online]] |
-| 2 | [[It's Your Time]] |
-| 3 | [[Pay Attention (feat. little luna)]] |
-| 4 | [[I Like to Party]] |
-| 5 | [[Soul Is A Star]] |
+| 1 | [[Essays/Concepts/Songs/Online\|Online]] |
+| 2 | [[Essays/Concepts/Songs/It's Your Time\|It's Your Time]] |
+| 3 | [[Essays/Concepts/Songs/Pay Attention (feat. little luna)\|Pay Attention (feat. little luna)]] |
+| 4 | [[Essays/Concepts/Songs/I Like to Party\|I Like to Party]] |
+| 5 | [[Essays/Concepts/Songs/Soul Is A Star\|Soul Is A Star]] |
 | 6 | [[Essays/Concepts/Songs/Happy Face\|Happy Face]] |
-| 7 | [[Down to You]] |
-| 8 | [[Another Way II Heaven]] |
-| 9 | [[Imagine A World]] |
-| 10 | [[The Circle]] |
+| 7 | [[Essays/Concepts/Songs/Down to You\|Down to You]] |
+| 8 | [[Essays/Concepts/Songs/Another Way II Heaven\|Another Way II Heaven]] |
+| 9 | [[Essays/Concepts/Songs/Imagine A World\|Imagine A World]] |
+| 10 | [[Essays/Concepts/Songs/The Circle\|The Circle]] |
+
+*10 tracks, 35:20, ℗ 2022 Big Loud Rock (Spotify album page, verified 2026-05-30 — [[Sources/Credits/33]]). Links full-path to each track's essay (all ten exist). All ten lyrics are Spotify-verified-stable; all ten credits verified.*
 
 ---
 
 ## Grounded
 
-Sophomore album. Roy's public stated theme: "see, accept, value, and trust who you truly are." Released alongside the launch of the Jagwar Twin "Hall of Mirrors" digital/Web3 universe — the Circus-as-spectacle operating at the promotional level simultaneously. Singles prior to release: "It's Your Time," "I Like to Party," "Down to You," "Happy Face." Happy Face became the commercial anchor (70M+ streams). The Circle closes the album — the cosmological map as resolution.
+### Roy's stated frame [G] — from [[Sources/Transcripts/Ones-To-Watch-2022-33-QA|Ones to Watch, 2022]]
+- **The title is his age:** *"Thirty-three is the age I wrote the album. It represents peace within and without."*
+- **The theme:** *"the whole theme of the album is, in some ways, catalyzing pain"* — *"finding peace with all those things that made this beautiful body of work out of those difficult things."* (Album page framing elsewhere: *"see, accept, value, and trust who you truly are."*)
+- **Process:** *"creating more from the heart and a place of intuition"*; *"I've just been trying to listen to that voice more."*
+- **His own favorite:** *The Circle* — *"my favorite song that has ever come through me."*
+- **Tone check:** *Online* is *"so fun and so ridiculous"* — the diagnosis is sharp **and** playful; the album is not joyless doctrine.
 
-Album title "33" — Roy's age at time of release (born May 22, 1988). 33 is also Christ's age at crucifixion, the 33rd degree in Freemasonry, a numerologically significant number across esoteric traditions. Whether Roy intends these resonances explicitly is unconfirmed publicly.
+### Release & context [G]
+Sophomore album; **Big Loud Rock** (distinct from STF's Atlantic). Produced by **Matt Pauling**, mixed by **Jeff Ellis**. Pre-release singles: *It's Your Time, I Like to Party, Down to You, Happy Face.* **Happy Face is the commercial anchor (70M+ streams).** Launched alongside the **"Hall of Mirrors" Web3 / digital universe** — i.e. the Circus-as-spectacle operating at the *promotional* level **while the album critiques the machine** (the album ships inside the thing it diagnoses).
 
-## Album-Level Analysis
-
-*To be filled. Arc: Online (web as trap) → The Circle (cosmological resolution). The album moves from digital/external system critique to the foundational myth. Another Way II Heaven (track 8) and The Circle (track 10) as the double-resolution.*
-
-## Open Questions
-
-- "Hall of Mirrors" digital universe — what content exists there? Is this citable visual lore?
-- "33" title — has Roy confirmed or denied the Christ/esoteric resonances publicly?
-- The :(a) notation appears on "Happy Face :(a): LIVE" — what does it signify?
+### The credits pattern [G] ([[Sources/Credits/33]])
+Core = **Roy English + Matt Pauling** (write + produce) on most tracks. The exceptions carry meaning:
+- **Online (1)** adds **Kevin Bard + Mike Daly** — the most-produced lead single.
+- **Soul Is A Star (5)** is co-written by **Joni Mitchell** `[G]` — the album's inherited-substrate anchor.
+- **Another Way II Heaven (8)** and **The Circle (10)** are **Roy-alone writes** (his solo *mythic* statements; both produced by English + Pauling).
+- **I Like to Party (4)** and **Down to You (7)** are **Pauling-alone production**.
 
 ---
 
+## The Arc Across the Tracks
+
+The album maps a single arc (track #s + themes `[G]`; the arc-reading `[W]`) — **forgetting → the question → the mask/bottom → the inward turn → the cosmology → resolution:**
+
+1. **Online** `[W]` — the web as trap; identity collapse staged as a jingle (*"they know what you like…"*). The machine **before the mask** (the architecture later personified as Lucius).
+2. **It's Your Time** `[W]` — the earnest twin of *Online*: the soul *came from elsewhere, forgot on arrival, must find its way back* — **remembrance** disguised as a motivational anthem; the integration thesis, *"a man is like an in-between, animating Heaven and Hell."*
+3. **Pay Attention (feat. little luna)** `[W]` — **Attention personified** as an ancient power that trades you your desires for your awareness; a carnival pitch that collects its toll in the act of being heard. (little luna = guide/chorus; **Roy = Attention** — a Lucius-function prototype.)
+4. **I Like to Party** `[W]` — the attention-force *operating a crowd* (*"stay in and pretend that we're in the club"*), interrupted at the end by a competing broadcast — *the kingdom is within you* — **cut off mid-word.** (Official video description names the stakes: *"loss of identity… a self created hell."*)
+5. **Soul Is A Star** `[W on a partly-[?] floor]` — **the center, the question posed:** *"do you know who you are?"* **Joni co-write `[G]`**; the descending soul, transmission/inheritance, **Sun/Son**. The album's anamnesis pivot.
+6. **Happy Face** `[W]` — the **algorithm's product**, later Lucius-claimed (*"those are me,"* EP1); the **Loop keystone** — *what the catalogue produces when the Circle fails to stream* ([[Essays/Concepts/Songs/Happy Face]]).
+7. **Down to You** `[W]` — the **inward + downward** turn: *"it all comes down to you"* (responsibility *and* light descending); the wilderness refusal *"one cannot live on bread alone"*; names and rejects the gods — *"is it fame? is it money?"*
+8. **Another Way II Heaven** `[W]` — **the creation myth**: a solitary *"I"* speaks itself into two, births a mirror (*"I" reversed → "You"*), Darkness + Light collide into a Sun, multiply toward eleven, risk self-forgetting at nine — *"The Great Design."* **This is the board's cosmogonic poem** ([[The Pattern]]). Roy-alone write.
+9. **Imagine A World** `[W]` — **imagination as authorship, not escape**: wonder → false gods (money, a *designed* god, OZ) → media conditioning → **Eden relocated inside.**
+10. **The Circle** `[W]` — **the closer / the answer:** the feminine maker hides the song *inside* the Jagwars; a *wise one remembers*; *"the circle will grow / from the inside of the inside."* Roy-alone write; **his favorite** — and **first named aloud in 2019** (see Cross-album threads).
+
+**Soul Is A Star (5) poses the question at the center; The Circle (10) resolves it at the close** ([[Essays/Concepts/Songs/Soul Is A Star]] §II-A).
+
+---
+
+## Cross-Album Threads — where *33* reaches outside itself
+
+1. **Machine vs Human** — *Online* and *Pay Attention* are the **digital-age escalation node** of the catalogue-spanning arc that began with STF's Chaplin relay and ends with **Lucius personifying the machine** (*"the algorithm, baby,"* 2026). The machine becomes *ambient, behavioral, intimate.* ([[Machine vs Human]].)
+2. **Source vs Reflection** (the master key) — *Online*'s database-self and the screen are the **reflection-engine**; *33* is where the mirror goes industrial. ([[Brain/Concepts/Source vs Reflection]].)
+3. **The Circle / remembrance** — the closer's doctrine is **first documented in 2019**, on STF's *Move To You* (*"there is no beginning and no end, it's just a circle,"* [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser|Digital Journal 2019]]). So *33* **formalizes a doctrine Roy already held**, and the album's whole arc (forgetting → remembrance) *is* the Circle doctrine staged across 10 tracks. ([[Brain/Concepts/The Circle]].)
+4. **The Pattern / the "I'm 33" board** — the title, *Another Way II Heaven*'s "One become Two," *Soul Is A Star*'s Sun/Son, and *It's Your Time*'s descent-and-return all sit on Roy's own cosmology board (Bailey + Kybalion + Kabbalah + Russell + Jung + Plato). The board is literally titled **"I'm 33 this year."** ([[The Pattern]].)
+5. **Joni Mitchell / *Ladies of the Canyon*** — the *Soul Is A Star* co-write `[G]` is the tip of an **album-wide dialogue** `[W]`: *Woodstock* ↔ Soul Is A Star + *Imagine A World*'s "Garden of Eden"; *The Circle Game* (carousel) ↔ *The Circle* (the growing circle — same image, opposite charge); Joni's *"thirty-third floor"* (*The Arrangement*) ↔ the **title *33*** + the consumerism critique (Online/Pay Attention/Down to You). ([[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]].)
+6. **The Lucius bridge** — *Happy Face* and *Online* are the songs Lucius later **claims** (*"those are me,"* EP1) and the architecture he personifies; their **original videos already wore his iconography** years before the 2026 billing (see [[Sir Lucius]] §Visual emergence). *33*'s machine is the thing that, in 2026, **acquires a face and a billing.**
+
+---
+
+## In Context — STF behind, Lucius ahead
+
+- **Behind:** *33* is the **bloom from STF's "flood-rich soil"** — the wound turned into cosmology; the Protector still faceless; the Circle, first spoken in the 2019 press cycle, now formalized as the closer.
+- **Ahead:** the machine *33* diagnoses (*Online* / *Happy Face*) becomes **[[Sir Lucius]]** (2026); *The Circle* gets re-sung, distorted, as *The Circle (Lucius Version)*. *33* is the hinge where the analog wound becomes networked and the cosmology gets written down.
+
+---
+
+## Cautions — the retrospective-coherence guard
+
+- **2022 names none of it.** The peak-*33*-era interview ([[Sources/Transcripts/Ones-To-Watch-2022-33-QA|Ones to Watch]]) has **no Lucius, no Circus, no Algorithm, no cosmology by name** — the "voice / intuition / heart" framing is Roy's, but the theatrical system is *later*. So the Lucius/machine readings here are **[W] retrospect**, not 2022 intent. Hold the tension.
+- **Title resonances** (Christ's age / 33rd Masonic degree / esoteric number) are **[~]**, never confirmed by Roy. The grounded floor is *"the age I wrote the album… peace within and without."*
+- **The Pattern over-fit risk:** Roy *holding* the Pattern is grounded; "this song *encodes* the Pattern" is the over-fit error — license the lens, not a master key ([[The Pattern]] guard).
+- **Joni-laundering guard:** the co-write makes Joni a confirmed *influence*; it does **not** make every overlap travel through her (e.g. the *girl* in Soul Is A Star is **not** Joni). The album-wide dialogue is `[W]`; *"33 named because of the thirty-third floor"* stays `[~]`.
+- **Soul Is A Star's biggest claim is `[?]`:** that the Joni borrowing uses her *actual voice* (the "enacted repair" reading) is **unverified in-vault** — pin Hall of Mirrors before leaning on it. The co-write is `[G]`; the actual-voice interpolation is not.
+
+---
+
+## Resonance
+*Framework correspondences — not authorial intent (§Cautions applies).*
+- **The board cosmology** [~/W] — the album sits atop Roy's own synthesized esoteric system ([[The Pattern]]); *Another Way II Heaven* is its cosmogonic poem in song. Framework-attributed; per-song mapping needs per-song anchors.
+- **Anamnesis / remembrance** [~] — the album's spine (forgetting → recollection) maps the Platonic *anamnesis* / Gnostic awakening: *It's Your Time*'s "find your way back," *Soul Is A Star*'s "do you know who you are," *The Circle*'s "inside of the inside."
+- **33 numerology** [~] — Christ's age, the Masonic 33rd, the spinal vertebrae, etc.; ambient esoteric freight the title *carries* (whether or not Roy reaches for it) — **do not** assert as intent.
+
+---
+
+## Open Questions
+- [ ] **Develop the album-wide *Ladies of the Canyon* ↔ *33* synthesis** on this page (Circle Game / "thirty-third floor" / Woodstock / the father motif) — flagged on [[Sources/Credits/33]] and [[Essays/Concepts/Songs/Soul Is A Star]] §XIII.
+- [ ] **"Hall of Mirrors" Web3 universe** — what content exists there; is it citable visual lore? (Bears on the Soul Is A Star actual-voice `[?]`.)
+- [ ] **Soul Is A Star actual-voice** claim (Hall of Mirrors / idobi) — decides that essay's climax.
+- [~] **"Down to You"** shares a title with Joni's 1974 song (*Court and Spark*) — leans coincidence; confirm by lyric side-by-side before closing.
+- [ ] The **`:(a):`** notation (on "Happy Face `:(a):` LIVE"; recurs in Lucius-era material) — analytically significant?
+- [ ] A *publication-grade* album essay should pull the six lighter-traversed track essays (It's Your Time, Pay Attention, I Like to Party, Down to You, Another Way II Heaven, Imagine A World) in full — read at one-liner depth here; Soul Is A Star / The Circle / Happy Face read in full.
+
+---
+
+## Connections
+- [[Subject to Flooding (album)]] — the soil; the Circle first named in its 2019 press cycle; the Protector still faceless.
+- [[Lucius Lullaby (album)]] — the calcification: the machine *33* diagnoses, named and billed as Lucius (2026).
+- [[Brain/Concepts/The Circle]] — the closer's doctrine; first documented 2019.
+- [[The Pattern]] — the "I'm 33" board cosmology behind the title; *Another Way II Heaven* = its poem.
+- [[Machine vs Human]] — *Online* / *Pay Attention* = the digital-age escalation node.
+- [[Brain/Concepts/Source vs Reflection]] — *33* is where the reflection-engine goes industrial.
+- [[Sir Lucius]] — the machine that acquires a face; the visual iconography on *Happy Face* / *Online* predates the billing.
+- [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]] — the album-wide Joni dialogue substrate.
+
 ## Sources
+- [[Sources/Credits/33]] — per-track composer/personnel (Spotify-verified); the Joni co-write; the credits pattern.
+- [[Sources/Transcripts/Ones-To-Watch-2022-33-QA]] — the album's stated frame (age 33 / catalyzing pain / peace within-and-without; The Circle = favorite; Online = "fun and ridiculous").
+- The ten track essays ([[Essays/Concepts/Songs/Online|Online]] … [[Essays/Concepts/Songs/The Circle|The Circle]]) + Spotify-verified lyrics.
+- *No private material used.*

@@ -11,7 +11,7 @@ connections:
   strong_read: [SONG-AnotherWayIIHeaven, CONCEPT-TheCircle]
   resonance:   [SONG-TheCircleLuciusVersion, CONCEPT-Malkhut, SONG-WelcomeToTheCircus]
 review_date: 2026-12-01
-referenced_by: [CONCEPT-TheCircle, CONCEPT-TheThread, SONG-AnotherWayIIHeaven, SONG-BALLERINABOY, SONG-DownToYou, SONG-ILikeToParty, SONG-ImagineAWorld, SONG-PayAttentionFeatLittleLuna, SONG-Weirdness, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-33, CONCEPT-TheCircle, CONCEPT-TheThread, SONG-AnotherWayIIHeaven, SONG-BALLERINABOY, SONG-DownToYou, SONG-ILikeToParty, SONG-ImagineAWorld, SONG-PayAttentionFeatLittleLuna, SONG-Weirdness, SONG-WelcomeToTheCircus]
 ---
 # The Circle
 
