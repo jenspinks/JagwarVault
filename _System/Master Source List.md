@@ -108,9 +108,16 @@ The narrative backbone of the *Lucius Lullaby* rollout. Public, citable, primary
 
 | Title | Released | Director | URL |
 |---|---|---|---|
+| "Happy Face" Official Music Video | ~2020 (confirm exact) | — | URL pending (YouTube @JagwarTwin, 18M views) — smiley-as-globe + clowns |
+| "Happy Face" #HappyFaceHalloween Short | 2021-10-19 | — | youtube.com/shorts/slN9i8clCjs — Roy in a **clown mask**, caption *"When they tell you to put on a happy face 🤡"* (Roy-voice fusing song→mask) |
+| "I Like to Party" Official Music Video | **2021-08-06** | Kyle Vorbach | URL pending (LA; #Cake; 437K views). Official description: *"Warning: This party may be dangerous and could result in sickness, paranoia, overstimulation, loss of memory, loss of identity, the creation of a self created hell, etc."* |
+| "Good Time (1:08)" Visualizer | September 28, 2023 | — | URL pending (Vevo) — full face paint + studded **knight armor** |
 | "Good Time (1:08)" Official Music Video | October 11, 2023 | — | URL pending |
-| "I Like to Party" Official Music Video | 2022 | Kyle Vorbach | URL pending |
 | "welcome to the circus" Visualizer | January 16, 2026 | — | https://www.youtube.com/watch?v=BouRN2QuXV8 |
+| "All My Friends" Tour Video | ~2022–23 (3y ago as of 2026; song = 2023 single) | — | https://www.youtube.com/watch?v=w9U4M4qrUjo — white-on-black Earth / figures / **flying-saucer** animation |
+
+> **Visual-emergence anchors (see [[Sir Lucius]] §Visual emergence).** The Lucius / Mask / Circus iconography is on the *original* videos **years before the 2026 billing**, on songs Lucius later claims (EP1): **Happy Face** (~2020 smiley-as-globe + clowns; + Roy's 2021 clown-mask Short captioned *"put on a happy face 🤡"*), **I Like to Party** (2021-08-06, blank "mind/body/spirit complex" masks; official description = *"loss of identity / a self created hell"*), **Good Time (1:08)** (2023, face paint + studded armor). Citable as **visible iconography** + official video text ([[Boundaries]] §What's public).
+> **UFO / space-origin motif — RESOLVED (Jen, 2026-06-05): it's the *All My Friends* Tour Video** (`SONG-AllMyFriends`, 2023 single; youtube `w9U4M4qrUjo`). The white-on-black child-drawing (Earth ringed by figures + **flying saucers**) illustrates the song's *"flying on this rock… everyone I love is here… the world is ending… with all my friends."* **Correction to the earlier guess:** the song reads **apocalyptic-communal (end-times *on* Earth)**, not primarily *"we come from space"* — so the strong links are the **Flood / extinction** thread ([[Machine vs Human]], [[Subject to Flooding (album)]]) and the **withdrawal** motif (*"don't wanna go outside"* ↔ [[Essays/Concepts/Songs/I Like to Party]]; *"clone in a crowded city"* ↔ Loser's *"everybody's all the same"*); the alien/space reading is only [~]. **Caveat:** *All My Friends* lyrics are **draft-tier** ([[Sources/Lyrics/All My Friends]] — Google-Drive, unverified), so quote-claims are [?] pending streaming verification.
 
 ---
 

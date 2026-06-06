@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
   strong_read: [CONCEPT-TheCircus, CONCEPT-TheAudience, SONG-HappyFace]
   resonance:   [CONCEPT-Inversion, CONCEPT-PanemEtCircenses]
-referenced_by: [CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheCircus, CONCEPT-TheVeil, CONCEPT-WitnessingVsSurveillance, SONG-Online, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheCircus, CONCEPT-TheVeil, CONCEPT-WitnessingVsSurveillance, SONG-HappyFace, SONG-Online, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # The Spectacle

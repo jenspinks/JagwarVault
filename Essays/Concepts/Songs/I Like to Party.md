@@ -34,6 +34,7 @@ related: [ALBUM-33, SONG-PayAttentionFeatLittleLuna, SONG-Online, SONG-WelcomeTo
 - **Crowd-in-motion:** people *"running around like chickens with no head / in circles, they go,"* + a Dickens/dead pun (*"looking like Charles Dickens / I mean dead, the tale was told"*).
 - **The bridge — two awakenings:** *"Devil waking up to claim the kingdom / People waking up to claim what's in them,"* resolving to *"Heaven is within your heart / the kingdom, you're the kingdom"* (with *"(Hallelujah)"*).
 - **The interrupt cuts the awakening mid-word:** the kingdom-within line runs *"…you're the kingdom / You're the King—"* and is **broken off by** *"We interrupt our program to bring you this important message,"* which returns to the chorus.
+- **The official video description names the song's real subject** [G]: *"Warning: This party may be dangerous and could result in sickness, paranoia, overstimulation, loss of memory, **loss of identity**, the creation of a **self created hell**, etc. Bring your friends; Let's party!"* (official video, dir. Kyle Vorbach, **2021-08-06**; #Cake — cf. the Devil's-Food/cake thread, §4). The "party" is **identity-dissolution staged as fun** — the artist's own framing confirms the lyric's *"stay in and pretend"* + *"affecting the state of your mind."* ([[Master Source List]] §3.)
 
 ## Strong Read
 
@@ -54,6 +55,8 @@ The pivot is a **matched pair**: *"Devil waking up to claim the kingdom / People
 
 ### 6. Mass culture as secular ritual [W]
 Clapping, chanting, counting, call-and-response, synchronized movement — the texture of a **ceremony**, then the officiant is named (*"follow me… the people are mine"*). Entertainment/media as liturgy with a congregation that repeats and follows.
+
+**The video makes the congregation literal [G iconography / W reading].** The official video (dir. Kyle Vorbach) rings Roy — bloodied — with **blank grey masks**, and Roy's *own pinned comment* names them *"a beautiful group of mind/body/spirit complexes"* (the Ra / Law-of-One term — citable Roy-voice). The faceless followers the narrator runs; and an early instance of the **Mask / Circus iconography** that *The Interview* later bills as Sir Lucius — the figure visible on the song years before the name (see [[Sir Lucius]] §Visual emergence). (Video: [[Master Source List]] §3.)
 
 ### 7. "In circles, they go" — the Circus as the Circle inverted [~]
 The distracted crowd moves *"in circles"* like headless chickens. Against the catalogue's central [[The Circle|Circle]], this is the circle run as **spectacle/dissipation** rather than return — recursion pointed *outward* (cf. [[Welcome to the Circus]]). *(Leap: "in circles" is idiomatic for futility; the Circle-architecture tie is the reader's frame.)*

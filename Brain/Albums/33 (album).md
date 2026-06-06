@@ -18,7 +18,7 @@
 | 3 | [[Pay Attention (feat. little luna)]] |
 | 4 | [[I Like to Party]] |
 | 5 | [[Soul Is A Star]] |
-| 6 | [[Happy Face]] |
+| 6 | [[Essays/Concepts/Songs/Happy Face\|Happy Face]] |
 | 7 | [[Down to You]] |
 | 8 | [[Another Way II Heaven]] |
 | 9 | [[Imagine A World]] |
