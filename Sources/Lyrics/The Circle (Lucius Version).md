@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["Spotify Credits (Jen, 2026-06-06) — NOT instrumental", "Lyric line + arrangement + seam-to-track-2: Jen by ear / listening party, 2026-06-06", "Refrain text cross-confirmed via Apple Music lyrics of Lucius Lullaby (track 2)"]
+status: stable
+verified_against: ["Apple Music lyrics (Jen, 2026-06-06): the track's own entry reads exactly 'It's a beautiful life / It's a beautiful life / I'm dreaming', Written By Roy English", "Spotify Credits (Jen, 2026-06-06) — NOT instrumental", "Arrangement + seam-to-track-2: Jen by ear / listening party, 2026-06-06"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 format: vocal (music-box texture)

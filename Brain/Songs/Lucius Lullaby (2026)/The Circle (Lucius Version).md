@@ -5,12 +5,12 @@ status: draft
 confidence: medium
 source_quality: primary-source
 sources: [Sources/Lyrics/The Circle (Lucius Version).md, Sources/Credits/Lucius Lullaby.md, Sources/Lyrics/The Circle.md]
-related: [CONCEPT-TheCircle, SONG-TheCircle, CHAR-SirLucius, ALBUM-LuciusLullaby, CHAR-Roy]
+related: [CONCEPT-TheCircle, SONG-TheCircle, SONG-LuciusLullaby, CHAR-SirLucius, ALBUM-LuciusLullaby]
 connections:
-  grounded:    [SONG-TheCircle, ALBUM-LuciusLullaby, CHAR-SirLucius, CHAR-Roy]
+  grounded:    [SONG-TheCircle, SONG-LuciusLullaby, ALBUM-LuciusLullaby, CHAR-SirLucius, CHAR-Roy]
   strong_read: [CONCEPT-TheCircle, CONCEPT-TheLoop, CONCEPT-SourceVsReflection]
   resonance:   [CONCEPT-TheMask]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheCircle, SONG-TheCircle, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheCircle, SONG-LuciusLullaby, SONG-TheCircle, SONG-WelcomeToTheCircus]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop
