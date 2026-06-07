@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Apple Music synced lyrics (Jen screenshots, 2026-06-06/07)"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 ---
@@ -11,50 +11,51 @@ ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- (release metadata pending — on *Lucius Lullaby*, 2026; add Apple/Spotify URLs at verification)
+- *Lucius Lullaby* (2026), **track 10**. Writers: **Roy English, Matthew Pauling** ([[Sources/Credits/Lucius Lullaby]]). Apple Music synced lyrics. Seams from track 9 [[Playing to the Gods]] (shares the *"never gonna die"* mantra).
 
 ## Lyrics
 
+*(Verbatim per Apple Music; repeated identical "never gonna die" lines condensed.)*
+
 ```
-[Intro]
-Never gonna die, never, never gonna die
-If I make it out alive, then I'm never gonna die
-Never gonna die, never, never gonna die
-If I make it out alive, then I'm never gonna die
+In the City of Angels walking down the star-lined road
+Another beautiful stranger passed me by, I said hello
+And she said
+"All your dreams are coming true
+Everyone looks just like you"
 
-[Verse 1]
-In the City of Angels
-Walking down the star-lined road
-Another beautiful stranger
-Passed me by and said hello
-(And she said) All your dreams are coming true
-Everyone is just like you
-
-[Chorus]
 In the City of Angels
 Welcome to Hollywood
-In the City of Angels
-Welcome to Hollywood, welcome to Hollywood
+You're in the City of Angels
+Welcome to Hollywood
+Welcome to Hollywood
 
-[Verse 2]
-Some people wanna be saviors,
-Gangsters, live forever in the bright lights, god-like, live forever
-
-[Bridge]
-Now I'm never gonna die; No, I'm never gonna die
-If I make it out alive, then I'm never gonna die
+Some people wanna be saviours, gangsters
+Live forever in the bright lights, godlike, live forever
+Never gonna die, no, I'm never gonna die
+If I make it out alive, then I'm never gonna die, yeah
 All my dreams are coming true
 Everyone looks just like you
 
-[Outro]
-(And she said)
-I'm never gonna die, never never gonna die
-if I make it out alive then I'm never gonna die.
-All your dreams are coming true.
+In the City of Angels
+Welcome to Hollywood
+In the City of Angels
+It's the City of Light
+Welcome to Hollywood
+And she said
+
+[Never gonna die, no, I'm never gonna die / If I make it out alive, then I'm never gonna die] (x2)
+[Never gonna die, never, never gonna die / If I make it out alive, then I'm never gonna die] (x2)
+
+All your dreams are coming true
 Everyone looks just like you
-Oh, in the City of Angels
+In the City of Angels
 ```
 
+## Notes (textual, for analysis — not interpretation)
+- **Pronoun rotation (verified):** *"All **your** dreams"* (verse 1, "she said") → *"All **my** dreams"* (after the saviors/gangsters bridge) → *"All **your** dreams"* + *"(And she said)"* (outro).
+- *"It's the **City of Light**"* (singular) is present (the Drive draft had dropped it).
+- *"**I** said hello"* — the greeting is the singer's, not the stranger's.
+
 ## Maintenance
-- Bulk-ingested 2026-05-25 from Google Drive doc 1 (album doc).
-- **Not yet verified** against streaming release. Record URLs in `verified_against`; flip `status` to `stable`. Official release wins on divergence.
+- Bulk-ingested 2026-05-25 from Google Drive doc 1; **VERIFIED → stable 2026-06-07** against Apple Music. Drive-draft corrections: restored *"It's the City of Light"*; *"is just like you"*→*"looks just like you"*; *"and said hello"*→*"I said hello"*; chorus/never-gonna-die structure normalized.
