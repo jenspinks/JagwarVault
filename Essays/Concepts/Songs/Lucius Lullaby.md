@@ -28,6 +28,14 @@ Roy may speak within the song, but the dominant presence is Lucius. The "deal" b
 
 **On the verified lyrics (added 2026-06-06).** The structure is now legible. **Verse 1 is Roy at the floor** — the song opens on the age-35 suicidal bottom (couch-surfing, *"maybe I'm the mistake"*). **Verses 2–3 are Lucius's pitch**, and the savior voice — *"Life is but a dream, I came to set you free / Now look into this magic mirror, tell me what you see"* — is **Lucius**, not a separate divine figure (V3 names the speaker: *"I was early on the scene, I was down in the dirt, Saying…"* — the ancient shadow). This sharpens and darkens the shadow-as-ally reading: the lullaby *says* "set you free," but it routes Roy **into a mirror** and offers a **bargain** (below), and it does not wake him — its refrain is *"I'm dreaming."* Lucius saves Roy by putting him *under*, not by waking him. A lullaby that works.
 
+**v2 refinements (2026-06-06, post external review — for weaving into the prose):**
+- **Survivable dreaming.** Sharpen "a lullaby that works": Lucius is *competent*, not a cartoon villain — and that is the trap. **A lie that keeps you alive is more dangerous than one that doesn't, because you cannot afford to reject it.** What kept Roy from the edge *was* the bargain. Mercy and trap are one act.
+- **Lucid sedation.** The outro won't fully cooperate with the dream: *"the truth will set you free, but nothing's, nothing's what it seems."* A pure lullaby would never name the waking-truth at all. The song **knows it is a lie while it sings it** — a chosen dream, not a successful deception.
+- **The "Yes, sir" hinge.** Roy's last line as sole speaker — *"I heard 'Nothing's what it seems' / Yes, sir"* — is already a submission, and *"sir"* pre-echoes *Sir* Lucius: he answers the honorific before the figure has entered.
+- **Whose "I"?** The refrain is first-person — *"**I'm** dreaming."* If the verses are Lucius and the chorus is "I'm dreaming," then either Roy is consenting or the two have **merged into one voice** by the chorus. The lullaby works precisely when you can no longer tell who sings *"beautiful life."*
+- **The serpent, enacted.** *"When the first human beings started walking the Earth / I was early on the scene, I was down in the dirt"* — Lucius as the Eden serpent / Lucifer. The decisive evidence is not the image but the **rhetoric**: the outro quotes scripture and bends it (John 8:32 → *"but nothing's what it seems"*), the serpent's exact move (*"you will not surely die"*).
+- **The mirror as optimized image.** The "magic mirror" is also the *marketable self* — Lucius pointing Roy at the commercial image over the sincere song (the EP2 bargain).
+
 ---
 
 ## Position in the Arc
