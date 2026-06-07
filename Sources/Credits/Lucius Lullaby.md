@@ -1,0 +1,57 @@
+---
+type: credits
+citable: true
+status: stable
+album: ALBUM-LuciusLullaby
+verified_against: ["Spotify Credits view, per-track (Jen, 2026-06-06): tracks 1,2,3,4,5,6,8,10,11,12,13,14"]
+recording_owner: "Big Loud Rock"
+ingested: 2026-06-06
+ingest_source: "Spotify Credits view, per-track (Jen)"
+---
+# Lucius Lullaby — Composer & Personnel Credits (Source)
+
+Verbatim credit metadata from the **Spotify Credits view**, verified track-by-track by Jen (2026-06-06). **Authoritative songwriting/personnel reference for *Lucius Lullaby*** (2026, Big Loud Rock). Built track-by-track; **12 of 15 full personnel** (1,2,3,4,5,6,8,10,11,12,13,14) + **writers for 7, 9** (Apple Lyrics) → **14/15 have writers**; only track 15 (live bonus) has nothing. **No interpretation here** — analysis lives in Brain/Essays.
+
+## Per-track credits (Spotify Credits, verified 2026-06-06)
+
+| # | Title | Composition & Lyrics | Production & Engineering | Performers | Note |
+|---|---|---|---|---|---|
+| 1 | The Circle (Lucius Version) | Roy English | Roy English (Prod/Rec/Mix); Dale Becker (Master) | **sir lucius** (Voc); **ROY** (Voc); Roy English (Music Box, Bass, Synth, Kbd); Charlotte Egner, Reagan Egner, Anika Noni Rose (BG); Dan Adams (Violin) | **NOT instrumental** (corrects prior label). Music Box is a literal credited instrument. |
+| 2 | Lucius Lullaby | Roy English, **David Burris** | Roy English (Prod/Rec/Mix); Dave Burris (Prod); Dave James Burris (Rec); Dale Becker (Master) | **sir lucius** (Voc); **ROY** (Voc); Roy English (Samples, Drum Kit, Kbd); Dave James Burris (Drum Kit, Bass, El/Ac Gtr, Kbd); **MERCY**, Anika Noni Rose, Charlotte Egner, Reagan Egner (BG) | Dave Burris (= NYH co-writer/producer) appears as **3 name variants**: David / Dave / Dave James Burris. |
+| 3 | Great Time to Be Human | Roy English, Ryan Spraker, Tom Peyton, Sean Van Vleet, **Josh Dunn** (5 writers) | Roy English (Prod/Mix); Ryan Spraker (Prod/Rec); Jeff Ellis (Rec); Dale Becker (Master) | **sir lucius** (Voc); **ROY** (Voc); Roy English (Melodica, Kbd); Ryan Spraker (BG, Programmer, Kbd, Bass); **Little Luna**, Julian Bell, Charlotte Egner, Reagan Egner, Tom Peyton, Sean Van Vleet (BG); **Josh Dun** (Drum Kit) | Most-collaborative LL track (5 writers). Holds the **dog↔god line**. Josh Dun (writer-credited "Josh Dunn"). little luna recurs (33's "Pay Attention feat. little luna"). |
+| 4 | Welcome to the Circus | **Edan Dover, Cody Tarpley**, Roy English (Choir Arranger + Comp/Lyr), **Rachel Kanner** | **Jagwar Twin** (Prod); Edan Dover (Prod); Cody Tarpley (Prod); Roy English (Mix); Dale Becker (Master) | **sir lucius** (Voc); **Roy English** (Voc — note: "Roy English," not "ROY"); Edan Dover & Cody Tarpley (drum prog, gtr/keys/synth); Rachel Kanner (BG) | Already has essay+Brain — credits fill the gap. Producer credit = "Jagwar Twin." A&R team listed (Big Loud). |
+| 5 | Bad Feeling (Oompa Loompa) | Roy English, Ryan Daly, Sean Van Vleet, **Leslie Bricusse, Anthony Newley** | Roy English (Prod); Ryan Daly (Prod); Jeff Ellis (Mix); Dale Becker (Master) | Roy English (Melodica, Whistle); Ryan Daly (Programmer, Bass, Kbd, Synth); Brandy Schwechler, Sean Van Vleet, Charlotte Egner, Reagan Egner (BG); **Josh Dun** (Drum) | **⚠ GROUNDED INTERPOLATION — see §Inherited substrate.** Bricusse + Newley = composers of the *Willy Wonka & the Chocolate Factory* (1971) songs incl. "Oompa-Loompa." No sir lucius/ROY vocal credit listed `[?]`. |
+| 6 | Moths to the Flame | Roy English | Roy English (Prod/Rec/Vocal Prod/Mix; + Sound Design); Dale Becker (Master) | **sir lucius** (Voc); **ROY** (Voc + BG); Roy English (Kbd, Synth); **MERCY** (BG) | Roy sole writer. Lyric = the EP7 **moth speech** verbatim ("Civilization has been a mistake… so what? It just keeps the moth population down"). |
+| 7 | Bananas | Roy English, Ryan Spraker | *(full personnel pending)* | *(pending)* | Writers from **Apple Lyrics "Written By"** (Jen, 2026-06-06); full Spotify personnel not yet pulled. Ryan Spraker also on Great Time (3). |
+| 8 | #1 Champion (la Conquistadora) | Roy English (String + Choir Arranger; Comp/Lyr), **tony esterly**, **Cici Ward** | Roy English (Prod/Rec/Vocal Prod/Mix); tony esterly (Prod/Rec); Dale Becker (Master) | **sir lucius** (Voc); **ROY** (Voc + BG); Roy English (Programmer, Drum Kit, Bass, Melodica, Synth, Kbd, Horn); tony esterly (Drum Kit, Bass, Synth, Ac Gtr, Kbd); **MERCY**, Cici Ward (BG); Dan Adams (Violin, Viola) | **String + Choir arrangement** (anthemic — fits "champion / la Conquistadora"). Co-writers tony esterly (also produces) + Cici Ward. **Mary is named in this song** (per analysis queue). |
+| 9 | Playing to the Gods | Matthew Pauling, Roy English | *(full personnel pending)* | *(pending)* | Writers from **Apple Lyrics "Written By"** (Jen, 2026-06-06); full Spotify personnel not yet pulled. **Matthew Pauling** (33-core) again. **Seamless intro to City of Angels (10)** — shares the *"never gonna die"* refrain. |
+| 10 | City of Angels | Roy English, Matthew Pauling | Roy English (Prod/Rec/Mix); Matthew Pauling (Prod/Rec); Dale Becker (Master) | **sir lucius** (Voc); **ROY** (Voc + Kbd); Roy English (BG); Matthew Pauling (BG, Drum Kit, Piano, Bass, El/Ac Gtr, Kbd); Eva Grams (BG) | Roy English credited **BG** here; **ROY** is lead Voc. **Matthew Pauling** (33-core) recurs. |
+| 11 | Not Your Homie | Roy English, **Mercedes Colletta Britton**, **David Burris** | **Jagwar Twin** (Prod); Dave Burris (Prod); Roy English (Vocal Prod/Mix); Dale Becker + **Noah McCorkle** (Master) | **MERCY** (**Vocalist** + BG); **sir lucius** (Voc); Roy English (Voc, BG, Bass, Kbd, Melodica, Whistle, Hand Claps); **William Wronski, Sam Wronski** (BG); Dave Bhu (Bass, El Gtr, Kbd, Hand Claps) | Already has essay+Brain. **MERCY credited as a lead Vocalist here** (resolves old "does MERCY sing lead?" debt). Wronski = Roy's birth surname (Brandon Roy Wronski) → William & Sam Wronski likely family `[?]`. |
+| 12 | Bounce | Roy English, Ryan Daly, Bas van Daalen, Sean Van Vleet | Roy English (Prod/Rec/Vocal Editing/Mix); Ryan Daly (Prod/Rec/Vocal Editing); Bas van Daalen (Prod/Rec); Darren Parkinson (Vocal Editing 2nd); Dale Becker (Master) | **sir lucius** (Voc); **ROY** (Voc); Roy English (Horn); Ryan Daly (Drum Kit, Bass, Ac Gtr, Kbd); **MERCY** (BG) | |
+| 13 | Weirdness | Roy English, Matthew Pauling, **Sia Furler** | Roy English (Prod/Rec/Mix); Matthew Pauling (Prod/Rec); Dale Becker (Master) | **sir lucius** (Voc); **ROY** (Voc); Roy English (Drum Kit, Perc, Bass, Kbd); Matthew Pauling (BG, Perc, Timpani, El/Ac Gtr, Organ, Kbd); **Sia**, **MERCY**, Haley Schae (BG) | Already has essay+Brain. **Sia (= Sia Furler) co-writes + sings BG** — famous external co-writer (grounded, cf. Joni on Soul Is A Star). **Matthew Pauling** = the *33*-core co-writer/producer, recurs here. |
+| 14 | SOL | Roy English (Choir Arranger; Comp/Lyr) | Roy English (Prod/Rec/Vocal Prod/Mix); Dale Becker (Master) | **sir lucius** (Voc); **ROY** (Voc + BG); Roy English (Piano, Synth); **MERCY** (BG); Luke Villegas (Guitar); Dan Adams (Violin, Viola); **No Love** (Cello) | Roy = **Lyricist + Choir Arranger** — words/choir exist (aligns with the wordless/primal *release* per [[Sources/Lyrics/SOL]]: words stripped, choral/vocal kept). Strings (Adams + "No Love" cello) + guitar + piano. `[?]` **sir lucius credited Vocalist** despite the EP narrative that he can't metabolize SOL. |
+
+## Key patterns (grounded facts; interpretation lives in Brain/Essays)
+- **The "ROY" + "sir lucius" dual-vocalist credit device** recurs across most tracks (1, 2, 3, 6, 11, 12) — the human author "Roy English" (who writes/produces/plays) credited **separately** from two character-Vocalists, **"ROY"** and **"sir lucius."** **Exceptions:** WTTC (4) credits the vocal as **"Roy English"** (not "ROY") + sir lucius; Bad Feeling (5) lists **no** sir lucius/ROY vocal credit at all `[?]`.
+- **Producer-name entity varies:** "Jagwar Twin" is the producer credit on WTTC (4) and NYH (11); "Roy English" elsewhere.
+- **Dale Becker masters every track**; **Noah McCorkle** co-masters NYH (11).
+- **Co-writer team size varies sharply:** Roy-solo (1 Circle, 6 Moths) → 5 writers (3 Great Time). The biggest teams / the credited interpolation cluster on Lucius-claimed / commercial-mode songs.
+
+## Inherited substrate — `CONCEPT-InheritedSubstrate`
+- **Track 5 — Bad Feeling (Oompa Loompa) ← Leslie Bricusse + Anthony Newley** (Spotify writer credits) = the songwriters of *Willy Wonka & the Chocolate Factory* (1971), incl. the **"Oompa-Loompa"** songs. **GROUNDED interpolation** (the credit is the anchor, same standing as Joni on [[Sources/Lyrics/Soul Is A Star]] / Mercer on [[Sources/Lyrics/Dream - Dream]]). Corroborated **in the lyric** itself: the chorus is *"Oompa Loompa, doompa-de-doo / I got a bad feeling 'bout you"* ([[Sources/Lyrics/Bad Feeling (Oompa Loompa)]]) — the Oompa-Loompa song re-voiced as a menace/warning. Frame as **participation in an older song** (mythic emergence), not invented encoding.
+
+## Notable real collaborators (record factually — NOT symbolic figures; cf. the MERCY rule)
+- **MERCY = Mercedes Colletta Britton** — co-writer on NYH; credited **"MERCY"** as **lead Vocalist + BG on NYH** and **BG on lucius lullaby (2), moths (6), #1 Champion (8), bounce (12), Weirdness (13), SOL (14)**. A recurring real collaborator across the album. *Not a symbolic figure.*
+- **Sia (= Sia Furler)** — **co-writer + BG vocalist on Weirdness (13)**; a famous external co-writer (grounded, same standing as Joni). Record factually; **do not mythologize the name** (MERCY rule). *(A face-hidden/outsider-persona ↔ "Weirdness"/Mary-class resonance is `[~]` only — for the Weirdness essay to consider, not a claim.)* **Haley Schae** also BG on Weirdness. **Matthew Pauling** (33-core co-writer/producer) recurs on Weirdness.
+- **William Wronski & Sam Wronski** (BG, NYH) — **Wronski is Roy's birth surname** (Brandon Roy Wronski); likely family `[?]` (do not assert relationship beyond the shared name).
+- **Josh Dun** (Drum — Great Time 3, Bad Feeling 5) — credited drummer.
+- **Little Luna** (BG, Great Time 3) — the featured artist from 33's "Pay Attention (feat. little luna)."
+- **Anika Noni Rose** (BG — 1, 2, 3); **Charlotte & Reagan Egner** (BG — 1, 2, 3, 5; recurring on the lullaby-texture tracks; candidate "child voices" Jen heard on track 1, `[?]`).
+- **Dave Burris / Dave James Burris** (co-writer/producer/multi-instrumentalist — 2, 11); **"Dave Bhu"** on NYH performers may be the same person `[?]`.
+- **Matthew Pauling** — the *33*-core co-writer/producer; recurs on the melodic/Roy-leaning LL tracks: Weirdness (13), City of Angels (10). Multi-instrumentalist.
+- **tony esterly** (co-writer/producer, #1 Champion 8) · **Cici Ward** (co-writer + BG, 8) · **Eva Grams** (BG, City of Angels 10) · **Haley Schae** (BG, Weirdness 13) — real collaborators.
+- **String/orchestral players:** **Dan Adams** (violin/viola — Circle 1, #1 Champion 8, SOL 14) · **"No Love"** (cello — SOL 14, unusual credit name `[?]`) · **Luke Villegas** (guitar — SOL 14).
+
+## Pending
+- [ ] Full personnel for **7 Bananas** & **9 Playing to the Gods** (writers known; pull Spotify personnel).
+- [ ] **15 Bad Feeling (acoustic live, bonus)** — nothing yet.

@@ -61,6 +61,9 @@ Goodbye
 What a great time to be human!
 ```
 
+## Note (cross-reference)
+- *The Interview* **EP7** (listening party): Lucius yells this song's **dog↔god line** — *"She went to The Chemist to make her a dog / But he was dyslexic so he made a god / God / God / God (Woof!)"* — at the bound Roy. Grounded: [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] §EP7. The **dog↔god Reversal** is a key motif for this song's eventual analysis. (Lucius's yelled lines aren't synced to the playing track — an earlier transcript mis-grouped this line under *[[Sources/Lyrics/The Circle (Lucius Version)|The Circle (Lucius Version)]]*; corrected 2026-06-06, Jen.)
+
 ## Maintenance
 - Bulk-ingested 2026-05-25 from Google Drive doc 1 (album doc).
 - **Not yet verified** against streaming release. Record URLs in `verified_against`; flip `status` to `stable`. Official release wins on divergence.

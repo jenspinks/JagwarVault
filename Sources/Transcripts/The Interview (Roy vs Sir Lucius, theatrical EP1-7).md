@@ -245,11 +245,12 @@ ingest_source: "Jen-maintained working transcript (Google Doc). The Doc is a REF
 >
 > **[13:54]** It just keeps the moth population down.
 
-*On **The Circle (Lucius Version)** ("The New Circle"):*
+*Further taunts during the playback. **NOTE (Jen, 2026-06-06): Lucius's yelled lines are NOT reliably synced to whatever track is playing** — do not attribute a yelled line to the song currently on.*
 
 > **[~1:00]** Actually, I'm glad you're here. I have a little something for you — a gift. … Sound familiar? I took a few liberties with it. I hope you like it.
 >
 > **Lucius:** Right here, right here — this line! *"She went to a chemist to make her a dog; he was dyslexic and made a god."*
+> — **NOTE (Jen, 2026-06-06):** this line is **verbatim from [[Sources/Lyrics/Great Time to Be Human|Great Time to Be Human]]** (track 3), **NOT** *The Circle (Lucius Version)*. An earlier version of this transcript mis-grouped it under The Circle.
 >
 > **Lucius:** This is another song about ME. Listen to this! — **#1 Champion (la Conquistadora).**
 

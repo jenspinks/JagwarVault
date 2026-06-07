@@ -49,6 +49,9 @@ Mandible, jaw split, hit me with the gossip, gossip
 It's true
 ```
 
+## Note (inherited substrate — `CONCEPT-InheritedSubstrate`)
+- **GROUNDED interpolation: Leslie Bricusse + Anthony Newley** are credited co-writers (Spotify Credits, [[Sources/Credits/Lucius Lullaby]]) — they wrote the *Willy Wonka & the Chocolate Factory* (1971) songs, incl. **"Oompa-Loompa."** Corroborated in the lyric: the chorus *"Oompa Loompa, doompa-de-doo / I got a bad feeling 'bout you"* re-voices the Oompa-Loompa song as a **warning/menace.** The credit is the anchor (same standing as Joni on Soul Is A Star / Mercer on Dream - Dream). Frame as participation in an older song, not invented encoding.
+
 ## Maintenance
 - Bulk-ingested 2026-05-25 from Google Drive doc 1 (album doc).
 - **Not yet verified** against streaming release. Record URLs in `verified_against`; flip `status` to `stable`. Official release wins on divergence.
