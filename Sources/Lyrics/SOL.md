@@ -2,7 +2,7 @@
 type: lyrics
 citable: true
 status: draft
-verified_against: []
+verified_against: ["Apple Music: 'No Lyrics Available' (Jen, 2026-06-06) — corroborates the wordless release", "Opening line confirmed by ear + The Interview EP2 transcript"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 format: wordless-vocal
