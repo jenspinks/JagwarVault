@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, CHAR-SirLucius, CHAR-Mary, ALBUM-LuciusLullaby]
   strong_read: [CHAR-BallerinaBoy, SONG-BALLERINABOY, SONG-NotYourHomie, CONCEPT-TheMirror, CONCEPT-TheAlgorithm, SONG-TheCircle]
   resonance:   [CONCEPT-Tiferet, CONCEPT-Yesod, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLightBearer]
-referenced_by: [CHAR-Mary, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, SONG-BALLERINABOY]
+referenced_by: [CHAR-Mary, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, SONG-1ChampionLaConquistadora, SONG-BALLERINABOY]
 dominant_pole: mixed
 transformation_phase: albedo
 recursion_state: return

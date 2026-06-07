@@ -5,12 +5,12 @@ status: draft
 confidence: medium
 source_quality: primary-source
 sources: []
-related: [CHAR-Roy, CHAR-SirLucius, SONG-1ChampionLaConquistadora, SONG-Weirdness, SONG-LuciusLullaby]
+related: [CHAR-Roy, CHAR-SirLucius, SONG-1ChampionLaConquistadora, SONG-Weirdness, SONG-BALLERINABOY]
 connections:
-  grounded:    [SONG-1ChampionLaConquistadora, SONG-LuciusLullaby]
-  strong_read: [SONG-Weirdness, SONG-BALLERINABOY, CHAR-Roy, CHAR-SirLucius]
+  grounded:    [SONG-1ChampionLaConquistadora, SONG-BALLERINABOY]
+  strong_read: [SONG-Weirdness, CHAR-Roy, CHAR-SirLucius]
   resonance:   [CONCEPT-Yesod, CONCEPT-TheMoon, CONCEPT-Tiferet]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CHAR-SirLucius, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLabyrinth, CONCEPT-TheThread, CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, SONG-NotYourHomie, SONG-Weirdness]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CHAR-SirLucius, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLabyrinth, CONCEPT-TheThread, CONCEPT-WitnessingVsSurveillance, SONG-1ChampionLaConquistadora, SONG-BALLERINABOY, SONG-NotYourHomie, SONG-Weirdness]
 review_date: 2026-11-16
 ---
 # Mary
@@ -22,8 +22,8 @@ Marker: a **faceless / face-hidden feminine presence**, often a blessing-to-shin
 
 | Work | Appearance | Tier |
 |---|---|---|
-| [[Brain/Songs/Lucius Lullaby]] | appears **twice, face hidden** both times | grounded (per song page; verify visual) |
-| [[#1 Champion (la Conquistadora)]] | **named**: "Mary, Mary… La Conquistadora with a gun in her hand… fawning over no man… such a Revolutionary" — unseats Lucius's championship | grounded (named in lyric) |
+| ~~[[Brain/Songs/Lucius Lullaby]]~~ | **CORRECTED 2026-06-06 — NOT a Mary appearance.** Verified lyrics contain no Mary; the savior voice (*"I came to set you free… magic mirror"*) is **Lucius** counterfeiting the rescue/Mary-function (V3 self-attributes). The prior "twice, face hidden" predated the in-vault lyrics. | ~~grounded~~ → removed (`[?]` visual-video only) |
+| [[#1 Champion (la Conquistadora)]] | **named + faceless**: *"Mary, Mary, so contrary… **Saw a halo but I didn't see a head**… La Conquistadora with a gun in her hand… fawning over no man… such a revolutionary."* Faceless (halo, no head), armed, autonomous; **unseats the boastful "champion"** (Lucius's "another song about ME", EP7). *La Conquistadora* + *Queen of California* = repurposed **Marian titles** (Our Lady of the Conquest; Queen of Heaven). | grounded (named + faceless in lyric) |
 | [[Essays/Concepts/Songs/Weirdness]] | "she looked like an **angel baby** / but her **face was out of sight** … *stop pretending, baby / you were born to shine*" | strong_read (faceless-feminine = Mary-class) |
 | [[Essays/Concepts/Songs/Ballerina Boy]] | the **entire spoken outro** is an older *motherly* female voice (none — Jen, audio): self-discovery ("something clicks… 'this is me'"), blessing ("my son, let your light shine"), the moon line, and "there's no one else like you / out there" — the **clearest** divine-feminine appearance; possibly the earliest chronologically | grounded (audio-confirmed female voice; Mary-class read = strong) |
 
@@ -32,6 +32,6 @@ Marker: a **faceless / face-hidden feminine presence**, often a blessing-to-shin
 ## Open Questions
 - [ ] Why face hidden / out of sight each time — Roy's state (can't see her yet), or her own choice?
 - [ ] Archetype: biblical Mary, Magdalene, Shekinah, Anima, or a braid?
-- [~] Is the faceless-female **voice** (Ballerina Boy, Weirdness) the same entity as **named** Mary (#1 Champion, Lucius Lullaby)? Voice is now audio-confirmed female & motherly (Ballerina Boy). Unification with named-Mary stays the working assumption (Mary-class); a credits/casting source would settle it — cf. Rachel Kanner bg-vocals question at [[Brain/Songs/Welcome to the Circus]].
+- [~] Is the faceless-female **voice** (Ballerina Boy, Weirdness) the same entity as **named** Mary (#1 Champion)? Voice is now audio-confirmed female & motherly (Ballerina Boy). *(Lucius Lullaby removed from the named-Mary list 2026-06-06 — see corrected tracker row.)* Unification with named-Mary stays the working assumption (Mary-class); a credits/casting source would settle it — cf. Rachel Kanner bg-vocals question at [[Brain/Songs/Welcome to the Circus]].
 - [ ] Relationship to [[Sir Lucius]]: opposition, or "two ways of relating to the same drive"?
 - [ ] Is Mary the one Roy "comes back for," or distinct from [[Essays/Concepts/Songs/Ballerina Boy]] (the buried child)?
