@@ -67,7 +67,7 @@ And the road there is a fallen ladder. *"City of **Angels** / walking down the *
 - The **pronoun rotation** *your → my → your* is in the Apple text.
 - *"It's the City of Light"* (singular) and *"I said hello"* are in the verified lyric.
 - Credits: Roy English & Matthew Pauling; vocals "ROY" + "sir lucius."
-- EP6: Lucius — *"I can't be stopped… my lullaby is everywhere"* (confirm exact wording by ear).
+- EP6: Lucius — *"I can't be stopped… my lullaby is everywhere"* (**verified — Jen, 2026-06-07**).
 - The board tab *"How to upload myself to the internet"* (citable artifact).
 
 **Interpretive (strong):** the gallery-gospel; the pronoun rotation as the conversion mechanism; "everyone looks just like you" as the Circle→Loop collapse / forged communion; immortality-as-reproducibility (vs the phoenix's death-and-return); faced-stranger vs faceless-Mary; the nearly-mute self; saviors/gangsters as the two masks of the fame-Christ.

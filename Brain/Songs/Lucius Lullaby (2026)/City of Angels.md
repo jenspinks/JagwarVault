@@ -40,7 +40,7 @@ The pronoun runs **pitched → internalized → re-transmitted**: the city says 
 A [[Brain/Concepts/The Circle|Circle]] needs **distinct points in communion** (difference held in unity, many voices singing one song back). **Sameness deletes difference; a circle of no distinct points collapses to a single point repeating = the [[Brain/Concepts/The Circle|Loop]].** "Everyone looks just like you" *is* that operation. Against the cosmology board (*"One become Two… one day We'll get back together and see The Great Design"* — [[The Pattern]]), Hollywood is the **counterfeit return**: uniformity, not unity-with-difference. **Sameness is the forgery of communion** — it mimics "we are all one" while meaning "you are all interchangeable." In a project named *Jagwar **Twin***, this is **twinning gone metastatic** — infinite doubling with no other left to meet ([[Brain/Concepts/Source vs Reflection]]).
 
 ## False immortality = reproducibility, not resurrection [G/W]
-*"Never gonna die… live forever in the bright lights, godlike."* EP6 puts the claim in the spectacle's own mouth — Lucius: *"I can't be stopped… my lullaby is everywhere as we speak"* (confirm wording by ear). The deathless thing is **the lullaby** (the replicated content); "never gonna die" is the **listener-side of Lucius's ubiquity, offered to Roy as his own.** The board's tab **"How to upload myself to the internet"** ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]]) is the album's own immortality thesis: **upload = never-gonna-die = become reproducible.**
+*"Never gonna die… live forever in the bright lights, godlike."* EP6 puts the claim in the spectacle's own mouth — Lucius: *"I can't be stopped… my lullaby is everywhere as we speak"* (**verified — Jen, 2026-06-07**; cite the EP6 video per Boundaries). The deathless thing is **the lullaby** (the replicated content); "never gonna die" is the **listener-side of Lucius's ubiquity, offered to Roy as his own.** The board's tab **"How to upload myself to the internet"** ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]]) is the album's own immortality thesis: **upload = never-gonna-die = become reproducible.**
 - **Phoenix as the TRUE version this counterfeits [~] (Jen):** the phoenix *burns / dies* to be reborn through the death — transformation, the Circle. *"Never gonna die"* **skips the burning** (no ash, no change — same self preserved/replicated = the Loop). The phoenix dies to live forever; Lucius offers living forever *so you never have to die.* (Joni's *"Paprika Plains"* — phoenix-from-ashes — was ambiently playing under the edit; whether Roy drew on it specifically is `[?]`.)
 
 ## True vs false feminine — the visibility axis [W]
@@ -62,9 +62,8 @@ Across both tracks the singer originates only **"I said hello"** and the surviva
 "Hollywood / holy wood" (holly = traditional wand-wood; "welcome to the spell-wood") — fits the counterfeit-hymn + luc-/light wordplay habit, but build nothing load-bearing on it.
 
 ## Open Questions
-- [?] Full **Spotify personnel** for [[Playing to the Gods]] (writers known; performers pending).
+- [x] Full **Spotify personnel** for [[Playing to the Gods]] — **done (Jen, 2026-06-07).** [x] **EP6 wording verified** (Jen, 2026-06-07).
 - [?] Is a **true** immortality (the Great Design / the song that survives) hidden under the false one — or is the **absence of any waking-up** (unlike [[Lucius Lullaby]]) the point: inside the City there's no vantage left to see the lie from?
-- [?] EP6 exact wording vs the live video.
 - [?] Did Roy draw on *Paprika Plains* specifically? (No evidence.)
 
 ## Connections

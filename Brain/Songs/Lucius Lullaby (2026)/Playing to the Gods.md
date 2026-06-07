@@ -28,6 +28,7 @@ Type: Song — **Track 9**, the **seed-mantra** of the seamed pair it opens; **t
 ## What it is (grounded)
 - **NOT instrumental** (corrects the prior label — same error class as [[SOL]] / [[The Circle (Lucius Version)]]). A short, looped **survival-mantra:** *"Never gonna die / Never, never gonna die / If I make it out alive, then I'm never gonna die."*
 - The chant **recurs inside [[City of Angels]]**, escalating there (×4 in its final bridge) — the spell intensifies the deeper into the City you go.
+- **Credits (full, verified 2026-06-07):** writers Roy English (**Choir Arranger**) + Matthew Pauling; vocals **sir lucius + ROY**; **MERCY** BG; Roy on piano/synth/melodeon/bass; **Pauling on cello** ([[Sources/Credits/Lucius Lullaby]]). The **choir + cello + piano** make the gallery-gospel **literal** — a temple-choir on the song about playing to the deified crowd; a unison choir also rhymes with *"everyone looks just like you"* (many voices arranged to one = the counterfeit of the Circle's distinct-voices-in-communion). `[W]`
 
 ## Reading [W] (full analysis on [[City of Angels]])
 - **The title = the theatre-gallery idiom** ("the gods" = the topmost, cheapest gallery; "playing to the gods/gallery" = performing for mass approval). The highest place is the cheapest place. See [[City of Angels]] §gallery-gospel.
@@ -35,7 +36,7 @@ Type: Song — **Track 9**, the **seed-mantra** of the seamed pair it opens; **t
 - **"If I make it out alive"** [W]: refuses to name the trap (industry / psyche / fame / the [[Lucius Lullaby]] floor are all rooms in one building). The cruelty: to win the immortality you must survive the very machine that grants it — **the dragon is the treasure.**
 
 ## Open Questions
-- [?] Full Spotify personnel (writers known; performers pending).
+- [x] Full Spotify personnel — **done (Jen, 2026-06-07);** see Credits above.
 - [?] Non-lexical intro/outro ("(Mm-mm)/(Oh-oh)") per Jen's copy — confirm.
 
 ## Sources
