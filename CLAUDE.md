@@ -445,6 +445,22 @@ Obsidian wikilink format: `[[PageName]]` — not markdown `[text](url)`.
 
 ---
 
+## SYSTEM OVERVIEW (portable, shareable)
+
+`_System/ARCHITECTURE.md` is a self-contained description of how the vault is
+structured, indexed, navigated, and built — written so an **external** reader (a
+person, or an AI such as a claude.ai chat) can understand the system *without the
+vault in front of them.* This CLAUDE.md is the authoritative operating spec;
+ARCHITECTURE.md is the shareable explainer derived from it.
+
+**Keep it in sync.** When the layer structure, frontmatter schema, Ontology
+conventions, tooling (`validate` / `backlink` / `gen-file-map`), navigation, or
+commit workflow changes, update `_System/ARCHITECTURE.md` in the **same pass**
+(re-date its snapshot) and regenerate `file-map.md`. It **must stay public-safe**
+(no private / Secret-Document content) since it is meant to be shared.
+
+---
+
 ## SCALE / DEPLOY NOTE
 
 Essays → static Astro site, Cloudflare Pages. Navigation: nonlinear labyrinth driven by `entry_points` + `related` frontmatter. Community features federated (Giscus/Discord), never server-rendered. Author Essays as public labyrinth nodes, not encyclopedia entries.
