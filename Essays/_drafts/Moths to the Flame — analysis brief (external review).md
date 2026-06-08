@@ -8,6 +8,9 @@ folded: 2026-06-08
 
 GPT/Gemini reviewer handoff, folded into canon. Canon: [[Brain/Songs/Lucius Lullaby (2026)/Moths to the Flame]] + [[Essays/Concepts/Songs/Moths to the Flame]]. Lyric: [[Sources/Lyrics/Moths to the Flame]] (Apple-verified, stable).
 
+## Second reviewer round (2026-06-08) — near-duplicate; no new canon
+A second chat's pass arrived after the build. **All four of its verify items confirmed** against the vault (credits: Roy solo / sir lucius / BG MERCY + ROY; Track 6; *Bad Feeling* @ MOTH Gallery = Track 15 BMRC bonus; lyric Apple-stable). Title correction: it wrote *"Moths to **a** Flame"* — registered title is *"…**the** Flame."* Every read it offered is already folded here (anti-gospel / profane altar / casual cull / Gurdjieff reversal / Sufi *parvāna* / Queen-of-the-Night / primitivism). **One delta:** it names a finding-aid — a *"Themes, Parallels, and Similarities between Mozart and JT"* doc — behind the Queen-of-Night read. Per the source rules that's a **finding-aid, `citable: false`** (cite the underlying *Magic Flute*, not the doc); it does **not** lift the tier — Queen-of-Night stays `[~]` (Jen's ear-read; MERCY = real collaborator, not an archetype). It also asserts the candle-out *"triggers"* the descending vocalization — kept `[?]` (causation needs the video; Jen's firsthand note was sequence, not stated cause).
+
 ## Resolution status (Code pass, 2026-06-08)
 - **Lyric gate — CLEARED.** The reviewer said "GATE EVERYTHING ON THE LYRIC." It was Apple-verified → `stable` the prior turn, so the "pending verify" doctrine lines are confirmed: *"Civilization has been a mistake… the wild animals are wiser… they just follow their instincts… so what? It just keeps the moth population down."* All `[W]` reads committed on that basis.
 - **Built as a paired unit with [[Bananas]]** (Moths = doctrine / Bananas = practice; the album's third seam, on the album page).
