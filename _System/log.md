@@ -14,6 +14,17 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-07] ingest | interview — "A Conversation with Jagwar Twin" (MB, ~58 min) — MAJOR Roy-voice source
+Ingested [[Sources/Transcripts/MB-Conversation-Jagwar-Twin (Mental Health, Cancel Culture)]] (YouTube, auto-caption `draft`; Roy verbatim, host condensed; date ~2021–2022 pending). **Grounds a lot of currently strong-read material in Roy's own public words:**
+- **★ Ballerina Boy — the origin story on the record:** kid wanted to act → mom put him in dance class → only boy → girls' *"you're not a real boy, you're not a real boy"* → came home crying, ashamed → adult dance videos = shadow-work reclaiming it. **Grounds [[Essays/Concepts/Songs/Ballerina Boy]] as autobiographical + public.**
+- **★ Happy Face — Roy explains it:** the **stove** = "alchemical brew" / **shadow-work** / *"casting the shadow to make people think something that's not real"* / darkness on a time-limit → grounds [[Happy Face]]'s stove + deception reading (cross-track stove ↔ [[Bananas]]).
+- **★ STF thesis:** flood-mythology + "humans wired for pattern recognition" + polarization → COVID → "we need to come together; that's where the new album's headed" → [[Subject to Flooding (album)]] / [[The Pattern]].
+- **angels = parts of consciousness** (Sistine/brain, "I don't say it from a place of belief") — public footing adjacent to [[The Angels and the Angles]] (does NOT state the consonant/vowel method — keep `[~]`).
+- mirror doctrine + *Down to You* as its plain statement; cancel-culture / "you become what you fight" / redemptive hero-journey; **industry-deprogram** (independent turn, names Joshua); deep depression/anxiety ("couldn't go to the grocery store"); monomyth ("saving yourself is saving the world"); "mind body spirit complexes"; *I Like to Party*.
+- Indexed in [[Master Source List]] §11. **Next:** a propagation pass folding both new interviews into Ballerina Boy / Happy Face / Roy / Sir Lucius / STF / mirror canon (offered, not yet done).
+
+---
+
 ## [2026-06-07] ingest | interview — The Honey Podcast S2 E7 (Roy-voice goldmine)
 Ingested [[Sources/Transcripts/Honey-Podcast-S2E7-Meditation-Authentic-Self]] (YouTube, auto-caption `draft`; date pending — ~2020–2021 meditation era). Roy does almost all the talking. **High-value anchors flagged (not yet propagated):**
 - **Guru-DENIAL** — *"absolutely not a guru… I don't know anything… asking questions just like everybody"* (the humility pole opposite [[Sir Lucius]]'s "everyone's a guru" contempt).
