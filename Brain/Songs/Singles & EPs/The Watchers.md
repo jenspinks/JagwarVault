@@ -43,7 +43,7 @@ Takes [[City of Angels]]' replication horror and turns it **inward**: not *the c
 The same deified crowd of [[Playing to the Gods]], now felt as **surveillance** rather than worship — a third face for [[The Audience]]: **communion / harvest / gaze.** The watchers don't merely see; they **alter** the watched self, which begins to perform, doubt, defend, dissociate. → [[Witnessing vs Surveillance]].
 
 ## "Wake up" = the Gurdjieff axis [W]
-Against [[Lucius Lullaby]]'s sedation, the alarm clock — but an **unstable, half-awake** state (you know the dream is compromised; you don't yet know if the watchers are outside, inside, or both). Roy-posted anchor: *"man is asleep… he must wake up"* (Gurdjieff, Roy-voice). → [[Dream]] / the Yesod / Moon layer `[~]`.
+Against [[Lucius Lullaby]]'s sedation, the alarm clock — but an **unstable, half-awake** state (you know the dream is compromised; you don't yet know if the watchers are outside, inside, or both). Roy-posted anchor: *"man is asleep… he must wake up"* (Gurdjieff, Roy-voice). → [[Dream - Dream|Dream]] / the Yesod / Moon layer `[~]`.
 
 ## The scapegoat passage = "Stop Sir Lucius," turned on the self [W]
 The crowd manufactures the conditions for spectacle, then condemns the performer for becoming spectacular (*"made me out to be the bad guy"*) — the accusatory-crowd logic of the visual-series flyers, **internalized.** The Roy/[[Sir Lucius]] "bad guy" problem in miniature.
@@ -61,7 +61,7 @@ The crowd manufactures the conditions for spectacle, then condemns the performer
 - **Ezekiel's four living creatures** *"full of eyes"* / the **tetramorph** (Roy's Jung-pairing) — the watcher-as-holy-witness reading. → [[The Wheel]] (Ezekiel's wheel), Egyptian Horus ↔ Roy's sourced Egyptian-mythology fascination + EP1 altar statue.
 
 ## Interpolation lineage [G]
-Credited interpolation — same standing as **Bricusse/Newley** on [[Bad Feeling (Oompa Loompa)]], **Joni** on [[Sources/Lyrics/Soul Is A Star]], **Mercer** on [[Dream]]. Frame as **participation in an older song** ([[Inherited Substrate]]), not invented encoding. Precedent committed at [[Dream]].
+Credited interpolation — same standing as **Bricusse/Newley** on [[Bad Feeling (Oompa Loompa)]], **Joni** on [[Sources/Lyrics/Soul Is A Star]], **Mercer** on [[Dream - Dream|Dream]]. Frame as **participation in an older song** ([[Inherited Substrate]]), not invented encoding. Precedent committed at [[Dream - Dream|Dream]].
 
 ## Open Questions
 - [?] Lyric → stable: one Apple/Spotify lyric eyeball away (credits are Apple-grounded; lyric still MusixMatch/AZLyrics).
@@ -76,7 +76,7 @@ Credited interpolation — same standing as **Bricusse/Newley** on [[Bad Feeling
 | [[Playing to the Gods]] | Crowd-as-Eye = the inward turn of its deified crowd. |
 | [[Lucius Lullaby]] | Sedation ↔ alarm; "life is but a dream" ↔ "is it just a dream / wake up." |
 | [[Sir Lucius]] | The accusatory crowd / scapegoat ("made the bad guy"). |
-| [[Dream]] | The interpolation precedent (Mercer) — committed. |
+| [[Dream - Dream|Dream]] | The interpolation precedent (Mercer) — committed. |
 | [[The Algorithm]] / [[The Circus]] | Fascination, intoxication, the crowd-machine. |
 | [[Witnessing vs Surveillance]] / [[Inversion]] | Being-seen; mirror → eye. |
 
