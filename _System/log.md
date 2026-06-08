@@ -70,6 +70,15 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-08] source prep | Moths to the Flame (track 6) — lyric Apple-verified; 6→7 seam logged; overview for external round
+Starting Moths (per the per-song loop). Captured the raw material; **interpretive Brain/Essay build waits** for Jen's GPT/Gemini round.
+- [[Sources/Lyrics/Moths to the Flame]] **→ stable** (Apple-verified, Jen screenshot 2026-06-08). Corrected the Drive copy's mis-placed trailing "?" — "So what?" is its own line; "It just keeps the moth population down" has no question mark. Spoken-word; ends on a wordless descending vocalization (Queen-of-the-Night register `[~]`, MERCY/ROY BG).
+- Credits already in [[Sources/Credits/Lucius Lullaby]] (track 6): writer Roy English (solo); **sir lucius = vocalist**; ROY + **MERCY** BG; Roy English kbd/synth/sound-design; Dale Becker master.
+- [[Lucius Lullaby (album)]] structural — added the **third firsthand seamless seam: Moths (6) → Bananas (7)** (music + video continuity; Moths = spoken-word overture → Bananas = the sung id-eruption). Joins 1→2 and 9→10.
+- Firsthand video (Jen): Lucius in circus coat, tight on upper body, smoking; **candelabra with 3 candle-spots but only 1 tall red candle (center)**, lit from his cigarette → the speech → blows it out; camera pulls back on the descending vocalization to reveal him atop a 10-ft pile of bananas → *Bananas.*
+
+---
+
 ## [2026-06-07] stub | [[The Jaguar]] symbol page (resolves the dangling link; houses the anti-drift guard)
 Created [[The Jaguar]] (`CONCEPT-TheJaguar`, registered) — previously a dangling link from [[Jagwar Twin]] §Symbols. Per a chat suggestion, but **split into its two claims** so it doesn't re-lock the open question:
 - **Asserted (grounded):** the Jaguar = the project's **emblem of seeing** (Roy-sourced Mayan etymology) + the **container/frame**, and is **NOT a fourth peer-character** — explicit guard against re-reading it as a tetramorph claimant (that 1:1 stays in the Ezekiel paratext only). This is the anti-drift line, written down.

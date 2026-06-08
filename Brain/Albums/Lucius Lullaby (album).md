@@ -25,7 +25,8 @@ review_date: 2026-11-16
 - **[G] Seamless track-pairs — continuous pieces split into separate tracks** (Jen, firsthand at the listening / CD-release parties + shared refrains in the Apple-verified lyrics):
   - **Track 1 [[The Circle (Lucius Version)]] → track 2 [[Lucius Lullaby]]** — both carry *"It's a beautiful life… I'm dreaming"*; the Circle Version is the **music-box intro/overture** to the title track. Jen heard them live as **one song.**
   - **Track 9 [[Playing to the Gods]] → track 10 [[City of Angels]]** — both carry *"Never gonna die… if I make it out alive, then I'm never gonna die"*; Playing to the Gods is the **intro/refrain** City of Angels develops. Jen heard them at the CD-release party as **one song**; only the album split revealed two tracks.
-  - **[W]** The album uses **short "intro" tracks as overtures** whose refrain the following full track expands — the track-split is editorial, not musical. Bears on the "tracklist-as-Circle / deliberate seams" question below.
+  - **Track 6 [[Moths to the Flame]] → track 7 [[Bananas]]** — the **background music of Moths becomes Bananas seamlessly** (Jen, firsthand; + the video pulls back from Lucius's candelabra spoken-word to reveal him atop a 10-ft pile of bananas → *Bananas* begins). Moths = the **spoken-word overture** (Lucius's anti-civilization doctrine); Bananas = the sung id-eruption it licenses. A music+video seam (not a shared refrain like the other two).
+  - **[W]** The album uses **short "intro" tracks as overtures** whose refrain the following full track expands — the track-split is editorial, not musical. Bears on the "tracklist-as-Circle / deliberate seams" question below. **Three such seams now confirmed firsthand** (1→2, 9→10, 6→7).
 - [W] Lucius brackets the album (track 1 + track 15 both Lucius-side).
 - [W] Lucius dominates opening third (1,2,4).
 - [W] SOL is track 14; track 15 loops back Lucius-adjacent → tracklist enacts a [[The Circle|Circle]].
