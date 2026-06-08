@@ -8,7 +8,7 @@ sources: []
 related: [CHAR-JagwarTwin, CHAR-Mary, CONCEPT-WitnessingVsSurveillance, CONCEPT-TheCircle, CHAR-SirLucius]
 connections:
   grounded:    [CHAR-JagwarTwin]
-  strong_read: [CONCEPT-WitnessingVsSurveillance, CHAR-Mary, CONCEPT-SourceVsReflection]
+  strong_read: [CONCEPT-WitnessingVsSurveillance, CHAR-Mary, CONCEPT-SourceVsReflection, SONG-TheCircle]
   resonance:   [CONCEPT-TheCircle, CHAR-SirLucius, CONCEPT-Inversion]
 referenced_by: [CONCEPT-TheUpload]
 review_date: 2026-12-07
@@ -32,7 +32,7 @@ What stays unsettled is the Jaguar's relation to [[Mary]] (the feminine source-f
 
 ## What would ground it
 A Roy statement specifically on the **Jaguar↔Mary / seer↔source** relationship; ~~a public source for the jaguar etymology~~ — **FOUND 2026-06-08** (mirror-of-consciousness, 3 interviews above); still open: the **"travels between worlds / sees into all beings"** attribute; the casting/credit for the **Mary voice**.
-- **Grounding bearing on A vs B (2026-06-08):** the grounded trait is the **mirror** (reflexive seeing), *not* "the wise one who holds the string" — which **softens the Mary collision** (the string/wise-one stays Mary's/Roy's; the mirror is the jaguar's → leans Reading A). **But** the 2024 *"pull people into the light"* gives the jaguar a **redemptive edge overlapping Mary** → Reading B not excluded. Still `[?]`.
+- **Grounding on A vs B — updated 2026-06-08 (two registers):** **(1)** the **name's etymology** = the *mirror of consciousness* (reflexive seeing) → the frame; leans A. **(2) But [[Brain/Songs/33 (2022)/The Circle|The Circle]] (33) personifies "the Jagwar" as a _feminine Maker_** *"with a world tied on a string"* who makes the Jagwars and teaches them the song, and a **feminine Wise One** who *"remembered she once held the string"* — both **"she,"** vault-mapped to **Sophia / Shekinah `[W]`** = **Mary's register.** So in the *myth*, the Jagwar **is** the divine-feminine source / string-holder (exactly Jen's intuition) → **Reading B is now substantially grounded** for that register, no longer a co-equal long-shot; the genderless-distinct-from-Mary framing is the *weaker* reading. **Not hard-locked** (the Maker-Jagwar and Mary may be one source under two names *or* two faces of Shekinah; full lock waits on Roy equating them by name). See [[Jagwar Twin]] open note.
 
 ## Connections
 | Node | Relationship |
