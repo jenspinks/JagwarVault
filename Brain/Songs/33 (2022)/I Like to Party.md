@@ -11,7 +11,7 @@ connections:
   strong_read: [SONG-Online, SONG-WelcomeToTheCircus]
   resonance:   [SONG-HappyFace, SONG-TheCircle, CONCEPT-Malkhut]
 review_date: 2026-12-01
-referenced_by: [CONCEPT-Consumption, SONG-BadFeelingOompaLoompa, SONG-DownToYou, SONG-GoodDay]
+referenced_by: [CONCEPT-Consumption, SONG-BadFeelingOompaLoompa, SONG-Bananas, SONG-DownToYou, SONG-GoodDay]
 ---
 # I Like to Party
 

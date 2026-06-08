@@ -110,7 +110,7 @@ ingest_source: "Jen-maintained working transcript (Google Doc). The Doc is a REF
 > **Roy:** It doesn't mean anything.
 >
 > **Lucius:** Exactly. **It's nonsense. It's all nonsense.**
-> *[Jen's cross-ref note in the Doc, not dialogue: cf. the phone call — "nonsense / angles / angels," "Nonsense is the only thing that makes sense" → the Angle/Angel concept.]*
+> *[Cross-ref: the public "It's nonsense" line ties to the Angle/Angel framework (Roy's public "angels and angles" / consonants-vowels theme). — A prior cross-ref note here was **removed 2026-06-07**: it cited **private phone-call** material (quarantined per [[Boundaries]]). The private call content must not re-enter the vault; the public anchor for the "nonsense" theme is the on-camera EP2 line above.]*
 >
 > **Roy:** Fine, **I'll give you this one.**
 >

@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
   strong_read: [CONCEPT-TheCircus, CONCEPT-TheLightBearer, CONCEPT-TheMirror]
   resonance:   [CONCEPT-Yesod, CONCEPT-Tiferet]
-referenced_by: [CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-TheAquarium, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheSpectacle, CONCEPT-TheThread, CONCEPT-TheVeil, CONCEPT-TheWheel, SONG-BadFeelingOompaLoompa, SONG-GreatTimeToBeHuman, SONG-HellOfANightPt2TheHallelujahStickup, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-TheAquarium, CONCEPT-TheBanana, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheSpectacle, CONCEPT-TheThread, CONCEPT-TheVeil, CONCEPT-TheWheel, SONG-BadFeelingOompaLoompa, SONG-Bananas, SONG-GreatTimeToBeHuman, SONG-HellOfANightPt2TheHallelujahStickup, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Inversion

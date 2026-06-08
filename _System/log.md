@@ -14,6 +14,12 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-07] build + BOUNDARY-FIX | Bananas (track 7) + new concept [[The Banana]] + private-call leak removed
+Integrated the Bananas reviewer round into canon (Brain + Essay; [[Sources/Lyrics/Bananas]] → stable) + new concept **[[The Banana]]** (`CONCEPT-TheBanana`, registered → 120 IDs).
+- **⚠ BOUNDARY FIX (load-bearing):** the reviewer's quarantine flag led me to find **private phone-call content already in the tracked, pushed vault** — the EP transcript carried a cross-ref note reproducing the call's *"nonsense / angles / angels," "Nonsense is the only thing that makes sense"* cluster. **REMOVED** (replaced with a public-only note + removal record); the public "nonsense" anchor is EP2's on-camera *"It's nonsense. It's all nonsense."* Per [[Boundaries]] (private calls never in-vault). **Lesson:** Jen's working-Doc cross-ref notes can smuggle private material into Sources — scan for it.
+- **Bananas reading [W]:** the **id-permission chant** (Lucius weaponizing *"hey kids… well, alright"* into regression/destruction/dissociation — the cradle-rocker teaching the crowd to go bananas); the **hijacked offering** (banana lifted from the altar as Lucius's PA, EP2/EP3); the **sterile-clone Loop** (Cavendish = sterile clone, *public botany* → Lucius's Loop / [[City of Angels]]'s "everyone looks just like you"); the **monkey** = Gurdjieff's in-between man (Roy-posted); **dissociation after shadow-action**; the **kindergarten Duality** (Good/Bad); the **recurring stove** (↔ [[Happy Face]]); the logical Happy-Face→Bad-Feeling→Bananas→Circus arc.
+- **Provenance flagged, NOT grounded:** Roy's "banana = sterile genetic loop" gloss reached the vault *"per Drive doc"* — public-vs-private unconfirmed; the sterile-loop reading stands on **public botany**, not the gloss (`[?]` for Jen). *"Did I do that?"* = Urkel `[~]` (audio-pending). Validator 133 pages · 120 IDs · 0 errors · 32 warnings.
+
 ## [2026-06-07] build + integrate | Bad Feeling (Oompa Loompa) (track 5)
 Integrated the reviewer round into canon (Brain + Essay; [[Sources/Lyrics/Bad Feeling (Oompa Loompa)]] → **stable**).
 - **Release history grounded:** 2023-12-15 single (same day as the 2023 *Wonka* film) → album track 5; acoustic-live = track 15.

@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
   strong_read: [CONCEPT-TheCircus, CONCEPT-TheMouth, CONCEPT-TheAudience, SONG-ILikeToParty]
   resonance:   [CONCEPT-PanemEtCircenses, CONCEPT-Inversion]
-referenced_by: [CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheMouth, SONG-BadFeelingOompaLoompa, SONG-GoodDay, SONG-HellOfANightPt2TheHallelujahStickup, SONG-NoFakeFriends, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheBanana, CONCEPT-TheMouth, SONG-BadFeelingOompaLoompa, SONG-GoodDay, SONG-HellOfANightPt2TheHallelujahStickup, SONG-NoFakeFriends, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Consumption

@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Apple / Shazam + Jen in-hand (2026-06-07): 'the monkeys' (plural); 'light up the stove'; Good/Bad capitalized"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 ---
@@ -11,7 +11,7 @@ ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Note
-Roy's stated gloss (per Drive doc): the banana was used because it is a fruit that is sterile — flawed genes, inherited trauma — but looks healthy and good. (Context for Brain/Essays, not a lyric.)
+Roy's stated gloss (per Drive doc): the banana was used because it is a fruit that is sterile — flawed genes, inherited trauma — but looks healthy and good. (Context for Brain/Essays, not a lyric.) **`[?]` PROVENANCE UNCONFIRMED (2026-06-07):** "per Drive doc" is a reference-library trail, not a public citation — confirm the underlying **public** source (interview/post/EP) before grounding the Roy-attribution. The sterile-clone *reading* otherwise stands on **public botanical fact** (the Cavendish is a sterile clone), not on this gloss. Do not cite the Drive doc. Separately, the **"nonsense / angles / angels"** cluster is **private-phone-call material — quarantined per [[Boundaries]]; never in canon.**
 
 ## Source
 - (release metadata pending — on *Lucius Lullaby*, 2026; add Apple/Spotify URLs at verification)
