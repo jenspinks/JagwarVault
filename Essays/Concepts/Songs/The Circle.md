@@ -69,6 +69,14 @@ The resolution defeats no enemy and seizes no kingdom — *"the wise one remembe
 ### 9. The circle grows by spreading remembrance [W]
 A circle expanding from a center — the plot tracks it (hidden → remembered → sung → grown). Growth is **organic and by awakening**, not coercion; the forgetting came *"in cycles… with their kings,"* and the remembering reverses the cycle into a growing circle.
 
+### 10. The Wise One's two faces — the source, and the template ("all of us") [W / ~]
+The Wise One is not one *or* the other of two readings — the song's own doctrine makes her **both**, joined at the act of remembrance:
+- **The cosmic / source face `[W]`:** she *"remembered she once held the string"* — so she **was** the Maker; seeker and maker are two phases of one feminine being (the loop). That face is the divine-feminine source — **Sophia / Shekinah** (and [[Brain/Characters/Mary|Mary]]'s register; §8).
+- **The immanent / collective face `[W/~]` (Jen's read):** because the song was hidden *"inside their wings"* — inside **every** Jagwar — the Wise One is also the **template of remembrance that any of us can instantiate.** "Jagwar Twin" *is* self-identification with the made creatures; we are the Jagwars who were told we couldn't sing. So the Wise One = **us, remembering** — and the **exemplars who completed the circle** (*a Jesus, a Bowie, a Prince*: the ones who remembered the song and sang it back). This is the **Christ-as-exemplar** move — not a god above us but the *pattern* of awakening any spark can follow (theosis; "the kingdom within"; cf. the album title **33** = Christ's age `[~]`).
+- **Why both at once (the Gnostic hinge):** in this cosmology the spark inside each person — the song in the wings — *remembered*, **reunites with the source.** So a personal awakening and reunion with the cosmic Maker are the **same event**, which is exactly why the Wise One can be the divine feminine **and** "all of us": to remember you once held the string *is* to rediscover your identity with the One who held it. Source and seeker meet in **anamnesis**. → `CONCEPT-Malkhut` (the spark within); the vessel/"download" doctrine ([[The Upload]] / [[The Pattern]]).
+
+> **Source discipline (do not over-collapse; do not over-ground):** the three names stay a **family resemblance**, not an equation — *Marian vessel / Gnostic Sophia / Kabbalistic Shekinah* — and the Wise One's defining act (**remembrance**) is **more Sophia/Shekinah than conventional Mary** (CLAUDE.md §register-collapse). The externally-cited *"Inside of the Inside" podcast* and *"Themes, Parallels" doc* are **not authorial grounding:** the podcast is **Synthesis-&-Reception tier** (commentary, not Roy's intent — and it isn't catalogued; its *"blue jeans / California corner / ABC"* details are unverified), and the doc is a **finding-aid** (cite the songs/board, not the doc). The readings above stand on the **public lyric** + existing canon.
+
 ## Resonance
 - **The music of creation (Ainulindalë)** — creation taught/sustained as *song* resembles Tolkien's world sung into being. Framework correspondence.
 - **Divine spark / kingdom within** — the song concealed within the Jagwars = the essential truth hidden in the individual, uncovered not acquired (`CONCEPT-Malkhut`).
@@ -78,7 +86,7 @@ A circle expanding from a center — the plot tracks it (hidden → remembered �
 
 ## Open Questions
 - [x] **Writer credit — RESOLVED:** Roy English (sole writer); Roy + Pauling produce. Confirms this as Roy's personal mythic statement.
-- [ ] The maker Jagwar = divinity / consciousness / Sophia-Shekinah / nature / imagination — or a fusion?
+- [ ] The maker Jagwar / Wise One = divinity / consciousness / Sophia-Shekinah / nature / imagination / **the collective template ("all of us" remembering — Jen's read, §10)** — or a *fusion* (likely: a cosmic-source face **and** an immanent/collective-template face, joined in anamnesis)?
 - [ ] The cave = memory / sacred space / the unconscious / the origin point?
 - [ ] Relation to [[Sources/Lyrics/The Circle (Lucius Version)]] — the same myth re-sung through Lucius (distorted/obscured)? Needs a side-by-side (Lucius version not yet read here).
 - [~] Foundational myth underlying [[LOOP]] / [[Lucius Lullaby]]?

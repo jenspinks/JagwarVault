@@ -36,12 +36,14 @@ Type: Song · *33* (2022), **track 10 of 10 — album closer**, 3:50. **Roy Engl
 - **[W] Descent-and-withdrawal** (immanence → conceal-and-retreat) = tzimtzum-like; same shape as [[Another Way II Heaven]].
 - **[W] Inside-of-the-inside reverses the attention vector** — circle grows from the deepest interior; **the album's mythic cure for its own outward attention-pull** (vs [[Welcome to the Circus]]' outward recursion).
 - **[W] Remembrance over conquest; the wise one as Sophia/Shekinah** (feminine maker + feminine rememberer). "She" grounded; the ID is the read.
+- **[W/~] The Wise One has two faces (Jen, 2026-06-09):** **(1) cosmic/source** — *"she once held the string"* = she *was* the Maker → the divine feminine, Sophia/Shekinah ([[Mary]]'s register); **(2) immanent/collective** — the song is hidden *"inside their wings"* (inside **every** Jagwar = us), so the Wise One is also the **template of remembrance any of us instantiates** — *us, remembering;* the **Christ-as-exemplar** pattern (a Jesus, a Bowie, a Prince), tied to the title **33** = Christ's age `[~]`. **Both at once** via the Gnostic hinge: the spark inside each, *remembered,* reunites with the source — so personal awakening and reunion with the cosmic Maker are the same event. *(Don't over-collapse the three names — family resemblance, not equation; her defining act, remembrance, is more Sophia/Shekinah than conventional Mary.)*
+- **Source flag:** the externally-cited *"Inside of the Inside" podcast* = **Synthesis-&-Reception tier** (commentary, **not** Roy's intent; uncatalogued — provenance unverified); the *"Themes, Parallels" doc* = finding-aid. Neither grounds authorial intent — the reads here stand on the **public lyric**.
 
 ## Resonances
 Music-of-creation (Ainulindalë) · divine spark / kingdom-within (Malkhut) · Eden-remembered / the Cave (Plato's cave **inverted** — cave holds truth) · tzimtzum / tikkun. [~] Joni's **"Circle Game"** (captive-on-the-carousel) ↔ this **growing** circle — the Joni *33* dialogue ([[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]]). Framework-attributed.
 
 ## Open Questions
-- Maker Jagwar = divinity / consciousness / Sophia / nature / imagination — or fusion?
+- Maker Jagwar / Wise One = divinity / consciousness / Sophia-Shekinah / nature / imagination / **the collective template ("all of us" remembering — Jen)** — or a *fusion* (cosmic-source face + immanent/collective-template face, joined in anamnesis)?
 - The cave = memory / sacred space / unconscious / origin?
 - Side-by-side with [[The Circle (Lucius Version)]] (same myth, Lucius's distortion) — analytically essential, not yet done.
 
