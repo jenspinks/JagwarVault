@@ -70,6 +70,14 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-07] ingest | Rockwell "Somebody's Watching Me" source-context (Rolling Stone) → The Watchers interpolation
+Captured the public backstory of the song [[The Watchers]] interpolates → [[Sources/Reference/Rockwell — Somebody's Watching Me source context (Rolling Stone)]] (Jason Newman, *Rolling Stone*). Wired into [[Sources/Credits/The Watchers]] + the Brain/Essay interpolation sections.
+- **Name correction:** Rockwell = **Kennedy William Gordy** (Berry Gordy's son) — fixed my earlier "Gordon."
+- **Bolsters two existing reads (grounded at the source level):** (1) **clone-fear** — Rockwell **shunned the Gordy name** (fake stage name + British accent) to escape being a *nepo-copy of his father*; the author of *"somebody's watching me"* **lived** the *"I'm afraid I'm a clone"* fear Roy's lyric names. (2) **El Roi / surveillance↔watching-God** — Rockwell **wrote the song from a literal prayer** with a vow of testimony, so the surveillance/divine-gaze braid is **latent in the interpolated source**, not imposed. (3) **MJ grounded** — MJ (+ Jermaine) sang the hook → *"dancing like Michael Jackson."*
+- Tier: the source facts are `[G]` (Rolling Stone / Rockwell's words); Roy's *intent* in choosing this song stays `[W]` — "but the song he reached for was already this song."
+
+---
+
 ## [2026-06-07] audit + depth | AngleAngel provenance OK (Kabbalah); The Watchers vault-native pass
 **Boundary audit (Jen's ask):** confirmed [[The Angels and the Angles]] (`CONCEPT-TheAngleAngel`, parallel-session build) is grounded through **Kabbalah, NOT the secret document** — its "Tier discipline" section is explicit: no public source has Roy stating it as *his method*, so it stands only as `[~]` **tradition-correspondence** (Abulafia / *Sefer Yetzirah* / Ezra ben Solomon / 72-Names), the private source used **only as a silent lens** per [[Boundaries]] ("cite the tradition, not the man"); public anchors = 2019 Hebrew post, El Roi tattoo, the "I'm 33" board. ✅
 - **Tier-corrected my earlier over-claim:** the parallel work rightly downgraded the angle/angel framework from "[G] Roy's method" to `[~]` tradition-correspondence. Fixed my Bananas notes (Source / Brain / Essay + [[The Banana]]) that had called it "PUBLIC — grounded" → now "`[~]` Kabbalah-correspondence; Roy's Hebrew *engagement* is `[G]`, his *method* is not sourced," pointing to [[The Angels and the Angles]].
