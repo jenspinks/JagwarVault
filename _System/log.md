@@ -70,6 +70,15 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-07] principle + open-Q | figure-distinctness is a hypothesis; the Jaguar/Mary/quaternity question held open
+Per Jen — **not locking** the four-figure / tetramorph / Jaguar-as-seeing structure; Roy plays loosely with mythology.
+- **New CORE PRINCIPLE in CLAUDE.md:** *figure-distinctness is a hypothesis, not a default* — a different axis from the existing register-collapse rule. Whether two **figures** (Mary/Jaguar, seer/string-holder, Lucius/Roy, a scriptural figure & its JT counterpart) are distinct or identical is itself `[?]`; we have **no grounding Roy keeps them apart**; he treats myth/scripture as **tools, not fixed truth** and may collapse (or split) deliberately. Enforce neither separation nor merger; collapse-or-split only when evidence warrants. *(Our clarity-preference ≠ his law.)*
+- **Open working-note added to [[Jagwar Twin]]** (`[?]`, not locked): Reading A (distinct orders — Jaguar = the **seeing-field** per the Roy-sourced Mayan etymology + canon's "container/meta-system"; within it Lucius=surveillance vs Mary=witnessing per [[Witnessing vs Surveillance]]; thread=feeling, Mary gives / Roy holds) **held alongside** Reading B (Roy deliberately collapses Jaguar≈Mary / seer≈source). Tetramorph 1:1 kept to the Ezekiel paratext ([[The Watchers]]), **not** force-mapped onto the four figures — but flagged overfit, not "wrong."
+- **Grounding sought before any lock:** a Roy statement on Jaguar↔Mary; a public source for the "jaguar sees into all beings" gloss (currently *source: Roy*, uncited); the Mary voice credit.
+- Evaluation correction to the reviewer thread: the "Jaguar = the seeing/frame" move isn't a new inference — it's **existing canon** ([[Jagwar Twin]] = "meta-system/container"; "the title is the thesis"); and the reviewer's "angels are watching me / turn the cameras on" line is not in the vault.
+
+---
+
 ## [2026-06-07] depth | "Why this song — the Rockwell parable" folded into The Watchers
 Folded an external chat's Rockwell-parable analysis (it was working off a stale project index — couldn't see the new Watchers pages — so Code did the integration). Added a "Why this song" section to Brain + Essay, tiered:
 - **Floor-written prayer-song under a father's shadow** — Rockwell's apartment-floor prayer-genesis ↔ [[Lucius Lullaby]]'s `[G]` floor-origin (35, parents' house, childhood bedroom, MacBook mic — *"a transmission from the floor"*); the interpolated song's creation-myth = Roy's own vessel/transmission doctrine (`CONCEPT-KeilimVessels`; [[Source vs Reflection]]).
