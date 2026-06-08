@@ -11,7 +11,7 @@ connections:
   strong_read: [SONG-CityOfAngels, SONG-AnotherWayIIHeaven, CHAR-SirLucius]
   resonance:   [CONCEPT-ThePattern, CONCEPT-Inversion, CONCEPT-Yesod]
 review_date: 2026-12-07
-referenced_by: [CHAR-Roy, CONCEPT-Duality]
+referenced_by: [CHAR-Roy, CONCEPT-Duality, SONG-TheWatchers]
 ---
 # The Angels and the Angles
 

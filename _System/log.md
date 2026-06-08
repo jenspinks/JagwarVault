@@ -70,6 +70,19 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-07] audit + depth | AngleAngel provenance OK (Kabbalah); The Watchers vault-native pass
+**Boundary audit (Jen's ask):** confirmed [[The Angels and the Angles]] (`CONCEPT-TheAngleAngel`, parallel-session build) is grounded through **Kabbalah, NOT the secret document** — its "Tier discipline" section is explicit: no public source has Roy stating it as *his method*, so it stands only as `[~]` **tradition-correspondence** (Abulafia / *Sefer Yetzirah* / Ezra ben Solomon / 72-Names), the private source used **only as a silent lens** per [[Boundaries]] ("cite the tradition, not the man"); public anchors = 2019 Hebrew post, El Roi tattoo, the "I'm 33" board. ✅
+- **Tier-corrected my earlier over-claim:** the parallel work rightly downgraded the angle/angel framework from "[G] Roy's method" to `[~]` tradition-correspondence. Fixed my Bananas notes (Source / Brain / Essay + [[The Banana]]) that had called it "PUBLIC — grounded" → now "`[~]` Kabbalah-correspondence; Roy's Hebrew *engagement* is `[G]`, his *method* is not sourced," pointing to [[The Angels and the Angles]].
+
+**The Watchers — vault-native depth pass (Jen: the external AI wrote it without vault context).** Added the connections only the vault enables, to Brain + Essay:
+- **The El Roi axis (load-bearing):** The Watchers = the purest **surveillance** song, on the artist named **El Roi / "El Roy" = "the God who sees me"** (אל ראי on Lucius's throat). Per [[Witnessing vs Surveillance]]: surveillance **shapes**, witnessing **transforms** — so *"I'm afraid I'm a clone"* is the exact output of surveillance (shaped, not known). *The machine that watches everything cannot witness anyone.*
+- **"Hall of Mirrors grows eyes" = the root ר-א-י unfolding** (*re'i* = mirror/seeing → the eye; [[The Angels and the Angles]]) → Roy's Jung-**Horus** (all-seeing Eye) pairing closes the cluster: Horus-eye (surveillance) vs El Roi (witness).
+- **Clone-fear = "angles without angels" / sterile vessel** ([[The Banana]] Cavendish; the AngleAngel counterfeit = structure without spirit/Ruach).
+- **"But I'm not Mandy Moore"** (reviewer skipped) = refusing the manufactured candy-clean pop-clone; consumption = replication.
+- **Bad-guy = the [[The Dweller on the Threshold|Dweller]] the gaze makes**; **"no privacy" precedent = [[Online]] (2022)**; the dancing crowd = the [[I Like to Party]] congregation. Updated frontmatter connections accordingly (promoted Witnessing vs Surveillance; added Online / Dweller / AngleAngel / I Like to Party).
+
+---
+
 ## [2026-06-07] build | The Watchers (standalone single) → full canon + Rockwell interpolation logged
 Folded the reviewer round for **The Watchers** (2024-10-04 single/EP, Big Loud — **not** on *Lucius Lullaby*). Upgraded the bare stub to a full Brain page (`SONG-TheWatchers`, frontmatter + tiers); wrote the Essay; created [[Sources/Credits/The Watchers]]; archived the reviewer brief → [[Essays/_drafts/The Watchers — analysis brief (external review)]].
 - **Thesis [W]:** surveillance-dream song — the self replicated/consumed/watched while unsure if it's awake, dreaming, or **already a clone.** *City of Angels*' replication turned **inward**; *Lucius Lullaby*'s sedation turned into the **alarm clock** (*wake up*). "The Hall of Mirrors grows eyes."

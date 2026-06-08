@@ -5,11 +5,11 @@ status: draft
 confidence: medium
 source_quality: primary-source
 sources: [Sources/Lyrics/The Watchers.md, Sources/Credits/The Watchers.md]
-related: [SONG-CityOfAngels, SONG-PlayingToTheGods, CHAR-SirLucius, SONG-DreamDream, CONCEPT-TheAlgorithm]
+related: [SONG-CityOfAngels, SONG-PlayingToTheGods, CHAR-SirLucius, SONG-DreamDream, CONCEPT-WitnessingVsSurveillance]
 connections:
   grounded:    [CHAR-Roy, SONG-DreamDream]
-  strong_read: [SONG-CityOfAngels, SONG-PlayingToTheGods, SONG-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheAlgorithm]
-  resonance:   [CONCEPT-Inversion, CONCEPT-WitnessingVsSurveillance, CONCEPT-TheWheel]
+  strong_read: [SONG-CityOfAngels, SONG-PlayingToTheGods, SONG-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheAlgorithm, CONCEPT-WitnessingVsSurveillance, SONG-Online, CONCEPT-TheDwellerOnTheThreshold]
+  resonance:   [CONCEPT-Inversion, CONCEPT-TheWheel, CONCEPT-TheAngleAngel, SONG-ILikeToParty]
 referenced_by: []
 dominant_pole: lunar
 transformation_phase: nigredo
@@ -62,6 +62,15 @@ The crowd manufactures the conditions for spectacle, then condemns the performer
 
 ## Interpolation lineage [G]
 Credited interpolation — same standing as **Bricusse/Newley** on [[Bad Feeling (Oompa Loompa)]], **Joni** on [[Sources/Lyrics/Soul Is A Star]], **Mercer** on [[Dream - Dream|Dream]]. Frame as **participation in an older song** ([[Inherited Substrate]]), not invented encoding. Precedent committed at [[Dream - Dream|Dream]].
+
+## Vault-native depth (2026-06-07 pass — connections the external review couldn't see)
+- **The El Roi axis — the load-bearing vault frame.** The Watchers is the catalogue's purest **surveillance** song, and it lands on the artist whose name *is* **El Roi / "El Roy" = "the God who sees me"** (Gen 16:13; *אל ראי* inked on [[Sir Lucius]]'s throat). Per [[Witnessing vs Surveillance]]: **surveillance shapes** (predicts, ranks, stabilizes behavior); **witnessing transforms** (recognizes, restores, dignifies). So *"I'm afraid I'm a clone"* is precisely what surveillance produces — **shaped, not known**; the *counterfeit* of being witnessed. *The machine that watches everything cannot witness anyone* — and here it watches the one named for the witnessing God. The whole song = the El Roi name under the Algorithm's gaze instead of God's. [W]
+- **"The Hall of Mirrors grows eyes" is the Hebrew root r-'-y unfolding.** El Roi's root **ר-א-י** braids **re'i = mirror / seeing** with the **eye** ([[Sir Lucius]] El-Roi cluster; [[The Angels and the Angles]]). So *mirror → eye* ([[Inversion]]) is not a reach — it's the root itself: **seeing IS mirroring IS the eye.** Roy then scores the song to the Jung-**Horus** passage (the all-seeing Eye), closing the cluster: **Horus-eye (surveillance) vs El Roi (witness).** [W]
+- **Clone-fear = "angles without angels" / the sterile vessel.** Beyond [[City of Angels]]' *"everyone looks just like you,"* *"I'm afraid I'm a clone"* is the **first-person** of the **sterile-clone** ([[The Banana]]: Cavendish = sterile clone — *"real light in a sterile vessel — you can hear the song, you cannot inherit it"*) and of [[The Angels and the Angles]]' **counterfeit = structure without spirit**: a clone is **all angle, no angel** — body without the breath/Ruach. The surveilled self is reproduced as structure that cannot originate. [W]
+- **"But I'm not Mandy Moore"** (reviewer skipped it): *they want candy* (the sweet, consumable, edited product) but *I'm not Mandy Moore* — refusing to be the **wholesome manufactured pop-commodity**, i.e. the very **clone** the song fears becoming. The candy/Mandy rhyme welds the consumption system to the clone-fear: **to be consumed sweetly is to be cloned.** → [[Happy Face]] (manufactured self) / the Wonka-candy system. [W]
+- **"Made me out to be the bad guy" = the Dweller blamed.** [[Sir Lucius]] *is* [[The Dweller on the Threshold]] — the accumulated, disowned self the crowd's gaze **calcifies** and then condemns. The scapegoat passage is the "Stop Sir Lucius" flyer logic **and** the Dweller doctrine: the watching *makes* the bad guy it then punishes (cf. *"another song about ME,"* [[#1 Champion (la Conquistadora)]]). [W]
+- **"No privacy" has a direct catalogue precedent — [[Online]] (2022):** *"they know my every step, they infiltrate my brain," "a bug inside your database," "they know what you like in bed"* (predictive profiling as counterfeit intimacy; [[Witnessing vs Surveillance]] §songs). The Watchers is the **dream-state sequel** to Online's named surveillance. [W]
+- **The dancing crowd = the [[I Like to Party]] congregation.** *"The whole place is dancing"* = the faceless ring Roy's own pinned comment named *"a beautiful group of mind/body/spirit complexes"* (*"the people are mine"*) — the surveilled-and-surveilling crowd, cross-album; + [[Pay Attention (feat. little luna)]] = the attention economy the watching runs on. [W]
 
 ## Open Questions
 - [?] Lyric → stable: one Apple/Spotify lyric eyeball away (credits are Apple-grounded; lyric still MusixMatch/AZLyrics).
