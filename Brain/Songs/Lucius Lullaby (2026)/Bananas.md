@@ -7,10 +7,10 @@ source_quality: primary-source
 sources: [Sources/Lyrics/Bananas.md, Sources/Credits/Lucius Lullaby.md]
 related: [SONG-NotYourHomie, CHAR-SirLucius, ALBUM-LuciusLullaby, CONCEPT-Duality, CONCEPT-TheBanana]
 connections:
-  grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius]
+  grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, SONG-MothsToTheFlame]
   strong_read: [SONG-NotYourHomie, SONG-WelcomeToTheCircus, CONCEPT-Duality, CONCEPT-TheBanana, SONG-ILikeToParty]
   resonance:   [CONCEPT-Inversion, CHAR-Mary]
-referenced_by: [CONCEPT-TheBanana]
+referenced_by: [CONCEPT-TheBanana, SONG-MothsToTheFlame]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop
@@ -76,6 +76,7 @@ The private phone **call** that touched the "nonsense" motif stays **Secret-Doc 
 ## Connections
 | Node | Relationship |
 |---|---|
+| [[Moths to the Flame]] | The **spoken-word overture** (track 6) that runs seamlessly into Bananas — the *doctrine* (regress to the animal / casual cull) Bananas *enacts*. |
 | [[The Banana]] | The cross-track symbol this song names (hijacked offering / sterile loop). |
 | [[Sir Lucius]] / [[Duality]] | The id-host; the Good/Bad split, the voices. |
 | [[Not Your Homie]] / [[Welcome to the Circus]] | The songs Lucius plays off the banana (EP2/EP3); silly-surface / aggressive-underneath. |

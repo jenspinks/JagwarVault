@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius]
   strong_read: [SONG-HappyFace, SONG-LuciusLullaby, SONG-CityOfAngels, CONCEPT-CommunionVsSpectacle, CONCEPT-Inversion]
   resonance:   [CONCEPT-TheEmptyMirror, CHAR-Mary]
-referenced_by: [CONCEPT-CommunionVsSpectacle, CONCEPT-TheAlgorithm]
+referenced_by: [CONCEPT-CommunionVsSpectacle, CONCEPT-TheAlgorithm, SONG-MothsToTheFlame]
 dominant_pole: mixed
 transformation_phase: nigredo
 recursion_state: loop

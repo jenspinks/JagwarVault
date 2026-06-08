@@ -70,6 +70,15 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-08] build + integrate | Moths to the Flame (track 6) → full canon
+Folded the reviewer round (lyric gate **cleared** — Apple-verified → stable last turn). Built [[Brain/Songs/Lucius Lullaby (2026)/Moths to the Flame|Brain]] (stub → full, `SONG-MothsToTheFlame`) + [[Essays/Concepts/Songs/Moths to the Flame|Essay]] + archived [[Essays/_drafts/Moths to the Flame — analysis brief (external review)|brief]]. Paired with [[Bananas]] (Moths = doctrine / Bananas = practice; the **6→7 seam**).
+- **Reading [W]:** Lucius's spoken-word **anti-gospel** (Power mode) — debases the mystic's flight-into-flame into a **population cull**; the overture that detonates into Bananas. The **profane altar** (3 candle-slots → 1 red candle, lit from a cigarette, blown out = the demiurge move; Fire system); the **casual cull** (harm-as-product; cheerful-horror like Great Time); the **Gurdjieff inversion** `[W]` (regress-to-animal vs wake-up/labor); the **counterfeit phoenix** (burn toward a *false light* — death without rebirth); **flame = attention** (Moths / Watchers / Upload = one machine three ways).
+- **Corrections (vault context):** **"I Would Die 4 U" DROPPED** — it's **Prince, not a JT song**; reframed the death-axis vault-internally as phoenix vs *two* counterfeits (City of Angels' "never gonna die" + the moth). **Kaczynski cut.** **Magic Flute/Queen-of-the-Night** kept `[~]` as Jen's unverified ear-read; **MERCY** kept a *register*, not an archetype. No Bailey claim; no private material.
+- **Held `[?]`:** MOTH-Gallery echo; cause-vs-sequence (candle-out → vocalization); 3:1 candelabra; single-candle ↔ EP1's two red candles.
+- Album progress: **12 of 15** (remaining: Bounce 12, SOL 14).
+
+---
+
 ## [2026-06-08] concept | [[The Upload]] — spun out from [[The Pattern]] (the upload→Eye→Watchers synthesis)
 Handoff: an external "33 — the Upload Map." **Most of it was already in canon** (the [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)|"I'm 33" board]] + [[The Pattern]] already inventory the upload thesis, emanation, Eye-fractions, magic square, Jung map). The external AI reconstructed existing canon (no vault access). So I did **not** build a duplicate "map" page.
 - **Provenance was already resolved:** the board is **citable** (Roy's own artifact, Jen 2026-06-01); private message-screenshots quarantined. (Not a "never-cite-the-Doc" case — it's Roy's creation, not a reference-library.)

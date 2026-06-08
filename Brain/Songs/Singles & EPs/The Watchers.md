@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, SONG-DreamDream]
   strong_read: [SONG-CityOfAngels, SONG-PlayingToTheGods, SONG-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheAlgorithm, CONCEPT-WitnessingVsSurveillance, SONG-Online, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-SourceVsReflection]
   resonance:   [CONCEPT-Inversion, CONCEPT-TheWheel, CONCEPT-TheAngleAngel, SONG-ILikeToParty, CONCEPT-KeilimVessels, CONCEPT-TheUpload]
-referenced_by: [CONCEPT-TheUpload]
+referenced_by: [CONCEPT-TheUpload, SONG-MothsToTheFlame]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop
