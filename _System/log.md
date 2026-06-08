@@ -14,6 +14,13 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-07] build + integrate | Bad Feeling (Oompa Loompa) (track 5)
+Integrated the reviewer round into canon (Brain + Essay; [[Sources/Lyrics/Bad Feeling (Oompa Loompa)]] → **stable**).
+- **Release history grounded:** 2023-12-15 single (same day as the 2023 *Wonka* film) → album track 5; acoustic-live = track 15.
+- **Thesis (Roy's own):** *"a chocolate covered reminder to trust your gut"* — the **candy-factory alarm**; the smile that can't suppress the dread (*"I got a bad feeling 'bout you"* under *"everything's perfect here"*).
+- **Oompa-Loompa interpolation [G]** (Bricusse/Newley); **cautionary-chorus → intuition-alarm** (swaps *"perfect puzzle for you"* → *"bad feeling 'bout you"*; moved *before* collapse, not after). Wonka factory = the [[The Circus|Circus]] (nursery version); the Oompa-Loompas = **consumed labor** (the singing chorus *is* the eaten crowd) `[~]`. Toxic positivity = **system speech** (*"(They say)"*; *"nobody's crying"* = crying forbidden); cross-album twin = [[I Like to Party]]'s *"bake a truth with a lie / sell 'em the cake / don't want 'em awake"* [G cross-ref]. Consumption / on-demand cannibalism (V2). **Lucius-claimed (EP1) = alarm AND foreman** — the *Wonka*-timed release proves the paradox.
+- `[~]` moon→lunacy (That's Amore inverted; moon = Lucius's reflected light); candy-paradise = Maya. **Boundary fixed:** teeth / no-exit maze / chew-you-up = [[Welcome to the Circus]] (4), not this. Validator 131 pages · 0 errors · 33 warnings.
+
 ## [2026-06-07] build + integrate | Great Time to Be Human (track 3) + new concept [[Communion vs Spectacle]]
 Integrated the GT2BH reviewer round into canon (Brain + Essay; [[Sources/Lyrics/Great Time to Be Human]] → **stable**, Apple+Jen — capitalized archetypal-station nouns *Mother/Man/Lover/The Fountain/The Mountain/Someone/They/The Chemist* confirmed as official text). New concept **[[Communion vs Spectacle]]** (`CONCEPT-CommunionVsSpectacle`, registered → 119 IDs).
 - **Thesis:** the album's **toxic-positivity anthem** — a children's sing-along staging human history as cheerful spectacle; **the refrain is the violence** (cheer forced over horror). Companion to [[Lucius Lullaby]] (lie) + [[Happy Face]] (mask): GT2BH = the mask become a *civilization*.

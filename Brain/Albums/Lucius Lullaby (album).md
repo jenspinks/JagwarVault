@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, CHAR-Roy, SONG-TheCircleLuciusVersion, SONG-LuciusLullaby, SONG-WelcomeToTheCircus, SONG-SOL]
   strong_read: [CONCEPT-TheCircle, CHAR-Mary, CHAR-BallerinaBoy]
   resonance:   [CONCEPT-Malkhut, CONCEPT-Yesod]
-referenced_by: [ALBUM-33, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, CONCEPT-TheDwellerOnTheThreshold, SONG-1ChampionLaConquistadora, SONG-CityOfAngels, SONG-GreatTimeToBeHuman, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-PlayingToTheGods, SONG-TheCircleLuciusVersion, SONG-Weirdness, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-33, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, CONCEPT-TheDwellerOnTheThreshold, SONG-1ChampionLaConquistadora, SONG-BadFeelingOompaLoompa, SONG-CityOfAngels, SONG-GreatTimeToBeHuman, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-PlayingToTheGods, SONG-TheCircleLuciusVersion, SONG-Weirdness, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Lucius Lullaby (album)

@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
   strong_read: [CONCEPT-TheAlgorithm, CONCEPT-TheSpectacle, CONCEPT-TheAudience, CONCEPT-TheLabyrinth]
   resonance:   [CONCEPT-PanemEtCircenses, CONCEPT-TheCircle]
-referenced_by: [CONCEPT-CommunionVsSpectacle, CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-Inversion, CONCEPT-Nigredo, CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAquarium, CONCEPT-TheAudience, CONCEPT-TheLabyrinth, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheSpectacle, CONCEPT-TheVoice, CONCEPT-TheWheel, SONG-CityOfAngels, SONG-PlayingToTheGods, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-CommunionVsSpectacle, CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-Inversion, CONCEPT-Nigredo, CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAquarium, CONCEPT-TheAudience, CONCEPT-TheLabyrinth, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheSpectacle, CONCEPT-TheVoice, CONCEPT-TheWheel, SONG-BadFeelingOompaLoompa, SONG-CityOfAngels, SONG-PlayingToTheGods, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # The Circus

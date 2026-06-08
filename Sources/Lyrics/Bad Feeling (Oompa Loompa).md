@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Apple / Shazam / Genius + Jen in-hand (2026-06-07)"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 ---
@@ -11,7 +11,7 @@ ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- (release metadata pending — on *Lucius Lullaby*, 2026; add Apple/Spotify URLs at verification)
+- **Originally a single, 2023-12-15** (Big Loud Rock / Warner Chappell), timed to the 2023 *Wonka* film; folded into *Lucius Lullaby* (2026) as **track 5**; acoustic-live version = **track 15** (MOTH Gallery bonus). Writers incl. **Leslie Bricusse & Anthony Newley** ([[Sources/Credits/Lucius Lullaby]]). **Interpolates** "Oompa Loompa," *Willy Wonka & the Chocolate Factory* (1971). Roy's framing: *"a chocolate covered reminder to trust your gut."*
 
 ## Lyrics
 
