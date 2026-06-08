@@ -53,6 +53,8 @@ From [[Sources/Transcripts/Atwood-2018-Loser|Atwood, 2018]] (the launch-day inte
 - The songs felt like *"gifts or downloads."*
 - **Opening with *Loser* was deliberate** — Roy framed it as *"the lens to view the rest of the Jagwar Twin world through."*
 
+From [[Sources/Transcripts/MB-Conversation-Jagwar-Twin (Mental Health, Cancel Culture)|the MB conversation]] (Roy, **retrospective** on the title): *"human beings are wired for pattern recognition… I was feeling, what's happening to the world, this pattern — if we keep separating into more and more separate pieces… we're gonna hit the metaphorical flood. There's flood mythology all around the world… and then a couple years later we saw COVID and extreme polarization."* And the resolution-vector: *"both sides have valid points… we need to come together — that's where the new album's headed."* → **the flood = polarization / separation**, named by Roy as *pattern-recognition*, with the coming-together turn pointing at *33*. [G] *(Roy's stated meaning of the title, retrospective — §Cautions still applies to any system-level read.)*
+
 From Roy's launch press (cited via [[Sources/Reference/Subject to Flooding — context & sources (research dossier)|the research dossier]]):
 - *"With the fragile state of the world emotionally, physically, environmentally, and politically we should all let go of ego… After all, we are all Subject to Flooding."* — the title's stated meaning.
 - *"The world has never felt more disconnected… but we have all the tools at our disposal to connect, at all times."* (Atwood 2018)
@@ -265,5 +267,6 @@ The sun/moon, original/copy, signal/noise, living-symbol/dead-symbol distinction
 - [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] — EP3 Lucius / *Move To You* collision; EP1 Lucius authorship claims (Happy Face, Bad Feeling).
 - [[Sources/Credits/Subject to Flooding]] — composer fields, inherited samples, Essex flag.
 - [[Sources/Reference/Subject to Flooding — context & sources (research dossier)]] — finding-aid; Roy's launch-press mission statement.
+- [[Sources/Transcripts/MB-Conversation-Jagwar-Twin (Mental Health, Cancel Culture)]] — Roy's retrospective flood = pattern-recognition / polarization → COVID; "we need to come together" → the turn toward *33*.
 
 No private material used. No Bailey-sourcing claim made.

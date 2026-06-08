@@ -4,7 +4,7 @@ type: concept
 status: draft
 confidence: high
 source_quality: primary-source
-sources: ["Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser.md", "Sources/Lyrics/The Circle.md", "Sources/Credits/33.md"]
+sources: ["Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser.md", "Sources/Lyrics/The Circle.md", "Sources/Credits/33.md", "Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror.md"]
 related: [SONG-TheCircle, SONG-MoveToYou, CONCEPT-TheThread, CONCEPT-TheLoop, ALBUM-33]
 connections:
   grounded:    [SONG-TheCircle, SONG-MoveToYou]
@@ -46,6 +46,7 @@ The Circle is **embodied, communal, and present-tense** — Roy "feels the circl
 - **[W] Settles the construction question.** Removes the skeptical read that the Circle mythology was retrofitted from the *33* / Hall of Mirrors / Lucius-era marketing. It is documented at the **debut** press cycle, in a primary-source music interview, on the record. The "*33* grew from *Subject to Flooding*'s flood-rich soil" thesis now has a literal receipt — see [[Subject to Flooding (album)]].
 - **[W] Circle-not-Loop, by negation.** The Circle is named here through *embodied, communal, present-tense* experience — feeling it live, the crowd singing it back. That is structurally the **inverse** of the Loop as Lucius names it in [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)|*The Interview* EP3]] (*"you're in a loop and you don't even realize it"*) — private, silent, repetition-compulsion, metric-bound. Same recursive structure; opposite direction.
 - **[W] The doctrine is born through vulnerability.** It arrives attached to [[Essays/Concepts/Songs/Move To You|Move To You]] — the album's most vulnerable song, written when Roy *"felt like I was never going to 'make it.'"* The system's first naming comes not in his most assertive register but in **the song Lucius later (EP3) mocks as the forgotten flop.** The Circle is documentarily born through the very mode Lucius treats as career-killing.
+- **[G] Roy names it the origin outright (2024).** Asked what a new listener should hear first: *"I would check out 'The Circle' first. The Circle is Jagwar Twin's Genesis story"* (then Happy Face) ([[Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror|Audio Addiction, 2024]]). The keystone-as-origin reading is therefore **Roy-stated**, not only inferred from the founding myth — and he names *The Circle* as the catalogue's front door.
 
 ### Parallel anchors — the two forces have parallel slow-emergence timelines
 | Year | The Circle | Sir Lucius / the Loop |
@@ -115,4 +116,5 @@ So *"the crowd sings it back"* is the whole Circle in one image — the song ret
 ## Sources
 - **Earliest naming (2019):** [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]] (Digital Journal, 2019-09-23) — verbatim, cite the article.
 - **Founding myth (2022):** [[Sources/Lyrics/The Circle]] (Spotify-verified) · [[Sources/Credits/33]] (Roy English sole writer).
+- **"Genesis story" (2024):** [[Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror]] — Roy names The Circle as Jagwar Twin's origin / the first song to hear.
 - *No private material used.*

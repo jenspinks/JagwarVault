@@ -26,6 +26,12 @@ Roy English's own statements distinguishing the **heart / intuition / feeling** 
 
 (The creative-process face of the split — see [[Roy on Process]] for the fuller emptying/channeling cluster. The mind as a *box* that closes off receptivity; the heart as the open channel.)
 
+## The split stated in a press interview (public, 2024) — Grounded
+
+> *"The heart is the key… when I started out it was all from the heart, but then it's like, I've got to make money, make this a career — and the trap a lot of artists find is starting to write music from the head. The mind is a useful tool, of course, but it needs to be subservient to one's own heart and inner guidance system."* — Roy, [[Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror|Audio Addiction, 2024]]
+
+(The split stated cleanly in a **press interview** — not only the Mirror Sessions: *head-writing = the artist's trap; the mind subservient to the heart.* Pairs with the in-vault line *"my mind must serve my heart"* ([[Roy]]) and underwrites [[Sir Lucius]] = the head/mind pole.)
+
 ## The mind's counterfeit conviction vs. the body's true knowing
 
 > *"The mind can do a thing where it tells you that what you're doing is genius — like, 'Oh, this is genius and people don't get it' — but it feels different inside when you're having those thoughts too. It feels very different."* — Roy, [[MirrorSessions-S1-DyingEmpty]]

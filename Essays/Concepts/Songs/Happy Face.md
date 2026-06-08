@@ -7,7 +7,7 @@ related: [CHAR-SirLucius, CONCEPT-TheMask, CONCEPT-TheAlgorithm, SONG-MoveToYou,
 ---
 # Happy Face
 
-> **Provenance:** consolidated from Jen's Workshop draft (2026-06-05), re-tiered + filed by Code against the verified lyrics ([[Sources/Lyrics/Happy Face]], Spotify-stable), the theatrical transcript ([[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]], EP1+EP3), [[Sources/Credits/33]], and [[Sources/Transcripts/Knockturnal-2019-Studio-Sessions|Knockturnal 2019]]. **All lyric + EP quotes confirmed verbatim.** Secret-document / spreadsheet material is held out — see §Source-pending.
+> **Provenance:** consolidated from Jen's Workshop draft (2026-06-05), re-tiered + filed by Code against the verified lyrics ([[Sources/Lyrics/Happy Face]], Spotify-stable), the theatrical transcript ([[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]], EP1+EP3), [[Sources/Credits/33]], and [[Sources/Transcripts/Knockturnal-2019-Studio-Sessions|Knockturnal 2019]]. **All lyric + EP quotes confirmed verbatim.** Secret-document / spreadsheet material is held out; the brain-chemistry/Trojan-Horse method is now grounded on **public** interviews — see §Roy's stated method.
 
 ## Album / Position
 - **Album:** *33* (2022, Big Loud Rock) — **track 6 of 10**; 2:49. The catalogue's **highest-profile track** (70M+ streams; a pre-album breakthrough single).
@@ -55,8 +55,12 @@ Lucius claims Happy Face *by name* in 2026 (EP1, *"those are me"*) — but the s
 - **Jung — persona / shadow** [~]: the social mask weaponized; the Shadow using the Persona for commercial leverage.
 - **Gurdjieff — Objective Art** [~]: art built as a *functional tool* to induce a calculated internal state rather than as subjective expression — the song *is* the sedation it describes (cf. the Objective-Art note on [[Essays/Concepts/Songs/Superhuman (Interlude)]]).
 
-## Source-pending — held out of the analysis (NOT grounded)
-A thread tying *Happy Face* to a **deliberately-engineered "trick the brain chemistry" method** (Objective Art applied as craft; an alchemical *Stone* / invisibility motif) has been flagged for this song. **It is not yet grounded to a citable public source, and is held out — not filed as `[G]`/`[W]` in the analysis above.** Per [[_System/Boundaries]], a private working document may *inform* understanding but is never quoted, named, or used to ground a vault claim; such an idea must be re-grounded on an independent public source or held as flagged speculation. **Verification lead:** the phrase *"brain chemistry"* appears in at least three **Mirror Sessions** transcripts (Briana Cuoco, Calum Hood, S1-DyingEmpty) — if Roy states the trick-brain-chemistry method *there*, it grounds out to a public source and can enter cited. Until that specific line is confirmed, the thread stays pending.
+## Roy's stated method — now GROUNDED on public interviews (2026-06-07) [G]
+The thread tying *Happy Face* to a **deliberately-engineered "trick the brain chemistry" method** — previously held out as private-doc-only — is now **grounded on the record, no private source needed:**
+- **The "Trojan Horse" method, named by Roy:** *"I call it Trojan Horse music… the purpose of a chorus, something to sing along with, is like a mantra. Take 'Happy Face' — you're saying 'put on a happy face and everything's okay,' a positive mantra, but the music is pretty dark and twisted-sounding."* The 2019 release engineered the neurology directly: at **deathofmygeneration.fun** you had to **hold a smile** (facial recognition) to play the song — *"when you're forced to smile for three and a half minutes… it does something to the neurology and the chemicals in your brain."* Every JT song is tuned to **444 Hz, a "healing frequency."* ([[Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror|Audio Addiction, 2024]].) `[G — Roy's stated claim; the neurology/Hz efficacy is transcribed, not endorsed.]`
+- **The stove = alchemical brew / shadow-work:** asked about *"ticking like a time bomb,"* Roy: *"it's more like a cycle… 'flip the switch, flip the stove, we're all gone now, let's start the show'… an alchemical brew, you have a stove brewing… it's shadow work where you're making something kind of sinister — you're casting the shadow to make people think something that's not real… but that darkness has a limit."* ([[Sources/Transcripts/MB-Conversation-Jagwar-Twin (Mental Health, Cancel Culture)|MB conversation]].) Grounds the **mask-as-deception** reading and the cross-track **stove** (↔ [[Bananas]]) in Roy's own words. `[G]`
+
+This is **Gurdjieff's Objective Art stated as method** — the song built as a functional tool to induce a calculated internal state (the Resonance note above, now with an authorial warrant). *(Still unconfirmed-public: the specific alchemical-*Stone* / invisibility sub-motif — keep only that piece flagged.)*
 
 ## Connections
 | Node | Relationship |
@@ -70,7 +74,7 @@ A thread tying *Happy Face* to a **deliberately-engineered "trick the brain chem
 
 ## Cautions
 - **Theatrical ≠ autobiographical.** Lucius claiming Happy Face is a *character's on-screen claim* (grounded as such), not Roy stating the song's "real" author. The legal credit is Roy English & Matt Pauling.
-- The §Source-pending thread must not be upgraded to grounded without a public anchor.
+- ✓ The former §Source-pending thread is now grounded on **public** interviews (Audio Addiction 2024 + MB) — see §Roy's stated method. Only the alchemical-*Stone* / invisibility sub-motif remains held pending.
 
 ## Sources
 - [[Sources/Lyrics/Happy Face]] — Spotify-verified (stable).
@@ -78,4 +82,6 @@ A thread tying *Happy Face* to a **deliberately-engineered "trick the brain chem
 - [[Sources/Credits/33]] — Roy English & Matt Pauling (writers).
 - [[Sources/Transcripts/Knockturnal-2019-Studio-Sessions]] — *"creating happiness is all I want to do."*
 - [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]] — the Circle-naming on *Move To You* (the Loop keystone, §1).
+- [[Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror]] — "Trojan Horse music," the deathofmygeneration.fun forced-smile experiment, 444 Hz (§Roy's stated method).
+- [[Sources/Transcripts/MB-Conversation-Jagwar-Twin (Mental Health, Cancel Culture)]] — the stove = alchemical brew / shadow-work / "casting the shadow" (§Roy's stated method).
 - Frameworks: C. G. Jung (persona / shadow); G. I. Gurdjieff (Objective Art). *No private material used.*

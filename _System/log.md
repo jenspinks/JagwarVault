@@ -14,6 +14,19 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-07] propagation | folded the 3-interview batch into canon — [W]→[G] promotions
+Folded the Honey Podcast / MB Conversation / Audio Addiction interviews into 8 canon pages, promoting now-grounded reads with public citations:
+- **[[Happy Face]] (Brain + Essay) — the big one:** the *"trick the brain chemistry / Objective-Art-as-method"* thread that was **held out as private-doc-only** is now **GROUNDED PUBLIC** — Roy's *"Trojan Horse music"* + the deathofmygeneration.fun **forced-smile experiment** + **444 Hz** (Audio Addiction) and the **stove = "alchemical brew / shadow-work / casting the shadow to make people think something that's not real"** (MB). Essay §Source-pending → §Roy's stated method `[G]`; only the alchemical-*Stone*/invisibility sub-motif stays flagged.
+- **[[BALLERINA BOY]] (Brain):** the *"you're not a real boy"* wound is now **autobiography Roy narrates publicly** (MB: dance class, only boy, came home crying; dance-videos = shadow-work). Triple-grounded (lyric + Masquerade bio + interview).
+- **[[The Circle]] (concept):** Roy calls it **"Jagwar Twin's Genesis story"** outright (Audio Addiction 2024) — Circle-as-origin now Roy-stated, not only inferred.
+- **[[Roy]] (Brain):** added deep-depression/anxiety biography ("couldn't go to the grocery store"), the mirror-mission ("be the clearest mirror"), the industry-deprogram independent turn (manager Joshua).
+- **[[Roy on the Heart-Mind Split]]:** added the **press** statement of the split ("the mind subservient to the heart"; head-writing = the trap) — public, not only Mirror Sessions.
+- **[[Sir Lucius]]:** Roy's first-person public description of the **fame-mask / played-character trap**, named *"not a good feeling"* + the isolated-kingdom (Honey Podcast).
+- **[[Subject to Flooding (album)]]:** Roy's **retrospective** flood = pattern-recognition / polarization → COVID thesis (MB), framed retrospective per §Cautions.
+- **Remaining (offered, not done):** Soul Is A Star / Joni sign-off account; the Pattern monomyth ("saving yourself is saving the world"); the Bhasker nursery-rhyme method → Lucius Lullaby tagline; Down to You / I Like to Party mirror anchors.
+
+---
+
 ## [2026-06-07] ingest | interview — Audio Addiction Media (2024-01-12, Jen-cleaned) — Trojan Horse / Genesis / mirror
 Ingested [[Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror]] — **Jen-cleaned** transcript (ASR fixes + flags documented), filed `stable`. Strong **public** anchors (all on-record):
 - **"Trojan Horse music"** `[G]` — Roy's own public term (sing-along mantra carrying dark content; Happy Face + the deathofmygeneration.fun forced-smile experiment + **444 Hz "healing frequency"**). Public source for the Trojan-Horse reading — **no private phone call needed.** (Already in canon via Loser/Manifesto; this is a cleaner anchor.)
