@@ -70,6 +70,13 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-07] stub | [[The Jaguar]] symbol page (resolves the dangling link; houses the anti-drift guard)
+Created [[The Jaguar]] (`CONCEPT-TheJaguar`, registered) — previously a dangling link from [[Jagwar Twin]] §Symbols. Per a chat suggestion, but **split into its two claims** so it doesn't re-lock the open question:
+- **Asserted (grounded):** the Jaguar = the project's **emblem of seeing** (Roy-sourced Mayan etymology) + the **container/frame**, and is **NOT a fourth peer-character** — explicit guard against re-reading it as a tetramorph claimant (that 1:1 stays in the Ezekiel paratext only). This is the anti-drift line, written down.
+- **Held open `[?]` (NOT asserted):** its *order vs Mary* — Reading A (genderless capacity distinct from Mary) vs Reading B (Roy deliberately collapses seer/seeing). The chat's "genderless capacity, distinct in order from Mary" is recorded **as Reading A**, not settled fact — per [[Jagwar Twin]] open note + CLAUDE.md §figure-distinctness.
+
+---
+
 ## [2026-06-07] principle + open-Q | figure-distinctness is a hypothesis; the Jaguar/Mary/quaternity question held open
 Per Jen — **not locking** the four-figure / tetramorph / Jaguar-as-seeing structure; Roy plays loosely with mythology.
 - **New CORE PRINCIPLE in CLAUDE.md:** *figure-distinctness is a hypothesis, not a default* — a different axis from the existing register-collapse rule. Whether two **figures** (Mary/Jaguar, seer/string-holder, Lucius/Roy, a scriptural figure & its JT counterpart) are distinct or identical is itself `[?]`; we have **no grounding Roy keeps them apart**; he treats myth/scripture as **tools, not fixed truth** and may collapse (or split) deliberately. Enforce neither separation nor merger; collapse-or-split only when evidence warrants. *(Our clarity-preference ≠ his law.)*
