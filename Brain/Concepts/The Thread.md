@@ -27,6 +27,8 @@ In the Jagwar Twin project, the thread is most likely identified with **feeling*
 
 The thread also appears as: the song in the wings, the vowel inside the consonant cage, the angel traveling on the angle's rung.
 
+**[~] Roy-voice public anchor:** *"To create something beautiful you need to entertain **the thread of impossibility**"* (@JagwarTwin, 2026-06-07 — [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]]). Roy uses *"the thread"* for the **line one must hold to create** — the impossible kept in hand rather than cut. Same image-family (the filament you don't let go of); `[~]` (his "thread" here = the creative-impossibility line, adjacent to but not identical with the feeling/Ariadne thread — don't hard-equate).
+
 ---
 
 ## Connection to The Labyrinth

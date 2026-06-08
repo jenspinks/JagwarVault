@@ -70,6 +70,15 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-09] ingest | @JagwarTwin June-2026 X aphorisms (public) + Inside-of-the-Inside transcript flagged (not folded)
+- **New source:** [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]] — public @JagwarTwin posts (Jun 1–7 2026) + the bio. Wired the canon-relevant ones:
+  - *"The truth is a spectrum but a lie is a lie"* (Jun 6) → [[Sir Lucius]]: the **ethic underneath the deceptive-truth doctrine, in Roy's voice** — Roy holds truth = a spectrum **but keeps the floor ("a lie is a lie")** that Lucius drops. Clean Roy↔Lucius split.
+  - *"…entertain the thread of impossibility"* (Jun 7) → [[The Thread]] (`[~]` Roy-voice anchor; the creative-impossibility line, adjacent to the feeling/Ariadne thread — not hard-equated).
+  - Bio *"There's two sides to every story"* → live public anchor for the [[Duality]] / [[Sir Lucius]] artist-tag.
+- **"Inside of the Inside" transcript** (Google Doc, Jen 2026-06-09) — recorded as a **`citable: false` finding-aid link** in [[Master Source List]] §9; **NOT folded.** It's the NotebookLM output; before mining its citations I need the **uploaded source-set** (public vs vault/Secret-Doc/private — determines citable vs circular). Asked Jen.
+
+---
+
 ## [2026-06-09] read + adjudicate | The Wise One's two faces ("all of us" is valid); source-discipline on two AIs
 Jen's read: the Wise One = "all of us" / the template for completing the circle (a Jesus, a Bowie, a Prince — *us, remembering*), symbolic like Jesus. **Verdict: valid** — not a rival to the Sophia/Shekinah read but its **other face**, grounded on the song's own doctrine (the song hidden *"inside their wings"* = inside every Jagbar/everyone).
 - **Folded into [[Essays/Concepts/Songs/The Circle]] (§10) + [[Brain/Songs/33 (2022)/The Circle]]:** the Wise One has **two faces** — (1) **cosmic/source** (she *was* the Maker → Sophia/Shekinah / [[Mary]]'s register) and (2) **immanent/collective** (the template of remembrance any of us instantiates — the **Christ-as-exemplar** pattern; ties to title **33** = Christ's age `[~]`). **Both at once** via the Gnostic hinge: the spark inside each, *remembered*, reunites with the source → personal awakening = reunion with the cosmic Maker. Updated the "Maker/Wise-One = ?" open question to include the collective-template option.
