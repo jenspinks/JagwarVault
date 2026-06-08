@@ -2,32 +2,108 @@
 type: quote
 citable: true
 status: stable
-verified_against: ["Screenshot of x.com/JagwarTwin profile + posts, Jun 1–7 2026 (Jen, 2026-06-09)"]
+verified_against: ["Screenshots of x.com/JagwarTwin profile + posts, Apr 11 – Jun 7 2026 (Jen, 2026-06-09)"]
 ingested: 2026-06-09
 ingest_source: "Public X/Twitter @JagwarTwin (verified screenshots, Jen 2026-06-09)"
 ---
-# Roy X Posts — June 2026 aphorisms (@JagwarTwin) (Source)
+# Roy X Posts — Spring 2026 (Apr–Jun, @JagwarTwin) (Source)
 
-Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter, the main Roy/JT account; joined Dec 2008, ~30.6K followers). **No interpretation here** — analysis lives in Brain/ and Essays/. Roy-voice on the main account (not signed Sir Lucius).
+Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT account; joined Dec 2008, ~30.6K followers). **No interpretation here** — analysis lives in Brain/ and Essays/. Roy-voice on the main account (not signed Sir Lucius unless noted). *(Filename says "June"; this file now covers the full Apr–Jun 2026 run.)*
 
 ## Bio (current)
-> "🐆 ☉ **There's two sides to every story** ☉ 🛶 🥥" *(emojis approximate — jaguar + sun cluster)* · link: keychain.club/jagwartwin
+> "🐆 ☉ **There's two sides to every story** ☉ 🛶 🥥" *(emojis approximate)* · link: keychain.club/jagwartwin
 
-→ The **"two sides to every story"** artist-tag (already in canon via [[Duality]] / [[Sir Lucius]]) now has a **live public anchor** (the X bio).
+## Posts (verbatim, newest → oldest) [G]
+**June**
+- **[06-07]** *"To create something beautiful you need to entertain the thread of impossibility."* → [[The Thread]].
+- **[06-06]** *"The truth is a spectrum but a lie is a lie."* → [[Sir Lucius]] (the ethic under the deceptive-truth doctrine).
+- **[06-04]** *"I have hyper focus man."*
+- **[06-04]** *"Love requires tremendous courage."*
+- **[06-01]** *"Lead or be led astray."*
 
-## Posts (verbatim) [G]
-- **[2026-06-07]** *"To create something beautiful you need to entertain the thread of impossibility."*
-- **[2026-06-06]** *"The truth is a spectrum but a lie is a lie."*
-- **[2026-06-04]** *"I have hyper focus man."*
-- **[2026-06-04]** *"Love requires tremendous courage."*
-- **[2026-06-01]** *"Lead or be led astray."*
+**May**
+- **[05-28]** *"Truth may walk the earth in an unlikely disguise."* → **deceptive-truth** (truth *in disguise*); [[Sir Lucius]].
+- **[05-25]** *"Jesus is my North Star."* → Christ-as-guide; [[The Circle]] §Wise-One ("all of us"/Christ-exemplar); the star ([[SOL]]).
+- **[05-25]** *"I'm here to serve Jesus."* → service/vessel + Roy's stated Christianity.
+- **[05-24]** *"Gratitude bean for Matt Wallace today"* (+ a **TikTok tagged "El Roy"**; Matt Wallace = producer). *"El Roy"* handle = the **El Roi** signature ([[Witnessing vs Surveillance]] / [[Sir Lucius]]).
+- **[05-22]** *"The rose blooms in the center of the cross."* → **Rosicrucian rose-cross** (Roy-voice anchor for the board's rose-cross/Venus material; [[The Pattern]]).
+- **[05-22]** *"Done being a person. I'm just a vessel for God."* → **the vessel doctrine, explicit** ([[The Upload]] / [[The Pattern]]; the song-as-download/gift).
+- **[05-14]** *"Garage bands don't exist anymore because millennial parents don't have garages."*
+- **[05-13]** *"When did the men of the world decide to start dressing like toddlers?"*
+- **[05-13]** *"My first untoasted sandwich in years."*
+- **[05-11]** *"Roy just needs to survive invisibility."* → **the invisibility theme**; Roy in 3rd person (the split); [[Roy]].
+- **[05-11]** *"Put it in the lore cannon"* [sic] → Roy frames the work as **lore/canon** (meta).
+- **[05-11]** *"If you saw me you would love me. But i sometimes i can't see myself."* → **El Roi / the unseen self** (can't see myself); [[Witnessing vs Surveillance]] / the Empty Mirror.
+- **[05-11]** *"Unexpected roads."*
+- **[05-08]** *"You gotta survive invisibility."* → invisibility (×3).
+- **[05-08]** *"Everyone says don't listen when other people criticize you, but the real question is can you not listen when you criticize yourself?"* → the inner critic / self-attack (the mind; [[Sir Lucius]]).
+- **[05-05]** **sir lucius / BMRC underground event announcement:** *"sir lucius and the BMRC would like to cordially invite you underground. Los Angeles. At the underground garage (secret location to be disclosed). May 17th… We will be filming something very special."* (+ partiful link; underground-garage crowd image, "Made with AI"). → **PUBLIC anchor for the May-17 underground EP-filming event** (BMRC, sir lucius). *Boundary: the **event's existence/announcement is public**; what was filmed + said off-camera there is **private** (cf. the in-person banana=sterile witness, [[Sources/Quotes/Roy IG Reel - Bananas (sterile gloss)]]).*
+- **[05-03]** *"What if music was never meant to be recorded? What if it was never meant to be trapped in time?"* → the transmission/live doctrine; Time.
 
-## Why they matter (flags only — interpretation lives in Brain/Essays)
-- **"The truth is a spectrum but a lie is a lie"** — Roy-voice on truth, and the **ethic underneath the Lucius exploit:** [[Sir Lucius]]'s public doctrine is *"only tells the truth, but the truth can be deceiving"* (2024). Roy holds *truth = a spectrum* (it can be shaded/bent) **but keeps a hard floor — "a lie is a lie."** Lucius weaponizes the *spectrum* (deceive without technically lying); Roy keeps the *floor* Lucius drops. A clean Roy↔Lucius ethical distinction in Roy's own words. → [[Sir Lucius]], [[Inversion]], [[Duality]].
-- **"…entertain the thread of impossibility"** — *"thread"* + creation-requires-holding-the-impossible → [[The Thread]] (the line you must not sacrifice) + the vessel/creation doctrine.
-- **"Lead or be led astray"** — agency vs being-led-astray (the Dweller/sedation pole; cf. [[Sir Lucius]] / [[Lucius Lullaby]] "led astray").
-- **"Love requires tremendous courage"** — Roy-voice, heart-pole ([[Roy]] / the Heart-Mind split).
-- **"There's two sides to every story"** — the Roy/Lucius duality, stated as the account's standing self-description.
+**April**
+- **[04-29]** *"Nothing can be loved or hated unless it is first understood — da Vinci."* (Roy quoting da Vinci.)
+- **[04-29]** *"Time is a butcher under your heel."*
+- **[04-26]** *"No two stars are the same."* → distinct stars (Circle vs Loop — distinct vs identical); [[SOL]] / [[Sources/Lyrics/Soul Is A Star]].
+- **[04-25]** *"When your attention is off yourself your intuition has the space to operate."* → [[Roy on the Heart-Mind Split]] (intuition vs self-focus).
+- **[04-24]** *"'bounce' official visualizer — out now"* (+ YouTube: *Jagwar Twin, sir lucius — bounce (Visualizer)*; underwater classical bust w/ face-paint). → public source for **[[Bounce]]** (track 12).
+- **[04-21]** *"Every person has it inside of them. The trick is getting it inside out."* → **the song hidden inside everyone** → [[The Circle]] §Wise-One ("all of us"; inside-of-the-inside, *getting it inside out*).
+- **[04-18]** *"Happy birthday"* (+ image of the **"I'm 33 this year" board**, "Jagwar Twin | It's Your Time," its-your-time.jagwartwin.com). → **the board posted PUBLICLY** on Roy's birthday → confirms the artifact's public status ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] / [[The Pattern]] / [[The Upload]]).
+- **[04-18]** *"You are always who you are."*
+- **[04-17]** *(reposted @2times_eth)* *"'Playing to the Gods' — @JagwarTwin really just popped up. There is something more to this whole universe."* (Roy amplified — reception.)
+- **[04-17]** *"If it's happening for me it's happening for everyone."* → **the collective / "all of us"** ([[The Circle]] §Wise-One).
+- **[04-14]** *"Everyone's a guru. We are now fully in the aquarium."* → already canon ([[Sources/Quotes/Roy X Post - Everyone's a Guru (Aquarium)]]); date-anchored 2026-04-14.
+- **[04-13]** *"The waters are rising but so am I."* → the flood ([[Subject to Flooding (album)]]).
+- **[04-13]** *"Good morning NYC… Watch 'bananas' now on #YouTubeMusic"* (+ Times Square billboard: *Jagwar Twin & sir lucius — bananas*). → Bananas promo.
+- **[04-11]** *"I will have no weekenders working with me."*
+- **[04-11]** *"Jagwar will always throw off the wrong rider 🐎"* → the Jagwar resists the inauthentic rider (the seer/mirror can't be ridden by the false self); [[The Jaguar]].
+- **[04-10]** *"I am the shore. I am not the wave."* + *"I'm the one who stays."* → the **eternal/stable self** vs the transient; the stayer; [[Roy]] / [[The Circle]] (Source).
+- **[04-10]** *"The brightest lights cast the deepest shadows."* → the **light-bearer casts the shadow** ([[Sir Lucius]] / [[The Light-Bearer]] / [[Duality]]).
+- **[04-09]** *"Understanding is only understood in silence."* → [[The Voice / Silence]] / the Mouth.
+- **[04-09]** *"The only way to know is to let go."* → letting-go / ego-dissolution (the vessel; the 2018 origin).
+- **[04-08]** *"Baptize America."* → Christian frame.
+- **[04-07]** *"I would map a crow onto Mercury but that's just personal. I don't recommend you do it."* → **Roy's OWN anti-overfit caution** — the [[The Pattern]] "license the lens, not a master key" guard, in his voice.
+- **[04-05]** *"Happy thanksgiving everyone"* (in April — off-season/inversion humor).
+- **[04-04]** *"Nothing is evil in the beginning."* → innocent origin / **evil is acquired** ([[Sir Lucius]] Dweller-accumulates; [[Nigredo]]).
+- **[04-03]** *"Shoutout to SQM for the support."*
+- **[03-30]** *"I had a dream / In this dream I was no one."* → dream + **ego-dissolution** ("no one" = the vessel/no-self).
+
+**March (album-release era — *lucius lullaby* dropped 03-27)**
+- **[03-29]** *"The way you spend you weekends says a lot about you."*
+- **[03-29]** *"The mind is the slayer of the real / We must slay the slayer."* → **Blavatsky, *Voice of the Silence*** (Theosophy); **mind = the slayer = [[Sir Lucius]]** ([[Roy on the Heart-Mind Split]]).
+- **[03-28]** *(reposted Tarrantend: 🧐🍏🗡 @JagwarTwin + Lucius street-art, "People love the songs I write")* — 🍏🗡 Lucius mark; reception.
+- **[03-27]** *"You can't see something for someone else."* → each must do their **own seeing/remembering** ([[The Circle]] §Wise-One "all of us"; El Roi).
+- **[03-27]** *"lucius lullaby out now"* (reply @onetwoOMG *"Things come in threes"* + triptych w/ rabbit-ears + apples) → release; the **three/triad** (cf. Moths candelabra 3-slots).
+- **[03-26]** *"It cant be stopped. 'lucius lullaby' is out everywhere"* (+ video: Lucius, red coat, **STOP SIR LUCIUS flyers**, "as we speak") → *"can't be stopped"* (EP6); the STOP-SIR-LUCIUS campaign.
+- **[03-26]** *"We must stop him"* (q @inespboc *"Flyer up!!!"* + STOP SIR LUCIUS flyer) → the accusatory-crowd/scapegoat campaign ([[The Watchers]] / [[City of Angels]]).
+- **[03-26]** *"It can be anything / But it can't be everything / And it can't be nothing."* → identity requires **limit/definition** (vs the formless).
+- **[03-26]** *"STOP SIR LUCIUS"* (+ video: LA overpass banner) → the campaign, real-world.
+- **[03-23]** *(reposted MERCY **@Unimerce1** 🗡 "Now you are a clown"; reposted Jen @calamityjenntx "Jericho, when the walls fell?")* — **MERCY's handle = @Unimerce1**; Lucius-as-clown.
+- **[03-23]** *"I've been a warrior / I've been a priest / I have become nothing."* → roles shed → **ego-dissolution** ("become nothing" = the vessel).
+- **[03-23]** *"sir lucius makes a surprise appearance during the 'lucius lullaby' album premiere. He leaves the music industry with one line.. Watch the full speech: youtu.be/aCftmfU_YpA"* → **PUBLIC video of the premiere speech** ([[Sir Lucius]] §Three Modes / "Speech (Power)").
+- **[03-21]** *"What a great time to be human"* (q @onetwoOMG dog-on-couch *"But in a mirror I'm God!"*) → [[Great Time to Be Human]] + the mirror-godhood (Empty Mirror).
+- **[03-20]** *"3/27 pre-save 'lucius lullaby'"* (+ video: **Lucius at the candelabra table, checkered floor, fruit bowl**) → public anchor for the **[[Moths to the Flame]] candelabra visual**.
+- **[03-19]** *"Dear B you slipped into something new."* `[?]` ("B" = ?).
+- **[03-15]** *"We can get so focused on being perfect that we never become what we are meant for."*
+- **[03-15]** *"For the first time ever / Seeing it l2l"* (eye-to-eye).
+- **[03-15]** *"I am"* (q Tichotlapka *"User Mozart's not your homie"* + Lucius GIF) → **"I AM"** (divine self-naming) + [[Not Your Homie]] / Mozart.
+- **[03-15]** *"Roy and the 6 pointed star"* (q Tarrantend **ROY tarot card** — sword, hexagrams) → the **6-pointed star / hexagram** (as-above-so-below; [[The Pattern]]) + [[Roy]].
+- **[03-15]** *"Meet David Bowie."* → **Bowie** (the exemplar — "a Jesus, a Bowie, a Prince"; [[The Circle]] §Wise-One).
+- **[03-14]** *"Slow down Mozart."* → **Mozart** (the Moths / *Magic Flute* thread, Roy-voice).
+- **[03-13]** *"sir lucius has issued new uniforms. Chaos Club tees + Welcome to the Circus hoodies… The BMRC thanks you for your continued service."* (+ Lucius-face merch) → **BMRC** + Chaos-Club/Circus merch ([[The Boss]]/BMRC).
+- **[03-13]** *"lucius lullaby is coming"* (+ laylo + closed-eyes video) → promo.
+- **[03-13]** *"Artistic integrity or a strong self sabotaging mechanism?"* → self-sabotage / the inner critic.
+- **[03-12]** *"3 = 🪐 / 2+7 = 🌕 / 2+2+6 = 🐇"* → **number-correspondence** (the board's gematria; [[The Pattern]]); the **🐇 = March Hare / Lucius's rabbit-ears**.
+- **[03-12]** *"The year begins with Janus and the March Hare."* → **Janus = two-faced / [[Duality]]**; the **March Hare = the rabbit-ears iconography** ([[Sir Lucius]]).
+- **[03-12]** *"A good boy does not make a good man."* → the **"good boy" wound** ([[Essays/Concepts/Songs/Ballerina Boy]] — "prayed to be good"; [[Roy]]).
+- **[03-12]** *"This is me"* (q @onetwoOMG boy-by-tree) → identity.
+
+## Why they matter (load-bearing flags)
+- **Roy's stated Christianity / Christ-as-guide** (*"Jesus is my North Star," "I'm here to serve Jesus"*) + **collective "all of us"** (*"every person has it inside… inside out," "if it's happening for me it's happening for everyone"*) = **public Roy-voice grounding for the [[The Circle]] Wise-One "all of us / Christ-as-exemplar" read** (Jen's read, prev. `[W/~]` — now anchored).
+- **The vessel doctrine, explicit:** *"Done being a person. I'm just a vessel for God."* → [[The Upload]] / [[The Pattern]] (song-as-download; the 2018 ego-dissolution origin, now restated 2026).
+- **Deceptive-truth (×2):** *"truth is a spectrum but a lie is a lie"* + *"truth may walk the earth in an unlikely disguise"* → [[Sir Lucius]].
+- **Rosicrucian rose-cross, Roy-voice:** *"the rose blooms in the center of the cross"* → [[The Pattern]] (board rose-cross/Venus).
+- **Invisibility + the unseen self** (×3 + *"can't see myself"*) → [[Roy]] / El Roi / [[Witnessing vs Surveillance]].
+- **Board is public** (birthday post) + **underground event is public** (May 5) — provenance anchors.
 
 ## Citation
-- @JagwarTwin (X/Twitter, verified), posts dated 2026-06-01 → 2026-06-07; bio current as of 2026-06-09. Jen screenshots.
+- @JagwarTwin (X/Twitter, verified), posts dated 2026-04-11 → 2026-06-07; bio + captures as of 2026-06-09 (Jen screenshots).

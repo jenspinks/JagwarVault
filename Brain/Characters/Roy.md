@@ -45,6 +45,7 @@ Roy (X, 2026-04-14): *"Everyone's a guru. We are now fully in the aquarium"* ([[
 ## Moves
 - [W] Arc: buried Ballerina Boy (Malkhut) → collapse at 35 → toward unresolved. Resolution stated: "my mind must serve my heart."
 - [?] Roy ≈ Tiferet (heart center / savior archetype) — inflation risk; identification-vs-service trap. Esoteric, hedged.
+- **Roy-voice public anchors (X, 2026; [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]]):** the **stable/eternal self** — *"I am the shore. I am not the wave"* + *"I'm the one who stays"* (04-10); the **good-boy wound** — *"A good boy does not make a good man"* (03-12; cf. age-7 "prayed to be good," [[Essays/Concepts/Songs/Ballerina Boy]]); the **vessel / no-self** — *"I have become nothing"* / *"in this dream I was no one"* (03-23 / 03-30).
 
 ## Open Questions
 - [ ] Tiferet reached vs. served?

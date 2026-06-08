@@ -12,6 +12,10 @@ Roy English's own statements distinguishing the **heart / intuition / feeling** 
 
 **This is the single most theologically load-bearing statement in the cleaned Mirror Sessions set.** Roy, in his own voice and unprompted, ties **the Mind pole of the Heart/Mind split to Lucifer** — directly underwriting the vault's reading of [[Sir Lucius]] as the intellect/mind figure and the [[The Light-Bearer]] (Lucifer = light-bearer) material. He frames it as "mythology" (his stated substrate — cf. the "modern mythology approach" cornerstone in [[Roy on the cosmology (Manifesto)]]). S1 completes the thought: the mind "can also be the worst thing" / "is potentially an adversary at times" — the mind as **tool *and* adversary**.
 
+> *"The mind is the slayer of the real / We must slay the slayer."* — Roy (@JagwarTwin, 2026-03-29; [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]]).
+
+(A near-verbatim **Blavatsky** line — *The Voice of the Silence*: *"The Mind is the great Slayer of the Real. Let the Disciple slay the Slayer."* Roy posting it publicly **grounds the mind-pole as the adversary-to-be-overcome** in his voice — the Mind = the slayer = [[Sir Lucius]]; "slay the slayer" = the heart overcoming the mind. Adds **Theosophy/Blavatsky** to the named substrate behind the split.)
+
 ## The mind as a step, not the destination (rational thought is necessary but not final)
 
 > *"when we're kids, so often we know things, but we don't know why we know them… kids are geniuses — but then you have to go through this process of, 'Well, this is thinking, this is rational thought, this is how to do things.' And it's an important step, but then it's important to go back, in some ways, to your intuition — that childlike place."* — Roy, [[MirrorSessions-MaliKoa-SoloToARCO]]

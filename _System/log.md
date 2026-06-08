@@ -70,6 +70,17 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-09] ingest | @JagwarTwin X run extended (Mar 11 – Jun 7 2026) + load-bearing wirings
+Jen supplied the full spring-2026 @JagwarTwin run. Captured all in [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]] (public, citable Roy-voice). Wired the load-bearing:
+- **[[The Pattern]] — Roy's OWN anti-overfit guard, grounded:** *"I would map a crow onto Mercury but that's just personal. I don't recommend you do it"* (04-07) — he runs the correspondence-map and disclaims it as personal in one breath. The "license the lens, not a master key" guard, in the author's voice.
+- **[[Roy on the Heart-Mind Split]]:** *"The mind is the slayer of the real / We must slay the slayer"* (03-29) = near-verbatim **Blavatsky** (*Voice of the Silence*) → grounds **mind = adversary = [[Sir Lucius]]** + adds Theosophy to the named substrate.
+- **[[Sir Lucius]]:** *"Janus and the March Hare"* (03-12) sources the **rabbit-ears** (March Hare) + **Janus = duality**; *"Nothing is evil in the beginning"* (04-04) + *"brightest lights cast the deepest shadows"* (04-10) = the Dweller-origin in his voice; **premiere-speech public video** (youtu.be/aCftmfU_YpA, 03-23); the **STOP SIR LUCIUS** campaign ran publicly (03-26).
+- **[[Roy]]:** the **stable/eternal self** (*"I am the shore… I'm the one who stays,"* 04-10), the **good-boy wound** (*"a good boy does not make a good man,"* 03-12), the **vessel/no-self** (*"I have become nothing,"* 03-23).
+- Also captured (flagged, not yet wired): the **candelabra pre-save video** (03-20 → public anchor for the [[Moths to the Flame]] visual); **Bowie/Mozart** name-drops (Wise-One exemplars / Moths-Magic-Flute); **BMRC merch / "uniforms"** ([[The Boss]]); the **6-pointed star / 3=🪐 numerology** ([[The Pattern]]); MERCY = @Unimerce1.
+- **Also wired this turn:** *vessel-for-God* → [[The Upload]] (the vessel premise, Roy-explicit; the upload = its machine counterfeit); *rose-cross* → [[The Pattern]] (Rosicrucian, Roy-voice); *Jesus / "all of us" / Bowie* → [[Essays/Concepts/Songs/The Circle]] §Wise-One (the collective/Christ-exemplar face now Roy-anchored, not only inferred). *(Prior turn had wired truth-spectrum → Sir Lucius; thread-of-impossibility → The Thread.)*
+
+---
+
 ## [2026-06-09] ingest | @JagwarTwin June-2026 X aphorisms (public) + Inside-of-the-Inside transcript flagged (not folded)
 - **New source:** [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]] — public @JagwarTwin posts (Jun 1–7 2026) + the bio. Wired the canon-relevant ones:
   - *"The truth is a spectrum but a lie is a lie"* (Jun 6) → [[Sir Lucius]]: the **ethic underneath the deceptive-truth doctrine, in Roy's voice** — Roy holds truth = a spectrum **but keeps the floor ("a lie is a lie")** that Lucius drops. Clean Roy↔Lucius split.
