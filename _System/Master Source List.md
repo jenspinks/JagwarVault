@@ -227,6 +227,8 @@ External work that engages with the Jagwar Twin material analytically. Citable a
 - Reviews and music criticism
   - **Alternative Addiction** — contemporaneous *Subject to Flooding* review (*"part WALK THE MOON, part Gnarls Barkley, and part Lorde"*; praised S1's "less-is-more" production). **URL: find** (named in the STF dossier). Citable as criticism, not authorial statement.
 
+> **⚠ Laundering guard (2026-06-09).** An AI dossier may be **re-cited by another AI as a "podcast," "interview," or "source," with fabricated "quotes."** This happened with *"The Inside of the Inside"* — an **AI dossier** Gemini relabeled a "podcast," quoting AI-synthesized lines (*"blue jeans / California corner / ABC"*) as if a transcript. **Before trusting any "quote" a reviewer attributes to a source, verify the artifact type.** An AI dossier is `citable: false` regardless of what it's relabeled — it is *below* fan-reception (not even a human's published reading). Trace to primaries or drop it.
+
 **LLM research dossiers (`citable: false` finding aids — trace to the primaries they name, never cite the dossier):**
 - [[Sources/Reference/Subject to Flooding — context & sources (research dossier)]] (2026-06-05) — context/sources/reassessment of the debut; independently corroborates [[Sources/Credits/Subject to Flooding]]; maps the Essex / Sarah-Vaughan-source / collaborator-interview open items. Artifact: `claude.ai/public/artifacts/fd468b9e-886f-40af-9985-ef1dfebddeeb`.
 - [[Sources/Reference/Joni Mitchell — JT-relevant analysis (research dossiers)]] · [[Sources/Reference/Roy's Stated Influences (research dossier)]]
