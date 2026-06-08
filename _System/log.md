@@ -70,6 +70,16 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-07] build | The Watchers (standalone single) → full canon + Rockwell interpolation logged
+Folded the reviewer round for **The Watchers** (2024-10-04 single/EP, Big Loud — **not** on *Lucius Lullaby*). Upgraded the bare stub to a full Brain page (`SONG-TheWatchers`, frontmatter + tiers); wrote the Essay; created [[Sources/Credits/The Watchers]]; archived the reviewer brief → [[Essays/_drafts/The Watchers — analysis brief (external review)]].
+- **Thesis [W]:** surveillance-dream song — the self replicated/consumed/watched while unsure if it's awake, dreaming, or **already a clone.** *City of Angels*' replication turned **inward**; *Lucius Lullaby*'s sedation turned into the **alarm clock** (*wake up*). "The Hall of Mirrors grows eyes."
+- **GROUNDED INTERPOLATION [G]:** **Rockwell, "Somebody's Watching Me" (1984)** — Rockwell credited; the hook *"(I always feel like somebody's watching me)"* is verbatim. Logged in Ontology (`SONG-TheWatchers` desc), the new credits file, and Theme Tracker §Inherited-Substrate — same standing as Bricusse/Newley (*Bad Feeling*), Joni (*Soul Is A Star*), Mercer (*Dream*). MJ layer lifted off the floor (sang the original hook); MJ *intent* stays `[W]`.
+- **Reviewer flags resolved:** (a) **`[[Dream]]` precedent already committed** — [[Essays/Concepts/Songs/Dream - Dream]] + `SONG-DreamDream` document the Mercer interpolation; just cross-linked. (b) **Placement resolved** — 2024 standalone single/EP (Big Loud), not on LL. (c) **Jung paratext** = the Story already captured ([[Sources/Quotes/Roy IG Story - Jung Signs vs Symbols (The Watchers)]]).
+- **Full credit block [G]:** writers Roy English / Daly / Spraker / **Rockwell**; prod JT / Daly (rec eng) / Spraker; mix Jeff Ellis; master Becker / Mingo / Harvey; performers incl. Daly on **theremin / mellotron / accordion** (the theremin = the song's paranoia texture). Daly+Spraker = recurring production unit (*Bad Feeling* / *Great Time*).
+- **⏳ OPEN:** lyric → `stable` NOT flipped — source is MusixMatch/AZLyrics (`draft`); credits are Apple-grounded but a direct Apple/Spotify **lyric** eyeball is still owed per the source rule. Also: confirm exact 3-track EP contents. Built on public sources; Secret-Doc surveillance/clone material (e.g. unreleased "Life of the Party") held silent.
+
+---
+
 ## [2026-06-07] ingest | Jung promoted to NAMED influence (signs-vs-symbols) → deepens *The Watchers*
 Jen supplied two screenshots: a **Google Books page** (Jung, *Collected Works* vol. 18, "The Significance of Dreams" ¶416–417 — the **signs-vs-symbols** distinction, w/ the **evangelist-animals → vision of Ezekiel → Egyptian Horus & four sons → wheel/cross** example) and **Roy's IG Story** photographing that page, **music-tagged to his own song *The Watchers*** (~11h old at capture).
 - **New source:** [[Sources/Quotes/Roy IG Story - Jung Signs vs Symbols (The Watchers)]] (IG story + scholarly ID + verbatim Jung ¶416–417).

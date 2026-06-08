@@ -111,7 +111,7 @@ hand-maintained thereafter.
 | `SONG-MAGIK` | MAGIK | Singles & EPs (title track styling; "EP" dropped per AZLyrics) |
 | `SONG-Shine` | Shine | Subject to Flooding (2018), track 13 — confirmed via MusicBrainz |
 | `SONG-SideQuest` | SideQuest | Singles & EPs ("EP" dropped per AZLyrics) |
-| `SONG-TheWatchers` | The Watchers | Singles & EPs |
+| `SONG-TheWatchers` | The Watchers | Singles & EPs · 2024-10-04 single/EP (Big Loud); **interpolates Rockwell's "Somebody's Watching Me" (1984)** — credited; NOT on Lucius Lullaby (2026) |
 | `SONG-Dumbledore` | dumbledore | Singles & EPs ("EP" dropped per AZLyrics; lyric ties to MAGIK) |
 | `SONG-TomorrowANGLEOFETERNITY` | tomorrow (ANGLE OF ETERNITY) | Singles & EPs |
 | `SONG-PreciousTime` | Precious Time | Subject to Flooding (2018), track 12 — confirmed via MusicBrainz |

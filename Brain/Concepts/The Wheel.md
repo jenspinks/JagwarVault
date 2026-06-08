@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus]
   strong_read: [CONCEPT-TheCircus, CONCEPT-Inversion, CONCEPT-Fire]
   resonance:   [CONCEPT-TheCircle, CONCEPT-TheAlgorithm]
-referenced_by: [CONCEPT-Fire]
+referenced_by: [CONCEPT-Fire, SONG-TheWatchers]
 review_date: 2026-11-16
 ---
 # The Wheel

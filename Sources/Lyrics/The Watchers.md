@@ -99,5 +99,5 @@ Na na, na na
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen). Single-source; cross-check against official release to flip `status` to `stable`.
-- Note for analysis: surveillance/watching ("somebody's watching me," "no privacy," "Who's watching me?"); "I'm afraid I'm a clone"; "Wake up" (awakening); "tried to make me out to be the bad guy" (framing). Interpolates Rockwell.
+- Ingested 2026-05-16 from AZLyrics (via MusixMatch, pasted by Jen). **Credits now Apple-grounded** (2026-06; [[Sources/Credits/The Watchers]]) and the hook *"(I always feel like somebody's watching me)"* is **interpolation-corroborated** (Rockwell is a credited writer). **One step to `stable`:** a direct Apple/Spotify **lyric** eyeball (the credits pass confirmed personnel, not the lyric line-by-line) — record it in `verified_against`, then flip. Official release wins on divergence.
+- Note for analysis: surveillance/watching ("somebody's watching me," "no privacy," "Who's watching me?"); "I'm afraid I'm a clone"; "Wake up" (awakening); "tried to make me out to be the bad guy" (framing); "dancing like Michael Jackson." **Interpolates Rockwell** (credited) → [[Sources/Credits/The Watchers]].
