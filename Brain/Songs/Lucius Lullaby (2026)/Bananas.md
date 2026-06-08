@@ -39,7 +39,7 @@ Lucius weaponizing **childish permission**: *"hey kids… well, alright"* → a 
 The fruit bowl sits on an **altar** (candles, Egyptian statue = the concealed Mother/Shekinah → [[Mary]]). Lucius lifts the banana — an **offering** — and uses it as a **PA to broadcast his own songs** (EP2/EP3), then sets it back: the Mother's offering rerouted into a delivery system for Lucius's voice. See [[The Banana]] / [[Sir Lucius]].
 
 ## The sterile loop [W]
-The Cavendish banana is a **sterile clone** (public botanical fact) — identical, propagated only by cutting, all wiped out together by one fungus *because* identical. Maps onto Lucius's **Loop** ([[Brain/Concepts/The Circle|Circle↔Loop]]) + [[City of Angels]]'s *"everyone looks just like you"*: **real light in a sterile vessel — you can hear the song, you cannot inherit it.** `[?]` Roy is *attributed* a banana=sterile-loop gloss (via Jen's Drive doc) — **provenance unconfirmed;** the reading here stands on **public botany + the prop**, not the Roy gloss.
+The Cavendish banana is a **sterile clone** (public botanical fact) — identical, propagated only by cutting, all wiped out together by one fungus *because* identical. Maps onto Lucius's **Loop** ([[Brain/Concepts/The Circle|Circle↔Loop]]) + [[City of Angels]]'s *"everyone looks just like you"*: **real light in a sterile vessel — you can hear the song, you cannot inherit it.** **[G] Roy has stated this publicly:** the banana = *"a fruit that is sterile — flawed genes / inherited trauma — but looks healthy and good"* (IG comment on one of his video posts + stated in person at a public moment, witnessed firsthand by Jen; provenance confirmed 2026-06-07). So the reading is **double-anchored** — public botany **and** Roy's own public gloss.
 
 ## "Nowhere to go" — the wound under the chaos [W]
 The id erupts because the energy is **blocked** (*"ready to blow," "nowhere to go"*). Roy's PUBLIC #bananas caption reframes it: *"Nowhere is not a destination but you can arrive in an instant"* — so the song stages Lucius's **trapped** nowhere against Roy's **transcendent** nowhere (same word, two doctrines). Not cartoon nihilism — a sealed system's symptom.
@@ -65,13 +65,13 @@ A **logical** arc (NOT the tracklist): Happy Face (pretend you're fine) → Bad 
 - The browning/decay layer: overripe = devotion left too long, offerings going unredeemed.
 
 ## BOUNDARY (quarantine)
-The **"nonsense = code / angles / angels / 'nonsense is the only thing that makes sense'"** material is from a **private phone call** — **quarantined; never in canon.** The public anchor for the "nonsense" theme is EP2's on-camera *"It's nonsense. It's all nonsense."* (A prior private-call cross-ref note was **removed from the EP transcript 2026-06-07.**) The Roy banana=sterile-loop gloss provenance is also unconfirmed (above).
+A **private phone-call decoding of the "nonsense" motif** is **Secret-Doc only — quarantined; never in canon** (the specific decode is not reproduced here). The public anchor for the motif is EP2's on-camera *"It's nonsense. It's all nonsense."* (A prior private-call cross-ref note was **removed from the EP transcript 2026-06-07.**) **⚠ OPEN CONFLICT (for Jen):** [[Brain/Concepts/The Mouth]] presents a closely related angle/angel + "nonsense" framework as Roy's *publicly stated* philosophy — adjudicate public-vs-private before either page is trusted. *(The banana=sterile-loop gloss is separately resolved PUBLIC/grounded — see "The sterile loop" above.)*
 
 ## Open Questions
 - [?] Speaker: Lucius inciting / Roy's unleashed id / the horror of the split *witnessed* (likely all three).
-- [?] Is Roy's banana=sterile-loop statement **public-citable** or private/Inner-Circle? (gates the Roy-attribution)
 - [?] *"Did I do that?"* Urkel inflection — confirm by audio.
 - [?] Full personnel (writers known: English, Spraker).
+- [ ] Archival to-do (not a rigor gate): locate the exact IG post/comment URL for Roy's banana=sterile gloss (grounded on Jen's firsthand witness; statement confirmed public 2026-06-07).
 
 ## Connections
 | Node | Relationship |
@@ -83,5 +83,5 @@ The **"nonsense = code / angles / angels / 'nonsense is the only thing that make
 | [[I Like to Party]] | The sedated/regressed crowd, cross-album. |
 
 ## Sources
-- [[Sources/Lyrics/Bananas]] (Apple-verified) · [[Sources/Credits/Lucius Lullaby]] · EP2/EP3 [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] · Roy's PUBLIC #bananas post + posted Gurdjieff quotes (Roy-voice).
-- *No private material used in grounded claims. Banana-sterile gloss provenance flagged `[?]`. Private phone-call material quarantined. Google Docs not cited.*
+- [[Sources/Lyrics/Bananas]] (Apple-verified) · [[Sources/Credits/Lucius Lullaby]] · EP2/EP3 [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] · Roy's PUBLIC #bananas post + the PUBLIC banana=sterile gloss (IG comment + firsthand-witnessed in person) + posted Gurdjieff quotes (Roy-voice).
+- *No private material used. Banana-sterile gloss is PUBLIC/grounded (provenance confirmed 2026-06-07). Private phone-call material is Secret-Doc only / quarantined. Google Docs not cited.*

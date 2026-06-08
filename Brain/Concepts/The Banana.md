@@ -23,9 +23,9 @@ In the Roy-vs-Sir-Lucius series, Lucius repeatedly **plays his songs off a banan
 ## The hijacked offering [W]
 The altar reads as a site of the concealed feminine ([[Mary]] / Shekinah). Lucius takes the **offering** meant for the sacred and uses it as a **PA / Walkman to broadcast *his own* voice**, then sets it back as if untouched. The Mother's offering is **rerouted into a delivery system for Lucius** — the altar looks intact; inside, it's repurposed. The EP2/EP3 banana-press scenes are this literalized: the gift meant for the divine becomes Lucius's microphone.
 
-## The sterile-clone Loop [W]
+## The sterile-clone Loop [W reading / G anchor]
 The supermarket banana (**Cavendish**) is a **sterile clone** — genetically identical, propagated only by human cutting, unable to vary, and being wiped out worldwide by a single fungus (**TR4**) *precisely because they're all identical.* **Public botanical fact**, independent of any JT source. It maps cleanly onto Lucius's **[[Brain/Concepts/The Circle|Loop]]** (recurrence without variation) and [[City of Angels]]'s *"everyone looks just like you"*: **real light in a sterile vessel — you can *hear* the song, you cannot *inherit* it.** Dovetails with Lucius-as-imperfect-vessel (leaks the real light; can't pass it cleanly).
-> `[?]` **Provenance flag:** Roy is *attributed* (via Jen's Drive doc) a "banana = sterile genetic loop / flawed genes / looks healthy" gloss. **Provenance (public vs private/Inner-Circle) is UNCONFIRMED** — so the sterile-loop reading here is grounded on **public botany + the prop**, NOT on the Roy gloss. Confirm a public source before grounding the Roy-attribution. (The private "nonsense/angles/angels" phone-call cluster is **quarantined** per [[Boundaries]].)
+> **[G] Roy's gloss — PUBLIC (provenance confirmed 2026-06-07):** Roy has stated **publicly** that the banana was chosen because it is *"a fruit that is sterile — flawed genes / inherited trauma — but looks healthy and good."* Source: an **Instagram comment** on one of his video posts (exact post pending in-vault; existence + content confirmed by Jen) **and** stated **in person** at a public moment (casual conversation in front of the gathered crowd — *not* part of any private/filmed material), **witnessed firsthand by Jen.** So the sterile-loop reading is **double-anchored**: public botany **and** Roy's own public gloss. (A **private phone-call decoding of the "nonsense" motif** remains **Secret-Doc only / quarantined** per [[Boundaries]] — not reproduced here; note the open public-vs-private conflict with [[Brain/Concepts/The Mouth]].)
 
 ## Wrong-timed fruit [W]
 Lucius never takes the fruit **at its right time**: the **green apple** eaten *early* (EP4 — he bites it: *"I'm your weirdness"*) = the **premature mind**; the **browning banana** scavenged *late* (EP2) = the **overripe id**. Both are the proper exchange the altar was built for, performed wrongly.
@@ -34,8 +34,8 @@ Lucius never takes the fruit **at its right time**: the **green apple** eaten *e
 The album's madness-energy named — *"go bananas"* = go crazy; the banana also the comic/consumable/**slipping** object ("funny until the fall is the point").
 
 ## Open Questions
-- [?] Provenance of Roy's banana-sterile gloss (public vs private) — gates the Roy-attribution.
 - [~] Is the altar's "Mother" reading (Mary/Shekinah) the right frame for the fruit bowl, or over-read?
+- [ ] Archival to-do (not a rigor gate): locate the exact IG post/comment URL for Roy's banana=sterile gloss (now grounded on Jen's firsthand witness; confirmed public 2026-06-07).
 
 ## Connections
 | Node | Relationship |
@@ -47,5 +47,5 @@ The album's madness-energy named — *"go bananas"* = go crazy; the banana also 
 | [[Brain/Concepts/The Circle]] | The sterile clone = the Loop (recurrence without variation). |
 
 ## Sources
-- [[Sources/Lyrics/Bananas]] · EP2/EP3 [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] (the banana-press scenes) · public botany (Cavendish = sterile clone, TR4).
-- *No private material used. Roy banana-gloss provenance flagged. Google Docs not cited.*
+- [[Sources/Lyrics/Bananas]] · EP2/EP3 [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] (the banana-press scenes) · public botany (Cavendish = sterile clone, TR4) · Roy's PUBLIC banana=sterile gloss (IG comment + firsthand-witnessed in person, confirmed 2026-06-07).
+- *No private material used. Roy banana-gloss is PUBLIC/grounded. Private phone-call material is Secret-Doc only / quarantined. Google Docs not cited.*

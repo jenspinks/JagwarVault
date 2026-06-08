@@ -36,8 +36,7 @@ The most chilling turn is the disavowal: *"I hear voices in my mind I don't reme
 
 The deeper frame comes from the staging. Across the theatrical EPs, the set holds a small **altar** — a fruit bowl of green apples and bananas, two red candles, an Egyptian statue beneath. And Lucius keeps **lifting a banana and playing his songs off it**: EP2's browning banana becomes [[Not Your Homie]]; EP3's becomes [[Welcome to the Circus]]. Read that as what it looks like: an **offering** meant for the altar's hidden feminine ([[Mary]] / Shekinah), taken down and used as Lucius's **PA system** — the sacred gift rerouted to broadcast *his* voice, then set back as if untouched. The altar still stands; inside, it's been repurposed. `[Strong Read.]`
 
-And there's a reason the banana, specifically, is his medium. The supermarket banana — the Cavendish — is a **sterile clone:** genetically identical, unable to reproduce on its own, propagated only by human cutting, and now being wiped out worldwide by a single fungus *precisely because every plant is the same.* (This is public botany, not esoterica.) That is Lucius's **Loop** made fruit: recurrence without variation, **real light in a sterile vessel — you can hear the song, you cannot inherit it.** It rhymes exactly with *City of Angels*' *"everyone looks just like you."* `[Strong Read on public botany + the prop.]`
-> *(Provenance note: a gloss attributing the banana-as-sterile-loop reading to Roy reached the vault via a working Doc; its public-vs-private origin is unconfirmed, so this reading is built on the botanical fact and the on-camera prop, not on that gloss. And the private phone-call "nonsense" material around this song is quarantined — kept out of the analysis entirely.)*
+And there's a reason the banana, specifically, is his medium — and here Roy says so himself. He has stated **publicly** that the banana was chosen because it is *a fruit that is sterile — flawed genes, inherited trauma carried forward — but looks healthy and good.* The botany backs him: the supermarket banana, the Cavendish, **is** a sterile clone — genetically identical, unable to reproduce on its own, propagated only by human cutting, and now being wiped out worldwide by a single fungus *precisely because every plant is the same.* That is Lucius's **Loop** made fruit: recurrence without variation, **real light in a sterile vessel — you can hear the song, you cannot inherit it.** It rhymes exactly with *City of Angels*' *"everyone looks just like you."* `[Grounded anchor (Roy's public gloss + public botany); the Loop-mapping is the Strong Read.]`
 
 ## Nowhere to go
 
@@ -49,16 +48,16 @@ Heard in the album's logic — *Happy Face* (pretend you're fine) → *Bad Feeli
 
 ## Confirmed vs. Interpretive
 
-**Confirmed (lyric + EP + Roy's public post):** the kids/permission address; the Good/Bad split; the dissociation line; *"the monkeys feeling funky"*; the banana as Lucius's EP2/EP3 trigger-prop off the fruit-bowl altar; Roy's public *"nowhere"* caption.
+**Confirmed (lyric + EP + Roy's public statements):** the kids/permission address; the Good/Bad split; the dissociation line; *"the monkeys feeling funky"*; the banana as Lucius's EP2/EP3 trigger-prop off the fruit-bowl altar; Roy's public *"nowhere"* caption; **Roy's public banana=sterile gloss** (IG comment + stated in person at a public moment, firsthand-witnessed; confirmed public 2026-06-07).
 
 **Interpretive (strong):** the id-permission chant; the hijacked offering; the sterile-clone Loop (on public botany); the monkey-as-regression (Roy-posted Gurdjieff); dissociation-as-shadow-possession; the kindergarten duality; the domestic stove; the logical Happy-Face→Bad-Feeling→Bananas→Circus arc.
 
-**Resonance / open:** the Urkel recode (`[~]`, pending audio); banana-as-slapstick/decay; Pied Piper / failed catharsis. **Provenance-flagged:** the Roy banana=sterile gloss (public source unconfirmed). **Quarantined:** the private phone-call "nonsense/angles/angels" cluster — not used.
+**Resonance / open:** the Urkel recode (`[~]`, pending audio); banana-as-slapstick/decay; Pied Piper / failed catharsis. **Quarantined:** a private phone-call decoding of the "nonsense" motif — Secret-Doc only, not reproduced or used (see the open public-vs-private conflict noted at [[The Banana]] / [[The Mouth]]).
 
 ## Open Questions
 - [ ] Speaker — Lucius inciting, Roy's unleashed id, or the horror of the split *witnessed*? (Likely all three.)
-- [ ] Is Roy's banana-sterile statement public-citable or private?
 - [ ] *"Did I do that?"* — intentional Urkel recode (confirm by audio)?
+- [ ] Archival to-do: locate the exact IG post/comment URL for Roy's banana=sterile gloss (statement confirmed public; grounded on firsthand witness).
 
 ## Connections
 | Node | Relationship |
@@ -69,4 +68,4 @@ Heard in the album's logic — *Happy Face* (pretend you're fine) → *Bad Feeli
 | [[Happy Face]] / [[Bad Feeling (Oompa Loompa)]] / [[Great Time to Be Human]] | Childish form, grotesque content; the recurring stove. |
 
 ## Notes
-Reviewer-AI round (2026-06-07) contributed the hijacked-offering, sterile-loop, monkey-as-Gurdjieff, and arc readings. **Boundary work this pass:** removed a private-phone-call cross-ref from the EP transcript (quarantined per [[Boundaries]]); flagged the Roy banana-sterile gloss as provenance-unconfirmed; built the sterile-loop reading on public botany only.
+Reviewer-AI round (2026-06-07) contributed the hijacked-offering, sterile-loop, monkey-as-Gurdjieff, and arc readings. **Boundary work this pass:** removed a private-phone-call cross-ref from the EP transcript (Secret-Doc only / quarantined per [[Boundaries]]). **Provenance resolved (2026-06-07):** Roy's banana=sterile gloss confirmed **public** (IG comment + firsthand-witnessed in person) — the sterile-loop reading is now double-anchored on Roy's own public statement **and** public botany.
