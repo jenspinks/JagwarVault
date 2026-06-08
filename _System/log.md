@@ -14,6 +14,15 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-07] concept + tier-correction | [[The Angels and the Angles]] — framework grounded as tradition, not as Roy's method
+Jen's external hunt: **no public JT source** states the angels=angles / consonants-vowels / letters-spirit framework as Roy's *method* (interview, article, podcast, post — none). So per protocol it **cannot** be `[G] his stated method` in public canon. **Protocol-clean path taken (cite the tradition, not the man):**
+- New public-source index [[Sources/Reference/Kabbalah — letter-mysticism source index (Abulafia, letters-as-angels, vowels-as-spirit)]] — *Sefer Yetzirah* (creation via the 22 letters), **Abulafia** ecstatic Kabbalah (permute letters + vowel-tones → prophetic ascent; Moshe Idel), **Ezra ben Solomon** (*"vowels function among the consonants like the spirit in the body"* — near-verbatim the framework), the **72-Name / Shem HaMephorash** tradition (letters→angels). All public/citable.
+- New concept **[[The Angels and the Angles]]** (built on the existing pending Ontology ID `CONCEPT-TheAngleAngel`; Ontology row updated, de-pended) — asserts **`[~]` tradition-correspondence**: *the work embodies the documented Kabbalah,* with the **songs/iconography as public evidence** (nonsense-syllable vocables = vowel-spirit; *tomorrow (ANGLE OF ETERNITY)*; tree-of-life set; El Roi tattoo; Kabbalah on the public "I'm 33" board). The private source is used **only as the lens**, never reproduced — exactly what the Secret-Doc protocol permits.
+- **Tier correction on [[Brain/Concepts/The Mouth]]:** my prior-pass edit had marked the framework `[G] grounded publicly` — **too strong.** Downgraded to `[~]` correspondence; kept the `[G]` anchors for Roy's *engagement* only (Hebrew interest, El Roi, the "I'm 33" board). Description line aligned.
+- Open: exact public receipt for *"nonsense is the only sense that makes sense"* still pending (Jen still looking).
+
+---
+
 ## [2026-06-07] ingest + boundary RESOLVED | public receipts: banana=sterile, Ruach/mirror framework, Sir Lucius doctrine
 Jen supplied public screenshots that **close** the items flagged in the entry below. Three new public-source files in `Sources/Quotes/`:
 - [[Sources/Quotes/Roy IG Reel - Bananas (sterile gloss)]] — @jagwartwin comment *"most bananas are sterile and cannot reproduce by seed ;)"* (instagram.com/reels/DWo9DYzAUZ8/). **Closes the banana=sterile archival to-do** — gloss now cited, not just firsthand. (Cite only @jagwartwin's comment; the thread's @calamityjenthen replies are Jen's, not Roy's.)

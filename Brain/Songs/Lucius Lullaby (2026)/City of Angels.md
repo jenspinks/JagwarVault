@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-PlayingToTheGods, ALBUM-LuciusLullaby, CHAR-SirLucius]
   strong_read: [CONCEPT-TheCircus, CONCEPT-TheLoop, CONCEPT-SourceVsReflection, SONG-PayAttentionFeatLittleLuna, CHAR-Mary]
   resonance:   [CONCEPT-Fire, CONCEPT-Yesod]
-referenced_by: [CONCEPT-CommunionVsSpectacle, SONG-GreatTimeToBeHuman, SONG-PlayingToTheGods]
+referenced_by: [CONCEPT-CommunionVsSpectacle, CONCEPT-TheAngleAngel, SONG-GreatTimeToBeHuman, SONG-PlayingToTheGods]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop

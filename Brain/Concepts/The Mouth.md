@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
   strong_read: [CHAR-Roy, SONG-BALLERINABOY, SONG-SOL, CONCEPT-TheVoice]
   resonance:   [CONCEPT-Consumption, CONCEPT-TheAlgorithm]
-referenced_by: [CONCEPT-Consumption, CONCEPT-TheThread, CONCEPT-TheVoice, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-Consumption, CONCEPT-TheAngleAngel, CONCEPT-TheThread, CONCEPT-TheVoice, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # The Mouth / The Voice
@@ -21,7 +21,7 @@ Type: Concept / Symbol
 
 ## Description
 
-The Mouth is one of the most loaded anatomical symbols in the project — the site of speech, consumption, testimony, song, and silence. Across the catalogue and the analytical framework Roy publicly engages with (the Hebrew angles/angels model: consonants as structure, vowels as spirit), the mouth is the place where angels and angles meet — where breath becomes word, spirit becomes structure, feeling becomes language.
+The Mouth is one of the most loaded anatomical symbols in the project — the site of speech, consumption, testimony, song, and silence. Across the catalogue and the **Kabbalistic letter-mysticism the work corresponds to** ([[The Angels and the Angles]] — the Hebrew angles/angels model: consonants as structure, vowels as spirit; `[~]` correspondence, not Roy's publicly-stated method), the mouth is the place where angels and angles meet — where breath becomes word, spirit becomes structure, feeling becomes language.
 
 Its failure is catastrophic. When the mouth fails — teeth falling out, screaming without words, being commanded to shut up, being chewed up and spat out — the entire communication apparatus between interior and exterior collapses. What remains is either silence or performance: the voiceless scream or the painted face.
 
@@ -42,7 +42,7 @@ There are two modes of mouth in the project: **the mouth that testifies** (Roy's
 
 ## Traditional / Esoteric Resonance
 
-- **Hebrew angles/angels model** — **[G] grounded publicly** (Roy's public Hebrew-language interest, 2019, [[Sources/Quotes/Roy FB Post - Diary of a Loser (Hebrew, Everything is a Mirror) 2019]]; + the El Roi / consonants-vowels framework on [[Brain/Characters/Sir Lucius]]): **consonants = angles** (structure, teeth, palate, tongue shaping sound); **vowels = angels = breath/spirit, _Ruach_** (רוח, Hebrew: breath / wind / spirit — the animating current). Teeth falling out = structural collapse of the language apparatus. *(This framework was previously held as secret-doc-only; now grounded outside any private source — Jen 2026-06-07.)*
+- **Hebrew angles/angels model** — **[~] tradition-correspondence** (full treatment: [[The Angels and the Angles]]). **Tier correction (Jen 2026-06-07):** an external hunt found **no public source of Roy stating this as his method**, so it is *not* `[G] his framework`; it stands publicly only as a documented **Kabbalah** the work corresponds to — **consonants = angles** (structure, teeth, palate, tongue shaping sound); **vowels = angels = breath/spirit, _Ruach_** (רוח). The *vowels-as-spirit-among-consonants* metaphor is explicit in 13th-c. Kabbalah (Ezra ben Solomon); *letters = angels* is native (the 72-Name tradition); letter-and-vowel permutation as ascent is **Abulafia** ([[Sources/Reference/Kabbalah — letter-mysticism source index (Abulafia, letters-as-angels, vowels-as-spirit)|source index]]). **[G] public anchors for Roy's *engagement*** (not the method): his Hebrew-language interest (2019, [[Sources/Quotes/Roy FB Post - Diary of a Loser (Hebrew, Everything is a Mirror) 2019]]), the El Roi tattoo ([[Brain/Characters/Sir Lucius]]), and Kabbalah on the public *"I'm 33"* board ([[The Pattern]]). Teeth falling out = structural collapse of the language apparatus.
 - **Voiceless scream** — Edvard Munch's *The Scream*; trauma freeze response; Cassandra (prophesying truth but condemned to be unbelieved)
 - **Job 30:20** — *"I cry to you, and you do not answer me"*; Lamentations 3:8 — *"Even when I cry and shout, He shuts out my prayer"*
 - **Gnashing of teeth** (Matthew 8:12, 13:42, etc.) — the seven references in the Gospels; here the teeth fall out rather than gnash — collapse of even the capacity for anguish
