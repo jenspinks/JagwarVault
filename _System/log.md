@@ -14,6 +14,16 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-07] ingest | interview — The Honey Podcast S2 E7 (Roy-voice goldmine)
+Ingested [[Sources/Transcripts/Honey-Podcast-S2E7-Meditation-Authentic-Self]] (YouTube, auto-caption `draft`; date pending — ~2020–2021 meditation era). Roy does almost all the talking. **High-value anchors flagged (not yet propagated):**
+- **Guru-DENIAL** — *"absolutely not a guru… I don't know anything… asking questions just like everybody"* (the humility pole opposite [[Sir Lucius]]'s "everyone's a guru" contempt).
+- **Mirror doctrine, Roy-voice** — *"that's a reflection of me whether you like it or not… you couldn't perceive this negative thing unless it was a part of your self you had not integrated"*; "stuck in a mirror, who am I"; host names his **"hall of mirrors."** Plain-stated Jungian shadow-integration → [[Inversion]] / [[Source vs Reflection]] / "everything is a mirror."
+- **The character-trap = "not a good feeling"** — *"people start to like you for the character you're playing and that's not a good feeling… an isolated kingdom where there's walls and they're stuck and everyone thinks they're this one person."* Roy publicly describing the [[Sir Lucius]] / fame-mask dynamic and naming it *not a good feeling* ([[Bad Feeling (Oompa Loompa)]]).
+- Also: **masks** ([[The Mask]]); **one consciousness / emanations**; authenticity-vs-label; "sun"/gravitational pull ([[SOL]]); conservative-Christian upbringing + parents' *"seek truth you will find it"* ([[Roy]]).
+- Indexed in [[Master Source List]] §11. **Next:** fold anchors into Roy / Sir Lucius / mirror canon (offered, not yet done).
+
+---
+
 ## [2026-06-07] concept + tier-correction | [[The Angels and the Angles]] — framework grounded as tradition, not as Roy's method
 Jen's external hunt: **no public JT source** states the angels=angles / consonants-vowels / letters-spirit framework as Roy's *method* (interview, article, podcast, post — none). So per protocol it **cannot** be `[G] his stated method` in public canon. **Protocol-clean path taken (cite the tradition, not the man):**
 - New public-source index [[Sources/Reference/Kabbalah — letter-mysticism source index (Abulafia, letters-as-angels, vowels-as-spirit)]] — *Sefer Yetzirah* (creation via the 22 letters), **Abulafia** ecstatic Kabbalah (permute letters + vowel-tones → prophetic ascent; Moshe Idel), **Ezra ben Solomon** (*"vowels function among the consonants like the spirit in the body"* — near-verbatim the framework), the **72-Name / Shem HaMephorash** tradition (letters→angels). All public/citable.
