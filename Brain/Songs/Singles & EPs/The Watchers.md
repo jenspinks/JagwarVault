@@ -9,8 +9,8 @@ related: [SONG-CityOfAngels, SONG-PlayingToTheGods, CHAR-SirLucius, SONG-DreamDr
 connections:
   grounded:    [CHAR-Roy, SONG-DreamDream]
   strong_read: [SONG-CityOfAngels, SONG-PlayingToTheGods, SONG-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheAlgorithm, CONCEPT-WitnessingVsSurveillance, SONG-Online, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-SourceVsReflection]
-  resonance:   [CONCEPT-Inversion, CONCEPT-TheWheel, CONCEPT-TheAngleAngel, SONG-ILikeToParty, CONCEPT-KeilimVessels]
-referenced_by: []
+  resonance:   [CONCEPT-Inversion, CONCEPT-TheWheel, CONCEPT-TheAngleAngel, SONG-ILikeToParty, CONCEPT-KeilimVessels, CONCEPT-TheUpload]
+referenced_by: [CONCEPT-TheUpload]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop
@@ -83,6 +83,7 @@ Roy didn't borrow a hook; he imported **Rockwell's whole myth**, a near point-fo
 - **"Made me out to be the bad guy" = the Dweller blamed.** [[Sir Lucius]] *is* [[The Dweller on the Threshold]] — the accumulated, disowned self the crowd's gaze **calcifies** and then condemns. The scapegoat passage is the "Stop Sir Lucius" flyer logic **and** the Dweller doctrine: the watching *makes* the bad guy it then punishes (cf. *"another song about ME,"* [[#1 Champion (la Conquistadora)]]). [W]
 - **"No privacy" has a direct catalogue precedent — [[Online]] (2022):** *"they know my every step, they infiltrate my brain," "a bug inside your database," "they know what you like in bed"* (predictive profiling as counterfeit intimacy; [[Witnessing vs Surveillance]] §songs). The Watchers is the **dream-state sequel** to Online's named surveillance. [W]
 - **The dancing crowd = the [[I Like to Party]] congregation.** *"The whole place is dancing"* = the faceless ring Roy's own pinned comment named *"a beautiful group of mind/body/spirit complexes"* (*"the people are mine"*) — the surveilled-and-surveilling crowd, cross-album; + [[Pay Attention (feat. little luna)]] = the attention economy the watching runs on. [W]
+- **The upload-origin (2022 board).** This surveillance/clone complex has a cosmology underneath it — Roy's *"I'm 33 this year"* board, tab *"how to upload myself to the internet"* (→ [[The Upload]] / [[The Pattern]]): **upload = anthropomorphize attention = the Eye** (the net-as-all-seeing-field). [[Online]] (2022) is its first released instar; The Watchers is the same thread in dream-state. The board's **Eye-of-Horus fractions** (½…1/64 → 63/64, always missing the last 1/64) *are* the **clone paradox** the lyric names — the part that won't digitize. [W]
 
 ## Open Questions
 - [?] Lyric → stable: one Apple/Spotify lyric eyeball away (credits are Apple-grounded; lyric still MusixMatch/AZLyrics).

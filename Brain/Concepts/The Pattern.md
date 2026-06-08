@@ -11,7 +11,7 @@ connections:
   strong_read: [CHAR-SirLucius, CHAR-Roy, CONCEPT-InheritedSubstrate]
   resonance:   [CONCEPT-Duality, CONCEPT-TheCircle, CONCEPT-SacredGeometry, CONCEPT-CosmicCycles, CONCEPT-SourceVsReflection]
 review_date: 2026-12-01
-referenced_by: [ALBUM-33, CONCEPT-SourceVsReflection, CONCEPT-TheAngleAngel, CONCEPT-TheLaborsOfHercules, SONG-AnotherWayIIHeaven]
+referenced_by: [ALBUM-33, CONCEPT-SourceVsReflection, CONCEPT-TheAngleAngel, CONCEPT-TheLaborsOfHercules, CONCEPT-TheUpload, SONG-AnotherWayIIHeaven]
 ---
 # The Pattern
 
@@ -35,7 +35,7 @@ The board renders a single **10-stage ascent** (descent→return) in parallel al
 The board's cosmogonic poem: *"I spoke the words 'One become Two' … A Darkness and a Light … when we crashed … A Sun was born inside … Split into 5,6,7,8,9 … 'I' was still I … see The Great Design."* [W] This is the **[[Sir Lucius|Roy/Lucius]]** split written as cosmology — the artist-bio *"there's two sides to every story"* given a creation myth; coheres with Kybalion **Polarity/Gender** and the **Left/Right-hemisphere** cell (Order/reason/masculine + vs Chaos/creativity/feminine −). See [[Duality]].
 
 ## The upload thesis (board, grounded)
-The Pattern's practical application: if the self is information in the field, it can be externalized. Board lists: *"Uploading my consciousness to the Internet"* (Pros/Cons), *"How to live forever?"* ("create something that lives beyond your lifespan / put music on chain"), and **"Steps to enter the digital dimension"** (gather memories → personality mask → digitize → cloud → teach AI who I am → make a body for the AI). The **"Cybernetics"** cell states the premise: *"All the world is mind. Mind woven into matter."*
+The Pattern's practical application: if the self is information in the field, it can be externalized. Board lists: *"Uploading my consciousness to the Internet"* (Pros/Cons), *"How to live forever?"* ("create something that lives beyond your lifespan / put music on chain"), and **"Steps to enter the digital dimension"** (gather memories → personality mask → digitize → cloud → teach AI who I am → make a body for the AI). The **"Cybernetics"** cell states the premise: *"All the world is mind. Mind woven into matter."* **→ Now spun out: [[The Upload]]** carries the *upload→anthropomorphize-attention→the Eye* reading and the board→*Online*→*The Watchers* through-line (this section keeps the board-grounded inventory; the application's reading lives there).
 
 ## Apparent distinct concept album [?]
 A board **"Tracks"** list — *The Fall into Matter · Marduk · Let Them Eat Cake · Sun of God · Dissolution · As Above So Below · Genesis · The All Is Mind · O* — runs the Hermetic descent/return as a tracklist. **Distinct from [[33 (album)|*33*]]; likely an unreleased/working concept project — do not conflate.** Cross-bleed into the released catalogue: *"Let Them Eat Cake"* ↔ [[I Like to Party]] (cake), *"Sun of God"* ↔ the Sun/Son pun below.
@@ -60,7 +60,7 @@ Board drafts [[Sources/Lyrics/Soul Is A Star|Soul Is A Star]] as **"Sun"** (*"wh
 ## Open Questions
 - [ ] Is the "Tracks" list a real (unreleased) project, a working title set, or abandoned? Confirm before treating as a release.
 - [ ] Does the Pattern *generate* the catalogue or is it Roy's after-the-fact map of it? (Same problem as the labours.) Per-song mapping needs per-song anchors — do not back-fit.
-- [ ] Split into sub-concepts later? "The Pattern" (fractal law) vs "Consciousness Upload" (the application) may each want their own page as material grows.
+- [x] **Split done (2026-06-08):** "Consciousness Upload" (the application) spun out → [[The Upload]], holding the *upload→Eye→Watchers* synthesis; The Pattern keeps the fractal-law / spine / emanation / substrate material. Parallel, not nested.
 - [ ] Home the board's source-material as **concept nodes (the ideas), not person nodes** (Jen, 2026-06-01) — Roy's material sits *alongside* the same concepts other thinkers built (Bailey, Hermes/Kybalion, Plato, Jung), who may surface elsewhere in the vault. So **Walter Russell**'s heavy presence (charge/discharge, gravitation–radiation, octaves) should feed shared concepts — e.g. [[Duality]] (polarity), `CONCEPT-SacredGeometry`, `CONCEPT-CosmicCycles` — **not** a `CONCEPT-WalterRussell` page. Same for the others: attribute the contributor in prose; let the *concept* be the node.
 - [x] **Expected concept-alignment, by design of the substrate (Jen, 2026-06-05).** Because the board braids Bailey + the Kybalion/Hermeticism + Kabbalah + Neoplatonism + Jung + Plato — a **theosophical / perennialist synthesis** — the vault's concepts will *naturally* align and rhyme: [[Brain/Concepts/Source vs Reflection]] ∥ As-Above-So-Below, [[Duality]] ∥ Polarity/Gender, [[The Circle]] ∥ Cosmic Cycles, and so on. **This alignment is a property of the shared root, not in itself evidence of deliberate cross-encoding by Roy.** Treat rhyme between concepts as *expected*; keep parallel concepts parallel (don't collapse them into one), and don't upgrade alignment to authorial design without per-case anchors. *(A specific application of this page's top guard: license the lens, not a master key.)*
 

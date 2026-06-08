@@ -70,6 +70,15 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-08] concept | [[The Upload]] — spun out from [[The Pattern]] (the upload→Eye→Watchers synthesis)
+Handoff: an external "33 — the Upload Map." **Most of it was already in canon** (the [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)|"I'm 33" board]] + [[The Pattern]] already inventory the upload thesis, emanation, Eye-fractions, magic square, Jung map). The external AI reconstructed existing canon (no vault access). So I did **not** build a duplicate "map" page.
+- **Provenance was already resolved:** the board is **citable** (Roy's own artifact, Jen 2026-06-01); private message-screenshots quarantined. (Not a "never-cite-the-Doc" case — it's Roy's creation, not a reference-library.)
+- **Spun out [[The Upload]]** (`CONCEPT-TheUpload`) — sanctioned by The Pattern's standing open-Q ("Consciousness Upload (the application) may want its own page"). Holds the **genuinely-new synthesis**: upload = **anthropomorphize attention = the Eye** (net-as-all-seeing-field); the **board(2022)→[[Online]]→[[The Watchers]](2024)→[[Witnessing vs Surveillance]]** through-line; the **Eye-of-Horus fractions (63/64) = the clone paradox** ("the part that won't digitize" = *"I'm afraid I'm a clone"*). Points to the artifact/The Pattern for the board inventory (no re-inventory).
+- **Disciplines applied (corrections to the handoff):** **33 ↔ Tree stays `[~]`** (NOT "committed" — per [[33 (album)]] title-numerology discipline); **Law-of-One Ra = `[P]`, not on the board** (board = Egyptian Ra/Horus); **tetramorph guard** (four world-bearers ≠ the four figures); tetractys/Logos **not** routed through the private angle/angel decode; private messages quarantined.
+- Updated [[The Pattern]] (marked the split-open-Q **done**; pointer from its upload section) + [[The Watchers]] (upload-origin bullet + `CONCEPT-TheUpload` connection). Public anchors: mirrors.jagwartwin.com/gallery cards (COMPLETE UPLOAD RECIPE / RA-LINK / TROJAN HORSE PROGRAM…) + released *Online*.
+
+---
+
 ## [2026-06-08] ingest + ground | "What the Jagwar is" — the name etymology grounded in 3 public interviews
 Jen supplied three public-interview sources for the Jagwar Twin name. **Grounds what was the one uncited gap** (the etymology had stood as *"source: Roy"*).
 - **New sources:** [[Sources/Transcripts/Ones-To-Watch-2018-Debut-QA]] (the fullest: jaguar = *"looks into the souls of others… and back into itself; humans are mirrors for each other"*; Twin = light/dark + Gemini; **+ the ego-dissolution/song-as-gift origin**) and [[Sources/Transcripts/Highwire-2021-Power-of-Sound]] ("mirror of consciousness"; **the heart/mind origin** — *"from my mind… evil… creeps in very slowly"*; producers Matt Pauling + S1). ([[Sources/Transcripts/Mic-Magazine-UK-Myth-of-Music]] 2024 already in-vault: *"pulls people out of the darkness into the light."*)

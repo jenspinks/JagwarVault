@@ -38,6 +38,7 @@ hand-maintained thereafter.
 | `CONCEPT-TheMouth` | The Mouth |  |
 | `CONCEPT-ThePath` | The Path |  |
 | `CONCEPT-ThePattern` | The Pattern | Roy's own term for the single fractal law repeating at every scale ("The Pattern is present on all levels" / "The Pattern Represented in Movies"); the unified system he assembles on the [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] board from Bailey + Walter Russell + Kybalion + Kabbalah + Jung + Plato; hub node for that artifact; anchors several pageless concepts (SacredGeometry, CosmicCycles, SleepWakeUp, CollectiveAmnesia, TheLoop) |
+| `CONCEPT-TheUpload` | The Upload (Consciousness Upload) | the *application* of [[Brain/Concepts/The Pattern]] — the board's "how to upload myself to the internet"; thesis: upload = anthropomorphize attention = **the Eye** (net-as-all-seeing-field); the 2022 board → Online → The Watchers through-line; spun out from The Pattern per its open-Q |
 | `CONCEPT-TheSpectacle` | The Spectacle |  |
 | `CONCEPT-TheThread` | The Thread |  |
 | `CONCEPT-TheVeil` | The Veil |  |
