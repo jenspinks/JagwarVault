@@ -70,6 +70,15 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-07] depth | "Why this song — the Rockwell parable" folded into The Watchers
+Folded an external chat's Rockwell-parable analysis (it was working off a stale project index — couldn't see the new Watchers pages — so Code did the integration). Added a "Why this song" section to Brain + Essay, tiered:
+- **Floor-written prayer-song under a father's shadow** — Rockwell's apartment-floor prayer-genesis ↔ [[Lucius Lullaby]]'s `[G]` floor-origin (35, parents' house, childhood bedroom, MacBook mic — *"a transmission from the floor"*); the interpolated song's creation-myth = Roy's own vessel/transmission doctrine (`CONCEPT-KeilimVessels`; [[Source vs Reflection]]).
+- **Name buried to be heard** (Kennedy Gordy→Rockwell ↔ Roy English→Jagwar Twin; asymmetry noted), **paranoia-as-inherited-throne** (Rockwell's surveillance trilogy), the **domestic/intimate watcher** (bolsters the inward turn), the **uncredited MJ ghost-voice** = the Roy/[[Sir Lucius]] other-voice + clone "whose voice is this?", and the keeper — **contested authorship** (hidden father-name / uncredited MJ / Gordy dismiss-then-claim = the Lucius demiurge-who-signs-a-transmission engine; [[Source vs Reflection]]; [[Great Time to Be Human]] dog/god; the dual *"Jagwar Twin & Sir Lucius"* credit).
+- **Tier:** Rockwell biography `[G]`; Roy-chose-it-for-these-reasons `[W]` (overdetermined inference, not stated intent).
+- **Corrections applied during the fold:** the LL floor-origin is **public `[G]`** (Roy has said it) — safe to use, no private leak; the external draft's *"angels are watching me / turn the cameras on"* line is **not in the lyric or anywhere in the vault** → omitted; promoted `CONCEPT-SourceVsReflection` into connections (+ `CONCEPT-KeilimVessels` resonance).
+
+---
+
 ## [2026-06-07] ingest | Rockwell "Somebody's Watching Me" source-context (Rolling Stone) → The Watchers interpolation
 Captured the public backstory of the song [[The Watchers]] interpolates → [[Sources/Reference/Rockwell — Somebody's Watching Me source context (Rolling Stone)]] (Jason Newman, *Rolling Stone*). Wired into [[Sources/Credits/The Watchers]] + the Brain/Essay interpolation sections.
 - **Name correction:** Rockwell = **Kennedy William Gordy** (Berry Gordy's son) — fixed my earlier "Gordon."
