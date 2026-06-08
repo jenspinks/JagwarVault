@@ -205,6 +205,7 @@ Specific posts referenced in vault pages should be cited with date, platform, an
 | — | Instagram / @jagwartwin | "Half the Man" (Father) | body-as-text motif | [[Sources/Quotes/Roy IG Post - Half the Man (Father)]] |
 | — | Instagram / @jagwartwin | #1 Champion visualizer (El Roy caption) | El Roy / la Conquistadora | [[Sources/Quotes/Roy IG Reel - 1 Champion Visualizer (El Roy caption)]] |
 | 2026-05-28 | Instagram / @jagwartwin | Bailey *Labour VII* annotated page (story) | grounds Roy's Bailey engagement | [[Sources/Quotes/Roy IG Story - Bailey Labour VII]] |
+| ~2026-06-07 | Instagram / @jagwartwin (story) | Jung CW vol. 18 page, set to *The Watchers* | **promotes Jung → named influence**; *signs-vs-symbols* method; Ezekiel/Horus/tetramorph cluster → [[Brain/Songs/Singles & EPs/The Watchers\|The Watchers]] | [[Sources/Quotes/Roy IG Story - Jung Signs vs Symbols (The Watchers)]] |
 | — | X / @jagwartwin | "Everyone's a guru" (aquarium) | humility-pole of the guru line | [[Sources/Quotes/Roy X Post - Everyone's a Guru (Aquarium)]] |
 
 ---

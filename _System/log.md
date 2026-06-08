@@ -70,6 +70,15 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-07] ingest | Jung promoted to NAMED influence (signs-vs-symbols) → deepens *The Watchers*
+Jen supplied two screenshots: a **Google Books page** (Jung, *Collected Works* vol. 18, "The Significance of Dreams" ¶416–417 — the **signs-vs-symbols** distinction, w/ the **evangelist-animals → vision of Ezekiel → Egyptian Horus & four sons → wheel/cross** example) and **Roy's IG Story** photographing that page, **music-tagged to his own song *The Watchers*** (~11h old at capture).
+- **New source:** [[Sources/Quotes/Roy IG Story - Jung Signs vs Symbols (The Watchers)]] (IG story + scholarly ID + verbatim Jung ¶416–417).
+- **PROMOTION:** [[Brain/Roy Voice/Roy on Influences]] said *"Steiner, Gurdjieff, **Jung**, Kabbalah… remain unnamed — keep at Resonance unless Roy is sourced directly."* This Story **is** that direct sourcing → **Jung moves from unnamed-substrate to named/captured influence** (parallel to the Bailey promotion). Added a 2026 Jung section + revised the pattern note (now Bailey **and Jung** grounded; Steiner/Gurdjieff/Kabbalah/Karpathy still unnamed). **Scope-disciplined:** grounds Jung-as-named + the *signs-vs-symbols method* + the Horus/Ezekiel/tetramorph cluster — does **not** auto-ground every Jungian doctrine (shadow/anima); raises their floor only.
+- **[[Brain/Songs/Singles & EPs/The Watchers]]** (was a bare stub) — added Grounded (Roy's pairing) + Strong Read: **"The Watchers" = Ezekiel's four living creatures *"full of eyes"* / the tetramorph / eye of Horus** — the watcher-theme as **holy witness**, not only surveillance (→ [[Witnessing vs Surveillance]]); + the wheel ([[The Wheel]]) and Egyptian-Horus ties. Flagged as a promote-candidate (→ `SONG-TheWatchers`) once lyrics are ingested.
+- **Meta:** Roy publicly endorsing Jung's *"a symbol means more than it denotes… led towards ideas of a transcendent nature"* = Roy endorsing the **symbolic-reading method the vault itself uses.** [[Master Source List]] §7 captured-posts table updated.
+
+---
+
 ## [2026-06-07] ingest + boundary RESOLVED | public receipts: banana=sterile, Ruach/mirror framework, Sir Lucius doctrine
 Jen supplied public screenshots that **close** the items flagged in the entry below. Three new public-source files in `Sources/Quotes/`:
 - [[Sources/Quotes/Roy IG Reel - Bananas (sterile gloss)]] — @jagwartwin comment *"most bananas are sterile and cannot reproduce by seed ;)"* (instagram.com/reels/DWo9DYzAUZ8/). **Closes the banana=sterile archival to-do** — gloss now cited, not just firsthand. (Cite only @jagwartwin's comment; the thread's @calamityjenthen replies are Jen's, not Roy's.)
