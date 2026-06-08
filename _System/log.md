@@ -70,6 +70,15 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-08] ingest + ground | "What the Jagwar is" — the name etymology grounded in 3 public interviews
+Jen supplied three public-interview sources for the Jagwar Twin name. **Grounds what was the one uncited gap** (the etymology had stood as *"source: Roy"*).
+- **New sources:** [[Sources/Transcripts/Ones-To-Watch-2018-Debut-QA]] (the fullest: jaguar = *"looks into the souls of others… and back into itself; humans are mirrors for each other"*; Twin = light/dark + Gemini; **+ the ego-dissolution/song-as-gift origin**) and [[Sources/Transcripts/Highwire-2021-Power-of-Sound]] ("mirror of consciousness"; **the heart/mind origin** — *"from my mind… evil… creeps in very slowly"*; producers Matt Pauling + S1). ([[Sources/Transcripts/Mic-Magazine-UK-Myth-of-Music]] 2024 already in-vault: *"pulls people out of the darkness into the light."*)
+- **Grounded the etymology `[G]`** across [[Brain/Characters/Jagwar Twin]], [[The Jaguar]], the Ontology line, and the open note: jaguar = **mirror of consciousness** (reflexive seeing); Twin = light/dark + Gemini. The mirror reading ties the Jaguar to [[Source vs Reflection]] (added to its connections).
+- **Bears on the open A/B question (reframes Jen's hesitation, does not lock):** the jaguar's *grounded* trait is the **mirror**, NOT "the wise one who holds the string" — so the feared Jaguar↔Mary collision **softens** (string/wise-one stays Mary's/Roy's; mirror is the jaguar's → leans **Reading A**). BUT the 2024 *"pull into the light"* gives the jaguar a redemptive edge overlapping Mary → **Reading B not excluded.** Still `[?]`. The *"travels between worlds / sees into all beings"* attribute is **not** in these quotes — its sourcing stays open.
+- **Bonus groundings folded:** the **heart/mind split origin** → [[Brain/Roy Voice/Roy on the Heart-Mind Split]] (Highwire 2021, with "evil creeps in slowly" = Dweller-accumulates); the **ego-dissolution / vessel doctrine** (2018 OTW) → [[Brain/Roy Voice/Roy on Influences]] + corroborates the Rockwell/Keilim song-as-download fold on [[The Watchers]].
+
+---
+
 ## [2026-06-08] source prep | Moths to the Flame (track 6) — lyric Apple-verified; 6→7 seam logged; overview for external round
 Starting Moths (per the per-song loop). Captured the raw material; **interpretive Brain/Essay build waits** for Jen's GPT/Gemini round.
 - [[Sources/Lyrics/Moths to the Flame]] **→ stable** (Apple-verified, Jen screenshot 2026-06-08). Corrected the Drive copy's mis-placed trailing "?" — "So what?" is its own line; "It just keeps the moth population down" has no question mark. Spoken-word; ends on a wordless descending vocalization (Queen-of-the-Night register `[~]`, MERCY/ROY BG).

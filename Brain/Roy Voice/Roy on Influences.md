@@ -24,6 +24,7 @@ Roy English's own statements about musical and intellectual influences. Chronolo
 - **[2018-09-21]** On his mom's record collection: *"My mom listened to pretty much only weird world music. There'd be Celtic chants and amazing African drumming, Native American flute music."* — [[Atwood-2018-Loser]]
 - **[2018-09-21]** *"So yeah, a lot of things! But all of it had such a range of emotions that I pulled from."* — [[Atwood-2018-Loser]]
 - **[2018-09-21]** On how influences land: *"I don't think about it. What's inside you is bound to come out when you let it."* — [[Atwood-2018-Loser]]
+- **[2018]** **Mythology as named substrate + the name's origin:** *"I'm really big into **Mayan mythology** and all sorts of mythology from every different culture and religion."* → the **Jagwar Twin** name (jaguar = *"looks into the souls of others… and back into itself; humans are mirrors for each other"* = **mirror of consciousness**; Twin = light/dark + Gemini). Also the **ego-dissolution / song-as-gift origin:** *"everyone just let go of their egos… the songs felt like **gifts**… one little piece of the puzzle being used… This is not about us anymore. This is something else"* — why "Roy English" became "Jagwar Twin" (participation, not authorship; the vessel doctrine). — [[Sources/Transcripts/Ones-To-Watch-2018-Debut-QA]] *(corroborated [[Sources/Transcripts/Highwire-2021-Power-of-Sound]] 2021, [[Sources/Transcripts/Mic-Magazine-UK-Myth-of-Music]] 2024)*. Grounds [[Brain/Characters/Jagwar Twin]] / [[The Jaguar]].
 
 ## 2019 — STF era
 

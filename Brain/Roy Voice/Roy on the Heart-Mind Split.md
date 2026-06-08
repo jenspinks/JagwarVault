@@ -32,6 +32,10 @@ Roy English's own statements distinguishing the **heart / intuition / feeling** 
 
 (The split stated cleanly in a **press interview** — not only the Mirror Sessions: *head-writing = the artist's trap; the mind subservient to the heart.* Pairs with the in-vault line *"my mind must serve my heart"* ([[Roy]]) and underwrites [[Sir Lucius]] = the head/mind pole.)
 
+> *"I was creating music **from my mind**, thinking about what would be successful and what other people would like. I really lost my way for a long time without really knowing. **I think evil works a lot more subversively than we think, and it creeps in very slowly.**"* — Roy, [[Sources/Transcripts/Highwire-2021-Power-of-Sound|Highwire, 2021]] *(profile frame: "before Jagwar Twin… it was just Roy English, and **not all of his music came from the heart**")*
+
+(Earliest press statement of the **origin** of the split — and the one that ties it to **evil that "creeps in very slowly":** the Dweller-accumulates doctrine in Roy's own voice (cf. [[Sir Lucius]] "Dweller does not begin — accumulates"). Pre-Jagwar = mind/success-calculation; the turn to "Jagwar Twin" = the return toward the heart. Three press groundings now stack: Highwire 2021 → Audio Addiction 2024 → the Mirror Sessions Lucifer beat.)
+
 ## The mind's counterfeit conviction vs. the body's true knowing
 
 > *"The mind can do a thing where it tells you that what you're doing is genius — like, 'Oh, this is genius and people don't get it' — but it feels different inside when you're having those thoughts too. It feels very different."* — Roy, [[MirrorSessions-S1-DyingEmpty]]

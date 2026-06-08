@@ -43,7 +43,7 @@ hand-maintained thereafter.
 | `CONCEPT-TheVeil` | The Veil |  |
 | `CONCEPT-TheVoice` | The Voice |  |
 | `CONCEPT-TheWheel` | The Wheel |  |
-| `CONCEPT-TheJaguar` | The Jaguar | the project's emblem of *seeing* (Roy-sourced Mayan etymology); the container/frame, NOT a fourth peer-character; its order vs Mary held open `[?]` |
+| `CONCEPT-TheJaguar` | The Jaguar | the project's emblem of **seeing = mirror of consciousness** (grounded — 3 public interviews); the container/frame, NOT a fourth peer-character; its order vs Mary held open `[?]` |
 | `CONCEPT-SourceVsReflection` | Source vs Reflection | **master-key meta-frame** — does a reflection return you to the source or trap you in the image?; genus above Machine-vs-Human / Witnessing-vs-Surveillance / Circle-vs-Loop / Sun-vs-Moon; [[Brain/Concepts/Source vs Reflection]] |
 | `CONCEPT-WitnessingVsSurveillance` | Witnessing vs Surveillance | being-seen: witnessing transforms (El Roi) vs surveillance shapes (the Algorithm) |
 | `CONCEPT-CommunionVsSpectacle` | Communion vs Spectacle | many voices singing truth *together* (the Circle's chorus) vs many voices forced into the *same song* (the Circus's synchronized crowd); the distinction that prevents treating all collective singing as sacred. Seeded from Great Time to Be Human ("crooks and believers all sing the same song") |
