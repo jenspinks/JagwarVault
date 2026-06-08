@@ -96,6 +96,50 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **[03-12]** *"The year begins with Janus and the March Hare."* → **Janus = two-faced / [[Duality]]**; the **March Hare = the rabbit-ears iconography** ([[Sir Lucius]]).
 - **[03-12]** *"A good boy does not make a good man."* → the **"good boy" wound** ([[Essays/Concepts/Songs/Ballerina Boy]] — "prayed to be good"; [[Roy]]).
 - **[03-12]** *"This is me"* (q @onetwoOMG boy-by-tree) → identity.
+- **[03-12]** *"Generosity is not sacrifice. It's proof that you believe supply is infinite"* + *"The law of prosperity is generosity"* → abundance doctrine.
+- **[03-12]** *"I'm playing Jupiters Game."* → Jupiter (planet/expansion; [[The Pattern]] numerology).
+- **[03-11]** *"I love peeing and I love trees."*
+- **[03-11]** *"The Truth is a Game / The Game is the Truth."* → deceptive-truth + "playing to the gods" ([[Sir Lucius]]).
+- **[03-11]** *"The ocean does not need to perform."* → authenticity vs spectacle (the ocean/shore self; cf. "I am the shore").
+
+**January–February 2026 (run-up; *welcome to the circus* 1/16, *MAGIK* era)**
+- **[02-26]** *"Does it Matter?"* (×2) → matter/material `[~]`.
+- **[02-24]** *"When using Force, one side wins one side loses. But Power, true power creates win wins."* → **Power vs Force** (David Hawkins) — Lucius's force/power-games vs true Power.
+- **[02-22]** *"Digital onions."*
+- **[02-20]** *"Last weeks beef"* (+ reposted Korean fan-art). **[02-19]** *"Scrunch face talking with hands."*
+- **[02-17]** *"…ROY no longer seems to be interested in releasing new music. Instead he turns his attention to a **spoon**. sir lucius mocks ROY's weird behavior… pre-save 'weirdness'"* (+ video: ROY w/ headphones + Lucius w/ green apple) → **public anchor for [[Essays/Concepts/Songs/Weirdness|Weirdness]]** (track 13) + the ROY↔Lucius dynamic (Lucius mocks ROY).
+- **[02-16]** *"I'm one of the greatest to ever do it."* → Lucius-mode boast (cf. "I'm a mastermind").
+- **[02-15]** *"To Love is to meet the hidden part of yourself in someone else."* → the **mirror** (love = meeting the hidden self via the other; [[The Jaguar]] "humans are mirrors").
+- **[02-13]** *"The world you experience is partly the world your nervous system allows you to access."* → perception-gating.
+- **[02-12]** *"Every maze has a center."* (+ Lucius video) → **[[The Labyrinth]] / the center / "the inside of the inside"** ([[The Circle]]).
+- **[02-08]** *"3+3=6."* → numerology (6 = hexagram/Tiferet; [[The Pattern]]).
+- **[02-07]** *"I am the one, you are the only one - roy 22."* → identity; "roy 22" signature.
+- **[02-06]** *"you're welcome 🎪"* (+ video: *"I told you this would happen / jagwar twin's highest performing song"*) → **Lucius's "you're welcome"** (the premiere-speech line) + [[Welcome to the Circus]].
+- **[02-03]** *"welcome to the circus 🎪"* (+ video) → [[Welcome to the Circus]] single (1/16).
+- **[01-30]** *"Get in your head, you're dead."* → **mind = death** (the mind-slayer; [[Roy on the Heart-Mind Split]] / [[Sir Lucius]]).
+- **[01-30]** *"'People will do anything, no matter how absurd, in order to avoid facing their own soul.' — Carl Jung"* (+ Lucius video) → **another Roy-posted Jung quote** ([[Brain/Roy Voice/Roy on Influences]] — Jung as named influence; the avoid-the-soul = the mask/Empty Mirror).
+- **[01-29]** *"I am a creation of the now. Not a creation of the past."* · *"People who see around corners >"* (foresight/seeing).
+- **[01-26]** *"The path unfolds when you commit to the journey."* · *"Sit in the sun and everything's okay"* (the Sun; [[SOL]]).
+- **[01-21]** *"Every moment is the moment you decide."*
+- **[01-16]** *"Thank you God. I love you."* → Roy's faith (Christian frame).
+- **[01-15]** *"'welcome to the circus' out now 🎪."*
+- **[01-14]** *"True ascension requires commitment."*
+- **[01-13]** *(reposted MERCY @Unimerce1 "The art of allowing").*
+- **[01-13]** *"Music is how the world remembers who it is."* → **music = remembrance** ([[The Circle]] — remembrance-not-acquisition; the song that returns).
+- **[01-12]** *"Playing with forms."* · *"I'm the one they're talkin' bout 'welcome to the circus' out 1/16."*
+- **[01-12]** *"Relationships are fundamentally about two people reflecting to each other what they need to know to become more of who they are."* → **the mirror doctrine** ([[The Jaguar]] — "humans are mirrors for each other… you understand yourself").
+- **[01-11]** *"Magik happens when you align your personality with yours souls intention"* → [[Brain/Songs/Singles & EPs/MAGIK|MAGIK]] / personality↔soul alignment.
+- **[01-11]** *"Love isn't supposed to be easy. It's supposed to change you."*
+- **[01-10]** *"I win."* → Lucius boast `[?]`.
+- **[01-08]** *"'I like the sexual nature of ice cream' - Jagwar Twin."* (absurdist.)
+- **[01-08]** *"HeySARAVI."* `[?]` → **the name "SARAVI" appears in Roy's posts** — relationship to Jen's *Saravi* project / its origin unknown; flag for Jen, do not interpret.
+- **[01-06]** *"God runs in our blood - El Roy."* → **El Roy** (El Roi) + the divine-in-us (the spark; the Wise-One "all of us").
+- **[01-06]** *"A thought is a shadow."* → the mind casts shadows (cf. "brightest lights cast the deepest shadows"; mind = [[Sir Lucius]]).
+- **[01-05]** *"welcome to the BMRC 🎪 1/16."* → [[The Boss|BMRC]].
+
+**November 2025 (earliest Sir Lucius public emergence — ~4 months pre-album)**
+- **[2025-11-07]** *"Sir Lucius is both classy and snazzy 🖤 #jagwartwin #darkside #newmusic"* (+ video: Lucius rabbit-eared, white face, *"and i love my life"*) → **date-anchor for Sir Lucius's public X emergence (Nov 2025)** + **#darkside** ([[Sir Lucius]] §visual-emergence timeline — "billing changed, not the figure").
+- **[2025-11-07]** *"Limited edition 'not your homie' merch capsule drop… Store Closes 11/21"* (+ jagwartwin.myshopify.com; hoodies *"LEAVE ME ALONE,"* jaguar/globe/skull) → **"not your homie" merch** ([[Not Your Homie]]) + BMRC store, Nov 2025.
 
 ## Why they matter (load-bearing flags)
 - **Roy's stated Christianity / Christ-as-guide** (*"Jesus is my North Star," "I'm here to serve Jesus"*) + **collective "all of us"** (*"every person has it inside… inside out," "if it's happening for me it's happening for everyone"*) = **public Roy-voice grounding for the [[The Circle]] Wise-One "all of us / Christ-as-exemplar" read** (Jen's read, prev. `[W/~]` — now anchored).

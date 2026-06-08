@@ -26,7 +26,7 @@ Type: Concept / Doctrine — the keystone of the Jagwar Twin cosmology
 The Circle names a **shape of return**. Across the catalogue it carries three linked claims:
 
 1. **No beginning and no end** — time and path are circular, not linear; "lost" is an illusion, because every path "leads to the same place." (Roy's own framing, 2019 — see §Provenance.)
-2. **The thing sought is already within** — in the [[Essays/Concepts/Songs/The Circle|founding myth]], the maker *"hid the song inside their wings / on the inside of the inside,"* so recovery is **remembrance, not acquisition**. The journey is inward, not outward.
+2. **The thing sought is already within** — in the [[Essays/Concepts/Songs/The Circle|founding myth]], the maker *"hid the song inside their wings / on the inside of the inside,"* so recovery is **remembrance, not acquisition**. The journey is inward, not outward. **[G] Roy-voice anchor:** *"Music is how the world remembers who it is"* (@JagwarTwin 2026-01-13; [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]]) — music = the **remembrance** mechanism, in his words.
 3. **It grows from the center** — *"the circle will grow / from the inside of the inside."* Restoration spreads by awakening, organically, from the deepest interior outward — the structural **inverse** of the [[The Circus|Circus]]/[[The Algorithm|Algorithm]], which pull awareness outward.
 
 The Circle is **embodied, communal, and present-tense** — Roy "feels the circle" live, with the crowd. That is precisely what distinguishes it from the **Loop** (see §Circle vs Loop).

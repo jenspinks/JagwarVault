@@ -70,6 +70,16 @@ Jen's external hunt: **no public JT source** states the angels=angles / consonan
 
 ---
 
+## [2026-06-09] ingest | @JagwarTwin X archive completed (Nov 2025 – Jan/Feb/early-Mar 2026)
+Extended the X capture back to the **bottom of the archive** in [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]]. New load-bearing wirings:
+- **[[The Jaguar]]:** the **mirror doctrine restated** in 2026 X — *"Relationships are… two people reflecting… to become more of who they are"* (01-12) + *"To Love is to meet the hidden part of yourself in someone else"* (02-15) → reinforces the etymology's *"humans are mirrors for each other"* (a standing Roy idea, not a one-off).
+- **[[The Circle]]:** *"Music is how the world remembers who it is"* (01-13) → music = the **remembrance** mechanism, Roy-voice [G].
+- **Date-anchor — Sir Lucius's earliest public X emergence: 2025-11-07** (*"Sir Lucius is both classy and snazzy 🖤 #darkside,"* "and i love my life"; + "not your homie" merch) → supports the [[Sir Lucius]] "billing changed, not the figure" timeline (~4 months pre-album).
+- Captured (flagged, not wired): "Power vs Force" (Hawkins, 02-24); the **Weirdness** promo (02-17: ROY-vs-Lucius / the spoon); *"Every maze has a center"* (02-12 → [[The Labyrinth]]); another **Jung quote** Roy posted (01-30, *"avoid facing their own soul"*); *"God runs in our blood - El Roy"* (01-06); the Welcome-to-the-Circus / MAGIK / BMRC promos.
+- **⚠ FLAG for Jen:** *"HeySARAVI"* appears in a 2026-01-08 @JagwarTwin post — recorded `[?]`, **not interpreted**; relationship to your *Saravi* project / its origin is for you to say.
+
+---
+
 ## [2026-06-09] ingest | @JagwarTwin X run extended (Mar 11 – Jun 7 2026) + load-bearing wirings
 Jen supplied the full spring-2026 @JagwarTwin run. Captured all in [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]] (public, citable Roy-voice). Wired the load-bearing:
 - **[[The Pattern]] — Roy's OWN anti-overfit guard, grounded:** *"I would map a crow onto Mercury but that's just personal. I don't recommend you do it"* (04-07) — he runs the correspondence-map and disclaims it as personal in one breath. The "license the lens, not a master key" guard, in the author's voice.
