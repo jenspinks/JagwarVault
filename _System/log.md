@@ -14,6 +14,21 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-07] ingest + boundary RESOLVED | public receipts: banana=sterile, Ruach/mirror framework, Sir Lucius doctrine
+Jen supplied public screenshots that **close** the items flagged in the entry below. Three new public-source files in `Sources/Quotes/`:
+- [[Sources/Quotes/Roy IG Reel - Bananas (sterile gloss)]] — @jagwartwin comment *"most bananas are sterile and cannot reproduce by seed ;)"* (instagram.com/reels/DWo9DYzAUZ8/). **Closes the banana=sterile archival to-do** — gloss now cited, not just firsthand. (Cite only @jagwartwin's comment; the thread's @calamityjenthen replies are Jen's, not Roy's.)
+- [[Sources/Quotes/Roy FB Post - Diary of a Loser (Hebrew, Everything is a Mirror) 2019]] — 2019 public FB post: Hebrew-language interest + *"Everything is a mirror."*
+- [[Sources/Quotes/Sir Lucius IG Post - Keys to Instagram (truth deceiving)]] — 2024 public IG: *"Sir Lucius only tells the truth, the truth can be deceiving 🍏."*
+
+**⚠ CONFLICT RESOLVED (was flagged below):** the angle/angel + "nonsense" + mirror framework is **PUBLIC**, not private/secret-doc. [[Brain/Concepts/The Mouth]] was **not** contaminated — it correctly said "publicly stated," it just lacked citations. Now grounded: added the 2019 FB source, named **Ruach** (רוח = breath/spirit = vowels=angels) explicitly, cited the framework. The private phone **call** stays Secret-Doc / non-citable, but canon rests on the public anchors — not the call. Per Jen: this brings **Ruach into canon "outside the secret document."** ("Nonsense is the only sense that makes sense" kept public per The Mouth; exact verbatim receipt still being located — Jen still looking.)
+
+**Other canon updates:**
+- [[Brain/Characters/Sir Lucius]] — added the **deceptive-truth doctrine** (public 2024) + 🍏-mark + armor/shush/X-eyes iconography (reinforces "billing changed, not the figure"; doctrine predates the 2026 billing by ~17 months).
+- Bananas Source/Brain/Essay + [[The Banana]] — swapped the provenance hedge for the exact IG citation; flipped the "⚠ open conflict" flags to **resolved**.
+- [[Master Source List]] §7 — added a **Captured posts** table indexing all `Sources/Quotes/` files.
+
+---
+
 ## [2026-06-07] boundary + provenance | Bananas — gloss grounded, private decode sanitized, Mouth conflict flagged
 Two Jen rulings folded:
 - **Banana = sterile gloss → GROUNDED [G] (public).** Jen confirms Roy stated it publicly: an **IG comment** on one of his video posts + **in person** at a public moment (casual conversation before the gathered crowd — *not* filmed/private), **firsthand-witnessed.** Flipped `[?]` provenance-unconfirmed → grounded across [[Sources/Lyrics/Bananas]], [[Brain/Songs/Lucius Lullaby (2026)/Bananas|Bananas (Brain)]], [[Essays/Concepts/Songs/Bananas|Bananas (Essay)]], [[The Banana]]. Sterile-loop reading now **double-anchored** (Roy's public gloss + public botany). Open archival to-do: locate exact IG URL (not a rigor gate).

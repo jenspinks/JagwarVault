@@ -48,11 +48,11 @@ Heard in the album's logic — *Happy Face* (pretend you're fine) → *Bad Feeli
 
 ## Confirmed vs. Interpretive
 
-**Confirmed (lyric + EP + Roy's public statements):** the kids/permission address; the Good/Bad split; the dissociation line; *"the monkeys feeling funky"*; the banana as Lucius's EP2/EP3 trigger-prop off the fruit-bowl altar; Roy's public *"nowhere"* caption; **Roy's public banana=sterile gloss** (IG comment + stated in person at a public moment, firsthand-witnessed; confirmed public 2026-06-07).
+**Confirmed (lyric + EP + Roy's public statements):** the kids/permission address; the Good/Bad split; the dissociation line; *"the monkeys feeling funky"*; the banana as Lucius's EP2/EP3 trigger-prop off the fruit-bowl altar; Roy's public *"nowhere"* caption; **Roy's public banana=sterile gloss** — @jagwartwin IG comment *"most bananas are sterile and cannot reproduce by seed ;)"* (instagram.com/reels/DWo9DYzAUZ8/) + firsthand-witnessed in person.
 
 **Interpretive (strong):** the id-permission chant; the hijacked offering; the sterile-clone Loop (on public botany); the monkey-as-regression (Roy-posted Gurdjieff); dissociation-as-shadow-possession; the kindergarten duality; the domestic stove; the logical Happy-Face→Bad-Feeling→Bananas→Circus arc.
 
-**Resonance / open:** the Urkel recode (`[~]`, pending audio); banana-as-slapstick/decay; Pied Piper / failed catharsis. **Quarantined:** a private phone-call decoding of the "nonsense" motif — Secret-Doc only, not reproduced or used (see the open public-vs-private conflict noted at [[The Banana]] / [[The Mouth]]).
+**Resonance / open:** the Urkel recode (`[~]`, pending audio); banana-as-slapstick/decay; Pied Piper / failed catharsis. **Private (non-citable):** a phone *call* that touched the "nonsense" motif stays Secret-Doc — its call-specific decode is not reproduced or used. *(The angle/angel + "nonsense" + mirror framework itself is **public** — grounded at [[The Mouth]]; conflict resolved 2026-06-07.)*
 
 ## Open Questions
 - [ ] Speaker — Lucius inciting, Roy's unleashed id, or the horror of the split *witnessed*? (Likely all three.)
@@ -68,4 +68,4 @@ Heard in the album's logic — *Happy Face* (pretend you're fine) → *Bad Feeli
 | [[Happy Face]] / [[Bad Feeling (Oompa Loompa)]] / [[Great Time to Be Human]] | Childish form, grotesque content; the recurring stove. |
 
 ## Notes
-Reviewer-AI round (2026-06-07) contributed the hijacked-offering, sterile-loop, monkey-as-Gurdjieff, and arc readings. **Boundary work this pass:** removed a private-phone-call cross-ref from the EP transcript (Secret-Doc only / quarantined per [[Boundaries]]). **Provenance resolved (2026-06-07):** Roy's banana=sterile gloss confirmed **public** (IG comment + firsthand-witnessed in person) — the sterile-loop reading is now double-anchored on Roy's own public statement **and** public botany.
+Reviewer-AI round (2026-06-07) contributed the hijacked-offering, sterile-loop, monkey-as-Gurdjieff, and arc readings. **Boundary work this pass:** removed a private-phone-call cross-ref from the EP transcript (Secret-Doc only / quarantined per [[Boundaries]]). **Provenance resolved (2026-06-07):** Roy's banana=sterile gloss confirmed **public** — exact source: @jagwartwin IG reel comment (instagram.com/reels/DWo9DYzAUZ8/, [[Sources/Quotes/Roy IG Reel - Bananas (sterile gloss)]]) + firsthand-witnessed in person — so the sterile-loop reading is double-anchored on Roy's own public statement **and** public botany. The broader angle/angel + "nonsense" + mirror framework also resolved **public** (grounded at [[The Mouth]]); only the private *phone call* stays Secret-Doc / non-citable.

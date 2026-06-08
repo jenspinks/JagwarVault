@@ -29,6 +29,9 @@ The Lucius / Mask / Circus iconography is visible in the **original music videos
 
 **Motif (~2020) → assembled face (2023) → named/billed/claiming (2026): the *visual* claim precedes the *verbal* one.** This is the strongest evidence yet for the doctrine above — *billing changed, not the figure* — and it's **grounded in public iconography** ([[Boundaries]] §visible-iconography), not only the written record. **Guard:** the iconography *accumulated* and was *retroactively named*; this is **not** a claim that a conscious "Sir Lucius" was authoring or claiming songs in 2020. [W]
 
+## "Only tells the truth, but the truth can be deceiving" [G — public, 2024]
+The defining public statement of Lucius's method. Announcing the **account-handoff** (Roy giving @jagwartwin *"the keys"* to Sir Lucius), the post reads: *"Remember, while Sir Lucius only tells the truth, the truth can be deceiving 🍏"* (none — [[Sources/Quotes/Sir Lucius IG Post - Keys to Instagram (truth deceiving)]], 2024-10-30). So Lucius is **not a liar** — he is a teller of **true things, warped**: selection, framing, and emphasis do the deceiving (cf. the literally-true Yesod-metric of [[Sources/Quotes/Sir Lucius IG Post - One Hit Wonder]]). **🍏 green apple = his mark** (knowledge / premature-mind fruit; the 🗡🍏 signature; the green-apple thread in [[The Banana]]). Iconography: **knight armor + shush (finger to lips) + X-eyes** — the armor recurs in EP1, and the doctrine is public **2024**, ~17 months before the 2026 billing (supports *"billing changed, not the figure"* above).
+
 ## Three Modes [W] (Gurdjieff "many I's")
 1. Speech (Power) — cold, prophetic, invulnerable; [[Brain/Songs/Welcome to the Circus]] "final boss"; premiere speech "Get out of the way. You're welcome."
 2. Sidekick (Leif) — goofy, comic; foil; reports to unseen "Boss".

@@ -4,7 +4,7 @@ type: concept
 status: draft
 confidence: medium
 source_quality: primary-source
-sources: []
+sources: [Sources/Quotes/Roy FB Post - Diary of a Loser (Hebrew, Everything is a Mirror) 2019.md]
 related: [SONG-WelcomeToTheCircus, CHAR-SirLucius, CHAR-Roy, SONG-BALLERINABOY, SONG-SOL]
 connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
@@ -42,7 +42,7 @@ There are two modes of mouth in the project: **the mouth that testifies** (Roy's
 
 ## Traditional / Esoteric Resonance
 
-- **Hebrew angles/angels model** (Roy's publicly stated framework) — consonants are angles (structure, teeth, palate, tongue shaping sound); vowels are angels (breath, spirit, the animating current). Teeth falling out = structural collapse of the language apparatus
+- **Hebrew angles/angels model** — **[G] grounded publicly** (Roy's public Hebrew-language interest, 2019, [[Sources/Quotes/Roy FB Post - Diary of a Loser (Hebrew, Everything is a Mirror) 2019]]; + the El Roi / consonants-vowels framework on [[Brain/Characters/Sir Lucius]]): **consonants = angles** (structure, teeth, palate, tongue shaping sound); **vowels = angels = breath/spirit, _Ruach_** (רוח, Hebrew: breath / wind / spirit — the animating current). Teeth falling out = structural collapse of the language apparatus. *(This framework was previously held as secret-doc-only; now grounded outside any private source — Jen 2026-06-07.)*
 - **Voiceless scream** — Edvard Munch's *The Scream*; trauma freeze response; Cassandra (prophesying truth but condemned to be unbelieved)
 - **Job 30:20** — *"I cry to you, and you do not answer me"*; Lamentations 3:8 — *"Even when I cry and shout, He shuts out my prayer"*
 - **Gnashing of teeth** (Matthew 8:12, 13:42, etc.) — the seven references in the Gospels; here the teeth fall out rather than gnash — collapse of even the capacity for anguish
@@ -61,7 +61,7 @@ There are two modes of mouth in the project: **the mouth that testifies** (Roy's
 - "I'll chew you up, spit you out" — *Welcome to the Circus*
 - "Say you're good, say you're fine" — *Happy Face*
 - Force-feeding cake (visual) — *I Like to Party* (2022 music video)
-- "Nonsense is the only sense that makes sense" — Roy's publicly stated writing philosophy; the vowel-mouth producing meaning before structure arrives
+- "Nonsense is the only sense that makes sense" — Roy's publicly stated writing philosophy; the vowel-mouth producing meaning before structure arrives. **Public anchor:** EP2 on-camera *"It's nonsense. It's all nonsense."* *(Exact verbatim-source for this phrasing still being located — Jen 2026-06-07. NB: a near-identical line surfaced on a private phone call; that call stays Secret-Doc / non-citable, but the philosophy itself is public — do not reproduce the private-call decode.)*
 
 ---
 

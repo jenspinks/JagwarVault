@@ -195,6 +195,18 @@ Twitter/X, Instagram, TikTok content from Jagwar Twin's verified accounts.
 
 Specific posts referenced in vault pages should be cited with date, platform, and screenshot/URL preserved in `Raw/Media/screenshots/` per the [[Media Index]].
 
+**Captured posts (transcribed → `Sources/Quotes/`):**
+| Date | Platform / account | Post | What it grounds | File |
+|---|---|---|---|---|
+| 2019-06-24 | Facebook / Jagwar Twin | "Diary of a loser" (mirror selfie) | **Hebrew-language interest** + *"Everything is a mirror"* → public anchor for the angle/angel + **Ruach** + mirror framework; "Diary of a loser" persona; body-as-text "I'M NOT HERE" | [[Sources/Quotes/Roy FB Post - Diary of a Loser (Hebrew, Everything is a Mirror) 2019]] |
+| 2024-10-30 | Instagram / @jagwartwin | "keys to his Instagram" (Sir Lucius, armor+shush) | **"Sir Lucius only tells the truth, the truth can be deceiving 🍏"** (deceptive-truth doctrine, public 2024); account-handoff device; 🍏 = Lucius mark | [[Sources/Quotes/Sir Lucius IG Post - Keys to Instagram (truth deceiving)]] |
+| ~2026 | Instagram / @jagwartwin | *Bananas* reel (DWo9DYzAUZ8) | **"most bananas are sterile and cannot reproduce by seed ;)"** (public banana=sterile gloss); *"Nowhere is not a destination…"* caption | [[Sources/Quotes/Roy IG Reel - Bananas (sterile gloss)]] |
+| 2026 | Instagram / @jagwartwin | "one hit wonder" rant (Sir Lucius) | Yesod-metric contempt; Lucius account-voice | [[Sources/Quotes/Sir Lucius IG Post - One Hit Wonder]] |
+| — | Instagram / @jagwartwin | "Half the Man" (Father) | body-as-text motif | [[Sources/Quotes/Roy IG Post - Half the Man (Father)]] |
+| — | Instagram / @jagwartwin | #1 Champion visualizer (El Roy caption) | El Roy / la Conquistadora | [[Sources/Quotes/Roy IG Reel - 1 Champion Visualizer (El Roy caption)]] |
+| 2026-05-28 | Instagram / @jagwartwin | Bailey *Labour VII* annotated page (story) | grounds Roy's Bailey engagement | [[Sources/Quotes/Roy IG Story - Bailey Labour VII]] |
+| — | X / @jagwartwin | "Everyone's a guru" (aquarium) | humility-pole of the guru line | [[Sources/Quotes/Roy X Post - Everyone's a Guru (Aquarium)]] |
+
 ---
 
 ## 8. Inner Circle (Public Subscription Channel)
