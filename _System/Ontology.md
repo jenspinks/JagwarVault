@@ -45,6 +45,7 @@ hand-maintained thereafter.
 | `CONCEPT-TheWheel` | The Wheel |  |
 | `CONCEPT-SourceVsReflection` | Source vs Reflection | **master-key meta-frame** — does a reflection return you to the source or trap you in the image?; genus above Machine-vs-Human / Witnessing-vs-Surveillance / Circle-vs-Loop / Sun-vs-Moon; [[Brain/Concepts/Source vs Reflection]] |
 | `CONCEPT-WitnessingVsSurveillance` | Witnessing vs Surveillance | being-seen: witnessing transforms (El Roi) vs surveillance shapes (the Algorithm) |
+| `CONCEPT-CommunionVsSpectacle` | Communion vs Spectacle | many voices singing truth *together* (the Circle's chorus) vs many voices forced into the *same song* (the Circus's synchronized crowd); the distinction that prevents treating all collective singing as sacred. Seeded from Great Time to Be Human ("crooks and believers all sing the same song") |
 
 ## Characters
 

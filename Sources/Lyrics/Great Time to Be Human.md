@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Apple Music + Jen in-hand (2026-06-07): capitalized archetypal-station nouns (Mother/Man/Lover/The Fountain/The Mountain/Someone/They/The Chemist) confirmed as official text"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 ---
