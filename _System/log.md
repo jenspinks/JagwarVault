@@ -14,6 +14,19 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-07] ingest | interview — Audio Addiction Media (2024-01-12, Jen-cleaned) — Trojan Horse / Genesis / mirror
+Ingested [[Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror]] — **Jen-cleaned** transcript (ASR fixes + flags documented), filed `stable`. Strong **public** anchors (all on-record):
+- **"Trojan Horse music"** `[G]` — Roy's own public term (sing-along mantra carrying dark content; Happy Face + the deathofmygeneration.fun forced-smile experiment + **444 Hz "healing frequency"**). Public source for the Trojan-Horse reading — **no private phone call needed.** (Already in canon via Loser/Manifesto; this is a cleaner anchor.)
+- **Bhasker / nursery-rhyme method** `[G]` — "study Twinkle Twinkle… the simplest songs are the most complex" → grounds the *Lucius Lullaby* "twisted adolescent themes / hands that rock the cradle" substrate.
+- **"The Circle is Jagwar Twin's Genesis story"** `[G]` — public confirmation of Circle-as-origin.
+- **Mirror thesis** `[G]` — "be the clearest mirror… remind people who they truly are… like Fight Club, beat yourself up"; **"the mind must be subservient to the heart"** (the Heart/Mind split).
+- **Soul Is A Star / Joni Mitchell sign-off** `[G]` — full on-record account (interpolation, labels refused, friend-of-a-friend chain, "me and Janet Jackson") → the Joni-as-prime-influence thesis.
+- **Polarity = internal light/dark reflected as external** `[G]` — the founding premise, plainly.
+- **Angels/angles framework NOT present** — re-confirms it has no public source (keep [[The Angels and the Angles]] at `[~]`).
+- Indexed in [[Master Source List]] §11.
+
+---
+
 ## [2026-06-07] ingest | interview — "A Conversation with Jagwar Twin" (MB, ~58 min) — MAJOR Roy-voice source
 Ingested [[Sources/Transcripts/MB-Conversation-Jagwar-Twin (Mental Health, Cancel Culture)]] (YouTube, auto-caption `draft`; Roy verbatim, host condensed; date ~2021–2022 pending). **Grounds a lot of currently strong-read material in Roy's own public words:**
 - **★ Ballerina Boy — the origin story on the record:** kid wanted to act → mom put him in dance class → only boy → girls' *"you're not a real boy, you're not a real boy"* → came home crying, ashamed → adult dance videos = shadow-work reclaiming it. **Grounds [[Essays/Concepts/Songs/Ballerina Boy]] as autobiographical + public.**
