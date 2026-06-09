@@ -244,6 +244,46 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **[2025-11-02]** *"LOVE IT or hate it 'not your homie' is here!! 'That cruelest of tyrants - public opinion' — H. P. Blavatsky"* (+ NYH visualizer image: Lucius + apple, lyric *"Let's not pretend"*) → **H. P. Blavatsky NAMED [G]** (Roy credits her explicitly — first named attribution; the March 2026 "mind is the slayer" post is her words without her name). Quote frames **public opinion as the cruelest tyranny** → **grounds NYH's thesis in Roy's voice**: the song is resistance to this specific tyranny. **Promotes Blavatsky to named influence** → [[Brain/Roy Voice/Roy on Influences]] §2025 Blavatsky. → [[Not Your Homie]] / [[Sir Lucius]] / [[The Algorithm]].
 - **[2025-11-01]** *"'not your homie' official visualizer is out now one take. no edit. sir lucius says you're all welcome for this masterpiece. #jagwartwin #creepypastas #happyface #fyp #notyourhomie"* → **NYH release window** (single Oct 31; visualizer Nov 1); Lucius-voice taking credit (*"you're all welcome"*); "one take. no edit." = authenticity-performance from the least-authentic character.
 
+---
+
+## 2024 (Bad Feeling era — VERBATIM capture, Jan 1 → Jun 25 2024)
+
+*Higher fidelity than the 2025 text-capture above — these are **verbatim** quotes (Jen, 2026-06-09). Register note: the 2024 voice is markedly **absurdist/comedic + "delulu"-playful**, NOT the late-2025 darkside/esoteric gravity — a real tonal shift datum (the Lucius turn is ~Oct 2025). Most of the run is personal texture; the load-bearing posts are pulled out below, filler summarized.*
+
+**New named influences / esoteric substrate [G]:**
+- **[2024-04-16]** *"I'm listening to a 6 1/2 hour lecture on bees"* → **Rudolf Steiner's bee lectures** → grounds Steiner engagement in **2024**, via his actual *lectures* (not just the 2025 quote-cards) — deepens [[Brain/Roy Voice/Roy on Influences]] §Steiner from "quotes him" to "studies him."
+- **[2024-02-11]** *"reading **Prometheus Rising** while watching the superbowl"* → **Robert Anton Wilson NAMED (new node)** — RAW's *Prometheus Rising* (the 8-circuit model / reality-tunnels). Directly underwrites the **"delulu" / reality-as-malleable** cluster and the loop/mind material. → Roy on Influences (new).
+- **[2024-03-23]** *"…the master calls a butterfly — Illusions, Richard Bach"* → **Richard Bach, *Illusions* NAMED (new node)** — the reluctant-messiah / Maya-illusion thread. → Roy on Influences (new).
+- **[2024-03-03]** *"In the words of Gandhi, I am rocks"* → playful **misattribution** (not a real Gandhi line) — log as comedic, not provenance. **[2024-03-31]** *"Being Socrates would be so scary. Rough end"* (Socrates).
+
+**Ego-dissolution / no-self / heart-mind (Roy-voice — grounds the vessel doctrine in 2024):**
+- **[2024-03-24]** *"I'm not a woman I'm not a man I am not a person I am not myself I am nothing I am no thing"* → **no-self / anatta** (matches the "ME" crossed-out tattoo + vessel doctrine, [[Sources/Artifacts/Roy - Tattoos (body inventory)]]).
+- **[2024-02-28]** *"I'm a genius when I get out of the way"* → the vessel (ego out of the way; "the instruments play me").
+- **[2024-02-25]** *"Mind and its contents are functionally identical"* → nondual consciousness (RAW-adjacent).
+- **[2024-04-07]** *"It's become apparent that I am, indeed finally out of my mind. That cage sucked."* → **mind-as-cage** ([[The Labyrinth]] / [[Roy on the Heart-Mind Split]]).
+- **[2024-02-17]** the **I-AM cluster:** *"Got my masters degree at IAMU"* (I Am You), *"I am social@media"*, *"It's not the house that's haunted It's us"* → nondual identity play.
+
+**El Roy signature (2024 grounding):**
+- **[2024-02-09]** long diary post closing *"…I am Roy. Everyone is Roy. — El Roy"* → grounds the **El Roy signature + collective-self** ("everyone is Roy" = we-are-all-mirrors) in 2024. Also **[2024-02-10]** *"Love — El Roy."* → [[Witnessing vs Surveillance]] / [[Sir Lucius]] (El Roi).
+
+**Loop / Circle (pre-LOOP-single — ~8 months before the Aug 2025 single):**
+- **[2024-01-05]** *"Life is a loop"* → **the Loop in Roy's voice, 2024** (single LOOP = Aug 2025). → [[LOOP]] / [[The Circle]] / `CONCEPT-TheLoop`.
+- **[2024-01-09]** *"Delulu and trululu are part of the same loop"*; **[2024-03-21]** *"Time is a circle squared"*; **[2024-04-09]** *"Circle feet"* + **[2024-04-05]** *"You gotta pay attention"* (replies re *The Circle*); **[2024-01-07/08]** *"Dreams are warnings from your subconscious"* / *"It was all a dream, or was it?"*
+
+**The "delulu" motif (sustained 2024 throughline) [~]:** *"Delulu is a currency"* · *"Get delulu, stay delulu"* · *"Make the delulu trululu"* · *"Todays mantra: be more delusional."* → **delusion-as-creative-currency / reality-tunnel** (RAW-adjacent; *"make the delulu trululu"* = belief shaping reality). A distinct 2024 frame that the 2025 darkside turn largely drops.
+
+**Mirror / Mirror Sessions / seeing:**
+- **[2024-05-13/14/15]** *The Mirror Sessions* w/ **Briana Cuoco** (series active 2024; [[Sources/Transcripts/MirrorSessions-BrianaCuoco-Journey]]); *"Thank you for being a mirror @MikeAdamOnAir."* **[2024-01-12]** *"We are all lost until we see ourselves."*
+
+**Bad Feeling 2024 rollout + the gallery [G]:**
+- **[2024-01-20]** *"**Everything's Perfect Here** opens tonight! This is our first gallery show and pop-up store… Lauren Powell Projects"* (+ glowing **orange sculpture**) → **load-bearing: Roy named his first gallery show after the [[Bad Feeling (Oompa Loompa)]] lyric "everything's perfect here"** — grounds the phrase as a load-bearing motif + a physical artwork. ([[Bananas]]/[[Bad Feeling (Oompa Loompa)]] register.)
+- Rollout dates: **[2024-03-07]** Bad Feeling **music video** (premiere chat 8:50am PST); **[2024-04-03]** *"Bad Feeling (Oompa Loompa) (Live Acoustic) out now"* (the acoustic lineage → album track 15); **[2024-05-03]** *"PERFECT Remix out now"*; **[2024-06-25]** *Bad Feeling* **LIVE at the Masonic Lodge, Hollywood Forever** (cemetery show; fans = *"Jagwar Oompa Loompas"* — the Wonka fan-name).
+- **[2024-02-28]** *"I swear I had nothing to do with this"* → the **Glasgow "Willy Wonka Experience" fiasco** (Feb 2024) — ironic adjacency to his own Oompa-Loompa thread while touring the UK.
+
+**Tour / biography / collabs (grounded bio):** **[2024-05-01]** opening for **Thirty Seconds to Mars** (Seasons World Tour 2024) + teasing the **Hurricane** video; **[2024-06-06]** Scotland (kilt, ~10k); **[2024-05-19]** Vienna (pants fell mid-show, sold-out arena); **[2024-05-07]** **Kendrick Lamar** collab (LA Weekly); **[2024-04-24]** Bru radio (mythology & ancestors). **[2024-01-21]** the fan **voicemail line (813) 602-7962** *"direct line to the truth"* + **[2024-01-18]** a Spanish-"Matrix" acapella voicemail.
+
+**Texture (filler, not load-bearing):** a dense comedic/absurdist register — *"Gatorade is for horses," "New Jersey isn't real," "Antarctica doesn't exist until I go there," "I AM: HUMMUS," "Memes are magik," "I love being rich"* (tongue-in-cheek). The 2024 throughline is **play**; the esoteric gravity arrives with the late-2025 Lucius turn.
+
 ## Why they matter (load-bearing flags)
 - **Roy's stated Christianity / Christ-as-guide** (*"Jesus is my North Star," "I'm here to serve Jesus"*) + **collective "all of us"** (*"every person has it inside… inside out," "if it's happening for me it's happening for everyone"*) = **public Roy-voice grounding for the [[The Circle]] Wise-One "all of us / Christ-as-exemplar" read** (Jen's read, prev. `[W/~]` — now anchored).
 - **The vessel doctrine, explicit:** *"Done being a person. I'm just a vessel for God."* → [[The Upload]] / [[The Pattern]] (song-as-download; the 2018 ego-dissolution origin, now restated 2026).
@@ -257,6 +297,10 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **Gurdjieff is the dominant named source [G]:** the Oct text-capture adds ≥4 more Gurdjieff quote-posts (Oct 9, 12, 15, 7) on top of the screenshot set — making him **by far Roy's most-cited named influence** in the launch window. The Oct 15 *"can't awaken using the same system that put you to sleep"* is the load-bearing one (Lucius as Gurdjieffian disruptor). → [[Brain/Roy Voice/Roy on Influences]] §Gurdjieff.
 - **LOOP = the break-the-Loop anthem, Roy-voice [G] (Aug 28–30 2025):** *"If you're ready to break the LOOP leave a ∞"* → grounds [[LOOP]] in the Circle-vs-Loop canon, in his own promo voice.
 - **MERCY collaboration anchor [G] (Aug 22 2025):** *"NEW MUSIC W MERCY"* + @Unimerce — pre-NYH public collab confirmation.
+- **Tonal-shift datum [G]:** the **2024** run is absurdist/comedic + *"delulu"* (delusion-as-creative-currency, RAW-adjacent); the **late-2025** run turns darkside/esoteric/Lucius. The Lucius gravity is a *deliberate turn* (~Oct 2025), not Roy's baseline register.
+- **New named influences surfaced in 2024 [G]:** **Robert Anton Wilson** (*Prometheus Rising*, Feb 11) + **Richard Bach** (*Illusions*, Mar 23) + **Steiner's bee lectures** (Apr 16 — studies him, not just quotes him). → [[Brain/Roy Voice/Roy on Influences]].
+- **"Everything's Perfect Here" is a Roy artwork [G] (Jan 20 2024):** his first gallery show, named after the [[Bad Feeling (Oompa Loompa)]] lyric (glowing orange sculpture) — grounds the phrase as a load-bearing motif, not just a lyric.
+- **"Life is a loop" [G] (Jan 5 2024):** the Loop in Roy's voice ~8 months before the LOOP single → [[LOOP]] / [[The Circle]].
 - **Blavatsky NAMED, NYH thesis grounded [G]:** *"'That cruelest of tyrants - public opinion' — H. P. Blavatsky"* (Nov 2, NYH release day) → first explicit Roy-credit of Blavatsky by name; public opinion = the tyrant = what Lucius weaponizes / what NYH resists. Grounds Theosophy as a named substrate. → [[Not Your Homie]] / [[Brain/Roy Voice/Roy on Influences]] §2025 Blavatsky.
 - **Regardie NAMED, integration doctrine in Roy-voice [G]:** *"'If you face something that you fear and recognize it for what is, you give it balance. You restore equilibrium.' — Israel Regardie"* (Nov 4) → Regardie = Hermetic/Golden Dawn tradition; quote = shadow-recognition → balance (the integration arc in its esoteric form). New named influence. → [[The Dweller on the Threshold]] / [[Brain/Roy Voice/Roy on Influences]] §2025 Regardie.
 - **Happy Face → Not Your Homie continuity (Roy-voice) [G]:** *"if you like happy face in 2025, you'll love 'not your homie'"* (Nov 5) → Roy names both songs in the same breath; the mask (2018) ↔ the mask-refusal (2025). → [[Happy Face]] / [[Not Your Homie]].
@@ -266,4 +310,4 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **Steiner opens the "does Roy name Steiner?" question (CLOSED) [G]:** Oct 20 + 23 posts explicitly name Steiner — the Dweller concept can now be cited as adjacent to a named influence (though Steiner's specific Dweller-doctrine quote hasn't appeared; scope carefully). → [[The Dweller on the Threshold]].
 
 ## Citation
-- @JagwarTwin (X/Twitter, verified), posts dated **2025-06-13 → 2026-06-07**. Captures: Apr–Jun 2026 run + Oct 18 – Nov 15 2025 = Jen screenshots (verbatim); **Oct 17 2025 → Jun 13 2025 = text-capture of the logged-in timeline (research-doc, paraphrased; summary-level wording — pin before quoting with marks).** Browser crashes blocked capture before 2025-06-13.
+- @JagwarTwin (X/Twitter, verified), posts dated **2024-01-01 → 2026-06-07**. Fidelity tiers: **(a) verbatim** — Apr–Jun 2026 + Oct 18–Nov 15 2025 (Jen screenshots) + **Jan–Jun 2024** (Jen verbatim capture, 2026-06-09); **(b) text-capture, summary-level** — Oct 17 2025 → Jun 13 2025 (research-doc paraphrase; pin before quoting with marks). Gap: Jun 13 2025 ← back is partly unbridged between the 2024 verbatim run and the 2025 text-capture.
