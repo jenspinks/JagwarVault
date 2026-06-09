@@ -67,7 +67,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 
 **Brain/** (machine semantic memory — terse, frontmatter, tiered connections)
 - `Brain/Songs/` — **47** files; 13 with full frontmatter (the 7 STF essay-filed + 6 from Lucius Lullaby / Singles area); rest scaffolds ◦
-- `Brain/Concepts/` — **25** files, **all with frontmatter ✦** (incl. [[Nigredo]], [[Duality]], [[Witnessing vs Surveillance]]; [[The Pattern]] `CONCEPT-ThePattern`; **2026-06-05: [[Brain/Concepts/The Circle|The Circle]]** `CONCEPT-TheCircle` — keystone doctrine, 2019 date-floor; **+ [[Brain/Concepts/Source vs Reflection]]** `CONCEPT-SourceVsReflection` — the master-key meta-frame above Machine-vs-Human)
+- `Brain/Concepts/` — **26** files, **all with frontmatter ✦** (incl. [[Nigredo]], [[Duality]], [[Witnessing vs Surveillance]]; [[The Pattern]] `CONCEPT-ThePattern`; **2026-06-05: [[Brain/Concepts/The Circle|The Circle]]** `CONCEPT-TheCircle` — keystone doctrine, 2019 date-floor; **+ [[Brain/Concepts/Source vs Reflection]]** `CONCEPT-SourceVsReflection` — the master-key meta-frame above Machine-vs-Human; **2026-06-09: [[Brain/Concepts/The Digital Double]]** `CONCEPT-TheDigitalDouble` — the AI/digital-double thread, sibling to The Upload)
 - `Brain/Characters/` — 4 (Roy ✦, Sir Lucius ✦, Mary ◦, Jagwar Twin ◦)
 - `Brain/Albums/` — 3 (Lucius Lullaby ✦, 33 ◦, Subject to Flooding ◦ — substantially developed page; tracklist + composer credits + Flood frame)
 - `Brain/Roy Voice/` — **NEW (2026-05-28):** authorial-voice index — thematic aggregation of Roy's public statements, designed for context-loading during song analysis. See [[Brain/Roy Voice/README]]. Sources/Transcripts/ holds verbatim per-interview excerpts; Brain/Roy Voice/ holds the by-theme aggregation. Registered in [[Master Source List]] §11 (27 interviews queued for ingestion). **Updated 2026-05-29:** The Mirror Sessions aggregated in; new page [[Roy on the Heart-Mind Split]] added (Roy equates the rational mind with the Lucifer archetype — grounds [[Sir Lucius]] = the mind).
@@ -104,6 +104,10 @@ Each links the Brain entry (always) and the Essay (if written ✦).
 - [[Duality]] ✦ — root structure of the project (Roy/Lucius heart-mind split); correct ordering not elimination
 - [[The Pattern]] ✦ — `CONCEPT-ThePattern`; Roy's own term for the one fractal law (As Above So Below), the unified system on his "I'm 33" board (Bailey + Walter Russell + Kybalion + Kabbalah + Jung + Plato); hub for [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]]
 - **Joni Mitchell thread** (inherited-influence, confirmed via the Soul Is A Star co-write) → map-of-content: [[Sources/Reference/Joni Mitchell (index)]]
+- **Digital Age cluster** (the digital/AI territory — two strands) →
+  - *Digital selves / AI personhood:* [[The Digital Double]] ✦ `CONCEPT-TheDigitalDouble` (SARAVI, the angelbaby AI-collab, the clone-fear, Lucius-as-double) · [[The Upload]] ✦ (the self→net→Eye *operation*) · [[Brain/Roy Voice/Roy on the cosmology (Manifesto)]] (Hall of Mirrors / SARAVI, Roy's stated framework)
+  - *Digital system / environment:* [[The Algorithm]] · [[The Aquarium]] · [[The Spectacle]] · [[The Audience]] · [[Witnessing vs Surveillance]] · [[Communion vs Spectacle]]
+  - *Released instantiations:* [[Online]] (the upload/clone song) · [[The Watchers]] (the net-as-Eye + clone-fear)
 
 **Secondary** ◦
 The Mask · The Mouth · The Voice · The Audience · The Light-Bearer · The Spectacle · Consumption · Fire · The Wheel · The Veil · The Aquarium · Panem et Circenses

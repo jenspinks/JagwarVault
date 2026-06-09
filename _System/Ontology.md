@@ -30,6 +30,7 @@ hand-maintained thereafter.
 | `CONCEPT-TheAudience` | The Audience |  |
 | `CONCEPT-TheCircle` | The Circle | **keystone doctrine** — no beginning/end, song-hidden-within, remembrance, "inside of the inside"; [[Brain/Concepts/The Circle]]. Distinct from `SONG-TheCircle` (the *33* song) |
 | `CONCEPT-TheCircus` | The Circus |  |
+| `CONCEPT-TheDigitalDouble` | The Digital Double | the AI / digital-double thread — Roy's **real** digital entities (SARAVI, his named AI; the angelbaby AI-artist collab) + the **thematic** doubles (the clone-fear, Lucius-as-double); sibling to [[Brain/Concepts/The Upload]] (the *operation*) — this holds the *entities*; carries the SARAVI=Lucius? open question |
 | `CONCEPT-TheDwellerOnTheThreshold` | The Dweller on the Threshold |  |
 | `CONCEPT-TheLaborsOfHercules` | The Labors of Hercules |  |
 | `CONCEPT-TheLabyrinth` | The Labyrinth |  |
