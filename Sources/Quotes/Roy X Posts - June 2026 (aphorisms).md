@@ -2,7 +2,7 @@
 type: quote
 citable: true
 status: stable
-verified_against: ["Screenshots of x.com/JagwarTwin profile + posts, Apr 11 – Jun 7 2026 (Jen, 2026-06-09)"]
+verified_against: ["Screenshots of x.com/JagwarTwin profile + posts, Apr 11 – Jun 7 2026 (Jen, 2026-06-09)", "Screenshots of x.com/JagwarTwin profile + posts, Nov 7–15 2025 (Jen, 2026-06-08)"]
 ingested: 2026-06-09
 ingest_source: "Public X/Twitter @JagwarTwin (verified screenshots, Jen 2026-06-09)"
 ---
@@ -137,7 +137,34 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **[01-06]** *"A thought is a shadow."* → the mind casts shadows (cf. "brightest lights cast the deepest shadows"; mind = [[Sir Lucius]]).
 - **[01-05]** *"welcome to the BMRC 🎪 1/16."* → [[The Boss|BMRC]].
 
+**December 2025 (EP-rollout / pre-release)**
+- **[01-05]** *"sir lucius' plan in Episode 2 worked. 'not your homie' is flying and success is undeniable. ROY wants to release his next song, but lucius reminds him that **vulnerability loses, pointing to ROY's lowest streaming song, BALLERINA BOY, as proof**. Luckily, sir lucius has another"* (+ video: white-fur ROY vs rabbit-eared Lucius at the **candelabra / fruit-bowl altar**). → **Roy's public narration of the theatrical EP2 plot** — grounds **"vulnerability loses" = Lucius's thesis** + **BALLERINA BOY = ROY's lowest-streaming song** (the market rejects the authentic/vulnerable one). → [[Sir Lucius]], [[Essays/Concepts/Songs/Ballerina Boy]], [[Not Your Homie]].
+- **[2025-12-31]** *"🙏"* (q "Best Songwriting Of 2025" finalist nod).
+- **[2025-12-30]** *"The only secret to being a genius is being one."*
+- **[2025-12-29]** *"Jagwar Twin sells out stadiums 🏟"* → Lucius-mode boast (vs the "can't sell out a tour" rant).
+- **[2025-12-25]** *"Shoutout to the 3 wise men"* (the magi / the **three**) · *"Happy earthday Jesus"* (Christ + earth/incarnation; Roy's Christian frame).
+- **[2025-12-24]** *(reposted Daimonic Datura: "healing people by thinking sweet things about them is underrated").*
+- **[2025-12-23]** *"More live shows in 2026?"* (+ live video). **[2025-12-22]** *"There's nothing better than sitting in the sun, doing meaningful work and building."*
+- **[2025-12-19]** *"I did it."* **[2025-12-18]** *"Think as a ☀️ sun"* → the radiant self ([[SOL]]).
+- **[2025-12-10]** *"Let's not pretend we're not pretending. Blleeepp #jagwartwin #darkside #notyourhomie"* → meta-pretending / the mask ([[Happy Face]]).
+- **[2025-12-07]** *"Create space for magic to happen"* ([[Brain/Songs/Singles & EPs/MAGIK|MAGIK]]).
+- **[2025-12-05]** *"…hiding behind numbers is wack but 91M is pretty cool. Thank you for your hearts"* (+ **Spotify Wrapped 2025**: 10.2M listeners · 3.7M hrs · **91M streams** · 184 countries; split-face + "FEAR" tattoo) → **2025 metrics** ([[Jagwar Twin]]).
+- **[2025-12-01]** *"🎪"* (circus teaser).
+
 **November 2025 (earliest Sir Lucius public emergence — ~4 months pre-album)**
+- **[2025-11-27]** *"You're only bound by the patterns of your own mind."* → the mind as cage ([[Roy on the Heart-Mind Split]] / [[The Labyrinth]]).
+- **[2025-11-26]** *"Leave sir lucius alone ✋🖤 #jagwartwin #darkside"* (+ video *"coming in like a plague"* = [[Welcome to the Circus]] lyric) → the **defend-Lucius inversion** of the STOP-SIR-LUCIUS campaign.
+- **[2025-11-26]** *"I'm vaguely specific."*
+- **[2025-11-25]** *"'To speak the truth one must know what the truth is and what a lie is…' — **Gurdjieff**"* (+ video *"flip the switch"* = [[Happy Face]]) → **Gurdjieff named** ([[Brain/Roy Voice/Roy on Influences]]) + the **truth/lie** distinction (ties to [[Sir Lucius]] "only tells the truth" / "truth is a spectrum but a lie is a lie").
+- **[~2025-11-20]** video *"put on a happy face"* → [[Happy Face]].
+- **[2025-11-17]** *"sir lucius for president 🧑‍⚖️🖤"* (+ video *"I might run for president"*) → Lucius/power satire ([[The Boss]]).
+- **[2025-11-15]** *"To be free you must surrender. Thats the paradox. Letting go is the ultimate strength/18/"* → **surrender/freedom paradox** (release = liberation; Lucius's grip on control IS the trap; "the ultimate strength" reframes surrender as power not defeat); **/18/** suffix `[?]` — possibly a numbered aphorism series; Hebrew *chai* (18 = life) `[~]`; highest-engagement post in this window (7.7K impressions, 123 likes, 20 RTs). → [[Sir Lucius]] / [[Roy on the Heart-Mind Split]] / [[The Labyrinth]].
+- **[2025-11-14]** *"The harder you work the luckier you get."*
+- **[2025-11-13]** *"Let's not pretend 🖤 #jagwartwin #darkside #notyourhom"* (+ video: Lucius performance still, lyric overlay *"take that smile"*) → **[[Not Your Homie]]** promo; the mask-refusal frame ([[The Mask]] / [[Happy Face]]).
+- **[2025-11-10]** *"The truth is a lie that nobody can tell 🖤 #jagwartwin #badfeelingjt #darkside"* (+ video: lyric overlay *"when the moon hit the sky"*) → **[[Bad Feeling (Oompa Loompa)]]** promo using the lyric as headline — **public anchor for the truth-lie thesis as the song's center** (Roy's deceptive-truth doctrine under [[Sir Lucius]]; cf. [[Sources/Lyrics/Bad Feeling (Oompa Loompa)]]).
+- **[2025-11-10]** *"People are made up in your head."* → **the projected Other** (we construct others from our own mind's contents; ties to [[The Jaguar]] — "humans are mirrors for each other") / [[Witnessing vs Surveillance]].
+- **[2025-11-10]** *"if you're not a member of the inner circle, join now in time for our monthly meeting tomorrow."* → Inner Circle meeting promo.
+- **[2025-11-10]** *"Ironing clothes really does something for my neurodivergence."* → personal/slice-of-life (neurodivergence, self-disclosed).
 - **[2025-11-07]** *"Sir Lucius is both classy and snazzy 🖤 #jagwartwin #darkside #newmusic"* (+ video: Lucius rabbit-eared, white face, *"and i love my life"*) → **date-anchor for Sir Lucius's public X emergence (Nov 2025)** + **#darkside** ([[Sir Lucius]] §visual-emergence timeline — "billing changed, not the figure").
 - **[2025-11-07]** *"Limited edition 'not your homie' merch capsule drop… Store Closes 11/21"* (+ jagwartwin.myshopify.com; hoodies *"LEAVE ME ALONE,"* jaguar/globe/skull) → **"not your homie" merch** ([[Not Your Homie]]) + BMRC store, Nov 2025.
 
@@ -148,6 +175,8 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **Rosicrucian rose-cross, Roy-voice:** *"the rose blooms in the center of the cross"* → [[The Pattern]] (board rose-cross/Venus).
 - **Invisibility + the unseen self** (×3 + *"can't see myself"*) → [[Roy]] / El Roi / [[Witnessing vs Surveillance]].
 - **Board is public** (birthday post) + **underground event is public** (May 5) — provenance anchors.
+- **Surrender/freedom paradox, Roy-voice [G]:** *"To be free you must surrender. Thats the paradox. Letting go is the ultimate strength"* (Nov 15, highest-engagement post in the Nov window) → the integration arc made explicit: Lucius's clinging = the cage; release = the way through. → [[Sir Lucius]] / [[Roy on the Heart-Mind Split]] / [[The Labyrinth]].
+- **Bad Feeling truth-lie thesis, Roy-voice [G]:** *"The truth is a lie that nobody can tell"* (#badfeelingjt, Nov 10) = Roy using the lyric as the post's headline → publicly marks the truth-lie inversion as the song's load-bearing center (not ornamental; Roy's own framing).
 
 ## Citation
-- @JagwarTwin (X/Twitter, verified), posts dated 2026-04-11 → 2026-06-07; bio + captures as of 2026-06-09 (Jen screenshots).
+- @JagwarTwin (X/Twitter, verified), posts dated 2025-11-07 → 2026-06-07; bio + captures: Apr–Jun 2026 run as of 2026-06-09 (Jen screenshots); Nov 7–15 2025 posts as of 2026-06-08 (Jen screenshots).
