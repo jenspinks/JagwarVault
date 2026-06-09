@@ -2,9 +2,9 @@
 id: CONCEPT-Inversion
 type: concept
 status: draft
-confidence: medium
+confidence: high
 source_quality: primary-source
-sources: []
+sources: ["Sources/Artifacts/Roy - Tattoos (body inventory).md", "Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts).md"]
 related: [SONG-WelcomeToTheCircus, CONCEPT-TheCircus, CHAR-SirLucius, CONCEPT-TheLightBearer, CONCEPT-TheMirror]
 connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
@@ -24,6 +24,23 @@ Type: Concept / Symbol
 Inversion is the structural operation where the proper hierarchical relationship between elements is reversed — spirit-above-matter becomes matter-above-spirit, original becomes reflection, divine becomes demonic, the tree grows downward. In the Jagwar Twin project, inversion appears in the Circus (the Circle run backward), the upside-down world of the WTTC pre-chorus, and the sustained *imitatio diaboli* (imitation of the divine by the infernal) that runs through Lucius's vocabulary.
 
 The key move: **the surface of an inverted system looks identical to the original.** You cannot tell the Circle from the Circus by their shape — both are circular, both spin. Inversion is detectable only from the *inside*, by what it does to you: do you feel more yourself or less yourself as you go deeper in?
+
+**Inversion ≠ negation.** Lucius does not *negate* the sacred structure — he **keeps the form intact and reverses its direction.** Same liturgy, same circle, same prayer, same word — pointed backward. This is why Lucius can look like Roy ("two sides of the same coin"): the architecture is identical; only the **vector** is flipped — contraction where there should be expansion, fear where there should be faith, the crowd's untruth where there should be communion. It is the **mirror turned from revelation to distortion** — *"what was once clear in Roy became a distorted reflection"* ([[Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts)|LOOP lore]]).
+
+---
+
+## The grounded anchor — "Fear Functions like Prayer in Reverse" [G]
+
+The cleanest statement of the principle is **on Roy's body**: the tattoo **"[FEAR] Functions like Prayer in Reverse"**, inked under the "Fear" tattoo on his clavicle ([[Sources/Artifacts/Roy - Tattoos (body inventory)]]). His own gloss: *"Fear can drive us away from our destiny; I act out of love instead of Fear."*
+
+Fear is not the *absence* of prayer — it is prayer **running backward.** Lucius's engine is inverted faith: whatever faith/love directs *toward* destiny, fear directs *away* — same mechanism, reversed sign. This moves Inversion from an analytic lens to a **Roy-grounded principle** (his own body, his own gloss).
+
+### The evidence cluster (his own artifacts)
+- [G] **ROSE ESOR** — the rose-word inked mirror-reversed (*rose | esor*) around the central `+` ([[Sources/Artifacts/Roy - Tattoos (body inventory)]]). The Rosy Cross built as a palindrome — the sacred symbol *and* its reversal in one mark.
+- [G] **"Rorrim Ehtni Lived"** — the [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)|"I'm 33" board]] ends in mirror-writing: *"Devil in the Mirror,"* reversed. The Devil is literally the word read backward in a mirror. (Already in canon as Rorrim Ehtni; the body's ROSE ESOR is the same grammar.)
+- [G] **Lowercase = contraction.** Per the Sir Lucius character card: *"his songs are in lower case because darkness contracts, unlike light that expands."* Typography inverts — capitals (expansion / Jagwar Twin) → lowercase (contraction / sir lucius). Ties to the board's *"one must contract / to expand / to infinity."*
+- [W] **The Dark Circle within the Circle** ([[Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts)|LOOP lore]]) — a counterfeit/contracted circle nested inside the true one.
+- [W] **Same line, opposite spirit** — *"Everyone's a guru"*: Roy says it as rueful humility, Lucius as contempt. The clearest *behavioral* inversion — identical words, reversed vector. → [[Sir Lucius]] / [[The Aquarium]].
 
 ---
 
@@ -84,4 +101,4 @@ This deserves special attention. In [[Brain/Songs/Welcome to the Circus]], Luciu
 
 ---
 
-*Stub — to be developed.*
+*Grounded on Roy's body and lore (2026-06-09): "Fear = Prayer in Reverse" + ROSE ESOR + lowercase-contraction. Confidence raised medium→high.*
