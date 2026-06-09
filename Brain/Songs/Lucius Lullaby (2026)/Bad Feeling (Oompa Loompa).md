@@ -59,6 +59,9 @@ Lucius claims the track (EP1), so the speaker is Lucius-mode — but that **does
 - **"Are you fucking serious?" = the rupture-point** — the lone un-jingled, profane aside punctures the candy surface; the only un-coated line.
 - **Interpolation as method** — recoding a known cultural song-cell is the album's signature (Wonka here; nursery rhymes in GT2BH / NYH / #1 Champion; Row-Row + Dylan's "serve somebody" in [[Lucius Lullaby]]).
 
+## "Everything's Perfect Here" = a Roy artwork, not just a lyric [G]
+The chorus phrase became the title of Roy's **first gallery show + pop-up** — *"Everything's Perfect Here"* (Lauren Powell Projects, LA, opened **2024-01-20**), centered on a **glowing orange sculpture** ([[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]] §2024). So the *"they say everything's perfect here"* toxic-positivity line is **load-bearing across media** — Roy built a physical art-environment around it, two years before the album track. The gallery framing (a *staged* perfect space you walk into) reinforces the §toxic-positivity reading: the "perfect here" is an **installation**, a manufactured environment, not a description.
+
 ## Resonance [~]
 - **Corrupted "That's Amore" moon + luna/lunacy:** *"when the moon hits the sky, I'm a little unwell"* inverts Dean Martin's moon-romance into sickness — **"unwell under the moon" = lunacy** (luna → moon-madness). In the vault light-model the moon = reflected light / Yesod / **Lucius**: the dread arrives under *his* indirect light. (Matchbox Twenty "Unwell" = thematic only, not a claimed allusion.)
 - **Candy paradise = false Eden / Maya:** a closed system of tests and punishments; resonates with Roy's posted epistemics (Kierkegaard *"the crowd is the untruth"*; Bailey *"illusion is the first product of the mind divorced from the soul"*; Blavatsky/Steiner on Maya). *"They say everything's perfect here"* = Maya / the crowd's untruth.
