@@ -291,6 +291,28 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 
 **Texture (filler, not load-bearing):** a dense comedic/absurdist register — *"Gatorade is for horses," "New Jersey isn't real," "Antarctica doesn't exist until I go there," "I AM: HUMMUS," "Memes are magik," "I love being rich"* (tongue-in-cheek). The 2024 throughline is **play**; the esoteric gravity arrives with the late-2025 Lucius turn.
 
+---
+
+## 2023 (Sep 4 – Dec 27 2023 — summary-level, year-reliable)
+
+*Source: a compiled-summary doc of genuine @JagwarTwin posts (Jen-classified genuine 2026-06-09; the fabricated material was elsewhere). **Wording is summary/paraphrase — pin before quoting with marks.** **Year is reliable:** anchored by "Just saw Wonka" (the film released Dec 15 2023) + the Bad Feeling/Wonka remix push. Register continues the 2024 play/absurdism. Load-bearing pulled out; filler summarized.*
+
+**Named-influence + introspective anchors [content [G], wording pending pin]:**
+- **[2023-10-19] Jung quoted — pushes Jung engagement back to 2023.** *"'The one eye of the godhead is blind / The one ear of the godhead is deaf / The order of its being is crossed by chaos' — C. Jung"* (from Jung's *Answer to Job* / *Septem Sermones* register), + follow-up: *"I've encountered the divine order (which is always chaos). Learning to trust myself again has been the hardest part."* → **Jung named in 2023**, ~2.5 yrs before the 2026 IG-Story sourcing; the *order-crossed-by-chaos* + self-trust pairing prefigures the integration/Nigredo material. → [[Brain/Roy Voice/Roy on Influences]] §Jung.
+- **[2023-11-29] The stars / self-trust thread (key biographical) [G content]:** *"At 5 years old I looked up at the stars and told them to show me what to do. As we grow, the world tells us we can't… I'm relearning to trust myself. Don't share your creative ideas with those who don't see the same magic; they'll call you crazy."* → the **lost-and-recovered seeing/magic** (El Roi *"I've always known I could see"*; the Circle's remembrance; *"don't let anybody convince you you're not magic,"* 2025). The childhood-stars origin, in his voice.
+- **[2023-11-27]** *"Being an artist is becoming a warrior / Being a warrior is becoming an artist."* → the warrior/artist braid (cf. *"I've been a warrior, I've been a priest,"* 2026).
+- **[2023-12-27]** *"I wanna know where Osho got his hats"* (Osho ref) · **[2023-11-22]** *"Plants don't know they're plants"* · **[2023-12-16]** *"What's the religion on Mars?"* · **[2023-12-22]** *"Merry Chris+Mas"* (cross-stylized + cosmic-nebula image) — the esoteric/absurd blend.
+
+**Releases / rollout (2023) [G dates]:**
+- **[2023-11-03] "life is good" ft. AngelBaby** released (+ psychedelic anthropomorphic-rabbit art; Sound.xyz 50-copy NFT drop). `[?]` **AngelBaby = a real featured collaborator** — flag *not* to conflate with the *"angel baby"* divine-feminine voice in [[Weirdness]] absent evidence (MERCY-rule: real collaborator ≠ symbol). → [[Life Is Good]].
+- **[2023-11-13/14] "Great Time to Be Human" live-acoustic video** released. → [[Great Time to Be Human]].
+- **[2023-11-22] The Mirror Sessions w/ Paris Berelc** — dates the series active Nov 2023 (corroborates [[Sources/Transcripts/MirrorSessions-ParisBerelc-Reiki]]).
+- **[2023-11-30] "Happy Face" → 100M streams** + **NASA "Message in a Bottle"**: *"We sent 'Happy Face' to Jupiter's moon via NASA's Message in a Bottle program!"* → the **submission-era** Europa-Clipper post (names/poem submitted 2023; the craft launched Oct 2024). Happy-Face-to-space, grounded 2023. *(Distinct from the Oct-2024 "in Jupiter's orbit by 2030" launch post, which remains pending date-confirm.)*
+- **[2023-12-15→27] Wonka tie-in:** *"Just saw Wonka. iCried"* (12-15); *"Bad Feeling (Oompa Loompa) is now one of the top trending songs"* (12-27); the push to get Bad Feeling on the Wonka soundtrack. → grounds the **Bad Feeling ↔ Wonka/Oompa-Loompa context to Dec 2023** (the film window). → [[Bad Feeling (Oompa Loompa)]].
+- **[2023-12-07]** ocean-protection petition (*"protect 30% of our ocean by 2030,"* genzeroaction.com) — activism datum.
+
+**Texture (filler):** *"Pooping is awesome," "I am Bon Jovi," "I want the Willy Wonka converse,"* the candle thread, *"Flip phone is the new god tech"* — same comedic register as 2024.
+
 ## Why they matter (load-bearing flags)
 - **Roy's stated Christianity / Christ-as-guide** (*"Jesus is my North Star," "I'm here to serve Jesus"*) + **collective "all of us"** (*"every person has it inside… inside out," "if it's happening for me it's happening for everyone"*) = **public Roy-voice grounding for the [[The Circle]] Wise-One "all of us / Christ-as-exemplar" read** (Jen's read, prev. `[W/~]` — now anchored).
 - **The vessel doctrine, explicit:** *"Done being a person. I'm just a vessel for God."* → [[The Upload]] / [[The Pattern]] (song-as-download; the 2018 ego-dissolution origin, now restated 2026).
@@ -317,4 +339,4 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **Steiner opens the "does Roy name Steiner?" question (CLOSED) [G]:** Oct 20 + 23 posts explicitly name Steiner — the Dweller concept can now be cited as adjacent to a named influence (though Steiner's specific Dweller-doctrine quote hasn't appeared; scope carefully). → [[The Dweller on the Threshold]].
 
 ## Citation
-- @JagwarTwin (X/Twitter, verified), posts dated **2024-01-01 → 2026-06-07**. Fidelity tiers: **(a) verbatim** — Apr–Jun 2026 + Oct 18–Nov 15 2025 (Jen screenshots) + **Jan–Jul 2024** (Jen verbatim capture, 2026-06-09); **(b) text-capture, summary-level** — Oct 17 2025 → Jun 13 2025 (research-doc paraphrase; pin before quoting with marks). Gap: Aug 2024 → Jun 13 2025 remains unbridged. **Rejected:** a "Jul–Dec 2024" doc whose Aug–Dec section was a year-shifted (and memory-reconstructed) duplicate of 2025 content — only its July-2024 head was kept (see the year-error caution in the 2024 section).
+- @JagwarTwin (X/Twitter, verified), posts dated **2023-09-04 → 2026-06-07**. Fidelity tiers: **(a) verbatim** — Apr–Jun 2026 + Oct 18–Nov 15 2025 (Jen screenshots) + **Jan–Jul 2024** (Jen verbatim capture, 2026-06-09); **(b) summary-level, year-reliable** — **Sep–Dec 2023** (compiled-summary, genuine posts per Jen; year anchored by the Dec-2023 Wonka window) + Oct 17 2025 → Jun 13 2025 (research-doc paraphrase). Both (b) tiers: **pin before quoting with marks.** Gap: Aug 2024 → Jun 13 2025 remains unbridged. **Rejected:** a "Jul–Dec 2024" doc whose Aug–Dec section was a year-shifted (memory-reconstructed) duplicate of 2025 content — only its July-2024 head was kept.
