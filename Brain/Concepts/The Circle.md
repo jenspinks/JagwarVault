@@ -90,6 +90,18 @@ Why this is the signature, not a detail:
 
 So *"the crowd sings it back"* is the whole Circle in one image — the song returns, the crowd remembers, the circle grows — the exact antithesis of the feed that counts you.
 
+## The feminine thread — who holds the string [W]
+
+The founding myth is **bracketed by two feminine figures**, and both hold the same object. It **opens** with a female primordial Jaguar — *"Long ago, there was a Jagwar with a world tied on a string / And **she** made other Jagwars, then taught them to sing"* — who possesses the string and gives the song. It **closes** with a female Wise One — *"the wise one remembered **she** once held the string."* Beginning and end rhyme, and both are "she."
+
+Read against [[The Thread]] (Thread = feeling, the animating principle), the cosmogony resolves into one image: **the feminine holds the string/thread (feeling, the song); the "new kings" cut it** (*"the new kings told Jagwars they never could sing"* — suppression of the song, severance of feeling); **recovery = re-membering the feminine thread.** The kings are the masculine system-of-control (cages, commodification, "you can't sing") — mind divorced from heart at civilizational scale, the same severance [[Sir Lucius]] is at personal scale.
+
+So the feminine is not a side-figure in this myth; she is its **missing structural half** — the held thread of feeling the whole arc loses and recovers. This positions the divine-feminine ([[Mary]] / Shekinah, the Wise One, the primordial Jaguar) as **one feminine *function* seen at three points of the cycle**: origin (ties the world on the string, teaches the song), exile (the hidden source within the darkened world — Shekinah-in-exile), and return (the Wise One who re-members). `[W]` — grounded in [[Sources/Lyrics/The Circle]] + the Thread canon. *(Guard: archetypal **continuity**, not a claim that the three are one named character, and **not** a roster figure — cf. the [[The Jaguar]] tetramorph caution.)*
+
+## "There's only one song" — the connective spine [G]
+
+Roy's Manifesto FAQ states it outright: *"The world needs music, but the world doesn't need more songs. **There's only one song. I'm still learning how to write it.**"* ([[Sources/Transcripts/Manifesto-FAQ]] — mirrors.jagwartwin.com, public). Read through the Circle, this is the doctrine's spine: **the one song is the primordial song** the maker hid *"inside their wings"* and the new kings suppressed — and the catalogue is **successive attempts to re-transmit it.** It ties together the Circle's hidden song, the public *"song hidden inside [the] wings"* phrasing, [[SOL]] / *"Soul Is A Star"* (the soul *as* the star/song), and the Joni "fifty-year transmission" thread. The Wise One's *remembrance* and the **feminine thread** (§ above) are **what the one song is recovered by** — not writing a new song but re-membering the only one. *(`[G]` on the quote; the catalogue-as-one-song synthesis is `[W]`.)*
+
 ## Resonance
 - **Tzimtzum / the Great Work** — the maker withdraws, leaving the song hidden within creation (Lurianic); caged fragmentation → remembered reintegration (tikkun).
 - **Divine spark / kingdom within** (`CONCEPT-Malkhut`) — the song concealed *inside* = the essential truth uncovered, not acquired (Luke 17:21).
