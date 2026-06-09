@@ -31,7 +31,9 @@ Roy frames the project around a critique of internet culture's transformation of
 (Riff on YHWH / Exodus 3:14 — "I am that I am" — divine self-naming.)
 
 ### On music and necessity
-> "The world needs music, but the world doesn't need more songs. There's only one song."
+> "The world needs music, but the world doesn't need more songs. There's only one song. I'm still learning how to write it."
+
+*(Full line re-verified verbatim against the live page 2026-06-08, Listen section — the closing sentence "I'm still learning how to write it" was missing from the 2026-05-28 capture. This continuation is load-bearing: it frames the whole catalogue as successive attempts to write the one song.)*
 
 ### Web3 / Hall of Mirrors structure
 
