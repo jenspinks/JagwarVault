@@ -4,7 +4,7 @@ citable: true
 status: stable
 verified_against: ["Screenshots of x.com/JagwarTwin profile + posts, Apr 11 – Jun 7 2026 (Jen, 2026-06-09)", "Screenshots of x.com/JagwarTwin profile + posts, Nov 1–15 2025 (Jen, 2026-06-08)", "Screenshots of x.com/JagwarTwin profile + posts, Oct 18–31 2025 (Jen, 2026-06-08)"]
 ingested: 2026-06-09
-ingest_source: "Public X/Twitter @JagwarTwin (verified screenshots, Jen 2026-06-09)"
+ingest_source: "Public X/Twitter @JagwarTwin. Apr–Jun 2026 + Oct–Nov 2025 = Jen verified screenshots. Oct 17 2025 → Jun 13 2025 = text-capture research-doc (logged-in timeline scrape, paraphrased), folded 2026-06-09."
 ---
 # Roy X Posts — Spring 2026 (Apr–Jun, @JagwarTwin) (Source)
 
@@ -173,6 +173,53 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **[2025-10-19]** *"'I will tell you one thing that will make you rich for life. There are two struggles: an Inner-world struggle and an Outer-world struggle…you must make an intentional contact between these two worlds; then you can crystallize data for the Third World, the World of the Soul.'"* — `[attribution cut off in screenshot; content matches Gurdjieff; Oct 18 post below names him explicitly]` (+ video: Lucius in white car, *"you're no friend"* = [[Not Your Homie]] lyric) → **two-worlds doctrine** `[?/Gurdjieff-likely]` (Inner/Outer struggle → the World of the Soul = integration; the heart-mind split as the two worlds, synthesis as the third). → [[Roy on the Heart-Mind Split]] / [[Sir Lucius]].
 - **[2025-10-18]** *"'Two things in life are infinite; the stupidity of man and the mercy of God.' — Gurdjieff #jagwartwin #newmusic #darkside"* (+ video: underwater performance, *"ashes ashes"* lyric overlay) → **Gurdjieff NAMED [G]** (earliest Oct post; he appears again Oct 19 `[?]` + Nov 25). *"Ashes ashes"* = ring-around-the-rosie nursery motif ([[Welcome to the Circus]]); "stupidity of man" = sleeping/mechanical humanity (the NPC crowd); "mercy of God" = grace available despite the stupidity. → [[Welcome to the Circus]] / [[The Audience]] / [[Brain/Roy Voice/Roy on Influences]] §2025 Gurdjieff.
 
+*↓ Below: the earlier run (Oct 17 → Jun 13 2025), from a **text-capture** of the logged-in timeline (research-doc, paraphrased), not screenshots. Citable as public posts `[G]`, but wording is **summary-level** — pin load-bearing lines to the actual post before quoting with marks. Browser crashes blocked capture before Jun 13 2025.*
+
+- **[2025-10-17]** *"What if it was just easy?"*
+- **[2025-10-15]** *"'You can never awaken using the same system that put you to sleep in the first place.' — Gurdjieff"* (+ video, *"we all fall down"* / *"leave me alone"*) → **load-bearing [G]:** the system that produces the sleep cannot produce the waking — i.e. the algorithm/spectacle can't yield integration; the shock must come from outside the performance. Reframes [[Sir Lucius]] as the Gurdjieffian disruptor, not only the shadow. → [[Welcome to the Circus]] / [[The Circle]] / [[Roy on the Heart-Mind Split]].
+- **[2025-10-14]** *"'All that you see out in front of you is how you feel inside your head.' — Alan Watts"* (+ *"take that smile"* clip) → second Watts; perception = projection of inner state (the world as mirror of the head). → [[The Jaguar]] / [[Brain/Roy Voice/Roy on Influences]] §Watts.
+- **[2025-10-13]** *"sir lucius on your timeline telling you what to wear and what to like and how to be 🦇🖤 #jagwartwin #darkside #happyface"* (+ *"you don't know me"* bonfire clip) → Lucius = the algorithmic taste-dictator; the timeline as his pulpit. → [[The Algorithm]] / [[Sir Lucius]].
+- **[2025-10-12]** *"'Everything is going in the only way it can go. If people were different everything would be different.' — Gurdjieff #happyface #notyourhomie"* → determinism + individual-transformation thesis (change the person → change everything; not systemic reform). → §Gurdjieff.
+- **[2025-10-11]** *"You don't have a personality, your personality has you."* `[?attr — Gurdjieff-flavored]` → the Lucius condition exactly: the personality that *has* Roy ([[Sir Lucius]] §Three Modes / "many I's"). High engagement (718 imp).
+- **[2025-10-10]** *"…who's gonna tell them about sir lucius? #happyface #jagwartwin #sirlucius"* (+ *"if you're sad"* clip).
+- **[2025-10-09]** *"'The crowd neither wants nor seeks knowledge, and the leaders of the crowd, in their own interests, try to strengthen its fear and dislike of everything new and unknown. The slavery in which mankind lives is based upon this fear.' — Gurdjieff #happyface #badfeelingjt"* → the crowd enslaved by fear, fear weaponized by leaders = the algorithm/spectacle's logic ([[The Audience]] / [[The Spectacle]] / [[Sir Lucius]]).
+- **[2025-10-08]** *"'If you meditate and the Devil comes, make the Devil meditate.' #halloween"* (+ a humorous record-label-email complaint) → integration-not-elimination in one line (don't fight the shadow — sit it down); Zen-flavored, attribution unmarked.
+- **[2025-10-07]** *"What is the White House?"* · the **Dr. Dre studio story** (*"he wanted to put drums on it. I said 'I don't really like drums'… that was the last time I talked to Dr. Dre"* — corroborates the board's Dre DM, [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]]) · *"'Dead people are governing our lives.' — Gurdjieff"* (#sirlucius #notyourhomie #badfeelingjt; the rule of the spiritually-dead / the past governing the present).
+- **[2025-10-06]** *"The ultimate frequency is love."* + a Gurdjieff truth/lies quote.
+- **[2025-10-05]** *"Ashes ashes we all fall down"* (#darkside #badfeelingjt = [[Welcome to the Circus]] nursery motif) + *"If you have great fear you will face it, and if you have great love you will also face it."*
+- **[2025-10-03/04]** *"Love begins where the ego ends."* · *"You cannot be halfhearted and succeed… you need to be all in."* · Sir Lucius gothic-art teaser.
+- **[2025-10-01/02]** **Not Your Homie** 10/31 promos; *"what is sir lucius preparing?"*
+
+**September 2025 (LOOP afterglow / pre-NYH)**
+- **[2025-09-28]** *"The light is a promise. The darkness is a test."* (posted twice). Also: opened for the **Jonas Brothers** in Anaheim (tour datum).
+- **[2025-09-22]** *"Passion transforms into power. Power transforms into truth."*
+- **[2025-09-19]** *"The highest wisdom is almost imperceptible."*
+- **[2025-09-16]** *"Silence is the language of God."* → [[The Voice / Silence]] / the Mouth.
+- **[2025-09-14/15]** *"The world's in flames."* · *"You made it. Reminder to self: you became it on the inside before the world validated it on the outside."* (inside-out / the Circle).
+- **[2025-09-13]** *"Walk like someone who is already free before the world has caught up."* · *"I'm Aladdin and Cinderella combined."* · **Inner Circle** monthly Discord announcement (cat-faced esoteric poster).
+- **[2025-09-10/12]** *"Don't be an idiot. Serve people. That's it. Two rules."* · *"Ancestors sent me."* · *"Love is an answered prayer."*
+- **[2025-09-06]** *"You will remain in the dark until you can see in the dark."* → seeing-in-the-dark (the Jaguar / El Roi).
+- **[2025-09-02/04]** *"Break the LOOP and step into your destiny."* · *"Let your old self die."* · *"Root yourself in truth not trauma."* · *"Wealth is not the reward, it's the side effect of who you became."* · *"My girl like Prince Zuko."*
+
+**August 2025 (LOOP release, 8/29)**
+- **[2025-08-30]** *"I wrote this alone. That's where the magic flows"*; **LOOP out now** (drop an emoji "if you're on the light side").
+- **[2025-08-28/29]** Heavy **LOOP** promo: *"God brought you here. If you're ready to break the LOOP leave a ∞"*; *"LOOP (Visualizer) out now"* (YouTube). → grounds **[[LOOP]]** as the **break-the-Loop** anthem (Circle-vs-Loop canon, Roy-voice).
+- **[2025-08-25]** *"When god wanted to make David a king he didn't send a crown. He sent Goliath."* → **the obstacle-as-the-making** (the adversary is the apparatus of becoming — reads onto [[Sir Lucius]] as necessary opponent). Also: *"You got yourself in here. You can get yourself out."*
+- **[2025-08-23]** *"To lead is to serve."* (the service doctrine; cf. "my mind must serve my heart").
+- **[2025-08-22]** *"NEW MUSIC W MERCY"* + retweet of **@Unimerce**'s track *"Throw It Away"*; *"One week until LOOP."* → **public MERCY collaboration anchor** (@Unimerce = Mercedes Colletta Britton). → [[Not Your Homie]].
+- **[2025-08-21]** *"The deeper esoteric symbolism of the green apple 🍏 — knowledge that hasn't been earned; misuse of the mind; intelligence divorced from spirit; power access before spiritual maturity — fruit that is unripe. No wonder why Sir Lucius is always holding one."* → **load-bearing [G]: Roy's own decode of the green apple** = *intelligence divorced from spirit* = the mind-divorced-from-heart symbol Lucius carries. **Independently corroborates the LOOP-lore green-apple gloss** ([[Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts)]]). → [[Sir Lucius]] / [[Bananas]] (the album's apple→banana swap).
+- **[2025-08-17/20]** *"LOOP out Friday 8/29"* (#stuckinaloop); *"Where my Gemini twins at?"* (the Twin/duality); *"Presence is power."*
+
+**June 2025 (BALLERINA BOY release, 6/13)**
+- **[2025-06-27/28]** **Happy Face earns RIAA gold** (*"Grateful for the journey of this song"*); *"Anyone else feel like they're stuck in a loop? ∞"* (the Loop named pre-LOOP-single).
+- **[2025-06-24]** *"We have left the age of information. We are now entering the age of awareness."*
+- **[2025-06-23]** *"A mirror can be your best friend or your worst enemy but will show you yourself 🖤"* → the mirror doctrine ([[Witnessing vs Surveillance]] / [[The Jaguar]]); *"Oscillating between ballerina boy and bro"* (the [[BALLERINA BOY]] self vs the armored one).
+- **[2025-06-22]** *"The mind can be your best friend or your worst enemy ⚔️"* → the **heart-mind** axis, plainly ([[Roy on the Heart-Mind Split]] / [[Sir Lucius]]); the ⚔️ recurs on the Bailey/Lucius cluster.
+- **[2025-06-20]** *"For the real boys — BALLERINA BOY (Lyric Video)."*
+- **[2025-06-16/17]** *"There's nothing wrong with you ✨ BALLERINA BOY out now"* (the father's-blessing line, [[BALLERINA BOY]]); *"Victory is a memory."*
+- **[2025-06-15]** *"I've always known that I could see."* → **El Roi / the seeing-self** ([[Witnessing vs Surveillance]] / [[Sir Lucius]] El Roi); a *"13th portal"* reference `[?]`; Father's-Day post.
+- **[2025-06-13]** *"Grateful to God… Thank you for hearing my story. BALLERINA BOY out now."* → **[[BALLERINA BOY]] release floor (2025-06-13)** (corroborates the Apple metadata).
+
 **November 2025 (Sir Lucius's first in-character X emergence + NYH post-release — ~4 months pre-album)**
 - **[2025-11-27]** *"You're only bound by the patterns of your own mind."* → the mind as cage ([[Roy on the Heart-Mind Split]] / [[The Labyrinth]]).
 - **[2025-11-26]** *"Leave sir lucius alone ✋🖤 #jagwartwin #darkside"* (+ video *"coming in like a plague"* = [[Welcome to the Circus]] lyric) → the **defend-Lucius inversion** of the STOP-SIR-LUCIUS campaign.
@@ -206,6 +253,10 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **Board is public** (birthday post) + **underground event is public** (May 5) — provenance anchors.
 - **Surrender/freedom paradox, Roy-voice [G]:** *"To be free you must surrender. Thats the paradox. Letting go is the ultimate strength"* (Nov 15, highest-engagement post in the Nov window) → the integration arc made explicit: Lucius's clinging = the cage; release = the way through. → [[Sir Lucius]] / [[Roy on the Heart-Mind Split]] / [[The Labyrinth]].
 - **Bad Feeling truth-lie thesis, Roy-voice [G]:** *"The truth is a lie that nobody can tell"* (#badfeelingjt, Nov 10) = Roy using the lyric as the post's headline → publicly marks the truth-lie inversion as the song's load-bearing center (not ornamental; Roy's own framing).
+- **Green apple decoded, Roy-voice [G] (Aug 21 2025):** *"intelligence divorced from spirit… No wonder Sir Lucius is always holding one."* — Roy's own gloss grounds the apple Lucius carries = mind-divorced-from-heart. Double-confirmed by the LOOP-lore card. → [[Sir Lucius]].
+- **Gurdjieff is the dominant named source [G]:** the Oct text-capture adds ≥4 more Gurdjieff quote-posts (Oct 9, 12, 15, 7) on top of the screenshot set — making him **by far Roy's most-cited named influence** in the launch window. The Oct 15 *"can't awaken using the same system that put you to sleep"* is the load-bearing one (Lucius as Gurdjieffian disruptor). → [[Brain/Roy Voice/Roy on Influences]] §Gurdjieff.
+- **LOOP = the break-the-Loop anthem, Roy-voice [G] (Aug 28–30 2025):** *"If you're ready to break the LOOP leave a ∞"* → grounds [[LOOP]] in the Circle-vs-Loop canon, in his own promo voice.
+- **MERCY collaboration anchor [G] (Aug 22 2025):** *"NEW MUSIC W MERCY"* + @Unimerce — pre-NYH public collab confirmation.
 - **Blavatsky NAMED, NYH thesis grounded [G]:** *"'That cruelest of tyrants - public opinion' — H. P. Blavatsky"* (Nov 2, NYH release day) → first explicit Roy-credit of Blavatsky by name; public opinion = the tyrant = what Lucius weaponizes / what NYH resists. Grounds Theosophy as a named substrate. → [[Not Your Homie]] / [[Brain/Roy Voice/Roy on Influences]] §2025 Blavatsky.
 - **Regardie NAMED, integration doctrine in Roy-voice [G]:** *"'If you face something that you fear and recognize it for what is, you give it balance. You restore equilibrium.' — Israel Regardie"* (Nov 4) → Regardie = Hermetic/Golden Dawn tradition; quote = shadow-recognition → balance (the integration arc in its esoteric form). New named influence. → [[The Dweller on the Threshold]] / [[Brain/Roy Voice/Roy on Influences]] §2025 Regardie.
 - **Happy Face → Not Your Homie continuity (Roy-voice) [G]:** *"if you like happy face in 2025, you'll love 'not your homie'"* (Nov 5) → Roy names both songs in the same breath; the mask (2018) ↔ the mask-refusal (2025). → [[Happy Face]] / [[Not Your Homie]].
@@ -215,4 +266,4 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **Steiner opens the "does Roy name Steiner?" question (CLOSED) [G]:** Oct 20 + 23 posts explicitly name Steiner — the Dweller concept can now be cited as adjacent to a named influence (though Steiner's specific Dweller-doctrine quote hasn't appeared; scope carefully). → [[The Dweller on the Threshold]].
 
 ## Citation
-- @JagwarTwin (X/Twitter, verified), posts dated 2025-10-18 → 2026-06-07; bio + captures: Apr–Jun 2026 run as of 2026-06-09 (Jen screenshots); Oct 18 – Nov 15 2025 posts as of 2026-06-08 (Jen screenshots).
+- @JagwarTwin (X/Twitter, verified), posts dated **2025-06-13 → 2026-06-07**. Captures: Apr–Jun 2026 run + Oct 18 – Nov 15 2025 = Jen screenshots (verbatim); **Oct 17 2025 → Jun 13 2025 = text-capture of the logged-in timeline (research-doc, paraphrased; summary-level wording — pin before quoting with marks).** Browser crashes blocked capture before 2025-06-13.
