@@ -42,8 +42,10 @@ Roy, on authenticity: *"people start to like you for the role you're playing, fo
 2. Sidekick (Leif) — goofy, comic; foil; reports to unseen "Boss".
 3. Pleading (Roy) — childlike, dependent, real; [[Essays/Concepts/Songs/Weirdness]]. The layer the other two defend.
 
+> **Public substrate (upgraded 2026-06-08):** the Gurdjieff frame is no longer unnamed resonance. **Gurdjieff is Roy's single most-named public influence** — quoted by name across the Oct–Nov 2025 X run (≥4 posts: 10-18 *"stupidity of man / mercy of God"*, 10-15 *"can't awaken using the same system that put you to sleep"*, 10-12, 10-09 *"the crowd neither wants nor seeks knowledge…"*, 11-25 truth/lie) — see [[Brain/Roy Voice/Roy on Influences]] §2025 Gurdjieff. So "Lucius = context-dependent selves / no integrated center" reads against a substrate Roy **publicly and repeatedly** declares — the modes-read moves from `[~]` resonance to a grounded-substrate **`[W]`** (the specific Lucius↔"many I's" mapping stays interpretive; the source is now anchored, not inferred).
+
 ## Moves
-- [W] Reactive system built to avoid a core state of need.
+- [W] **Reactive system built to avoid a core state of need** — Gurdjieff's "many I's" are not *empty* but **organized around dependency on Roy**; the Speech and Sidekick modes are defenses, the Pleading mode is the truth underneath. *"No audience → no Lucius"*: the system needs a mirror to cohere ([[The Audience]] / [[Witnessing vs Surveillance]]).
 - [W] Speech-vs-Song: song = Ringmaster inside the Circus; premiere speech = system-disruptor above it. "Welcome IN vs welcome OUT" — the mirror signature.
 - [W] Reports to a [[The Boss|Boss]] ("my lullabi is everywhere"); disruptor pose may be assignment, not opposition.
 - [P] Not antagonist-simple: genuinely Roy's, genuinely accumulated, genuinely the obstacle — all at once.
