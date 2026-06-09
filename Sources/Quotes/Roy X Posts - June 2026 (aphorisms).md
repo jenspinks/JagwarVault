@@ -246,9 +246,16 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 
 ---
 
-## 2024 (Bad Feeling era — VERBATIM capture, Jan 1 → Jun 25 2024)
+## 2024 (Bad Feeling era — VERBATIM capture, Jan 1 → Jul 24 2024)
 
 *Higher fidelity than the 2025 text-capture above — these are **verbatim** quotes (Jen, 2026-06-09). Register note: the 2024 voice is markedly **absurdist/comedic + "delulu"-playful**, NOT the late-2025 darkside/esoteric gravity — a real tonal shift datum (the Lucius turn is ~Oct 2025). Most of the run is personal texture; the load-bearing posts are pulled out below, filler summarized.*
+
+> ⚠ **Year-error caution (2026-06-09).** A separate "Jul–Dec **2024**" doc was reviewed and **mostly NOT folded**: its **Aug–Dec content is actually 2025** (LOOP rollout, sir-lucius/NYH October cluster, the "91M" Wrapped + "untoasted sandwich" / "think as a sun" / "I did it" December posts — all already captured here under **2025**, and confirmed 2025 by the grounded release chain: LOOP 2025-08-29, NYH 2025-10-31, [[Master Source List]]). That doc self-describes as "reconstructed from memory" and its wording diverges from the screenshot captures (e.g. its Dr-Dre and Gurdjieff lines differ). **Only its correctly-dated July-2024 head was folded** (below). Do **not** re-ingest that doc's Aug–Dec section — it would duplicate 2025 and back-date the Lucius emergence.
+
+**July 2024 (Angle of Eternity / Seasons tour) [G — from the Jul–Dec doc, July head only]:**
+- **[2024-07-11]** *"Angle of Eternity Visualizer out now… It's made by AI. It's out on YouTube now."* → **[[tomorrow (ANGLE OF ETERNITY)]]** visualizer (2024; **AI-made** — early instance of the AI/upload motif; cf. [[The Upload]] / SARAVI). Corroborated by [[Sources/Transcripts/IM-Music-2024-Tomorrow-AOE]].
+- **[2024-07-03]** *"Going on tour with some of my heroes"* + *"SEASONS WORLD TOUR 2024 — see you out there!"* → opening for **Thirty Seconds to Mars**, Seasons World Tour 2024 (corroborates the May-2024 announcement above; [[Brain/Roy Voice/Roy on Influences]] §live-mentors).
+- **[2024-07-14]** *"Becoming in time"* (cryptic; time/becoming). **Texture:** *"See you tonight Milwaukee"* (tour, 07-17), *"Why isn't cheese just called calculated mould?"* (07-24), *"I still catch Pokémon in my dreams"* (07-21), *"I don't like windbreakers,"* *"Cinnamon changed the game"* — the comedic register continues.
 
 **New named influences / esoteric substrate [G]:**
 - **[2024-04-16]** *"I'm listening to a 6 1/2 hour lecture on bees"* → **Rudolf Steiner's bee lectures** → grounds Steiner engagement in **2024**, via his actual *lectures* (not just the 2025 quote-cards) — deepens [[Brain/Roy Voice/Roy on Influences]] §Steiner from "quotes him" to "studies him."
@@ -310,4 +317,4 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **Steiner opens the "does Roy name Steiner?" question (CLOSED) [G]:** Oct 20 + 23 posts explicitly name Steiner — the Dweller concept can now be cited as adjacent to a named influence (though Steiner's specific Dweller-doctrine quote hasn't appeared; scope carefully). → [[The Dweller on the Threshold]].
 
 ## Citation
-- @JagwarTwin (X/Twitter, verified), posts dated **2024-01-01 → 2026-06-07**. Fidelity tiers: **(a) verbatim** — Apr–Jun 2026 + Oct 18–Nov 15 2025 (Jen screenshots) + **Jan–Jun 2024** (Jen verbatim capture, 2026-06-09); **(b) text-capture, summary-level** — Oct 17 2025 → Jun 13 2025 (research-doc paraphrase; pin before quoting with marks). Gap: Jun 13 2025 ← back is partly unbridged between the 2024 verbatim run and the 2025 text-capture.
+- @JagwarTwin (X/Twitter, verified), posts dated **2024-01-01 → 2026-06-07**. Fidelity tiers: **(a) verbatim** — Apr–Jun 2026 + Oct 18–Nov 15 2025 (Jen screenshots) + **Jan–Jul 2024** (Jen verbatim capture, 2026-06-09); **(b) text-capture, summary-level** — Oct 17 2025 → Jun 13 2025 (research-doc paraphrase; pin before quoting with marks). Gap: Aug 2024 → Jun 13 2025 remains unbridged. **Rejected:** a "Jul–Dec 2024" doc whose Aug–Dec section was a year-shifted (and memory-reconstructed) duplicate of 2025 content — only its July-2024 head was kept (see the year-error caution in the 2024 section).
