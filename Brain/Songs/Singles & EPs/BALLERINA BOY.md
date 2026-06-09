@@ -40,6 +40,7 @@ Age 7, Christian school, ballet, "came alive on that stage." Teacher → dad: "w
 - [W] **Counter-algorithm.** Refuses the performance economy; risks being "low-performing" because value ≠ streams. Form/content: the off-album single about the off-album child.
 - [W] Ballerina Boy = **Divine Child / true embodied self** (anima elements, but not *only* anima — Jen's refinement). Gender-policing + religious shame + embodied stage-joy.
 - [P] Integration ≠ Lucius obsolete. Rescue means *Lucius can no longer rule by claiming the child still needs armor more than love.*
+- **Roster note (decision, Jen 2026-06-08): "Brandon" collapses into Ballerina Boy.** A prior context-doc distinguished *Brandon* (the pre-persona human, Roy's birth name) as a substrate *beneath* Ballerina Boy. **Held as one for now:** Ballerina Boy = origin/light **subsumes** that pre-persona human layer. Split Brandon off only if he later proves to carry a distinct, larger role. Keeps the interior roster minimal (Roy / Lucius / Ballerina Boy). See [[Essays/_drafts/Prior Analysis — Triage, Flags & Expansion]] Part 4.
 
 ## Divine-feminine voice (cross-cutting — track on [[Mary]])
 Faceless feminine blessing voice recurs: here (moon line, verify), [[Essays/Concepts/Songs/Weirdness]] ("angel baby… face out of sight… you were born to shine"), [[#1 Champion (la Conquistadora)]] (Mary named), [[Brain/Songs/Lucius Lullaby]] (Mary ×2, face hidden). [W] likely all [[Mary]]-class.

@@ -120,8 +120,11 @@ Roy's Manifesto FAQ states it outright: *"The world needs music, but the world d
 | [[Sir Lucius]] | The figure whose slow emergence runs **parallel** to the Circle's (see Parallel anchors). |
 | [[Sources/Lyrics/The Circle (Lucius Version)]] | The 2026 distorted re-sing of the myth. |
 
+## The Wise One — a faculty, not a figure [W]
+The Wise One who *"remembered she once held the string"* reads best **not as a separate character** but as a **state/faculty: feminine-coded remembrance.** Two prior readings only *look* like they conflict — (a) the Wise One = the awakened Jagwar / recovered self / the listener's future state (remembrance, not acquisition — Gnostic *anamnesis*); (b) the Wise One occupies [[Mary]]'s archetypal territory (the feminine rememberer). They reconcile once remembrance itself is seen as **feminine-coded** in this system (caves, mirrors, intuition, the held thread; *"creation from chaos = the feminine principle"*). The awakened self recovers the song **by recovering the feminine faculty** (feeling / witnessing) the kings suppressed. So **the Wise One = whoever re-members the feminine thread** — listener, Roy, or the feminine principle itself, because at the moment of recovery they are the *same act*. **Hard guards:** **not** "the Wise One *is* Mary" (archetypal *overlap* only, no naming evidence); **not** a fourth roster figure (that's the tetramorph error — cf. [[The Jaguar]]). This sits with the §feminine-thread reading above: one feminine *function* at three points of the cycle.
+
 ## Open Questions
-- [ ] The maker / "wise one" = divinity / consciousness / Sophia-Shekinah / nature / imagination — or a fusion? (carried from the song essay)
+- [ ] The **maker** (vs the Wise One, above) = divinity / consciousness / Sophia-Shekinah / nature / imagination — or a fusion? (carried from the song essay)
 - [ ] `[verify]` the "I feel the circle… crowd singing it back" sentence against a clean full-text of the 2019 article.
 - [~] Does the 2019→2022→2026 Circle timeline + the 2008→2026 Lucius timeline justify a single "convergence, not construction" arc page?
 
