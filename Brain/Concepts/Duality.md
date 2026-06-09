@@ -27,6 +27,10 @@ The project's name itself encodes the duality. From Roy directly:
 
 > *"The twin is just the nature of everything we've been talking about. The dark and the light."* — Roy English, New England Sounds 2019-12-05 ([[New-England-Sounds-2019-Avril-Tour]])
 
+> *"We are becoming more aware of our shadows, collectively and individually, and as more light comes in, more darkness is seen."* — Roy on *"life is good"* (w/ angelbaby), Prelude Press 2023-11-03 ([[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]] §2023)
+
+This 2023 line states the **light-reveals-shadow *mechanism*** (not just the dark/light pair): more light → more shadow *made visible*. It's the same engine as the 2026 X line *"The brightest lights cast the deepest shadows"* ([[Sir Lucius]] / [[The Light-Bearer]]) and the Bohnes Mirror-Session *"more light reveals more shadow"* — and it reframes shadow-work as a **consequence of illumination**, not a separate task. (Cf. the named-source version: Dion Fortune's *"the shadow is not evil… power unrecognized,"* [[Brain/Roy Voice/Roy on Influences]].)
+
 > *"I think it captures a bit of who I am at the core, playing in light and dark."* — Roy on the Jagwar Twin name, Strife Mag 2024-07 ([[Strife-2024-Bad-Feeling]])
 
 > *"Gemini can also hold two truths at once… there's a duality… I can understand the lower and the higher, and the dark and the light — which is **a lot of what Jagwar Twin is**."* — Roy, IG Live ~2026-05-23 ([[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]])
