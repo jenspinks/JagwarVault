@@ -30,7 +30,7 @@ The dream ends in a crash — *"white semi truck with a lightning bolt comes, bo
 
 ## Strong reads
 
-**1. The song *is* the dream, and the lyric proves it.** Two lines are near-verbatim dream-callbacks: *"Just a rabbit in a road rage"* (Roy-the-rabbit, the highway, the crash) and *"I don't know what I'm looking for"* (the dream's exact phrase). The party-frame (*"step right up, get on the floor"*) is the dream's opening party. The song doesn't *describe* the dream from outside — it's sung **from inside** it. `[W]` (grounded on the TikTok).
+**1. The song *is* the dream, and the lyric proves it.** Two lines are near-verbatim dream-callbacks: *"Just a rabbit in a road rage"* (Roy-the-rabbit, the highway, the crash) and *"I don't know what I'm looking for"* (the dream's exact phrase). The party-frame (*"step right up, get on the floor"*) is the dream's opening party. The song doesn't *describe* the dream from outside — it's sung **from inside** it. `[W]` (the dream-callback lines are Spotify-verified; the encoding stands on grounded text + the TikTok).
 
 **2. Sir Lucius's voice is in the verses — the manipulator-guide.** Verse 2 *is* the passenger-seat pitch: *"You're a star, you know you are / Stick with me, I'll take you far."* Flattery + the offer to lead — the dream-Lucius who *"had all the answers"* and *"knew which way to go."* And the pre-chorus is his self-designation: *"I'm a mastermind / I don't need a witness."* The figure who appears in the 2023 video in full face paint is **singing the seductive-guide verses** of the song that narrates his own arrival. → [[Sir Lucius]]. `[W]`
 
@@ -42,7 +42,17 @@ The dream ends in a crash — *"white semi truck with a lightning bolt comes, bo
 
 **6. The lightning as truth/revelation.** *"Truth is on the mountaintop where man can pray to lightning"* welds the dream's **lightning-bolt semi-truck** (the crash that ends the dream and then comes true) to **truth at the summit** — the Mountain motif. The crash isn't only catastrophe; it's the dream's revelatory full-stop. *"Youth is not a fountain, it's a hand grenade in hiding"* keeps danger under the bright surface. `[W]`/`[~]`
 
+**7. Rabbit vs. Rabbit = self vs. self.** Drake is **not** a rabbit; **Roy is, and so is Lucius** — they're the **same species.** The dream isn't hero-vs-villain — it's **self-vs-self:** Lucius is not an invader but an **adaptation** of Roy's own rabbit-nature (instinct, vulnerability, survival) with clown makeup added. The shadow grows *from* him, which is why it can't simply be expelled — the Dweller logic ([[The Dweller on the Threshold]]) narrated at its source. `[W]` (grounded in the transcript).
+
+**8. Lucius appears only after Roy takes the wheel.** Not while Drake drives — Lucius arrives the instant **Roy becomes responsible for navigating** and admits he doesn't know what he's looking for. Because **Lucius is a solution to uncertainty:** the moment a vacuum of direction opens, the figure with all the answers fills it. He isn't a teacher; he's **an answer to not-knowing.** `[W]` (grounded in the dream's sequence).
+
+**9. "I don't know what I'm looking for" — the anti-Lucius confession.** The chorus line is **literally what Roy says in the dream** while driving, lost (and now Spotify-verified in the lyric). It flips the chorus from carefree to existential: **Lucius is the part of the psyche that cannot tolerate uncertainty** — always answers, always the next turn — so Roy's honest *"I don't know"* is the most **anti-Lucius** statement in the song. Its strange wisdom: Roy **keeps moving anyway**, staying in honest uncertainty rather than grabbing false certainty. That puts Good Time **closer to [[tomorrow (ANGLE OF ETERNITY)|tomorrow]]** (*"maybe I don't know, and that's fine with me"*) **than to a party anthem.** `[W]`
+
 ## Resonance `[~]`
+
+- **The Tower (tarot) — the crash as intervention, not punishment.** Lightning striking, the vehicle destroyed, the false structure (the ego safely "driving") shattered — the Tower. The turn: in dream logic the truck **prevents** the journey Lucius was steering rather than completing it. *"Truth is on the mountaintop"* (above; requires *ascent*) is set against Lucius's answers (handed over; horizontal): Lucius gives **certainty**, truth requires **the climb** — not the same thing. The lightning (revelation) interrupts the false navigation. `[~]`/`[W]`
+- **The White Rabbit / Wonderland.** Roy-as-rabbit following a guide into a surreal inverted world — the Alice harbinger initiating the descent (toward the Circus). The rabbit = instinct / vulnerability / survival, *not* power. `[~]`
+- **Drake as threshold guardian.** The established star hands over *"the wheel"* (the burden of fame) and exits — initiation language: the old guide departs, the initiate drives, *then* the shadow appears. `[~]`
 
 - **The prophetic-dream practice.** *"I write my dreams down every night, and every dream comes true"* + the crash manifesting — Roy's dream-as-precognition practice (→ [[Roy]]; the catalogue's dream/sleep-wake layer). Grounded that he *narrates* it so; the supernatural claim is his, held as his framing. `[~]`
 - **"Everyone's a celebrity."** The truck driver's *"you're a celebrity, right?"* → Roy's *"everyone's a celebrity"* — the *everyone-is-X* register (cf. *"everyone's a guru,"* [[Sir Lucius]] / [[Roy]]). `[~]`
@@ -56,7 +66,7 @@ The dream ends in a crash — *"white semi truck with a lightning bolt comes, bo
 
 ## Connections
 
-[[Sir Lucius]] (**the song that narrates his birth** — the clown-rabbit passenger, the manipulator-guide verses, the 2023 face-paint video) · [[Welcome to the Circus]] (the *"step right up"* barker, hardened) · [[Roy]] (the dream-journal / prophetic-dream practice; the rabbit) · [[Witnessing vs Surveillance]] (*"I don't need a witness"*) · [[Duality]] (heart-felt-manipulation vs mind-couldn't-argue — heart over mind).
+[[Sir Lucius]] (**the song that narrates his birth** — the clown-rabbit passenger, the manipulator-guide verses, the 2023 face-paint video) · [[The Dweller on the Threshold]] (rabbit-vs-rabbit = self-vs-self; the shadow as adaptation, not invader) · [[tomorrow (ANGLE OF ETERNITY)]] (the uncertainty kinship — *"I don't know"* held without grabbing false answers) · [[Welcome to the Circus]] (the *"step right up"* + clown architecture, hardened) · [[Roy]] (the dream-journal / prophetic-dream practice; the rabbit) · [[Witnessing vs Surveillance]] (*"I don't need a witness"*) · [[The Tower]] (the lightning-crash as intervention) · [[Duality]] (heart-felt-manipulation vs mind-couldn't-argue — heart over mind).
 
 ## Sources
 
