@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["Letras.mus.br + Shazam (cross-verified, match); official Apple Music lyrics not separately confirmed — user to verify"]
+status: stable
+verified_against: ["Letras.mus.br + Shazam (cross-verified, match)", "Spotify, 2026-06-10: https://open.spotify.com/track/5rMnjn97e5xP04g862kgv0"]
 ingested: 2026-01-16
 ingest_source: "Letras.mus.br / Shazam transcription. Released 2026-01-16, Lucius Lullaby track 4."
 format: vocal

@@ -14,6 +14,18 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-10] verification | Spotify lyric + credits pass — 15 draft lyric files
+
+Bulk Spotify verification via Chrome MCP over two sessions (Jun 10). Ran all draft `Sources/Lyrics/` files against Spotify web player (DOM extraction): pulled full credits dialog + lyrics for each track; cross-referenced against filed text; applied corrections.
+
+**Status upgrades (draft → stable):** LOOP, BALLERINA BOY, MAGIK, SideQuest, tomorrow [ANGLE OF ETERNITY], Life Is Good, All My Friends, Hell Of A Night, The Watchers, Dream / Dream; plus LL songs: Weirdness, Bounce, Welcome to the Circus, Not Your Homie. (dumbledore remains draft — no Spotify lyrics available.)
+
+**Lyric corrections:** "and I miss loving you" → "**when** I miss loving you" (LOOP); "Nether circle round the sun" → "**Another circle 'round the sun**" (Life Is Good, ×3); "Get back against the wall" → "**Stood back** against the wall" (BALLERINA BOY); "is like you" → "like you" (BALLERINA BOY, multiple); "thus far" → "**this far**"; "you were playing" → "you would play" (SideQuest). Hell Of A Night + Dream / Dream album year corrected 2018 → **2019**.
+
+**New credits added inline** (Spotify-verified): all 15 files now have a `## Credits` section or Spotify URL. Notable new names: Nick Bailey, John Byron (MAGIK); Laboratorium Pieśni (dumbledore); Charlotte + Raegan Egner (MAGIK BG); Sia Furler (Weirdness); Cody Tarply, Dan Adams, No Love (BALLERINA BOY); Jenn Essiembre A&R team (LOOP); Ryan Spraker, Nate Mingo (The Watchers); Adam Hawkins (Dream / Dream); S1 Executive Producer (STF album).
+
+---
+
 ## [2026-06-10] ingest | The Circle (Lucius Version) essay created
 Built [[Essays/Concepts/Songs/The Circle (Lucius Version)]] (Lucius Lullaby Track 1, album opener) from a handoff; lyric/credits already Apple+Spotify-verified (Jen 06-06), so most of the base is `[G]`. Spine: **appropriation, not deletion** — Lucius makes the keystone myth the front door, keeps its *name*, swaps in the [[Lucius Lullaby]] refrain (*"It's a beautiful life… I'm dreaming"*). *"I'm dreaming"* **replaces** *"remembering"* (the awakening-song sung back to sleep); the **music box** renders the [[The Thread|Thread]] (feeling, held) as clockwork (cranked) — mind-divorced-from-heart in the form itself; "algorithm baby" compression. The track **brackets the album** with [[SOL]] (Track 14, what can't be compressed). Child-voice claim (Egners) held `[?]`; dog/god line quarantined to [[Great Time to Be Human]] (affirmed). *(Credits also surfaced: Josh Dun on Bad Feeling + GTTBH drums; the recurring Egner BG on the lullaby-texture tracks.)*
 

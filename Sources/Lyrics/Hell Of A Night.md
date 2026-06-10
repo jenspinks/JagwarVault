@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["AZLyrics.com (licensed via MusixMatch)"]
+status: stable
+verified_against: ["AZLyrics.com (licensed via MusixMatch)", "Spotify, 2026-06-10: https://open.spotify.com/track/3syV1BoSiaL3JWy00jflMN"]
 ingested: 2026-05-16
 ingest_source: "AZLyrics.com (pasted by Jen)"
 ---
@@ -11,12 +11,30 @@ ingest_source: "AZLyrics.com (pasted by Jen)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- **Album:** *Subject to Flooding* (2018)
-- **Writers:** Matthew Pauling, Roy English, Michael Morgan
+- **Album:** *Subject to Flooding* (Atlantic Records, 2019) — note: previously filed as 2018; Spotify confirms 2019
+- **Writers:** Roy English, Michael Morgan, Matt Pauling (= Matthew Pauling)
 - Pairs with [[Sources/Lyrics/Hell Of A Night Pt. 2 (The Hallelujah Stickup)]].
 
 ### Citable as
-- Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)
+- Spotify: https://open.spotify.com/track/3syV1BoSiaL3JWy00jflMN
+
+## Credits
+Verified against Spotify, 2026-06-10.
+
+**Source:** Atlantic Records
+
+**Composition & Lyrics:**
+- Roy English — Writer
+- Michael Morgan — Writer
+- Matt Pauling — Writer
+
+**Production & Engineering:**
+- Roy English — Producer
+- Michael Morgan — Producer
+- Matt Pauling — Producer
+- Jeff Ellis — Mixer
+- Chris Gehringer — Masterer
+- S1 — Executive Producer
 
 ## Lyrics
 
@@ -68,4 +86,5 @@ It's gonna be a hell of a night
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen). Single-source; cross-check against official release to flip `status` to `stable`.
+- Ingested 2026-05-16 from AZLyrics. Verified against Spotify 2026-06-10. Lyrics confirmed; no substantive divergence.
+- **Year correction:** previously filed as *Subject to Flooding* (2018); Spotify confirms **2019**.

@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Spotify, 2026-06-10: https://open.spotify.com/track/0eP2iFZYAFzq69RiIxFRF8"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 2)"
 ---
@@ -11,10 +11,34 @@ ingest_source: "Google Drive (Jen's lyrics doc 2)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- (release metadata pending — Apple Music / Spotify / Genius URLs to add at verification time)
+- **Release:** Track on the *SideQuest* EP (Big Loud Records, 2025)
+- **Writers:** Roy English, Andrew Goldstein, Michael Morgan
 
 ### Citable as
-- [release links pending]
+- Spotify: https://open.spotify.com/track/0eP2iFZYAFzq69RiIxFRF8
+
+## Credits
+Verified against Spotify, 2026-06-10.
+
+**Source:** Big Loud Records
+
+**Composition & Lyrics:**
+- Roy English — Composer • Lyricist
+- Andrew Goldstein — Composer • Lyricist
+- Michael Morgan — Composer • Lyricist
+
+**Production & Engineering:**
+- Jagwar Twin — Producer
+- Ryan Daly — Producer • Recording Engineer • Mixing Engineer
+- Roy English — Recording Second Engineer
+- Dale Becker — Mastering Engineer
+- Noah McCorkle — Mastering Engineer
+- Katie Harvey — Mastering Engineer
+- Adam Burt — Mastering Engineer
+
+**Performers:**
+- Jagwar Twin — Programmer • Vocalist
+- Ryan Daly — Programmer
 
 ## Lyrics
 
@@ -49,7 +73,7 @@ How many times did you walk away?
 
 I never put anyone else above you
 
-I never knew you were playing a game
+I never knew you would play the game
 
 Baldur’s Gate, you played me well,
 
@@ -87,7 +111,7 @@ S-s-s-side quest, side quest
 
 [Verse 2]
 
-I’m the biggest cat that you’ve seen thus far
+The biggest cat that you’ve seen this far
 
 Jaguar Swaguar, ‘til you broke my heart
 
@@ -133,6 +157,7 @@ Thought I was your main one, but I was the-
 ```
 
 ## Maintenance
-- Bulk-ingested 2026-05-25 from Google Drive lyrics doc.
-- **Not yet verified** against streaming release. Verification target → cross-check on Apple Music, Spotify, Letras, or Shazam; record URLs in `verified_against`; flip `status` to `stable`.
+- Bulk-ingested 2026-05-25 from Google Drive lyrics doc. Verified against Spotify 2026-06-10.
+- **Lyric corrections (2026-06-10):** "I'm the biggest cat that you've seen **thus** far" → "The biggest cat that you've seen **this** far"; "you were **playing** a game" → "you would **play** the game" (both Spotify).
+- Phantom line "playing games with my head" confirmed NOT in the song (not in Spotify lyrics).
 - If transcription diverges from official release, official wins.

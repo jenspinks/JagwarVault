@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["AZLyrics.com (licensed via MusixMatch)"]
+status: stable
+verified_against: ["AZLyrics.com (licensed via MusixMatch)", "Spotify, 2026-06-10: https://open.spotify.com/track/4MoCoQxCJwLQzIFxcA2m9H"]
 ingested: 2026-05-16
 ingest_source: "AZLyrics.com (pasted by Jen)"
 ---
@@ -18,7 +18,26 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 - **AZLyrics error (corrected 2026-05-27):** AZLyrics credited only "Brandon Wronski, Matt Pauling, Sarah Vaughn" — it **dropped Johnny Mercer entirely** and misspelled Vaughan. Apple Music composer field is authoritative here. ([?] *Why Vaughan is credited as composer when Mercer wrote it solo* — likely her specific recording/arrangement is the interpolated source.)
 
 ### Citable as
-- Apple Music / Spotify — *Subject to Flooding* (2018). (Exact track URLs to add at verification.)
+- Spotify: https://open.spotify.com/track/4MoCoQxCJwLQzIFxcA2m9H
+- Note: **Album year is 2019** (not 2018 as previously filed); Spotify confirms *Subject to Flooding* (Atlantic Records, 2019).
+
+## Credits
+Verified against Spotify, 2026-06-10.
+
+**Source:** Atlantic Records
+
+**Composition & Lyrics:**
+- Johnny Mercer — Writer (interpolation: "Dream (When You're Feeling Blue)", 1944)
+- Matthew Pauling — Writer
+- Roy English — Writer
+- Sarah Vaughan — Writer (interpolation: Vaughan's specific recording/arrangement)
+
+**Production & Engineering:**
+- Roy English — Producer
+- Matt Pauling — Producer
+- Adam Hawkins — Mixer
+- Chris Gehringer — Masterer
+- S1 — Executive Producer
 
 ## Lyrics
 
@@ -99,4 +118,5 @@ Dream
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen). Single-source; cross-check against official release to flip `status` to `stable`.
+- Ingested 2026-05-16 from AZLyrics. Verified against Spotify 2026-06-10. Lyrics confirmed; no substantive divergence.
+- **Year correction:** *Subject to Flooding* is 2019 (not 2018 as previously filed).

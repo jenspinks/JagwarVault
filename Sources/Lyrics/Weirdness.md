@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: [AZLyrics — verified 2026-05-27 against Jen-supplied page; ideally cross-check against Apple Music streaming to confirm]
+status: stable
+verified_against: ["AZLyrics, 2026-05-27 (Jen-supplied)", "Spotify credits, 2026-06-10: https://open.spotify.com/track/3xLFntM72kVEM1RnPOmeoV"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album); corrected 2026-05-27 against AZLyrics"
 ---
@@ -11,7 +11,35 @@ ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album); corr
 Verbatim. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- "Weirdness" — Jagwar Twin & Sir Lucius; Track on *Lucius Lullaby* (2026). Add Apple/Spotify URLs at full verification.
+- "Weirdness" — Jagwar Twin & Sir Lucius; Track 13 on *Lucius Lullaby* (2026)
+- **Writers:** Roy English, Matthew Pauling, Sia Furler
+
+### Citable as
+- Spotify: https://open.spotify.com/track/3xLFntM72kVEM1RnPOmeoV
+
+## Credits
+Verified against Spotify, 2026-06-10.
+
+**Source:** Big Loud Rock
+
+**Composition & Lyrics:**
+- Roy English — Composer • Lyricist
+- Matthew Pauling — Composer • Lyricist
+- Sia Furler — Composer • Lyricist
+
+**Production & Engineering:**
+- Roy English — Producer • Recording Engineer • Mixing Engineer
+- Matthew Pauling — Producer • Recording Engineer
+- Dale Becker — Mastering Engineer
+
+**Performers:**
+- sir lucius — Vocalist
+- Roy English — Drum Kit • Percussion • Bass • Keyboard
+- Matthew Pauling — Background Vocalist • Percussion • Timpani • Electric Guitar • Acoustic Guitar • Organ • Keyboard
+- ROY — Vocalist
+- Sia — Background Vocalist
+- MERCY — Background Vocalist
+- Haley Schae — Background Vocalist
 
 ## Corrections from original ingest (2026-05-27, AZLyrics)
 - Chorus 1 string line: was "Your head is **on** a string" — CORRECTED to "Your head is **off** its string" (confirmed by Jen's hearing + AZLyrics)

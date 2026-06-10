@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Spotify, 2026-06-10: https://open.spotify.com/track/2OaPi51lj7mjre72U4sMZ0"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 2)"
 ---
@@ -12,10 +12,23 @@ Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Ess
 
 ## Source
 - **Released:** 2023-05-26
-- (Apple Music / Spotify / Genius URLs to add at verification time)
+- **Label:** Big Loud
+- **Writers:** Roy English, Colin Brittain
 
 ### Citable as
-- [release links pending]
+- Spotify: https://open.spotify.com/track/2OaPi51lj7mjre72U4sMZ0
+
+## Credits
+Verified against Spotify, 2026-06-10.
+
+**Source:** Big Loud
+
+**Composition & Lyrics:**
+- Roy English — Composer • Lyricist
+- Colin Brittain — Composer • Lyricist
+
+**Production & Engineering:**
+- Colin Brittain — Producer
 
 ## Lyrics
 
@@ -98,6 +111,4 @@ But if I'm going out it's with all my friends
 ```
 
 ## Maintenance
-- Bulk-ingested 2026-05-25 from Google Drive lyrics doc.
-- **Not yet verified** against streaming release. Verification target → cross-check on Apple Music, Spotify, Letras, or Shazam; record URLs in `verified_against`; flip `status` to `stable`.
-- If transcription diverges from official release, official wins.
+- Bulk-ingested 2026-05-25 from Google Drive lyrics doc. Verified against Spotify 2026-06-10. Lyrics confirmed; no substantive divergence.

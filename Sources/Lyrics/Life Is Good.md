@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Spotify, 2026-06-10: https://open.spotify.com/track/6Y0j8yUF3rPSTrTtVEsCNh"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 2)"
 ---
@@ -11,11 +11,39 @@ ingest_source: "Google Drive (Jen's lyrics doc 2)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- **Released:** 2023-11-03; collab @angelbaby (Hume AI artist)
-- (Apple Music / Spotify / Genius URLs to add at verification time)
+- **Released:** 2023-11-03; collab with angelbaby (Hume AI artist)
+- **Label:** 10K Projects
+- **Writers:** Dallas Caton, Jay Stolar, Jordan Palmer, Brandyn Burnette, Josh Dun, Luke Villegas, Roy English
 
 ### Citable as
-- [release links pending]
+- Spotify: https://open.spotify.com/track/6Y0j8yUF3rPSTrTtVEsCNh
+
+## Credits
+Verified against Spotify, 2026-06-10.
+
+**Source:** 10K Projects
+
+**Artists:** angelbaby & Jagwar Twin
+
+**Composition & Lyrics:**
+- Dallas Caton — Writer
+- Jay Stolar — Writer
+- Jordan Palmer — Writer
+- Brandyn Burnette — Writer
+- Josh Dun — Writer
+- Luke Villegas — Writer
+- Roy English — Writer
+
+**Production & Engineering:**
+- angelbaby — Producer
+- Dallas Caton — Engineer
+- Jay Stolar — Engineer • Producer
+- Jeff Ellis — Mixer
+- Jordan Palmer — Engineer • Producer
+- Dale Becker — Masterer
+
+**Performers:**
+- angelbaby — Vocals
 
 ## Lyrics
 
@@ -24,7 +52,7 @@ Life is good
 
 I'm great
 
-Nether circle round the sun
+Another circle 'round the sun
 
 The worlds in flames
 
@@ -62,7 +90,7 @@ Life is good
 
 I'm great
 
-Nether circle round the sun
+Another circle 'round the sun
 
 The worlds in flames
 
@@ -72,7 +100,7 @@ I'm good
 
 I'm great
 
-Nether circle round the sun
+Another circle 'round the sun
 
 The worlds in flames
 
@@ -98,7 +126,7 @@ Life is good
 
 I'm great
 
-Nether circle round the sun
+Another circle 'round the sun
 
 The worlds in flames
 
@@ -108,7 +136,7 @@ I'm good
 
 I'm great
 
-Nether circle round the sun
+Another circle 'round the sun
 
 The worlds in flames
 
@@ -120,6 +148,7 @@ But at least we're having fun
 ```
 
 ## Maintenance
-- Bulk-ingested 2026-05-25 from Google Drive lyrics doc.
-- **Not yet verified** against streaming release. Verification target → cross-check on Apple Music, Spotify, Letras, or Shazam; record URLs in `verified_against`; flip `status` to `stable`.
+- Bulk-ingested 2026-05-25 from Google Drive lyrics doc. Verified against Spotify 2026-06-10.
+- **Lyric correction (2026-06-10):** "Nether circle round the sun" → "**Another circle 'round the sun**" (confirmed Spotify; ingest error, all 3 occurrences corrected).
+- "La viva es buena" confirmed (not "La vida es buena" — Spotify matches filed version).
 - If transcription diverges from official release, official wins.

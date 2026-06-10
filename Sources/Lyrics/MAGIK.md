@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Spotify, 2026-06-10: https://open.spotify.com/track/1qia4z6KFS3m2aHWeRphbt"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 2)"
 ---
@@ -11,10 +11,37 @@ ingest_source: "Google Drive (Jen's lyrics doc 2)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- (release metadata pending — Apple Music / Spotify / Genius URLs to add at verification time)
+- **Release:** Track on the *LOOP* EP (Big Loud Rock, 2025)
+- **Writers:** Nick Bailey, John Byron, Roy English
 
 ### Citable as
-- [release links pending]
+- Spotify: https://open.spotify.com/track/1qia4z6KFS3m2aHWeRphbt
+
+## Credits
+Verified against Spotify, 2026-06-10.
+
+**Source:** Big Loud Rock
+
+**Composition & Lyrics:**
+- Nick Bailey — Composer • Lyricist
+- John Byron — Composer • Lyricist
+- Roy English — Composer • Lyricist
+
+**Production & Engineering:**
+- Jagwar Twin — Producer • Recording Engineer
+- Ryan Daly — Producer • Recording Engineer
+- Jeff Ellis — Mixing Engineer
+- Dale Becker — Mastering Engineer
+
+**Performers:**
+- Jagwar Twin — Electric Guitar • Keyboard
+- Ryan Daly — Programmer
+- Nick Bailey — Acoustic Guitar
+- Charlotte Egner — Background Vocalist
+- Raegan Egner — Background Vocalist
+- MERCY — Background Vocalist
+- John Byron — Background Vocalist
+- Luke V — Electric Guitar • Acoustic Guitar
 
 ## Lyrics
 
@@ -149,6 +176,6 @@ Baba bada baba ba
 ```
 
 ## Maintenance
-- Bulk-ingested 2026-05-25 from Google Drive lyrics doc.
-- **Not yet verified** against streaming release. Verification target → cross-check on Apple Music, Spotify, Letras, or Shazam; record URLs in `verified_against`; flip `status` to `stable`.
+- Bulk-ingested 2026-05-25 from Google Drive lyrics doc. Verified against Spotify 2026-06-10.
+- Spotify formatting differs slightly (hyphenated vocalizations: "Ba-ba, ba-da" vs filed "Baba bada baba ba"; "Ooh, a lasso 'round the Moon" vs filed "Oo / A lasso round the Moon") — these are notation differences only; lyric content matches.
 - If transcription diverges from official release, official wins.

@@ -2,7 +2,7 @@
 type: lyrics
 citable: true
 status: draft
-verified_against: ["AZLyrics.com (licensed via MusixMatch)"]
+verified_against: ["AZLyrics.com (licensed via MusixMatch)", "Spotify credits, 2026-06-10: https://open.spotify.com/track/12FvD79X6JEichJkSkziEx (Spotify has no lyrics for this track — lyric verification pending)"]
 ingested: 2026-05-16
 ingest_source: "AZLyrics.com (pasted by Jen)"
 ---
@@ -11,11 +11,37 @@ ingest_source: "AZLyrics.com (pasted by Jen)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- **Release:** single / EP track — likely associated with the **MAGIK EP** (the lyric's "Magik" refrain); confirm at verification
-- **Writers:** not listed on AZLyrics (add at verification)
+- **Release:** Single (Big Loud Records, 2025)
+- **Writers:** Roy English, Ryan Daly, Dustin Steven Rutkowski
 
 ### Citable as
-- Apple Music / Spotify. (Exact track URLs to add at verification.)
+- Spotify: https://open.spotify.com/track/12FvD79X6JEichJkSkziEx
+- Note: **No Spotify lyrics available** for this track. Lyric text from AZLyrics only; names (Galileo, Joan of Arc, Constantine) unverifiable via Spotify.
+
+## Credits
+Verified against Spotify, 2026-06-10.
+
+**Source:** Big Loud Records
+
+**Composition & Lyrics:**
+- Roy English — Composer • Lyricist
+- Ryan Daly — Composer • Lyricist
+- Dustin Steven Rutkowski — Composer • Lyricist
+
+**Production & Engineering:**
+- Roy English — Producer
+- OmegaSign — Producer
+- Ryan Daly — Producer • Mixing Engineer
+- Dale Becker — Mastering Engineer
+- Brandon Hernandez — Mastering Engineer
+- Katie Harvey — Mastering Engineer
+- Adam Burt — Mastering Engineer
+
+**Performers:**
+- Roy English — Vocalist
+- OmegaSign — Drum Programmer • Keyboard
+- Ryan Daly — Drum Programmer • Keyboard
+- Laboratorium Pieśni — Vocalist (Polish folk vocal ensemble)
 
 ## Lyrics
 
@@ -87,5 +113,7 @@ Dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (pasted by Jen). Single-source; cross-check against official release to flip `status` to `stable`.
+- Ingested 2026-05-16 from AZLyrics. Spotify credits verified 2026-06-10; Spotify has no lyrics for this track.
+- Status remains `draft` pending lyric verification from a source other than AZLyrics (Apple Music lyrics or equivalent).
+- Martyr-roll names (Galileo, Joan of Arc, Constantine) from AZLyrics only — not confirmable via Spotify.
 - Note for analysis: "eyes wide shut," "fighting demons," "Got out the grave," witch-burning martyr roll-call (Galileo, Joan of Arc, Constantine), "Crucified me" — persecution/magic cluster.

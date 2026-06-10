@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Spotify, 2026-06-10: https://open.spotify.com/track/2eu8dq5hF7ZEL3hNxqQnnh"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 2)"
 ---
@@ -11,10 +11,36 @@ ingest_source: "Google Drive (Jen's lyrics doc 2)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- (release metadata pending — Apple Music / Spotify / Genius URLs to add at verification time)
+- **Release:** Single (Big Loud Rock, 2025)
+- **Writer:** Roy English (sole Composer/Lyricist credit)
 
 ### Citable as
-- [release links pending]
+- Spotify: https://open.spotify.com/track/2eu8dq5hF7ZEL3hNxqQnnh
+
+## Credits
+Verified against Spotify, 2026-06-10.
+
+**Source:** Big Loud Rock
+
+**Composition & Lyrics:**
+- Jagwar Twin — String Arranger
+- Roy English — Composer • Lyricist
+
+**Production & Engineering:**
+- Jagwar Twin — Producer • Vocal Producer
+- Roy English — Recording Second Engineer
+- Cody Tarply — Vocal Engineer
+- Jeff Ellis — Mixing Engineer
+- Dale Becker — Mastering Engineer
+- Katie Harvey — Mastering Engineer
+- Adam Burt — Mastering Engineer
+
+**Performers:**
+- Jagwar Twin — Drum Programmer • Drum • Bass • Keyboard • Piano
+- MERCY — Background Vocalist
+- Luke Villegas — Electric Guitar • Acoustic Guitar • Bouzouki • Autoharp • Lute
+- Dan Adams — Violin
+- No Love — Cello
 
 ## Lyrics
 
@@ -23,7 +49,7 @@ I know it's not simple
 
 I know it's not fair
 
-There's nobody else is like you
+There's nobody else like you
 
 Out there
 
@@ -49,7 +75,7 @@ I prayed to God to make me good cause it wasn't my fault
 
 I was the only boy in class
 
-Get back against the wall
+Stood back against the wall
 
 The girls surrounded me and said "you're not a boy at all"
 
@@ -69,7 +95,7 @@ I know it's not simple
 
 I know it's not fair
 
-There's nobody else is like you
+There's nobody else like you
 
 Out there
 
@@ -77,7 +103,7 @@ I know it's not easy
 
 It's hard when you care
 
-There's nobody else is like you
+There's nobody else like you
 
 Out there
 
@@ -125,7 +151,7 @@ I know it's not simple
 
 I know it's not fair
 
-There's nobody else is like you
+There's nobody else like you
 
 Out there
 
@@ -133,27 +159,27 @@ I know it's not easy
 
 It's hard when you care
 
-There's nobody else is like you
+There's nobody else like you
 
 Out there
 
 Out there
 
-(Nobody else is like you)
+(Nobody else like you)
 
 Out there
 
-(Nobody else is like you)
+(Nobody else like you)
 
 Out there
 
-(Nobody else is like you)
+(Nobody else like you)
 
 Out there
 
 Out there
 
-(Nobody else is like you)
+(Nobody else like you)
 
 We don't really know who we are until we try things
 
@@ -179,7 +205,8 @@ Out there
 ```
 
 ## Maintenance
-- Bulk-ingested 2026-05-25 from Google Drive lyrics doc.
-- **2026-06-10:** corrected two ingest artifacts — "dace"→"dance"; restored the eaten line-break "egg McMuffin / Music just wasn't landing." These are transcription errors from the source doc, **not** lyric variants (in particular "McMuffinMusic" was a run-together artifact, not deliberate wordplay). Full streaming cross-check still pending; corrections do **not** constitute verification.
-- **Not yet verified** against streaming release. Verification target → cross-check on Apple Music, Spotify, Letras, or Shazam; record URLs in `verified_against`; flip `status` to `stable`.
+- Bulk-ingested 2026-05-25 from Google Drive lyrics doc. Verified against Spotify 2026-06-10.
+- **Lyric corrections (2026-06-10):** "Get back against the wall" → "**Stood back** against the wall" (Spotify); "There's nobody else **is** like you" → "There's nobody else like you" (Spotify, all occurrences); "(Nobody else **is** like you)" → "(Nobody else like you)."
+- **Spotify transcription error:** Spotify has "I loved to **dace**" — this is their OCR/sync error; the correct word is "**dance**" (confirmed by surrounding lyric context and prior filed version). Filed version retains the correct spelling.
+- **Note:** "When I was 7" → Spotify has "When I was **seven**" (spelled out); filed text updated at original ingest; current file is already correct.
 - If transcription diverges from official release, official wins.

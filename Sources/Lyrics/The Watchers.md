@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: ["AZLyrics.com (licensed via MusixMatch)"]
+status: stable
+verified_against: ["AZLyrics.com (licensed via MusixMatch)", "Spotify, 2026-06-10: https://open.spotify.com/track/4fkD871mgcMJ3PexA0MBfV"]
 ingested: 2026-05-16
 ingest_source: "AZLyrics.com (pasted by Jen)"
 ---
@@ -11,12 +11,38 @@ ingest_source: "AZLyrics.com (pasted by Jen)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- **Release:** single
-- **Writers:** Roy English, Rockwell, Ryan Daly, Ryan Spraker
+- **Release:** Track on the *SideQuest* EP (Big Loud Records, 2025)
+- **Writers:** Jagwar Twin, Ryan Daly, Ryan Spraker, Rockwell
 - Interpolates Rockwell's "Somebody's Watching Me" (1984) — hence Rockwell's credit.
 
 ### Citable as
-- Apple Music / Spotify. (Exact track URLs to add at verification.)
+- Spotify: https://open.spotify.com/track/4fkD871mgcMJ3PexA0MBfV
+- Full credits: [[Sources/Credits/The Watchers]]
+
+## Credits
+Verified against Spotify, 2026-06-10. (Extends [[Sources/Credits/The Watchers]] from Apple Music.)
+
+**Source:** Big Loud Records
+
+**Composition & Lyrics:**
+- Jagwar Twin — Composer • Lyricist
+- Ryan Daly — Composer • Lyricist
+- Ryan Spraker — Composer • Lyricist
+- Rockwell — Composer • Lyricist (interpolation credit)
+
+**Production & Engineering:**
+- Jagwar Twin — Producer
+- Ryan Daly — Producer • Recording Engineer
+- Ryan Spraker — Producer
+- Jeff Ellis — Mixing Engineer
+- Dale Becker — Mastering Engineer
+- Nate Mingo — Mastering Engineer
+- Katie Harvey — Mastering Engineer
+
+**Performers:**
+- Ryan Daly — Keyboard • Theremin • Mellotron • Bass • Accordion
+- Ryan Spraker — Programmer • Drum Kit
+- Roy English — Vocalist • Background Vocalist • Programmer • Keyboard
 
 ## Lyrics
 
@@ -99,5 +125,5 @@ Na na, na na
 ```
 
 ## Maintenance
-- Ingested 2026-05-16 from AZLyrics (via MusixMatch, pasted by Jen). **Credits now Apple-grounded** (2026-06; [[Sources/Credits/The Watchers]]) and the hook *"(I always feel like somebody's watching me)"* is **interpolation-corroborated** (Rockwell is a credited writer). **One step to `stable`:** a direct Apple/Spotify **lyric** eyeball (the credits pass confirmed personnel, not the lyric line-by-line) — record it in `verified_against`, then flip. Official release wins on divergence.
-- Note for analysis: surveillance/watching ("somebody's watching me," "no privacy," "Who's watching me?"); "I'm afraid I'm a clone"; "Wake up" (awakening); "tried to make me out to be the bad guy" (framing); "dancing like Michael Jackson." **Interpolates Rockwell** (credited) → [[Sources/Credits/The Watchers]].
+- Ingested 2026-05-16 from AZLyrics. Credits Apple-grounded (2026-06; [[Sources/Credits/The Watchers]]); Spotify credits + lyric verified 2026-06-10. No substantive lyric divergence.
+- Note for analysis: surveillance/watching ("somebody's watching me," "no privacy," "Who's watching me?"); "I'm afraid I'm a clone"; "Wake up" (awakening); "tried to make me out to be the bad guy" (framing); "dancing like Michael Jackson." Interpolates Rockwell (credited) → [[Sources/Credits/The Watchers]].

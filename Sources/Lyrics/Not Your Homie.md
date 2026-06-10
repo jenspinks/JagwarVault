@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Spotify, 2026-06-10: https://open.spotify.com/track/24ovVl1XRFUhcL08A5OW6n"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 1 — Lucius Lullaby album)"
 ---
