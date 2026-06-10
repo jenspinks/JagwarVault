@@ -1,8 +1,8 @@
 ---
 type: lyrics
 citable: true
-status: draft
-verified_against: []
+status: stable
+verified_against: ["Spotify (Jen screenshots, 2026-06-10) — full lyric + complete credits; track 0KrMnWDVjnszoWF8UqPkkL"]
 ingested: 2026-05-25
 ingest_source: "Google Drive (Jen's lyrics doc 2)"
 ---
@@ -11,11 +11,13 @@ ingest_source: "Google Drive (Jen's lyrics doc 2)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- **Released:** 2023-09-29 (single); MV 2023-10-11
-- (Apple Music / Spotify / Genius URLs to add at verification time)
+- **Released:** 2023-09-29 (single); MV 2023-10-11. Big Loud. 2:36.
+- **Writers (Spotify Credits, 2026-06-10):** Roy English, Lucky West, **Elijah Noll**, **Josh Dun** — all Composer • Lyricist.
+- **Producers:** Roy English, Lucky West, Elijah Noll.
+- *(Lucky West + Elijah Noll = the session collaborators named in Roy's TikTok dream-story; Josh Dun = Twenty One Pilots, also credited on Great Time to Be Human + Happy Face per the 2023 X feed.)*
 
 ### Citable as
-- [release links pending]
+- [Spotify](https://open.spotify.com/track/0KrMnWDVjnszoWF8UqPkkL)
 
 ## Lyrics
 
@@ -42,7 +44,7 @@ Just a rabbit in a road rage
 
 (Uh huh)
 
-Kicked the Habit like the old days
+Kicked the habit like the old days
 
 (Uh huh)
 
@@ -60,7 +62,7 @@ Shake what's in your pants
 
 I am
 
-In the business of the human kind
+In the business of the Human kind
 
 I don't need a witness
 
@@ -120,7 +122,7 @@ Youth is not a fountain, it's a hand grenade in hiding
 
 I've been
 
-In the business of the human kind
+In the business of the Human kind
 
 I don't need a witness
 
@@ -175,5 +177,4 @@ But I can have a good time
 
 ## Maintenance
 - Bulk-ingested 2026-05-25 from Google Drive lyrics doc.
-- **Not yet verified** against streaming release. Verification target → cross-check on Apple Music, Spotify, Letras, or Shazam; record URLs in `verified_against`; flip `status` to `stable`.
-- If transcription diverges from official release, official wins.
+- **2026-06-10:** verified against **Spotify** (Jen screenshots) → `status: stable`. Drive text matched; corrected two trivial caps to the official ("Habit"→"habit"; "human kind"→"**Human** kind"). Full credits added (writers Roy English / Lucky West / Elijah Noll / Josh Dun; producers Roy English / Lucky West / Elijah Noll). Spotify track URL recorded.

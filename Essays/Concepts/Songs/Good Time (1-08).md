@@ -8,7 +8,7 @@ related: [CHAR-SirLucius, SONG-WelcomeToTheCircus, CHAR-Roy, CONCEPT-WitnessingV
 # Good Time (1:08)
 
 ## Album / Position
-Standalone single, released **2023-09-29** (MV 2023-10-11), Big Loud. `[G]` The **2023 face-paint video** (full makeup + knight armor + *"I'm a mastermind"*) is the catalogue's earliest assembled-Lucius iconography — three years before the 2026 co-credit. → [[Sir Lucius]].
+Standalone single, released **2023-09-29** (MV 2023-10-11), Big Loud, 2:36. `[G]` Lyric **Spotify-verified** (2026-06-10). **Writers:** Roy English, Lucky West, **Elijah Noll**, **Josh Dun**; **producers** Roy English / Lucky West / Elijah Noll ([[Sources/Lyrics/Good Time (1-08)]]). *(The credits confirm the TikTok's session detail — **Lucky West + Elijah Noll** are the studio collaborators Roy names; **Josh Dun** = Twenty One Pilots, also on Great Time to Be Human + Happy Face per the 2023 feed.)* The **2023 face-paint video** (full makeup + knight armor + *"I'm a mastermind"*) is the catalogue's earliest assembled-Lucius iconography — three years before the 2026 co-credit. → [[Sir Lucius]].
 
 ## Lyrics
 
@@ -50,7 +50,7 @@ The dream ends in a crash — *"white semi truck with a lightning bolt comes, bo
 
 ## Open Questions
 
-- **[?] Lyric → stable.** Drive-sourced; *some* lines now **corroborated by the TikTok** (*"rabbit in a road rage," "I don't know what I'm looking for"*) but the full text still needs an Apple/Spotify eyeball.
+- [x] ~~Lyric → stable~~ **DONE (Spotify-verified, 2026-06-10).** The Drive text matched; *"rabbit in a road rage" / "I don't know what I'm looking for"* confirmed verbatim (the dream encoded in the lyric stands). Credits added (Josh Dun / Elijah Noll / Lucky West co-write).
 - **[?] Vocal/voice frame.** Is the manipulator-guide verse (*"stick with me, I'll take you far"*) marked as Lucius's voice in any official text, or is that the read? (Read #2 is `[W]`, grounded on the dream + the face-paint video, not a credited vocal split.)
 - **[?] Dream date.** The dream precedes the 2023-09-29 release; the TikTok telling is ~Oct 2023. Exact dream date unpinned.
 
@@ -60,7 +60,7 @@ The dream ends in a crash — *"white semi truck with a lightning bolt comes, bo
 
 ## Sources
 
-- *Good Time (1:08)* single — 2023-09-29 (MV 2023-10-11), Big Loud `[G]`.
+- *Good Time (1:08)* single — 2023-09-29 (MV 2023-10-11), Big Loud, 2:36 `[G]`. **Spotify-verified lyric + credits** (Jen, 2026-06-10): writers Roy English / Lucky West / Elijah Noll / Josh Dun; producers Roy English / Lucky West / Elijah Noll. [[Sources/Lyrics/Good Time (1-08)]].
 - **Origin (primary, Roy-voice):** [[Sources/Transcripts/Roy TikTok - Good Time (1-08) dream story]] `[G]` (TikTok @jagwartwin /video/7288450307858631967).
 - Lyric: [[Sources/Lyrics/Good Time (1-08)]] `[?]` (Drive; the rabbit/road + "looking for" lines TikTok-corroborated).
 - 2023 face-paint video (full makeup + armor + *"I'm a mastermind"*) — the visual-Lucius anchor ([[Sir Lucius]]).
