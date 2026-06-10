@@ -8,7 +8,7 @@ related: [SONG-CityOfAngels, SONG-PlayingToTheGods, SONG-DreamDream, CHAR-SirLuc
 # The Watchers — The Hall of Mirrors Grows Eyes
 
 ## Album / Project
-- **Standalone single / 3-song EP** — 2026-10-04 *(2024-10-04; reconfirm)*, **Big Loud Records**. **Not** on [[Lucius Lullaby (album)]]. Writers: Roy English, Ryan Daly, Ryan Spraker, **Rockwell**. **Interpolates Rockwell's "Somebody's Watching Me" (1984)** (credited). Credits: [[Sources/Credits/The Watchers]].
+- **Standalone single / 3-song EP** — 2024-10-04, **Big Loud Records**. **Not** on [[Lucius Lullaby (album)]]. Writers: Roy English, Ryan Daly, Ryan Spraker, **Rockwell**. **Interpolates Rockwell's "Somebody's Watching Me" (1984)** (credited). Credits: [[Sources/Credits/The Watchers]].
 
 ## Thesis
 "The Watchers" is a **surveillance-dream song**: the self is replicated, consumed, judged, and watched by a fascinated crowd-machine while it tries to work out whether it's awake, dreaming, or **already a clone of itself.** Where [[City of Angels]] externalizes the horror — *everyone looks just like you* — "The Watchers" internalizes it: *maybe I'm the copy.* And where [[Lucius Lullaby]] sedates — *life is but a dream* — this is the paranoid alarm clock that keeps demanding you wake up. The keeper line for the whole song: **"The Watchers" is the moment the Hall of Mirrors grows eyes** — reflection escalating into surveillance. `[W]`

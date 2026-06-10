@@ -11,7 +11,8 @@ ingest_source: "Google Drive (Jen's lyrics doc 2)"
 Verbatim ingest. **No interpretation here** — analysis lives in Brain/ and Essays/.
 
 ## Source
-- (release metadata pending — Apple Music / Spotify / Genius URLs to add at verification time)
+- **Released:** 2023-05-26
+- (Apple Music / Spotify / Genius URLs to add at verification time)
 
 ### Citable as
 - [release links pending]
