@@ -1,3 +1,12 @@
+---
+type: lyrics
+citable: true
+status: draft
+verified_against: ["Letras.mus.br + Shazam (cross-verified, match); official Apple Music lyrics not separately confirmed — user to verify"]
+ingested: 2026-01-16
+ingest_source: "Letras.mus.br / Shazam transcription. Released 2026-01-16, Lucius Lullaby track 4."
+format: vocal
+---
 # welcome to the circus — Lyrics (Processed)
 
 Cleaned lyric file. Text + structural notes + phrase index. **No interpretation here.** For analysis, see [[Sources/Lyrics/Welcome to the Circus]] in Wiki/Songs/.
