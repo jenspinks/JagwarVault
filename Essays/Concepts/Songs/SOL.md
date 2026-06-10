@@ -10,7 +10,7 @@ related: [SONG-MoveToYou, SONG-SoulIsAStar, CHAR-SirLucius, CHAR-Roy, SONG-Playi
 > [!warning] Tier discipline for this page
 > - The **identity** claim "SOL *is* the father's verse / the Joni-borrowed song" is **`[P]` (Jen's position)** — a licensed figure-collapse, never grounded. The defensible `[W]` is that they **participate in the same symbolic object: a transmission surviving partial loss.**
 > - "Love is a question" recurring across the catalogue is **`[G]`**; that SOL is *returning* to it (vs introducing it) is **`[W]`**.
-> - The breath-substrate reading is **`[P]`/`[~]`** (framework-attributed) and does **not** use the private breath-method. Public-facing → Abulafia / prophetic-Kabbalah; Genesis *ruach* / Theosophy "Great Breath" are universal resonances.
+> - The breath-substrate reading is **`[P]`/`[~]`** (framework-attributed) and does **not** use the private breath-method. It rests on **Genesis *ruach* / Theosophy "Great Breath"** (universal/public). Any Abulafia / letter-mysticism correspondence is **`[~]` tradition-only** ([[The Angels and the Angles]]) — there is **no public Jagwar Twin source** grounding it as Roy's method.
 
 ## Album / Position
 *Lucius Lullaby*, **Track 14 — the final track** `[G]` (Apple Music). The album named for the shadow gives its last word to the one song the shadow spent the theatrical run trying to suppress.
@@ -79,7 +79,7 @@ Two "befores" have to be kept apart, or the reading overclaims `[W] register-dis
 
 In that ontological register the resonances are clean and universal `[~]`:
 
-- **Genesis 1:2 — the *ruach* before speech.** The breath hovers over the waters *before* a single "let there be"; the spoken creation (the verses, the namings) arises out of it. SOL is that hovering — not the first thing *said* but the thing already *breathing* under everything said. And **רוח / *ruach* is grammatically feminine**, which reconciles the explicit/implicit braid below: an explicit paternal frame over an implicitly feminine substrate — the same braid as the Ballerina Boy outro and the same masculine/feminine descent as *Soul Is A Star*'s two verses. *(Framework-attributed; public-facing breath/vowel material points to **Abulafia / prophetic-Kabbalah**, never the private method.)*
+- **Genesis 1:2 — the *ruach* before speech.** The breath hovers over the waters *before* a single "let there be"; the spoken creation (the verses, the namings) arises out of it. SOL is that hovering — not the first thing *said* but the thing already *breathing* under everything said. And **רוח / *ruach* is grammatically feminine**, which reconciles the explicit/implicit braid below: an explicit paternal frame over an implicitly feminine substrate — the same braid as the Ballerina Boy outro and the same masculine/feminine descent as *Soul Is A Star*'s two verses. *(Framework-attributed `[~]`: carried by Genesis *ruach* and Theosophy's "Great Breath," both universal/public; any Abulafia / letter-mysticism correspondence is `[~]` tradition-only per [[The Angels and the Angles]] — not publicly grounded as Roy's method, and the private breath-method is not used.)*
 - **Theosophy — the "Great Breath"** (Blavatsky): the unmanifest breathing out the manifest and breathing it back. The verses are the out-breath; SOL is the breath itself. Bailey/Theosophy sit in Roy's curated influences, so this is a **live** resonance, not an imported one — but it stays `[~]`.
 
 This is the most totalizing reading the page carries, and it shows its seam: the song is wordless; that it is the breath beneath all the others is the **reading**, coherent with Roy's own stated center (the Circle) but never grounded as his design.
@@ -164,4 +164,4 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 - Genesis 1:2 (*ruach* / breath before speech; the feminine grammatical gender of *ruach*).
 - Theosophy — Blavatsky's "Great Breath" (manifestation as out-breath).
 - Esoteric / Marian — the white rose; the receptive left hand.
-- *(Public-facing breath / vowel framing → Abulafia / prophetic-Kabbalah lineage. The private breath-method is not used on this page.)*
+- Genesis *ruach* and Theosophy's "Great Breath" carry the breath reading (universal/public). Any Abulafia / letter-mysticism correspondence is `[~]` tradition-only ([[The Angels and the Angles]]) — **not** Roy's stated method; the private breath-method is not used on this page.
