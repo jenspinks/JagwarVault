@@ -29,7 +29,7 @@ Out there
 
 When I was 7 went to Christian school and did ballet
 
-I loved to dace
+I loved to dance
 
 I came alive when I was on that stage
 
@@ -101,7 +101,9 @@ But you always had my back when I was feeling hopeless
 
 Driving 'round the country
 
-Couldn't afford an egg McMuffinMusic just wasn't landing, I heard
+Couldn't afford an egg McMuffin
+
+Music just wasn't landing, I heard
 
 You're not a real boy
 
@@ -178,5 +180,6 @@ Out there
 
 ## Maintenance
 - Bulk-ingested 2026-05-25 from Google Drive lyrics doc.
+- **2026-06-10:** corrected two ingest artifacts — "dace"→"dance"; restored the eaten line-break "egg McMuffin / Music just wasn't landing." These are transcription errors from the source doc, **not** lyric variants (in particular "McMuffinMusic" was a run-together artifact, not deliberate wordplay). Full streaming cross-check still pending; corrections do **not** constitute verification.
 - **Not yet verified** against streaming release. Verification target → cross-check on Apple Music, Spotify, Letras, or Shazam; record URLs in `verified_against`; flip `status` to `stable`.
 - If transcription diverges from official release, official wins.

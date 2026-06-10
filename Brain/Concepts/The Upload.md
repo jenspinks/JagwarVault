@@ -10,7 +10,7 @@ connections:
   grounded:    [CONCEPT-ThePattern, SONG-Online]
   strong_read: [SONG-TheWatchers, CONCEPT-WitnessingVsSurveillance, CONCEPT-SourceVsReflection, CONCEPT-TheJaguar]
   resonance:   [ALBUM-33, SONG-CityOfAngels, SONG-AllMyFriends, SONG-SOL, CONCEPT-Inversion]
-referenced_by: [SONG-MothsToTheFlame, SONG-TheWatchers]
+referenced_by: [CONCEPT-TheDigitalDouble, SONG-MothsToTheFlame, SONG-TheWatchers]
 review_date: 2026-12-08
 ---
 # The Upload (Consciousness Upload)
