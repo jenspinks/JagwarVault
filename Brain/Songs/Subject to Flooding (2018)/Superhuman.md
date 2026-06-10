@@ -1,3 +1,9 @@
+---
+id: SONG-Superhuman
+type: song
+status: draft
+referenced_by: [SONG-HellOfANightPt2TheHallelujahStickup, SONG-Loser, SONG-SuperhumanInterlude]
+---
 # Superhuman
 
 **Album:** [[Subject to Flooding (album)]] (2018, Atlantic Records)

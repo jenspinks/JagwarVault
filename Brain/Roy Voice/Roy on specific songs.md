@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Roy on specific songs
 
 Catch-all for Roy's per-track commentary — quotes tied to specific songs rather than thematic threads. Sorted by song; each entry dated and cited.

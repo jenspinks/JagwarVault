@@ -52,9 +52,11 @@ for (const rel of pages) {
   if (!fm) { warns.push(`${rel}: no frontmatter.`); continue; }
 
   // 2a. id: REQUIRED + canonical for Brain (machine memory). Essays have no
-  //     id by schema (CLAUDE.md §6) — skip id checks there.
+  //     id by schema (CLAUDE.md §6) — skip id checks there. `type: index`
+  //     Brain pages (README / folder indexes / thematic Roy-Voice aggregations)
+  //     are navigation aids, not ontology entities — they carry no id.
   const isBrain = rel.startsWith("Brain/");
-  if (isBrain) {
+  if (isBrain && fm.type !== "index") {
     if (!fm.id) errors.push(`${rel}: missing 'id' (required for Brain).`);
     else {
       if (!ids.has(fm.id)) errors.push(`${rel}: id '${fm.id}' not in Ontology.`);

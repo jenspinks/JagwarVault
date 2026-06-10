@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Roy on Process
 
 Roy English's own statements about songwriting, production, collaboration, and the conditions he creates for himself to work. Chronological. Each quote → citation back to the source transcript in `Sources/Transcripts/`.

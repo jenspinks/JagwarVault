@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Roy on the cosmology (Manifesto)
 
 Roy English's own statements about the project's larger frame — the Manifesto, the Hall of Mirrors site architecture, the "healing-frequency infiltration" thesis, the "digital circus" direction, SARAVI. **This page is where Roy's *meta-framework* statements aggregate** — distinct from per-song, per-album, or per-theme statements elsewhere.

@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Roy on 33
 
 Roy English's own statements about the *33* album (2022). **Substantial corpus now in place** — use this page when reasoning about any 33 track, the album's overall framing, or the catalogue arc between *Subject to Flooding* (2018) and *Lucius Lullaby* (2026).

@@ -1,3 +1,9 @@
+---
+id: SONG-ItSYourTime
+type: song
+status: draft
+referenced_by: []
+---
 # It's Your Time
 
 **Album:** [[33 (album)]] (2022, Big Loud Rock)

@@ -1,3 +1,9 @@
+---
+id: SONG-GoodTime108
+type: song
+status: draft
+referenced_by: []
+---
 # Good Time (1:08)
 
 **Release type:** Standalone single

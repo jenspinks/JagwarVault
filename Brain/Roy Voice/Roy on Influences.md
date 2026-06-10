@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Roy on Influences
 
 Roy English's own statements about musical and intellectual influences. Chronological.

@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Roy on Authenticity & Masks
 
 Roy English's own statements about masks, performance, the misfit / outcast self, authenticity, and the project of "remove the mask, find we're all human underneath." Chronological. **Grounds the "we all walk around with masks on" framing that the [[Essays/Concepts/Songs/Loser]] page already cites — now citable.**

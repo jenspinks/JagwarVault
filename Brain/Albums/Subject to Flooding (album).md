@@ -1,3 +1,9 @@
+---
+id: ALBUM-SubjectToFlooding
+type: album
+status: draft
+referenced_by: [ALBUM-33, CHAR-Roy, CONCEPT-SourceVsReflection, SONG-DreamDream, SONG-GoodDay, SONG-HellOfANightPt2TheHallelujahStickup, SONG-LongTimeComing, SONG-Loser, SONG-NoFakeFriends, SONG-SuperhumanInterlude]
+---
 # Subject to Flooding (album)
 
 **Artist:** Jagwar Twin (Roy English)

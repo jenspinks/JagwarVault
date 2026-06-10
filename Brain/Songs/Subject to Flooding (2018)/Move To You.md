@@ -1,3 +1,9 @@
+---
+id: SONG-MoveToYou
+type: song
+status: draft
+referenced_by: [CONCEPT-TheCircle, SONG-HappyFace]
+---
 # Move To You
 
 **Album:** [[Subject to Flooding (album)]] (2018, Atlantic Records)

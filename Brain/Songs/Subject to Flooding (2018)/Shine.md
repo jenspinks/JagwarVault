@@ -1,3 +1,9 @@
+---
+id: SONG-Shine
+type: song
+status: draft
+referenced_by: []
+---
 # Shine
 
 **Album:** [[Subject to Flooding (album)]] (2018, Atlantic Records)

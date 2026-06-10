@@ -1,3 +1,9 @@
+---
+id: CHAR-JagwarTwin
+type: character
+status: draft
+referenced_by: [CHAR-Roy, CONCEPT-TheJaguar]
+---
 # Jagwar Twin
 
 Type: Character / Project

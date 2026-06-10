@@ -1,3 +1,9 @@
+---
+id: SONG-TomorrowANGLEOFETERNITY
+type: song
+status: draft
+referenced_by: []
+---
 # tomorrow [ANGLE OF ETERNITY]
 
 **Release type:** Standalone single

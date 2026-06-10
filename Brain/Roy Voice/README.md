@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Brain/Roy Voice/ — Authorial-voice index
 
 Thematic aggregation of **Roy English's own public statements** about his music and process — interviews, press, the Manifesto FAQ, YouTube interviews. Designed for **context-loading by analytical agents**: when reasoning about a song, an agent checks this folder for any thematic pages relevant to the song's content and consults them before completing a Strong Read.

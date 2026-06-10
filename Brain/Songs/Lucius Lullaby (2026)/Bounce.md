@@ -1,3 +1,9 @@
+---
+id: SONG-Bounce
+type: song
+status: draft
+referenced_by: []
+---
 # Bounce
 
 Type: Song

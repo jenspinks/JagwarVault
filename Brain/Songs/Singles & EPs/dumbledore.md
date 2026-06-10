@@ -1,3 +1,9 @@
+---
+id: SONG-Dumbledore
+type: song
+status: draft
+referenced_by: []
+---
 # dumbledore EP
 
 **Release type:** EP

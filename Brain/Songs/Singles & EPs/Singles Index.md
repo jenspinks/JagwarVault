@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Singles & EPs — Index
 
 Standalone releases not part of a full album. Organized chronologically.

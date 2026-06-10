@@ -1,3 +1,9 @@
+---
+id: SONG-RoyVoiceMemoS1Arrowhead
+type: note
+status: draft
+referenced_by: []
+---
 # Roy Voice Memo: S1 Arrowhead
 
 **Album:** [[Subject to Flooding (album)]] (2018, Atlantic Records)

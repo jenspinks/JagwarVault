@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Roy on Industry (commerce, labels, algorithm, the music business)
 
 Roy English's own statements about commercial pressure, label dynamics, the streaming/attention economy, and the algorithm-as-corrupter-of-feeling. Chronological.

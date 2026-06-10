@@ -1,3 +1,9 @@
+---
+id: SONG-LOOP
+type: song
+status: draft
+referenced_by: [SONG-NotYourHomie]
+---
 # LOOP
 
 **Release type:** Single (3-song release)

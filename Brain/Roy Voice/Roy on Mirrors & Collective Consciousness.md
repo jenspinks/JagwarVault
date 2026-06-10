@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Roy on Mirrors & Collective Consciousness
 
 Roy English's own statements about mirrors, the collective, the "we not me" framing, and the Hall-of-Mirrors structure he's built around the project. Chronological. **This page surfaces an important early finding: the mirror-language is 2018, not retrospective.**

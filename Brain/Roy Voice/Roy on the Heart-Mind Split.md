@@ -1,3 +1,7 @@
+---
+type: index
+status: stable
+---
 # Roy on the Heart-Mind Split
 
 Roy English's own statements distinguishing the **heart / intuition / feeling** from the **mind / intellect / thinking** — and his framing of the rational mind as a *necessary but dangerous* faculty. This is the project's theological center in Roy's own voice: it is where he, unprompted, equates **the mind with the Lucifer archetype**. New page (created 2026-05-29) because the cluster reached ≥6 first-person statements across the cleaned *Mirror Sessions* set.

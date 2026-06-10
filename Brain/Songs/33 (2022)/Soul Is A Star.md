@@ -1,3 +1,9 @@
+---
+id: SONG-SoulIsAStar
+type: song
+status: draft
+referenced_by: [ALBUM-33, CONCEPT-ThePattern, SONG-AnotherWayIIHeaven, SONG-BALLERINABOY, SONG-PayAttentionFeatLittleLuna]
+---
 # Soul Is A Star
 
 **Album:** [[33 (album)]] (2022, Big Loud Rock)

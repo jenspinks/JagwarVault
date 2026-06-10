@@ -1,3 +1,9 @@
+---
+id: SONG-SideQuest
+type: song
+status: draft
+referenced_by: []
+---
 # SideQuest EP
 
 **Release type:** EP

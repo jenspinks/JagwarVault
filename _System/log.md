@@ -14,6 +14,9 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-10] lint | Brain frontmatter pass — 30 warnings → 1
+Maintenance audit (Jen asked to verify indexes/structure/logs current, then clear the frontmatter warnings). Nav docs confirmed current (file-map 302 — the 302-vs-307 `find` gap is the intentional `_Private`/`_legacy` skips; index lists all 06-10 essays; backlinks 0-drift). Cleared 29 of 30 `no frontmatter` warnings: **18 entity stubs** (16 songs + [[Subject to Flooding (album)]] + [[Jagwar Twin]]) given frontmatter with their already-registered Ontology IDs; **11 navigation pages** (the 9 [[Brain/Roy Voice/README|Roy Voice]] thematic aggregations + Singles Index + README) marked `type: index` and **exempted from the Brain-id requirement** via a one-line `validate.mjs` rule (an index page is a nav aid, not an ontology entity). **Left flagged (1 warning):** `Brain/Songs/Singles & EPs/Shine.md` is a **duplicate** — it guesses Shine is a separate ~2018 single, but Ontology + the STF stub + MusicBrainz confirm Shine = *Subject to Flooding* track 13 (also a 2020 live single). Pending Jen's call: merge the "Big Loud bio / transcendent-track" note into the STF Shine stub and delete the duplicate.
+
 ## [2026-06-10] verification | Spotify lyric + credits pass — 15 draft lyric files
 
 Bulk Spotify verification via Chrome MCP over two sessions (Jun 10). Ran all draft `Sources/Lyrics/` files against Spotify web player (DOM extraction): pulled full credits dialog + lyrics for each track; cross-referenced against filed text; applied corrections.

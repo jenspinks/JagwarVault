@@ -1,3 +1,9 @@
+---
+id: SONG-SOL
+type: song
+status: draft
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CONCEPT-TheMouth, CONCEPT-TheUpload, CONCEPT-TheVoice, SONG-BALLERINABOY, SONG-LuciusLullaby, SONG-NotYourHomie]
+---
 # SOL
 
 Type: Song
