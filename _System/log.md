@@ -14,6 +14,9 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-10] ingest | Life Is Good essay created
+Built [[Essays/Concepts/Songs/Life Is Good]] (JT × @angelbaby, 2023-11-03) from a handoff. Core read revised denial→**decision**: joy chosen *while naming* the collapse ("I'm mad / and I'm sad / and I'm misunderstood") — the **integrated** step past [[Happy Face]], not a repeat; the wisdom-vs-evasion tension held open ([[Welcome to the Circus]] complicity pole vs Roy-side "I'm only human" defiance). All handoff quotes verified against the filed source (no fabrication). angelbaby AI credit **confirmed `[G]`** ([[The Digital Double]]); the **MERCY-rule guard** carried — angelbaby ≠ the symbolic "angel baby" in [[Weirdness]] (name-echo only). Transcription forks flagged: filed "**Nether** circle round the sun" (vs possible "Another"); "La viva es buena" (likely "La vida"). Lyric Drive single-source `[?]`.
+
 ## [2026-06-10] ingest | tomorrow (ANGLE OF ETERNITY) essay created
 Built [[Essays/Concepts/Songs/tomorrow (ANGLE OF ETERNITY)]] (JT × lovelytheband single) from a workshop handoff. Reads: remembrance/anamnesis as a **grounded cross-song pattern** ([[The Circle]] "held the string→remembered" + [[Soul Is A Star]] "do you know who you are" + tomorrow "do you remember" — all verified lyrics); the surrender-vs-survival inversion of [[Playing to the Gods]]; "I AM" = Exodus 3:14 vs Lucius's audience-boast; holograms-as-projection (not nihilism). **Third-rail held:** the angle/angel/consonant-vowel framework was **struck from `[G]`** (private-only, no public JT source — third time it tried to enter grounded this session); re-grounded the breath idea on the public logos/word-creation tradition `[~]` and read the title's "angle" as perspective `[W]`. Roy-attribution hedged (collab). Lyric still AZLyrics single-source `[?]`.
 
