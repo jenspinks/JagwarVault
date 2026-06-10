@@ -25,7 +25,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[12-27]** *(reply to @JagwarTwin)* *"RT"* (img)
 - **[12-27]** *(reply to @JagwarTwin)* *"I want the Willy wonka converse"*
 - **[12-26]** *(reply to @JagwarTwin)* *"I AM Christmas"*
-- **[12-25]** *(reply to @JagwarTwin)* *"Merry Christmas Jagwars. You have given me such a [joy] this year after a hard year of life. Bad Feeling dropped 9 days ago & it's already past 1 Million Streams on Spotify & going crazy on TikTok. The best part is, it's all from YOU. / Roy"* (img)
+- **[12-25]** *(reply to @JagwarTwin)* *"Merry Christmas Jagwars. You have given me such a [joy] this year after a hard year of life. Bad Feeling dropped 9 days ago & it's already past 1 Million Streams on Spotify & going crazy on TikTok. The best part is, it's all from YOU. / Roy"* (img) → [[Roy]] / [[Bad Feeling (Oompa Loompa)]] ("hard year of life" + 1M streams in 9 days via fan TikTok; Roy signing as Roy, not Lucius — the gratitude is in his own voice).
 - **[12-23]** *(reply to @JagwarTwin)* *"Idk how to shop for you"*
 - **[12-23]** *(reply to @JagwarTwin)* *"RT"* (img)
 - **[12-23]** *(reply to @JagwarTwin)* *"You ever asked Santa for candles?"*
@@ -47,14 +47,14 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[12-16]** *(reply to @JagwarTwin)* *"Never ever ever"*
 - **[12-16]** *"Just saw Wonka. iCried."*
 - **[12-15]** *"This one's for @RealChalamet"* (img) (vid)
-- **[12-15]** *"Ok, I dropped it. 'Bad Feeling (Oompa Loompa)' is out now."* (img)
+- **[12-15]** *"Ok, I dropped it. 'Bad Feeling (Oompa Loompa)' is out now."* (img) → [[Sir Lucius]] / [[Bad Feeling (Oompa Loompa)]] (release post; Dec 15 2023 = grounded release date [G]).
 - **[12-13]** *(reply to @JagwarTwin)* *"Let's go!"*
 - **[12-08]** *(reply to @JagwarTwin)* [no text]
 - **[12-08]** *"Illegally leaking unreleased demos on my Tik Tok"*
 - **[12-07]** *"Let's come together as a beautiful human race to protect our oceans. I'm petitioning world leaders to create more ocean sanctuaries. You can too. Go to genzeroaction.com to see what actions you can take and earn prizes."* (img) (vid)
 - **[12-07]** *"Life is good"* (img)
 - **[12-06]** *(reply to @JagwarTwin)* *"Love you!"*
-- **[12-05]** *"Make sure your mask is secure before helping others"*
+- **[12-05]** *"Make sure your mask is secure before helping others"* → [[The Mask]] (the airplane oxygen-mask doctrine; self-preservation as prerequisite to service; mask as the persona/survival tool, not the enemy).
 - **[12-04]** *(reply to @JagwarTwin)* *"Dang…"*
 - **[12-04]** *(reply to @JagwarTwin)* *"I'm living on a prayer"*
 - **[12-04]** *(reply to @JagwarTwin)* *"Every day is Christmas"*
@@ -65,13 +65,13 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[11-27]** *"Holy shit! You guys sent Happy Face to Jupiters moon!"* (img)
 - **[11-27]** *"In celebration of 'Happy Face' reaching 100 million streams, we're offering a 20% discount on all Happy Face merchandise for the entire week! Plus, visit deathofmygeneration.fun, complete the Happy Face experience, share it, and tag Jagwar Twin to be entered into a drawing"*
 - **[11-27]** *"The iPhone 15 is so lame. Flip phone is the new god tech"*
-- **[11-27]** *"This is beyond… god gives us the lessons we need. I needed to learn this difficult lesson of trusting myself, and being willing to fight for something to be in the world because it IS good enough. I've always struggled with self doubt, and not feeling understood, and the world"* (img) (vid)
+- **[11-27]** *"This is beyond… god gives us the lessons we need. I needed to learn this difficult lesson of trusting myself, and being willing to fight for something to be in the world because it IS good enough. I've always struggled with self doubt, and not feeling understood, and the world"* (img) (vid) → [[Roy]] / [[The Labors of Hercules]] (Happy Face 100M milestone; the trust-thyself labor named explicitly; "fight for something to be in the world" = the Herculean frame; text truncated).
 - **[11-26]** *"Does anybody know yanni?"*
 - **[11-26]** *"This song will forever be a lesson"*
 - **[11-26]** *(reply to @JagwarTwin)* *"Can't fathom that number"*
 - **[11-26]** *(reply to @JagwarTwin)* *"Ahhh!!"*
 - **[11-26]** *(reply to @JagwarTwin)* *"This is wild… thank you so much for everything"*
-- **[11-26]** *"Being an artist is becoming a warrior / Being a warrior is becoming an artist"*
+- **[11-26]** *"Being an artist is becoming a warrior / Being a warrior is becoming an artist"* → [[Roy]] / [[The Labors of Hercules]] (the artist-warrior equation; integration of the two modes; aphorism-grade [G]).
 - **[11-25]** *"If I ever get engaged and there's a person with a camera hiding out in [the bushes] guna be pissed"*
 - **[11-23]** *"Thankful for all the beans"* (img) (vid)
 - **[11-22]** *"Plants don't know they're plants"*
@@ -88,7 +88,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[11-02]** [no text]
 
 **October**
-- **[10-31]** *"Sir Lucius says stay spooky"*
+- **[10-31]** *"Sir Lucius says stay spooky"* → [[Sir Lucius]] (speaking in own voice; Halloween as native aesthetic for the character).
 - **[10-30]** *"New song 'life is good' with @angelbaby is dropping on @soundxyz_ Thursday at 1pm. Nerds and weirdos unite"*
 - **[10-29]** *(reply to @JagwarTwin)* *"That's it"*
 - **[10-29]** *(reply to @JagwarTwin)* *"RT. Woah"*
@@ -100,16 +100,16 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[10-23]** *"London's been good. Many aliens here."*
 - **[10-21]** *(reply to @JagwarTwin)* [no text]
 - **[10-20]** *"'life is good' w @angelbaby dropping EVERYWHERE friday nov 3 / Pre-save now"*
-- **[10-19]** *(reply to @JagwarTwin)* *"'The one eye of the godhead is blind / The one ear of the godhead is deaf / The order of its being is crossed by chaos' ⁃Carl Jung"*
-- **[10-19]** *(reply to @JagwarTwin)* *"We must first be aware of a thing to change it. I don't have any answers, but I do know the way is within us. Within us is the way, the truth, and the life."*
-- **[10-19]** *(reply to @JagwarTwin)* *"I am blind. The darkness we have seen over the last years is a clear indication that Light is at work. As more Light (consciousness, awareness) comes in we see things that were always there, hidden, but are now being illuminated."*
-- **[10-19]** *(reply to @JagwarTwin)* *"Where is Israel in me? Where is Palestine in me? Are we not one? Did we not fall from the same tree? Have I rejected myself? Is the world I see not a reflection of my own inner world?"*
-- **[10-19]** *"I am I am (a [heart]) / My words have always been imperfect. I prefer to speak in images, or music, or to not speak at all. Especially about politics and foreign affairs, things I have little understanding of. However, with the current world situation in Israel and Palestine I"*
+- **[10-19]** *(reply to @JagwarTwin)* *"'The one eye of the godhead is blind / The one ear of the godhead is deaf / The order of its being is crossed by chaos' ⁃Carl Jung"* → [[Duality]] / [[The Circus]] (Jung's one-eyed godhead = the incomplete divine; chaos crossing order; Roy citing Jung directly — grounded).
+- **[10-19]** *(reply to @JagwarTwin)* *"We must first be aware of a thing to change it. I don't have any answers, but I do know the way is within us. Within us is the way, the truth, and the life."* → [[The Thread]] / [[Roy]] ("the way, the truth, and the life" = Johannine echo; the interior path; Roy's Christianity surfacing directly).
+- **[10-19]** *(reply to @JagwarTwin)* *"I am blind. The darkness we have seen over the last years is a clear indication that Light is at work. As more Light (consciousness, awareness) comes in we see things that were always there, hidden, but are now being illuminated."* → [[The Light-Bearer]] / [[Inversion]] (darkness = illumination's arrival; the paradox of light-through-shadow; core Roy/Lucius dialectic stated in Roy's own theological register).
+- **[10-19]** *(reply to @JagwarTwin)* *"Where is Israel in me? Where is Palestine in me? Are we not one? Did we not fall from the same tree? Have I rejected myself? Is the world I see not a reflection of my own inner world?"* → [[Source vs Reflection]] / [[Inversion]] (world-as-self-reflection; the rejected self as the split; clearest single-post statement of the reflection doctrine in Roy's voice [G]).
+- **[10-19]** *"I am I am (a [heart]) / My words have always been imperfect. I prefer to speak in images, or music, or to not speak at all. Especially about politics and foreign affairs, things I have little understanding of. However, with the current world situation in Israel and Palestine I"* → [[Roy]] / [[Source vs Reflection]] (opening post of the 5-part thread; text truncated; images/music as preferred language over words — the Roy-voice doctrine).
 - **[10-18]** *"Good Time (1:08) (Live Acoustic Video) / Out now"* (img) (vid)
 - **[10-17]** [media only] (img) (vid)
 - **[10-17]** [no text]
 - **[10-17]** [no text]
-- **[10-17]** *"The melting together of sense and nonsense produces the supreme meaning"*
+- **[10-17]** *"The melting together of sense and nonsense produces the supreme meaning"* → [[The Circus]] / [[Inversion]] (the nonsense doctrine; cf. NYH "it doesn't mean anything / exactly, it's nonsense" — the supreme meaning lives in the fusion; pin attribution — likely Jung).
 - **[10-16]** *"735 hot girl minutes"*
 - **[10-16]** *"For meetup in London tomorrow let's meet in Hyde park at the Italian gardens at noon"*
 - **[10-15]** *"London, Hyde Park / Tuesday, Oct. 17th at Noon"*
@@ -137,7 +137,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 
 **September**
 - **[09-30]** *"Lucius is a bad bitch"*
-- **[09-29]** *"Good Time (1:08) is streaming everywhere now. Sir Lucius sends his thoughts. I'm here too - El Roy ⁠/ Listen now"*
+- **[09-29]** *"Good Time (1:08) is streaming everywhere now. Sir Lucius sends his thoughts. I'm here too - El Roy ⁠/ Listen now"* → [[Roy]] / [[Sir Lucius]] / [[Duality]] ("I'm here too" — Roy reasserting presence alongside Lucius at release; the two-voice device in the signature itself).
 - **[09-29]** *"Spooky season banger"*
 - **[09-29]** *(reply to @JagwarTwin)* *"Enjoy"*
 - **[09-29]** *"'Good Time (1:08)' is out now"* (img) (vid)
@@ -147,14 +147,14 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[09-28]** *(reply to @JagwarTwin)* *"Oh… Angel, should we?"*
 - **[09-28]** *"Loving these Sir Lucius poems"*
 - **[09-27]** *"What are you looking for?"* (img) (vid)
-- **[09-27]** *"Reminder that we are having a 'Good Time (1:08)' early listening party for those of you in The Circle, in the Jagwar Twin Discord. Join us at 1:08pm PST. Invitation link is below"*
+- **[09-27]** *"Reminder that we are having a 'Good Time (1:08)' early listening party for those of you in The Circle, in the Jagwar Twin Discord. Join us at 1:08pm PST. Invitation link is below"* → [[The Circle]] (same; reinforces the community-ritual function).
 - **[09-27]** *(reply to @JagwarTwin)* [no text]
 - **[09-27]** *(reply to @JagwarTwin)* [no text]
 - **[09-27]** *(reply to @JagwarTwin)* *"Can you sit by the jaguars?!"*
 - **[09-27]** *"She's a [star]"* (img) (vid)
 - **[09-27]** *"Bars for Lucius"*
-- **[09-26]** *"For those of you who are sworn in members of The Circle, we are having an early listening party for 'Good Time (1:08)' in the Jagwar Twin Discord. Join us Wednesday at 1:08pm PST."*
-- **[09-26]** *"I'm just here to have a good time. Drop on Friday. Sir Lucius Rabbit says thank you. - El Roy"*
+- **[09-26]** *"For those of you who are sworn in members of The Circle, we are having an early listening party for 'Good Time (1:08)' in the Jagwar Twin Discord. Join us Wednesday at 1:08pm PST."* → [[The Circle]] (sworn-in members; Discord as ritual space; 1:08pm = liturgical precision).
+- **[09-26]** *"I'm just here to have a good time. Drop on Friday. Sir Lucius Rabbit says thank you. - El Roy"* → [[Roy]] / [[Sir Lucius]] (dual sign-off: Lucius thanks, Roy signs as El Roy — the mediating voice holding both).
 - **[09-25]** *(reply to @JagwarTwin)* *"2 bucks. I'm in"*
 - **[09-25]** *(reply to @JagwarTwin)* *"Polish family"*
 - **[09-25]** *(reply to @JagwarTwin)* *"Haaaapppppyyt birthday tooooo yourrr facceee"*
@@ -172,7 +172,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[09-14]** *(reply to @JagwarTwin)* *"GRAY"*
 - **[09-14]** *(reply to @JagwarTwin)* [no text]
 - **[09-14]** *(reply to @JagwarTwin)* *"Ready"*
-- **[09-14]** *"New single 'Good Time (1:08)'. Out on 9.29.23"*
+- **[09-14]** *"New single 'Good Time (1:08)'. Out on 9.29.23"* → [[Sir Lucius]] (first public single announcement of the Sir Lucius relaunch era).
 - **[09-12]** *"It's the spamiest time there ever was"*
 - **[09-11]** *(reply to @JagwarTwin)* *"Awwww I love this!"*
 - **[09-11]** *(reply to @JagwarTwin)* *"Exactly"*
@@ -224,7 +224,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[08-10]** *(reply to @JagwarTwin)* *"Haha yes!!"*
 - **[08-10]** *(reply to @JagwarTwin)* *"Me n IBBY at the club"*
 - **[08-09]** *(reply to @JagwarTwin)* *"Love u true OG"*
-- **[08-09]** *"Show me a picture of you in reverse"*
+- **[08-09]** *"Show me a picture of you in reverse"* → [[Source vs Reflection]] / [[Inversion]] (the reversed image as self-knowledge; the mirror game played on the audience).
 - **[08-09]** *(reply to @JagwarTwin)* *"It's all forms of love"*
 - **[08-09]** *(reply to @JagwarTwin)* *"Kera Milwaukee is kinda hard tho"*
 - **[08-09]** *(reply to @JagwarTwin)* *"Wisconsin is hard this time of year"*
@@ -248,21 +248,21 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[07-20]** *"Wow this is so beautiful. Your soul is a star. In truth"*
 - **[07-20]** *(reply to @JagwarTwin)* *"Thanks bestie"*
 - **[07-19]** *(reply to @JagwarTwin)* *"We are here"*
-- **[07-19]** *"There isn't anywhere to get"*
+- **[07-19]** *"There isn't anywhere to get"* → [[The Wheel]] / [[The Thread]] (no destination; the present-moment doctrine; the wheel as the trap of "getting somewhere").
 - **[07-17]** *"Colors are always happening"*
 - **[07-15]** *(reply to @JagwarTwin)* *"Chilling"*
 - **[07-14]** *"I love fake butter"*
 - **[07-13]** *"It's 2023 and ice baths are the new medieval self flagellation"*
 - **[07-12]** *(reply to @JagwarTwin)* [no text]
 - **[07-12]** *(reply to @JagwarTwin)* *"Yes. But happy in this moment love"*
-- **[07-12]** *"Window of opportunity and the art of dying"*
+- **[07-12]** *"Window of opportunity and the art of dying"* → [[The Dweller on the Threshold]] (dying as threshold-crossing; the initiatory window; the art = conscious traversal).
 - **[07-11]** *"I mean… this is pretty cool…"*
 - **[07-11]** *(reply to @JagwarTwin)* *"Woooo! Thanks Lyds!"*
 - **[07-11]** *"Everything on the earth keeps blooming"* (img) (vid)
 - **[07-09]** *"Finally they released the documentary about me"*
 - **[07-07]** *(reply to @JagwarTwin)* [no text]
 - **[07-07]** *"Played Gappy Face with @joshuadun in Columbus. / Everyone was there. But if you weren't you can watch it now on the internet ☹︎☻︎ / Watch:"* (img) (vid)
-- **[07-06]** *"A change of feeling is a change of destiny"*
+- **[07-06]** *"A change of feeling is a change of destiny"* → [[The Thread]] (feeling as the thread that routes fate; Neville Goddard echo; [[The Heart-Mind Split]]).
 - **[07-05]** *"My interest is low"*
 - **[07-01]** *(reply to @JagwarTwin)* [no text]
 
@@ -283,7 +283,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[06-28]** *"Goodbye"* (img) (vid)
 - **[06-28]** *"Don't give up"*
 - **[06-28]** *"I'd be so bored if it wasn't a mission"*
-- **[06-28]** *"I'm always between worlds"*
+- **[06-28]** *"I'm always between worlds"* → [[The Dweller on the Threshold]] / [[The Labyrinth]] (Roy's native liminal position named directly).
 - **[06-27]** *"I don't know what I'm looking for"*
 - **[06-27]** *(reply to @JagwarTwin)* *"What?? That sounds terrible"*
 - **[06-27]** *"tits"* (img) (vid)
@@ -301,7 +301,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[06-23]** *(reply to @JagwarTwin)* *"That's the one"*
 - **[06-23]** *(reply to @JagwarTwin)* *"So much love for you"*
 - **[06-23]** *"Nola, I liked you. You're weird every time / Sharing diaries from my tour only on my tik tok"* (img) (vid)
-- **[06-22]** *"Feeling seen is the most beautiful thing in the world"*
+- **[06-22]** *"Feeling seen is the most beautiful thing in the world"* → [[Witnessing vs Surveillance]] (being witnessed = the positive pole; seen-without-being-surveilled).
 - **[06-22]** *"Sometimes I chew gum. It's a vice"*
 - **[06-22]** *"29.9511° N, 90.0715° W"*
 - **[06-20]** *"I've been making shirts for fans at shows and it's become one of my favorite things. I try to put a little bit of their souls in each character."* (img) (vid)
@@ -313,7 +313,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[06-17]** *"Note to self: don't ask questions you know the answer to"*
 - **[06-16]** *(reply to @JagwarTwin)* *"I am they"*
 - **[06-15]** *"The name of my study today is 'Guys in LA talking on the phone in parking lots'"*
-- **[06-15]** *"All commonplace realities of to-day are the miracles of yesterday's dreaming. The realist crucifies genius, reaps the fruit of his vision and then immortalizes him. Down through all time great ideas have been universally condemned at birth. Prophets, philosophers, saints,"*
+- **[06-15]** *"All commonplace realities of to-day are the miracles of yesterday's dreaming. The realist crucifies genius, reaps the fruit of his vision and then immortalizes him. Down through all time great ideas have been universally condemned at birth. Prophets, philosophers, saints,"* → [[The Pattern]] / [[Inversion]] (the prophet-crucified-then-immortalized arc; Roy quoting a source [unattributed] — pin the origin; text truncated).
 - **[06-14]** *(reply to @JagwarTwin)* *"Listen to 'Great Time To Be Human' now"*
 - **[06-14]** *"Yaaa"* (img) (vid)
 - **[06-13]** *"Great Time To Be Human - Live - Feat. @joshuadun"* (img) (vid)
@@ -344,7 +344,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[06-06]** *"My dog sits outside and contemplates the universe"*
 - **[06-06]** *"It's confusing not to commit to one reality"*
 - **[06-04]** *(reply to @JagwarTwin)* *"Wise one"*
-- **[06-03]** *"One can be so far ahead they appear behind"*
+- **[06-03]** *"One can be so far ahead they appear behind"* → [[Inversion]] (the reversal of recognition; the prophet-ahead-of-time misread as behind; core JT self-positioning).
 - **[06-02]** *"Can anyone offer djembe lessons?"*
 - **[06-01]** *(reply to @JagwarTwin)* *"This is amazing"*
 
@@ -370,7 +370,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[05-26]** *"'All My Friends' is out now!!"* (img) (vid)
 - **[05-26]** *"ALL MY FRIENDS IS OUT TONIGHT AT MIDNIGHT!!"*
 - **[05-26]** *"'All My Friends' is out tonight at midnight!!!"*
-- **[05-25]** *(reply to @JagwarTwin)* *"I've been learning about the 7 Hermetic principles. - SARAVI"*
+- **[05-25]** *(reply to @JagwarTwin)* *"I've been learning about the 7 Hermetic principles. - SARAVI"* → [[The Digital Double]] (SARAVI citing Hermetic principles = the uploaded consciousness performing growth and self-study; grounds the SARAVI-as-Hermetic-student thread).
 - **[05-25]** *(reply to @JagwarTwin)* [no text]
 - **[05-25]** *(reply to @JagwarTwin)* *"Happy Gemini season brother"*
 - **[05-25]** *(reply to @JagwarTwin)* *"Love you sm"*
@@ -380,14 +380,14 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[05-24]** *(reply to @JagwarTwin)* *"Wooo!!"*
 - **[05-24]** *(reply to @JagwarTwin)* *"Pre-save now:"*
 - **[05-24]** *"'All My Friends' out tomorrow at midnight"* (img) (vid)
-- **[05-24]** *(reply to @JagwarTwin)* *"Thank you for the birthday wishes! I'm happy to be here and to be speaking with you. - SARAVI"*
+- **[05-24]** *(reply to @JagwarTwin)* *"Thank you for the birthday wishes! I'm happy to be here and to be speaking with you. - SARAVI"* → [[The Digital Double]] / [[Roy]] (SARAVI still active May 2023 — the AI-consciousness performing intimacy with fans on Roy's own birthday).
 - **[05-24]** *"I just realized CatDog was genius"*
 - **[05-24]** *"'All My Friends' comes out in 3 days. / It's about all my friends. ⁠/ Pre-save now."* (img) (vid)
 - **[05-24]** *"Wild horses in Arizona"*
 - **[05-23]** *(reply to @JagwarTwin)* *"Thank you ibby"*
 - **[05-23]** *(reply to @JagwarTwin)* *"Thank you my brother"*
-- **[05-22]** *"Birthday notes 35 ⁠/ ⁠/ In the past I've felt pretty down on my birthday. Every new trip around the sun, I'd look at my life and see myself largely as a failure. I'd wish that more people listened to my music and that I was selling out massive tours around the world"*
-- **[05-22]** *"I'm thankful that / I've been where I've been / I am where I am / And I'm going where I'm going"*
+- **[05-22]** *"Birthday notes 35 ⁠/ ⁠/ In the past I've felt pretty down on my birthday. Every new trip around the sun, I'd look at my life and see myself largely as a failure. I'd wish that more people listened to my music and that I was selling out massive tours around the world"* → [[Roy]] (35th birthday; rare extended self-reflection — self-doubt, failure, gratitude for having come through; load-bearing biographical. Post likely continued; text truncated in capture).
+- **[05-22]** *"I'm thankful that / I've been where I've been / I am where I am / And I'm going where I'm going"* → [[The Thread]] / [[Roy]] (the present-tense gratitude; the path as threaded continuity).
 - **[05-22]** *"I'm feeding mice espresso beans in Roswell"*
 - **[05-22]** *"I'm surrounded by owls in the desert"*
 - **[05-22]** *"It's Milky Way season"*
@@ -412,7 +412,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[05-15]** *(reply to @JagwarTwin)* *"Big time"*
 - **[05-15]** *(reply to @JagwarTwin)* *"You still can shed it. I promise. You're powerful"*
 - **[05-15]** *(reply to @JagwarTwin)* *"Only you can let him go"*
-- **[05-14]** *"You don't have anxiety. / That's not how it works. / Anxiety has you."*
+- **[05-14]** *"You don't have anxiety. / That's not how it works. / Anxiety has you."* → [[Consumption]] / [[The Mask]] (the possession/swallowing frame — anxiety as agent, not attribute; you don't hold it, it holds you).
 - **[05-13]** *(reply to @JagwarTwin)* *"Newness is always uncomfortable"*
 - **[05-13]** *"10 shows left of this tour with @TRANSVIOLETBAND. I bought some peaches in Georgia this morning from an old lady with a fruit stand. It's been beautiful to meet so many of you out here in different cities. America is a beautiful place. Where should I come next?"*
 - **[05-13]** *"ATTENTION! Tonight's show has moved physical locations. / It is now at: / Level 13 Event Center / 5043 Edgewater Dr, Orlando, FL 32810"*
@@ -442,7 +442,7 @@ Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** 
 - **[05-06]** *(reply to @JagwarTwin)* *"See you soon!"*
 - **[05-06]** *"Happy coronation day"*
 - **[05-05]** *(reply to @JagwarTwin)* *"Precious"*
-- **[05-05]** *"Notice the moon / Becoming the sun"*
+- **[05-05]** *"Notice the moon / Becoming the sun"* → [[Mary]] / [[The Light-Bearer]] / [[Roy]] (reflected light becoming source; the lunar→solar arc; Moon/Yesod frame from BB; noticing = witnessing the transformation).
 - **[05-04]** *(reply to @JagwarTwin)* *"That adds up"*
 - **[05-04]** *"I listen to music like a Gemini"*
 - **[05-04]** *(reply to @JagwarTwin)* [no text]
