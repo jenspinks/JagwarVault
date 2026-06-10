@@ -133,8 +133,49 @@ ingest_source: "LLM deep-research artifacts (claude.ai public artifacts), suppli
 
 </details>
 
-## Maintenance
-- 2026-06-02: created from 3 Jen-supplied claude.ai public artifacts. Part 1 (exploitation vocabulary), Part 2 (Art Nouveau persona), Part 3 (unheard-artist + bargain). `citable: false`. Key items: SiaS "Thieves" `[W]` (Part 1); **Art Nouveau ↔ Lucius alter-ego-as-armor `[W]`, structural-only scope guard** (Part 2); **devil's-bargain CONFLICT** affecting the SiaS essay + our Woodstock capture (Part 3 — verify vs jonimitchell.com). Down to You / Shine title-coincidences logged `[~]`.
+# Part 4 — Primary sources pinned (folded 2026-06-10)
+
+A later session did the source-pull the verification queues above were waiting on. These **promote the queue items from "LLM-summary leads" to URL-pinned primaries.** Discipline unchanged: **cite the underlying song / interview / article, never this dossier**, and the JT mappings stay `[W]`/`[~]`.
+
+> [!warning] What did NOT survive the fold (contamination guards)
+> - **The "wordless *Woodstock* interpolation in Joni's actual voice, treat as `[G]`" claim is REJECTED for canon.** The vault holds the interpolation's *nature* at `[?]` ([[Essays/Concepts/Songs/Soul Is A Star]] §VIII; the co-write is the only `[G]` floor). A later session asserting "treat as `[G]`" does not move it; pin Hall-of-Mirrors / CTHDRL before any actual-voice claim. **Unchanged: `[?]`.**
+> - The session also re-asserted **"devil's bargain = Stills, not Joni"** — that is the **same wrong claim already resolved against** in Part 3 (it IS Joni's line). Do not re-import.
+> - **Accuracy fix it got right:** in **"For Free,"** Joni is **on foot at the corner** (*"I meant to go over… but the signal changed"*), **not** in a limo — the limo image is **"Furry Sings the Blues"** (Hejira). Earlier cross-flags that paired "For Free" with a limousine conflated the two songs; keep them distinct.
+
+## Pinned primaries — Joni exploitation / bargain catalogue (Parts 1 & 3)
+Cite these jonimitchell.com pages (lyrics cross-checked there) when grounding the SiaS "Thieves" `[W]` and the For Free / Boho Dance reads:
+- **Woodstock** — composition is wholly Joni's; "billion year old carbon" + "caught in the devil's bargain" are consecutive chorus lines (resolves Part 3).
+- **For the Roses** — https://jonimitchell.com/music/song.cfm?id=116 · "my first farewell to show business" (LA Times 1996; Mojo 2019); Carnegie 1972 intro = the garlanded-then-shot racehorse.
+- **For Free** — https://jonimitchell.com/music/song.cfm?id=114 · on foot at the corner; "Blind Richie" inspiration is secondary `[W]`.
+- **The Boho Dance** — https://jonimitchell.com/music/song.cfm?id=38 · "the streets were never really mine"; "the cleaner's press was in my jeans" (the jeans/genes inheritance-structure echo to SiaS "bullet in her genes" — `[W]` resonance, not intent).
+- **Free Man in Paris** — https://jonimitchell.com/music/song.cfm?id=117 · "star maker machinery"; written in/about David Geffen (Blender, Sept 2004; Geffen "begged me to take it off the record").
+- **Taming the Tiger** — https://jonimitchell.com/music/song.cfm?id=32 · "runaway from the record biz"; "every disc a poker chip."
+- **Dog Eat Dog** — https://jonimitchell.com/music/song.cfm?id=225 · "Thieves and sycophants parade" (the word *thieves* on the page).
+- **Furry Sings the Blues** — Furry Lewis's rage that she used his name (Rolling Stone, Feb 24 1977) — the "For Free" figure made literal.
+
+## NEW primary material — the *Woodstock* 2000 interview (not previously in the dossier)
+Source: **https://jonimitchell.com/library/view.cfm?id=1389** (March 2000). Joni's own framing of *Woodstock* — strengthens the SiaS §III Woodstock floor and matches the essay's **corrected anamnesis arc** (reaches toward recollection, then *withholds* resolution):
+- She was **not** there — wrote it "from the point of view of a kid going," being "the deprived kid who couldn't go." `[G]`
+- The song = humanity "rushing towards the end," making the planet uninhabitable "with our short-sightedness and our greed." `[G]`
+- **"Back to the garden" is the single, impossible way out** — "at that time I felt there was only one way out"; she admits the doubt: "it's an impossible dream… we won't." → the dream names the *way home*, **not the arrival** (corrects any "the dream already healed it" reading). `[G]`
+- She frames dreams **through Jung by name**: "the subconscious, as Jung would say, does not know the concept past, present, future… it flows freely through time." `[G]` — a real Joni→Jung anchor (resonates with Roy's own Jung thread, but keep separate).
+- The thieves' root = "shekel-oriented" greed. `[G]`
+
+## Art Nouveau — esoteric-revival keystones now pinned (Part 2 §"psychedelic revival")
+The dossier flagged this path as needing the V&A + Erik Davis keystones before grounding. Pinned (cite these, never an LLM artifact); scope stays **`[W]` ambient context — NOT Joni's stated intent**:
+- **Erik Davis, "Counterculture and the Occult"** — https://techgnosis.com/the-counterculture-and-the-occult/ (Rice PhD) — the counterculture's occult milieu.
+- **Marja Lahelma** (peer-reviewed, *Approaching Religion*, 2018) — DOI 10.30664/ar.66685 — Symbolism ↔ popular esotericism ("as above, so below").
+- **Sébastien Clerbois** (peer-reviewed, *19thc-artworldwide*, 2002) — https://www.19thc-artworldwide.org/autumn02/ — Theosophy ↔ Belgian Symbolists.
+- **Mucha Foundation** (*Le Pater*, Masonic/Kabbalistic imagery) — https://www.muchafoundation.org/en/gallery/themes/theme/le-pater.
+- **Guggenheim, *Mystical Symbolism*** (2017) — Salon de la Rose+Croix / Péladan.
+- **Persona keystones** (already in Part 2 queue, now URL-bearing): Time 1974 "muse named Art"; Grier "The Only Black Man at the Party" — https://www.colorado.edu/gendersarchive1998-2013/2012/11/01/only-black-man-party-joni-mitchell-enters-rock-canon.
+- **Hard scope guard unchanged:** map the *function* (alter-ego-as-armor / anti-vulnerability / duality → [[Sir Lucius]] / [[The Mask]] / `CONCEPT-TheProtector`), **never the racial-impersonation costume.**
+
+## Roy influence-list cross-check (no new grounding — already filed)
+The session's influence list adds nothing the vault lacks: **Beck NOT named** and **Frankie Sparo = false / band lineage (Dead Letter Diaries → Eye Alaska → Canary Dynasty → solo)** are already on [[Brain/Roy Voice/Roy on Influences]] + [[Sources/Reference/Roy's Stated Influences (research dossier)]] (`[?]` pending per-source citations the session did not supply). Logged, not promoted.
+
+---
 
 ## Maintenance
-- 2026-06-02: created from Jen-supplied claude.ai public artifact (Part 1, exploitation vocabulary). `citable: false`. JT cross-flags recorded (esp. SiaS "Thieves" `[W]`, For Free inversion, The Arrangement). Awaiting Parts 2–3.
+- **2026-06-02:** created from 3 Jen-supplied claude.ai artifacts — Part 1 (exploitation vocabulary), Part 2 (Art Nouveau persona; **Art Nouveau ↔ Lucius alter-ego-as-armor `[W]`, structural-only scope guard**), Part 3 (unheard-artist + bargain; **devil's-bargain conflict RESOLVED** — it is Joni's line). `citable: false`. SiaS "Thieves" `[W]`, For Free inversion, Down to You / Shine title-coincidences `[~]`.
+- **2026-06-10:** folded **Part 4** from a later session dump (Joni × SiaS) — pinned the verification-queue primaries (jonimitchell.com URLs), added the **new *Woodstock* 2000 interview** (impossible-dream / Jung-named / shekel-greed), pinned the **Art Nouveau esoteric-revival keystones** (Davis, Lahelma, Clerbois, Mucha, Guggenheim, Grier). **Rejected for canon:** the "wordless actual-voice interpolation as `[G]`" claim (stays `[?]`) and the re-asserted "devil's bargain = Stills" error. Corrected For Free (on foot, not limo). Consolidated the duplicate Maintenance blocks.
