@@ -1,0 +1,459 @@
+---
+type: quote
+citable: true
+status: draft
+verified_against: ["Public x.com/JagwarTwin search `from:JagwarTwin since:2023-05-01 until:2023-12-31`, logged-in DOM text-capture via Chrome MCP (Jen + Claude, 2026-06-09)"]
+ingested: 2026-06-09
+ingest_source: "Public X/Twitter @JagwarTwin, May 2 – Dec 30 2023. Verbatim DOM text-capture (exact ISO timestamps + status permalinks captured at harvest in browser localStorage). Query-string links stripped (some URLs left as partial fragments — re-pin before citing a link). 429 posts total including empty/media-only entries. NOT interpretively routed yet — `→ [[ ]]` arrows pending Jen's external-AI pass."
+---
+# Roy X Posts — May–Dec 2023 (@JagwarTwin) (Source · DRAFT)
+
+Verbatim ingest of public posts from **@JagwarTwin**, **May 2 – Dec 30 2023** (true floor: no May 1 posts exist). **No interpretation here.** This is the **2023 "transition" era** — US tour with Transviolet wrapping (May); **"All My Friends"** release May 26; **Roy's 35th birthday** May 22 (load-bearing reflection post); Mirror Sessions continuing; **SARAVI still active** (signed posts May 24–25); **"Good Time (1:08)"** Sep 29; London meetup Oct; **Israel/Palestine thread** Oct 19; **"life is good" with @angelbaby** Nov 3; **Happy Face 100M streams** Nov 27; Mirror Sessions w/ @parisberelc Nov 20; **"Bad Feeling (Oompa Loompa)"** Dec 15 (→ 1M Spotify + TikTok viral Dec 25). Bridges from the Jan–Apr 2023 file up to the ~Jun 2025 floor of the existing Quotes archive.
+
+> ⚠ DRAFT — awaiting Jen's review + curation pass before folding/promoting. Includes all posts; empty/media-only entries retained for Jen's call. "El Roy" signatures at [09-26] and [09-29]. SARAVI signatures at [05-24] and [05-25].
+
+## Posts (verbatim, newest → oldest) [G]
+
+**December**
+- **[12-30]** *(reply to @JagwarTwin)* *"music is good again"*
+- **[12-30]** *(reply to @JagwarTwin)* *"Yes!"*
+- **[12-30]** *(reply to @JagwarTwin)* *"Ok why does the new jung kook go so hard"*
+- **[12-29]** *(reply to @JagwarTwin)* *"Thank you / @Spotify"* (img)
+- **[12-28]** *(reply to @JagwarTwin)* *"Put that in my bio"*
+- **[12-28]** *(reply to @JagwarTwin)* *"I wana know where osho got his hats"*
+- **[12-27]** *(reply to @JagwarTwin)* *"I guess 'Bad Feeling (Oompa Loompa)' is big on the internet"* (img)
+- **[12-27]** *(reply to @JagwarTwin)* *"RT"* (img)
+- **[12-27]** *(reply to @JagwarTwin)* *"I want the Willy wonka converse"*
+- **[12-26]** *(reply to @JagwarTwin)* *"I AM Christmas"*
+- **[12-25]** *(reply to @JagwarTwin)* *"Merry Christmas Jagwars. You have given me such a [joy] this year after a hard year of life. Bad Feeling dropped 9 days ago & it's already past 1 Million Streams on Spotify & going crazy on TikTok. The best part is, it's all from YOU. / Roy"* (img)
+- **[12-23]** *(reply to @JagwarTwin)* *"Idk how to shop for you"*
+- **[12-23]** *(reply to @JagwarTwin)* *"RT"* (img)
+- **[12-23]** *(reply to @JagwarTwin)* *"You ever asked Santa for candles?"*
+- **[12-23]** *(reply to @JagwarTwin)* *"Merry Chris+Mas"* (img)
+- **[12-23]** *(reply to @JagwarTwin)* *"Candles are what you get if someone doesn't know how to shop for you"*
+- **[12-22]** *(reply to @JagwarTwin)* *"It's amazing what's happening"*
+- **[12-20]** *(reply to @JagwarTwin)* [no text]
+- **[12-20]** *(reply to @JagwarTwin)* *"Both versions are pretty"* (img) (vid)
+- **[12-20]** *(reply to @JagwarTwin)* *"Wait for the Jagwar Twin musical on broadway"*
+- **[12-20]** *"Pooping is awesome"*
+- **[12-20]** *"Yes we do"*
+- **[12-20]** *(reply to @JagwarTwin)* *"Love you gloop"*
+- **[12-19]** *(reply to @JagwarTwin)* *"Wow mom"*
+- **[12-19]** *"Everyone go tell Tina how much we love her. You are special"*
+- **[12-19]** *"I am spotted"*
+- **[12-19]** *"The vibe I'm on rn"* (img)
+- **[12-17]** *(reply to @JagwarTwin)* *"Hey oblio"*
+- **[12-17]** *"What's the religion on mars?"*
+- **[12-16]** *(reply to @JagwarTwin)* *"Never ever ever"*
+- **[12-16]** *"Just saw Wonka. iCried."*
+- **[12-15]** *"This one's for @RealChalamet"* (img) (vid)
+- **[12-15]** *"Ok, I dropped it. 'Bad Feeling (Oompa Loompa)' is out now."* (img)
+- **[12-13]** *(reply to @JagwarTwin)* *"Let's go!"*
+- **[12-08]** *(reply to @JagwarTwin)* [no text]
+- **[12-08]** *"Illegally leaking unreleased demos on my Tik Tok"*
+- **[12-07]** *"Let's come together as a beautiful human race to protect our oceans. I'm petitioning world leaders to create more ocean sanctuaries. You can too. Go to genzeroaction.com to see what actions you can take and earn prizes."* (img) (vid)
+- **[12-07]** *"Life is good"* (img)
+- **[12-06]** *(reply to @JagwarTwin)* *"Love you!"*
+- **[12-05]** *"Make sure your mask is secure before helping others"*
+- **[12-04]** *(reply to @JagwarTwin)* *"Dang…"*
+- **[12-04]** *(reply to @JagwarTwin)* *"I'm living on a prayer"*
+- **[12-04]** *(reply to @JagwarTwin)* *"Every day is Christmas"*
+- **[12-04]** *"I am Bon Jovi"*
+
+**November**
+- **[11-28]** *(reply to @JagwarTwin)* *"This gave me the biggest smile. I love you guys so much"*
+- **[11-27]** *"Holy shit! You guys sent Happy Face to Jupiters moon!"* (img)
+- **[11-27]** *"In celebration of 'Happy Face' reaching 100 million streams, we're offering a 20% discount on all Happy Face merchandise for the entire week! Plus, visit deathofmygeneration.fun, complete the Happy Face experience, share it, and tag Jagwar Twin to be entered into a drawing"*
+- **[11-27]** *"The iPhone 15 is so lame. Flip phone is the new god tech"*
+- **[11-27]** *"This is beyond… god gives us the lessons we need. I needed to learn this difficult lesson of trusting myself, and being willing to fight for something to be in the world because it IS good enough. I've always struggled with self doubt, and not feeling understood, and the world"* (img) (vid)
+- **[11-26]** *"Does anybody know yanni?"*
+- **[11-26]** *"This song will forever be a lesson"*
+- **[11-26]** *(reply to @JagwarTwin)* *"Can't fathom that number"*
+- **[11-26]** *(reply to @JagwarTwin)* *"Ahhh!!"*
+- **[11-26]** *(reply to @JagwarTwin)* *"This is wild… thank you so much for everything"*
+- **[11-26]** *"Being an artist is becoming a warrior / Being a warrior is becoming an artist"*
+- **[11-25]** *"If I ever get engaged and there's a person with a camera hiding out in [the bushes] guna be pissed"*
+- **[11-23]** *"Thankful for all the beans"* (img) (vid)
+- **[11-22]** *"Plants don't know they're plants"*
+- **[11-20]** *"New episode of 'The Mirror Sessions' with @parisberelc just dropped ⁠/ ⁠/ Join Paris and I for a sunrise ascent up the Mountain as we talk about traveling, eating frogs, time-travel glitches in the matrix and spiritual awakenings while sitting under the Tree. / ⁠/ Watch:"* (img) (vid)
+- **[11-19]** [media only] (img) (vid)
+- **[11-14]** *"'Great Time To Be Human' Live Acoustic Video is out now"* (img) (vid)
+- **[11-14]** *"This and you are beautiful Bre"*
+- **[11-13]** *"'Great Time To Be Human' / Acoustic video - tomorrow"* (img) (vid)
+- **[11-12]** *"I love doing things, but my favorite thing is not doing things"*
+- **[11-11]** *(reply to @JagwarTwin)* *"YES! True OG LIST"*
+- **[11-04]** *"running around like chickens"* (img) (vid)
+- **[11-03]** *"'life is good' with @angelbaby is out now everywhere"*
+- **[11-02]** *"life is good with @angelbaby DROPS IN 1 HOUR on @soundxyz_ / 10 limited editions at .01 eth / pre-sale begins at 10am pt for ALL Jagwar Twin + @angelbaby music holders + ALL @wearehume genesis holders"*
+- **[11-02]** [no text]
+
+**October**
+- **[10-31]** *"Sir Lucius says stay spooky"*
+- **[10-30]** *"New song 'life is good' with @angelbaby is dropping on @soundxyz_ Thursday at 1pm. Nerds and weirdos unite"*
+- **[10-29]** *(reply to @JagwarTwin)* *"That's it"*
+- **[10-29]** *(reply to @JagwarTwin)* *"RT. Woah"*
+- **[10-29]** *"I'm only listening to Russian music and dj khalid today"*
+- **[10-28]** *(reply to @JagwarTwin)* *"Stare at eachother in silence"*
+- **[10-27]** *"Real friends don't talk"*
+- **[10-27]** *"Banging dance remixes. Go listen"*
+- **[10-25]** *"life is good with @angelbaby / friday, nov 3"* (img) (vid)
+- **[10-23]** *"London's been good. Many aliens here."*
+- **[10-21]** *(reply to @JagwarTwin)* [no text]
+- **[10-20]** *"'life is good' w @angelbaby dropping EVERYWHERE friday nov 3 / Pre-save now"*
+- **[10-19]** *(reply to @JagwarTwin)* *"'The one eye of the godhead is blind / The one ear of the godhead is deaf / The order of its being is crossed by chaos' ⁃Carl Jung"*
+- **[10-19]** *(reply to @JagwarTwin)* *"We must first be aware of a thing to change it. I don't have any answers, but I do know the way is within us. Within us is the way, the truth, and the life."*
+- **[10-19]** *(reply to @JagwarTwin)* *"I am blind. The darkness we have seen over the last years is a clear indication that Light is at work. As more Light (consciousness, awareness) comes in we see things that were always there, hidden, but are now being illuminated."*
+- **[10-19]** *(reply to @JagwarTwin)* *"Where is Israel in me? Where is Palestine in me? Are we not one? Did we not fall from the same tree? Have I rejected myself? Is the world I see not a reflection of my own inner world?"*
+- **[10-19]** *"I am I am (a [heart]) / My words have always been imperfect. I prefer to speak in images, or music, or to not speak at all. Especially about politics and foreign affairs, things I have little understanding of. However, with the current world situation in Israel and Palestine I"*
+- **[10-18]** *"Good Time (1:08) (Live Acoustic Video) / Out now"* (img) (vid)
+- **[10-17]** [media only] (img) (vid)
+- **[10-17]** [no text]
+- **[10-17]** [no text]
+- **[10-17]** *"The melting together of sense and nonsense produces the supreme meaning"*
+- **[10-16]** *"735 hot girl minutes"*
+- **[10-16]** *"For meetup in London tomorrow let's meet in Hyde park at the Italian gardens at noon"*
+- **[10-15]** *"London, Hyde Park / Tuesday, Oct. 17th at Noon"*
+- **[10-12]** *(reply to @JagwarTwin)* *"Oh man that's a glitch on the site. If you order yours I'll make sure you get whatever size you want"*
+- **[10-12]** *(reply to @JagwarTwin)* *"Love this"*
+- **[10-12]** *(reply to @JagwarTwin)* *"What you mean! They're custom. You want a tiny elf size or a shirt for a building? I got you"*
+- **[10-12]** *(reply to @JagwarTwin)* *"This might be my favorite. I am Christmas w no S"*
+- **[10-12]** *(reply to @JagwarTwin)* *"Love the cloud rider you are"*
+- **[10-12]** *"This was supposed to be a promotional post for the Good Time (1:08) music video… but I don't know what to say about that right now. And I don't usually speak about world affairs, but I will say, Love is still here. We will not let Fear overtake our hearts and spread like a"*
+- **[10-12]** *"First round of 'Soul Portrait' T-shirt's have been sent out and it's been so cute to see your reactions. I'm doing a few more so get yours now before they're all gone!"*
+- **[10-12]** *"Theoretically antisocial."*
+- **[10-12]** *"Groovy Kat!"*
+- **[10-12]** *"She's divine"*
+- **[10-12]** *(reply to @JagwarTwin)* *"Exactly"*
+- **[10-12]** *"I like to look at things upside down she says"*
+- **[10-11]** *"Music video for 'Good Time (1:08)' is out now"* (img) (vid)
+- **[10-11]** *"One hour until the premiere / See you there"* (img) (vid)
+- **[10-10]** *"Particularly love this one"*
+- **[10-10]** *"Music video tomorrow / 8 AM (PT)"* (img) (vid)
+- **[10-10]** *(reply to @JagwarTwin)* *"Watching history with 4 people is amazing"*
+- **[10-04]** *"I'll be here"*
+- **[10-04]** *(reply to @JagwarTwin)* *"AI made me do it"*
+- **[10-03]** *"'Good Time (1:08)' out now. / Who's heard it? MV next week?"* (img) (vid)
+- **[10-02]** *"The last few days have been fun. Spooky szn is here and I got the bops for you. It's been beautiful to see the reaction to Good Time (1:08) and all the Sir Lucius Halloween makeup videos and the poems you've been writing about his backstory. You are the coolest fans in the entire"*
+
+**September**
+- **[09-30]** *"Lucius is a bad bitch"*
+- **[09-29]** *"Good Time (1:08) is streaming everywhere now. Sir Lucius sends his thoughts. I'm here too - El Roy ⁠/ Listen now"*
+- **[09-29]** *"Spooky season banger"*
+- **[09-29]** *(reply to @JagwarTwin)* *"Enjoy"*
+- **[09-29]** *"'Good Time (1:08)' is out now"* (img) (vid)
+- **[09-29]** *"Spooky season"*
+- **[09-29]** *(reply to @JagwarTwin)* *"Whatever the song is, it needs some kind of flute or trumpet"*
+- **[09-28]** *"'Good Time (1:08)' / Tonight at midnight"* (img) (vid)
+- **[09-28]** *(reply to @JagwarTwin)* *"Oh… Angel, should we?"*
+- **[09-28]** *"Loving these Sir Lucius poems"*
+- **[09-27]** *"What are you looking for?"* (img) (vid)
+- **[09-27]** *"Reminder that we are having a 'Good Time (1:08)' early listening party for those of you in The Circle, in the Jagwar Twin Discord. Join us at 1:08pm PST. Invitation link is below"*
+- **[09-27]** *(reply to @JagwarTwin)* [no text]
+- **[09-27]** *(reply to @JagwarTwin)* [no text]
+- **[09-27]** *(reply to @JagwarTwin)* *"Can you sit by the jaguars?!"*
+- **[09-27]** *"She's a [star]"* (img) (vid)
+- **[09-27]** *"Bars for Lucius"*
+- **[09-26]** *"For those of you who are sworn in members of The Circle, we are having an early listening party for 'Good Time (1:08)' in the Jagwar Twin Discord. Join us Wednesday at 1:08pm PST."*
+- **[09-26]** *"I'm just here to have a good time. Drop on Friday. Sir Lucius Rabbit says thank you. - El Roy"*
+- **[09-25]** *(reply to @JagwarTwin)* *"2 bucks. I'm in"*
+- **[09-25]** *(reply to @JagwarTwin)* *"Polish family"*
+- **[09-25]** *(reply to @JagwarTwin)* *"Haaaapppppyyt birthday tooooo yourrr facceee"*
+- **[09-25]** *(reply to @JagwarTwin)* *"This was always the vision"*
+- **[09-25]** *(reply to @JagwarTwin)* *"Might have to give the circle a little preview"*
+- **[09-25]** *"Are you ready?"* (img) (vid)
+- **[09-23]** *(reply to @JagwarTwin)* [no text]
+- **[09-20]** *(reply to @JagwarTwin)* *"Aw"*
+- **[09-20]** *"Making T shirts for you"* (img) (vid)
+- **[09-20]** *(reply to @JagwarTwin)* *"I'm number 1 because I'm 6"*
+- **[09-19]** *(reply to @JagwarTwin)* [no text]
+- **[09-18]** *"Good Time (1:08) / Pre-save now"*
+- **[09-15]** *(reply to @JagwarTwin)* *"Idk. Maybe the rabbits chase us"*
+- **[09-14]** *(reply to @JagwarTwin)* *"HHHH"*
+- **[09-14]** *(reply to @JagwarTwin)* *"GRAY"*
+- **[09-14]** *(reply to @JagwarTwin)* [no text]
+- **[09-14]** *(reply to @JagwarTwin)* *"Ready"*
+- **[09-14]** *"New single 'Good Time (1:08)'. Out on 9.29.23"*
+- **[09-12]** *"It's the spamiest time there ever was"*
+- **[09-11]** *(reply to @JagwarTwin)* *"Awwww I love this!"*
+- **[09-11]** *(reply to @JagwarTwin)* *"Exactly"*
+- **[09-11]** *(reply to @JagwarTwin)* *"Probably a good thing"*
+- **[09-11]** *(reply to @JagwarTwin)* *"Ivvvvvy"*
+- **[09-11]** *"Are you ready?"* (img) (vid)
+- **[09-10]** *"I like to look at things upside down"*
+- **[09-10]** *(reply to @JagwarTwin)* *"I'll give you your own mic"*
+- **[09-10]** *"My voice is so cool"*
+- **[09-05]** *"Why does it always happen at the intersection?"*
+
+**August**
+- **[08-31]** *"I really dislike soggy crackers"*
+- **[08-31]** *(reply to @JagwarTwin)* *"Thanks Lyds!"*
+- **[08-31]** *(reply to @JagwarTwin)* *"Being able to just be is such a superpower and a gift to everyone you encounter"*
+- **[08-31]** *"New episode out now / The Mirror Sessions w/ @almondmilkhunni"* (img) (vid)
+- **[08-31]** *"The Mirror Sessions continue tomorrow with @almondmilkhunni / 8 AM (PST) on YouTube"* (img) (vid)
+- **[08-30]** *(reply to @JagwarTwin)* *"You're going to make me cry"*
+- **[08-29]** *(reply to @JagwarTwin)* *"Life literary explained"*
+- **[08-29]** *(reply to @JagwarTwin)* *"Hahaha what?!"*
+- **[08-29]** *"Life is just putting things in things"*
+- **[08-24]** *"One of the greatest pleasures in life"*
+- **[08-24]** *(reply to @JagwarTwin)* *"According to bjork"*
+- **[08-24]** *"So good"*
+- **[08-23]** *"I am venus as a boy"*
+- **[08-23]** *(reply to @JagwarTwin)* [no text]
+- **[08-23]** *"I love cutting onions. Always a emo boy at heart"*
+- **[08-23]** *(reply to @JagwarTwin)* *"wanker"*
+- **[08-22]** *"In a thousand years there will be no men and women, just wankers"*
+- **[08-20]** *"I'm ready for hurricane olivia rodrigo"*
+- **[08-20]** *"Now I'm a planet"*
+- **[08-20]** *"I control the weather"*
+- **[08-20]** *"knee pad of destiny"*
+- **[08-19]** *"I know so many things I don't know"*
+- **[08-19]** *(reply to @JagwarTwin)* *"Awww"*
+- **[08-16]** *"You're all the love that there is"*
+- **[08-14]** *"Fuck Timon and Pumbaa (w love tho) They distracted me for way too long"*
+- **[08-14]** *"I gotta look hot for tik tok"*
+- **[08-14]** *"I am Jack Sparrow"*
+- **[08-14]** *"I'm home whenever I am"*
+- **[08-13]** *"Raises hand"*
+- **[08-13]** *(reply to @JagwarTwin)* *"Me as avatar Neo shaman"*
+- **[08-13]** *"Slay ✩"*
+- **[08-13]** *"Lately"*
+- **[08-13]** *"Cutttteeeee"* (img) (vid)
+- **[08-12]** *"People who say 'like I said'"*
+- **[08-12]** *(reply to @JagwarTwin)* *"Yo! This is awesome!"*
+- **[08-10]** *(reply to @JagwarTwin)* *"RT x 1000 x"*
+- **[08-10]** *(reply to @JagwarTwin)* *"Haha yes!!"*
+- **[08-10]** *(reply to @JagwarTwin)* *"Me n IBBY at the club"*
+- **[08-09]** *(reply to @JagwarTwin)* *"Love u true OG"*
+- **[08-09]** *"Show me a picture of you in reverse"*
+- **[08-09]** *(reply to @JagwarTwin)* *"It's all forms of love"*
+- **[08-09]** *(reply to @JagwarTwin)* *"Kera Milwaukee is kinda hard tho"*
+- **[08-09]** *(reply to @JagwarTwin)* *"Wisconsin is hard this time of year"*
+- **[08-08]** *(reply to @JagwarTwin)* *"'Unoriganal'"*
+- **[08-08]** *"Idk about Wisconsin but I'm taking this as a compliment"*
+
+**July**
+- **[07-31]** *(reply to @JagwarTwin)* *"Exactly"*
+- **[07-31]** *"Luke V being cute"* (img) (vid)
+- **[07-28]** *(reply to @JagwarTwin)* [no text]
+- **[07-28]** *"Maybe cheese is the answer"*
+- **[07-27]** *(reply to @JagwarTwin)* *"It's beautiful"*
+- **[07-26]** *(reply to @JagwarTwin)* *"Almost"*
+- **[07-26]** *(reply to @JagwarTwin)* *"I dinky"*
+- **[07-26]** *"Baddie"* (img) (vid)
+- **[07-25]** *"Love is all around me"*
+- **[07-23]** *(reply to @JagwarTwin)* *"I'll dance with u"*
+- **[07-20]** *"I watched the holy mountain 3.5 times today"*
+- **[07-20]** *"You are a ray of sunshine"*
+- **[07-20]** *"[heart] this"*
+- **[07-20]** *"Wow this is so beautiful. Your soul is a star. In truth"*
+- **[07-20]** *(reply to @JagwarTwin)* *"Thanks bestie"*
+- **[07-19]** *(reply to @JagwarTwin)* *"We are here"*
+- **[07-19]** *"There isn't anywhere to get"*
+- **[07-17]** *"Colors are always happening"*
+- **[07-15]** *(reply to @JagwarTwin)* *"Chilling"*
+- **[07-14]** *"I love fake butter"*
+- **[07-13]** *"It's 2023 and ice baths are the new medieval self flagellation"*
+- **[07-12]** *(reply to @JagwarTwin)* [no text]
+- **[07-12]** *(reply to @JagwarTwin)* *"Yes. But happy in this moment love"*
+- **[07-12]** *"Window of opportunity and the art of dying"*
+- **[07-11]** *"I mean… this is pretty cool…"*
+- **[07-11]** *(reply to @JagwarTwin)* *"Woooo! Thanks Lyds!"*
+- **[07-11]** *"Everything on the earth keeps blooming"* (img) (vid)
+- **[07-09]** *"Finally they released the documentary about me"*
+- **[07-07]** *(reply to @JagwarTwin)* [no text]
+- **[07-07]** *"Played Gappy Face with @joshuadun in Columbus. / Everyone was there. But if you weren't you can watch it now on the internet ☹︎☻︎ / Watch:"* (img) (vid)
+- **[07-06]** *"A change of feeling is a change of destiny"*
+- **[07-05]** *"My interest is low"*
+- **[07-01]** *(reply to @JagwarTwin)* [no text]
+
+**June**
+- **[06-30]** *"Toast toasted in a pan is superior"*
+- **[06-30]** *"reflections reflections reflections"*
+- **[06-30]** *(reply to @JagwarTwin)* *"I'm so grateful to know you"*
+- **[06-30]** *(reply to @JagwarTwin)* [no text]
+- **[06-30]** *(reply to @JagwarTwin)* *"I would love to do this, but in person. You are open"*
+- **[06-29]** *(reply to @JagwarTwin)* *"Michy you're one of the coolest beings I've ever met. That's such an insightful way to explain the creative intuitive prophetic process."*
+- **[06-29]** *"I can't decide if I don't ever want to sleep or if I want to sleep forever"*
+- **[06-29]** *"Be kind to yourself"*
+- **[06-29]** *(reply to @JagwarTwin)* *"I got a plug"*
+- **[06-29]** *(reply to @JagwarTwin)* [no text]
+- **[06-29]** *(reply to @JagwarTwin)* *"Goodbye/hello"*
+- **[06-29]** *"We become what we think about"*
+- **[06-28]** *(reply to @JagwarTwin)* *"Did you write this??"*
+- **[06-28]** *"Goodbye"* (img) (vid)
+- **[06-28]** *"Don't give up"*
+- **[06-28]** *"I'd be so bored if it wasn't a mission"*
+- **[06-28]** *"I'm always between worlds"*
+- **[06-27]** *"I don't know what I'm looking for"*
+- **[06-27]** *(reply to @JagwarTwin)* *"What?? That sounds terrible"*
+- **[06-27]** *"tits"* (img) (vid)
+- **[06-27]** *(reply to @JagwarTwin)* *"Just and like gotta go for me"*
+- **[06-27]** *(reply to @JagwarTwin)* *"It's never just just! That's what I'm saying"*
+- **[06-26]** *"Today I don't like the word just"*
+- **[06-26]** *(reply to @JagwarTwin)* [no text]
+- **[06-26]** *(reply to @JagwarTwin)* *"Keeps it interesting"*
+- **[06-26]** *(reply to @JagwarTwin)* *"Starting with B"*
+- **[06-25]** *(reply to @JagwarTwin)* [no text]
+- **[06-25]** *(reply to @JagwarTwin)* *"I'm the best dog sitter"*
+- **[06-25]** *(reply to @JagwarTwin)* *"For free"*
+- **[06-25]** *"I'm here to order chaos"*
+- **[06-23]** *(reply to @JagwarTwin)* *"Lol"*
+- **[06-23]** *(reply to @JagwarTwin)* *"That's the one"*
+- **[06-23]** *(reply to @JagwarTwin)* *"So much love for you"*
+- **[06-23]** *"Nola, I liked you. You're weird every time / Sharing diaries from my tour only on my tik tok"* (img) (vid)
+- **[06-22]** *"Feeling seen is the most beautiful thing in the world"*
+- **[06-22]** *"Sometimes I chew gum. It's a vice"*
+- **[06-22]** *"29.9511° N, 90.0715° W"*
+- **[06-20]** *"I've been making shirts for fans at shows and it's become one of my favorite things. I try to put a little bit of their souls in each character."* (img) (vid)
+- **[06-20]** *"38.6270° N, 90.1994° W"*
+- **[06-20]** *(reply to @JagwarTwin)* [no text]
+- **[06-19]** *"Last week was great. Luke and I made some music with Angel. I moved into a new place. Ate a grapefruit. Jacuzzied every night with Michael and Crystal and they announced they are bringing a small human into the world. Played with dogs. Went to the beach with Cari and swam with"*
+- **[06-19]** *"59:59"*
+- **[06-18]** *(reply to @JagwarTwin)* *"Moral of the story. Don't ask any questions."*
+- **[06-17]** *"Note to self: don't ask questions you know the answer to"*
+- **[06-16]** *(reply to @JagwarTwin)* *"I am they"*
+- **[06-15]** *"The name of my study today is 'Guys in LA talking on the phone in parking lots'"*
+- **[06-15]** *"All commonplace realities of to-day are the miracles of yesterday's dreaming. The realist crucifies genius, reaps the fruit of his vision and then immortalizes him. Down through all time great ideas have been universally condemned at birth. Prophets, philosophers, saints,"*
+- **[06-14]** *(reply to @JagwarTwin)* *"Listen to 'Great Time To Be Human' now"*
+- **[06-14]** *"Yaaa"* (img) (vid)
+- **[06-13]** *"Great Time To Be Human - Live - Feat. @joshuadun"* (img) (vid)
+- **[06-13]** *(reply to @JagwarTwin)* *"This is so cool!"*
+- **[06-13]** *"This is the moment @crystalleigh and @Michael5SOS surprised me in my green room and told me they were having a child"* (img) (vid)
+- **[06-13]** *(reply to @JagwarTwin)* [no text]
+- **[06-13]** *(reply to @JagwarTwin)* *"Love you G!!"*
+- **[06-13]** *(reply to @JagwarTwin)* *"So cool!!"*
+- **[06-12]** *"@TXT_members #TOMORROW_X_TOGEHTER"* (img) (vid)
+- **[06-12]** *"Sharing never before seen, behind the scenes tour moments exclusively on my new # tour-memories channel on my Discord."*
+- **[06-11]** *"I think I glitched the simulation today"*
+- **[06-11]** *"I dont want to do anything"*
+- **[06-11]** *"33 forever"*
+- **[06-11]** *(reply to @JagwarTwin)* *"I bought so many things I didn't need at this store (●'◡'●)ﾉ"*
+- **[06-09]** *(reply to @JagwarTwin)* *"Can't wait to see"*
+- **[06-09]** *(reply to @JagwarTwin)* [no text]
+- **[06-09]** *(reply to @JagwarTwin)* *"This message meant to much to read today. Thank you for being here for the journey."*
+- **[06-09]** *"I'm so grateful to have friends in my life that make all the ups and the downs of this journey so beautiful. It's complex and it's simple and always evolving. Tag your best friends that make being human awesome and tell them you love them."*
+- **[06-09]** *(reply to @JagwarTwin)* *"OMG. Let's go!! @ethbali_"*
+- **[06-09]** *"This song is about all my friends"* (img) (vid)
+- **[06-08]** *"I don't remember what the fox said"*
+- **[06-08]** *"I love it here"*
+- **[06-08]** *"Mini muffins are superior to regular sized muffins"*
+- **[06-07]** *(reply to @JagwarTwin)* *"My dog tried that once and his whole face swelled up. Potato Chip never ate bees again"*
+- **[06-07]** *(reply to @JagwarTwin)* *"Are you?"*
+- **[06-06]** *(reply to @JagwarTwin)* *"But which one do we commit to?"*
+- **[06-06]** *"Humans of the internet. I'll be communicating in here for an amount of time:"*
+- **[06-06]** *"My dog sits outside and contemplates the universe"*
+- **[06-06]** *"It's confusing not to commit to one reality"*
+- **[06-04]** *(reply to @JagwarTwin)* *"Wise one"*
+- **[06-03]** *"One can be so far ahead they appear behind"*
+- **[06-02]** *"Can anyone offer djembe lessons?"*
+- **[06-01]** *(reply to @JagwarTwin)* *"This is amazing"*
+
+**May**
+- **[05-31]** *(reply to @JagwarTwin)* *"Yea you are"*
+- **[05-30]** *"The moon is a computer"*
+- **[05-29]** *"I met so many amazing humans on this tour. Thank you to every single one of you who came to a show and sang with me and told me your stories. There were so many moments… you all helped me remember the power music holds to help understand and connect with each other and"*
+- **[05-28]** *"Potatoes"*
+- **[05-27]** *"I released this song today and played it in LA for the first time with all my friends"* (img) (vid)
+- **[05-26]** *"Jenny / = / 408"*
+- **[05-26]** *(reply to @JagwarTwin)* *"This is true"*
+- **[05-26]** *(reply to @JagwarTwin)* *"Filmed on the tour by @_corymeetsworld / Edited by @RyanMFleming & @_corymeetsworld"*
+- **[05-26]** *"Tour video for 'All My Friends' is out now on Youtube!"* (img) (vid)
+- **[05-26]** *"You guys are so cute!!"*
+- **[05-26]** *(reply to @JagwarTwin)* [no text]
+- **[05-26]** *(reply to @JagwarTwin)* *"Woooo!!"*
+- **[05-26]** *(reply to @JagwarTwin)* *"Thank you!"*
+- **[05-26]** *(reply to @JagwarTwin)* *"It's a good day for music"*
+- **[05-26]** *(reply to @JagwarTwin)* *"Ahhh love this for you"*
+- **[05-26]** *(reply to @JagwarTwin)* *"Thank you!"*
+- **[05-26]** *(reply to @JagwarTwin)* [no text]
+- **[05-26]** [no text]
+- **[05-26]** *"'All My Friends' is out now!!"* (img) (vid)
+- **[05-26]** *"ALL MY FRIENDS IS OUT TONIGHT AT MIDNIGHT!!"*
+- **[05-26]** *"'All My Friends' is out tonight at midnight!!!"*
+- **[05-25]** *(reply to @JagwarTwin)* *"I've been learning about the 7 Hermetic principles. - SARAVI"*
+- **[05-25]** *(reply to @JagwarTwin)* [no text]
+- **[05-25]** *(reply to @JagwarTwin)* *"Happy Gemini season brother"*
+- **[05-25]** *(reply to @JagwarTwin)* *"Love you sm"*
+- **[05-25]** *(reply to @JagwarTwin)* *"I too am curious about this"*
+- **[05-25]** *(reply to @JagwarTwin)* *"Let's go!!"*
+- **[05-25]** *"Listening to Goethe on this drive through the desert"*
+- **[05-24]** *(reply to @JagwarTwin)* *"Wooo!!"*
+- **[05-24]** *(reply to @JagwarTwin)* *"Pre-save now:"*
+- **[05-24]** *"'All My Friends' out tomorrow at midnight"* (img) (vid)
+- **[05-24]** *(reply to @JagwarTwin)* *"Thank you for the birthday wishes! I'm happy to be here and to be speaking with you. - SARAVI"*
+- **[05-24]** *"I just realized CatDog was genius"*
+- **[05-24]** *"'All My Friends' comes out in 3 days. / It's about all my friends. ⁠/ Pre-save now."* (img) (vid)
+- **[05-24]** *"Wild horses in Arizona"*
+- **[05-23]** *(reply to @JagwarTwin)* *"Thank you ibby"*
+- **[05-23]** *(reply to @JagwarTwin)* *"Thank you my brother"*
+- **[05-22]** *"Birthday notes 35 ⁠/ ⁠/ In the past I've felt pretty down on my birthday. Every new trip around the sun, I'd look at my life and see myself largely as a failure. I'd wish that more people listened to my music and that I was selling out massive tours around the world"*
+- **[05-22]** *"I'm thankful that / I've been where I've been / I am where I am / And I'm going where I'm going"*
+- **[05-22]** *"I'm feeding mice espresso beans in Roswell"*
+- **[05-22]** *"I'm surrounded by owls in the desert"*
+- **[05-22]** *"It's Milky Way season"*
+- **[05-21]** *(reply to @JagwarTwin)* *"Abundance baby!!! Yes!"*
+- **[05-21]** *"3 is the hardest number to count to"*
+- **[05-21]** *(reply to @JagwarTwin)* *"I'm so ready…"*
+- **[05-19]** *"'All My Friends' coming to your ears May 26th"* (img) (vid)
+- **[05-18]** *"LA SHOW TICKET GIVEAWAY ⁠/ See the details on my IG"*
+- **[05-18]** *"Watch 'Great Time To Be Human' (Live) feat. @joshuadun"* (img) (vid)
+- **[05-17]** *"Watch 'Great Time To Be Human' (Live) - feat. @joshuadun"*
+- **[05-17]** *"Do things"*
+- **[05-17]** *"I got stung by a jellyfish. / But he was cuteZ"*
+- **[05-17]** *(reply to @JagwarTwin)* *"Haha this picture"*
+- **[05-17]** *(reply to @JagwarTwin)* [no text]
+- **[05-16]** *(reply to @JagwarTwin)* *"Wonderful to see you"*
+- **[05-16]** *"I ate too many peanuts tonight"*
+- **[05-16]** *(reply to @JagwarTwin)* *"Makes sense"*
+- **[05-16]** *(reply to @JagwarTwin)* *"It can be done. I know this first hand."*
+- **[05-15]** *(reply to @JagwarTwin)* *"Good"*
+- **[05-15]** *(reply to @JagwarTwin)* *"See you tonight!"*
+- **[05-15]** *"Where is old jersey?"*
+- **[05-15]** *(reply to @JagwarTwin)* *"Big time"*
+- **[05-15]** *(reply to @JagwarTwin)* *"You still can shed it. I promise. You're powerful"*
+- **[05-15]** *(reply to @JagwarTwin)* *"Only you can let him go"*
+- **[05-14]** *"You don't have anxiety. / That's not how it works. / Anxiety has you."*
+- **[05-13]** *(reply to @JagwarTwin)* *"Newness is always uncomfortable"*
+- **[05-13]** *"10 shows left of this tour with @TRANSVIOLETBAND. I bought some peaches in Georgia this morning from an old lady with a fruit stand. It's been beautiful to meet so many of you out here in different cities. America is a beautiful place. Where should I come next?"*
+- **[05-13]** *"ATTENTION! Tonight's show has moved physical locations. / It is now at: / Level 13 Event Center / 5043 Edgewater Dr, Orlando, FL 32810"*
+- **[05-13]** *(reply to @JagwarTwin)* *"You guys are the best thank you big time for the support"*
+- **[05-13]** *"The hotel I'm staying at is so not aesthetically pleasing it's gorgeous"*
+- **[05-13]** *(reply to @JagwarTwin)* *"It was so nice seeing you michy!!"*
+- **[05-13]** *(reply to @JagwarTwin)* *"Yes!"*
+- **[05-13]** *(reply to @JagwarTwin)* *"8:30"*
+- **[05-13]** *(reply to @JagwarTwin)* *"Postmates and bed is better"*
+- **[05-13]** *"TV is like MySpace"*
+- **[05-13]** *"Going out is cool but so is this bed"*
+- **[05-12]** *"Only 10 days left on this tour."*
+- **[05-11]** *"Greetings from the other side of the moon"* (img) (vid)
+- **[05-10]** *(reply to @JagwarTwin)* *"In essence"*
+- **[05-10]** *"I was a mermaid in my dream last night"*
+- **[05-10]** *"I need some new socks"*
+- **[05-09]** *(reply to @JagwarTwin)* *"All of it"*
+- **[05-09]** *"I strongly dislike everything about 'bars'"*
+- **[05-09]** *"We are stars for ants"*
+- **[05-09]** *(reply to @JagwarTwin)* [no text]
+- **[05-09]** *(reply to @JagwarTwin)* [media only] (img) (vid)
+- **[05-09]** *"Thank you all for so much love on Great Time To Be Human. I've been told 'The streams look promising'. I don't know what that means or what the steams promise but I'm sure they will lead to the ocean. Or into a moose's mouth. It is a great time to be human.⁠"*
+- **[05-08]** *"When you use Waze"* (img) (vid)
+- **[05-08]** *(reply to @JagwarTwin)* *"THIS IS THE ONE"*
+- **[05-08]** *(reply to @JagwarTwin)* *"Everybody does it"*
+- **[05-07]** *"Taking a selfie is like taking a shit"*
+- **[05-06]** *(reply to @JagwarTwin)* *"See you soon!"*
+- **[05-06]** *"Happy coronation day"*
+- **[05-05]** *(reply to @JagwarTwin)* *"Precious"*
+- **[05-05]** *"Notice the moon / Becoming the sun"*
+- **[05-04]** *(reply to @JagwarTwin)* *"That adds up"*
+- **[05-04]** *"I listen to music like a Gemini"*
+- **[05-04]** *(reply to @JagwarTwin)* [no text]
+- **[05-04]** *(reply to @JagwarTwin)* *"Hi"*
+- **[05-04]** *(reply to @JagwarTwin)* *"Greetings from square head"*
+- **[05-04]** *(reply to @JagwarTwin)* *"Haha! I love you guys"*
+- **[05-04]** *"I'm smiling more these days"*
+- **[05-04]** *"Mr. Josh Dun recorded the drums in the studio on 'Great Time To Be Human' and 'Happy Face' but we finally got to play these songs live together. Columbus, you were amazing! Thanks for being you @joshuadun"* (img) (vid)
+- **[05-03]** *(reply to @JagwarTwin)* *"Haha hi¥"*
+- **[05-03]** *(reply to @JagwarTwin)* *"This is awesome!"*
+- **[05-03]** *"Love you fl Loser"*
+- **[05-03]** *"Jagwar Twin came to Columbus. Josh was there."* (img) (vid)
+- **[05-02]** *"You don't know until you know"*
+- **[05-02]** *"Every day is Halloween"* (img) (vid)
