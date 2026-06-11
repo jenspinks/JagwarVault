@@ -68,7 +68,11 @@ laundering** (a framework reading quietly re-cited as grounded).
 
 ---
 
-## 2. The two jobs
+## 2. The three jobs
+
+The pass has equal-weight **coherence audit** (A) and **discovery** (B) across the
+whole corpus, plus an **adversarial keystone review** (C) run wherever the
+analysis rests on a load-bearing claim.
 
 ### A. Coherence audit (the corpus as one object)
 
@@ -106,6 +110,43 @@ Read across the whole thing and find where it does **not** cohere:
    All My Friends), concepts referenced but pageless, open questions left dangling.
 5. **The labyrinth/entry-point layer** — does the `entry_points` web actually
    support the planned nonlinear public navigation, or are there orphan nodes?
+
+### C. Adversarial keystone review (try to break the load-bearing claims)
+
+A **keystone** is a claim many other readings rest on — pull it and a lot of the
+arch comes down. These are the most dangerous places for contamination, because
+their weight makes them *feel* grounded regardless of whether they are, and
+repetition across pages hardens them. For each keystone you identify, **switch
+into a skeptic and actively try to refute it from public material** — do not
+defend it, attack it. Default to "not proven" and make the claim earn its
+standing back.
+
+For each keystone, in the report (§5):
+1. **State it** and **list every page that depends on it** (the blast radius).
+2. **Name its current tier** and **the anchors actually cited** for it.
+3. **Attack it** — the strongest public-material case that it is wrong,
+   over-read, register-collapsed, or hardened by repetition rather than evidence.
+4. **Verdict:** *holds at `[G]`* / *survives only as `[W]`* / *should drop to
+   `[~]`/`[?]`* / *contaminated — fix needed.* If it falls, **flag the blast
+   radius** — every dependent page inherits the correction.
+
+Candidate keystones to test (not exhaustive — find others):
+- The **Roy ⇄ Lucius Heart/Mind split** as the master frame (does every song
+  really sit on it, or is it being imposed?).
+- **"Lucius counterfeits the Mary/rescue function"** (the Mary correction itself
+  — §4 — is now load-bearing; re-attack it against the stable lyrics).
+- The **album seams** (1→2, 9→10) as continuous pieces split into tracks.
+- **SOL = the refused "Song of Love"** Lucius can't metabolize.
+- **The Circle (Lucius Version)** as the structural center / appropriation-not-
+  deletion.
+- **Three-register Lucius** (§4) — does the corpus actually sustain all three, or
+  is one register doing all the work?
+- The **dual-vocalist credit device** (ROY + sir lucius) as duality-in-metadata.
+- **"my mind must serve my heart"** as the doctrinal resolution.
+
+A keystone that survives the attack is *stronger* for it — say so, and record the
+attack you ran so the next pass doesn't redo it. A keystone that falls is the
+single highest-value find in the whole pass.
 
 ---
 
@@ -177,6 +218,11 @@ Write findings to **`Essays/_drafts/Fable Pass — Findings (YYYY-MM-DD).md`** (
 working draft, not canon). Structure:
 
 ```
+## Keystone verdicts
+  The headline section. Per keystone: the claim · blast radius (dependent pages) ·
+  current tier + anchors cited · the attack you ran · verdict (holds [G] /
+  survives [W] / drop to [~]/[?] / contaminated). Falls first, survivors after.
+
 ## Coherence flags
   Per finding: location(s) · what's wrong · current tier vs. correct tier ·
   proposed fix · confidence. Sort by severity (contamination > tier violation >
@@ -219,12 +265,14 @@ Do not synthesize from the index alone; the index is curated, not exhaustive.
 
 ---
 
-## 7. Scope knobs (Jen to confirm before the pass)
+## 7. Scope (confirmed by Jen, 2026-06-10)
 
-These three change what the pass *is*; set them before starting:
-- **Output mode** — default **read-mostly / findings report** (§0). Override only
-  with explicit per-file authorization.
-- **Emphasis** — default **both** coherence and discovery, equal weight. Can be
-  tilted (e.g. "coherence audit only," "discovery only on the Lucius Lullaby arc").
-- **Scope** — default **whole corpus**. Can be narrowed to an era (STF / 33 /
-  Lucius Lullaby), a character, or a concept cluster.
+- **Scope — whole corpus.** All eras (STF 2018/19 → 33 2022 → singles → Lucius
+  Lullaby 2026), all characters, all concepts.
+- **Emphasis — full-corpus coherence-and-discovery is the priority (jobs A + B,
+  equal weight), with the adversarial keystone review (job C) run as needed**
+  wherever the analysis rests on a load-bearing claim. The keystone verdicts are
+  the report's headline section.
+- **Output mode — read-mostly / findings report** (§0). Fable does not mutate
+  canon; Code folds approved findings after. Override only with explicit per-file
+  authorization from Jen.
