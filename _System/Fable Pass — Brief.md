@@ -97,19 +97,49 @@ Read across the whole thing and find where it does **not** cohere:
 
 ### B. Discovery (what local work could not see)
 
-1. **Cross-corpus motif threads** — symbols/phrases that recur across songs and
-   eras and have **not** been tracked (the existing trackers: [[Theme Tracker]],
-   the Mary divine-feminine-voice tracker, interpolation log). Propose new threads
-   with their tier and their anchor list.
+Discovery is the only **generative** job — A audits and C attacks claims that
+already exist; B proposes *new* ones. New claims are precisely the contamination
+vector this vault is built to resist, so **discovery carries the most discipline,
+not the least.** A powerful model's native move — pattern-matching into elegant
+synthesis — is the exact failure mode (premature synthesis, retrospective
+totalization, register collapse, §1). Treat the elegance of a pattern as a
+*warning*, not evidence.
+
+**What counts as a discovery.** Not "two songs share an image" — that's an
+observation. A discovery is a **claim about the corpus** that (a) spans material
+local authoring couldn't hold at once, (b) isn't already in the trackers/canon,
+and (c) earns a tier. The bar is: *if it's just true, it's an observation; if it
+*organizes* other material, it's a discovery.*
+
+**Where to look:**
+1. **Cross-corpus motif threads** — symbols/phrases recurring across songs and
+   eras that are **not** in the existing trackers ([[Theme Tracker]], the Mary
+   divine-feminine-voice tracker, the interpolation log).
 2. **Era-level arcs** — STF (2018/19) → 33 (2022) → singles → Lucius Lullaby
    (2026): development, reversal, self-quotation across the catalogue.
-3. **Interpolation / self-quotation** — the album seams (1→2, 9→10), shared refrains
-   ("never gonna die," "I'm dreaming"/"remembering"), the credited interpolations
+3. **Interpolation / self-quotation** — album seams (1→2, 9→10), shared refrains
+   ("never gonna die," "I'm dreaming"/"remembering"), credited interpolations
    (Bricusse/Newley, Mercer, Rockwell, Joni). Find ones not yet logged.
 4. **Gaps** — songs with thin or no Essay (Hell Of A Night, Shine, Precious Time,
    All My Friends), concepts referenced but pageless, open questions left dangling.
 5. **The labyrinth/entry-point layer** — does the `entry_points` web actually
    support the planned nonlinear public navigation, or are there orphan nodes?
+
+**The discipline — every discovery is born skeptical.** Before a discovery earns a
+line in the report, it must clear all four:
+1. **Anchors listed.** Name the specific public material (lyric lines, EPs, posts,
+   metadata). **Zero anchors → it is `[~]` resonance at most, often `[?]`** — it
+   cannot be proposed as `[W]`. Two+ independent anchors is the floor for `[W]`.
+2. **Self-attack survived.** Run the §C adversarial step *on your own find*: the
+   strongest case that it's coincidence, imposed, or register-collapsed. A
+   discovery that can't survive its own attack doesn't ship — or ships flagged.
+3. **Falsifier named.** State what *would* refute it or graduate its tier. A claim
+   that nothing could disprove is a vibe, not a discovery.
+4. **Lowest tier the evidence supports.** Default down, never up. The report
+   *proposes* a tier; it never *graduates* one (graduation is Code/Jen's job, §5).
+
+A discovery is just a candidate keystone facing the other direction — hold it to
+the same standard you hold the load-bearing claims you're trying to break.
 
 ### C. Adversarial keystone review (try to break the load-bearing claims)
 
@@ -229,9 +259,10 @@ working draft, not canon). Structure:
   drift > link hygiene).
 
 ## Discoveries
-  Per finding: the pattern · its anchors (list them) · proposed tier ·
-  where it would live (existing page / new page / a tracker) · what would have
-  to be true for it to graduate a tier.
+  Each must clear the four gates (§2.B): the pattern · its anchors (list them) ·
+  the self-attack it survived · its falsifier · proposed tier (lowest the
+  evidence supports) · where it would live (existing page / new page / tracker).
+  No anchors → it goes under resonance/open-questions, not here.
 
 ## Open questions surfaced
   Things the corpus implies but cannot resolve without a new anchor.
