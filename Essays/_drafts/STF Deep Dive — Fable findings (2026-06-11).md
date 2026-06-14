@@ -7,6 +7,8 @@ reading_frame: "Proposals for Jen/Code to fold or reject. Anchors are [G] where 
 ---
 # Subject to Flooding — Deep Dive (Fable, 2026-06-11)
 
+> **DOSSIER STATUS (2026-06-13):** these findings have been transformed into an adversarial-vetting packet — `Essays/_drafts/STF Vetting Dossiers/` (00 Context Primer + 01–07), matching the LL Vetting Dossiers workflow. Plain-text, public-material-only, built to travel to an external AI (ChatGPT/Gemini) for refutation before any canon fold. Mapping: 01 = F1 · 02 = F2/F10/F17-waters · 03 = F4/F5/F11/F14 · 04 = F6/F6b · 05 = F7/F8/F9/F12/F13/F3 · 06 = F15/F16 · 07 = F17-remainder + discipline ledger. Nothing folded to canon yet.
+
 *Corpus read for this pass: all 13 STF lyric sources · the album page · the STF essays (dedup) · Atwood 2018 · Ones to Watch 2018 · Artist Waves 2018 · Prelude 2019 · Knockturnal 2019 · Billboard 2019 · New England Sounds 2019 · Digital Journal 2019 (via canon) · Eye Alaska 2010 · the 2023 X archives (both halves) · the 2025–26 aphorisms · the STF credits file.*
 
 ---
