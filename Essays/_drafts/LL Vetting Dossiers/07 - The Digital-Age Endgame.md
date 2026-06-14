@@ -40,3 +40,6 @@ The catalogue's named antagonist is **"the severing"** — the splitting of hear
 5. **What's missing?** Other upload/clone/surveillance instances on *Lucius Lullaby* I didn't connect, or a cleaner statement of what "the severing" actually is.
 
 *Tier check: the lyric anchors are [G]; "the upload thread's endgame" and "Flood/Circus = one severing" are [W]; the element-map is [~]. Tell me what holds.*
+
+---
+*Lyric grounding (2026-06-13): "City of Angels" is Apple-synced-stable; "Great Time to Be Human" is Apple/Jen-verified (stale maintenance note only). The "algorithm baby" beat is from the EP3 transcript (`status: draft` — listen-through pending; the structural beat is clear).*

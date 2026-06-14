@@ -79,6 +79,12 @@ The machine stops being *outside the human* and becomes **a mode of consciousnes
 
 ---
 
+## The Flood and the Circus — two failure-modes of the severed self
+
+[W] The catalogue's two album-frames name the **same severing in opposite elements**. *Subject to Flooding* (the Flood) is the severed self **dissolved** — immersed, overwhelmed, the boundaries gone (water). *Lucius Lullaby* (the Circus) is the severed self **sedated** — anesthetized inside the "beautiful life" dream, kept *under* rather than drowned (flame: the ring of fire, the moth's flame, *"burn it down"*). One disease, two mechanisms: **the flood dissolves living contact; the Circus forecloses it by simulation.** This is a sharper symmetry than "same disease, opposite elements" — the failure-modes are *complementary*: drowning destroys the self's edges, sedation freezes them. Between them sits the cure this arc gestures at — neither dissolved nor sedated but **re-subordinated to the heart** (the thread that survives both; see [[SOL]]).
+
+---
+
 ## Surveillance as counterfeit El Roi
 
 [W] The most precise turn in the thread. Roy signs himself **"El Roy"** — *El Roi*, "the God who sees me" (Genesis 16:13), the divine gaze that **witnesses and loves.** Digital surveillance is the machine's inversion of exactly this: to be *seen* not by a loving witness but by an indifferent apparatus that **watches and quantifies.**

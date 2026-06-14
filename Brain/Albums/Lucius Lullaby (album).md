@@ -33,8 +33,13 @@ review_date: 2026-11-16
 - [?] MOTH echo: track 6 "Moths to the Flame" + track 15 "MOTH Gallery" — intentional or read-in.
 - **[W] "Twisted adolescent musical themes" (the album tagline) — grounded across the lyrics:** nursery-rhyme / playground forms turned sinister — *ring-around-the-rosies / "ashes, ashes, we all fall down"* ([[Not Your Homie]]); the dog↔god dark-nursery ([[Great Time to Be Human]]); *"Go bananas"* / "Hey kids, do you ever wanna break shit?" ([[Bananas]]); the Oompa-Loompa interpolation ([[Bad Feeling (Oompa Loompa)]]); the music-box lullaby ([[The Circle (Lucius Version)]]).
 
+## Arc [W]
+- **A sustained nigredo with one late turn.** 13 of 14 tracks tagged `nigredo`; **[[Weirdness]] (13) is the only albedo** — the *your→my* pronoun-flip is the first *successful internalization*. **[[#1 Champion (la Conquistadora)]] (8) is the first *crack*** (Mary unseats the ego; threshold `approaching`); Weirdness is the first *crossing*. Movements: overture+bargain (1–2) → the Circus operating (3–12) → the turn (13) → wordless [[SOL]] (14) → loop-back to Lucius (15).
+- **Resolution ≠ triumph.** The album **refuses triumph but not resolution**: what resolves is the **survival of [[The Thread|the thread]]** (SOL endures words-stripped), not the Roy/Lucius integration (held open). "No triumph" ≠ "stays in shadow" — the shadow gets the last *track* (15); the thread gets the last thing it can't metabolize (14). Full arc: [[Essays/Arcs/Lucius Lullaby]].
+- **[W] Flood ↔ Circus = opposite failure-modes of the severed self.** [[Subject to Flooding (album)|Subject to Flooding]] (the Flood) *dissolves* the divided self; *Lucius Lullaby* (the Circus) *sedates* it — water vs flame, drowning vs the "beautiful life" dream. Both prevent living contact; same severing, opposite mechanism. See [[Machine vs Human]].
+
 ## Open Questions
-- [ ] Is the tracklist a literal Circle map (15 = deliberate loop-back)?
-- [ ] SOL only 1:18 — if destination, why so brief?
-- [ ] Do the 3 shortest tracks (0:44/1:05/1:18) form a "compressed transmission" triplet?
-- [ ] Arc mapping (Bailey-shaped? Tree-of-Life? cyclical?) — pending; see [[The Labors of Hercules]] counterargument 4.
+- [x] Tracklist = a Circle (15 = loop-back) — **yes, structurally** (SOL=14 ending; 15 returns to the opening voice). See [[Essays/Arcs/Lucius Lullaby]] §Album Arc.
+- [x] SOL only 1:18 — **brevity is the doctrine** (a glimpse, not a residence; survival, not triumph).
+- [x] 3 shortest tracks (0:44/1:05/1:18) = compressed-transmission triplet — **yes** (seam-heads/edges; 1 & 14 bracket; two near-wordless). `[?]` PttG non-lexical audio check gates the "voice-at-every-seam" extension.
+- [ ] Arc mapping (Bailey-shaped? Tree-of-Life? cyclical?) — pending; see [[The Labors of Hercules]] counterargument 4. (The descent→turn→loop-back shape above is the structural arc; a sphere-by-sphere Tree mapping stays open.)

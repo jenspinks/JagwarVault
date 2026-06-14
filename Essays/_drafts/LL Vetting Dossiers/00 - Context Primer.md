@@ -92,3 +92,19 @@ On the **2022 album *33***, the closing song **"The Circle"** states the artist'
 ---
 
 *The dossiers that follow each restate the minimum context they need, then make their claim with anchors, then ask you to vet. If a dossier's evidence feels thin without more background, this primer is the background.*
+
+---
+
+## Lyric-grounding status (2026-06-13 cross-check, vault-side)
+
+A check the vetting passes couldn't run (their vault reads timed out): the streaming-verification status of the lyrics these dossiers quote. Almost all are streaming-stable; the residuals are narrow.
+
+- **Apple-synced stable:** Lucius Lullaby (title track), #1 Champion, City of Angels, Moths to the Flame, Playing to the Gods, Move To You, Long Time Coming.
+- **Spotify-stable:** Weirdness, Bounce, It's Your Time, Soul Is A Star, The Circle (33).
+- **Stable (aggregator / minor open bits):** Welcome to the Circus (Letras + Shazam + Spotify); Not Your Homie (Spotify; a few trivial unresolved fragments, none load-bearing).
+- **Stable but carrying a stale "not yet verified" maintenance note** — substantively Apple/Shazam/Jen-in-hand verified; a vault-hygiene artifact, not a real gap: Bad Feeling, Bananas, Great Time to Be Human.
+- **Genuine residual [?]:** SOL (the album track is *wordless*; its line is by-ear + the EP2 performance) and The Circle (Lucius Version) (draft, but its single refrain is cross-confirmed via the stable title track).
+- **Credits:** all per-track [G] in the Spotify-verified credits file — Bricusse/Newley (5, 15), Sia (13), Josh Dun (3, 5), choir arrangements (4, 8, 9, 14). The only unpinned influence item is the Dylan YouTube-Short caption ([W]).
+- **The EP1–7 transcript** is `status: draft` (listen-through pending); the structural beats (which song plays when) are clear.
+
+Principle the vetting pass was right about: a [W] reading inherits a [?] from an unverified lyric. Per the above, the only readings that inherit a real residual are the SOL-dependent ones — and those are already framed as wordless.

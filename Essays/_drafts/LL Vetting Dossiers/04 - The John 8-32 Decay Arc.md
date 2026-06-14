@@ -35,3 +35,6 @@ This also sharpens the album's larger "truth" texture: *Bad Feeling*'s *"the tru
 5. **What's missing?** Other catalogue uses of John 8:32 or "truth/free" language that would extend, complicate, or break the three-point line.
 
 *Tier check: the three lyrics are [G]; the "one verse degrading across eras" thread is [W]. Tell me if it earns [W].*
+
+---
+*Lyric grounding (2026-06-13): all three truth-lines are verified — "It's Your Time" (Spotify-stable), the title-track outro (Apple-synced), and "Bad Feeling" (Apple/Shazam/Genius/Jen-verified; its source file carries a stale "not yet verified" maintenance note — a hygiene artifact, not a real gap). The chain stands on verified text.*

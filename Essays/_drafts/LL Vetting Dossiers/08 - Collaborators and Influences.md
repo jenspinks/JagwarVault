@@ -47,3 +47,6 @@ Joni, Dylan, and the artist's "weird world music" (Celtic chants, African drummi
 5. **The real ask — find what I missed.** Given the tracklist and the album's interpolation method, **what influences, samples, or allusions are likely present that this analysis doesn't name?** Genre touchstones for the Circus/cabaret register; the show-tune / vaudeville lineage; gospel (there's a literal choir on several tracks); specific artists the production evokes. I would rather you add three real candidates than approve the list.
 
 *Tier check: the credits (A) are [G]; the Josh-Dun-as-present-favorite link and the mother-channel doctrine are [W]; the substrate and comparators (C) are [~]. Tell me what to promote, drop, or add.*
+
+---
+*Credit grounding (2026-06-13): Bricusse/Newley (tracks 5, 15), Sia (13), Josh Dun (3, 5), and the choir arrangements (4, 8, 9, 14) are all [G] in the Spotify-verified credits file. TØP = "favorite band" is grounded via the Strife 2024 interview. The Dylan caption is the one influence item still [W] / unpinned.*

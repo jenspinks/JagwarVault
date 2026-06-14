@@ -24,7 +24,7 @@ related: [CHAR-SirLucius, CHAR-Roy, SONG-LuciusLullaby, SONG-SOL, CONCEPT-TheCir
 | # | Title | Duration |
 |---|-------|----------|
 | 1 | [[The Circle (Lucius Version)]] | 0:44 |
-| 2 | [[Essays/Arcs/Lucius Lullaby]] | 2:31 |
+| 2 | [[Brain/Songs/Lucius Lullaby]] | 2:31 |
 | 3 | [[Great Time to Be Human]] | 3:23 |
 | 4 | [[Brain/Songs/Welcome to the Circus]] | 2:29 |
 | 5 | [[Bad Feeling (Oompa Loompa)]] | 2:13 |
@@ -56,9 +56,19 @@ These are observations about the album-as-object, independent of lyrical or inte
 
 ## Album Arc
 
-*To be filled in. The album reads as a descent-and-return map — [[Malkhut]] to [[Yesod]] and upward — with SOL likely as the destination. Specific track-by-track arc mapping pending.*
+[W] Read in order, the album is **a sustained descent held almost to the end, with a single late turn** — and the album's own per-song phase-tags carry it: **thirteen of the fourteen distinct tracks sit in [[Nigredo|nigredo]]** (the blackening), and only one — track 13, [[Essays/Concepts/Songs/Weirdness|Weirdness]] — turns to *albedo* (first light). This is not an arc that climbs steadily out of the dark. It is a long floor, cracked once near the end.
 
-- [ ]
+**I — The overture and the bargain (1–2).** The album opens by laying the keystone [[The Circle|Circle]] doctrine's *name* over the lullaby's *content*: [[The Circle (Lucius Version)]]'s only words — *"It's a beautiful life… I'm dreaming"* — are the refrain of [[Brain/Songs/Lucius Lullaby|Lucius Lullaby]], not the 2022 Circle's. The title track then names the floor in plain first person (rock-bottom at 35) and the bargain that pulls the speaker back from the edge — *"you gotta serve somebody."* The engine of the whole record is set here: **a life saved by being put *under* rather than woken.** Trap and mercy at once.
+
+**II — The Circus operating (3–12).** The longest stretch, all nigredo — Lucius's world running unopposed as a *system*: the toxic-positivity civilization-anthem ([[Great Time to Be Human]]), the Circus thesis ([[Brain/Songs/Welcome to the Circus|Welcome to the Circus]]), the candy-factory alarm ([[Bad Feeling (Oompa Loompa)]]), the doctrine→id-eruption seam ([[Moths to the Flame]] → [[Bananas]]), the false-immortality seam ([[Playing to the Gods]] → [[City of Angels]]), the bargain enacted ([[Essays/Concepts/Songs/Not Your Homie|Not Your Homie]]), kinetic evasion ([[Bounce]]). The one interruption is track 8, [[#1 Champion (la Conquistadora)]] — the boasting ego meets the faceless feminine ([[Mary]]) and is unseated. **This is the album's first crack** — threshold-state *approaching*, not yet crossing.
+
+**III — The turn (13, Weirdness): the first successful internalization.** The only albedo. The whole change is **one pronoun**: the angel-voice's *"**Your** weirdness is the sunshine"* becomes *"all **my** weirdness is **my** sunshine."* Integration happens by **reclaiming the shadow's distorted light as one's own**, not by defeating him. If #1 Champion is the first *crack*, Weirdness is the first *successful internalization* — the threshold actually crossed.
+
+**IV — The wordless destination (14, [[SOL]]).** "The Song of Love," voiced but wordless on release. **Survival, not triumph** — it *survives* the shadow (who cannot metabolize it) without conquering him. A glimpse (1:18), not a resting place.
+
+**V — The loop-back (15).** [[Bad Feeling (Oompa Loompa)|Bad Feeling]] acoustic at the MOTH Gallery — Lucius-adjacent, the voice the album opened in. The record ends on Roy's breath (14), then loops back to Lucius (15).
+
+[W] **What "resolution" means here.** It is tempting to read the loop-back as the album *failing* to resolve, or as Lucius simply winning. That conflates two different things. **The album refuses *triumph*, but it does not refuse *resolution*.** What resolves is not the integration of Roy and Lucius — that stays open — but the **survival of [[The Thread|the thread]]**, the feeling that was not sacrificed: SOL endures with its words stripped; the breath outlasts the bargain. The album resolves by *preserving what cannot be metabolized*, not by completing the integration or healing the split. "Doesn't end in triumph" is **not** the same as "stays in shadow": the shadow gets the last *track* (15), but the thread gets the last thing it cannot consume (14).
 
 ---
 
@@ -72,7 +82,12 @@ These are observations about the album-as-object, independent of lyrical or inte
 
 ## Themes
 
-- [[ ]]
+- [[The Circle]] / [[The Circus]] — the keystone doctrine and its inversion (the album's primary frame)
+- [[Brain/Concepts/Source vs Reflection]] — the dream / magic-mirror sedation: a reflection that traps rather than returns
+- [[Nigredo]] — the sustained blackening (13 of 14 tracks); the single turn to albedo at Weirdness
+- [[Duality]] — Roy / Lucius; the *serve*-verb redirected (mind serving heart)
+- [[The Thread]] — what survives the bargain: the feeling not sacrificed (SOL)
+- [[Machine vs Human]] — the Circus as the severing scaled to society; the "upload" (City of Angels)
 
 ---
 
@@ -108,10 +123,10 @@ These are observations about the album-as-object, independent of lyrical or inte
 
 ## Open Questions
 
-- [ ] Is the tracklist a literal map of the Circle, with track 15 as deliberate loop-back?
-- [ ] Does the Moths / MOTH Gallery echo indicate intentional framing, or is it coincidence that we're reading in?
-- [ ] Why is SOL only 1:18? If it's the destination, why so brief? Is brevity the point — a glimpse, not a resting place?
-- [ ] What is the relationship between the 3 shortest tracks (The Circle 0:44, Playing to the Gods 1:05, SOL 1:18) — do they form a structural triplet of "compressed transmissions"?
+- [x] **Is the tracklist a literal Circle (track 15 = loop-back)?** [W] Yes, structurally — SOL (14) is the emotional-structural ending; 15 returns to the opening Lucius-voice. The album-as-object enacts a Circle, and pointedly one that lands back on the shadow, not on resolution.
+- [x] **Why is SOL only 1:18?** [W] The brevity is the doctrine — the destination is a *glimpse*, not a residence; a long SOL would assert "love wins," which the arc refuses (survival, not triumph).
+- [x] **Do the 3 shortest tracks (1 / 9 / 14) form a "compressed-transmission" triplet?** [W] Yes — they are the seam-heads / edges; two of them (1, 14) bracket the album, and two are near-wordless (music-box; breath). `[?]` the "non-lexical voice at every seam" extension gates on the Playing-to-the-Gods audio check.
+- [ ] **The Moths / MOTH Gallery echo** (track 6 / track 15) — still open; no anchor either way. Noted only that it closes on the same (Lucius) side.
 
 ---
 

@@ -46,3 +46,6 @@ On *33*, Joni is everywhere (the credited "Woodstock" interpolation; the album-w
 4. **Is the wordless-SOL reading ("the meaning is the missing words") profound or precious?** Make the case that it's over-reading a short ambient closer.
 
 *Tier check: SOL's three anchors are [G]; the bridge is [W]; the "SOL is the father's/Joni's verse" identity is [P]; the City-of-Angels Joni lead is [?]. Tell me if any of these should move.*
+
+---
+*Lyric grounding (2026-06-13): "Move To You" (2018) and "Soul Is A Star" (33) are streaming-stable; SOL is the genuine residual — the album track is wordless, its line by-ear + EP2 (the dossier already frames it this way). The Joni-on-SOL identity stays [P] regardless of verification.*

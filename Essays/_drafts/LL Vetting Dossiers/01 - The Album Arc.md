@@ -50,3 +50,6 @@ So **13 of the 14 distinct tracks are a blackening; exactly one is the turn.** T
 5. **What's missing?** Any structural feature of the sequence — symmetry, a numerological or durational pattern, a different way to carve the movements — that this misses.
 
 *Tier check: the phase-map is [G] (the songs' own tags) feeding a [W] arc reading. Tell me if the arc earns [W], and where it slips to [P] or [~].*
+
+---
+*Lyric grounding (2026-06-13): the Weirdness pronoun-shift, the title-track bargain line, and #1 Champion are streaming-stable; SOL's line is by-ear + EP2 (the album track is wordless) — consistent with this dossier's own framing. The phase-tags are the analyst's labels (see challenge #1).*

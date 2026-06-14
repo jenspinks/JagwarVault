@@ -35,3 +35,6 @@ This also reframes the whole project's structure: if you play *33* into *Lucius 
 5. **What's missing?** Is there a *third* "Circle" reference point in the catalogue (live versions, other lyrics, interviews) that complicates the clean 2022↔2026 binary?
 
 *Tier check: the facts (position, the lyric swap, the name kept) are [G]. The "doctrine inverted, source→reflection pivot" is offered at [W]. Tell me if it holds at [W] or should drop to [~].*
+
+---
+*Lyric grounding (2026-06-13): "The Circle" (33) is Spotify-stable; "The Circle (Lucius Version)" is the one draft-tier lyric here, but its single refrain is cross-confirmed via the Apple-stable title track — so the name-kept / content-swapped claim rests on verified text.*

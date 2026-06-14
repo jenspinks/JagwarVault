@@ -47,3 +47,6 @@ The reading: **the album where childhood forms turn *fully* sinister is the one 
 5. **What's missing?** Other childhood forms on the album I didn't catch (Bounce's "bow-bow-bow" / counting-in cadence? Moths' fable register? the "la-da-da" bridges?), or catalogue instances between 2018 and 2026 that would make the lineage continuous.
 
 *Tier check: the per-track census anchors are [G]; the "method is debut-native, LL is its culmination" thread is [W]. Tell me which census rows you'd cut and whether the thread holds.*
+
+---
+*Lyric grounding (2026-06-13): every census row rests on verified text — "Ashes, ashes" (Not Your Homie, stable), "Mary, Mary" + "A-B-C" (#1 Champion, Apple), "Oompa Loompa" (Bad Feeling, Apple/Shazam/Genius/Jen), "Life is but a dream" (title track, Apple), "Go Bananas" (Bananas, Apple/Shazam), and the debut's "Rich man, poor man" (Long Time Coming, Apple-stable). Bad Feeling / Bananas / Great Time carry a stale "not yet verified" maintenance note only (substantively Apple-verified).*

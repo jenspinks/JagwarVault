@@ -51,3 +51,6 @@ I scanned **all 14 *Lucius Lullaby* lyrics** for Dylan text-parallels beyond "se
 4. **Forever Young → Weirdness.** Is the blessing-voice lineage real enough to hold even at [~], or is "born to shine" / "let your light shine" generic enough that any blessing-song would do?
 
 *Tier check: childhood influence [G]; the lyric string [G]; the Dylan allusion [W] (→ [G] if the caption pins); the serve-hinge [W]; Forever Young [~]; the null [G]. Tell me what you'd move.*
+
+---
+*Lyric grounding (2026-06-13): "serve somebody" (title track) and "born to shine" (Weirdness) are streaming-stable. The Dylan link's tier turns on two verification facts, not lyric text: the YouTube-Short caption (unpinned) and the absence of a Dylan composer credit (confirmed absent in the credits file). Held at [W] until the caption pins.*
