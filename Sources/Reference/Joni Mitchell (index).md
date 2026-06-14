@@ -11,7 +11,7 @@ ingest_source: "Map-of-content / navigation note — not a source. Single entry 
 
 > [!important] Ground rules for the Joni↔JT thread (obey before reading)
 > First read `CLAUDE.md` + `_System/Boundaries.md` and obey the interpretation tiers — **flag, don't assert.**
-> - **The ONLY grounded Joni↔JT fact is the co-write on "Soul Is A Star"** ([[Sources/Credits/33]]). Everything else is interpretive: `[W]` (≥2 anchors) or `[~]` (resonance).
+> - **The ONLY grounded Joni↔JT fact is the co-write on "Soul Is A Star"** ([[Sources/Credits/33]]). Everything else is interpretive: `[W]` (≥2 anchors) or `[~]` (resonance). **Now also Roy-stated in his own words** — *"JONI MITCHELL gave me her blessing and is a cowriter"* ([Discord, 2023-12-21](https://discord.com/channels/705391219915882516/709750776284708955/1187277878539337829)) — so the **co-write + blessing** are `[G]` (artist-stated), not only credit-inferred. *(Still open, do NOT assert: whether her **actual voice** is used.)*
 > - **`citable: false` files are LEADS, not facts** — mine them, cite the underlying source, never the dossier.
 > - **Open / contested — do NOT assert:** (a) whether "Soul Is A Star" uses Joni's *actual voice* (unverified); (b) whether *"caught in the devil's bargain"* is Joni's line or CSNY's (verify vs jonimitchell.com).
 > - Verify any lyric/quote against its source URL before quoting.
@@ -19,6 +19,7 @@ ingest_source: "Map-of-content / navigation note — not a source. Single entry 
 
 ## Citable (real sources + vault analysis)
 - [[Sources/Credits/33]] — **the co-write** (grounded Joni anchor) + the inherited-substrate / *Ladies of the Canyon* dialogue notes.
+- **Roy's spoken confirmation** — cowriter + **blessing** on *Soul Is A Star*, plus the **Egyptian Book of the Dead** title source, in one message: [Discord #the-circle, 2023-12-21](https://discord.com/channels/705391219915882516/709750776284708955/1187277878539337829) (cite the permalink; ingestion layer [[Sources/Transcripts/Discord-Roy-and-Michael-PUBLIC-2026-06-13]]). Grounded on [[Soul Is A Star]] §Grounded.
 - [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]] — full *Ladies of the Canyon* lyrics + the per-track **33-dialogue** table.
 - [[Sources/Reference/Joni Mitchell — source index]] — public press/reference articles (Guardian/Ann Powers, WBUR, EBSCO, jonimitchell.com Millennium interview; Pitchfork pending).
 - [[Essays/Concepts/Songs/Soul Is A Star]] — the Joni/Woodstock song-essay (read its **Verification Ledger** first).

@@ -25,6 +25,10 @@ review_date: 2026-11-15
 
 Track 4, *Lucius Lullaby* (2026). Single 2026-01-16. Writers: Tarpley, Dover, Kanner, R. English. Background vocals: Rachel Kanner. [?] Kanner = recurring Mary-voice marker.
 
+**Biographical grounding `[W]`:** the Circus's *"algorithm baby"* is lived, not abstract — grounded in Roy's documented gatekeeper fight (Warner/Atlantic drops; the *dumbledore* TikTok-virality ultimatum; the blockchain end-run): [[Sources/The Game/Gatekeeper Saga (dumbledore)]]. The parallel world he builds to route around it = [[The Realm]].
+
+**The meta-collapse `[W — strong]`:** as *welcome to the circus* actually broke out, Roy — in his own voice — conceded *"I guess Lucius was right again"* ([Discord, 2026-01-18](https://discord.com/channels/705391219915882516/709750776284708955/1462265751749525788), the same minute as *"It's actually wild what welcome to the circus is doing right now"* — [Discord](https://discord.com/channels/705391219915882516/709750776284708955/1462265719898243072)). In EP3 Lucius overrides Roy's *Song of Love* with the algorithmic hit; in reality the Circus song is the one succeeding — Roy **fuses the biographical and theatrical layers himself.** Bears directly on the open question *"protecting Roy, or training him to rule the Circus?"* (see [[Sir Lucius]] §Grounding).
+
 ## Voicing
 Voiced: [[Sir Lucius]] (Ringmaster / Speech Mode). Body: [[Roy]] (reluctant performer). Absent: Mary, Ballerina Boy. [W] Ballerina-Boy absence is structurally load-bearing, not incidental.
 

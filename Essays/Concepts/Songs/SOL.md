@@ -64,6 +64,9 @@ Both songs are organized around something surviving partial loss: father → ver
 
 **[P] — Jen's reading (the collapse):** the *true* Song of Love is this ancestral song — the father's one verse, the thing Roy borrows from Joni, the song handed down — and SOL is that song surfaced as **the breath beneath all the verses, what was always there before words.** Held as `[P]`: the songs are distinct, and the merge is the interpretive act, licensed because nothing public says Roy keeps them apart and he treats these as tools to weld. The defensible `[W]` underneath is the shared transmission; the identity stays Jen's position.
 
+> [!important] Joni firewall (grounded 2026-06-14)
+> Roy confirms Joni Mitchell as **blessed cowriter on *Soul Is A Star*** (Discord, [2023-12-21](https://discord.com/channels/705391219915882516/709750776284708955/1187277878539337829); see [[Soul Is A Star]] §Grounded). This grounding **stops at *Soul Is A Star*** — it does **not** extend to **SOL**: no credit, caption, or melodic match makes SOL Joni-grounded, and influence-bleed *forward* is explicitly blocked. SOL's reading — *the breath beneath all the verses* — is unchanged.
+
 **The latency motif** `[W]` is the organizing pattern, and it is broader and truer than a marketplace reading: *"songs you never heard"* → SOL nearly left off the record → overridden (EP2) → overridden (EP3) → resurfaces (EP7) → words removed (album). Everywhere the shape is **present-but-inaccessible** — dormancy, incubation, the seed in the ground (*"we fall down as seeds on the ground"*), not mere suppression.
 
 ---
@@ -121,7 +124,7 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 - **[?] Poem-guide short URL** — pin the public short so the poem lines move from `[G — URL pending]` to `[G]`. (Grounded as published; this is a citation-locator, not a trust question.)
 - **[?] Melodic trace** — does the wordless album SOL carry the EP2 *"Love is a question"* melody (a ghost-lyric), or is the vocalization unmoored from the sung line? (Needs ear.)
 - **[?] The "her" of the poem** — divine-feminine / Mary-class candidate, unverified within SOL's own context (and the father-thread is the better-grounded one here).
-- **[?] Joni interpolation nature** — melodic vs actual voice (bears on the *Soul Is A Star* transmission frame, indirectly on SOL's).
+- **[?] Joni interpolation nature** — melodic vs actual voice (bears on the *Soul Is A Star* transmission frame, indirectly on SOL's). *(Update 2026-06-14: Joni's **cowriter + blessing on *Soul Is A Star*** is now `[G]` — Roy-stated, [Discord 2023-12-21](https://discord.com/channels/705391219915882516/709750776284708955/1187277878539337829); firewalled from SOL per §transmission. The melodic-vs-voice question for SOL itself stays open.)*
 - **[P→?] Affective ending** — "gentle / fragile" needs Jen's ear before grounding.
 
 ---

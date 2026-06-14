@@ -17,6 +17,80 @@ review_date: 2026-11-16
 
 The mind divorced from the heart. Co-credited artist on [[Lucius Lullaby (album)]]; own streaming pages. [W] Reads as [[The Dweller on the Threshold]] for [[Roy]].
 
+## Grounding — Roy's stated doctrine (Discord, 2021–2026) [G]
+*Roy's own words in the server's **public** `#the-circle` (cite the **Discord permalink** as primary; ingestion layer: [[Sources/Transcripts/Discord-Roy-and-Michael-PUBLIC-2026-06-13]]). Each quote **verified verbatim against its permalink, 2026-06-14.** These move the **mind/shadow ontology from `[W]` (inferred) to `[G]` (artist-stated)**; the claim that the *songs* enact it stays `[W]`. Complements — does not replace — §"Only tells the truth…", §"Origin / timeline", and the three-register §"The nature of Lucius" (the protective-love register lives there; not flattened here).*
+
+**The definition, in Roy's voice [G] — grounds the opening line above:**
+> *"lucius is the mind. the mind is a tool, but that force can lead us astray if it is not subservient to the heart"*
+> — Roy, [Discord #the-circle, 2024-03-17](https://discord.com/channels/705391219915882516/709750776284708955/1218723095595061258)
+
+The single cleanest articulation of the *Lucius Lullaby* premise: "the mind divorced from the heart" is now **artist-stated, not only inferred.**
+
+**Integration = dis-identify, not defeat [G]:**
+> *"we need to see his shadow and then say  these thoughts are not my own. becuase what we fight we become, and we become what we fight"*
+> — Roy, [Discord, 2024-11-15](https://discord.com/channels/705391219915882516/709750776284708955/1307129793468305429)
+
+→ [W] you don't *beat* Lucius, you **dis-identify** — grounds the album's refusal-of-triumph / **integration-not-conquest** arc (converges with the Dion Fortune "integration, not elimination" thesis below).
+
+**The fullest Lucius psychology Roy has given [G — load-bearing]:**
+> *"with lucius anything is possible. theres a supreme confidence about him and hes fast. he doesnt care what anyone thinks and there a lot of power in that. hes not afraid to say anything even if it rubs people wrong. what scares me is that even tho he is only telling the truth, at least from his prspective, that truth can drag you to hell. becuase it is only the perspective of the mind. he can say youre a failure or they dont really love you and logically point to all the true reasons why, and then if you believe him, well you die. the you that is truly YOU dies. you cut yourself off from your soul if lucius leads."*
+> — Roy, [Discord, 2025-08-16](https://discord.com/channels/705391219915882516/709750776284708955/1406084272279781519)
+
+→ **The "true-but-soul-killing" receipt [W]:** Lucius's truth is *"only the perspective of the mind"* — the engine under the album's **truth-motif** ([[Brain/Songs/Lucius Lullaby (2026)/Bad Feeling (Oompa Loompa)|Bad Feeling]] + the title track; wire the exact lyrics from the truth-motif note). The **third primary** on the truth-deceiving doctrine, alongside the 2024 *"the truth can be deceiving 🍏"* post (§"Only tells the truth…") and the 2023 Good Time dream (§Origin).
+
+**Performance / embodiment [G] — Lucius is channeled, not played:**
+> *"i realized i cant act i just have to let him come through"*
+> — Roy, [Discord, 2025-08-16](https://discord.com/channels/705391219915882516/709750776284708955/1406081528240537620); and the same night, filming Lucius left Roy needing *"to be alone and recenter"* ([Discord, 2025-08-16](https://discord.com/channels/705391219915882516/709750776284708955/1406082216659910707)).
+
+Consistent with the Dweller-**appears-TO**-Roy framing (§Origin), not a designed persona.
+
+**First appearance, stated [G] — grounds §"Visual emergence":**
+> *"sir lucius first appeared in the video and artwork for good time 108"*
+> — Roy, [Discord, 2024-03-07](https://discord.com/channels/705391219915882516/709750776284708955/1215348105449578576)
+
+Roy himself dates the figure to **Good Time (1:08)** — the "mastermind → final boss" timeline is now his statement, not only iconographic inference.
+
+**Name — a documented etymological thread [G — research thread]:**
+> *"i looking into clues as well in a Rudolph Steiner rabbit hole with the Gospel of Luke"*
+> — Roy, [Discord, 2023-10-12](https://discord.com/channels/705391219915882516/709750776284708955/1161881485159190528)
+
+Lucius is not only Lucifer/light-bearer: Roy ties the name to **Luke / Loukas via Rudolf Steiner's *Gospel of Luke*** — a *documented* research thread (bears on Open Q "Dweller→guide (Steiner)"). *(Date corrected to **2023-10-12** against the permalink — the handoff's "2024-03-12" was a transcription slip; the research thus **predates** the Good Time 108 statement by ~5 months.)*
+
+**Iconography — Lucius = the Devil card (Tarot XV), via Paul Foster Case [G]:**
+> *"I'll point us towards the Paul Foster Case work on Tarot. The devil card is an interesting study. Showing a green apple. but its a kind of code."*
+> — Roy, [Discord, 2025-08-04](https://discord.com/channels/705391219915882516/709750776284708955/1401731548256141363)
+>
+> *"it is of note that Lucius' right eye is blocked by the green apple. His left eye is open looking at the viewer"*
+> — Roy, [Discord, 2025-08-04](https://discord.com/channels/705391219915882516/709750776284708955/1401734608076148879)
+
+→ Roots the green-apple mark + Devil-card read in the **BOTA / Western Mystery (Paul Foster Case)** lineage, not generic tarot — upgrades the §"truth can be deceiving" green-apple decode from `[W — pending pin]` toward a **named primary.** → [W] reading: right eye (solar/active) **occluded** by the apple, left eye (lunar/receptive) **open to the viewer** — cf. the El Roi throat-eye cluster (§below) and *"im just a mirror."*
+
+**The meta-collapse — biographical and theatrical layers fuse [W — strong]:**
+> *"I guess Lucius was right again"*
+> — Roy, [Discord, 2026-01-18](https://discord.com/channels/705391219915882516/709750776284708955/1462265751749525788), in the same minute as *"It's actually wild what welcome to the circus is doing right now"* ([Discord, 2026-01-18](https://discord.com/channels/705391219915882516/709750776284708955/1462265719898243072))
+
+→ In *The Interview* EP3 Lucius overrides Roy's *Song of Love* with the algorithmic hit; in **reality** *welcome to the circus* is the song breaking out, and Roy — in his own voice — concedes Lucius was strategically **right**. The artist **fuses the layers himself** → bears directly on Open Q *"Protecting Roy or training him to rule the Circus?"* and on [[Brain/Songs/Welcome to the Circus]].
+
+**Earliest shadow-voice, pre-name (2021) [G text · W reading]:**
+> *"You're never gunna make it / Spoke the Shadow to the Light / You're never gunna make it / Make it in this world alive"*
+> — Roy, in a long poem posted to `#creations`, [Discord, 2021-11-20](https://discord.com/channels/705391219915882516/709809067090116608/911723457807515648)
+
+The **Shadow addressing the Light** in Roy's verse — ~4½ years before the named figure; the 2021 precursor to Lucius's register.
+
+### Tiering (this section)
+| Claim | Tier |
+|---|---|
+| Lucius = the mind/intellect; tool that misleads if not subservient to the heart | **G (Roy-stated)** |
+| Integration = dis-identify, not defeat | **G** |
+| Lucius's truth is true-but-soul-killing ("the perspective of the mind") | **G** |
+| …grounds the album truth-motif decay | W |
+| Lucius channeled ("i cant act… let him come through") | **G** |
+| First appearance = Good Time (1:08) | **G** |
+| Name researched via Steiner's *Gospel of Luke* (2023-10-12) | **G (research thread)** |
+| Lucius = Devil card / Paul Foster Case; right-eye-green-apple key | **G (Roy-stated)** |
+| Right/left eye = occluded-solar / open-lunar | W |
+| "Lucius was right again" fuses biographical + theatrical | W (strong) |
+
 ## The shadow thesis, from a source Roy names [G]
 Roy quotes **Dion Fortune** by name on a public quote-card: *"The shadow is not evil. It is power unrecognized and therefore misused."* ([[Brain/Roy Voice/Roy on Influences]] §Dion Fortune). This is **the Lucius framework verbatim, from an author Roy actually cites** — shadow = misused power, *not* evil; the work is **integration, not elimination.** Grounds *"Lucius is not simply a villain"* directly (no longer only inferred). And because Fortune wrote *The Mystical Qabalah*, it grounds the **Kabbalah lineage by a named author.** Converges with his own X line *"Nothing is evil in the beginning"* (04-04) and the body-grounded [[Inversion]] engine (*"Fear = Prayer in Reverse"*, [[Sources/Artifacts/Roy - Tattoos (body inventory)]]).
 

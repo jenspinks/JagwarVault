@@ -30,6 +30,7 @@ hand-maintained thereafter.
 | `CONCEPT-TheAudience` | The Audience |  |
 | `CONCEPT-TheCircle` | The Circle | **keystone doctrine** — no beginning/end, song-hidden-within, remembrance, "inside of the inside"; [[Brain/Concepts/The Circle]]. Distinct from `SONG-TheCircle` (the *33* song) |
 | `CONCEPT-TheCircus` | The Circus |  |
+| `CONCEPT-TheRealm` | The Realm | the parallel world Roy builds to route around industry gatekeepers — ren-faire headlining, bardcore, Inner Circle, blockchain releases; the **escape hatch** from `CONCEPT-TheCircus` (blockade ↔ route-around); [[Brain/Concepts/The Realm]]. `[W]` reading, grounded in the gatekeeper saga |
 | `CONCEPT-TheDigitalDouble` | The Digital Double | the AI / digital-double thread — Roy's **real** digital entities (SARAVI, his named AI; the angelbaby AI-artist collab) + the **thematic** doubles (the clone-fear, Lucius-as-double); sibling to [[Brain/Concepts/The Upload]] (the *operation*) — this holds the *entities*; carries the SARAVI=Lucius? open question |
 | `CONCEPT-TheDwellerOnTheThreshold` | The Dweller on the Threshold |  |
 | `CONCEPT-TheLaborsOfHercules` | The Labors of Hercules |  |

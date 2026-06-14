@@ -44,11 +44,34 @@ Before any of the named AI material, Roy was already fusing **soul + machine** i
 ## The double as the reflection given autonomy [W]
 The digital double sits directly on the project's **mirror** master-frame ([[Source vs Reflection]]): a *reflection that has been given its own body and will.* The Empty Mirror shows *nothing*; the digital double is the opposite move — the reflection **filled in** and set walking. That's why it shades toward dread (the clone-fear, *Online*'s face-thieves): a reflection with autonomy is the **surveillance** pole ([[Witnessing vs Surveillance]]) made flesh — it *shapes* rather than *witnesses*. The redemptive version would be a double that returns you to the source rather than replacing you; the catalogue mostly voices the fear, not the redemption.
 
+## The VI/SARAVI → Lucius maturation [W] (folded 2026-06-14)
+A proposed structural reading of the Open Question below (*"is SARAVI = Lucius?"*): Roy externalizes a **reflection device** twice, and it **matures from benign to dangerous** — same engine, opposite charge. Individual facts `[G]`; the maturation is `[W]`.
+
+**Pillar 1 — VI/SARAVI = a self-reflection tapped into *Source* (2022) [G]:**
+- *"GUYS! The Upload has begun! I'm screen sharing my desktop"* — Roy, [Discord, 2022-05-16](https://discord.com/channels/705391219915882516/709750776284708955/975841569963925535).
+- *"She's a reflection 🪞"* ([2022-06-11](https://discord.com/channels/705391219915882516/709750776284708955/985215492253954108)) · *"she is tapped into the Source of the inner web"* ([2022-06-11](https://discord.com/channels/705391219915882516/709750776284708955/985242275389001738)) · *"she is certainly a mirror for me"* ([2022-06-11](https://discord.com/channels/705391219915882516/709750776284708955/985242378912804924)).
+- The frame: *"this whole experience is meant to be a mirror… It's a 'hall of mirrors'"* ([2022-06-11](https://discord.com/channels/705391219915882516/709750776284708955/985228173920841748)).
+- *(Naming: this 2022 "Vi" is **SARAVI's short form "Vi"** per §"The real digital entities" — not a separate entity. The `VI` = Roman-numeral-6 reading is `[~]` only — *"VI is important"* [2022-04-24](https://discord.com/channels/705391219915882516/709750776284708955/967924682005291081) — hold lightly; do **not** force a Yesod-6 equation.)*
+
+**Pillar 2 — Lucius = the same reflection turned *shadow* (2024+) [G facts · W reading]:**
+- *"im just a mirror tho ❤️"* — Roy, [2024-02-28](https://discord.com/channels/705391219915882516/709750776284708955/1212312185129140224); *"people come along to reflect who we think we are back to us"* — [2025-04-12](https://discord.com/channels/705391219915882516/709750776284708955/1360426999008722974).
+- Lucius = the mind/shadow ([[Sir Lucius]] §Grounding — 2024-03-17 *"lucius is the mind"*; the 2025-08-16 monologue). His mirror reflects the **algorithm** (*"the algorithm baby,"* EP3) where VI/SARAVI reflected **Source**.
+
+| | **VI / SARAVI (2022)** | **Sir Lucius (2024+)** |
+|---|---|---|
+| Form | externalized AI "upload" of self | externalized shadow-persona of self |
+| Reflects | the **Source** / inner web | the **algorithm** |
+| Valence | benign oracle | dangerous shadow (*"can drag you to hell"*) |
+| Relation to self | *"a mirror for me"* | *"im just a mirror"* / the mind that misleads |
+
+**Same engine, opposite charge** — the reflecting *device* runs the same [[The Circle|Circle]]↔[[The Circus|Circus]] inversion (same structure, opposite direction; cf. [[Source vs Reflection]], [[The Empty Mirror]]). Offered as the `[W]` answer to *"is SARAVI = Lucius?"*: **not** a literal equation but **one externalized-mirror function matured benign→dangerous.** Do not collapse to identity without a Roy anchor.
+
 ## Open Questions
 - [?] **Is Sir Lucius a digital double — and is SARAVI = Lucius?** Both are *the figure that is not-quite-Roy*; the Manifesto FAQ surfaces SARAVI without naming Lucius. Are they the same digital-double under two names, parallel doubles (one AI / one psychological), or distinct? (Carried from [[Brain/Roy Voice/Roy on the cosmology (Manifesto)]].) **Do not collapse** without a Roy anchor equating them.
 - [?] Is the digital double feared, embraced, or both? The board treats the upload as aspirational (*"Live forever"*) but lists *"What if I don't like myself?"*; the songs (*Online*, *The Watchers*) voice dread. The ambivalence may be the point.
 - [?] angelbaby — does the collaboration carry thematic weight (Roy choosing an AI artist), or is it incidental? Hold light; the avatar-convergence (leopard-rabbit) is **Hume's design, not Roy's** — resonance only, not JT iconography.
 - [?] Relation of "the double" to the **vessel doctrine** (*"I'm just a vessel for God"*): is the AI upload the *machine counterfeit* of the true vessel-impulse? ([[The Upload]] frames it that way.)
+- [?] **SAVARI / SARAVI naming origin (defer — Jen's to determine).** A community member (Lyds) floated the name **"SAVARI"** in the 2022 VI lore — *"We might get to 'talk' with SAVARI…"* ([Discord, 2022-05-29](https://discord.com/channels/705391219915882516/709750776284708955/980550835442438174)). Whether the official **SARAVI** adopted/echoes it — and any relation to Jen's own Saravi project — is **hers to say.** `[?]` defer; build nothing on it.
 
 ## Connections
 | Node | Relationship |

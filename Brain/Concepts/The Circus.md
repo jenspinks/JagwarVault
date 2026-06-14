@@ -27,6 +27,8 @@ The Circus is not simply external — the song opens *"every day is a circus all
 
 Structurally, the Circus is [[The Circle]] inverted. Same recursive motion; opposite direction and outcome. Where the Circle returns the self to source, the Circus spins the self into fragmentation. Where the Circle says *"the inside of the inside must be where you go,"* the Circus says *"there's no exit sign in my maze."*
 
+**Biographical grounding `[W]`:** the Circus's *"algorithm baby"* is not abstract — it's grounded in Roy's **documented gatekeeper fight** (Warner/Atlantic drops; the *dumbledore* TikTok-virality ultimatum; the blockchain end-run, 2023–2025). See [[Sources/The Game/Gatekeeper Saga (dumbledore)]]; the parallel world he builds to route around it is [[The Realm]]. The Circus is *lived*, not only symbolic.
+
 ---
 
 ## Historical / Cultural Resonance
