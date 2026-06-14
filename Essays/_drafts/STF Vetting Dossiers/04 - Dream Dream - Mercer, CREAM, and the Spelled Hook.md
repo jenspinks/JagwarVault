@@ -8,6 +8,15 @@ about: "Vetting dossier 04 — Dream / Dream (track 2): the credited Mercer inte
 ---
 # Dossier 04 — "Dream / Dream": Mercer, C.R.E.A.M., and the Spelled Hook
 
+> **✅ VETTED — verdict in (2026-06-14).** An external reviewer returned a full tier audit. Outcome:
+> - **A (Mercer) survives and is the real finding** — keep central. Sharpened thesis adopted: *"Roy keeps Mercer's dream-imperative but changes its social posture — from private inward consolation to voiced communal invitation"* (the "out loud" + "Rise up" + "dream that dream with me" lines). **Folded to canon** (Essays/Concepts/Songs/Dream - Dream §8, [W]).
+> - **B (C.R.E.A.M.) does NOT survive** — orthographic/conceptual pattern-matching with no credit, no Roy statement, no cadence match, and likely unhearable ("D-R-E-A-M" sung as letter-names in a bright anthem cadence, not the word rhyming with "cream"). **Demoted to rejected/speculative resonance**; kept OUT of canon so it can't launder the Mercer reading. Ear-check would need ≥2–3 cadence/stress/production matches to revive even at [~]; reviewer assessed it "probably weakens B."
+> - **Three-currency series (cash/attention/dream rules):** cut to [P] — analyst architecture, not song evidence. Not folded.
+> - **Spelling device:** kept at [~]/[W-lite], reframed as **pedagogical** (taught → chanted → commanded to inhabit), tied to the album's repetition/reprogramming method, NOT to "nursery substrate." **Folded to canon.**
+> - Minor tier moves accepted: Mercer "might"→"are coming true" = [~] (resonance, not finding); "seem"→Lucius destabilization = [~]/[W-lite]; Vaughan credit stays [?].
+>
+> *The dossier text below is the version sent for review, preserved as-is.*
+
 **What to vet.** Two layers on track 2. **(A)** The *grounded* interpolation work: how the song transforms **Johnny Mercer's "Dream" (1944)** — solid, on-page, [G]/[W]. **(B)** The *pass's single most speculative item*: that the spelled hook **D-R-E-A-M** echoes Wu-Tang Clan's **C.R.E.A.M.** — offered deliberately as a leap held at **[~]**. **Please attack (B) hardest** — and tell me if the ear-check should kill it.
 
 ---
