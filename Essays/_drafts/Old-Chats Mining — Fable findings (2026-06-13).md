@@ -54,7 +54,7 @@ Vault has *The Law of One* (2020 IG) + [[The Upload]], but maybe not the **polar
 - **`PuppetMaster`** (unreleased) surfaced with a strong idea — the **two-strings** inversion (divine "Sutratman" thread *you hold* vs the artificial **puppet string** that holds *you*; and the twist that Lucius wants to *sever* the puppet string, not work it). **Flagged private; NOT developed.** It can inform [[The Thread]]/[[Sir Lucius]] silently but cannot ground a public claim until there's a public source.
 
 ## VERIFY-QUEUE (carry forward)
-1. **Feb 2 2022 "No thing ever creates another thing"** + **Sept 20 2022 "no point"** — confirm as real Roy posts (2022 X sweep). Gate F1's [G].
-2. **Sutratman** → primary (Blavatsky/Theosophy) as a source for [[The Thread]].
-3. **"The Law" diagram** — does the Induction/Conduction/Zero-Point artifact exist publicly?
-4. Spot-check F5 anchors against existing song pages.
+1. ~~**Feb 2 2022 "No thing ever creates another thing"** + **Sept 20 2022 "no point"**~~ — **VERIFIED & GROUNDED 2026-06-13.** Both confirmed real @JagwarTwin posts (live X capture, permalinks in [[Sources/Quotes/Roy X Posts - 2022 (No-Thing anchors)]]); F1's cosmogonic pole on [[The Empty Mirror]] is now `[G]`. *(Validates the old-chats finding-aid on these two.)* **Whole-2022 sweep still a gap** — separate task.
+2. ~~**Sutratman** → primary~~ — **FOLDED 2026-06-13** as a `[~]` source-lead on [[The Thread]] (verify against Blavatsky's *Secret Doctrine* before grounding past `[~]`).
+3. ~~**"The Law" diagram**~~ — **CROSS-REFERENCED 2026-06-13** into the existing `[?]` open question in [[Essays/Concepts/Songs/Superhuman]] (induction/conduction = Walter Russell vocab; `citable:false` lead — still needs Roy's actual diagram to ground).
+4. ~~Spot-check F5 anchors~~ — **DONE:** all already filed (SideQuest "Baldur's Gate," dumbledore "eyes wide shut," It's Your Time forgetting; Jericho→sing-back already in the Loser essay + STF Deep Dive F2).

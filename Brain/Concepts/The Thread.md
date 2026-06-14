@@ -53,6 +53,8 @@ The Circus's primary operational function may be the severing of the thread. Not
 
 These are likely not different threads — they are the *same thing* described at different scales and in different vocabularies.
 
+**[~] Possible esoteric lineage — the Sutratman.** *"The world tied on a string"* has a precise antecedent in **Theosophy: the *Sūtrātman*** (Sanskrit *sūtra* "thread" + *ātman* "self") — the **"thread-self,"** the silver cord on which the soul's successive lives are strung like beads, binding the individual self to its divine source (Blavatsky, *The Secret Doctrine*). A clean **source-candidate** for the Thread's lineage — the way Bailey grounds [[The Labors of Hercules|Hercules]] — and Roy's influence-set runs Theosophy-adjacent (Bailey is Theosophy-lineage; Blavatsky is named in the old-chats finding-aid). **Verify against the primary (Blavatsky) before grounding.** Surfaced 2026-06-13 via [[Old-Chats Mining — Fable findings (2026-06-13)]] (`citable:false` lead). `[~]` — a tradition-correspondence / source-candidate, **not** a claim Roy invokes it by name.
+
 ---
 
 ## In the Project

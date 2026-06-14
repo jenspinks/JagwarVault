@@ -36,12 +36,12 @@ The same nothing at the scale of **identity.** Twice in one Mirror Session Roy r
 
 ## No thing *creates* — the cosmogonic pole, and the davar capstone `[W]` / `[?]`
 The third face of the nothing: not absence but **the void that generates.**
-- **`[?]` verify-pending:** an early aphorism reported only in the old-chats finding-aid (`citable:false`) — **"No thing ever creates another thing"** (attributed Feb 2 2022). A near-koan of creation *ex nihilo*. **Not yet grounded** — confirm against the 2022 X archive (not yet ingested) before it rises above `[?]`.
+- **`[G]` grounded (2026-06-13):** **"No thing ever creates another thing"** — @JagwarTwin, **Feb 2 2022** (verified live on X: `x.com/JagwarTwin/status/1489048402079850498`; [[Sources/Quotes/Roy X Posts - 2022 (No-Thing anchors)]]). A near-koan of creation *ex nihilo* — the cosmogonic No-Thing stated as aphorism, four years before the *davar* capstone.
 - **`[G]` solve / `[W]` reading — the capstone:** the MAGIK ARG's fourth and final drop resolved to **`davar`** (Hebrew דָּבָר, the Word *and* the thing; [[Sources/Quotes/JT MAGIK ARG - middle-of-the-maze (you are it) 2025-05]]). Its negation **lo davar** ("no-thing") was the live wildcard in the solve. So the four-drop theology — *you are it → heart → alcyone → **davar*** — lands on **the Word that creates from No-Thing**: the kenotic/source emptiness made *generative*. Creation-by-word routes straight to [[The Voice]] / [[The Mouth]] / Sefer-Yetzirah.
-- **The bridge:** *"No thing ever creates another thing"* (2022) ↔ *davar* (2025–26) is the **same doctrine opened from both ends** — the empty that transmits is also the empty that *creates*. (Held `[W]`; the 2022 end is `[?]` until verified.)
+- **The bridge:** *"No thing ever creates another thing"* (2022) ↔ *davar* (2025–26) is the **same doctrine opened from both ends** — the empty that transmits is also the empty that *creates*. (Held `[W]`; the 2022 end now **`[G]`** — verified 2026-06-13.)
 
 ## Open Questions
-- [ ] **Verify the 2022 anchors** (*"No thing ever creates another thing"*, Feb 2 2022; *"there is no point"*, Sept 20 2022) as real Roy posts when the 2022 X sweep runs — they would firm the cosmogonic pole from `[?]` to `[G]`.
+- [x] **2022 anchors VERIFIED (2026-06-13)** — both confirmed real @JagwarTwin posts, exact wording + dates ([[Sources/Quotes/Roy X Posts - 2022 (No-Thing anchors)]]): *"No thing ever creates another thing"* (Feb 2 2022) + *"What is the point? There is no point"* (Sep 20 2022). The cosmogonic pole is now `[G]`.
 - [~] *Lucius's* nothing: *"the truth will set you free but nothing's, nothing's what it seems"* ([[Lucius Lullaby]], verified lyric) is a **third sense** — epistemic *nothing-is-as-it-appears* (Maya/illusion), Lucius's register. Is it the reflection-pole's epistemic face (the hollow mirror *says* nothing's real), or a distinct illusion-axis to track separately?
 - [ ] Does the catalogue carry a *visual* of the clean-glass/transmitting mirror (vs the blank/hollow one)? That image would be the kenotic pole made concrete.
 
