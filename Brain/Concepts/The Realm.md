@@ -11,6 +11,7 @@ connections:
   strong_read: [CONCEPT-TheCircle, SONG-WelcomeToTheCircus, CHAR-SirLucius]
   resonance:   []
 review_date: 2026-12-14
+referenced_by: []
 ---
 # The Realm
 
