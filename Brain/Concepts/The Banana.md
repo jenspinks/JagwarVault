@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-Bananas, CHAR-SirLucius]
   strong_read: [CHAR-Mary, CONCEPT-TheCircle, CONCEPT-Consumption, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
   resonance:   [CONCEPT-TheLoop]
-referenced_by: [SONG-Bananas]
+referenced_by: [CONCEPT-TheEmptyMirror, SONG-Bananas]
 review_date: 2026-12-07
 ---
 # The Banana

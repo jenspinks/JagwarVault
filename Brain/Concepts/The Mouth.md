@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
   strong_read: [CHAR-Roy, SONG-BALLERINABOY, SONG-SOL, CONCEPT-TheVoice]
   resonance:   [CONCEPT-Consumption, CONCEPT-TheAlgorithm]
-referenced_by: [CONCEPT-Consumption, CONCEPT-TheAngleAngel, CONCEPT-TheThread, CONCEPT-TheVoice, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-Consumption, CONCEPT-TheAngleAngel, CONCEPT-TheEmptyMirror, CONCEPT-TheThread, CONCEPT-TheVoice, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # The Mouth / The Voice
