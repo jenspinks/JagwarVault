@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, CHAR-JagwarTwin, ALBUM-SubjectToFlooding, ALBUM-33, SONG-LuciusLullaby]
   strong_read: [CHAR-Mary, CHAR-BallerinaBoy, SONG-SOL, CONCEPT-TheDwellerOnTheThreshold]
   resonance:   [CONCEPT-Tiferet, CONCEPT-Yesod, CONCEPT-Malkhut, CONCEPT-TheAngleAngel]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, CONCEPT-TheAngleAngel, CONCEPT-TheAudience, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-ThePattern, CONCEPT-TheVeil, CONCEPT-TheVoice, SONG-1ChampionLaConquistadora, SONG-BALLERINABOY, SONG-DreamDream, SONG-GoodDay, SONG-HellOfANightPt2TheHallelujahStickup, SONG-LongTimeComing, SONG-Loser, SONG-LuciusLullaby, SONG-NoFakeFriends, SONG-NotYourHomie, SONG-Online, SONG-TheCircleLuciusVersion, SONG-TheWatchers, SONG-Weirdness, SONG-WelcomeToTheCircus]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-Nigredo, CONCEPT-TheAngleAngel, CONCEPT-TheAudience, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-ThePattern, CONCEPT-TheVeil, CONCEPT-TheVoice, SONG-1ChampionLaConquistadora, SONG-AllMyFriends, SONG-BALLERINABOY, SONG-DreamDream, SONG-GoodDay, SONG-HellOfANight, SONG-HellOfANightPt2TheHallelujahStickup, SONG-LongTimeComing, SONG-Loser, SONG-LuciusLullaby, SONG-NoFakeFriends, SONG-NotYourHomie, SONG-Online, SONG-PreciousTime, SONG-Shine, SONG-TheCircleLuciusVersion, SONG-TheWatchers, SONG-Weirdness, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Roy
@@ -26,14 +26,14 @@ Bands → solo 2015 → Jagwar Twin 2018. Dropped by major label; breakup; lost 
 - **The industry de-program / independent turn:** for years he chased *"the biggest producers, label, agent, lawyer — industry gatekeepers,"* deciding by external validation; *"it never worked out."* Going independent with friends (manager **Joshua**, a 15-yr friend / ex-drummer) *"only recently has led to more success… to an insane degree, than a record label trying to put me into a system"* ([[Sources/Transcripts/MB-Conversation-Jagwar-Twin (Mental Health, Cancel Culture)|MB]]). The public "deprogram" turn.
 
 ## Stated about the work (none)
-Studies [[Kabbalah]]. Writes "Hebrew style": consonants=structure (angles), vowels=breath/God (angels) — [P] the [[The Thread|thread]] cluster. Some songs come "beyond his intelligence." [[SOL]] = most connected to. [[The Circle|Circle]] at the heart of all.
+Studies [[Kabbalah]] (public engagement [G]: 2019 Hebrew-language post; Kabbalah on the "I'm 33" board). The **consonants=angles / vowels=breath** letter-mysticism is [~] tradition-correspondence ([[The Angels and the Angles]]), **not** his stated method — no public JT source frames it as his framework. Some songs come "beyond his intelligence." [[SOL]] = most connected to. [[The Circle|Circle]] at the heart of all.
 
 ## Lyric anchors (none — lyrics)
 *"I changed my name"* ([[Essays/Concepts/Songs/Weirdness]], V2) — strongest explicit lyric anchor for Roy English → Jagwar Twin as intentional identity transformation, not just rebranding. *"When I was just a young one, I danced in the rain / Life was a joke, a fun one"* ([[Essays/Concepts/Songs/Weirdness]], V1) — childhood pre-shame freedom maps to [[Essays/Concepts/Songs/Ballerina Boy]] wound.
 
 ## Relationships
 - [[Sir Lucius]] — "I made you." Mind divorced from heart; Lucius pulled him from bottom.
-- [[Mary]] — appears 2× in Lucius Lullaby, face hidden; absent from earlier confirmed catalogue.
+- [[Mary]] — the divine-feminine voice; grounded faceless appearances are [[#1 Champion (la Conquistadora)]], [[Essays/Concepts/Songs/Ballerina Boy|Ballerina Boy]], [[Essays/Concepts/Songs/Weirdness|Weirdness]]. *(Corrected 2026-06-06: the Lucius Lullaby "set you free / magic mirror" savior-voice is **Lucius counterfeiting** the Mary/rescue function, not Mary — see [[Brain/Songs/Lucius Lullaby]].)*
 - [W] Iconography: many mirrored tattoos incl. The Empty Mirror, +/Christ, ROSE/ESOR, Power of Three (///).
 
 ## Self-naming & fragmentation (none — IG Live ~2026-05-23)

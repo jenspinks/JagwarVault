@@ -14,7 +14,7 @@ related: [CHAR-SirLucius, CHAR-Roy, SONG-LuciusLullaby, SONG-SOL, CONCEPT-TheCir
 - **Label:** Big Loud Rock, under exclusive license to Mercury Records (UMG)
 - **Length:** 15 tracks, ~36 minutes
 - **Official tagline:** "Twisted takes on adolescent musical themes for hands that rock the cradle."
-- **Strategic authorship:** [[Sir Lucius]]. The album-as-object is Lucius's production. Individual tracks are voiced by Lucius, [[Roy]], [[Mary]], or combinations.
+- **Strategic authorship:** [[Sir Lucius]]. The album-as-object is Lucius's production. Individual tracks are voiced by Lucius, [[Roy]], or combinations. *(A distinct [[Mary]]-voice on any track is `[?]` — no casting/credit source confirms one; the credited female vocalists are real collaborators.)*
 - **Not on this album:** [[LOOP]] is a [[Roy]] song released as a single, not a track here.
 
 ---

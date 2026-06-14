@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, CHAR-BallerinaBoy]
   strong_read: [CHAR-SirLucius, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMask, SONG-HappyFace, SONG-NotYourHomie, SONG-Weirdness, SONG-TheCircle, CONCEPT-TheThread, CHAR-Mary, SONG-SOL]
   resonance:   [CONCEPT-Malkhut, CONCEPT-Yesod, CONCEPT-Tiferet, CONCEPT-TheMoon, SONG-SoulIsAStar, SONG-AnotherWayIIHeaven]
-referenced_by: [CHAR-Mary, CONCEPT-Nigredo, CONCEPT-TheMouth, CONCEPT-TheVoice, SONG-1ChampionLaConquistadora, SONG-DreamDream, SONG-LongTimeComing, SONG-Weirdness]
+referenced_by: [CHAR-Mary, CONCEPT-Nigredo, CONCEPT-TheMouth, CONCEPT-TheVoice, SONG-1ChampionLaConquistadora, SONG-AllMyFriends, SONG-DreamDream, SONG-LongTimeComing, SONG-Shine, SONG-Weirdness]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: orbit
@@ -43,7 +43,7 @@ Age 7, Christian school, ballet, "came alive on that stage." Teacher → dad: "w
 - **Roster note (decision, Jen 2026-06-08): "Brandon" collapses into Ballerina Boy.** A prior context-doc distinguished *Brandon* (the pre-persona human, Roy's birth name) as a substrate *beneath* Ballerina Boy. **Held as one for now:** Ballerina Boy = origin/light **subsumes** that pre-persona human layer. Split Brandon off only if he later proves to carry a distinct, larger role. Keeps the interior roster minimal (Roy / Lucius / Ballerina Boy). See [[Essays/_drafts/Prior Analysis — Triage, Flags & Expansion]] Part 4.
 
 ## Divine-feminine voice (cross-cutting — track on [[Mary]])
-Faceless feminine blessing voice recurs: here (moon line, verify), [[Essays/Concepts/Songs/Weirdness]] ("angel baby… face out of sight… you were born to shine"), [[#1 Champion (la Conquistadora)]] (Mary named), [[Brain/Songs/Lucius Lullaby]] (Mary ×2, face hidden). [W] likely all [[Mary]]-class.
+Faceless feminine blessing voice recurs: here (moon line, verify), [[Essays/Concepts/Songs/Weirdness]] ("angel baby… face out of sight… you were born to shine"), [[#1 Champion (la Conquistadora)]] (Mary named). [W] likely all [[Mary]]-class. *(NOT Lucius Lullaby — the "set you free / magic mirror" voice there is Lucius **counterfeiting** the Mary-function, corrected 2026-06-06.)*
 
 ## Open Questions (verification debts)
 - [x] ~~Moon line = female voice~~ **CONFIRMED (none — Jen, audio):** the whole spoken outro is an older *motherly* female voice → divine-feminine / [[Mary]]-class. The clearest Mary-voice appearance in the catalogue.

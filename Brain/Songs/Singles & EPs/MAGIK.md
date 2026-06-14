@@ -2,7 +2,7 @@
 id: SONG-MAGIK
 type: song
 status: draft
-referenced_by: []
+referenced_by: [SONG-Shine]
 ---
 # MAGIK EP
 

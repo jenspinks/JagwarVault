@@ -207,6 +207,7 @@ Specific posts referenced in vault pages should be cited with date, platform, an
 | 2026-05-28 | Instagram / @jagwartwin | Bailey *Labour VII* annotated page (story) | grounds Roy's Bailey engagement | [[Sources/Quotes/Roy IG Story - Bailey Labour VII]] |
 | ~2026-06-07 | Instagram / @jagwartwin (story) | Jung CW vol. 18 page, set to *The Watchers* | **promotes Jung → named influence**; *signs-vs-symbols* method; Ezekiel/Horus/tetramorph cluster → [[Brain/Songs/Singles & EPs/The Watchers\|The Watchers]] | [[Sources/Quotes/Roy IG Story - Jung Signs vs Symbols (The Watchers)]] |
 | — | X / @jagwartwin | "Everyone's a guru" (aquarium) | humility-pole of the guru line | [[Sources/Quotes/Roy X Post - Everyone's a Guru (Aquarium)]] |
+| ~2026-06-10 | Instagram / @jagwartwin | *bounce (Live Underground)* reel (DZacos7NpKt) | **First public footage-artifact of the May-17 BMRC underground event**; title card prints a **Sefer Yetzirah Beth passage** → public letter-mysticism anchor ON the work (the `[P]` consonant/vowel-method guard holds); "life is short" card-motto; caption *"Who's coming to the next one?"* | [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]] |
 
 ---
 
@@ -232,6 +233,7 @@ External work that engages with the Jagwar Twin material analytically. Citable a
 **LLM research dossiers (`citable: false` finding aids — trace to the primaries they name, never cite the dossier):**
 - [[Sources/Reference/Subject to Flooding — context & sources (research dossier)]] (2026-06-05) — context/sources/reassessment of the debut; independently corroborates [[Sources/Credits/Subject to Flooding]]; maps the Essex / Sarah-Vaughan-source / collaborator-interview open items. Artifact: `claude.ai/public/artifacts/fd468b9e-886f-40af-9985-ef1dfebddeeb`.
 - [[Sources/Reference/Joni Mitchell — JT-relevant analysis (research dossiers)]] · [[Sources/Reference/Roy's Stated Influences (research dossier)]]
+- [[Sources/Reference/Bailey - Labours of Hercules (AI research dossier, citable-false finding-aid)]] (2026-06-11) — Jen-commissioned scholarly Bailey dossier: verbatim keynote *leads* (✅/⚠ = the artifact's self-report, **not** our verification), the wheel-reversal (Loop/Circle) doctrine, the three Crosses, glamour→Dweller, Virgo-as-failure, the Pisces "turning-back-to-save" anchor. **Trace to the verbatim file** [[Sources/Reference/Bailey - The Labours of Hercules (reference)]] before grounding. Artifact: `claude.ai/public/artifacts/509a9ff3-7a1a-4abe-b7de-ababb69f4e88`.
 - ***"The Inside of the Inside"* (NotebookLM)** — AI Audio-Overview + grounded notes on the JT material; **cites its sources** (so a good finding-aid). `citable: false` — **trace its primaries; confirm the upload set is public before grounding** (its AI-host interpretation is not authorial). **Transcript** (Jen, 2026-06-09): `docs.google.com/document/d/13wl2lYdyY5SGsBJiW2VnvUdVjgYahjQAa3CXrk_NGrw` — *reference-library link, not a citation; not folded into canon.* **OPEN before mining:** confirm the **uploaded source-set** (public vs vault / Secret-Doc / private — determines whether its citations are citable or circular).
 
 (Add further entries as identified.)

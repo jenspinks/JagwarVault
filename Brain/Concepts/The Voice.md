@@ -35,7 +35,7 @@ The resolution of this tension — the reappearance of authentic voice — is th
 - [[SOL]] — the Song of Love; possibly the voice fully integrated; the song Lucius cannot absorb
 - [[Happy Face]] — *"say you're good, say you're fine"* — the instructed voice, authentic speech suppressed
 - [[I Like to Party]] — the mouth stuffed with cake from outside; the voice physically prevented from forming
-- Roy's publicly stated writing philosophy — *"nonsense is the only sense that makes sense"* — the voice that bypasses the conscious suppression by arriving before structure can edit it; vowels first, consonants (control) second
+- The vowel-first register — *"nonsense is the only sense that makes sense"* — the voice that bypasses conscious suppression by arriving before structure can edit it; vowels first, consonants (control) second. *(The "nonsense"/letter-mysticism framing is [~] tradition-correspondence, [[The Angels and the Angles]] — not a publicly-sourced Roy method; see [[The Mouth]].)*
 
 ---
 
@@ -46,7 +46,7 @@ The resolution of this tension — the reappearance of authentic voice — is th
 - **Cassandra** (Greek myth) — the prophet who speaks truth and is condemned to be unbelieved; authentic voice rendered socially inaudible
 - **The dark night of the soul** (St. John of the Cross, 16th century) — the period when prayer fails, the tongue is silenced, the traditional consolations disappear; authentic communication with the divine apparently impossible
 - **Isaiah 53:7** — *"He was oppressed and afflicted, yet he opened not his mouth; he was led as a lamb to the slaughter"* — voluntary silence as spiritual power; silence as the deepest voice
-- **The Hebrew writing system** — vowels omitted from the consonantal text (*consonants = structure = angles; vowels = spirit = angels*), the reader supplies the animating breath; the text is silent without the reader's voice. The dead letters need the living vowel. Roy's publicly stated writing philosophy encodes this: the song arrives as vowel-nonsense and the consonants form around it.
+- **The Hebrew writing system** — vowels omitted from the consonantal text (*consonants = structure = angles; vowels = spirit = angels*), the reader supplies the animating breath; the text is silent without the reader's voice. The dead letters need the living vowel. This letter-mysticism ([~] tradition, [[The Angels and the Angles]]) reads the song as arriving vowel-first, the consonants forming around it.
 
 ---
 
@@ -81,7 +81,7 @@ The project seems to be moving toward *chosen silence* (the voice that speaks wh
 ## Open Questions
 
 - [ ] Is Roy's authentic voice recoverable after the Lucius-overlay? Or has the Circus-voice become the only voice available?
-- [ ] *"Nonsense is the only sense that makes sense"* — Roy's public writing philosophy suggests the authentic voice arrives *before* conscious control can suppress it. Is this the way back to the voice — not through the controlled mouth but through the pre-conscious one?
+- [ ] The "nonsense before structure" idea ([~] letter-mysticism, not a sourced Roy method — [[The Angels and the Angles]]) suggests the authentic voice arrives *before* conscious control can suppress it. Is this the way back to the voice — not through the controlled mouth but through the pre-conscious one?
 - [ ] If the vowels are the angels and the consonants are the angles — and the voice is the meeting of vowel and consonant — then *"teeth falling out"* (angles gone) and *"screaming with no words"* (angles gone) both describe a voice of pure vowel, pure spirit with no structure. Is this a failure state, or is it the voice at its most raw?
 - [ ] Is [[Essays/Concepts/Songs/Ballerina Boy]] the answer? The voice that can't perform for the algorithm but might be the most authentic in the catalogue?
 

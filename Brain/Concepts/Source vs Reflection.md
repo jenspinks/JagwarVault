@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-SubjectToFlooding, SONG-SuperhumanInterlude]
   strong_read: [CONCEPT-MachineVsHuman, CONCEPT-TheCircle, CONCEPT-WitnessingVsSurveillance]
   resonance:   [CONCEPT-Yesod, CONCEPT-TheMirror, CONCEPT-TheMoon, CONCEPT-ThePattern]
-referenced_by: [ALBUM-33, CONCEPT-CommunionVsSpectacle, CONCEPT-TheDigitalDouble, CONCEPT-TheJaguar, CONCEPT-ThePattern, CONCEPT-TheUpload, SONG-CityOfAngels, SONG-LuciusLullaby, SONG-TheCircleLuciusVersion, SONG-TheWatchers]
+referenced_by: [ALBUM-33, CONCEPT-CommunionVsSpectacle, CONCEPT-TheDigitalDouble, CONCEPT-TheJaguar, CONCEPT-ThePattern, CONCEPT-TheUpload, SONG-CityOfAngels, SONG-LuciusLullaby, SONG-Shine, SONG-TheCircleLuciusVersion, SONG-TheWatchers]
 review_date: 2026-12-05
 ---
 # Source vs Reflection
@@ -30,6 +30,14 @@ A reflection can do one of two things:
 - **Substitute** — stand in for the source until you mistake the image for the thing, and *trap* you.
 
 **The binary is not "source good / reflection bad."** Reflection is unavoidable and often the only available guide (the album's inherited voices are reflected light that still leads). The danger is never reflection itself — it is **forgetting that a reflection is reflected.** That single forgetting is the failure the whole catalogue circles.
+
+---
+
+## The grammar — an I↔you machine `[G]` count / `[W]` reading
+
+The frame isn't only imagery — it's in the **word-count.** Across the **45 sung lyric sources** (~**13,122 words**; voice-memo excluded, [[SOL]] contributes none — it's wordless), the single most-used word is **"I" — 492**, narrowly beating **"the" (485)** and **"you" (478)**. The *ordering* is the tell: in most catalogues *"the"* wins this contest easily; here the **first person edges out the definite article, with the second person right behind.** Clustered it's starker — the **I-cluster** (I, I'm, my, me) ≈ **912**, the **you-cluster** (you, your) ≈ **635**: together **~12% of every word sung.**
+
+**The reading:** the catalogue is, grammatically, an **I↔you machine.** For a project built on the **Speaker Problem** and the mirror doctrine (*"I just want to be a mirror"* — [[Roy on Mirrors & Collective Consciousness]]), that's the master-frame hiding in the arithmetic: **the mirror isn't just an image in the songs — it's the grammar of them.** The I-facing-you *is* the source-and-reflection axis enacted at the level of pronouns, and it's the closest thing to a **`[G]` empirical footing** beneath a meta-frame this page otherwise holds at `[W]`. *(Count: Jen, 2026-06-13 — lyric bodies only, frontmatter/section-labels stripped, lowercased; re-derivable from [[Sources/Lyrics]].)*
 
 ---
 

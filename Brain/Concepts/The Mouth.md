@@ -61,7 +61,7 @@ There are two modes of mouth in the project: **the mouth that testifies** (Roy's
 - "I'll chew you up, spit you out" — *Welcome to the Circus*
 - "Say you're good, say you're fine" — *Happy Face*
 - Force-feeding cake (visual) — *I Like to Party* (2022 music video)
-- "Nonsense is the only sense that makes sense" — Roy's publicly stated writing philosophy; the vowel-mouth producing meaning before structure arrives. **Public anchor:** EP2 on-camera *"It's nonsense. It's all nonsense."* *(Exact verbatim-source for this phrasing still being located — Jen 2026-06-07. NB: a near-identical line surfaced on a private phone call; that call stays Secret-Doc / non-citable, but the philosophy itself is public — do not reproduce the private-call decode.)*
+- "Nonsense is the only sense that makes sense" — the vowel-mouth producing meaning before structure arrives; held as [~] letter-mysticism ([[The Angels and the Angles]]), **not** a publicly-sourced Roy method. *(EP2's on-camera "It's nonsense. It's all nonsense" is **Lucius's dismissive line**, not Roy stating a generative writing philosophy — do not use it as the anchor for Roy's nonsense-idea; exact public receipt still pending, Jen 2026-06-07. A near-identical line on a private call stays Secret-Doc / non-citable.)*
 
 ---
 

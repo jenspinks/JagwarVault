@@ -59,7 +59,7 @@ The Ariadne's thread connection is the single most important thing this page sho
 
 Then **the feeling IS the thread, and the Circus's primary function is severing it.**
 
-The reason the maze has no exit sign is not architectural — it is because *the thread that would lead out has been taken or broken.* The *"don't sacrifice what you can feel"* warning is the Ariadne instruction: *hold the string.*
+The reason the maze has no exit sign is not architectural — it is because *the thread that would lead out has been taken or broken.* The Ariadne instruction is to **hold the string** — the feeling that must not be sacrificed.
 
 ---
 

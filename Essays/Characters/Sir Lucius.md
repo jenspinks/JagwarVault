@@ -20,7 +20,7 @@ related: [CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMirror, CHAR-Ma
 
 The tattoo is grounded: **El Roi** (אל ראי) — Hebrew for *"the God who sees me"* (Genesis 16, Hagar naming God after being seen in the wilderness: the only instance in scripture where a human names God) — inked in stylized Hebrew **on his neck/throat**. The throat placement is already load-bearing: "being seen" lives on the organ of utterance, the Da'at gate between the visible and the interior (see [[Essays/Concepts/Songs/Not Your Homie]]).
 
-The cluster below is **resonance-tier**, enabled by Roy's stated compositional method — the consonants/vowels framework (none — Roy's own interviews): *consonants = structure / angles; vowels = activation / breath / God.* The Hebrew writing system natively encodes consonantal roots and fills them with vowels to generate meaning. Reading across vowel variations is what the system *permits*. It does not mean the tattoo asserts all of these simultaneously. The system permits; the artist uses; the reader listens.
+The cluster below is **resonance-tier**, enabled by the **consonants=angles / vowels=breath** letter-mysticism — `[~]` tradition-correspondence ([[The Angels and the Angles]]), **not** Roy's stated method (no public JT source frames it as his framework; his Hebrew *engagement* is the only public anchor): *consonants = structure / angles; vowels = activation / breath / God.* The Hebrew writing system natively encodes consonantal roots and fills them with vowels to generate meaning. Reading across vowel variations is what the system *permits*. It does not mean the tattoo asserts all of these simultaneously. The system permits; the artist uses; the reader listens.
 
 **Root cluster (ר-א-י, r-'-y):**
 
@@ -121,7 +121,7 @@ The cleanest synthesis: **Lucius is a reactive system built to avoid a core stat
 
 ## Authorship of the Album
 
-The entirety of [[Lucius Lullaby (album)]] is Lucius's album — his production, his algorithmic selection, his arc. Roy is the voice most tracks are performed through, but the strategic authorship is Lucius's. Individual songs are voiced by Lucius, [[Roy]], [[Mary]], or combinations; the album-as-object is Lucius's work.
+The entirety of [[Lucius Lullaby (album)]] is Lucius's album — his production, his algorithmic selection, his arc. Roy is the voice most tracks are performed through, but the strategic authorship is Lucius's. Individual songs are voiced by Lucius, [[Roy]], or combinations; the album-as-object is Lucius's work. *(A distinct [[Mary]]-voice on any track is `[?]` — no casting/credit source confirms one; the credited female vocalists are real collaborators, MERCY-rule applies.)*
 
 [[LOOP]] is a [[Roy]] song, released as a single — NOT on this album. The pattern-breaking chain the press names (LOOP → not your homie → welcome to the circus) is therefore cross-authored: it starts with Roy's single and ends with Lucius's production, which is itself a structural encoding of the Roy→Lucius capture the album documents.
 

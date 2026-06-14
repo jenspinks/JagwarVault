@@ -60,6 +60,12 @@ Genesis 33:4 is the line the entire reading exists to reach. After the deception
 
 That is the Roy/Lucius endpoint, stated by Genesis better than the vault has stated it elsewhere: the work was never to kill the twin. It was to survive the wrestling, carry the wound, and arrive at the embrace. The **Loop** is the brothers as rivals, fleeing each other across years. The **Circle** is the field where they meet again.
 
+### The other twin-pair: Cain & Abel — the un-reconciled pole `[~]`
+
+Genesis gives the divided-self **two** fratricide-twin stories, and the vault should hold both, because they end opposite ways. **Jacob/Esau is the pair that reconciles** (Gen 33:4 — the embrace, the weeping, *"I have enough, my brother"*). **Cain/Abel is the pair that doesn't**: the offering rejected, the brother killed, the **mark** set, the exile *east of Eden* — separation made permanent (Gen 4). Same pattern — one blessing/favor split between brothers, the passed-over one's grievance turning to violence — but with the embrace withheld. The old-chats reading puts it cleanly: *"Cain is not the villain; Cain is the condition of **separation itself**."*
+
+So the two pairs are **two prognoses for the same arc.** **Lucius-as-Esau** is the hopeful reading — the aggrieved twin who can still be run to and held; the integration the album reaches *toward*. **Lucius-as-Cain** is the shadow reading — the separation that hardens into a mark and a wandering, the twin who kills rather than reconciles (the [[Sir Lucius]] takeover at its most unredeemed; the [[The Loop|Loop]] as the land of Nod, "wandering," with no field of embrace at the end). The catalogue already gestures at this pair: the boy-fable in [[Great Time to Be Human]] is flagged `[?]` as a possible **Cain/Abel** figure. Holding both twin-stories keeps the integration question honestly *open* — Genesis itself offers the embrace and the mark as the two ways a divided self can end. `[~]` — interpretive; **no Roy statement invokes Cain**; it is a structural parallel, the un-reconciled mirror of the page's main reading.
+
 ---
 
 ## How it locks with the rest of the vault
@@ -92,6 +98,7 @@ A flat *Roy-vs-Lucius* reading contradicts all four. The Jacob/Esau reading is t
 | `CONCEPT-TheProtector` | "The elder shall serve the younger" = the Protector subordinated, not destroyed; the lion's-skin endpoint as birthright law. |
 | [[Sources/Quotes/Roy IG Post - Half the Man (Father)]] `[W]` | **Verified artifact (2026-04-02):** Roy reaches for the *Father's* hand and is told *"you're half the man that you know."* A father, and *half a man*: the divided blessing in Roy's own 2026 voice — the strongest live cross-link between the Genesis reading and a real public post. (Same post carries the fool/Pierrot image.) |
 | El Roi cluster — see [[Sir Lucius]] | Peniel ("face of God") ↔ El Roi ("the God who sees me," on Lucius's throat) — the seeing-the-face rhyme; held at `[~]`. |
+| Cain & Abel (Gen 4) | The **un-reconciled** twin-pair — the same divided-blessing/fratricide pattern with the embrace withheld (the mark, exile east of Eden). Lucius-as-Cain = the shadow prognosis to Lucius-as-Esau's hopeful one. `[~]`; cf. the `[?]` Cain/Abel boy-fable in [[Great Time to Be Human]]. |
 
 ---
 
@@ -102,3 +109,4 @@ A flat *Roy-vs-Lucius* reading contradicts all four. The Jacob/Esau reading is t
 - [ ] Esau's restless **"break the yoke"** clause as a map of the Lucius *takeover eras* — which songs/episodes are the yoke-breaking moments, and do they cluster?
 - [ ] Jacob's **limp** as the permanent mark of integration — does the catalog carry an image of a wound-that-stays (vs. a wound-that-heals)? If so, that's the Peniel limp.
 - [ ] The **pottage** (birthright sold for an immediate hunger) as the Lucius bargain — appetite/streams/leverage for the deeper inheritance. Cf. the Kelipot "the shell is always hungry" thread.
+- [~] **Cain/Abel as the shadow prognosis** — does any song/episode play the *un*-reconciled ending (the mark, the wandering, the brother not run to)? If the takeover eras are "Cain moments" and the embrace beats are "Esau moments," the catalogue may track *which way a given song bets* on the divided self. Verify whether [[Great Time to Be Human]]'s boy-fable firms past `[?]` toward an explicit Cain/Abel read.

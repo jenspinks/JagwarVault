@@ -2,7 +2,7 @@
 type: song
 status: draft
 publish: false
-entry_points: [not-your-homie, the-bargain, strategic-nonsense, you-dont-know-me, tame-the-beast, champion, false-crown, the-moon, el-roi, loop, dont-sacrifice-what-you-can-feel]
+entry_points: [not-your-homie, the-bargain, strategic-nonsense, you-dont-know-me, tame-the-beast, champion, false-crown, the-moon, el-roi, loop, the-thread]
 related: [CHAR-SirLucius, CONCEPT-TheLaborsOfHercules, SONG-WelcomeToTheCircus, SONG-SOL, CONCEPT-TheThread]
 ---
 # Not Your Homie
@@ -59,7 +59,7 @@ The dialectic it dramatizes:
 | inner compass | external metrics |
 
 ### The two meanings of "nonsense"
-[[Roy]] has publicly described *his own* writing as a kind of nonsense — consonants and "angles," vowels and breath, meaning arriving through feeling *before the conscious mind catches up*. For Roy nonsense is **generative**: distorted revelation. Lucius runs the identical machinery in reverse — hooks, loops, optimized fragments — to produce **strategic emptiness**: form severed from soul. Mechanically the same, spiritually inverted. The inversion is itself a core Lucius operation.
+The catalogue carries a generative-nonsense register — meaning arriving through feeling *before the conscious mind catches up* — that the work corresponds to the consonants/vowels letter-mysticism ([~] tradition, [[The Angels and the Angles]]; **not** a publicly-stated Roy method). For Roy's side, nonsense reads as **generative**: distorted revelation. Lucius runs the identical machinery in reverse — hooks, loops, optimized fragments — to produce **strategic emptiness**: form severed from soul. Mechanically the same, spiritually inverted. The inversion is itself a core Lucius operation.
 
 ### "You don't know me" — Da'at-level knowing
 The most repeated line works on two depths at once. On the surface: an attack on **parasociality** — *you consume me, you project onto me, but you do not know me*; the "homie" identity is just one more mask, beside [[Happy Face]] and the circus performer, and Lucius tears them all off. Underneath, in the Jungian frame the project keeps invoking: Lucius isn't only saying *you don't know the artist* — he's saying *you don't know the part of yourself I represent.* This is the shadow refusing **shallow** recognition: not friendship, not aesthetic appreciation, but **knowing** in the abyss-crossing sense (Da'at). *"Let's not pretend"* then becomes a refusal of spiritual bypassing — of sentimental reconciliation and fake-integration language. The song feels accusatory because it is accusing both the listener *and Roy* of incomplete self-knowledge.
@@ -107,11 +107,11 @@ A tight irony falls out *[W]*: Lucius wears *"the God who sees me"* on the very 
 
 The line says *tame*, never *kill.* In Jung, alchemy, Hermeticism, and the project's own grammar, the Beast is instinct, libido, vitality, survival-force — and **Lucius is that Beast refined into strategy**: Roy's anger, ambition, humiliation, fear, charisma, performance-intelligence, organized into a working system. So the peril the song stages is not defeating Lucius but whether Roy will **serve** him instead of **integrating** him. The catalogue is consistent: wholeness is *heart + shadow*, not *heart instead of shadow*. Without shadow, spirit becomes weak dissociation; without heart, shadow becomes domination. Best read beside [[Essays/Concepts/Songs/Welcome to the Circus]] (the lion *untamed*) and toward [[#1 Champion (la Conquistadora)]] (the archetype titled).
 
-## "Don't Sacrifice What You Can Feel" — the Father's Diagnostic
+## The Feeling That Must Not Be Cut — the Father's Diagnostic
 
-The [[SOL]] poem gives the Father's line: *"you're half the man that you know."* In the explicitly dualistic frame this is no longer a question — Lucius **is** the other half, and Roy, the Father, and the audience all know it. The question becomes: *how does Roy integrate him without sacrificing what he can feel?* And *"don't sacrifice what you can feel"* may be the single most important instruction in the cosmology — it is the [[The Thread|Thread]] itself, the feeling that must not be cut.
+The [[SOL]] poem gives the Father's line: *"you're half the man that you know."* In the explicitly dualistic frame this is no longer a question — Lucius **is** the other half, and Roy, the Father, and the audience all know it. The question becomes: *how does Roy integrate the other half without sacrificing what he can feel?* That feeling — what must not be cut in the bargain — is the [[The Thread|Thread]] itself.
 
-Read against that, **Not Your Homie is the bargain where feeling was sacrificed**: SOL suppressed, vulnerability traded, spectacle chosen — *the land prioritized over the soul.* The later poetry suggests Roy comes to recognize the deal was real, the other half is real, the wound is real — *but feeling cannot be traded again.* That recognition is the turning point the song sets up by violating it.
+Read against that, **Not Your Homie is the bargain where feeling was sacrificed**: SOL suppressed, vulnerability traded, spectacle chosen — *the land prioritized over the soul.* The arc the catalogue traces afterward is the recognition that the deal was real, the other half is real, the wound is real — *but feeling cannot be traded again.* That recognition is the turning point the song sets up by violating it.
 
 ## Does Lucius Want Integration?
 
@@ -154,7 +154,7 @@ The honest position: with the visual-lore frame, the Lucius-triumph / shadow-dem
 | [[LOOP]] | The loop Lucius accuses Roy of; carries *"my mind must serve my heart."* |
 | [[The Labors of Hercules]] | "Tame the beast / champion" — strongest public anchor; integration-not-destruction. |
 | [[#1 Champion (la Conquistadora)]] | The crown Lucius resells here is revoked there by Mary / La Conquistadora. |
-| [[The Thread]] | "Don't sacrifice what you can feel" — the feeling NYH trades away. |
+| [[The Thread]] | The feeling that must not be cut — what NYH trades away. |
 | [[Essays/Concepts/Songs/Ballerina Boy]] | The underperforming sincerity Lucius cites; the moon-line source. |
 | [[Sir Lucius]] | Voicing; Beast refined into strategy; Yesod/moon; El Roi; the mirror-flip. |
 | [[Happy Face]] / [[The Mask]] / [[Inversion]] | The inverted smile; one of the masks stripped. |

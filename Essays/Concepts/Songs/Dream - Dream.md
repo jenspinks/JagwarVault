@@ -294,7 +294,7 @@ Two dreams, one title — the old dream and the attempt to make it new. Retrospe
 
 Read this way, "Dream / Dream" is not proto-Lucius theology but **sincere inherited optimism** — which makes the later destabilization tragic rather than naïve. Roy first *believed* the dream; the catalogue is the slow discovery that dreams can become mirrors, mirrors loops, and loops systems of captivity [W].
 
-[?] Why **Sarah Vaughan** appears as a *composer* (Mercer wrote the standard solo) is unresolved — most likely her specific recording/arrangement is the sampled or interpolated source, which would carry an adaptation credit.
+[?] Why **Sarah Vaughan** appears as a *composer* (Mercer wrote the standard solo) is most likely because her **specific 1957 recording** is the sampled/interpolated source (an adaptation credit). **Cross-track (the sharpening):** Vaughan is *also* credited on **[[Essays/Concepts/Songs/Precious Time|Precious Time]]** (Track 12), where the sample is the spoken **banter *before* she sings** on her *"Dream"* (*Live At Mister Kelly's*, Chicago, **1957**). So **one 1957 Vaughan "Dream" recording feeds two STF tracks** — the **song** here (Track 2), the **speech** there (Track 12); music and banter from one night, split across the album's two halves. `[W]` (whether Dream / Dream uses this exact take or interpolates the composition is still open). → `CONCEPT-InheritedSubstrate`.
 
 ---
 

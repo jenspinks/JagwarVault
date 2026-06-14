@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, ALBUM-SubjectToFlooding]
   strong_read: [SONG-WelcomeToTheCircus, SONG-BALLERINABOY, SONG-LuciusLullaby, CONCEPT-SleepWakeUp, CONCEPT-OrbitReturn, CONCEPT-InheritedSubstrate]
   resonance:   [CONCEPT-Yesod, CONCEPT-Tiferet, CONCEPT-ObjectiveArt]
-referenced_by: [SONG-Loser, SONG-TheWatchers]
+referenced_by: [SONG-Loser, SONG-PreciousTime, SONG-TheWatchers]
 dominant_pole: solar
 transformation_phase: nigredo
 recursion_state: loop

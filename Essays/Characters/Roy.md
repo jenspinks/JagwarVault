@@ -29,7 +29,7 @@ At seven years old: did ballet at Christian school. A teacher told his father th
 ## His Own Statements About His Work (confirmed)
 
 - Studies [[Kabbalah]]. 
-- Sometimes discovers new songs "Hebrew Style" using consonants as structure, letting vowels fill in through feeling and emotion later.  Angels and angles. Build structure with consonants. God is in the vowels (the breath).
+- Hebrew-language interest is public (2019); Kabbalah appears on his public "I'm 33" board. **But the "Hebrew Style" composition method** (consonants as structure / vowels filled in by feeling; "angels and angles… God is in the vowels") **is [~] tradition-correspondence, not a publicly-stated method** — no public JT source frames it as his framework (see [[The Angels and the Angles]]). Held as a lens only, never as grounding.
 - Some songs come through him beyond his intelligence. He cannot take full credit.
 - [[SOL]] is the song he is most connected to.
 - The [[The Circle|Circle]] is at the heart of it all. All songs can be understood through it
@@ -71,8 +71,8 @@ At seven years old: did ballet at Christian school. A teacher told his father th
 ## Key Relationships
 
 - [[Sir Lucius]] — formed from Roy's interior life. The mind divorced from the heart. Roy says: "I made you." Lucius pulled him out of the bottom. The deal may have been worth it.
-- [[Mary]] — appears twice in [[Brain/Songs/Lucius Lullaby]], both times face hidden. Does not appear in earlier confirmed catalogue.
-- [[The Jaguar]] — Roy's original self. The inter-world traveler. The name Jagwar Twin comes from Mayan belief that jaguars could see into all living beings.
+- [[Mary]] — the divine-feminine blessing voice. *(Corrected 2026-06-06: she does **not** appear in [[Brain/Songs/Lucius Lullaby]] — the "set you free / magic mirror" voice there is **Lucius counterfeiting** the rescue function. Grounded faceless-Mary appearances: [[#1 Champion (la Conquistadora)]], [[Essays/Concepts/Songs/Ballerina Boy|Ballerina Boy]], [[Essays/Concepts/Songs/Weirdness|Weirdness]].)*
+- [[The Jaguar]] — the project's emblem of **seeing / the mirror of consciousness** (grounded etymology, 3 interviews: the jaguar "looks into the souls of others… and back into itself; humans are mirrors for each other"). The container/frame, **not** a separate self or peer-figure. *(The older "inter-world traveler / sees into all living beings" gloss is un-sourced `[?]` — see [[The Jaguar]].)*
 
 ---
 

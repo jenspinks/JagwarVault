@@ -35,7 +35,7 @@ The thread also appears as: the song in the wings, the vowel inside the consonan
 
 From the Labyrinth page:
 
-> The reason the maze has no exit sign is not architectural — it is because the thread that would lead out has been taken or broken. The *"don't sacrifice what you can feel"* warning is the Ariadne instruction: *hold the string.*
+> The reason the maze has no exit sign is not architectural — it is because the thread that would lead out has been taken or broken. The Ariadne instruction is to **hold the string** — the feeling that must not be sacrificed.
 
 The Circus's primary operational function may be the severing of the thread. Not by attacking the hero — by making the hero sacrifice the thread *themselves* in the attempt to master the structure. The thread cannot be taken by force. It can only be abandoned.
 
@@ -45,11 +45,11 @@ The Circus's primary operational function may be the severing of the thread. Not
 
 | Form | Source | What it is |
 |---|---|---|
-| *"The world tied on a string"* | *The Circle* (Lucius Version) | The cosmological thread; the line the world hangs from |
+| *"The world tied on a string"* | *The Circle* (*33*, 2022 — verified lyric) | The cosmological thread; the line the world hangs from |
 | *"The song hidden inside its wings"* | *The Circle* / public Twitter | The thread as music, as the song that survives inside the machine |
 | The feeling | *The Circle* (published arc) | The thread as the capacity to feel; what must not be sacrificed |
 | Ariadne's thread | Greek myth / Rosicrucian | The thread as the practical survival instrument in the labyrinth |
-| The vowel / the angel | Roy's publicly stated writing philosophy | The thread as the breath-spirit that fills the consonant structure |
+| The vowel / the angel | letter-mysticism [~] ([[The Angels and the Angles]]) | The thread as the breath-spirit that fills the consonant structure |
 
 These are likely not different threads — they are the *same thing* described at different scales and in different vocabularies.
 
@@ -60,7 +60,7 @@ These are likely not different threads — they are the *same thing* described a
 - [[The Circle]] — *"the world tied on a string"*; *"the song hidden inside its wings"*
 - [[Brain/Songs/Welcome to the Circus]] — *"there's no exit sign in my maze"* — the maze without thread
 - [[The Labyrinth]] — the thread is what the labyrinth requires
-- [[The Mouth]] — *"don't sacrifice what you can feel"* — the feeling as the thread
+- [[The Mouth]] — the feeling that must not be cut; the feeling as the thread
 - [[SOL]] — possibly what the thread sounds like when it's held: the Song of Love as the thread made audible
 - [[Mary]] — Ariadne gives the thread; Mary appears when distortion fails to contain what it holds. Possibly the thread-bearer.
 

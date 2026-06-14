@@ -54,7 +54,8 @@ This pre-chorus appears **twice** in the song — once after verse 1 (the childh
 Her facelessness is not incidental. She cannot be reduced to a romantic object, a celebrity image, a mirror projection, or a normal identity. She is there to reveal, not to be consumed. The same faceless feminine blessing voice appears:
 - in [[Essays/Concepts/Songs/Ballerina Boy]] (the older motherly voice whose face is never shown, delivering "let your light shine")
 - in [[#1 Champion (la Conquistadora)]] (where **Mary** is named outright)
-- in [[Essays/Concepts/Songs/Lucius Lullaby]] (Mary, twice, face hidden)
+
+*(**Not** Lucius Lullaby — corrected 2026-06-06: the "I came to set you free / magic mirror" voice there is [[Sir Lucius]] **counterfeiting** the rescue/Mary-function, not Mary.)*
 
 The Mary-class reading is not speculative at this point — it is the working pattern. What she says here is consistent across all appearances: *stop pretending, you were born to shine.* She never flatters. She only tells the truth about the light.
 
@@ -103,7 +104,7 @@ The song names this exactly: not *your* weirdness — *my* weirdness. The light 
 
 ### Weirdness as the vowel principle
 
-Roy's stated compositional method: consonants = structure / angles; vowels = activation / breath / God. Meaning emerges through use, not through the letters alone.
+The letter-mysticism the work corresponds to ([~] tradition, [[The Angels and the Angles]] — **not** a publicly-stated Roy method): consonants = structure / angles; vowels = activation / breath / God. Meaning emerges through use, not through the letters alone.
 
 Weirdness, in this framework, is the vowel principle in biographical form. It is the living breath that refuses to be flattened into dead structure. The algorithm wants repeatability, categorization, compression, and marketable identity. Weirdness resists all of these — not because it is oppositional, but because it is *alive* in a way that dead structure cannot contain.
 
@@ -182,4 +183,4 @@ Weirdness orients toward Tiferet — the solar heart-center, the place where bea
 - Alchemy — prima materia; transmutation; the rejected substance as sacred raw material.
 - Gnosticism — Sophia / divine wisdom; the divine spark obscured by false-world conditioning; gnosis as remembrance.
 - Kabbalah — Yesod (lunar/reflection) vs. Tiferet (solar/heart); the movement from reflected to integrated light.
-- Roy's consonants/vowels framework — weirdness as vowel-principle; the animating breath refusing flat structure.
+- The consonants/vowels letter-mysticism ([~] tradition-correspondence, [[The Angels and the Angles]]) — weirdness as the vowel-principle; the animating breath refusing flat structure.

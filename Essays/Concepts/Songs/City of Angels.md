@@ -87,6 +87,7 @@ And the road there is a fallen ladder. *"City of **Angels** / walking down the *
 | [[Pay Attention]] | Attention-as-god; *"playing to the gods"* is its performer-side. |
 | [[The Circus]] | The gallery-gospel's venue. |
 | [[Brain/Concepts/Source vs Reflection]] | "Everyone looks just like you" = the reflection-for-sale; sameness as forged communion. |
+| [[Essays/Concepts/Songs/All My Friends\|All My Friends]] | The **2023 clone-seed** — *"I feel like a clone in a crowded city"* (retrospective antecedent of *"everyone looks just like you"*; architecture, not asserted 2023 intent). |
 | [[Mary]] | The faceless true-feminine the "beautiful stranger" counterfeits. |
 | [[Lucius Lullaby]] | The sister-confession that *can* say "it's all just a lie" — this song can't. |
 
