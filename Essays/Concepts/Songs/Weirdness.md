@@ -162,7 +162,7 @@ Weirdness orients toward Tiferet — the solar heart-center, the place where bea
 | [[Essays/Concepts/Songs/Not Your Homie]] | Anti-pretense mirrored: "Let's not pretend" (Lucius, enforcing distance) vs. "Stop pretending" (angel, dissolving mask). |
 | [[Essays/Concepts/Songs/Welcome to the Circus]] | The public performance of the Lucius system; Weirdness is the private threshold that counters it. |
 | [[#1 Champion (la Conquistadora)]] | Mary named here; same figure who appears faceless in Weirdness. |
-| [[Essays/Concepts/Songs/Lucius Lullaby]] | Mary appears twice (face hidden); consistent with Weirdness appearance. |
+| [[Essays/Concepts/Songs/Lucius Lullaby]] | **Not** a Mary appearance — corrected 2026-06-06: the "set you free / magic mirror" rescuer voice there is [[Sir Lucius]] *counterfeiting* the Mary-function (no Mary in the verified lyrics). The contrast sharpens Weirdness's *real* faceless-Mary. |
 | [[The Circle]] | "A world tied on a string" — both chorus instances say "your/my head is off its string." The freedom was already there; the song is finding out it's yours. |
 | [[SOL]] | The love-current beneath the weirdness; the song Lucius cannot metabolize. |
 | [[Sir Lucius]] | EP4 Pleading Mode — "I'm your weirdness" — this is the moment Lucius names his own function. The song is Roy's answer. |

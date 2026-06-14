@@ -34,7 +34,7 @@ Type: Song — **Track 10**, the temple of which **track 9 [[Playing to the Gods
 The pronoun runs **pitched → internalized → re-transmitted**: the city says it *to* him (*your*), he swallows it (*my*), then he says it *to the next walker* (*your* + "and she said"). **He doesn't escape the beautiful stranger — he becomes one.** The song ends mid-rotation, occupying the **recruiter-slot** — which is why it never wakes up the way [[Lucius Lullaby]] does (*"it's all just a lie"*): there's no one left outside the spell to confess it. The Loop encoded in pronouns (a voice returning to the recruiter, not to source).
 
 ## "Playing to the gods" — the gallery-gospel [G idiom / W]
-**"The gods" = British-theatre slang for the topmost gallery** — the cheapest, furthest, most anonymous seats. *"Playing to the gods / the gallery"* = performing broadly for mass approval. Built-in inversion: **the highest place is the cheapest place** — to play to the gods is to abase yourself before the nosebleeds *and call it worship.* The performer's side of [[Pay Attention]] (Attention-as-hidden-god; "step right up" barker): **you pay the god by playing to it.** Venue: Lucius performs in a ringmaster's jacket — the **[[The Circus|Circus]] has a gallery.**
+**"The gods" = British-theatre slang for the topmost gallery** — the cheapest, furthest, most anonymous seats. *"Playing to the gods / the gallery"* = performing broadly for mass approval. Built-in inversion: **the highest place is the cheapest place** — to play to the gods is to abase yourself before the nosebleeds *and call it worship.* The performer's side of [[Pay Attention (feat. little luna)|Pay Attention]] (Attention-as-hidden-god; "step right up" barker): **you pay the god by playing to it.** Venue: Lucius performs in a ringmaster's jacket — the **[[The Circus|Circus]] has a gallery.**
 
 ## "Everyone looks just like you" = the Circle→Loop collapse [W]
 A [[Brain/Concepts/The Circle|Circle]] needs **distinct points in communion** (difference held in unity, many voices singing one song back). **Sameness deletes difference; a circle of no distinct points collapses to a single point repeating = the [[Brain/Concepts/The Circle|Loop]].** "Everyone looks just like you" *is* that operation. Against the cosmology board (*"One become Two… one day We'll get back together and see The Great Design"* — [[The Pattern]]), Hollywood is the **counterfeit return**: uniformity, not unity-with-difference. **Sameness is the forgery of communion** — it mimics "we are all one" while meaning "you are all interchangeable." In a project named *Jagwar **Twin***, this is **twinning gone metastatic** — infinite doubling with no other left to meet ([[Brain/Concepts/Source vs Reflection]]).
@@ -71,7 +71,7 @@ Across both tracks the singer originates only **"I said hello"** and the surviva
 |---|---|
 | [[Playing to the Gods]] | The seed-mantra; tracks 9→10 are one movement. |
 | [[Sir Lucius]] | Co-credited vocalist; the City of Light is his. |
-| [[Pay Attention]] | Attention-as-god; "playing to the gods" is its performer-side. |
+| [[Pay Attention (feat. little luna)|Pay Attention]] | Attention-as-god; "playing to the gods" is its performer-side. |
 | [[The Circus]] | The gallery-gospel's venue (ringmaster + gallery). |
 | [[Brain/Concepts/Source vs Reflection]] | "Everyone looks just like you" = the reflection-for-sale; sameness as forged communion. |
 | [[Mary]] | The true (faceless) feminine the "beautiful stranger" counterfeits. |

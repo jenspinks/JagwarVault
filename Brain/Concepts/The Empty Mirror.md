@@ -5,7 +5,7 @@ status: draft
 confidence: medium
 source_quality: primary-source
 sources: [Sources/Artifacts/Roy - Tattoos (body inventory).md, Brain/Roy Voice/Roy on Authenticity & Masks.md, Sources/Lyrics/Lucius Lullaby.md, Sources/Quotes/JT MAGIK ARG - middle-of-the-maze (you are it) 2025-05.md, Essays/_drafts/Fable Pass — Findings (2026-06-10).md]
-related: [CONCEPT-SourceVsReflection, CONCEPT-TheBanana, CONCEPT-TheUpload, CONCEPT-TheVoice, CONCEPT-TheMouth, CONCEPT-TheWatchers, CHAR-Roy, CHAR-SirLucius]
+related: [CONCEPT-SourceVsReflection, CHAR-Roy, CHAR-SirLucius, SONG-TheWatchers, CONCEPT-TheVoice]
 connections:
   grounded:    [CHAR-Roy, CONCEPT-SourceVsReflection]
   strong_read: [CONCEPT-TheBanana, CONCEPT-TheUpload, CHAR-SirLucius, CONCEPT-TheVoice, CONCEPT-TheMouth]

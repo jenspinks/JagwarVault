@@ -24,7 +24,7 @@ related: [SONG-PlayingToTheGods, CHAR-SirLucius, ALBUM-LuciusLullaby, CONCEPT-Th
 
 The title is theatre slang before it is theology. **"The gods" are the topmost gallery** — the cheapest, furthest, most anonymous seats, up under the ceiling. To "play to the gods" (or "play to the gallery") is to perform broadly for mass approval rather than the discerning few. So the title carries the inversion the whole catalogue runs on: **the highest place is the cheapest place.** The "gods" are exalted and debased at once — deities you sacrifice to, *and* the nosebleeds. To play to them is to abase yourself before the cheap seats and call it worship.
 
-This is the performer's side of [[Pay Attention]], where Attention is the hidden god you transact with. There: *pay attention*. Here: *play to the gods.* **You pay the god by playing to it.** And the venue is literal — Lucius runs this in a ringmaster's jacket. The [[The Circus|Circus]] has a gallery. `[Strong Read; the idiom is grounded.]`
+This is the performer's side of [[Pay Attention (feat. little luna)|Pay Attention]], where Attention is the hidden god you transact with. There: *pay attention*. Here: *play to the gods.* **You pay the god by playing to it.** And the venue is literal — Lucius runs this in a ringmaster's jacket. The [[The Circus|Circus]] has a gallery. `[Strong Read; the idiom is grounded.]`
 
 ## The pronoun that rotates
 
@@ -84,7 +84,7 @@ And the road there is a fallen ladder. *"City of **Angels** / walking down the *
 | Node | Relationship |
 |---|---|
 | [[Playing to the Gods]] | The seed-mantra; one movement with this song. |
-| [[Pay Attention]] | Attention-as-god; *"playing to the gods"* is its performer-side. |
+| [[Pay Attention (feat. little luna)|Pay Attention]] | Attention-as-god; *"playing to the gods"* is its performer-side. |
 | [[The Circus]] | The gallery-gospel's venue. |
 | [[Brain/Concepts/Source vs Reflection]] | "Everyone looks just like you" = the reflection-for-sale; sameness as forged communion. |
 | [[Essays/Concepts/Songs/All My Friends\|All My Friends]] | The **2023 clone-seed** — *"I feel like a clone in a crowded city"* (retrospective antecedent of *"everyone looks just like you"*; architecture, not asserted 2023 intent). |

@@ -6,6 +6,11 @@
 .obsidian/cache/
 .obsidian/plugins/*/data.json
 
+# Machine-local Obsidian UI state — re-dirties the tree on every launch
+.obsidian/graph.json
+.obsidian/backlink.json
+.obsidian/image-converter-image-alignments.json
+
 # Private context — NEVER commit. Secret Document lives here (essay phase).
 _Private/
 /_Private/

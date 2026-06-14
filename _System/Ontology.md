@@ -51,6 +51,7 @@ hand-maintained thereafter.
 | `CONCEPT-CommunionVsSpectacle` | Communion vs Spectacle | many voices singing truth *together* (the Circle's chorus) vs many voices forced into the *same song* (the Circus's synchronized crowd); the distinction that prevents treating all collective singing as sacred. Seeded from Great Time to Be Human ("crooks and believers all sing the same song") |
 | `CONCEPT-TheBanana` | The Banana | Lucius's recurring trigger-prop (EP2 browning banana → Not Your Homie; EP3 → Welcome to the Circus) lifted from a fruit-bowl altar; the **hijacked offering** + the **sterile-clone Loop** (the Cavendish is a sterile clone — public botany). Roy's banana=sterile gloss = **PUBLIC/grounded** (IG comment, instagram.com/reels/DWo9DYzAUZ8/, 2026-06-07) |
 | `CONCEPT-TheAngleAngel` | The Angels and the Angles | consonants=angles (structure) / vowels=angels=spirit (Ruach); the letter-mysticism substrate (Sefer Yetzirah, Abulafia, Ezra ben Solomon, the 72-Name tradition); **`[~]` tradition-correspondence** — cite the tradition, not the man (no public source has Roy stating it as his method); [[Brain/Concepts/The Angels and the Angles]] |
+| `CONCEPT-TheEmptyMirror` | The Empty Mirror | the **hinge object** of the catalogue's *nothing* — a Roy wrist tattoo (*"seeing nothing"*) holding two opposite emptinesses at once: **kenotic** (empty-to-transmit = the source pole) vs **hollow** (empty-of-spirit, structure remaining = the reflection pole); the deepest form of [[Brain/Concepts/Source vs Reflection]]; [[Brain/Concepts/The Empty Mirror]] |
 
 ## Characters
 
@@ -135,7 +136,6 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 | `CONCEPT-Yesod` | Yesod | Kabbalah reflection sphere; pending |
 | `CONCEPT-Malkhut` | Malkhut | Kabbalah kingdom; pending |
 | `CONCEPT-Tiferet` | Tiferet | Kabbalah beauty/center; pending |
-| `CONCEPT-TheEmptyMirror` | The Empty Mirror | Lucius hand tattoo; pending |
 | `CONCEPT-Albedo` | Albedo | alchemical whitening / first reclamation; pending |
 | `CONCEPT-Rubedo` | Rubedo | alchemical completion / integration achieved; pending |
 | `CONCEPT-OrbitReturn` | Orbit / Return | orbit = sustained distance; return = transformative approach; pending |
