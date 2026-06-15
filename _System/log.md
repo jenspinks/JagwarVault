@@ -14,6 +14,12 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-15] fold | 33 dossiers — batch 2 (strong survivors: D1, D7, D11)
+Folded the three strong survivors at their vetted tiers:
+- **D7 John 8:32 → `[W]` on [[Inversion]]:** new section *"One verse, three voices — the diachronic refraction."* The verse is **refracted through the heart→split→mind arc** (It's Your Time 2022 → Bad Feeling 2023 → Lucius Lullaby 2026), form held / vector bent — **NOT "degraded"** (vetted reframe). By LL it's a Christ-Mirror instance (form kept, direction reversed). `[G]` the three lyrics · `[W]` the one refraction-line · `[~]` that the bend is "the serpent's."
+- **D1 Pinocchio → `[W-]` on [[BALLERINA BOY]]** (new "Pinocchio analogue" section): a **Roy-curated mythic analogue** (the film is on his board), **NOT** "inherited myth-template" and **NOT** "uniquely" Pinocchio (the wound is *also* literal autobiography). Blue Fairy = Mary-**function** `[~]` strict (figures stay unmerged); Pleasure-Island→[[Bananas]] demoted to `[?]` curio. The **string-inversion** ("I've Got No Strings" sells severance-as-freedom; the Circle inverts it to the *remembered held string*) filed at its **primary home on [[Inversion]]** `[~]`.
+- **D11 mother-channel → `[W]` on [[Roy on Influences]]:** the mother is the catalogue's **first transmission channel** — the inherited-substrate method originates in her records. Rests **entirely on the two public anchors** (Atwood 2018 + Masquerade bio); `[~]` only as a **non-roster** echo of the divine-feminine-as-source register (mother **≠** [[Mary]] — channel vs function). **Firewall hardened:** the pre-natal limit-case stays in [[_Private]] and is kept **out of the public-tier claim entirely**, not merely unquoted.
+
 ## [2026-06-15] fold | 33 dossiers vetted (Jen + Gemini) — folding survivors, batch 1 (D3, D2)
 Both 33 dossier reviewers (Jen + Gemini) returned full verdicts on all three dossiers; convergence on the deflations. **Folding survivors at their tiers, in batches.** Batch 1 = the two verification-anchored wins:
 - **D3 Tao Te Ching → `[G]` substrate (corrected):** the board's *"just stay at the center of the circle and let all things take their course"* is **Stephen Mitchell, ch. 19** (verbatim; **corrects the dossier's "ch. 5"** — ch. 5 = "hold on to the center," a nearby echo). Taoism enters the substrate registry as a board receipt in Roy's hand → [[Roy on Influences]]. `[~]` that it decodes [[The Circle]].

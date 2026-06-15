@@ -45,6 +45,14 @@ Age 7, Christian school, ballet, "came alive on that stage." Teacher → dad: "w
 ## Divine-feminine voice (cross-cutting — track on [[Mary]])
 Faceless feminine blessing voice recurs: here (moon line, verify), [[Essays/Concepts/Songs/Weirdness]] ("angel baby… face out of sight… you were born to shine"), [[#1 Champion (la Conquistadora)]] (Mary named). [W] likely all [[Mary]]-class. *(NOT Lucius Lullaby — the "set you free / magic mirror" voice there is Lucius **counterfeiting** the Mary-function, corrected 2026-06-06.)*
 
+## The Pinocchio analogue (mythic) [W-]
+Pinocchio sits on **Roy's own 22-film board** (*"Pattern Represented in Movies,"* [G]) — which makes it a **Roy-curated mythic analogue** for this song's wound, not a critic's import. It is the one myth that gathers all three of the song's grounded elements: a **made boy told he is not a real boy** (*"you're not a real boy"* ×4, [G]); a figure **defined by the string** tying him to his maker (→ [[The Circle]]'s *"a world tied on a string"* / *"she once held the string"*); and a **feminine voice that confers realness** (the Blue Fairy ↔ the motherly outro *"you are one of a kind, God's design… let your light shine"*).
+- **Tier discipline (vetted):** `[W-]` — a *curated mythic analogue*, **not** "the inherited template" and **not** "uniquely" Pinocchio (the wound is *also* literal autobiography; the myth coexists with it, it doesn't replace it). The claim is **not** "Ballerina Boy is about Pinocchio."
+- **Blue Fairy = the [[Mary]]-function** — `[~]` **strict** (a structural rhyme of the realness-conferring feminine voice, held to that function; do not merge the figures).
+- **The string-inversion** (*"I've Got No Strings"* sells severance as freedom; the Circle inverts it to *remembering* the held string) has its **primary home on [[Inversion]]** — it's an inversion-grammar reading, not a Ballerina-Boy claim.
+- **Pleasure Island → [[Bananas]]** (indulgence → donkeys, sold) — `[?]` only, a demoted curio, not load-bearing.
+*(33 Deep Dive D1 — vetted down from the dossier's "inherited myth-template" to a curated analogue.)*
+
 ## Open Questions (verification debts)
 - [x] ~~Moon line = female voice~~ **CONFIRMED (none — Jen, audio):** the whole spoken outro is an older *motherly* female voice → divine-feminine / [[Mary]]-class. The clearest Mary-voice appearance in the catalogue.
 - [x] ~~Lucius's mockery of Ballerina Boy~~ **CONFIRMED verbatim, The Interview EP3** (none — transcript): *"your lowest performing song… Ballerina Boy. When you're vulnerable you LOSE!"*

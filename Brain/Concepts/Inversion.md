@@ -82,6 +82,24 @@ This deserves special attention. In [[Brain/Songs/Welcome to the Circus]], Luciu
 
 ---
 
+## One verse, three voices — the diachronic refraction (John 8:32) [W]
+
+Inversion can run not just across two figures but **across time, through one performer.** *"The truth will set you free"* (John 8:32) recurs across three eras, **the same verse refracted through the heart → split → mind arc** — its *form* held intact while its *vector* bends. (Vetted framing: **refracted through three voices, not "degraded"** — the verse isn't damaged, it's passed through progressively more inverted speakers.)
+
+| Era / voice | The verse, as sung | Register |
+|---|---|---|
+| **It's Your Time** (2022) — *heart* | *"the truth will set you free / but the truth is hard to tell"* [G] | held sincerely, with honest difficulty |
+| **Bad Feeling** (2023) — *the split* | *"the truth is a lie that nobody can tell"* [G] | the paradox stage — the verse turned against itself |
+| **Lucius Lullaby** (2026) — *mind* | *"the truth will set you free but nothing's, nothing's what it seems"* [G] | quoted and **bent by the serpent-voice** — Christ-form, inverted content |
+
+By Lucius Lullaby the verse has become a **Christ-Mirror instance** (same scripture, the form kept and the direction reversed) — the table above operating diachronically rather than line-against-line. The catalogue's clearest measure of the Lucius arc taken in *scriptural handling.* `[G]` each of the three lyric instances · `[W]` that they form one refraction-line · `[~]` that the bend is "the serpent's." *(33 Deep Dive D7 — vetted [W]; the It's-Your-Time 2022 starting point was tracked separately from the 2023/2026 pair until this fold.)*
+
+## The marionette's string — Pinocchio in the inversion grammar [~]
+
+The Pinocchio analogue (→ [[Ballerina Boy]] §Resonance) lands here for one reason: it is **built on an inversion.** Pinocchio's signature song *"I've Got No Strings"* sells **stringlessness as freedom** — cutting the line to the maker is what the puppet wants. The Circle's cosmology runs that backward: the string is *"a world tied on a string,"* and the resolution is *"the wise one remembered she once **held** the string"* ([[The Circle]], [G]). **Realness comes from re-membering the connection, not from severing it** — same image (the string), opposite valuation. So "I've Got No Strings" reads as **Lucius's pitch** (severance-sold-as-liberation), and the Circle's *held string* as its correction — the puppet who cuts the string doesn't become real, he becomes a performer in someone else's show (Stromboli's caged stage = the Circus). `[~]` the song-level link (the inversion-grammar fit, not authorial intent). *(33 Deep Dive D1 — string-inversion filed here as its primary home; the Pinocchio analogue itself is `[W-]` and lives on [[Ballerina Boy]].)*
+
+---
+
 ## Connections
 
 - [[The Circle]] — the Circle as the un-inverted form; the Circus as the inverted form
