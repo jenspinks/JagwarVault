@@ -29,10 +29,14 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ### Source / Reflection
 - Primary light vs reflected light.
-- Sun vs moon.
-- Roy vs Lucius.
+- Sun (Tiferet / SOL) vs the **reflected bodies**: the **Moon** (Roy's position / Mary-Shekhinah's theology) and the **Morning Star** (Lucius / Venus / Netzach). *(lunar re-mapping 2026-06-14)*
 - Creation vs performance.
 - Reflection preserves but does not originate.
+
+### Stars / Celestial Orientation [W]
+- The external star fails/betrays; the true star is interior.
+- *Move To You* "stars out of place" (2018) → *N.F.F.* "looked down at my stars" (walked-on, 2018) → *LOOP* "stars conspired" (fate-trap, 2025) → *Soul Is A Star* "your soul is a star" (relocated inward, 2022).
+- Call-and-answer: "even if the stars are out of place" (MTY) ↔ "your soul is a star" (SiaS). A Source/Reflection instance in astronomy. *(dossier 05-A)*
 
 ### Breath / Structure
 - Vowels vs consonants.
@@ -127,6 +131,11 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 - The buried child.
 - Emotional states preserved unchanged.
 - Lucius as temporal preservation system.
+
+### The Clock-Bomb (suppression-pressurizes) [W]
+- Clock + detonation under the bright surface.
+- *Loser* "clock radio / time till I blow" (2018) → *Happy Face* "tick-tock… ticking like a timebomb" (2020) → *Bananas* "ready to blow / nowhere to go" (2026).
+- The suppressed self pressurizes until it erupts; the bomb is woken by media (the clock-radio) [~]. *(dossier 05-C)*
 
 ### Memory Geography
 - Parking garages. Childhood rooms. Hallways. Repeating locations.
