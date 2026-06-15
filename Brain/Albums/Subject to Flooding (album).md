@@ -26,6 +26,14 @@ The reading must hold a tension throughout: the soil contained the seed, but the
 
 ---
 
+## The flood's double meaning [W] (dossier 02)
+
+Roy's own title statement carries **both poles**, so the flood is **double-valenced**:
+- **Drowning — the threat `[G]`:** the album says it outright — *Precious Time*: *"we never see our depth till we're **underwater**… your head goin underwater / waist deep"* (×4); *Shine*: *"you're in the **sea** so you're gonna **drown**."*
+- **Walls-down / communion — the cure `[G]`/`[W]`:** Roy's launch gloss — *"let go of ego… we are all Subject to Flooding"* — plus *Shine* (*"we're all the same in every nation," "sing it if you know you're gonna shine"*) and *Loser* (*"everybody's all the same"*). The fall of the boundary is both the danger and the way back to each other.
+- **The synthesis `[W]`:** *"we are all subject to flooding"* means both *we can all drown* AND *the ego-walls between us can all come down* — vulnerability and communion as the same exposure.
+- **Jericho as proof-text `[~]` — prefiguration, not the Circle yet:** *Loser*'s *"Jericho fell like a wave"* renders a wall's collapse **as water**, and in Joshua 6 the wall falls **to collective sound** — an early image of *shared voice breaking enclosure*. **NB:** prefiguration only — the Circle's date-floor is **2019** and the album's actual Circle seed is *[[Move To You]]* (track 7), not *Loser*. The wall-fall image is still in Roy's curation in 2026 (the 03-23 *"Jericho, when the walls fell?"* repost). *(The Greek **Sirens** on a drowning album = a `[~]` footnote — see Hell of a Night Pt. 2.)*
+
 ## Tracklist
 
 | # | Title |
@@ -144,7 +152,7 @@ The closer rises. *"When I rise to a brand new morning / I know the sun's gonna 
 
 ---
 
-## Two Cross-Track Spines
+## Cross-Track Spines & Debut-Native Methods
 
 ### The Protector triad [W]
 
@@ -157,6 +165,19 @@ The Protector accumulates from Loser forward; the **billing** changes in 2026 (c
 ### The inherited-substrate method [G]
 
 Chaplin + Mercer + Vaughan: the album works by **curating and relaying** cultural transmissions, not only inventing them. This is the discipline that keeps symbolic readings honest — the past is sampled, named, credited, and built into the song-bodies. The method enacts what [[Brain/Concepts/The Circle|the Circle]] will later mythologize as *"the song handed down / called back."* (`CONCEPT-InheritedSubstrate`.)
+
+### The methods were debut-native [G]/[W] (dossier 03)
+Several methods usually credited to the later era are already operating at the debut — as **craft, not finished mythology** (the §Cautions retrospective-coherence guard applies):
+- **Mantra / reprogramming `[G]`:** Atwood **2018** — *"there's freedom in the repetition of that phrase," "the more you tell yourself something out loud, the more you actually start to believe it," "reprogramming inside ourselves."* The later **"chorus as Trojan Horse"** (Audio Addiction 2024 — *"a chorus… is like a mantra… does something to the neurology"*) is the **same doctrine formalized**, not a new one. Date-floor → 2018.
+- **Subtraction as revelation `[G]` anecdote / `[W]` thread:** Atwood 2018 — *Loser* was found by **muting the track** (*"removing everything… brought it to life"*). Re-enacted later (SOL wordless; the Circle-LV counterfeit-reduction); *tsimtsum* `[~]`.
+- **Nursery-rhyme provenance `[G]`:** the inherited-substrate craft is grounded by **Jeff Bhasker** (taught Roy to "study nursery rhymes," and **co-wrote on the debut** — *Superhuman (Interlude)*). The clean debut-native anchor at **track 1** is the **mirror/mask** line (*"the disguise on my face getting clearer,"* Long Time Coming) — **not** the "rich man, poor man" counting-rhyme (a `[~]` *possible* early resonance, demoted: the line reads as an all-stations *merism* with "prophet and priest," not the Tinker-Tailor divination game).
+- **Chaplin's distribution ethic `[G]` import:** *Superhuman (Interlude)* relays *"the kingdom of God is within man / not in one man… but in all men"* — anti-hierarchical, distribute-the-treasure theology, imported via a cited 1940 voice and double-anchored by Roy's own 2018 *"collective consciousness," "we, not me."* The album **imports** the ethic; it does not prove the later doctrine was authored (`[W-]`).
+
+### The face-inventory [W] (dossier 07)
+A **face-census before the mask era literalizes it**: *disguise on my face* → *for the faceless* (Long Time Coming) → *face in the crowd* (Superhuman) → **Happy Face** (2022) → face-paint (2023→). Development, not mere recurrence — the vocabulary out of which Lucius's mask grows is already here. (The 1957 Kazan film *A Face in the Crowd* = a `[~]` footnote, not evidence.)
+
+### The blood census [~] — STF-local (dossier 05-D)
+The album thinks in **blood**, escalating along its arc: *"all of us bleed"* (solidarity, LTC) → *"blood on our knees"* (cost, Superhuman) → *"blood that we're bleeding"* (Dream/Dream) → *"blood in my mouth"* (Hell Pt. 2) → *"Navajo blood in the veins"* (inheritance, Precious Time). Album-local texture — **not** a cross-era thread.
 
 ---
 
