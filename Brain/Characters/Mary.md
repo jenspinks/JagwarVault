@@ -29,6 +29,8 @@ Marker: a **faceless / face-hidden feminine presence**, often a blessing-to-shin
 
 [W] The blessing voice ("born to shine") is the structural answer to the shame-voice ("you're not a real boy", [[Essays/Concepts/Songs/Ballerina Boy]]). Where [[Sir Lucius]] traps in the image, Mary **transmits** the source-light — consistent across contexts, face hidden until earned/seen.
 
+[W-lite] **The faceless inversion has a direction (dossier 07):** 2018 *dedicates the song TO the faceless* (they **receive** — *"this one's for the faceless,"* Long Time Coming); 2025–26 the faceless one **gives** the blessing (Ballerina Boy outro, Weirdness, #1 Champion). The dedication returns as benediction — **object-of-care → source-of-care.** Hold as a *function/direction* swap; do **not** over-personify it into a single traveling entity (register guard).
+
 ## The two-mothers ascent (Malkhut → Binah) `[~]/[P]`
 *Folded from Jen's 2026-06-14 lunar-feminine doctrine. **Syncretic** (Jewish Kabbalah + Hermetic Qabalah held together) and **framework-tier — never authorial intent** (Roy has not said "Mary is the Shekhinah"; the Kabbalah engagement that licenses the frame is the "I'm 33" board + El Roi, [[Roy]]).*
 

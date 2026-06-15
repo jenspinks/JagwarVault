@@ -180,6 +180,7 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 - Ballerina Boy.
 - The sacrificed authentic self.
 - Repressed softness/artistry.
+- **Childlike-voice bracket [W] (dossier 05-F):** the child's voice as a portal to vulnerability that can **awaken or sedate** depending on who controls it — *Loser*'s unashamed child-choir (2018, *"before people told you you were different"* — awakening) vs the *Circle (Lucius Version)* music-box (2026 — sedation). *(2018 gloss [G]; the 2026 BG "children" claim is [?] — credited BG includes the adult Anika Noni Rose, so use "childlike/lullaby texture," not "children's voices.")*
 
 ### Anima / Feminine Principle
 - Mary. Faceless angel. Sophia resonance.
