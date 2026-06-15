@@ -41,6 +41,7 @@ Type: Song · *33* (2022), **track 8 of 10**, 4:25. **Roy English (sole writer)*
 
 ## Resonances
 Emanation / Lurianic procession-return (tikkun = "Great Design") · cosmic mirror · hero's cycle · [~] Pythagorean unfolding (skipped 3 = the Sun, the union's offspring). Framework-attributed; Kabbalah substrate grounded via the board.
+- **[~+] The board's own "Tracks" list is also numbered 1–11.** Beyond the Tree-reading (10 Sefirot + Da'at), the board's [[The Pattern|"Tracks" concept-album list]] runs **eleven entries** (`[G]` — *xWebx → The Fall into Matter → … → The All Is Mind → "O"*), a descent-and-return that **starts at the Web** (the spider's trap — cf. [[Online]]'s *"we're the Spider's food"*) and **ends at "O"** (the circle). So the song's *"From One and through Eleven"* and the board's 1–11 project-list **share both count and shape** (trap → return). **Vetted as an *echo*, NOT a "lock"** (the dossier overstated it): eleven is a common number, and the Tracks list is an *unreleased* project, not *33* — so this raises plausibility that Roy thinks in 1–11 descent-arcs, it does **not** prove the lyric points at the list. `[~+]`. *(33 Deep Dive D5.)*
 
 ## Open Questions
 - Skipped **3** = the Sun, or elided?

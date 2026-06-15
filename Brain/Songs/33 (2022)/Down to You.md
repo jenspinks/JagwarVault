@@ -40,6 +40,11 @@ Type: Song · *33* (2022), **track 7 of 10**, 3:48. Writers **Roy English + Matt
 ## Resonances
 As above/so below (Hermetic; reversible heaven↔earth — cf. [[The Pattern]]) · divine spark / kingdom within (Malkhut) · individuation (be-it) · [~] the One (Neoplatonic / chosen-figure). *"Heaven in your eye"* brushes El-Roi/Eye. Framework-attributed.
 
+## A candidate second Joni dialogue [W candidate]
+The shared title with **Joni Mitchell's "Down To You"** (*Court and Spark*, 1974, Joni sole writer) is more than coincidence — Joni's official lyric (jonimitchell.com) carries the **same resolving hook** *"it all comes down to you"* **and** is itself a **duality** text (*"you're a kind person / you're a cold person too"*; *"you're a brute — you're an angel"*), sibling to this song's *"you are the one"* / heart-over-head. And *33* **already grounds Joni** — the credited *Woodstock* sample on [[Soul Is A Star]] — so this reads as the album's **second Joni dialogue.**
+- **Tier: `[W candidate]`, NOT `[G]`.** *"it all comes down to you"* is **ordinary idiomatic English** and Roy's track carries **no Joni credit** — same-album adjacency raises plausibility but cannot make an uncredited song a sourced reference. (Ledger rule: *a credited influence elsewhere on an album raises a nearby echo's plausibility but does not make an uncredited song a sourced reference.*)
+- The **vertical rotation** — Roy bends the idiom's horizontal sense (responsibility *lands on* you) into cosmic **descent** (*"Heaven in the sky to the Earth below… it all comes down to you"*, see the [W] title-reading above) — is the most distinctive lead, but stays **`[~]`**: "comes down" carries the descent sense for free in English, so it's the chase-if-a-Roy-statement-surfaces lead, not what earns the candidacy. *(33 Deep Dive D2 — reopens the prior "coincidence" verdict; full dossier note on [[Sources/Reference/Joni Mitchell — JT-relevant analysis (research dossiers)]].)*
+
 ## Open Questions
 - "You are the one": responsibility / divinity / identity weighting? (descent + crown tilt toward divinity-realized.)
 - Descending light = revelation / inspiration / emanation? (bidirectionality → emanation.)

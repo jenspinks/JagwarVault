@@ -14,6 +14,16 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-15] fold | 33 dossiers — batch 3 (board-thread / resonance tier: D4, D5, D6, D8, D9)
+Folded the board-thread tier at vetted (deflated) tiers, plus the D2 home-page follow-up:
+- **D6 22-film → `[W]` cluster on [[The Pattern]]** (new "22-film list" section): **Roy's curated Pattern film-index**, explicitly **NOT** "Rosetta Stone"/"decoder"/independent confirmation. Strong-4 = Groundhog Day / The Giver / Pinocchio / Wings of Desire; further pairings `[~]`; **Tron and 2001 split** (two threads, not one cell); Constantine `[?]` + Only Lovers `[~]` bracketed.
+- **D4 Marduk → `[G]` board cells · `[~]`/`[?]` synthesis on [[Pay Attention (feat. little luna)]]:** the board's *"How to anthropomorphize attention? → Marduk"* answer-cell; PA-speaker = Marduk-shaped (mind-god orders the world by killing the feeling-sea) held `[~]`/`[?]`. **Hard firewall: Tiamat ≠ [[Mary]]** (registers rhyme, figures stay unmerged).
+- **D8 Barker → `[W-]` on [[Pay Attention (feat. little luna)]]:** *"Step right up"* census `[G]` ×3 (PA 2022 → Good Time 2023 → WTTC 2026); origin in Attention's own 2022 mouth `[W-]`; the price→party→silence descent `[~]` **flagged reader-imposed** (don't adjudicate cheaper-vs-coercive).
+- **D5 one-through-eleven → `[~+]` on [[Another Way II Heaven]]:** the board's "Tracks" list is also numbered 1–11 (Web→"O"; trap→return), sharing count + shape with *"From One and through Eleven."* Vetted **down from the dossier's "lock" to an echo** (eleven is common; Tracks list is unreleased).
+- **D9 33⅓ → `[~]` curio held below the line on [[33 (album)]], vinyl gate UNMET:** the LP-as-spinning-circle / outside-in / "inside of the inside = where the needle sits" conceit, kept explicitly gated — **no *33* LP pressing confirmed** (Discogs 403'd), so it's "would enact *if* pressed," not a claim. Do not promote without the pressing.
+- **D2 follow-up:** added the `[W candidate]` second-Joni-dialogue note to [[Brain/Songs/33 (2022)/Down to You]] and **resolved** the old "[~] coincidence" open question on [[33 (album)]].
+**Remaining:** batch 4 = D12 (smaller leads: fame-star/soul-star + own-way split → `[W-lite]`; board aphorisms; drum census `[~+]` only-if-reframed; missing-fire + Dickens curios) + stamp VETTED verdicts on the dossier files.
+
 ## [2026-06-15] fold | 33 dossiers — batch 2 (strong survivors: D1, D7, D11)
 Folded the three strong survivors at their vetted tiers:
 - **D7 John 8:32 → `[W]` on [[Inversion]]:** new section *"One verse, three voices — the diachronic refraction."* The verse is **refracted through the heart→split→mind arc** (It's Your Time 2022 → Bad Feeling 2023 → Lucius Lullaby 2026), form held / vector bent — **NOT "degraded"** (vetted reframe). By LL it's a Christ-Mirror instance (form kept, direction reversed). `[G]` the three lyrics · `[W]` the one refraction-line · `[~]` that the bend is "the serpent's."

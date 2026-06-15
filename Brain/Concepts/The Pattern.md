@@ -40,6 +40,18 @@ The Pattern's practical application: if the self is information in the field, it
 ## Apparent distinct concept album [?]
 A board **"Tracks"** list — *The Fall into Matter · Marduk · Let Them Eat Cake · Sun of God · Dissolution · As Above So Below · Genesis · The All Is Mind · O* — runs the Hermetic descent/return as a tracklist. **Distinct from [[33 (album)|*33*]]; likely an unreleased/working concept project — do not conflate.** Cross-bleed into the released catalogue: *"Let Them Eat Cake"* ↔ [[I Like to Party]] (cake), *"Sun of God"* ↔ the Sun/Son pun below.
 
+## The 22-film list — Roy's curated Pattern film-index [W as a cluster · ~ each pairing]
+The board's ***"Pattern Represented in Movies"*** (22 titles, `[G]` the list). Read as a whole it is **Roy's own concept-index** — each title a worked example of "the Pattern," chosen *from his side of the glass.* That cluster-reading is `[W]`; **each individual pairing is `[~]`**; and it is **explicitly NOT** a "Rosetta Stone," a "decoder," or **independent confirmation** of the vault's concepts (it's Roy's curation read back, not external proof — the page's top guard applies: *license the lens, not a master key*).
+- **The strongest four** (survive a skeptic most cleanly — specific, uncopyable fits):
+  - **Groundhog Day** → the Loop escaped through love (the Circle/Loop hinge, named in film)
+  - **The Giver** → anamnesis at collective scale (one keeper remembers = the Wise One)
+  - **Pinocchio** → the wound / strings / realness-blessing (→ [[BALLERINA BOY]] §Pinocchio analogue, [W-])
+  - **Wings of Desire** → watcher-angels who long to feel (the [[The Watchers|Watchers']] holy-witness pole)
+- **Further `[~]` pairings** (plausible, weaker): Fantasia → unearned power → uncontrollable flood; Adaptation → the twin self (real author + invented twin sharing a byline ≈ Jagwar Twin & Sir Lucius); Sleeping Beauty → the enforced sleep / spindle-as-string; The Devil's Advocate → the bargain; Cloud Atlas / The Fountain → transmission across eras.
+- **Split, do not lump: Tron** (the Upload / entering the digital dimension) **vs 2001** ("we come from space" / the star-child) — two different threads, tiered separately, not one "Tron/2001" cell.
+- **Bracketed (hold, don't build):** *Constantine* `[?]` (bears on the unverified "dumbledore" martyr roll-call); *Only Lovers Left Alive* `[~]` (the "never gonna die" register, inverted).
+- **Falsifier / guard:** 22 films can be mapped to almost anything (apophenia risk) — so the claim is **not** that the list proves the concepts, only that **Roy curated a film-set that indexes his own Pattern.** Anti-overfit guard stays on (his own *"I'd map a crow onto Mercury but that's just personal"*). *(33 Deep Dive D6 — vetted down from "Rosetta Stone / independent confirmation" to "curated Pattern film-index.")*
+
 ## Sun/Son [W]
 Board drafts [[Sources/Lyrics/Soul Is A Star|Soul Is A Star]] as **"Sun"** (*"who had a Sun / my Sun was a singer"*) against the released **"Son"** — deliberate homophone, coheres with *"The sun = Symbol of manifesting energy / externalized Life Force"* and *"Sun of God."* (Released lyric verified as "Son" — record the board spelling as artifact detail, do not "correct" the release.)
 
