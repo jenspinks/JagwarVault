@@ -28,7 +28,7 @@ about: "Shared context primer for the 33 vetting dossiers (chunked larger than t
 - **Joni Mitchell's "Woodstock"** is a credited, grounded sample on **"Soul Is A Star."**
 
 ### Tracklist (10)
-1. Online · 2. It's Your Time · 3. Another Way II Heaven · 4. Down to You · 5. Soul Is A Star · 6. Happy Face · 7. I Like to Party · 8. Imagine A World · 9. Pay Attention (feat. little luna) · 10. The Circle
+1. Online · 2. It's Your Time · 3. Pay Attention (feat. little luna) · 4. I Like to Party · 5. Soul Is A Star · 6. Happy Face · 7. Down to You · 8. Another Way II Heaven · 9. Imagine A World · 10. The Circle *(order per the Spotify-verified [[Sources/Credits/33]])*
 
 ## Framework vocabulary (used across the dossiers)
 - **The Circle vs the Loop** — return-to-source (recurrence *with* a held center) vs closed self-referential repetition. *33* closes on the Circle; the Loop is its failure mode.
