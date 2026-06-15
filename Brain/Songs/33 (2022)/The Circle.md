@@ -41,6 +41,7 @@ Type: Song · *33* (2022), **track 10 of 10 — album closer**, 3:50. **Roy Engl
 
 ## Resonances
 Music-of-creation (Ainulindalë) · divine spark / kingdom-within (Malkhut) · Eden-remembered / the Cave (Plato's cave **inverted** — cave holds truth) · tzimtzum / tikkun. [~] Joni's **"Circle Game"** (captive-on-the-carousel) ↔ this **growing** circle — the Joni *33* dialogue ([[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]]). Framework-attributed.
+- **[~] The Circle's missing element — a curio, with a negative-evidence flag.** The Maker comes down to *"the empires of the **Earth, Wind, and the Sea**"* (`[G]`, line 28) — **three elements, no fire.** Fire is the catalogue's **counterfeit-light element** (the tempter's *"Stars are Born from Light"*), so a Maker's domain *without* fire is suggestive. **Curio coincidence:** *Earth, Wind & Fire* is on Roy's named childhood-influence list (Atwood 2018) — the lyric is effectively the band name with **Fire → Sea.** **⚠ Flag: this is negative evidence** (reading meaning into what is *absent*) — the cheapest kind; the swap may be pure euphony (Sea/sing rhyme-field). Kept `[~]` curio, **not built on.** *(33 Deep Dive D12 — confirmed curio; the over-read risk is the lesson, not the fire.)*
 
 ## Open Questions
 - Maker Jagwar / Wise One = divinity / consciousness / Sophia-Shekinah / nature / imagination / **the collective template ("all of us" remembering — Jen)** — or a *fusion* (cosmic-source face + immanent/collective-template face, joined in anamnesis)?

@@ -22,9 +22,11 @@ Reviews describe a blues/jazz feel with storytelling vocal delivery. "Soul Is A 
 - **Live significance `[G]`.** Roy names *Soul Is A Star* and *[[The Circle]]* as his two live favorites — *"i love soul is a star live"* ([2025-07-26](https://discord.com/channels/705391219915882516/709750776284708955/1398472481341181952)) and *"soul is a star i feel so connected to everyone and to god"* ([2025-07-26](https://discord.com/channels/705391219915882516/709750776284708955/1398472707770814526)).
 
 ## Strong Read
+- **[W-lite] Fame-star vs soul-star — a counterfeit and its correction, staged across two tracks.** [[Pay Attention (feat. little luna)|Pay Attention]] (track 3) sells *"Stars are Born from Light"* — the *A Star Is Born* / fame-machine gospel, in the tempter's mouth (the counterfeit-light read on that page). Two tracks later **Soul Is A Star** (track 5) corrects it: *"your **soul** is a star"* — the star relocated from celebrity to the inner light (Roy's grounded creed; §Grounded). So the album stages the **false star-doctrine and its correction as a pair** — the 33-internal version of the STF stars-system (fame-star → soul-star). `[W-lite]`: the two lyrics are `[G]`, the deliberate pairing is the read. *(33 Deep Dive D12 — vetted as one of the two strongest smaller leads.)*
 
 ## Resonances
 - **Father/son transmission** (the Man's *"just one verse"*; the son's *"songs you never heard"*) ↔ the 2021-11-20 poem *"A Darkness from my fathers Side / From long before he earthed"* and *"A stars someone that tells a truth / For better or for worse"* ([[Sources/Quotes/Roy Discord Poems - creations (2021-11-20)]], Poem 1). `[W]`
+- **[~+] Board aphorism gloss:** Roy's [[The Pattern|"I'm 33" board]] cell *"maybe a planet is one star's way of becoming another star"* (`[G]` the cell) glosses this song's *"we fall down as seeds on the ground"* — the seed/star/planet cycle stated as a board theory, rhyming with the lyric. `[~+]` (a board-substrate echo, not proof the lyric points at the cell). *(33 Deep Dive D12.)*
 - **Firewall:** the Joni grounding stops **here** — it does **not** extend to [[SOL]]. See [[SOL]] §"The transmission, surviving partial loss." `[W]` discipline.
 
 ## Open Questions

@@ -8,6 +8,8 @@ about: "Vetting dossier 02 (large chunk) — the headline Pinocchio complex (D1)
 ---
 # Dossier 02 — The Pinocchio Complex & Cross-Era Threads
 
+> **✅ VETTED & FOLDED — 2026-06-15 (Jen + Gemini).** Dispositions: **D1** Pinocchio → `[W-]` "Roy-curated mythic analogue" (NOT "template"/"uniquely") on [[BALLERINA BOY]]; string-inversion → [[Inversion]] `[~]`; Blue Fairy = Mary-function `[~]` strict; Pleasure Island→[[Bananas]] `[?]`. **D7** John 8:32 → `[W]` "one verse refracted through three voices" (NOT "degraded") on [[Inversion]]. **D8** "Step right up" → `[W-]` origin-in-Attention chain on [[Pay Attention (feat. little luna)]]; descent `[~]` reader-imposed. **D9** 33⅓ → `[~]` curio held below the line on [[33 (album)]], **vinyl gate UNMET**. See [[_System/log]] 2026-06-15.
+
 **What to vet.** The pass's headline (D1) plus three threads that track a single element across the catalogue (D7–D9). For D1, judge whether "inherited myth-template" over-claims; for the threads, the usual test — real organizing pattern, or "same word/number recurs"?
 
 ---

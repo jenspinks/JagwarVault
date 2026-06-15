@@ -8,6 +8,8 @@ about: "Vetting dossier 01 (large chunk) — the 'I'm 33' board as a decoder of 
 ---
 # Dossier 01 — The "I'm 33" Board as Decoder
 
+> **✅ VETTED & FOLDED — 2026-06-15 (Jen + Gemini).** Dispositions: **D3** Tao Te Ching → `[G]` substrate, **ch. 19** (corrected from "ch. 5") on [[Roy on Influences]]. **D4** Marduk → `[G]` board cells / `[~]`·`[?]` synthesis on [[Pay Attention (feat. little luna)]], Tiamat≠Mary firewall. **D5** 1-through-11 → `[~+]` echo (down from "lock") on [[Another Way II Heaven]]. **D6** 22-film → `[W]` "curated Pattern film-index" (NOT "Rosetta Stone") on [[The Pattern]], strong-4 + Tron/2001 split + Constantine/Only-Lovers bracketed. See [[_System/log]] 2026-06-15.
+
 **What to vet.** Four findings that all read **Roy's own public concept-board** as a decoder of the catalogue. The shared risk: the board *is* Roy's curation (so decoding it is fair), but it's easy to over-read a list into a cipher. For each, judge the tier and whether the board-cell actually says what's claimed.
 
 *Context: the "I'm 33" board is a public spreadsheet Roy made — influences, a 22-film "Pattern Represented in Movies" list, a numbered "Tracks" concept-album list, aphorisms. (Full background: the Primer.)*

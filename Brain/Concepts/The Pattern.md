@@ -58,6 +58,7 @@ Board drafts [[Sources/Lyrics/Soul Is A Star|Soul Is A Star]] as **"Sun"** (*"wh
 ## Anchors this concept gives the vault
 - **Bailey → grounded-in-his-hand:** sun/money "externalized Life Force," *"patterns of right living formed in the unconscious mind of a race / Coding Consciousness."* Supports [[The Labors of Hercules]].
 - **Inherited substrate, itemized:** Fibonacci/golden-ratio/continued-fractions, EM spectrum, tone↔color, torus, gematria (Hebrew YHWH 10/15/21/26; Greek isopsephy; Lo Shu; Eye-of-Horus), Walter Russell octaves → `CONCEPT-InheritedSubstrate` now has a source catalogue.
+- **The method stated as an aphorism [W-lite]:** the board cell *"every generation carries within it the seed of all previous generations"* (`[G]` the cell) is **the inherited-substrate method written as a theory of consciousness** — the same "song handed down" logic that runs the catalogue (Mercer → Chaplin → Joni; the mother as first channel, [[Roy on Influences]] §D11), declared by Roy in the abstract. `[W-lite]` that the aphorism *is* the substrate-method's self-statement; `[G]` the cell exists. *(33 Deep Dive D12.)*
 - **Rose-cross, Roy-voice [G]:** *"The rose blooms in the center of the cross"* (@JagwarTwin 2026-05-22; [[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]]) — public anchor for the board's **ROSE-cross / "Venus Connection"** cluster (Rosicrucian; Venus traces the 5-petaled rose).
 - **Biography:** *"Statue of Roy"* placard (Roy = high priest of Amun-Ra); mother's *"He who plants a seed believes in God."*
 

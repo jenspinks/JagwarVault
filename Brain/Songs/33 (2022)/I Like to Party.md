@@ -30,12 +30,14 @@ Type: Song · *33* (2022), **track 4 of 10**, 2:57. **Album's most-streamed** (~
 - **[W] Simulated participation** — connection felt without connecting; the clap-along form *is* the deception.
 - **[W] Narrator = the *Pay Attention* attention-force, operating** — *"the people are mine"* echoes track 3's acquisitive "I"; adjacency + shared author + lexical echo. Strengthened by Pay Attention's grounded casting (**Roy = Attention**). Still [W].
 - **[W] Pied Piper structure** — counting + call-and-response enacts the herding (*"follow me… to the beat of my drum"*).
+- **[~+] Whose drum you move to = whose creature you are** (reframed — *not* a "drum census"). The Piper's *"to the beat of my drum… follow me"* here (2021) sits between **a true drum** — *"I can hear your heart, it beats"* (Move To You, 2018) — and **an inherited dread-drum** — *"coming like a drum from 1981"* (All My Friends, 2023). The point isn't that the word "drum" recurs (that's the cheap version); it's that **rhythm = allegiance**: the heart's beat, the Piper's beat, the dread-beat are three masters, and which one you move to is which one owns you. `[~+]` — a framework reading of an allegiance motif, not a claimed authorial through-line. *(33 Deep Dive D12 — vetted up from "census" only on this reframe.)*
 - **[W] Manufactured distraction** — *"bake a truth with a lie… sell 'em the cake"*; targets the information **system**. (Cf. the board *Tracks* song *"Let Them Eat Cake."*)
 - **[W] The interrupt overrides the inner awakening** — the kingdom-within line is literally cut by *"we interrupt our program"*; the distraction-system reasserts. Kingdom-within = `CONCEPT-Malkhut` / Luke 17:21.
 - **[W] Mass culture as secular ritual**; **[~] "in circles" = the Circle inverted** (spectacle/dissipation vs return).
 
 ## Resonances
 Plato's Cave · bread-and-circuses / "let them eat cake" · Gnostic awakening (vs the Devil's) · kingdom-within (Malkhut) · pandemic/Zoom isolation (*"zoom everyday," "don't go outside," "lock up your door"*). [~] "Television" → "tell-a-vision" homophone (do NOT assert; verified text = "Television"). [~] Dickens/dead + *Macbeth* "tale told… signifying nothing." Framework-attributed.
+- **[~] Dickens — vetted *curio*, do not build.** *"looking like Charles Dickens"* is a **chickens/Dickens rhyme** first; the only resonance is that Dickens's most famous opening (*A Tale of Two Cities* — *"it was the best of times, it was the worst of times"*) is *the* duality sentence, faintly rhyming with the catalogue's two-sides register ([[Great Time to Be Human]] avant la lettre). A genuine curio, kept below the line. *(33 Deep Dive D12 — confirmed curio, not promoted.)*
 
 ## Open Questions
 - "The club" = TV / platform-Zoom / society broadly? (zoom imagery → platform isolation.)

@@ -14,6 +14,13 @@ For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
 ---
 
+## [2026-06-15] fold | 33 dossiers — batch 4 (D12 smaller leads) + dossiers stamped VETTED — FOLD COMPLETE
+Folded the D12 smaller-leads tier and **stamped all three dossier files ✅ VETTED & FOLDED**. The 33 vetted-survivor fold is now **complete** (D1–D12 all dispositioned; D10 = confirmed null, no new fold needed):
+- **Two strongest → `[W-lite]`:** fame-star vs soul-star (Pay Attention's *"Stars are Born from Light"* → SiaS's *"your soul is a star"*, staged as counterfeit + correction) on [[Soul Is A Star]]; the "own way" split (Dream/Dream 2018 one-move → Imagine A World 2022 two-move: *out* your way / *go* your way) on [[Imagine A World]].
+- **Board aphorisms:** *"a planet is one star's way of becoming another star"* `[~+]` glosses SiaS *"we fall down as seeds"* ([[Soul Is A Star]]); *"every generation carries… the seed of all previous generations"* `[W-lite]` = the inherited-substrate method self-stated ([[The Pattern]]).
+- **Curios (held below the line):** drum census `[~+]` **reframed** to rhythm=allegiance, NOT a word-census (heart-beat 2018 / Piper's drum 2021 / dread-drum 1981 → 2023) on [[I Like to Party]]; Dickens `[~]` confirmed curio (chickens/Dickens rhyme; Tale-of-Two-Cities duality) on [[I Like to Party]]; missing-fire `[~]` curio with **negative-evidence flag** (Earth/Wind/Sea = "Earth Wind & Fire" minus Fire; absence is the cheapest evidence) on [[The Circle]].
+**Throughline confirmed across all 12:** the survivors are built on **contrast / transformation / an uncopyable anchor** (a verse refracted through three voices; a verbatim proper-noun credit; a phrase that *splits* across eras; a counterfeit staged against its correction); the deflations and curios are built on **recurrence of culturally-available material** (strings, barker-calls, drums, "own way," "down to you," a missing element, a rhyme). *Recurrence is the cheapest evidence; contrast and specificity the dear ones.*
+
 ## [2026-06-15] fold | 33 dossiers — batch 3 (board-thread / resonance tier: D4, D5, D6, D8, D9)
 Folded the board-thread tier at vetted (deflated) tiers, plus the D2 home-page follow-up:
 - **D6 22-film → `[W]` cluster on [[The Pattern]]** (new "22-film list" section): **Roy's curated Pattern film-index**, explicitly **NOT** "Rosetta Stone"/"decoder"/independent confirmation. Strong-4 = Groundhog Day / The Giver / Pinocchio / Wings of Desire; further pairings `[~]`; **Tron and 2001 split** (two threads, not one cell); Constantine `[?]` + Only Lovers `[~]` bracketed.

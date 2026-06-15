@@ -8,6 +8,8 @@ about: "Vetting dossier 03 (large chunk) — influences & the mother-channel: Jo
 ---
 # Dossier 03 — Influences & the Mother-Channel
 
+> **✅ VETTED & FOLDED — 2026-06-15 (Jen + Gemini).** Dispositions: **D2** Joni "Down to You" → `[W candidate]` (gate passed; NOT `[G]` — idiomatic + uncredited; descent-rotation stays `[~]`) on [[Brain/Songs/33 (2022)/Down to You|Down to You]] + the Joni dossier; **ledger rule adopted** (*a credited influence elsewhere on an album raises a nearby echo's plausibility but does not make an uncredited song a sourced reference*). **D10** Dylan null **confirmed** (no 33-lyric contact); three leads stay `[~]`; the "Russell/Kaufman" receipt stays ruled-out `[S]`. **D11** mother-channel → `[W]` on [[Roy on Influences]] (two public anchors only; mother≠Mary; pre-natal limit-case kept out of the public claim entirely). **D12** smaller leads: fame-star/soul-star ([[Soul Is A Star]]) + own-way split ([[Imagine A World]]) → `[W-lite]`; board aphorisms `[W-lite]`/`[~+]` ([[The Pattern]], [[Soul Is A Star]]); drum census `[~+]` reframed + Dickens `[~]` curio ([[I Like to Party]]); missing-fire `[~]` curio ([[The Circle]]). See [[_System/log]] 2026-06-15.
+
 **What to vet.** The album's influence/attribution findings: a reopened Joni claim (D2), an honest Dylan null + leads (D10), the mother-as-first-transmission synthesis (D11), and a set of smaller leads + a discipline ledger (D12). The recurring test: distinguish a *grounded influence* from a *thematic rhyme*, and don't let a credited co-influence look like a source.
 
 ---
