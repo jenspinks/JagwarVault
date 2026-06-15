@@ -48,7 +48,8 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 | [[Ontology]] | Canonical entity registry (IDs) — currently 117 |
 | [[Theme Tracker]] | Master analytical framework (10 sections + Standard Tracking Fields) |
 | [[Boundaries]] | Public/private rules; Secret Document boundary |
-| [[Master Source List]] | Canonical public-source registry |
+| [[Master Source List]] | Canonical public-source registry (Roy's *own* material) |
+| [[Parallel Works Index]] | **By-external-work axis** — interpolations / influences / board-list / resonances / ruled-out registry (the external works the catalogue draws on or rhymes with) |
 | [[Media Index]] | Raw media catalog |
 | `validate.mjs` · `backlink.mjs` | Pre-commit linter · graph back-propagation |
 | `_legacy/` | Pre-restructure synthesis files, awaiting triage |
