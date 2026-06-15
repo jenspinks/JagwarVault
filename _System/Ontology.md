@@ -53,6 +53,7 @@ hand-maintained thereafter.
 | `CONCEPT-TheBanana` | The Banana | Lucius's recurring trigger-prop (EP2 browning banana → Not Your Homie; EP3 → Welcome to the Circus) lifted from a fruit-bowl altar; the **hijacked offering** + the **sterile-clone Loop** (the Cavendish is a sterile clone — public botany). Roy's banana=sterile gloss = **PUBLIC/grounded** (IG comment, instagram.com/reels/DWo9DYzAUZ8/, 2026-06-07) |
 | `CONCEPT-TheAngleAngel` | The Angels and the Angles | consonants=angles (structure) / vowels=angels=spirit (Ruach); the letter-mysticism substrate (Sefer Yetzirah, Abulafia, Ezra ben Solomon, the 72-Name tradition); **`[~]` tradition-correspondence** — cite the tradition, not the man (no public source has Roy stating it as his method); [[Brain/Concepts/The Angels and the Angles]] |
 | `CONCEPT-TheEmptyMirror` | The Empty Mirror | the **hinge object** of the catalogue's *nothing* — a Roy wrist tattoo (*"seeing nothing"*) holding two opposite emptinesses at once: **kenotic** (empty-to-transmit = the source pole) vs **hollow** (empty-of-spirit, structure remaining = the reflection pole); the deepest form of [[Brain/Concepts/Source vs Reflection]]; [[Brain/Concepts/The Empty Mirror]] |
+| `CONCEPT-KeilimVessels` | Keilim / The Breaking of the Vessels | **Shevirat HaKelim** — vessels that hold or shatter the light (vessel `[G]` public + sparks `[~]`; Jen's `[P]` vessel/shell/spark=shevirah lens); [[Keilim - The Breaking of the Vessels]] + doctrine [[Sources/Reference/Shevirat HaKelim (Lurianic doctrine reference)]] |
 
 ## Characters
 
@@ -159,8 +160,7 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 | `CONCEPT-CollectiveAmnesia` | Collective Amnesia | mass forgetting of authentic self; pending |
 | `CONCEPT-TwiceVoicedBlessing` | The Twice-Voiced Blessing | blessing that arrives at both breaking points; pending |
 | `CONCEPT-Tsimtsum` | Tsimtsum | divine contraction / withdrawal to create space; pending |
-| `CONCEPT-TikkunOlam` | Tikkun Olam | repair of the world; pending |
-| `CONCEPT-KeilimVessels` | Keilim / Vessels | vessels that hold or shatter the light; pending |
+| `CONCEPT-TikkunOlam` | Tikkun Olam | repair of the world / raising the sparks (birur); see [[Keilim - The Breaking of the Vessels]]; pageless |
 | `CONCEPT-LiminalSpaces` | Liminal Spaces | thresholds, crossroads, in-between states; pending |
 | `CONCEPT-SacredGeometry` | Sacred Geometry | geometric forms as cosmological language; pending |
 | `CONCEPT-CosmicCycles` | Cosmic Cycles | solar/lunar/seasonal cycles in the work; pending |

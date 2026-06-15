@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, CONCEPT-SourceVsReflection]
   strong_read: [CONCEPT-TheBanana, CONCEPT-TheUpload, CHAR-SirLucius, CONCEPT-TheVoice, CONCEPT-TheMouth]
   resonance:   [CONCEPT-TheAngleAngel, CONCEPT-TheDigitalDouble]
-referenced_by: [CONCEPT-Duality, SONG-GreatTimeToBeHuman]
+referenced_by: [CONCEPT-Duality, CONCEPT-KeilimVessels, SONG-GreatTimeToBeHuman]
 review_date: 2026-12-13
 ---
 # The Empty Mirror

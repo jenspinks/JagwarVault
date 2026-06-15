@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, ALBUM-LuciusLullaby, CHAR-BallerinaBoy]
   strong_read: [CHAR-SirLucius, CONCEPT-TheCircus, SONG-BALLERINABOY, SONG-Weirdness]
   resonance:   [CONCEPT-Tiferet, CONCEPT-Yesod, CONCEPT-TheDwellerOnTheThreshold]
-referenced_by: [SONG-GoodDay, SONG-HellOfANight, SONG-HellOfANightPt2TheHallelujahStickup, SONG-LongTimeComing, SONG-Loser, SONG-NoFakeFriends, SONG-PreciousTime]
+referenced_by: [CONCEPT-KeilimVessels, SONG-GoodDay, SONG-HellOfANight, SONG-HellOfANightPt2TheHallelujahStickup, SONG-LongTimeComing, SONG-Loser, SONG-NoFakeFriends, SONG-PreciousTime]
 review_date: 2026-11-16
 ---
 # Nigredo
