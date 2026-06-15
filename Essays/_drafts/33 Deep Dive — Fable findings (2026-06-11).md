@@ -7,6 +7,8 @@ reading_frame: "Proposals for Jen/Code. Anchors [G] where marked; every synthesi
 ---
 # 33 — Deep Dive (Fable, 2026-06-11)
 
+> **DOSSIER STATUS (2026-06-15):** transformed into an adversarial-vetting packet — `Essays/_drafts/33 Vetting Dossiers/`, **chunked larger** than the STF set (00 Context Primer + **3** thematic dossiers, per Jen): **01** The Board as Decoder (D3/D4/D5/D6) · **02** The Pinocchio Complex & Cross-Era Threads (D1/D7/D8/D9) · **03** Influences & the Mother-Channel (D2/D10/D11/D12). Plain-text, public-material-only (board-embedded DMs withheld), every claim tiered, each ends with "what to challenge." Nothing folded to canon yet — goes out for refutation first, then Code folds survivors.
+
 *Read for this pass: all 10 lyric sources · the 33 album page · the AWIIH / IYT / Online / Imagine A World / Happy Face / SiaS / The Circle essays (dedup) · [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] in full · Roy on 33 · Clovis 2022 + OTW 2022 (via aggregation) · the Joni dossiers' Down-to-You adjudication · Dylan census vault-wide.*
 
 ---
