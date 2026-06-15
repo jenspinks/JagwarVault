@@ -45,7 +45,7 @@ The distinction matters: **steady light illuminates**. You can navigate by it. *
 - **Lucifer / Venus as morning star** — the planet Venus is visible before dawn; the most brilliant object in the pre-dawn sky. Lucifer as the light that precedes the real light, gets mistaken for it, and then is extinguished by it.
 - **Prometheus** — the titan who stole fire from the gods and gave it to humanity; a different Light-Bearer, more ambiguous (punished for a gift)
 - **Kabbalistic Qliphoth** — the Qliphah of Keter (*Thaumiel*) — the counterfeit divine crown; the false light at the top of the inverted tree
-- **Yesod as the reflective sphere** — Yesod does not generate light; it reflects Tiferet's light downward. Lucius-as-Yesod reflects without originating. The flashing lights are reflections of something else's illumination.
+- **Yesod as the reflective sphere** — Yesod does not generate light; it reflects Tiferet's light downward. **Lucius works *through* Yesod** (the image-realm / glamour) — but his own body is the **morning star** (Venus/Netzach, above), not the moon; the Moon (the lunar *position*) is **Roy's** (Malkhut+Yesod). The flashing lights are reflections of something else's illumination. *(Re-mapped 2026-06-14 — see [[Brain/Concepts/Source vs Reflection]] §the Kabbalistic spine.)*
 
 ---
 
