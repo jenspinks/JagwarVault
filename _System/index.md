@@ -13,6 +13,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 
 > This index is **curated** (it explains what things *mean*); it does **not** list every file. To locate a specific file, use one of these — in order:
 >
+> 0. **[[AI Quickstart]]** — the operational **first-pass fetch workflow** (for a song/concept/character, which files in what order). **[[entity-map]]** — canonical **ID → exact file paths** for every entity (no filename guessing; Brain song pages are album-nested). Start here for "give me everything on X."
 > 1. **`grep -rli "term" .`** from the vault root — fastest, and **always current**. (e.g. `grep -rli "honey pop" Sources/Transcripts/`.) Always authoritative; prefer it over inferring a file exists from this catalog.
 > 2. **[[file-map]]** (`_System/file-map.md`) — a **flat, complete enumeration of every `.md` file by folder.** Use when you can't grep or want to see everything at a glance. (Snapshot — regenerate with `python3 _System/gen-file-map.py`.)
 > 3. **The registries below** — for sourced material with URLs/status.
@@ -43,6 +44,9 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 | [[GEMINI]] | Drafting guide for the Gemini collaborator (root file) — division of labor, tiers, boundaries, output template, fact-verification hand-off |
 | [[index]] | This file — dual-axis catalog |
 | [[file-map]] | **Flat enumeration of every `.md` file by folder** — the "what exists & where" map (regen: `gen-file-map.py`) |
+| [[AI Quickstart]] | **Operational first-pass workflow** — per-task fetch recipes (song/concept/character), source-reliability matrix, tier ladder, speaker + boundary guards. Shorter than [[CLAUDE]], more procedural than [[GPT]]. |
+| [[entity-map]] | **Canonical ID → file paths** (machine-readable) — every Ontology entity resolved to its Brain/Lyric/Essay/Credits files + status; a per-song "packet" table (regen: `gen-entity-map.py`) |
+| [[Claim Ledger]] | **Contested-claim register** — load-bearing / struck / ruled-out / private-only claims with status, tier, source path, falsifier. Check before asserting a contested reading (stops struck claims resurrecting) |
 | [[log]] | Chronological operational log |
 | [[lessons-learned]] | Drift & process register |
 | [[Ontology]] | Canonical entity registry (IDs) — currently 117 |

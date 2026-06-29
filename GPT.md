@@ -6,6 +6,9 @@
 Unlike a blind drafting assistant, **you can read the actual files.** So **verify, don't guess.** When a fact is checkable — an Ontology ID, a lyric, a credit, a tier, who said a line — **open the file and look** instead of asserting from memory. The source of truth is one fetch away; that is your single biggest advantage. Don't claim what you can confirm; don't deny what you haven't checked.
 
 ## Read these first (in the repo)
+- **`_System/AI Quickstart.md`** — the **operational first-pass**: exact fetch recipes per task (song/concept/character), the source-reliability matrix, tier ladder, speaker + boundary guards. Start here; it's faster than the constitution.
+- **`_System/entity-map.md`** — canonical **ID → exact file paths** for every entity (Brain song pages are album-nested; casing varies — don't guess, look it up here).
+- **`_System/Claim Ledger.md`** — before asserting a contested reading, check its status here (grounded / struck / ruled-out / private-only). Stops struck claims from resurrecting.
 - **`CLAUDE.md`** — the full operating schema: layers, tiers, frontmatter, anti-patterns. The master rulebook.
 - **`_System/index.md`** — what exists and where (your map).
 - **`_System/Ontology.md`** — the canonical entity IDs + which concepts are homed vs pageless. **Never invent an ID — look it up here.**
