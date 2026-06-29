@@ -80,6 +80,13 @@ for (const rel of pages) {
   if (fm.review_date && /^\d{4}-\d{2}-\d{2}$/.test(fm.review_date) && new Date(fm.review_date) < new Date())
     warns.push(`${rel}: review_date ${fm.review_date} is past — review/refresh 'status'.`);
 
+  // 2f. anti-totalization: a Brain content page can't be 'stable' without a
+  //     Counterarguments / Alternate Reads section (CLAUDE.md ANTI-PATTERNS #1/#2).
+  //     Activates at promotion time; the template now seeds the section for new pages.
+  if (isBrain && fm.status === "stable" && ["song", "concept", "character", "album"].includes(fm.type)
+      && !/^#{1,6}\s+.*(counterargument|alternate read)/im.test(body))
+    warns.push(`${rel}: status: stable but no '## Counterarguments / Alternate Reads' section (anti-totalization).`);
+
   // 2e. broken wikilinks (lenient: resolve by Ontology display-name OR existing file basename)
   //     Strip code (fenced blocks + inline spans) first: a `[[link]]` inside backticks
   //     is documentation of a link (e.g. a provenance note recording a fix), not a live
@@ -108,6 +115,16 @@ for (const id of pageless) {
 //    anchors against _System/Master Source List.md. Documented TODO so the
 //    rule in CLAUDE.md §8 is not silently unimplemented.
 infos.push("[TODO v2] thin-source check (Strong Read <2 public anchors) not yet enforced — manual review until implemented.");
+
+// 5. file-map.md freshness — warn if a present _System/*.md is absent from the map
+//    (catches stale-snapshot drift: new generated/system files not re-mapped).
+try {
+  const fileMap = readFileSync(join(ROOT, "_System/file-map.md"), "utf8");
+  const sysMd = readdirSync(join(ROOT, "_System")).filter((f) => f.endsWith(".md"));
+  const missing = sysMd.filter((f) => !fileMap.includes(f) && !fileMap.includes(f.replace(/\.md$/, "")));
+  if (missing.length)
+    warns.push(`file-map.md omits ${missing.length} present _System/ file(s): ${missing.join(", ")} — re-run gen-file-map.py.`);
+} catch { /* file-map.md absent — skip */ }
 
 // Report
 const tag = (a, l) => a.forEach((m) => console.log(`${l} ${m}`));

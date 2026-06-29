@@ -27,7 +27,7 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## I. ONTOLOGY / CORE DUALITIES
 
-### Source / Reflection
+### Source / Reflection [W]
 - Primary light vs reflected light.
 - Sun (Tiferet / SOL) vs the **reflected bodies**: the **Moon** (Roy's position / Mary-Shekhinah's theology) and the **Morning Star** (Lucius / Venus / Netzach). *(lunar re-mapping 2026-06-14)*
 - Creation vs performance.
@@ -38,20 +38,20 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 - *Move To You* "stars out of place" (2018) → *N.F.F.* "looked down at my stars" (walked-on, 2018) → *LOOP* "stars conspired" (fate-trap, 2025) → *Soul Is A Star* "your soul is a star" (relocated inward, 2022).
 - Call-and-answer: "even if the stars are out of place" (MTY) ↔ "your soul is a star" (SiaS). A Source/Reflection instance in astronomy. *(dossier 05-A)*
 
-### Breath / Structure
+### Breath / Structure [~]
 - Vowels vs consonants.
 - Spirit vs geometry.
 - Feeling vs architecture.
 - Song vs system.
 - The voice animating the form.
 
-### Heart / Mind
+### Heart / Mind [W]
 - Tiferet vs Yesod dominance.
 - Integration vs optimization.
 - Feeling vs calculation.
 - Lucius as survival-intellect separated from heart.
 
-### Machine / Human (`CONCEPT-MachineVsHuman`)
+### Machine / Human (`CONCEPT-MachineVsHuman`) [G]
 - The cosmic-scale statement of Heart/Mind: human (heart, soul, freedom, being *seen-and-loved*) vs machine (optimization, algorithm, surveillance, being *watched-and-quantified*).
 - Seeded 2018 — Chaplin's *Great Dictator* speech in *Superhuman (Interlude)*: "create machines" vs "make this life free and beautiful."
 - Escalates through the digital age and *33* (2022): "Online," "Pay Attention."
@@ -59,14 +59,14 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 - Surveillance = counterfeit El Roi (being-watched vs being-seen). Album frame: *Subject to Flooding* = the Flood, an extinction event [P].
 - Arc: [[Machine vs Human]].
 
-### Hidden / Revealed
+### Hidden / Revealed [W]
 - Buried child.
 - Veiled feminine.
 - Hidden song.
 - Reflection concealing source.
 - Gnosis as uncovering rather than acquisition.
 
-### Motion / Stasis
+### Motion / Stasis [W]
 - Orbit vs Return.
 - Loop vs Circle.
 - Mechanical repetition vs transformative recurrence.
@@ -75,43 +75,43 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## II. TRANSFORMATION & INITIATION
 
-### Nigredo
+### Nigredo [~]
 - Blackening. Collapse. Dissolution.
 - Rock bottom.
 - The wound environment.
 - The Circus as arrested nigredo.
 
-### Albedo
+### Albedo [~]
 - Reclamation.
 - First illumination.
 - Weirdness as sunlight.
 - The buried self resurfacing.
 
-### Rubedo
+### Rubedo [~]
 - Integration completion.
 - Heart and mind reconciled.
 - Solar embodiment.
 - Not fully reached in current arc.
 
-### Alchemical Transmutation
+### Alchemical Transmutation [~]
 - Shame transformed into gold.
 - Weakness becoming sacred material.
 - The rejected becoming luminous.
 
-### Threshold Encounters
+### Threshold Encounters [W]
 - The speaker reaches an edge.
 - A corrective source-figure appears.
 - Instruction is delivered.
 - Movement becomes possible.
 - Examples: faceless angel, fatherly blessing, mirror realization, abyss crossings.
 
-### The Abyss
+### The Abyss [~]
 - Collapse before transformation.
 - The split-point.
 - Da'at crossing.
 - The place where fragmentation either integrates or deepens.
 
-### Love as Transformative Force
+### Love as Transformative Force [W]
 - Love as mechanism, not sentiment.
 - Love transforms orbit into return.
 - Love voluntarily goes back.
@@ -122,12 +122,12 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## III. TIME / MEMORY / RECURSION
 
-### Time as Butcher
+### Time as Butcher [?]
 - Time mutilates, separates, distorts.
 - Deferred confrontation.
 - Preservation through fragmentation.
 
-### Frozen Time
+### Frozen Time [W]
 - The buried child.
 - Emotional states preserved unchanged.
 - Lucius as temporal preservation system.
@@ -137,23 +137,23 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 - *Loser* "clock radio / time till I blow" (2018) → *Happy Face* "tick-tock… ticking like a timebomb" (2020) → *Bananas* "ready to blow / nowhere to go" (2026).
 - The suppressed self pressurizes until it erupts; the bomb is woken by media (the clock-radio) [~]. *(dossier 05-C)*
 
-### Memory Geography
+### Memory Geography [W]
 - Parking garages. Childhood rooms. Hallways. Repeating locations.
 - Physical spaces storing psychic states.
 
-### Recursion
+### Recursion [W]
 - Songs referencing songs.
 - Roles referencing roles.
 - Roy performing Lucius performing Roy.
 - The audience participating in the recursion.
 
-### Orbit / Return
+### Orbit / Return [W]
 - Orbit = sustained relation without arrival.
 - Return = movement toward reconciliation.
 - Orbit appears loyal but perpetuates distance.
 - Return risks transformation.
 
-### Loop / Circle
+### Loop / Circle [W]
 - Loop = repetition without transformation.
 - Circle = recurrence with center.
 - The circle grows from the inside.
@@ -163,36 +163,36 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## IV. PSYCHOLOGICAL ARCHITECTURE
 
-### Duality
+### Duality [W]
 - Core JT architecture.
 - Roy/Lucius. Heart/mind. Structure/breath. Protection/integration.
 
-### The Mask / Persona
+### The Mask / Persona [W]
 - Face paint. Ringmaster identity. The disguise.
 - Persona mistaken for self.
 
-### The Protector
+### The Protector [W]
 - Lucius as survival adaptation.
 - Lunar preservation mechanism.
 - Armor generated from buried vulnerability.
 
-### The Buried Child
+### The Buried Child [W]
 - Ballerina Boy.
 - The sacrificed authentic self.
 - Repressed softness/artistry.
 - **Childlike-voice bracket [W] (dossier 05-F):** the child's voice as a portal to vulnerability that can **awaken or sedate** depending on who controls it — *Loser*'s unashamed child-choir (2018, *"before people told you you were different"* — awakening) vs the *Circle (Lucius Version)* music-box (2026 — sedation). *(2018 gloss [G]; the 2026 BG "children" claim is [?] — credited BG includes the adult Anika Noni Rose, so use "childlike/lullaby texture," not "children's voices.")*
 
-### Anima / Feminine Principle
+### Anima / Feminine Principle [W]
 - Mary. Faceless angel. Sophia resonance.
 - Repressed creative tenderness.
 - Corrective wisdom voice.
 
-### Fragmentation / Many I's
+### Fragmentation / Many I's [W]
 - Mechanical identity structures.
 - Contradictory selves.
 - Performed consciousness.
 
-### The Speaker Problem
+### The Speaker Problem [W]
 - Brandon / Roy / Jagwar Twin / Lucius / lyrical I.
 - Who is speaking? Layered narration. Recursive identity performance.
 
@@ -200,29 +200,29 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## V. INTERIOR / EXTERIOR SYSTEMS
 
-### Interior Architecture
+### Interior Architecture [W]
 - Lucius. Persona formation. Internal loops. Shame structures. Reflection mechanics.
 
-### Exterior Architecture
+### Exterior Architecture [W]
 - The Circus. The Algorithm. The Spectacle. Audience systems. Consumption structures.
 
-### The Circus
+### The Circus [W]
 - Engineered emotion. Performance-as-reality. Managed attention systems.
 
-### The Algorithm
+### The Algorithm [W]
 - Optimization replacing truth. Virality over meaning. Behavioral reinforcement systems.
 
-### Consumption
+### Consumption [W]
 - Artist as product. Audience as metric. Force-feeding imagery.
 
-### Flattened Identity
+### Flattened Identity [W]
 - "You're not a real boy." Social caste enforcement.
 - Human identity compressed into utility.
 
-### Collective Sleep
+### Collective Sleep [W]
 - Mechanical living. Wakefulness vs anesthesia. Gnosis as awakening.
 
-### Objective Art
+### Objective Art [~]
 - Art designed to alter consciousness.
 - Songs functioning as awakening mechanisms.
 
@@ -230,31 +230,31 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## VI. KABBALISTIC / ESOTERIC ARCHITECTURE
 
-### Tree of Life
+### Tree of Life [~]
 - **Malkuth** — body, wound, material world.
 - **Yesod** — moon, memory, reflection, Lucius.
 - **Tiferet** — heart, integration, sunlight.
 - **Da'at** — threshold, throat, hidden crossing.
 
-### Da'at / The Gate
+### Da'at / The Gate [~]
 - Knowledge threshold.
 - Crossing point between divided and integrated self.
 - The abyss interface.
 
-### Tsimtsum
+### Tsimtsum [~]
 - Divine contraction. The void left behind.
 - Space created through absence.
 
-### Shattering / Tikkun
+### Shattering / Tikkun [~]
 - Broken vessels. Fragmented light.
 - Repair through conscious return.
 
-### Keilim / Vessels
+### Keilim / Vessels [~]
 - Structures that hold light.
 - The danger of overflow.
 - Can the vessel survive illumination?
 
-### Sacred Geometry
+### Sacred Geometry [~]
 - Circles. Triangles. Symmetry. Mirror architecture.
 - Structural symbolism beneath visible form.
 
@@ -262,29 +262,29 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## VII. CHANNELS / CONDUITS / TRANSMISSION
 
-### The Voice
+### The Voice [W]
 - Breath becoming utterance.
 - The throat as transmission gate.
 - Speaking vs performing.
 
-### El Roi
+### El Roi [W]
 - The witness-point. Being seen. Gate-condition.
 - The throat inscription.
 - Reflection crossing into expression.
 
-### The Mouth / Throat
+### The Mouth / Throat [W]
 - Da'at anatomy. Site of transmission.
 - The abyss becoming speech.
 
-### Lunar Relay
+### Lunar Relay [W]
 - Lucius as reflected transmission.
 - Moonlight preserving hope through darkness.
 
-### The Song as Channel
+### The Song as Channel [~]
 - Music as transmission medium. Objective art mechanics.
 - Encoded emotional relay.
 
-### Blocked / Hijacked Channels
+### Blocked / Hijacked Channels [W]
 - Algorithmic mediation. Persona distortion.
 - Spectacle replacing transmission.
 
@@ -292,59 +292,59 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## VIII. SYMBOLIC IMAGERY
 
-### The Moon
+### The Moon [W]
 - Reflected light. Survival through darkness. Preservation without origin.
 
-### The Sun / Sunshine
+### The Sun / Sunshine [W]
 - Integration. Source-light. Heart illumination.
 
-### Mirrors
+### Mirrors [W]
 - Reflection. Inversion. Recursive identity.
 
-### Rabbits
+### Rabbits [W]
 - Lucius iconography. Wonderland. Threshold crossing. Trickster energy.
 
-### The Thread
+### The Thread [W]
 - Connection to source. Feeling not sacrificed.
 - The line retrieved during return.
 
-### The Labyrinth
+### The Labyrinth [W]
 - Structured suffering. Hidden center.
 - The maze concealing transformation.
 
-### The Aquarium
+### The Aquarium [~]
 - Visibility within containment. Performer/audience separation.
 
-### Tarot
+### Tarot [~]
 - Archetypal mapping system.
 - Magician, Devil, Fool, Moon, Sun, etc.
 
-### Stars
+### Stars [W]
 - Navigation. Soul-fixed orientation. "Soul Is A Star."
 
 ---
 
 ## IX. RELATIONAL DYNAMICS
 
-### Co-Creation
+### Co-Creation [W]
 - Audience participation in myth formation. Lucius requiring witnesses.
 
-### Witnessing
+### Witnessing [W]
 - Being seen vs being consumed. El Roi mechanics. Recognition vs spectacle.
 
-### Protection vs Possession
+### Protection vs Possession [W]
 - Lucius protecting the child.
 - The danger of overprotection becoming imprisonment.
 
-### Intervention
+### Intervention [W]
 - Mary/faceless angel appearances.
 - Source-voices interrupting recursion.
 
-### Reconciliation
+### Reconciliation [?]
 - The possible future relation between Roy and Lucius.
 - Not destruction, but reordered relationship.
 
-### Homecoming
+### Homecoming [W]
 - Return transformed. Retrieval of the buried self.
 - The movement from orbit to belonging.
 
@@ -352,27 +352,27 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## X. META-STRUCTURAL / RECURSIVE
 
-### Recursive Performance
+### Recursive Performance [W]
 - Roy performing Lucius performing Roy.
 - Meta-commentary embedded in songs/interviews.
 
-### The Hall of Mirrors
+### The Hall of Mirrors [W]
 - Reflection systems generating identity instability.
 - Recursive self-reference.
 
-### Myth Becoming Self-Aware
+### Myth Becoming Self-Aware [W]
 - Songs diagnosing their own mechanics.
 - The narrative observing itself.
 
-### Audience as Participant
+### Audience as Participant [W]
 - Interpretation becoming part of the system.
 - Fans entering the recursion.
 
-### The Archive Itself
+### The Archive Itself [~]
 - The vault as mirror-space.
 - Analysis participating in the symbolic structure it studies.
 
-### Provenance Axis — Inherited Substrate vs Internal Architecture
+### Provenance Axis — Inherited Substrate vs Internal Architecture [G]
 - **A — Internal architecture** (built inside the JT mythos): Lucius, El Roi throat placement, theatrical EPs, loop/circle, algorithm language, mirror recursion, face-paint systems.
 - **B — Inherited substrate** (received/reworked from the wider culture): dream mythology, jazz-standard yearning, American-aspiration narratives, stairway/heaven imagery, gospel-uplift structures, romantic-transcendence language.
 - Confirmed cases (*Subject to Flooding*): *Dream / Dream* interpolates Johnny Mercer's 1944 "Dream" (Mercer + Sarah Vaughan credited); *Superhuman (Interlude)* samples Charlie Chaplin's *Great Dictator* (1940) closing speech (Chaplin credited); *Precious Time* samples the **pre-vocal banter** of Sarah Vaughan's "Dream" (Live at Mister Kelly's, 1957; Vaughan credited). Credits: [[Sources/Credits/Subject to Flooding]].

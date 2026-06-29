@@ -1,5 +1,5 @@
 ---
-type: analysis
+type: index
 status: draft
 created: 2026-06-27
 tier: mixed (see inline)

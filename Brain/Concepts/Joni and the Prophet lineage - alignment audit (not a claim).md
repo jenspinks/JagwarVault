@@ -1,6 +1,5 @@
 ---
-id: LEAD-JoniProphetAudit
-type: lead
+type: index
 status: open
 confidence: low
 source_quality: mixed

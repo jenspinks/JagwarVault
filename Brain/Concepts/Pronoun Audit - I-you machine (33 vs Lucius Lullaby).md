@@ -1,6 +1,5 @@
 ---
-id: ANALYSIS-PronounAudit
-type: concept
+type: index
 status: draft
 confidence: high
 source_quality: empirical-count

@@ -4,10 +4,10 @@ type: character
 status: draft
 confidence: medium
 source_quality: primary-source
-related: [CHAR-Roy, CHAR-SirLucius, SONG-BallerinaBoy, CONCEPT-TheCircle, CONCEPT-SourceVsReflection, CONCEPT-TheDwellerOnTheThreshold]
+related: [CHAR-Roy, CHAR-SirLucius, SONG-BALLERINABOY, CONCEPT-TheCircle, CONCEPT-SourceVsReflection, CONCEPT-TheDwellerOnTheThreshold]
 connections:
   grounded:    [CHAR-Roy]
-  strong_read: [CHAR-SirLucius, SONG-BallerinaBoy]
+  strong_read: [CHAR-SirLucius, SONG-BALLERINABOY]
   resonance:   [CONCEPT-TheDwellerOnTheThreshold]
 review_date: 2026-12-29
 ---

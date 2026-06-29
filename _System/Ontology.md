@@ -56,6 +56,12 @@ hand-maintained thereafter.
 | `CONCEPT-TheAngleAngel` | The Angels and the Angles | consonants=angles (structure) / vowels=angels=spirit (Ruach); the letter-mysticism substrate (Sefer Yetzirah, Abulafia, Ezra ben Solomon, the 72-Name tradition); **`[~]` tradition-correspondence** — cite the tradition, not the man (no public source has Roy stating it as his method); [[Brain/Concepts/The Angels and the Angles]] |
 | `CONCEPT-TheEmptyMirror` | The Empty Mirror | the **hinge object** of the catalogue's *nothing* — a Roy wrist tattoo (*"seeing nothing"*) holding two opposite emptinesses at once: **kenotic** (empty-to-transmit = the source pole) vs **hollow** (empty-of-spirit, structure remaining = the reflection pole); the deepest form of [[Brain/Concepts/Source vs Reflection]]; [[Brain/Concepts/The Empty Mirror]] |
 | `CONCEPT-KeilimVessels` | Keilim / The Breaking of the Vessels | **Shevirat HaKelim** — vessels that hold or shatter the light (vessel `[G]` public + sparks `[~]`; Jen's `[P]` vessel/shell/spark=shevirah lens); [[Keilim - The Breaking of the Vessels]] + doctrine [[Sources/Reference/Shevirat HaKelim (Lurianic doctrine reference)]] |
+| `CONCEPT-TreeOfLife` | Kabbalah — The Tree of Life | the sefirot hub → [[Kabbalah - The Tree of Life]]; homes the ten sefirot anchor-sections (`TheMoon`, `Yesod`, `Malkhut`, `Tiferet`, `Binah`, `Shekhinah`, `Netzach`, `Hod`, `Geburah`, `TikkunOlam`) per the 2026-06-28 Tree-of-Life note below |
+| `CONCEPT-TheDivide` | The Divide | the split/severance motif (heart from mind, structure from source); stub `[?]` → [[The Divide]] |
+| `CONCEPT-TheManifestoCards` | The Manifesto Cards | Roy's publicly-staged manifesto/visual cards (Live Underground reels) — the visual-canon throughline → [[The Manifesto Cards]] |
+| `CONCEPT-TheFlipAndTheDistortingMirror` | The Flip and the Distorting Mirror | child of [[Brain/Concepts/The Mirror]] — the *flip* operation (reflection warped into distortion); reflection that no longer returns true → [[The Flip and the Distorting Mirror]] |
+| `CONCEPT-TheHouseAndTheVessel` | The House & the Vessel — Container Imagery | container imagery (hold / open / shatter / hatch); the vessel that holds or breaks the light → [[The House & the Vessel — Container Imagery (hold, open, shatter, hatch)]]; kin to [[Keilim - The Breaking of the Vessels]] |
+| `CONCEPT-TheIm33BoardDecoded` | The I'm 33 Board — Decoded | a decode of Roy's "I'm 33" board upload-cosmology → [[The Im 33 Board - Decoded (Roy's upload cosmology)]]; companion to the [[Brain/Concepts/The Pattern]] hub for the same [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] artifact |
 
 ## Characters
 
@@ -65,6 +71,7 @@ hand-maintained thereafter.
 | `CHAR-Mary` | Mary |  |
 | `CHAR-Roy` | Roy |  |
 | `CHAR-SirLucius` | Sir Lucius |  |
+| `CHAR-SirRabbit` | Sir Rabbit | → [[Brain/Characters/Sir Rabbit]]; rabbit-register figure (cf. the Rabbits symbol-line); relation to Roy/Lucius held `[?]` |
 
 ## Albums
 

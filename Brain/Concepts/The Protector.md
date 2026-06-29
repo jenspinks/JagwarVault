@@ -4,9 +4,9 @@ type: concept
 status: draft
 confidence: high
 source_quality: interpretive-synthesis
-related: [CHAR-SirLucius, SONG-BallerinaBoy, SONG-Loser, SONG-GoodDay, SONG-NoFakeFriends, SONG-NotYourHomie, CONCEPT-MachineVsHuman, CONCEPT-TheDwellerOnTheThreshold]
+related: [CHAR-SirLucius, SONG-BALLERINABOY, SONG-Loser, SONG-GoodDay, SONG-NoFakeFriends, SONG-NotYourHomie, CONCEPT-MachineVsHuman, CONCEPT-TheDwellerOnTheThreshold]
 connections:
-  grounded:    [SONG-BallerinaBoy]
+  grounded:    [SONG-BALLERINABOY]
   strong_read: [CHAR-SirLucius, SONG-Loser, SONG-GoodDay, SONG-NoFakeFriends, SONG-NotYourHomie]
   resonance:   [CONCEPT-TheDwellerOnTheThreshold, CONCEPT-MachineVsHuman]
 review_date: 2026-12-29

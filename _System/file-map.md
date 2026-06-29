@@ -17,7 +17,7 @@ status: stable
 - GEMINI.md
 - GPT.md
 
-## _System/  (19)
+## _System/  (20)
 - AI Quickstart.md
 - ARCHITECTURE.md
 - Boundaries.md
@@ -37,6 +37,7 @@ status: stable
 - index.md
 - lessons-learned.md
 - log.md
+- open-questions.md
 
 ## Sources/Lyrics/  (47)
 - #1 Champion (la Conquistadora).md

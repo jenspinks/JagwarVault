@@ -2,6 +2,8 @@
 
 **Read this file in full at the start of every session before doing any work in the vault.** Conversation instructions are additive to this schema, not replacements. Surface conflicts before proceeding.
 
+> **Your access mode — LOCAL CONTRIBUTOR.** You operate on the live Obsidian vault with full local filesystem access, including `_Private/` and the Secret Document. Per [[Boundaries]], that material is **findable and readable — you may open it to inform your understanding** — but it is **never quotable, nameable, describable, or usable to ground a claim.** An idea it raises enters the vault only as flagged speculation (`[~]`/`[?]`/Open Question) or re-grounded on an independent public source. This is the opposite end of the access spectrum from the **GitHub-connector GPT** ([[GPT]]), which *structurally cannot see* `_Private/` (it's gitignored and never pushed). Don't import that GPT's "private is invisible" framing — for you it's visible-but-walled. Same boundary outcome (nothing private reaches a grounded claim), reached by discipline rather than by the wall.
+
 ---
 
 ## PURPOSE

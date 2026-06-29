@@ -6,6 +6,20 @@ This file is the canonical place for boundary rules. [[Claude.md]] references th
 
 ---
 
+## Boundary decision tree (TL;DR — start at the top; first match wins)
+
+> A fast router for the prose below. When uncertain, read the named section.
+
+1. **Is it the Secret Document, or an idea traceable only to it?** → **never quote / name / describe / reconstruct.** You *may read it* to inform understanding, but an idea it raises enters the vault **only** as `[~]`/`[?]`/an Open Question, or re-grounded on an independent public source — else omit. *(§The Secret Document)*
+2. **Released catalogue / official video / public social post / published interview / filmed public event?** → **PUBLIC.** Cite the underlying source. *(§What's public)*
+3. **Does it appear only inside a consolidation Doc** (Lyrics Doc, transcript Doc, Quotes Doc)? → cite the **underlying public source**, never the Doc. *(§What's "private" but actually public)*
+4. **Did Roy himself purposefully expose it publicly** (incl. screenshots he circulated)? → **PUBLIC** — *except* any **Jen↔Roy DM**, which stays **private** (confirm which bubbles are Jen's). *(§DMs and screenshots)*
+5. **Inner-Circle post by Roy that he later echoed publicly?** → cite the **public echo**; the Inner-Circle version alone is **private**. *(§Inner Circle content)*
+6. **Member-to-member Inner-Circle content, private DMs/screenshots, or private-call transcripts?** → **PRIVATE.**
+7. **Can't tell?** → default **PRIVATE**, ask Jen. *(§When in doubt)*
+
+---
+
 ## The single most important rule
 
 **If a claim cannot be defended on public material alone, it cannot go in the vault.**
