@@ -25,6 +25,8 @@ The Mask is a recurring structural element across the Jagwar Twin catalogue — 
 
 The project traces a progression: **Happy Face** (the minimum-viable social mask — say you're good, say you're fine), → **the jester face** (the Circus-optimized mask, fully painted, "in style," rewarded with applause), → **the face paint removed** (the potential arc toward Roy English visible beneath). The mask is not simply a lie — it begins as protection, becomes performance, and finally threatens to replace the original.
 
+**"Who are you without the mask?" — turned on the viewer `[W]` (2026).** The WTTC *Live Underground* card asks **"who are you without the mask?"** — pointed not at Roy or Lucius but at **you, the watcher.** The persona question (Jung's *persona* = mask) turned on the **audience**, implicating the viewer in the un-masking the project runs on its characters. It rhymes with the era's other you-are-the-subject lines (*"you are it," "you are the maze," "you're the King"*) — the mask question is now *yours.* And the inverse pole: *dumbledore*'s **empty robe** (*"no body, I'm already gone"*) = the mask that finally **replaced** the face ([[The Empty Mirror]] hollow pole). Card: [[Sources/Quotes/JT IG Reel - welcome to the circus (Live Underground) 2026-06-26]]; device: [[The Manifesto Cards]].
+
 ---
 
 ## In the Project

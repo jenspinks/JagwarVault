@@ -51,6 +51,7 @@ Pinocchio sits on **Roy's own 22-film board** (*"Pattern Represented in Movies,"
 - **Blue Fairy = the [[Mary]]-function** — `[~]` **strict** (a structural rhyme of the realness-conferring feminine voice, held to that function; do not merge the figures).
 - **The string-inversion** (*"I've Got No Strings"* sells severance as freedom; the Circle inverts it to *remembering* the held string) has its **primary home on [[Inversion]]** — it's an inversion-grammar reading, not a Ballerina-Boy claim.
 - **Pleasure Island → [[Bananas]]** (indulgence → donkeys, sold) — `[?]` only, a demoted curio, not load-bearing.
+- **Stromboli = the exploiter pole `[~]`.** The ARG's *"Show Biz"* file (the [[Sources/Artifacts/JT ARG - Darkness_site desktop + pay-attention (Upload manifesto + decoder toolkit) 2026-06-25|Darkness_site Trash]]) links a now-deleted video reused elsewhere as a **Stromboli** voice-reference — the puppet-master showman who covets a *"live puppet"* and *"locks him up, shakes him."* Extends the analogue to its **exploiter**: "Show Biz" = the industry / [[The Circus]] that imprisons the living puppet (the [[The Thread|string]] held by a captor, not the realness-conferring mother). Curated ARG pointer; the video is unrecoverable → held `[~]`, not load-bearing.
 *(33 Deep Dive D1 — vetted down from the dossier's "inherited myth-template" to a curated analogue.)*
 
 ## Open Questions (verification debts)

@@ -86,6 +86,7 @@ The "bubble" is the perimeter of the conscious ego before integration. The fear 
 | [[Essays/Concepts/Jacob & Esau]] | The threshold fear = Jacob at the ford, afraid to *cross back*. Fear of the crossing, not the brother [W]. |
 | `CONCEPT-TheProtector` | The memo is the fear *before* the Protector forms — what gets compensated for when the threshold fear goes unmet. It does **not** "cause" Lucius; it precedes him [W]. |
 | [[Subject to Flooding (album)]] | The memo states the album title's thesis in plain speech: build the vessel before the flood. |
+| [[Keilim - The Breaking of the Vessels]] | *"In pieces, looking for pieces of one piece"* = the shevirah-shape; this memo carries Keilim's scattered-sparks register. |
 
 ---
 

@@ -13,7 +13,7 @@ connections:
 referenced_by: [ALBUM-LuciusLullaby, CHAR-Mary, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-KeilimVessels, CONCEPT-Nigredo, CONCEPT-TheAngleAngel, CONCEPT-TheAudience, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheEmptyMirror, CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-ThePattern, CONCEPT-TheVeil, CONCEPT-TheVoice, SONG-1ChampionLaConquistadora, SONG-AllMyFriends, SONG-BALLERINABOY, SONG-DreamDream, SONG-GoodDay, SONG-HellOfANight, SONG-HellOfANightPt2TheHallelujahStickup, SONG-LongTimeComing, SONG-Loser, SONG-LuciusLullaby, SONG-NoFakeFriends, SONG-NotYourHomie, SONG-Online, SONG-PreciousTime, SONG-Shine, SONG-TheCircleLuciusVersion, SONG-TheWatchers, SONG-Weirdness, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
-x# Roy
+# Roy
 
 Brandon Roy Wronski · b. 1988-05-22, LA · Roy English (2006–2015) → Jagwar Twin (2018–). Signs "El Roy". The heart / vulnerable authentic self.
 

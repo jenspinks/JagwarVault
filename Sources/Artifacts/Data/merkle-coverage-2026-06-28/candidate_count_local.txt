@@ -1,0 +1,3 @@
+local seeds=122879
+unique variants tested=1976475
+open-leaf hits=1

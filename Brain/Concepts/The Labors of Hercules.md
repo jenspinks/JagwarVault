@@ -15,6 +15,8 @@ review_date: 2026-11-16
 ---
 # The Labors of Hercules
 
+> **Full reading:** [[Essays/Concepts/The Labors of Hercules]]
+
 Esoteric trial-cycle framework. **Roy-named, self-applied** (none — IG Live, [[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]]): he names Bailey's book and frames it as *the soul / the initiate going through all twelve signs, "inside of us… in different aspects of our life."* So Bailey is **confirmed in Roy's own toolkit** — no longer Resonance-by-proxy. **But guard holds:** that Roy *uses* the framework ≠ every song encodes a labour; per-song labour-mapping still needs its own anchor (see Counterarguments). One working lens, now a *grounded* one — not the master key.
 
 ## Public anchors (none)

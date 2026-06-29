@@ -28,6 +28,12 @@ The Lurianic vessel/spark/repair myth as it operates in the catalogue. **Portabl
 - **Roy/Lucius → Tohu → Tikkun `[W]`:** the takeover / "war for control" then restoration = Olam HaTohu (isolated, shattered vessels) → Olam HaTikkun (related configuration). The vessels broke *because they couldn't share* — tikkun is the establishment of relationship; *"my mind must serve my heart"* is that re-ordering.
 - **The two emptinesses = the kli vs the husk `[W]`:** [[The Empty Mirror]] already runs this — the **vessel that transmits because it is hollow** (kenotic) vs the **clone/shell that substitutes** (the sealed husk, kelipah). Roy's arc converts the hollow "seeing nothing" into the open "become nothing" — *the same nothing, redeemed* = raising the spark out of the shell.
 - **The banana = a broken Yesod / sterile husk `[W]`:** the kli that holds form but **cannot seed** = a shell severed from the generative flow. Grounded — Roy's own IG gloss *"most bananas are sterile and cannot reproduce by seed ;)"* ([[The Banana]]) — contra the web-report's "not found."
+- **The four-container sub-typology `[W]` (added 2026-06-29, from the [[Sources/Artifacts/HoM Room 51 - Sir Rabbit (poem)|Sir Rabbit poem]]).** "Container" is not one thing — the [[Brain/Characters/Sir Rabbit|Sir Rabbit]] poem supplies a missing **fourth** sub-type between prison and vessel:
+  - **Prison-container** — seals the self *away from* life.
+  - **★ Initiatory-container** — isolates the self *long enough to hear the forgotten heart.* **This is the Fox's box** (*"the lid slammed shut"*): not a prison, an **interiorization chamber** — *"the key is hidden in yourself / just listen for the knock,"* and the key is the recovered **heartbeat.** The box that *looks like* a husk but functions as the threshold to the kli.
+  - **Vessel-container (kli)** — hollow-enough to *hold and transmit* source.
+  - **Husk-container (kelipah)** — holds form but cannot seed/transmit.
+  The diagnostic isn't the *enclosure* (boxes look alike); it's **what the enclosure produces** — severance (prison/husk) vs the heartbeat (initiatory/kli).
 
 ## The Lucius stream-ambiguity (decide per claim)
 Lucius can be read three ways that are **not** the same — flag which stream each claim is in:
@@ -47,4 +53,6 @@ A web-only external report claimed "confirmed absence" of vessel/spark/shevirah 
 `[P]` Jen's vessel/shell/spark = shevirah lens · `[G]` the vessel + sterile-banana anchors · `[W]` the structural mappings · `[~]` the Lurianic framework attribution. Never authorial-intent beyond what Roy has publicly said; the Secret-Doc engagement guides silently and is never cited.
 
 ## See also
+- **[[Brain/Concepts/The House & the Vessel — Container Imagery (hold, open, shatter, hatch)]]** — the broader *architectural* imagery audit (house/door/gate/roof/Ark/egg); the shevirah here = **fate #3 (shatter)** in that note's four-fates frame.
+- **[[Kabbalah - The Tree of Life]]** — the *structure* whose vessels this page breaks (shevirah = the fracture; that page = the Tree it fractures).
 - [[Sources/Reference/Shevirat HaKelim (Lurianic doctrine reference)]] · [[CONCEPT-TikkunOlam|Tikkun Olam]] · [[The Empty Mirror]] · [[Brain/Concepts/Source vs Reflection]] · [[City of Angels]] · [[Roy]] · [[Sir Lucius]] · [[The Light-Bearer]] (Hermetic Qliphah stream)

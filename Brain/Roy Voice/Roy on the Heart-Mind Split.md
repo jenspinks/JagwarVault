@@ -68,6 +68,10 @@ Roy English's own statements distinguishing the **heart / intuition / feeling** 
 
 ---
 
+## Encoded *into the work*, not just spoken — the *Bounce* «Beth» epigraph `[W]`
+
+Every statement above is Roy *speaking about* the split. This one is the doctrine **bound into an artifact itself.** The *Bounce (Live Underground)* video's title card epigraphs **Sefer Yetzirah's Beth passage**, opening: *"**HE MADE THE LETTER BETH KING OVER WISDOM.** He bound a crown to it… and with them He formed **the Moon**…"* Read through **Beth = house = heart** (the chorus is *"tear the roof off of my house"*), the verse's first line states this very pillar outright — **the heart enthroned as *king over* Wisdom (the mind)** — and its next clause **forms the Moon** (the heart/lunar pole in our cosmology). So the heart-over-mind principle isn't only *said* in interviews; it's **encoded esoterically on the work** via Hebrew letter-mysticism — Roy choosing precisely the *"Beth king over Wisdom"* verse as the epigraph to the roof-opening song. **Tier (Jen, 2026-06-28): the intent is not in question, but the heart-identification routes through Beth=house=heart, so this holds at `[W]`, not grounded** — a strong *reading*, and the single strongest *encoded* instance of the pillar. Full decode: [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]]; letter-mysticism axis: [[Kabbalah - The Tree of Life]] · [[The Angels and the Angles]].
+
 ## Patterns visible in the corpus so far
 
 - **The mind is never simply "bad."** Across every statement Roy frames the intellect as *beautiful, high, necessary* — and dangerous precisely *because* of that height (Lucifer = "the most beautiful angel with the most potential to fall"). The antagonist is the mind **enthroned / made final**, not the mind as such. This matches the [[CLAUDE]] guardrail that the antagonist is *the severing of structure from heart*, not structure itself.

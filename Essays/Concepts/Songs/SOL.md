@@ -8,6 +8,7 @@ related: [SONG-MoveToYou, SONG-SoulIsAStar, CHAR-SirLucius, CHAR-Roy, SONG-Playi
 # SOL
 
 > [!warning] Tier discipline for this page
+> - **⚠ The "poem guide" is NOT a SOL source (de-attributed 2026-06-27).** It was filed under SOL via Jen's Drive doc 1, but its grounded homes are two *other* posts: *"white rose in my left hand, and stepped off the ledge"* is the **[[Essays/Concepts/Songs/#1 Champion (la Conquistadora)|#1 Champion]] visualizer caption** (El Roy), and *"my Father's hand / half the man"* is the **Half the Man IG post** (no confirmed song). Only a **thematic** link survives here — both speak of *finding your way back / proceeding on trust* — so the poem appears below **only as cross-reference**, never as SOL's own grounded text. Readings built on it (the Fool/white-rose; the "half the man" Lucius-halves) have moved to #1 Champion.
 > - The **identity** claim "SOL *is* the father's verse / the Joni-borrowed song" is **`[P]` (Jen's position)** — a licensed figure-collapse, never grounded. The defensible `[W]` is that they **participate in the same symbolic object: a transmission surviving partial loss.**
 > - "Love is a question" recurring across the catalogue is **`[G]`**; that SOL is *returning* to it (vs introducing it) is **`[W]`**.
 > - The breath-substrate reading is **`[P]`/`[~]`** (framework-attributed) and does **not** use the private breath-method. It rests on **Genesis *ruach* / Theosophy "Great Breath"** (universal/public). Any Abulafia / letter-mysticism correspondence is **`[~]` tradition-only** ([[The Angels and the Angles]]) — there is **no public Jagwar Twin source** grounding it as Roy's method.
@@ -28,7 +29,7 @@ related: [SONG-MoveToYou, SONG-SoulIsAStar, CHAR-SirLucius, CHAR-Roy, SONG-Playi
 - **The name** `[G]`. In *The Interview* EP2 Roy introduces it as *"The Song of Love"* and begins to sing it — *"Love… love is a question. Everyone's guessing. Everyone knows…"* — before Lucius cuts him off (*"No one wants this love stuff"*) and overrides it with *Not Your Homie.* "SOL" reads as the acronym.
 - **The wordlessness** `[G]`. On the album the track is **voiced but wordless** — primal, non-lexical vocalization, no lexical content (by ear, Jen 2026-06-05; Apple Music "No Lyrics Available"). Not instrumental: it is voice without words.
 - **The overrides and the latency** `[G]`. SOL is refused in EP2, referenced and overridden again in EP3 (*"I was recording the song of love"* → Lucius plays *Welcome to the Circus*), and in EP7 it **resurfaces** on the album Lucius didn't seem to know it was on. When it plays, Lucius is agitated and surprised, has Roy removed, then sits and listens, unsettled, until it finishes. *(Per Jen's note, Lucius's yelled lines aren't reliably synced to the playing track — so this rests on the **stage direction**, not a yelled-line attribution.)*
-- **The poem guide** `[G — URL pending]`. Attached to the public video shorts, in two parts: *"I saw her divinity, but not the one who held it, or where it led. / I followed anyway, white rose in my left hand, and stepped off the ledge."* and *"I reached for my Father's hand / He said you're half the man that you know."*
+- *(The "poem guide" that previously sat here is **de-attributed** — it belongs to [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)|#1 Champion]] (the visualizer caption) + the Half-the-Man post, not SOL. See the warning box. SOL's grounded floor is the three items above.)*
 
 ---
 
@@ -49,7 +50,7 @@ What changes between 2018 and SOL is **compression** `[W]`. Move To You *explain
 
 And Move To You already supplies the answer that SOL embodies `[W]`. Its reply to *love's a question* is never propositional — *not* an answer "from above," *not* one "that you give" — but a question *chosen* and *known*, and then it drops to **pulse**: *"I can hear your heart, it beats / It moves to me / I move to you."* The answer to the question is **response** — one heart moving another, pre-verbal already in 2018. The wordless SOL is that answer carried to its limit: the Song of Love reduced to the only thing it was ever made of, breath and beat rather than statement.
 
-A second thread runs the same way `[W]`: Move To You's *"Even if the stars are out of place / Even if I'm lost along the way"* — proceed anyway — rhymes with the poem guide's *"I followed anyway… stepped off the ledge."* Orientation fails; the speaker moves on **trust, not certainty.** It is the exact inverse of Lucius's survival-clutch in *Playing to the Gods* (*"If I make it out alive, then I'm never gonna die"* `[G]`): Lucius bargains to survive; SOL steps off the ledge.
+A second thread is **thematic, not textual** `[W]`: Move To You's *"Even if the stars are out of place / Even if I'm lost along the way"* — proceed anyway — names the same posture SOL *enacts* (stepping past language into breath). *(The vivid image of it — *"I followed anyway… stepped off the ledge"* — belongs to **#1 Champion's** visualizer caption, **not** SOL; it sits here only as the shared "finding your way back / move on **trust, not certainty**" theme Jen flagged. See [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)]].)* That posture is the inverse of Lucius's survival-clutch in [[Playing to the Gods]] (*"If I make it out alive, then I'm never gonna die"* `[G]`): Lucius bargains to survive.
 
 ---
 
@@ -58,7 +59,7 @@ A second thread runs the same way `[W]`: Move To You's *"Even if the stars are o
 SOL and *Soul Is A Star* are distinct tracks on distinct albums, but they are built on the **same symbolic object: a transmission that survives partial loss** `[W]`. The architecture is parallel:
 
 - In *Soul Is A Star*, the **Man — the father — sings "just one verse"** `[G]`: *"Man said… Can I sing you just one verse? It goes / Your soul is a Star…"* His Son *"wrote songs you never heard"* and died *"before Prophets ever turned."* A father carries a **fragment** of a song the world never received — one surviving verse over a body of lost ones.
-- In SOL, the Song of Love is itself **reduced** — words stripped, only voice surviving — and the poem guide reaches *"for my Father's hand."*
+- In SOL, the Song of Love is itself **reduced** — words stripped, only voice surviving — the surviving transmission rendered as breath. *(SOL's paternal thread is carried by **Soul Is A Star**'s Man-and-his-verse, above — not by the de-attributed "Father's hand" poem.)*
 
 Both songs are organized around something surviving partial loss: father → verse → listener; lost son → unheard songs; written song → words removed. The fragment, the *"just one verse,"* creates an absence — where is the rest? — and SOL is the same absence rendered as the thing left when language goes.
 
@@ -99,7 +100,7 @@ SOL undergoes the most radical reduction in the catalogue — lyrics, narrative,
 
 EP7 does not show Lucius *rejecting* SOL. It shows him **unable to process it** — agitated, surprised, removing Roy, then forced to sit and listen, unsettled. That is not moral opposition; it is the **wrong instrument.** SOL operates in a mode of knowledge Lucius doesn't possess: *"Love is a question. Everyone's guessing. Everyone knows"* is **participatory** knowing — known by being inside it — while Lucius knows through strategy, prediction, leverage, control. He reaches for a thing with no surface to grip.
 
-This fuses with the poem-guide line `[W]`: *"you're half the man that you know."* Lucius is the **words/structure** half; SOL is the **breath/soul** half. He can't metabolize SOL because he has no instrument for breath — he is the half that was never made of it.
+The half-and-half framing fits `[W]`: Lucius is the **words/structure** half; SOL is the **breath/soul** half. He can't metabolize SOL because he has no instrument for breath — he is the half that was never made of it. *(The neat verbal hook for this — *"you're half the man that you know"* — is from the **Half the Man** IG post, **not** SOL: a resonance, not a SOL grounding. The breath-vs-structure point itself stands on EP7's staging + the breath reading.)*
 
 ---
 
@@ -114,16 +115,16 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 ## Resonances `[~]`
 
 - **SOL / Sol — the sun.** *Sol* = sun (Latin/Spanish). Lucius is lunar (reflected light "trying to become a sun"); SOL reads as the solar source the moon can't absorb. The double meaning — **Song Of Love** (acronym) and **Solar source** — coheres.
-- **The white rose, left hand.** In esoteric / alchemical / Marian traditions the white rose = purity, rebirth, divine feminine; the **left** (receptive, lunar, intuitive) hand aligns with *receiving* grace rather than seizing power — consistent with "stepped off the ledge" as surrender.
+- **The white rose / The Fool tarot — moved to [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)|#1 Champion]].** The *"white rose in my left hand, stepped off the ledge"* image (= the Rider-Waite **Fool**, card 0) is #1 Champion's visualizer caption, not SOL's — and #1 Champion's own lyric already says *"made a move like a **fool**."* The reading lives there now; SOL only shares the *theme* (the leap on trust).
 - ***Ruach* / Great Breath** — see §Breath; the feminine substrate under the paternal frame.
 
 ---
 
 ## Open Questions / Verification
 
-- **[?] Poem-guide short URL** — pin the public short so the poem lines move from `[G — URL pending]` to `[G]`. (Grounded as published; this is a citation-locator, not a trust question.)
+- **[x] ~~Poem-guide short URL~~ — RESOLVED by de-attribution (2026-06-27):** the poem is **not SOL's.** Its two halves are the **#1 Champion visualizer reel** (/reel/DXPpfvbAcHh/) and the **Half the Man post** (/p/DWpd0psgedN/). Moved out; see warning box.
 - **[?] Melodic trace** — does the wordless album SOL carry the EP2 *"Love is a question"* melody (a ghost-lyric), or is the vocalization unmoored from the sung line? (Needs ear.)
-- **[?] The "her" of the poem** — divine-feminine / Mary-class candidate, unverified within SOL's own context (and the father-thread is the better-grounded one here).
+- **[x] ~~The "her" of the poem~~** — moot for SOL (the poem → #1 Champion, where "her" = the faceless Mary).
 - **[?] Joni interpolation nature** — melodic vs actual voice (bears on the *Soul Is A Star* transmission frame, indirectly on SOL's). *(Update 2026-06-14: Joni's **cowriter + blessing on *Soul Is A Star*** is now `[G]` — Roy-stated, [Discord 2023-12-21](https://discord.com/channels/705391219915882516/709750776284708955/1187277878539337829); firewalled from SOL per §transmission. The melodic-vs-voice question for SOL itself stays open.)*
 - **[P→?] Affective ending** — "gentle / fragile" needs Jen's ear before grounding.
 
@@ -131,7 +132,7 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 
 ## Counterarguments / Alternate Reads
 
-- **The father is more textually grounded than Mary, here.** SOL's available texts make the **paternal** thread explicit (the poem's "my Father's hand"; the Man's verse in *Soul Is A Star*), where the Mary / feminine thread rests on resonance (white rose, "her divinity"). The page weights accordingly — Mary stays `[~]`, the father is `[G]`-anchored. *(The *ruach*-feminine substrate is not a counter to this; it's the implicit half under the explicit paternal frame.)*
+- **The father is more textually grounded than Mary, here.** With the poem de-attributed, SOL's **paternal** thread rests on **Soul Is A Star**'s Man-and-his-verse `[G]`; the Mary / feminine thread for SOL now rests on the *ruach*-feminine substrate `[~]` alone (the *"her divinity" / "white rose"* anchors that used to support it were the poem = #1 Champion / Half-the-Man, not SOL). The page weights accordingly — the father is the better-grounded thread; Mary stays `[~]`, the implicit half under the explicit paternal frame.
 - **The identity collapse may be too clean.** "SOL *is* the father's verse" is one step past the evidence; "they participate in the same transmission" is the defensible form. Held at `[P]` / `[W]` respectively.
 - **It may be "only" a wordless album closer.** The simplest read — a voice-only outro, no mythology required — is valid on its own; the transmission / breath architecture is interpretation layered on top, coherent with the catalogue but not needed for the track to land.
 
@@ -145,8 +146,9 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 | [[Essays/Concepts/Songs/Soul Is A Star]] | Same transmission — the father's "just one verse," the unheard songs; SOL as the breath the verse points toward. |
 | [[Sir Lucius]] | The boundary of his power — the song he can't metabolize (EP7); the words / structure half to SOL's breath / soul half. |
 | [[Essays/Concepts/Songs/Not Your Homie]] / [[Essays/Concepts/Songs/Welcome to the Circus]] | The tracks Lucius uses to override SOL (EP2 / EP3). |
-| [[Playing to the Gods]] | Inverse — survival-clutch ("if I make it out alive") vs surrender ("stepped off the ledge"). |
-| [[Mary]] | `[~]` divine-feminine candidate for "her divinity" / white rose; tracked, not grounded here. |
+| [[Playing to the Gods]] | Inverse — Lucius's survival-clutch ("if I make it out alive") vs SOL's surrender (stepping past language into breath). |
+| [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)]] | **Thematic only** (the de-attribution). The "white rose / stepped off the ledge" Fool poem is #1 Champion's visualizer caption, not SOL's; the two share just the *finding-your-way-back / leap-on-trust* theme. |
+| [[Mary]] | `[~]` divine-feminine via the *ruach* substrate; the "her divinity / white rose" anchor was the poem (now #1 Champion), so Mary is even lighter here than before. |
 | [[The Circle]] / [[The Thread]] | SOL as the breath at the center the other songs emerge from and return to — origin surfacing at the close (circle, not loop). |
 
 ---
@@ -156,7 +158,7 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 ### Song / release
 - "SOL" — Jagwar Twin, *Lucius Lullaby*, track 14 (Apple Music). Wordless album cut; source note [[Sources/Lyrics/SOL]].
 - *The Interview* EP2 / EP3 / EP7 — the consolidated theatrical canon at [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]]: EP2 names and sings "The Song of Love" (the Bargain; SOL refused); EP3 references SOL (overridden with *Welcome to the Circus*); EP7 SOL agitates Lucius — the song he can't metabolize *(stage direction; yelled lines not track-synced)*.
-- **Poem guide** — public Jagwar Twin video short (URL pending).
+- ~~**Poem guide**~~ — **de-attributed from SOL (2026-06-27)**; it's the [[Sources/Quotes/Roy IG Reel - 1 Champion Visualizer (El Roy caption)|#1 Champion visualizer]] caption + the [[Sources/Quotes/Roy IG Post - Half the Man (Father)|Half the Man]] post, not a SOL source.
 
 ### Cross-catalogue (grounded text)
 - "Move To You" — *Subject to Flooding* (2018), track 7; Roy English + S1; [[Sources/Lyrics/Move To You]] (stable).
@@ -166,5 +168,5 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 ### Frameworks drawn on
 - Genesis 1:2 (*ruach* / breath before speech; the feminine grammatical gender of *ruach*).
 - Theosophy — Blavatsky's "Great Breath" (manifestation as out-breath).
-- Esoteric / Marian — the white rose; the receptive left hand.
+- *(Esoteric / Marian — the white rose; the receptive left hand — **moved to #1 Champion** with the poem.)*
 - Genesis *ruach* and Theosophy's "Great Breath" carry the breath reading (universal/public). Any Abulafia / letter-mysticism correspondence is `[~]` tradition-only ([[The Angels and the Angles]]) — **not** Roy's stated method; the private breath-method is not used on this page.

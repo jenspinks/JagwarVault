@@ -43,7 +43,17 @@ YouTube, music videos, theatrical episodes, listening party footage. Usually ext
 
 | File / Link | Source URL | Date | Subject | Linked Files |
 |---|---|---|---|---|
-| *(none yet)* | | | | |
+| Long Time Coming (remixes) | @JagwarTwin YouTube | ~2019 (cap. 2026-06-25) | manifesto-card device; **hamsa-eye** sigil | [[The Manifesto Cards]] |
+| Happy Face (Official MV) | @JagwarTwin | ~2020 (cap. 2026-06-25) | manifesto card; "ARE YOU CONTENT?"/"BROUGHT TO YOU BUY"; the Circus in 2020; inverted-CRT | [[Sources/Quotes/JT Video - Happy Face (Official MV) 2020]] · [[The Manifesto Cards]] |
+| I Like To Party (Official Audio) | @JagwarTwin | 2021 (cap. 2026-06-25) | "Devil claiming the kingdom"/"you're the King"; Saturn-cake | [[Sources/Quotes/JT Video - I Like To Party (Official Audio) 2021]] · [[Sir Lucius]] |
+| Down to You (Official MV) | @JagwarTwin #Matter | 2021 (cap. 2026-06-25) | "what is it that you seek?"; "AS ABOVE SO BELOW"; concept-of-self (Neville Goddard lead) | [[Sources/Quotes/JT Video - Down to You (Official MV) 2021]] · [[The Pattern]] |
+| Online (Official MV) | @JagwarTwin Vevo | ~2022 (cap. 2026-06-25) | TV-screen-idol; camcorder feedback-loop; garden-as-soundstage; arched-back possession | [[The Digital Double]] · [[Witnessing vs Surveillance]] |
+| Bad Feeling (Oompa Loompa) — single | @JagwarTwin | ~2024 (cap. 2026-06-25) | the realized Circus; **silent-Lucius end-tag + fire-tag** | [[The Circus]] · [[Sir Lucius]] |
+| Bad Feeling (Oompa Loompa) — LL visualizer | @JagwarTwin, "sir lucius" | ~June 2026 (cap. 2026-06-25) | **Lucius co-credited, sings whole song**, moon-stars lullaby stage | [[Sir Lucius]] |
+| Great Time to Be Human — LL visualizer | @JagwarTwin, "sir lucius" | ~late-May 2026 (cap. 2026-06-25) | Lucius co-credited, **lyric-choreographed**; "PROPERTY OF B.M.R.C." rocket launcher | [[Sir Lucius]] · [[The Circus]] |
+| The Watchers (Visualizer) | @JagwarTwin | ~2025 (cap. 2026-06-25) | fleur-de-lis; orb on a star-cloth; **ends with Lucius** | [[The Watchers]] · [[Sir Lucius]] |
+| dumbledore [DARK ARTS] (Visualizer) | @JagwarTwin | ~2024 (cap. 2026-06-25) | the **empty robe** ("no body, I'm already gone"); eyes-wide-shut | [[The Empty Mirror]] · [[The Mask]] |
+| *(all decoded 2026-06-25; full analysis →)* | | | | [[The Visual-Canon Throughline (Manifesto Cards, the Realized Circus, the Silent Lucius) 2019-2026]] |
 
 ---
 

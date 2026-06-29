@@ -66,5 +66,14 @@ I'm the number one champion in this town
 I'm the number one champion in this town
 ```
 
+## Vocal arrangement (audio/visual-confirmed, Jen 2026-06-15)
+Performance fact (not interpretation), from the recording + official visualizer:
+- **The whole chorus is Mary's voice** — the count, the money-verdict, *"if you don't know 'bout me,"* **and** *"I'm the number one champion in this town."*
+- **Lucius sings only** *"I'm the number one champion in this town,"* and enters by **joining Mary** on that line (he has no line of his own).
+- **The ending:** Mary's voice **fades**, Lucius **drowns her out**, she goes **silent**, and he repeats the title a few times **alone** — the **last one a cappella, after the music has ended.**
+- The verse's *"…dropped me dead when she said"* leads **directly into the chorus**, so "she said" = *"A-B-C, count 'em…"* (Mary's count).
+
+Evidence class = performance/visual (cf. the Ballerina Boy outro voice). Analysis: [[Brain/Songs/Lucius Lullaby (2026)/#1 Champion (la Conquistadora)]].
+
 ## Maintenance
 - Bulk-ingested 2026-05-25 from Google Drive doc 1; **VERIFIED → stable 2026-06-06** against Apple Music (Jen screenshots). Drive-draft wording normalized ("ABC"→"A-B-C", "No. 1"→"number one", "know about me"→"know 'bout me"). Repeated identical choruses condensed; all unique lines verbatim.

@@ -8,6 +8,8 @@ about: "Vetting dossier 06 — two public 2023 posts as primary material: the su
 ---
 # Dossier 06 — The 2023 Posts
 
+> **✅ RESOLVED 2026-06-28 — folded.** The B2 attribution is **pinned: Walter Russell, *The Universal One*** (1926), primary-source verified — a genuine **second public Russell receipt**. The 2026-06-14 canon withdrawal (in [[Sources/Quotes/Roy X Posts - 2023 (May-Dec) DRAFT]]) was a search-failure error, now corrected there + in [[The Pattern]]. The sun-death dream (A) + SiaS retelling (B1) live in that same canon quotes note. This dossier is superseded.
+
 **What to vet.** Two **public 2023 posts** treated as primary material connecting to the catalogue. Both are genuinely [G] as *posts*; the question is what they're allowed to ground. One carries an **attribution lead** ([?]) that one search could settle. Tell me where the [W] links over-reach, and help pin the attribution.
 
 ---

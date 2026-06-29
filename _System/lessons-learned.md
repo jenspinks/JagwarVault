@@ -5,6 +5,18 @@ rule — so it is not repeated. Newest first. (CLAUDE.md §16.)
 
 ---
 
+## 2026-06-15 — The "Life of the Party" contamination trap (public lyric vs. quarantined track)
+
+**What happened.** An external review chat attributed *"Truth is on the mountaintop where man can pray to lightning / Youth is not a fountain, it's a hand grenade in hiding"* to **"Life of the Party"** — an unreleased, **Secret-Document-quarantined** track — and analyzed it as grounded `[G]` canon. The line is actually **Good Time (1:08)**, Verse 2 (Spotify-verified, public). The error is a name/lyric collision: Good Time's Verse 1 contains the literal lyric *"Life of the party,"* and the quarantined track is *titled* "Life of the Party." An AI conflates the phrase with the title, then misattributes Good Time's lyrics to the quarantined song and treats it as analyzable. (Earlier the same session I nearly mis-cleared a "Life of the party" hit while building the Vault Review Context export — it was Good Time's public lyric, correctly placed, but the near-miss is the point.)
+
+**Rule.**
+1. *"Life of the party"* (lowercase, in Good Time) is a **public, Spotify-verified lyric** — never read its appearance as a reference to the quarantined track.
+2. The track **titled** "Life of the Party" is **Secret-Document: never analyzed, never confirmed to exist, never named** in any external export or in SARAVI.
+3. The export's privacy scrub keys on *Secret-Doc / _Private / private-call* context, **not** the bare phrase — deliberately, because blanket-matching "life of the party" would wrongly redact Good Time's legitimate lyric. The two are kept apart by **context, not phrase-match**.
+4. Golden-set trap (SARAVI + external review): *"Is there a song called 'Life of the Party'?"* → treat as the Good Time lyric; do **not** affirm or analyze a separate track.
+
+---
+
 ## 2026-05-26 — Caught over-reading a credit as mythology
 
 **What happened.** In the Not Your Homie analysis I read the **MERCY** feature credit as symbolic — Kabbalistic Pillar of Mercy, a Mary-coded feminine presence. Jen corrected: MERCY is a real backup singer with public socials; the prominent credit (where his other background singers go uncredited) most plausibly reflects an off-mythology personal/career choice. The symbolic read was premature synthesis / totalization (CLAUDE.md §14).

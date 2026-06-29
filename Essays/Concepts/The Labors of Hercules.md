@@ -213,6 +213,7 @@ Once a framework "clicks," every symbol begins reading through it. This is the f
 - [[#1 Champion (la Conquistadora)]] — the champion-archetype, possibly the strength-card position
 - [[The Mirror]] — the jaguar's gift of seeing into itself, structurally aligned with the Leo move of facing the lion in the cave
 - [[The Circle]] — Bailey's Labors are themselves a circular journey through the zodiac
+- [[Brain/Concepts/The Labors of Hercules]] — the atomic concept page.
 
 ---
 

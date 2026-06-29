@@ -35,6 +35,11 @@ Type: Song — **Track 9**, the **seed-mantra** of the seamed pair it opens; **t
 - **The seed-spell.** The bare **"never gonna die"** mantra before the City names what it costs — the false immortality (reproducibility, not resurrection) the pair runs on. The deathless thing is the lullaby itself (EP6: Lucius *"I can't be stopped… my lullaby is everywhere"*).
 - **"If I make it out alive"** [W]: refuses to name the trap (industry / psyche / fame / the [[Lucius Lullaby]] floor are all rooms in one building). The cruelty: to win the immortality you must survive the very machine that grants it — **the dragon is the treasure.**
 
+## Visualizer — the blocking is the thesis [G observable / W reading]
+Official visualizer ([[Sources/Reference/Playing to the Gods Visualizer (choreography)]], Jen 2026-06-17): Lucius and a **faceless rabbit-masked woman** stand at a **red-carpet rope-line**, holding hands.
+- **He can't hold her hand *and* perform `[W]`.** The instant the singing starts he **lets go of her** to wave/bow to the cameras — *"the mind divorced from the heart"* enacted as choreography: **playing to the gods requires dropping the connection.** Every time the performance begins, the hand opens.
+- **The flatline under "never gonna die" `[W]` — keystone.** As he **re-takes her hand**, a **heart-monitor flatline** enters and runs to the song's end. The deathless mantra plays **over a stopped heart** — the false immortality (above; *the phoenix that skips the burning*) made audible; *"if I make it out alive"* answered by the monitor (**he didn't**). He returns to the connection only *after* it has flatlined — back to a corpse.
+
 ## Open Questions
 - [x] Full Spotify personnel — **done (Jen, 2026-06-07);** see Credits above.
 - [?] Non-lexical intro/outro ("(Mm-mm)/(Oh-oh)") per Jen's copy — confirm.

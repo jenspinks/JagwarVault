@@ -60,6 +60,9 @@ The two principal forces of the mythology have **parallel slow-emergence timelin
 
 ---
 
+## "You are it" — the inside-of-the-inside, dated to 2021 [G artifact · W reading]
+The Circle's claim #2 (*the thing sought is already within*) has a public-facing slogan — **"you are it"** — now anchored earlier than previously known. The **Down to You** microsite **`thechaosorder.academy`** (2021) states it: *"No one else can be IT, **you must be IT** for your own unique journey"* (recovered verbatim → [[Sources/Artifacts/JT ARG - Death of My Generation + Chaos Order (predecessor sites) 2026-06-26]]). This **predates by four years** the 2025 MAGIK ARG's *"you are it"* drop-1 password — itself grounded to **Alan Watts**'s *"you're it"* doctrine ([[Sources/Quotes/JT MAGIK ARG - middle-of-the-maze (you are it) 2025-05]]). So *"you are it"* is not a 2025 coinage but a **standing Circle-doctrine slogan since at least 2021**: the *"inside of the inside,"* you-are-the-center, turned into a directive. `[G]` the two dated instances; `[W]` that they are one doctrine.
+
 ## In the Project
 - [[Essays/Concepts/Songs/The Circle]] / [[Brain/Songs/33 (2022)/The Circle]] — the **founding myth** (the *33* closer): the maker, the song hidden *"on the inside of the inside,"* loss-by-persuasion, recovery-by-remembrance. The fullest statement.
 - [[Essays/Concepts/Songs/Move To You]] — the **earliest documented naming (2019)**; also where [[The Thread]] (*"world tied on a string"*) and the Circle share an origin.
@@ -75,6 +78,8 @@ The two principal forces of the mythology have **parallel slow-emergence timelin
 | Direction | grows outward **from the inside** | closed, self-referential, going nowhere |
 | Voiced by | Roy (2019; the *33* closer) | Lucius (*"you're in a loop and you don't even realize it,"* EP3) |
 Same recursive geometry, opposite charge. Lucius weaponizes the *word* "loop" against Roy in EP3 — an **inversion** of Roy's own Circle.
+
+**The sharpest one-line distinction `[W]` (from the [[Sources/Artifacts/HoM Room 51 - Sir Rabbit (poem)|Sir Rabbit poem]], 2026-06-29): *Loop = return without transformation. Circle = return with memory restored.*** Sir Rabbit ends *"back where he begun"* — the **same** starting point, but the **subject is not the same**: he returns *after* the heartbeat, the Dove, the Spider, the Divide, the passage through the [Mourning?] Sun. Return-with-the-self-transformed (Circle) vs return-with-the-self-deleted (the Loop's *"everyone looks just like you"*). The geometry is identical; what differs is whether **remembrance** travels the circuit.
 
 ## "The crowd sings it back" — the Circle's signature [W]
 
@@ -119,6 +124,7 @@ Roy's Manifesto FAQ states it outright: *"The world needs music, but the world d
 | [[The Circus]] | The Circle run outward as spectacle — the inversion at social scale. |
 | [[Sir Lucius]] | The figure whose slow emergence runs **parallel** to the Circle's (see Parallel anchors). |
 | [[Sources/Lyrics/The Circle (Lucius Version)]] | The 2026 distorted re-sing of the myth. |
+| [[Kabbalah - The Tree of Life]] | *"The kingdom within"* = **Malkhut**; the Circle's *"inside of the inside"* return = ascent up the Tree (resolves this note's `CONCEPT-Malkhut` resonance). |
 
 ## The Wise One — a faculty, not a figure [W]
 The Wise One who *"remembered she once held the string"* reads best **not as a separate character** but as a **state/faculty: feminine-coded remembrance.** Two prior readings only *look* like they conflict — (a) the Wise One = the awakened Jagwar / recovered self / the listener's future state (remembrance, not acquisition — Gnostic *anamnesis*); (b) the Wise One occupies [[Mary]]'s archetypal territory (the feminine rememberer). They reconcile once remembrance itself is seen as **feminine-coded** in this system (caves, mirrors, intuition, the held thread; *"creation from chaos = the feminine principle"*). The awakened self recovers the song **by recovering the feminine faculty** (feeling / witnessing) the kings suppressed. So **the Wise One = whoever re-members the feminine thread** — listener, Roy, or the feminine principle itself, because at the moment of recovery they are the *same act*. **Hard guards:** **not** "the Wise One *is* Mary" (archetypal *overlap* only, no naming evidence); **not** a fourth roster figure (that's the tetramorph error — cf. [[The Jaguar]]). This sits with the §feminine-thread reading above: one feminine *function* at three points of the cycle.

@@ -15,6 +15,8 @@ review_date: 2026-11-16
 ---
 # The Dweller on the Threshold
 
+> **Full reading:** [[Essays/Concepts/The Dweller on the Threshold]]
+
 ## Definition
 [W] Guardian at the inner-world boundary, made of the practitioner's own unintegrated material. Self-generated, accumulated; grows with what is disowned. Cannot be killed (it is the self); only recognized, named, reintegrated.
 

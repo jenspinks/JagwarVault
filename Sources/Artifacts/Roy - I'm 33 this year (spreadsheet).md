@@ -268,6 +268,7 @@ The full **Soul Is A Star** lyric is laid out in colored cells, **but written "S
 ---
 
 ## Connections (pointers only — no interpretation here)
+**▶ Full analytical breakdown / decode:** [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]] — the board as the project's cosmological source-code (the 10-stage ascent, "One become Two," the Kybalion OS, the upload/vessel, the gematria layer, the image field, board↔HoM).
 - [[The Labors of Hercules]] — the **sun/money "Life Force"**, **"patterns of right living… mind of a race / Coding Consciousness"**, and the **10-stage virtue/vice scale** are Bailey-in-Roy's-hand. The whole board is steeped in **Bailey + Walter Russell + the Kybalion (Hermeticism) + Kabbalah (Tree of Life, Ain/Ain Soph, 4 worlds) + Jung (Shadow/Self) + Plato (Timaeus World-Soul)** — a candidate for a `CONCEPT-` page (see offer in-session).
 - [[Essays/Concepts/Songs/It's Your Time]] — **Noah's Ark "3 stories: Heaven, Man, Earth = 32"** and **"the way to Heaven lies through Hell"** ↔ "a man is like an in-between, animating Heaven and Hell"; the **Well** ("plunge into its bottomless well") ↔ the heart-Well.
 - [[Sir Lucius]] / [[Essays/Concepts/Jacob & Esau]] — the **Jung Persona/Shadow/Self map**, **"One become Two — A Darkness and a Light"**, **Left/Right-hemisphere polarity**, and the Kybalion **Polarity/Gender** principles are the cosmological substrate of the Roy/Lucius split and "two sides to every story."

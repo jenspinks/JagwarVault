@@ -35,6 +35,11 @@ Roy English's own statements about songwriting, production, collaboration, and t
 - **[2020-04-27]** Morning practice: *"I like to wake up, grab a guitar first-thing and follow whatever comes out for five or ten minutes and then leave it. Don't judge it."* — [[American-Songwriter-2020-Shine]]
 - **[2020-04-27]** *"I have found that my best songwriting comes from being alone, centered and present in myself and what I'm feeling."* — [[American-Songwriter-2020-Shine]]
 
+## 2022–2023 — *33* era
+
+- **[2023-04-19]** On [[Brain/Songs/33 (2022)/The Circle|The Circle]]: *"[It] seemed to write itself… The mind had very little to do with it, and I just got out of the way."* — [[AltPress-2023-33]] (the "download" framing **persists into *33***; continuous with 2018).
+- **[2023-04-19]** On the reimagined versions: *"I hope with the reimagined 'angles' of the song that everyone can find their own 'home' in one of the spaces."* — [[AltPress-2023-33]] (Roy's own use of **"angles"** = perspectives/spaces a song is heard in; the public anchor for [[The Angels and the Angles]]' *angles* half).
+
 ## 2024 — Bad Feeling era
 
 - **[2024-07]** *"I never thought about genres, even when I was a kid, I never thought about them. I would just feel a feeling or an emotion."* — [[Strife-2024-Bad-Feeling]]
@@ -83,6 +88,6 @@ Roy's process language across the cleaned Mirror Sessions episodes is remarkably
 
 ## Open queue (themes to track as more interviews ingest)
 
-- Production methods for *33* (2022) — does the "download" framing persist? Or does the work become more architecturally intentional?
+- [x] ~~Production methods for *33* (2022) — does the "download" framing persist?~~ **Resolved (2026-06-15):** yes — *The Circle* *"seemed to write itself… I just got out of the way"* (AltPress 2023; see *33* era above). Continuous with 2018; no shift to architectural-intentional in his own account.
 - Production methods for *Lucius Lullaby* (2026) — when Lucius emerges as character, does Roy's process language change?
 - ~~"Mirror Sessions" — what process is described there?~~ **Partly resolved (2026-05-29):** the process language is emptying / turn-off-the-mind / feeling-over-thinking / surrender (see the 2023–2024 section above), continuous with the 2018 "download" framing. *Still open:* the series' exact start date (episode publish dates pending).

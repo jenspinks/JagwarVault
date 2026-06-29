@@ -17,3 +17,10 @@ _Private/
 
 # Node (qmd / future tooling)
 node_modules/
+
+# Generated external-review export — regenerate via `node _System/build-review-context.mjs`.
+# NOT committed: large (~2.8 MB) and the redactions log aggregates private-referencing text.
+# (The build script itself IS committed — it's the source of truth.)
+_System/Vault Review Context.md
+_System/Vault Review Context/
+_System/Vault Review Context — redactions.md

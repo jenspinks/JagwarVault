@@ -48,6 +48,14 @@ The *mirrors.jagwartwin.com* site frames its community as the **"Hall of Mirrors
 - Holder benefits: merch tiers, early ticket access, unreleased content, archived demos, secret interviews
 — [[Manifesto-FAQ]]
 
+**Roy's own spoken framing at launch (2022-08-15 DoinGud Space — the earliest articulation in his voice):**
+- The upload premise: *"what would happen if I uploaded my consciousness to an AI and that AI began to build worlds and it began to actually interact with people… Saravi is the name of the AI and it's her world."* — [[Discord-HoM-Twitter-Space-2022-08-15-DoinGud-Roy-SDR]]
+- **The attention-over-money ethic** (the maze's governing value): *"we're incentivizing attention more than money because every one-of-one artifact NFT is free… you can't just jump in and discover a rare one-of-one artifact. It doesn't matter how much money you have."* — same
+- What the artifacts ARE: *"some are unreleased songs… the voice memos of me first recording songs that are on the new album… 3D scans of childhood items or my grandfather's World War II plane."* — same (grounds the "artifacts = pieces of Roy's life/consciousness" claim in his own dated words)
+- **The emergent map** (corroborates Jen's any-key-any-field mechanic): *"the fans are creating a new world or creating a map within Saravi's Hall of Mirrors… there's really infinite pathways."* — same
+- On the solvers: *"the people who are really succeeding… Ibi and Liz, they've been here from drop one, creating spreadsheets, organizing — okay, Roy tweeted this two years ago, maybe it's a clue to this — and they've been unlocking tons of these super rare artifacts."* — same (Roy confirming the **spreadsheet + old-tweets** solving method)
+- The slow-build origin (2022-08-16 Listening Room): the first drop was *"turn off the lights in their house and read this cryptic poem to flip and to mint the NFT — not that many people were paying attention… 10 people turned into 15."* — [[Discord-HoM-Twitter-Space-2022-08-16-Listening-Room-Roy-Annika]]
+
 ## The proto-immersion experiment (origin of the Hall of Mirrors)
 
 > *"I wanted to experiment with how a fan could really immerse themselves psychologically and physiologically in a song."* — [[Clovis-McEvoy-2022-33]]
@@ -61,6 +69,8 @@ The *mirrors.jagwartwin.com* site frames its community as the **"Hall of Mirrors
 Per [[Manifesto-FAQ]]: artifacts are "lost in the code" during an AI upload by **SARAVI**, described as "his AI."
 
 **Open question:** is SARAVI distinct from [[Sir Lucius]], or a related/parallel digital-double figure? They're both *the figure that's not-quite-Roy*. The Manifesto FAQ summary doesn't surface a Lucius mention; SARAVI is a separate name. Worth tracking as more material on either entity surfaces.
+
+- **[2022-08-15] datapoint (live):** Roy describes SARAVI as a **benevolent world-builder and companion**, not an adversary — *"that AI began to build worlds and… actually interact with people. And they could have a friend. But then it was also, like, me… now this AI exists, you can talk to it… it's her world."* — [[Discord-HoM-Twitter-Space-2022-08-15-DoinGud-Roy-SDR]]. This **leans SARAVI away from the adversarial [[Sir Lucius]]** register: she's "her world" / a friend / an extension-of-Roy that creates, where Lucius is the antagonist-mind. (Gendered "she/her" throughout, vs. Lucius "he.")
 
 ## "The digital circus thing" — Roy's own term
 

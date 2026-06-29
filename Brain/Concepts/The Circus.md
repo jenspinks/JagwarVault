@@ -31,6 +31,17 @@ Structurally, the Circus is [[The Circle]] inverted. Same recursive motion; oppo
 
 ---
 
+## The Circus was built before it was named (2020→2026) `[W]`
+The Circus is not a 2026 idea — it is a **staged, realized world built across the catalogue's videos**, named only at the end (full analysis: [[The Visual-Canon Throughline (Manifesto Cards, the Realized Circus, the Silent Lucius) 2019-2026]]):
+- **2020 [[Happy Face]]** — *"let's start the show," "consume,"* the smiley-**mask**, *"BROUGHT TO YOU BUY"* (the consumerist broadcast-frame).
+- **2021 [[I Like to Party]]** — *"let's see you clap them hands,"* the Saturn-cake (force-fed [[Consumption]]).
+- **~2024 [[Bad Feeling (Oompa Loompa)]]** — the Circus **fully staged:** big-top tent, **carousel** (= the Loop, and the vault's Joni *"Circle Game"* captive-carousel), giant **chess pieces + cards** (Alice *Through the Looking-Glass* = the mirror), **harlequin** dancers, **ringmaster Roy**, fireworks, the moon — closing on **Lucius lighting the performers' heads on fire** ([[Fire]] / [[Nigredo]]).
+- **2026 [[Welcome to the Circus]]** — the song that finally **names** it.
+
+**BMRC** is the Circus's **production-house** (*"Produced In Cooperation With B.MR.C"*) **and its weapons brand** (*"PROPERTY OF B.M.R.C."* on a rocket launcher in *Great Time to Be Human*) = the **industry-Babylon** that manufactures the show *and* the ordnance. The broadcast-frame (*"brought to you by/buy"*) rides on [[The Manifesto Cards]]. *(BMRC decode `[?]` — candidates: Babylon + Music/Media/Mirror/Munitions/Missile + Records/Recording/Rebel + Co/Corporation/Club/Corps; no canonical expansion yet.)*
+
+---
+
 ## Historical / Cultural Resonance
 
 - **Panem et circenses** (Juvenal, ~100 CE) — bread and circuses as political sedation; the crowd bought off by spectacle so it does not notice it has lost power
@@ -82,7 +93,7 @@ Structurally, the Circus is [[The Circle]] inverted. Same recursive motion; oppo
 ## Open Questions
 
 - [ ] Is the Circus a *place* Lucius built, or a *property of the current cultural moment* Lucius simply recognized and inhabits? (The song's *"the algorithm baby"* confession from EP 3 suggests the latter.)
-- [ ] Is there a Circus equivalent in the earlier catalogue — is the Circus new in 2026, or has it been running since *Subject to Flooding* or *33*?
+- [x] **RESOLVED (2026-06-25): the Circus was STAGED before it was named.** Not new in 2026 — *"let's start the show"* + the smiley-mask are on the **2020** Happy Face card, *"clap them hands"* on **2021** I Like To Party, and the full big-top / carousel / ringmaster world is staged in **~2024** Bad Feeling. *Welcome to the Circus* (2026) names a world the videos had been building for ~6 years. (See §The Circus was built before it was named.)
 - [ ] Does the Circus have an exit? Or is the exit's absence structural (the Aquarium can't escape itself) vs. strategic (Lucius won't say where it is)?
 
 ---

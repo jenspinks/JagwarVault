@@ -22,6 +22,8 @@ hand-maintained thereafter.
 | `CONCEPT-Duality` | Duality |  |
 | `CONCEPT-JacobEsau` | Jacob & Esau | Roy/Lucius as the divided-blessing twins (Gen 25–33); interpretation on the Genesis substrate (no Bailey claim); integration = the embrace (Gen 33:4), not conquest; Essay filed, Brain node pending |
 | `CONCEPT-Fire` | Fire |  |
+| `CONCEPT-Gnosticism` | Gnosticism — The World as Trap | **★ esoteric-stream HUB (minted 2026-06-29) → [[Brain/Concepts/Gnosticism - The World as Trap]]** — the **anti-cosmic** stream (false world-system / trapped spark / Demiurge=Lucius / gnosis=*anamnesis*); closest to Roy's *public* "wake up / escape the circus" frame `[G]`. ⚠ stream-discipline: Gnostic (escape) ≠ Lurianic ([[Kabbalah - The Tree of Life]], redeem) ≠ Hermetic ([[Brain/Concepts/Hermeticism - As Above So Below]]) |
+| `CONCEPT-Hermeticism` | Hermeticism — As Above So Below | **★ esoteric-stream HUB (minted 2026-06-29) → [[Brain/Concepts/Hermeticism - As Above So Below]]** — the **world-affirming correspondence** stream; **most board-grounded** (Kybalion's 7 principles transcribed; "AS ABOVE SO BELOW" public 2021 card). Holds the 7-principle frame + the Hermetic-Qabalah/tarot/Qliphoth scaffold; [[Brain/Concepts/The Pattern]] = its worked Correspondence node. ⚠ Hermetic (affirm) ≠ Gnostic (escape) ≠ Lurianic |
 | `CONCEPT-Inversion` | Inversion |  |
 | `CONCEPT-Nigredo` | Nigredo |  |
 | `CONCEPT-PanemEtCircenses` | Panem et Circenses |  |
@@ -131,9 +133,11 @@ hand-maintained thereafter.
 These resolve for validation but have no page. `validate.mjs` reports them
 as pageless (warning, not error). Promote to a section above when a page is written.
 
+> **2026-06-28 — Tree-of-Life hub:** the ten sefirot below (`TheMoon`, `Yesod`, `Malkhut`, `Tiferet`, `Binah`, `Shekhinah`, `Netzach`, `Hod`, `Geburah`, `TikkunOlam`) are now homed as **anchor-sections** of [[Kabbalah - The Tree of Life]] (resolve to `#<Sefirah>` there). Left in this table pending a registry migration if `validate.mjs` should stop flagging them as pageless.
+
 | ID | Display name | Note |
 |---|---|---|
-| `CONCEPT-TheMirror` | The Mirror | Lucius anchor; referenced, no page yet |
+| `CONCEPT-TheMirror` | The Mirror | Lucius anchor; **★ PAGE MINTED 2026-06-29 (status: stable) → [[Brain/Concepts/The Mirror]]** — the parent **device** (self becomes visible as other) above its children: Source vs Reflection (ethical test) / Empty Mirror (failure state) / The Flip (operation) / Speaker Problem (grammar); Lucius = the reflection that gained autonomy. *"A mirror is faithful while it knows it is a mirror."* |
 | `CONCEPT-TheMoon` | The Moon | lunar/Yesod register; pending |
 | `CONCEPT-Yesod` | Yesod | Kabbalah reflection sphere; pending |
 | `CONCEPT-Malkhut` | Malkhut | Kabbalah kingdom; pending |
@@ -146,11 +150,11 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 | `CONCEPT-Albedo` | Albedo | alchemical whitening / first reclamation; pending |
 | `CONCEPT-Rubedo` | Rubedo | alchemical completion / integration achieved; pending |
 | `CONCEPT-OrbitReturn` | Orbit / Return | orbit = sustained distance; return = transformative approach; pending |
-| `CONCEPT-TheSpeakerProblem` | The Speaker Problem | Brandon/Roy/JT/Lucius/lyrical-I layering; pending |
-| `CONCEPT-FlattenedIdentity` | Flattened Identity | identity compressed into social role or utility; rich/poor/prophet/priest collapse; pending |
-| `CONCEPT-InheritedSubstrate` | Inherited Substrate vs Internal Architecture | provenance axis: symbols received/reworked from the wider culture (dream mythology, jazz-standard yearning, gospel uplift, stairway/heaven) vs. built inside the JT mythos (Lucius, loop/circle, algorithm, mirror recursion); prefer mythic emergence over intentional encoding; pending |
-| `CONCEPT-MachineVsHuman` | Machine vs Human | core duality: human (heart, soul, freedom, being seen-and-loved) vs machine (optimization, algorithm, surveillance, being watched-and-quantified); the antagonist is the severing of structure from heart (Yesod severed from Tiferet), NOT the machine; seeded 2018 (Chaplin/Superhuman Interlude), escalates through digital age + *33* (2022), personified as Lucius; arc at Essays/Arcs/Machine vs Human; pending |
-| `CONCEPT-TheProtector` | The Protector | adaptive psychic-defense architecture / armor; "if humiliation is inevitable, control the humiliation yourself"; emerges as anticipatory shame-neutralization (cf. Loser's "I'm a loser, baby, just like you"); precursor to Sir Lucius — Lucius is The Protector crystallized into theatrical identity; pending |
+| `CONCEPT-TheSpeakerProblem` | The Speaker Problem | Brandon/Roy/JT/Lucius/lyrical-I layering; **★ PAGE MINTED 2026-06-29 → [[Brain/Concepts/The Speaker Problem]]** (the layered "who is speaking?" + the un-fixable "you" = the mirror at the level of grammar; the I↔you count [I 492 / you 478] is its empirical footing) |
+| `CONCEPT-FlattenedIdentity` | Flattened Identity | identity compressed into social role or utility; rich/poor/prophet/priest collapse; **★ PAGE MINTED 2026-06-29 (status: draft — needs line-level audit) → [[Brain/Concepts/Flattened Identity]]** — the Algorithm's reduction of a living self to a usable surface (person→profile); "not the mask — the system insisting the mask is all there is"; distinct from Mask/Digital-Double/Mirror |
+| `CONCEPT-InheritedSubstrate` | Inherited Substrate vs Internal Architecture | provenance axis: symbols received/reworked from the wider culture (dream mythology, jazz-standard yearning, gospel uplift, stairway/heaven) vs. built inside the JT mythos (Lucius, loop/circle, algorithm, mirror recursion); prefer mythic emergence over intentional encoding; **★ PAGE MINTED 2026-06-29 (status: stable — methodological keystone) → [[Brain/Concepts/Inherited Substrate]]** (the provenance LAW + tier ladder [`[G]` credited / `[W]` adopted / `[~]` shared-tradition / `[?]` tempting / ✗ ruled-out]; "not all resemblance is reference" — the page that stops tier-inflation) |
+| `CONCEPT-MachineVsHuman` | Machine vs Human | core duality: human (heart, soul, freedom, being seen-and-loved) vs machine (optimization, algorithm, surveillance, being watched-and-quantified); the antagonist is the severing of structure from heart (Yesod severed from Tiferet), NOT the machine; seeded 2018 (Chaplin/Superhuman Interlude), escalates through digital age + *33* (2022), personified as Lucius; arc at Essays/Arcs/Machine vs Human; **★ CONCEPT PAGE MINTED 2026-06-29 → [[Brain/Concepts/Machine vs Human]]** (the doctrine + concept-web placement: genus = Source vs Reflection, sibling = Witnessing vs Surveillance; the *narrative* stays at the arc) |
+| `CONCEPT-TheProtector` | The Protector | adaptive psychic-defense architecture / armor; "if humiliation is inevitable, control the humiliation yourself"; emerges as anticipatory shame-neutralization (cf. Loser's "I'm a loser, baby, just like you"); precursor to Sir Lucius — Lucius is The Protector crystallized into theatrical identity; **★ PAGE MINTED 2026-06-29 → [[Brain/Concepts/The Protector]]** (promoted from pageless — a foundational gap: the survival-self [Ballerina-Boy wound → Loser/Good Day/NFF armor → Lucius]; child-knight `99996623` = biographical genesis; Vibe-Hinge "can't kill my vibe"→"sucker, it's a vibe" = the lexical bridge) |
 | `CONCEPT-AnimaAnimus` | Anima/Animus | Jungian feminine/masculine within; pending |
 | `CONCEPT-AlchemicalTransmutation` | Alchemical Transmutation | broader alchemy arc (Nigredo→Rubedo); pending |
 | `CONCEPT-TheLoop` | The Loop / Cycles | recurring cycles, cosmic and personal; pending |

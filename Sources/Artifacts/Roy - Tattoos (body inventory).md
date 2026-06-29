@@ -37,7 +37,7 @@ The tattoos are not a list — they are a **symmetrical map.**
 - **"In Process"** — inner forearm.
 - **Dotted Tree of Life** (simple) — upper forearm near wrist.
 - **"ME"** — crossed out. Gloss: *"because it's not about me."*
-- **"The Empty Mirror"** — wrist. Gloss: *"about looking at yourself in the mirror and seeing nothing."*
+- **"The Empty Mirror"** — wrist. Gloss: *"about looking at yourself in the mirror and seeing nothing."* → [[The Empty Mirror]] (the wrist-tattoo gloss this concept is anchored on).
 - **"All reality Is"** — inside upper arm.
 - **"Remember you're alive"** — inner upper arm.
 - **"Y"** — on the elbow. Gloss: *"because you've gotta ask the question."*

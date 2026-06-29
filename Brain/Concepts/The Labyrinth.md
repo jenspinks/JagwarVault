@@ -27,6 +27,8 @@ The Labyrinth is structurally related to but distinct from [[The Aquarium]] (the
 
 The exit from the Labyrinth, in the classical tradition, requires a **thread** — Ariadne's thread. Without it, Theseus dies. The thread is the line through the Circle, the *"world tied on a string,"* the feeling that must not be sacrificed. The reason the maze has *"no exit sign"* is not that no exit exists — it is that the thread has been severed or has never been held.
 
+**"You are the maze" — the self IS the labyrinth `[W]` (2026).** The WTTC *Live Underground* card carries a circular-labyrinth seal whose legend is **"you are the maze."** This escalates the project's maze-line: MAGIK's *"you're the **middle** of a maze"* (the center) → *"you **are** the maze"* (the whole structure). You are not lost *in* the labyrinth — **you are it**; the seeker is the thing navigated. Same you-are-the-thing move as the MAGIK-ARG password *"you are it"* (Watts) and I Like To Party's *"you're the Kingdom, you're the King"* (2021). The exit, then, is not *out* but *in* — through yourself (the Circle's *"inside of the inside"*). Card: [[Sources/Quotes/JT IG Reel - welcome to the circus (Live Underground) 2026-06-26]]; device: [[The Manifesto Cards]].
+
 ---
 
 ## Mythological Foundation

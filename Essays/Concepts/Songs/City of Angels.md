@@ -90,6 +90,8 @@ And the road there is a fallen ladder. *"City of **Angels** / walking down the *
 | [[Essays/Concepts/Songs/All My Friends\|All My Friends]] | The **2023 clone-seed** — *"I feel like a clone in a crowded city"* (retrospective antecedent of *"everyone looks just like you"*; architecture, not asserted 2023 intent). |
 | [[Mary]] | The faceless true-feminine the "beautiful stranger" counterfeits. |
 | [[Lucius Lullaby]] | The sister-confession that *can* say "it's all just a lie" — this song can't. |
+| [[Keilim - The Breaking of the Vessels]] | The star-lined road / scattered light = *shevirat ha-kelim* (nitzotzot) — this song grounds Keilim's "scattered sparks." |
+| [[Sir Lucius]] | The gallery-gospel voice reads *as* Lucius — the counterfeit-communion seller. |
 
 ## Notes
 The reviewer-AI round (2026-06-07) contributed the gallery idiom, the pronoun-rotation catch, the inverted-Jacob's-Ladder, and the faced/faceless axis; Jen contributed the phoenix frame. Facts (placement, credits, EP6, the board) verified against the vault.

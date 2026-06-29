@@ -108,6 +108,7 @@ The Pinocchio analogue (→ [[Ballerina Boy]] §Resonance) lands here for one re
 - [[Sir Lucius]] — the inversion operator
 - [[The Circus]] — the Circus as systematic inversion at scale
 - [[The Qliphoth]] — pending; the Kabbalistic concept page that would hold the Tree-of-Death framework
+- [[The Flip and the Distorting Mirror]] — inversion as the **operation** (One→Two flip + funhouse distortion); the engine this concept names.
 
 ---
 
