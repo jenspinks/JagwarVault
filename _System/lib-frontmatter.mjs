@@ -42,15 +42,18 @@ export function readFrontmatter(absPath) {
 }
 
 // All entity refs a page points at (related + every connections tier).
+// Reads BOTH shapes: nested `connections: {grounded,strong_read,resonance}`
+// (songs/concepts/characters) AND flat top-level `grounded/strong_read/resonance`
+// (Brain/Media/ pages — flattened for Obsidian property usability, 2026-06-29).
 export function outRefs(fm) {
   if (!fm) return [];
   const out = [];
+  const tiers = ["grounded", "strong_read", "resonance"];
   if (Array.isArray(fm.related)) out.push(...fm.related);
   const c = fm.connections;
   if (c && typeof c === "object") {
-    for (const tier of ["grounded", "strong_read", "resonance"]) {
-      if (Array.isArray(c[tier])) out.push(...c[tier]);
-    }
+    for (const tier of tiers) if (Array.isArray(c[tier])) out.push(...c[tier]);
   }
+  for (const tier of tiers) if (Array.isArray(fm[tier])) out.push(...fm[tier]); // flat shape
   return [...new Set(out)];
 }

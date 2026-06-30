@@ -149,6 +149,7 @@ Media objects (images, tweets, drawings, objects, video, audio) given full analy
 | ID | Display name | Note |
 |---|---|---|
 | `MEDIA-EggSunrise` | "Egg" — Kush, *Sunrise by the Ocean* | JT 2021 tweet (one word "Egg") over Vladimir Kush's painting; HoM open-leaf `dd61bc93`; egg cracks to birth the sun over water = the solar-birth-out-of-the-Flood resonance → [[Brain/Media/Egg - Sunrise by the Ocean (Vladimir Kush)]] |
+| `MEDIA-HowToLiveForever` | "How to Live Forever? ∞" — Roy cosmology drawing | hand-drawn syncretic-cosmology page (hopscotch ladder Earth→Heaven, NChSh, Lo Shu square, Eye-of-Horus fractions, Fibonacci daisy, continued fractions, Genesis); HoM open-leaf `e338a9c6` — a **code-concordance** (lines key *other* rooms); sibling to the "I'm 33" board → [[Brain/Media/How to Live Forever (Roy cosmology drawing)]] |
 
 ---
 

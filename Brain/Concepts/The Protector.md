@@ -37,6 +37,9 @@ So Lucius doesn't *have* a protective side among others; **he *is* the Protector
 ## The self-sabotage paradox `[W]`
 A protector formed around trauma **craves healing and sabotages it in the same breath**, because healing dissolves its job — *"if Roy becomes whole, Lucius no longer rules the system"* ([[Essays/Concepts/Songs/Not Your Homie|Not Your Homie]]). This is why Lucius **mocks** Ballerina Boy in the visual lore (*"when you're vulnerable you LOSE!"*): rescuing the buried child ends the Protector's monopoly on protection. The longing-to-be-known while enforcing *"you don't know me"* is the arc's core drama.
 
+## Grounded neighbor — the inherited voice `[~]`
+Roy names, in his own voice, a hostile inner voice he experiences as **not his own, and ancestral**: *"those voices… I know that they're not mine… from mistakes that my ancestors made — lies that they believed"* ([[Sources/Transcripts/MirrorSessions-CalumHood-ComfortableInSilence|Calum Hood Mirror Session]]; see [[Brain/Concepts/Inherited Substrate]] §family transmission). This is a **different mechanism** from the Protector — *inherited* voice, not *armor built over a personal wound* — but it is a **grounded Roy-voice anchor for the experience the Protector / [[Sir Lucius]] dramatizes: the inner critic as not-self.** Hold the two distinct (the inherited-voice account *complements*, does not replace, the survival-self account); together they give "the voice that isn't you" both a developmental and an ancestral grounding. `[~]`
+
 ## The Vibe-Hinge — the lexical bridge Protector→Lucius `[G]`/`[W]`
 The single clearest **word** carrying the Protector across the 8-year gap into Lucius is ***vibe***, and its **verb flips from defense to weapon** (Jen, 2026-06-29):
 - **[[Essays/Concepts/Songs/Good Day|Good Day]] (2018) — defended:** *"**Can't kill my vibe** / Won't kill my vibe"* `[G]`. The Protector seals the perimeter around a good mood; the vibe is a state to be *protected*.
