@@ -1,7 +1,9 @@
 ---
 type: draft
 citable: false
-status: draft
+status: folded-to-canon
+folded: 2026-06-30
+folded_to: "[[Brain/Concepts/Communion vs Spectacle]] §The sing-back device (core concordance + voice-split). HELD/not-folded: §4b Babel hinge (cipher-dependent), §4 BMRC live-enactment (re-ground from public footage)."
 created: 2026-06-11
 about: "Device-level concordance of the crowd-echo / sing-back system across the lyric corpus. Read-mostly findings draft — NOT canon. Code folds approved rows into Communion vs Spectacle / The Circle / The Audience after Jen review."
 ---

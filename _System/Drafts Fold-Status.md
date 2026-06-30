@@ -29,12 +29,15 @@ purpose: "The fix for the 'captured but not connected' trust gap. Every Essays/_
 ## 🔶 Folded per audit, status-field NOT updated — **CLEARED 2026-06-30**
 *All spot-checked (content confirmed in canon) and stamped — see ✅ above. Promotion-packet "Full execution" pass, 2026-06-30.*
 
-## ❓ Unverified — review to classify
-*Not yet checked whether folded; classify on next pass.*
-- `LL Vetting Dossiers/01 · 05 · 06 · 07 · 08`
-- `STF Vetting Dossiers/04 - Dream Dream - Mercer, CREAM, and the Spelled Hook`
-- `33 Deep Dive — Fable findings (2026-06-11)` · `STF Deep Dive — Fable findings (2026-06-11)` · `Lucius Lullaby — Album Deep Dive (2026-06-13)`
-- `Old-Chats Mining — Fable findings (2026-06-13)` · `The Crowd Sings It Back — sing-back device concordance (2026-06-11)`
+## ❓ Unverified — classified 2026-06-30 (promotion-packet pass)
+- ✅ **Folded + stamped:** `STF Vetting Dossiers/04` (Dream/Dream — Mercer layer folded, C.R.E.A.M. quarantined) · `The Crowd Sings It Back` (core device-concordance → [[Brain/Concepts/Communion vs Spectacle]] §The sing-back device; §4b Babel + §4 BMRC HELD, flagged in the draft).
+- 📦 **Keep-as-packet — do NOT promote as essays (extract survivors into canon over time)**, per the promotion packet: `33 / STF Deep Dive — Fable findings` · `Lucius Lullaby — Album Deep Dive` · `Old-Chats Mining` · `LL Vetting Dossiers/01 · 05 · 06 · 07 · 08`. Mining/adversarial packets, not reader-facing essays.
+
+## ⚠ Promotion-queue gaps found 2026-06-30 (need NEW analysis, not bookkeeping)
+*Packet §F listed these as promotable, but the canon pages are **stubs** — the thesis isn't folded because it was never written:*
+- `Brain/Songs/33 (2022)/It's Your Time.md` — STUB. Packet thesis: *remembrance song disguised as a success song.*
+- `Brain/Songs/Subject to Flooding (2018)/Roy Voice Memo - S1 Arrowhead.md` — STUB. Packet thesis: *threshold fear + the capacity to hold the blessing.*
+- (`Move To You` — thesis already present in canon; no action.)
 
 ## 📌 Live — keep open (do NOT stamp)
 - `Prior Analysis — Triage, Flags & Expansion` — still holds open items (Gurdjieff→Lucius wire-up; parking-garage-Yesod).

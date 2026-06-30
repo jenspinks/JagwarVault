@@ -30,6 +30,11 @@ A web3 ARG at **mirrors.jagwartwin.com**, framed as a universe built from Jagwar
 - **Community solve** via Discord (`#hall-of-mirrors`, ~4,603 messages; core solvers Aite_Lyds, ibby, Toyah, brittaney, cthdrl.josh, + Roy).
 - **Archive state:** 196 Merkle rooms mapped; codes are effectively a *dictionary of Roy's esoteric vocabulary*; code-guessing is "largely but not provably exhausted." The live method is the **open-leaf reading bench** (read each remaining artwork forensically; test every visible string against all open leaves). *(Full state: [[Sources/Artifacts/HoM - Session Handoff & Index|Session Handoff]].)*
 
+## Decoder culture — participation and its shadow `[~]/[W]`
+*(Folded 2026-06-30 from the promotion packet's "Decoder Culture" fragment — kept here rather than minted as a standalone concept.)*
+
+The maze turns fans into **decoders**: artifacts only open by collective solving (codes seeded across drops, posts, Discord), so **participation *is* the art** — the **communion** pole of [[Communion vs Spectacle]] enacted as a puzzle (many distinct solvers returning the hidden song). Its **shadow** is the same gesture watched and harvested: a solving community is also a **surveilled, ranked, leaderboarded** crowd — the [[Witnessing vs Surveillance]] split applied to participation (decoding that *remembers* vs decoding that is *measured*). So "decoder culture" is not a separate doctrine; it is HoM-participation read through the vault's existing communion/surveillance forks. `[~]` — the surveillance-shadow framing is ours, not a Roy claim.
+
 ## Artifact index
 > Each artifact's **full analysis** lives in [[Brain/Media/|Brain/Media]]. **✅** = full-analysis page exists · **◻** = catalog/forensic row only, analysis pending. **This column is the anti-loss check — no artifact should sit at ◻ for long.** (The full catalog is the [[Sources/Artifacts/Hall of Mirrors - Artifact Gallery (catalog) 2026-06-25|gallery]]; this index grows as artifacts are enriched.)
 
