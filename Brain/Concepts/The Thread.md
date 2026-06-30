@@ -57,6 +57,19 @@ These are likely not different threads — they are the *same thing* described a
 
 ---
 
+## Creator-string vs control-string — the held thread vs the pulled string
+
+The same string-image carries two opposite charges, and the difference is **agency**: who holds the line, and from where.
+
+- **The creator's string — held from within. `[W]`** In the founding myth the maker has *"a world tied on a string,"* and the resolution is that *"the wise one **remembered** she once **held** the string"* ([[The Circle]], `[G]`). To hold the string is to keep the living connection to the source — creative agency, feeling, remembrance. This is the thread of every section above: the suspension-cord *and* the return-path, kept in hand rather than cut.
+- **The control-string — pulled from outside. `[~]`** The same filament inverts into **puppetry** when it is worked from outside the living relation: a self that is *moved* rather than *moving*, a marionette whose motions originate in another hand. The puppeteer is an obvious figure for the [[The Circus|Circus]] / [[The Labyrinth|Labyrinth]] register — the apparatus that arranges the stage and directs the path. But **control is not authorship**: a hand can move the figure without ever being its maker.
+
+The inversion is already grounded publicly on the **Pinocchio figure** ([[Inversion]], the marionette's-string section): *"I've Got No Strings"* sells **stringlessness as freedom** — cutting the line to the maker — which reads as the shadow's pitch, *severance-sold-as-liberation*; the Circle's **held** string is its correction, since realness comes from *re-membering* the connection, not severing it (`[~]` the song-level link). The puppet who cuts the maker's string doesn't become free — he becomes a figure moved by a *new* hand, a performer in someone else's show (the caged stage = the [[The Circus|Circus]]).
+
+So the distinction in the project's own terms: **remembrance holds the string; control pulls strings.** The feminine / Wise-One faculty *remembers she once held the string* — recovering participation in the source ([[Mary]] as thread-bearer); the controller *pulls* strings — working a stage from outside the living relation. One restores the thread; the other turns the thread into a leash. The ethical test for any thread in the catalogue is therefore **directional**: does the line *return* the self to source, or does it make the self *moveable* by a false source? `[~]`
+
+---
+
 ## In the Project
 
 - [[The Circle]] — *"the world tied on a string"*; *"the song hidden inside its wings"*

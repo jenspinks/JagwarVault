@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `ec2360a` (2026-06-30 01:29:54 -0500) · 47 songs · 80 concepts · 5 characters · 3 albums
+> [!info] Generated snapshot — vault commit `35e8741` (2026-06-30 04:27:46 -0500) · 47 songs · 80 concepts · 5 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -16,16 +16,16 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 
 | ID | Song | Era | Brain page | Lyric (source) | Essay | Credits (album) |
 |---|---|---|---|---|---|---|
-| `SONG-AnotherWayIIHeaven` | Another Way II Heaven | 33 (2022) | `Brain/Songs/33 (2022)/Another Way II Heaven.md` · draft | `Sources/Lyrics/Another Way II Heaven.md` · stable | `Essays/Concepts/Songs/Another Way II Heaven.md` | `Sources/Credits/33.md` |
-| `SONG-DownToYou` | Down to You | 33 (2022) | `Brain/Songs/33 (2022)/Down to You.md` · draft | `Sources/Lyrics/Down to You.md` · stable | `Essays/Concepts/Songs/Down to You.md` | `Sources/Credits/33.md` |
+| `SONG-AnotherWayIIHeaven` | Another Way II Heaven | 33 (2022) | `Brain/Songs/33 (2022)/Another Way II Heaven.md` · stable | `Sources/Lyrics/Another Way II Heaven.md` · stable | `Essays/Concepts/Songs/Another Way II Heaven.md` | `Sources/Credits/33.md` |
+| `SONG-DownToYou` | Down to You | 33 (2022) | `Brain/Songs/33 (2022)/Down to You.md` · stable | `Sources/Lyrics/Down to You.md` · stable | `Essays/Concepts/Songs/Down to You.md` | `Sources/Credits/33.md` |
 | `SONG-HappyFace` | Happy Face | 33 (2022) | `Brain/Songs/33 (2022)/Happy Face.md` · draft | `Sources/Lyrics/Happy Face.md` · stable | `Essays/Concepts/Songs/Happy Face.md` | `Sources/Credits/33.md` |
-| `SONG-ILikeToParty` | I Like to Party | 33 (2022) | `Brain/Songs/33 (2022)/I Like to Party.md` · draft | `Sources/Lyrics/I Like to Party.md` · stable | `Essays/Concepts/Songs/I Like to Party.md` | `Sources/Credits/33.md` |
-| `SONG-ImagineAWorld` | Imagine A World | 33 (2022) | `Brain/Songs/33 (2022)/Imagine A World.md` · draft | `Sources/Lyrics/Imagine A World.md` · stable | `Essays/Concepts/Songs/Imagine A World.md` | `Sources/Credits/33.md` |
-| `SONG-ItSYourTime` | It's Your Time | 33 (2022) | `Brain/Songs/33 (2022)/It's Your Time.md` · draft | `Sources/Lyrics/It's Your Time.md` · stable | `Essays/Concepts/Songs/It's Your Time.md` | `Sources/Credits/33.md` |
+| `SONG-ILikeToParty` | I Like to Party | 33 (2022) | `Brain/Songs/33 (2022)/I Like to Party.md` · stable | `Sources/Lyrics/I Like to Party.md` · stable | `Essays/Concepts/Songs/I Like to Party.md` | `Sources/Credits/33.md` |
+| `SONG-ImagineAWorld` | Imagine A World | 33 (2022) | `Brain/Songs/33 (2022)/Imagine A World.md` · stable | `Sources/Lyrics/Imagine A World.md` · stable | `Essays/Concepts/Songs/Imagine A World.md` | `Sources/Credits/33.md` |
+| `SONG-ItSYourTime` | It's Your Time | 33 (2022) | `Brain/Songs/33 (2022)/It's Your Time.md` · stable | `Sources/Lyrics/It's Your Time.md` · stable | `Essays/Concepts/Songs/It's Your Time.md` | `Sources/Credits/33.md` |
 | `SONG-Online` | Online | 33 (2022) | `Brain/Songs/33 (2022)/Online.md` · draft | `Sources/Lyrics/Online.md` · stable | `Essays/Concepts/Songs/Online.md` | `Sources/Credits/33.md` |
-| `SONG-PayAttentionFeatLittleLuna` | Pay Attention (feat. little luna) | 33 (2022) | `Brain/Songs/33 (2022)/Pay Attention (feat. little luna).md` · draft | `Sources/Lyrics/Pay Attention (feat. little luna).md` · stable | `Essays/Concepts/Songs/Pay Attention (feat. little luna).md` | `Sources/Credits/33.md` |
+| `SONG-PayAttentionFeatLittleLuna` | Pay Attention (feat. little luna) | 33 (2022) | `Brain/Songs/33 (2022)/Pay Attention (feat. little luna).md` · stable | `Sources/Lyrics/Pay Attention (feat. little luna).md` · stable | `Essays/Concepts/Songs/Pay Attention (feat. little luna).md` | `Sources/Credits/33.md` |
 | `SONG-SoulIsAStar` | Soul Is A Star | 33 (2022) | `Brain/Songs/33 (2022)/Soul Is A Star.md` · draft | `Sources/Lyrics/Soul Is A Star.md` · stable | `Essays/Concepts/Songs/Soul Is A Star.md` | `Sources/Credits/33.md` |
-| `SONG-TheCircle` | The Circle | 33 (2022) | `Brain/Songs/33 (2022)/The Circle.md` · draft | `Sources/Lyrics/The Circle.md` · stable | `Essays/Concepts/Songs/The Circle.md` | `Sources/Credits/33.md` |
+| `SONG-TheCircle` | The Circle | 33 (2022) | `Brain/Songs/33 (2022)/The Circle.md` · stable | `Sources/Lyrics/The Circle.md` · stable | `Essays/Concepts/Songs/The Circle.md` | `Sources/Credits/33.md` |
 | `SONG-1ChampionLaConquistadora` | #1 Champion (la Conquistadora) | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/#1 Champion (la Conquistadora).md` · stable | `Sources/Lyrics/#1 Champion (la Conquistadora).md` · stable | `Essays/Concepts/Songs/#1 Champion (la Conquistadora).md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-BadFeelingOompaLoompa` | Bad Feeling (Oompa Loompa) | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/Bad Feeling (Oompa Loompa).md` · stable | `Sources/Lyrics/Bad Feeling (Oompa Loompa).md` · stable | `Essays/Concepts/Songs/Bad Feeling (Oompa Loompa).md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-Bananas` | Bananas | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/Bananas.md` · stable | `Sources/Lyrics/Bananas.md` · stable | `Essays/Concepts/Songs/Bananas.md` | `Sources/Credits/Lucius Lullaby.md` |
@@ -59,7 +59,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `SONG-MoveToYou` | Move To You | Subject to Flooding (2018) | `Brain/Songs/Subject to Flooding (2018)/Move To You.md` · draft | `Sources/Lyrics/Move To You.md` · stable | `Essays/Concepts/Songs/Move To You.md` | `Sources/Credits/Subject to Flooding.md` |
 | `SONG-NoFakeFriends` | No Fake Friends | Subject to Flooding (2018) | `Brain/Songs/Subject to Flooding (2018)/No Fake Friends.md` · stable | `Sources/Lyrics/No Fake Friends.md` · stable | `Essays/Concepts/Songs/No Fake Friends.md` | `Sources/Credits/Subject to Flooding.md` |
 | `SONG-PreciousTime` | Precious Time | Subject to Flooding (2018) | `Brain/Songs/Subject to Flooding (2018)/Precious Time.md` · stable | `Sources/Lyrics/Precious Time.md` · stable | `Essays/Concepts/Songs/Precious Time.md` | `Sources/Credits/Subject to Flooding.md` |
-| `SONG-RoyVoiceMemoS1Arrowhead` | Roy Voice Memo - S1 Arrowhead | Subject to Flooding (2018) | `Brain/Songs/Subject to Flooding (2018)/Roy Voice Memo - S1 Arrowhead.md` · draft | `Sources/Lyrics/Roy Voice Memo - S1 Arrowhead.md` · stable | `Essays/Concepts/Songs/Roy Voice Memo - S1 Arrowhead.md` | `Sources/Credits/Subject to Flooding.md` |
+| `SONG-RoyVoiceMemoS1Arrowhead` | Roy Voice Memo - S1 Arrowhead | Subject to Flooding (2018) | `Brain/Songs/Subject to Flooding (2018)/Roy Voice Memo - S1 Arrowhead.md` · stable | `Sources/Lyrics/Roy Voice Memo - S1 Arrowhead.md` · stable | `Essays/Concepts/Songs/Roy Voice Memo - S1 Arrowhead.md` | `Sources/Credits/Subject to Flooding.md` |
 | `SONG-Shine` | Shine | Subject to Flooding (2018) | `Brain/Songs/Subject to Flooding (2018)/Shine.md` · stable | `Sources/Lyrics/Shine.md` · stable | `Essays/Concepts/Songs/Shine.md` | `Sources/Credits/Subject to Flooding.md` |
 | `SONG-Superhuman` | Superhuman | Subject to Flooding (2018) | `Brain/Songs/Subject to Flooding (2018)/Superhuman.md` · draft | `Sources/Lyrics/Superhuman.md` · stable | `Essays/Concepts/Songs/Superhuman.md` | `Sources/Credits/Subject to Flooding.md` |
 | `SONG-SuperhumanInterlude` | Superhuman (Interlude) | Subject to Flooding (2018) | `Brain/Songs/Subject to Flooding (2018)/Superhuman (Interlude).md` · stable | `Sources/Lyrics/Superhuman (Interlude).md` · stable | `Essays/Concepts/Songs/Superhuman (Interlude).md` | `Sources/Credits/Subject to Flooding.md` |

@@ -33,11 +33,12 @@ purpose: "The fix for the 'captured but not connected' trust gap. Every Essays/_
 - ✅ **Folded + stamped:** `STF Vetting Dossiers/04` (Dream/Dream — Mercer layer folded, C.R.E.A.M. quarantined) · `The Crowd Sings It Back` (core device-concordance → [[Brain/Concepts/Communion vs Spectacle]] §The sing-back device; §4b Babel + §4 BMRC HELD, flagged in the draft).
 - 📦 **Keep-as-packet — do NOT promote as essays (extract survivors into canon over time)**, per the promotion packet: `33 / STF Deep Dive — Fable findings` · `Lucius Lullaby — Album Deep Dive` · `Old-Chats Mining` · `LL Vetting Dossiers/01 · 05 · 06 · 07 · 08`. Mining/adversarial packets, not reader-facing essays.
 
-## ⚠ Promotion-queue gaps found 2026-06-30 (need NEW analysis, not bookkeeping)
-*Packet §F listed these as promotable, but the canon pages are **stubs** — the thesis isn't folded because it was never written:*
-- `Brain/Songs/33 (2022)/It's Your Time.md` — STUB. Packet thesis: *remembrance song disguised as a success song.*
-- `Brain/Songs/Subject to Flooding (2018)/Roy Voice Memo - S1 Arrowhead.md` — STUB. Packet thesis: *threshold fear + the capacity to hold the blessing.*
-- (`Move To You` — thesis already present in canon; no action.)
+## ✅ Promotion-queue gaps — RESOLVED 2026-06-30
+*Packet §F listed these as promotable, but the Brain pages were **stubs** (analysis sat in the `Essays/Concepts/Songs/` prose twins, never synthesized into the structured layer). Now written:*
+- ✅ `Brain/Songs/33 (2022)/It's Your Time.md` — written (stable; *remembrance disguised as a success anthem*; synthesized from the Essays essay, tiered, counterarguments).
+- ✅ `Brain/Songs/Subject to Flooding (2018)/Roy Voice Memo - S1 Arrowhead.md` — written (stable; *threshold-fear + the container law*; synthesized from the Essays essay).
+- (`Move To You` — thesis already in canon; no action.)
+> **Root cause = the two-layer redundancy:** analysis "done" in `Essays/Concepts/Songs/` while the `Brain/Songs/` twin stays a blank stub. Flagged for Jen (see chat 2026-06-30).
 
 ## 📌 Live — keep open (do NOT stamp)
 - `Prior Analysis — Triage, Flags & Expansion` — still holds open items (Gurdjieff→Lucius wire-up; parking-garage-Yesod).
