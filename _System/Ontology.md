@@ -68,6 +68,7 @@ hand-maintained thereafter.
 | `CONCEPT-InheritedSubstrate` | Inherited Substrate vs Internal Architecture | provenance axis: symbols received/reworked from the wider culture (dream mythology, jazz-standard yearning, gospel uplift, stairway/heaven) vs. built inside the JT mythos (Lucius, loop/circle, algorithm, mirror recursion); prefer mythic emergence over intentional encoding; **★ PAGE MINTED 2026-06-29 (status: stable — methodological keystone) → [[Brain/Concepts/Inherited Substrate]]** (the provenance LAW + tier ladder [`[G]` credited / `[W]` adopted / `[~]` shared-tradition / `[?]` tempting / ✗ ruled-out]; "not all resemblance is reference" — the page that stops tier-inflation) |
 | `CONCEPT-MachineVsHuman` | Machine vs Human | core duality: human (heart, soul, freedom, being seen-and-loved) vs machine (optimization, algorithm, surveillance, being watched-and-quantified); the antagonist is the severing of structure from heart (Yesod severed from Tiferet), NOT the machine; seeded 2018 (Chaplin/Superhuman Interlude), escalates through digital age + *33* (2022), personified as Lucius; arc at Essays/Arcs/Machine vs Human; **★ CONCEPT PAGE MINTED 2026-06-29 → [[Brain/Concepts/Machine vs Human]]** (the doctrine + concept-web placement: genus = Source vs Reflection, sibling = Witnessing vs Surveillance; the *narrative* stays at the arc) |
 | `CONCEPT-TheProtector` | The Protector | adaptive psychic-defense architecture / armor; "if humiliation is inevitable, control the humiliation yourself"; emerges as anticipatory shame-neutralization (cf. Loser's "I'm a loser, baby, just like you"); precursor to Sir Lucius — Lucius is The Protector crystallized into theatrical identity; **★ PAGE MINTED 2026-06-29 → [[Brain/Concepts/The Protector]]** (promoted from pageless — a foundational gap: the survival-self [Ballerina-Boy wound → Loser/Good Day/NFF armor → Lucius]; child-knight `99996623` = biographical genesis; Vibe-Hinge "can't kill my vibe"→"sucker, it's a vibe" = the lexical bridge) |
+| `CONCEPT-HallOfMirrors` | Hall of Mirrors | the web3 ARG / "uploaded-consciousness" archive (mirrors.jagwartwin.com); **project hub** — documents the hall + indexes its artifacts (whose full analysis lives in `Brain/Media/`) → [[Brain/Concepts/Hall of Mirrors]] |
 
 ## Characters
 
@@ -138,6 +139,16 @@ hand-maintained thereafter.
 | `SONG-PreciousTime` | Precious Time | Subject to Flooding (2018), track 12 — confirmed via MusicBrainz |
 | `SONG-AllMyFriends` | All My Friends | Singles & EPs (2023 single, post-33) |
 | `SONG-LifeIsGood` | life is good | Singles & EPs (2023; w/ angelbaby) |
+
+---
+
+## Media
+
+Media objects (images, tweets, drawings, objects, video, audio) given full analysis in `Brain/Media/`. Every entry carries a `source:` tag; HoM/ARG items also carry `artifact: true`. The *forensic* capture of HoM artifacts stays in `Sources/Artifacts/`; the *analysis* lives here.
+
+| ID | Display name | Note |
+|---|---|---|
+| `MEDIA-EggSunrise` | "Egg" — Kush, *Sunrise by the Ocean* | JT 2021 tweet (one word "Egg") over Vladimir Kush's painting; HoM open-leaf `dd61bc93`; egg cracks to birth the sun over water = the solar-birth-out-of-the-Flood resonance → [[Brain/Media/Egg - Sunrise by the Ocean (Vladimir Kush)]] |
 
 ---
 
