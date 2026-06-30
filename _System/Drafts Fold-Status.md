@@ -12,24 +12,22 @@ purpose: "The fix for the 'captured but not connected' trust gap. Every Essays/_
 
 > ⚠ Statuses below are **audit-derived (2026-06-27/28), not yet verified by Jen.** The 🔶 rows in particular assert "content is in canon" — **spot-check before stamping.**
 
-## ✅ Folded (stamped or body-marked) — safe
-| Draft | Marker |
+## ✅ Folded — stamped `status: folded-to-canon` (safe)
+| Draft | Stamped |
 |---|---|
-| `Moths to the Flame — analysis brief` | `status: folded-to-canon` |
-| `The Watchers — analysis brief` | `status: folded-to-canon` |
-| `33 Vetting Dossiers/01 · 02 · 03` | `✅ VETTED & FOLDED` body stamp |
-| `Fable Pass — Findings (2026-06-10)` | body fold-mark |
+| `Moths to the Flame — analysis brief` | prior |
+| `The Watchers — analysis brief` | prior |
+| `Lucius Lullaby — analysis brief` | 2026-06-30 |
+| `Playing to the Gods + City of Angels — analysis brief` | 2026-06-30 |
+| `The Circle (Lucius Version) — analysis brief` | 2026-06-30 |
+| `#1 Champion (la Conquistadora) — analysis brief` | 2026-06-30 |
+| `Fable Pass — Findings (2026-06-10)` | 2026-06-30 |
+| `33 Vetting Dossiers/01 · 02 · 03` | 2026-06-30 (also `✅ VETTED & FOLDED` body stamp) |
+| `STF Vetting Dossiers/01 · 02 · 03 · 05 · 07` | 2026-06-30 (folded by-number → [[Subject to Flooding (album)]] + [[Roy]]) |
+| `LL Vetting Dossiers/02 · 03 · 04` | 2026-06-30 (folded into LL canon) |
 
-## 🔶 Folded per audit, status-field NOT updated (spot-check → then stamp)
-*Content verified in canon by the audit; only the bookkeeping is missing.*
-| Draft | Canon home (per audit) |
-|---|---|
-| `Lucius Lullaby — analysis brief` | [[Brain/Songs/Lucius Lullaby]] / LL canon |
-| `Playing to the Gods + City of Angels — analysis brief` | [[Essays/Concepts/Songs/City of Angels]] |
-| `The Circle (Lucius Version) — analysis brief` | [[Essays/Concepts/Songs/The Circle (Lucius Version)]] |
-| `#1 Champion (la Conquistadora) — analysis brief` | [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)]] |
-| `STF Vetting Dossiers/01 · 02 · 03 · 05 · 07` | folded by-number into [[Subject to Flooding (album)]] + [[Roy]] |
-| `LL Vetting Dossiers/02 · 03 · 04` | folded into LL canon (audit-confirmed) |
+## 🔶 Folded per audit, status-field NOT updated — **CLEARED 2026-06-30**
+*All spot-checked (content confirmed in canon) and stamped — see ✅ above. Promotion-packet "Full execution" pass, 2026-06-30.*
 
 ## ❓ Unverified — review to classify
 *Not yet checked whether folded; classify on next pass.*

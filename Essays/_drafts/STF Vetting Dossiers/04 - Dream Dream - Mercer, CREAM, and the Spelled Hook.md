@@ -1,7 +1,7 @@
 ---
 type: note
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 04 — Dream / Dream (track 2): the credited Mercer interpolation and its four transformations; and the most speculative item in the pass — the D-R-E-A-M / C.R.E.A.M. echo, offered as a leap held at resonance. Plain text, public material only. Read the Context Primer first."

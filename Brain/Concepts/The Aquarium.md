@@ -55,6 +55,12 @@ The Aquarium's defining feature is the glass — the boundary that is invisible 
 
 The work of awareness — Gurdjieff's "self-remembering," Bailey's "the path of liberation through the midst of the illusion," Roy's interest in recognizing mechanical patterns — is the practice of making the glass visible. Once visible, the glass does not disappear; but it can be located. And once located, you can begin to find the seams.
 
+The wake/sleep axis is not only borrowed from Gurdjieff — Roy states it himself, in the first person, on the publicly-exposed *I'm 33* board: `[G]` *"It's very inconvenient to live life awake. / It's more comfortable in the planetary dream."* This upgrades the grounding from a borrowed quote to Roy's own words: the glass is the *comfort* of the dream, and waking is the *inconvenient* act of seeing it. The same board cell continues *"Once you're awake you can't go back to sleep"* — the irreversibility the Aquarium's Open Questions hold open as a live tension.
+
+This first-person statement grounds the sedation-vs-alarm axis the catalogue runs `[W]`: [[Essays/Concepts/Songs/The Watchers|The Watchers]] is the hammered alarm (*"Wake up"* repeated) against the planetary dream; [[Essays/Concepts/Songs/Lucius Lullaby|Lucius Lullaby]] is its sedative inversion, the lullaby that keeps the fish asleep (*"Life is but a dream"*); and [[Essays/Concepts/Songs/Moths to the Flame|Moths to the Flame]] is the comfort that culls — the dream that draws the inhabitant in. The songs voice both ends of the axis the board states plainly.
+
+`[~]` *"The planetary dream"* reads cleanly against Bailey's maya / glamour / illusion — the layered unreality the aspirant must cross — and so against [[The Dweller on the Threshold]], the figure accumulated at the glass's inner edge that waking first reveals. (Engagement with the wake/sleep doctrine is grounded by Roy's own board text; the specific Bailey-Dweller mapping stays resonance — a correspondence, not a claim of authorial intent.)
+
 ---
 
 ## Connections

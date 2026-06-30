@@ -1,7 +1,7 @@
 ---
 type: note
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 ---
 # "#1 Champion (la Conquistadora)" — Analysis Brief (for external review)
 

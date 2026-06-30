@@ -1,7 +1,7 @@
 ---
 type: note
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 03 — the craft theory and inherited-substrate method were already operating at the 2018 debut: the mantra/Trojan-horse doctrine, subtraction-as-revelation, the nursery-rhyme substrate at track 1, and the Chaplin 'not in one man' relay. Plain text, public material only. Read the Context Primer first."

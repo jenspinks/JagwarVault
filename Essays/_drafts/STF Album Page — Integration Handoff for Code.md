@@ -1,7 +1,7 @@
 ---
 type: handoff
-status: draft
-audience: claude-code
+status: folded-to-canon
+folded: 2026-06-30audience: claude-code
 publish: false
 from: workshop-claude
 date: 2026-06-05
@@ -78,8 +78,8 @@ Every claim Workshop's flagged for verification (§§7–9) should land at the t
 > Source: Jen's chat message, 2026-06-05 15:00 CT. Reproduced verbatim below for Code's reference. Workshop's notes on what to absorb are in §Workshop's Integration Notes above.
 
 type: album
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 entry_points: [subject-to-flooding, orientation, source-and-reflection, inherited-substrate, protector-before-lucius]
 related: [Long Time Coming, Dream / Dream, Loser, Good Day, Superhuman, Move To You, No Fake Friends, Precious Time, Shine, 33]
 
@@ -358,8 +358,8 @@ The big addition I'd defend hardest is Source and Reflection. That feels like th
 > Source: Jen's chat message, 2026-06-05. Reproduced verbatim. **Workshop flags:** (a) "The Inside of the Inside Podcast Transcript" cited here likely does not exist in the vault — see §Workshop's Integration Notes item 7; (b) El Roi back-dated to STF — refuse; (c) Mirror Sessions claims need per-transcript verification.
 
 type: album
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 entry_points: [subject-to-flooding, album-overview, the-seedbed]
 related: [33, Lucius-Lullaby, The-Circle, The-Thread, The-Algorithm]
 

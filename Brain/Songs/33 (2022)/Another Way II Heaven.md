@@ -1,7 +1,7 @@
 ---
 id: SONG-AnotherWayIIHeaven
 type: song
-status: draft
+status: stable
 confidence: medium
 source_quality: primary-source
 sources: [Sources/Lyrics/Another Way II Heaven.md, Sources/Credits/33.md, Sources/Artifacts/Roy - I'm 33 this year (spreadsheet).md]

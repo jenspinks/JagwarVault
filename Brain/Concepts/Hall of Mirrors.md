@@ -37,10 +37,10 @@ A web3 ARG at **mirrors.jagwartwin.com**, framed as a universe built from Jagwar
 |---|---|---|---|
 | "Egg" — Kush, *Sunrise by the Ocean* | `dd61bc93` (open) | seeded elsewhere | ✅ [[Egg - Sunrise by the Ocean (Vladimir Kush)]] |
 | Religious Organism (rejected album art) | room 21 / cat #18 | HOW TO STEER THE SOUL | ◻ pending |
-| "How to Live Forever?" cosmology page | `e338a9c6` (open) | concordance | ◻ pending |
-| "Coding Consciousness" note | `de26172b` (open) | concordance | ◻ pending |
-| Test Pilot School lighter | `da3b774d` / `4b240a5e` | seeded elsewhere | ◻ pending |
-| Third-eye / El-Roi watcher | `d8db3530` (open) | seeded elsewhere | ◻ pending |
+| "How to Live Forever?" cosmology page | `e338a9c6` (open) | concordance | ✅ [[How to Live Forever (Roy cosmology drawing)]] |
+| "Coding Consciousness" note | `de26172b` (open) | concordance | ✅ [[Coding Consciousness (note)]] |
+| Test Pilot School lighter | `da3b774d` / `4b240a5e` | seeded elsewhere | ✅ [[Test Pilot School lighter (aviation-father artifact)]] |
+| Third-eye / El-Roi watcher | `d8db3530` (open) | seeded elsewhere | ✅ [[Third-eye watcher (El Roi, roses)]] |
 | *(…full list → the gallery catalog)* | | | |
 
 ## Why it matters to the canon

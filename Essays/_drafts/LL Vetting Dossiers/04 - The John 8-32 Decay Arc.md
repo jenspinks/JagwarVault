@@ -1,7 +1,7 @@
 ---
 type: note
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 04 — one Bible verse (John 8:32) tracked across three songs/eras as it degrades from sincere to weaponized, two of the three instances landing on Lucius Lullaby. Plain text, public material only. Read the Context Primer first."

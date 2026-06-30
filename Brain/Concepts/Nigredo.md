@@ -39,6 +39,12 @@ The Circus is not nigredo itself — it is the *prevention* of nigredo completin
 
 [[Essays/Concepts/Songs/Weirdness]] is the first solar movement after a long lunar passage — the moment the split-off light is recognized and named (none — lyric). Not Rubedo, not even Citrinitas — but nigredo lifting, the first orientation toward Tiferet. [[SOL]] may be what follows if the process completes.
 
+## Resonance
+
+**Solve et coagula — the two-stroke law under the whole arc.** `[~]` The Latin axiom *"dissolve and coagulate"* names the shape this page otherwise describes piecemeal: **SOLVE** = the dissolution charted above as nigredo (the age-7 burial, the age-35 collapse, the blackened prima materia) — the breaking-down; **COAGULA** = the genuine re-formation, the return on the far side of the work. The vault names *coagula* only once elsewhere, and as a *counterfeit* — [[Essays/Concepts/Songs/Playing to the Gods]] reads Lucius offering the *coagula* / fixing (mortal → immortal) **"without the Work"**, a false fixing. Naming the *positive* law lets the page hold both poles: the real *coagula* is the return nigredo opens toward. The arc-wide correspondence stays `[~]` — Roy participates in an older alchemical current rather than demonstrably encoding this axiom song-by-song.
+
+**Board-grounded as engagement.** `[W]` The dyad is not a reader's import: Roy's "I'm 33" board grounds both strokes in his own words. `[G]` The board transcribes *"One must contract / to expand / to infinity"* ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]]) — the *solve*-into-*coagula* motion stated as law: the contraction (dissolution) is the precondition of the expansion (re-formation). `[G]` And the board's *"To 'Burn forever in hell' is to not Let go… Sacrifice lesser aspects of self for greater"* spells the *solve* pole directly — the blackening one refuses is the refusal to dissolve. That Roy collected these on the board is `[W]` evidence he *engages* the alchemical frame; the specific song↔axiom mappings stay `[~]`.
+
 ## Connections
 
 - [[Sir Lucius]] — Lucius as the nigredo externalized; the blackened prima materia given voice

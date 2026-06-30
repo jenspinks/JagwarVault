@@ -1,7 +1,7 @@
 ---
 type: note
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 06 — two public 2023 posts as primary material: the sun-death dream (a posted dream where the source-light dies) and the 'prophets' quote (which retells Soul Is A Star and may be a Walter Russell receipt). Plain text, public material only. Read the Context Primer first."

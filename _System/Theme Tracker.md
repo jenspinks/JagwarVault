@@ -97,6 +97,9 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 - Shame transformed into gold.
 - Weakness becoming sacred material.
 - The rejected becoming luminous.
+- **Board anchor (Roy's own words):** the operation is named on the "I'm 33" board itself — *"Energy and intelligence/knowledge can be transmuted by appropriate alchemy into money"*, money being *"the token of the capacity or energy of someone"* `[W]` (Bailey-derived, transcribed by Roy — the board GROUNDS that Roy engages a literal transmutation doctrine). Cross-ref [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]].
+- **Rejection as prima materia:** the same board carries the biographical cell *"I was really proud of this song before being dropped by my record label… I love what I create now… I know it's special"* `[G]` — the documented label rejection that the abstract shame→gold reading transmutes into worth. (Soul Is A Star §VII already reads this cell; here it supplies the rejected raw material the operation acts on.)
+- That the song-level *shame→gold* correspondence maps onto Roy's transcribed *energy→money/worth* alchemy is a framework resonance `[~]` — Roy participates in an older lead-into-gold current; the board grounds the *engagement*, not an intent to encode this specific mapping.
 
 ### Threshold Encounters [W]
 - The speaker reaches an edge.

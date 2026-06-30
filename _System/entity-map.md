@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `d7fed88` (2026-06-29 15:31:23 -0500) · 47 songs · 73 concepts · 4 characters · 3 albums
+> [!info] Generated snapshot — vault commit `ec2360a` (2026-06-30 01:29:54 -0500) · 47 songs · 80 concepts · 5 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -72,11 +72,16 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `CONCEPT-Consumption` | Consumption | `Brain/Concepts/Consumption.md` · draft | — |
 | `CONCEPT-Duality` | Duality | `Brain/Concepts/Duality.md` · draft | — |
 | `CONCEPT-Fire` | Fire | `Brain/Concepts/Fire.md` · draft | — |
+| `CONCEPT-FlattenedIdentity` | Flattened Identity | `Brain/Concepts/Flattened Identity.md` · draft | — |
 | `CONCEPT-Gnosticism` | Gnosticism — The World as Trap | `Brain/Concepts/Gnosticism - The World as Trap.md` · stable | — |
+| `CONCEPT-HallOfMirrors` | Hall of Mirrors | `Brain/Concepts/Hall of Mirrors.md` · draft | — |
 | `CONCEPT-Hermeticism` | Hermeticism — As Above So Below | `Brain/Concepts/Hermeticism - As Above So Below.md` · stable | — |
+| `CONCEPT-InheritedSubstrate` | Inherited Substrate vs Internal Architecture | `Brain/Concepts/Inherited Substrate.md` · stable | — |
 | `CONCEPT-Inversion` | Inversion | `Brain/Concepts/Inversion.md` · draft | — |
 | `CONCEPT-JacobEsau` | Jacob & Esau | — | `Essays/Concepts/Jacob & Esau.md` |
+| `CONCEPT-TreeOfLife` | Kabbalah — The Tree of Life | `Brain/Concepts/Kabbalah - The Tree of Life.md` · draft | — |
 | `CONCEPT-KeilimVessels` | Keilim / The Breaking of the Vessels | `Brain/Concepts/Keilim - The Breaking of the Vessels.md` · stable | — |
+| `CONCEPT-MachineVsHuman` | Machine vs Human | `Brain/Concepts/Machine vs Human.md` · draft | `Essays/Arcs/Machine vs Human.md` |
 | `CONCEPT-Nigredo` | Nigredo | `Brain/Concepts/Nigredo.md` · draft | — |
 | `CONCEPT-PanemEtCircenses` | Panem et Circenses | `Brain/Concepts/Panem et Circenses.md` · draft | — |
 | `CONCEPT-SourceVsReflection` | Source vs Reflection | `Brain/Concepts/Source vs Reflection.md` · draft | — |
@@ -88,17 +93,25 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `CONCEPT-TheCircle` | The Circle | `Brain/Concepts/The Circle.md` · draft | `Essays/Concepts/Songs/The Circle.md` |
 | `CONCEPT-TheCircus` | The Circus | `Brain/Concepts/The Circus.md` · draft | — |
 | `CONCEPT-TheDigitalDouble` | The Digital Double | `Brain/Concepts/The Digital Double.md` · draft | — |
+| `CONCEPT-TheDivide` | The Divide | `Brain/Concepts/The Divide.md` · stub | — |
 | `CONCEPT-TheDwellerOnTheThreshold` | The Dweller on the Threshold | `Brain/Concepts/The Dweller on the Threshold.md` · stable | `Essays/Concepts/The Dweller on the Threshold.md` |
 | `CONCEPT-TheEmptyMirror` | The Empty Mirror | `Brain/Concepts/The Empty Mirror.md` · draft | — |
+| `CONCEPT-TheFlipAndTheDistortingMirror` | The Flip and the Distorting Mirror | `Brain/Concepts/The Flip and the Distorting Mirror.md` · draft | — |
+| `CONCEPT-TheHouseAndTheVessel` | The House & the Vessel — Container Imagery | `Brain/Concepts/The House & the Vessel — Container Imagery (hold, open, shatter, hatch).md` · draft | — |
+| `CONCEPT-TheIm33BoardDecoded` | The I'm 33 Board — Decoded | `Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology).md` · draft | — |
 | `CONCEPT-TheJaguar` | The Jaguar | `Brain/Concepts/The Jaguar.md` · draft | — |
 | `CONCEPT-TheLaborsOfHercules` | The Labors of Hercules | `Brain/Concepts/The Labors of Hercules.md` · stable | `Essays/Concepts/The Labors of Hercules.md` |
 | `CONCEPT-TheLabyrinth` | The Labyrinth | `Brain/Concepts/The Labyrinth.md` · draft | — |
 | `CONCEPT-TheLightBearer` | The Light-Bearer | `Brain/Concepts/The Light-Bearer.md` · draft | — |
+| `CONCEPT-TheManifestoCards` | The Manifesto Cards | `Brain/Concepts/The Manifesto Cards.md` · draft | — |
 | `CONCEPT-TheMask` | The Mask | `Brain/Concepts/The Mask.md` · draft | — |
+| `CONCEPT-TheMirror` | The Mirror | `Brain/Concepts/The Mirror.md` · stable | — |
 | `CONCEPT-TheMouth` | The Mouth | `Brain/Concepts/The Mouth.md` · draft | — |
 | `CONCEPT-ThePath` | The Path | — | — |
 | `CONCEPT-ThePattern` | The Pattern | `Brain/Concepts/The Pattern.md` · draft | — |
+| `CONCEPT-TheProtector` | The Protector | `Brain/Concepts/The Protector.md` · draft | — |
 | `CONCEPT-TheRealm` | The Realm | `Brain/Concepts/The Realm.md` · draft | — |
+| `CONCEPT-TheSpeakerProblem` | The Speaker Problem | `Brain/Concepts/The Speaker Problem.md` · draft | — |
 | `CONCEPT-TheSpectacle` | The Spectacle | `Brain/Concepts/The Spectacle.md` · draft | — |
 | `CONCEPT-TheThread` | The Thread | `Brain/Concepts/The Thread.md` · draft | — |
 | `CONCEPT-TheUpload` | The Upload (Consciousness Upload) | `Brain/Concepts/The Upload.md` · draft | — |
@@ -120,13 +133,10 @@ Declared in [[Ontology]] for reference-resolution; most have no standalone page 
 | `CONCEPT-Binah` | Binah | — |
 | `CONCEPT-CollectiveAmnesia` | Collective Amnesia | — |
 | `CONCEPT-CosmicCycles` | Cosmic Cycles | — |
-| `CONCEPT-FlattenedIdentity` | Flattened Identity | `Brain/Concepts/Flattened Identity.md` · draft |
 | `CONCEPT-Geburah` | Geburah | — |
 | `CONCEPT-Hod` | Hod | — |
-| `CONCEPT-InheritedSubstrate` | Inherited Substrate vs Internal Architecture | `Brain/Concepts/Inherited Substrate.md` · stable |
 | `CHAR-Leif` | Leif | — |
 | `CONCEPT-LiminalSpaces` | Liminal Spaces | — |
-| `CONCEPT-MachineVsHuman` | Machine vs Human | `Brain/Concepts/Machine vs Human.md` · draft |
 | `CONCEPT-Malkhut` | Malkhut | — |
 | `CONCEPT-Netzach` | Netzach | — |
 | `CONCEPT-ObjectiveArt` | Objective Art | — |
@@ -139,10 +149,7 @@ Declared in [[Ontology]] for reference-resolution; most have no standalone page 
 | `CONCEPT-TheAbyss` | The Abyss | — |
 | `CHAR-TheBoss` | The Boss / BMRC | — |
 | `CONCEPT-TheLoop` | The Loop / Cycles | — |
-| `CONCEPT-TheMirror` | The Mirror | `Brain/Concepts/The Mirror.md` · stable |
 | `CONCEPT-TheMoon` | The Moon | — |
-| `CONCEPT-TheProtector` | The Protector | `Brain/Concepts/The Protector.md` · draft |
-| `CONCEPT-TheSpeakerProblem` | The Speaker Problem | `Brain/Concepts/The Speaker Problem.md` · draft |
 | `CONCEPT-TwiceVoicedBlessing` | The Twice-Voiced Blessing | — |
 | `CONCEPT-Tiferet` | Tiferet | — |
 | `CONCEPT-TikkunOlam` | Tikkun Olam | — |
@@ -157,6 +164,7 @@ Declared in [[Ontology]] for reference-resolution; most have no standalone page 
 | `CHAR-Mary` | Mary | `Brain/Characters/Mary.md` · draft | — |
 | `CHAR-Roy` | Roy | `Brain/Characters/Roy.md` · stable | `Essays/Characters/Roy.md` |
 | `CHAR-SirLucius` | Sir Lucius | `Brain/Characters/Sir Lucius.md` · stable | `Essays/Characters/Sir Lucius.md` |
+| `CHAR-SirRabbit` | Sir Rabbit | `Brain/Characters/Sir Rabbit.md` · draft | — |
 
 ## Albums
 

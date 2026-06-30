@@ -1,7 +1,7 @@
 ---
 id: SONG-DownToYou
 type: song
-status: draft
+status: stable
 confidence: medium
 source_quality: primary-source
 sources: [Sources/Lyrics/Down to You.md, Sources/Credits/33.md]

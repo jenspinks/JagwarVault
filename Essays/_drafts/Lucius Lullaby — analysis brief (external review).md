@@ -1,7 +1,7 @@
 ---
 type: note
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 ---
 # "Lucius Lullaby" — Analysis Brief v2 (for external review)
 

@@ -1,7 +1,7 @@
 ---
 type: note
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 citable: false
 created: 2026-06-15
 about: "Vetting dossier 02 (large chunk) — the headline Pinocchio complex (D1) + three cross-era threads: the John 8:32 decay (D7), the Barker's origin (D8), and 33⅓ rpm (D9). Plain text, public material only. Read the Context Primer first."

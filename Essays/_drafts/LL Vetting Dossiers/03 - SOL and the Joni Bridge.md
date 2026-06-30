@@ -1,7 +1,7 @@
 ---
 type: note
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 03 — SOL as the album's wordless destination and its cross-album bridge (Move To You 2018 → Soul Is A Star 2022 → SOL 2026), plus the honest 'how much Joni is on this album?' question. Plain text, public material only. Read the Context Primer first."

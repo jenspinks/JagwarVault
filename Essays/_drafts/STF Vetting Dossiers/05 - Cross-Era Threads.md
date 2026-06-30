@@ -1,7 +1,7 @@
 ---
 type: note
-status: draft
-publish: false
+status: folded-to-canon
+folded: 2026-06-30publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 05 — six cross-era threads seeded on the 2018 debut and developed later: the stars system, the pieces thread, the timebomb thread, the blood census, the Navajo-line re-route, and the children's-voices bracket. Plain text, public material only. Read the Context Primer first."
