@@ -10,6 +10,7 @@ connections:
   strong_read: [CONCEPT-SourceVsReflection, CHAR-SirLucius, SONG-SoulIsAStar]
   resonance:   [CONCEPT-WitnessingVsSurveillance]
 review_date: 2026-12-29
+referenced_by: [CONCEPT-TheMirror]
 ---
 # The Speaker Problem
 

@@ -10,6 +10,7 @@ connections:
   strong_read: [CONCEPT-SourceVsReflection, CONCEPT-TheEmptyMirror, CONCEPT-TheSpeakerProblem]
   resonance:   [CONCEPT-TheFlipAndTheDistortingMirror]
 review_date: 2026-12-29
+referenced_by: [CHAR-SARAVI, CHAR-SirLucius, CONCEPT-Duality, CONCEPT-HallOfMirrors, CONCEPT-Inversion, CONCEPT-SourceVsReflection, CONCEPT-TheAquarium, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheVeil, MEDIA-ThirdEyeWatcher, SONG-LongTimeComing, SONG-LuciusLullaby, SONG-Weirdness]
 ---
 # The Mirror
 

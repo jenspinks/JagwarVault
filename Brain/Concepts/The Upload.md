@@ -10,7 +10,7 @@ connections:
   grounded:    [CONCEPT-ThePattern, SONG-Online]
   strong_read: [SONG-TheWatchers, CONCEPT-WitnessingVsSurveillance, CONCEPT-SourceVsReflection, CONCEPT-TheJaguar]
   resonance:   [ALBUM-33, SONG-CityOfAngels, SONG-AllMyFriends, SONG-SOL, CONCEPT-Inversion]
-referenced_by: [CONCEPT-TheDigitalDouble, CONCEPT-TheEmptyMirror, SONG-MothsToTheFlame, SONG-TheWatchers]
+referenced_by: [CHAR-SARAVI, CONCEPT-HallOfMirrors, CONCEPT-TheDigitalDouble, CONCEPT-TheEmptyMirror, CONCEPT-TheHouseAndTheVessel, MEDIA-CodingConsciousness, MEDIA-HowToLiveForever, MEDIA-TestPilotLighter, SONG-ItSYourTime, SONG-MothsToTheFlame, SONG-TheWatchers]
 review_date: 2026-12-08
 ---
 # The Upload (Consciousness Upload)

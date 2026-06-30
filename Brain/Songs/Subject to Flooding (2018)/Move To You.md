@@ -2,7 +2,7 @@
 id: SONG-MoveToYou
 type: song
 status: draft
-referenced_by: [CONCEPT-TheCircle, SONG-HappyFace]
+referenced_by: [CONCEPT-TheCircle, SONG-HappyFace, SONG-RoyVoiceMemoS1Arrowhead]
 ---
 # Move To You
 

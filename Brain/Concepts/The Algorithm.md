@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, SONG-WelcomeToTheCircus]
   strong_read: [CONCEPT-TheCircus, CONCEPT-TheSpectacle, SONG-HappyFace, SONG-GreatTimeToBeHuman]
   resonance:   [CONCEPT-PanemEtCircenses, CONCEPT-Consumption]
-referenced_by: [CHAR-SirLucius, CONCEPT-PanemEtCircenses, CONCEPT-TheAquarium, CONCEPT-TheCircus, CONCEPT-TheMouth, CONCEPT-TheThread, CONCEPT-TheVoice, CONCEPT-TheWheel, CONCEPT-WitnessingVsSurveillance, SONG-BadFeelingOompaLoompa, SONG-HappyFace, SONG-NotYourHomie, SONG-Online, SONG-TheWatchers, SONG-Weirdness]
+referenced_by: [CHAR-SirLucius, CONCEPT-FlattenedIdentity, CONCEPT-MachineVsHuman, CONCEPT-PanemEtCircenses, CONCEPT-TheAquarium, CONCEPT-TheCircus, CONCEPT-TheManifestoCards, CONCEPT-TheMouth, CONCEPT-TheThread, CONCEPT-TheVoice, CONCEPT-TheWheel, CONCEPT-WitnessingVsSurveillance, MEDIA-CodingConsciousness, SONG-BadFeelingOompaLoompa, SONG-HappyFace, SONG-NotYourHomie, SONG-Online, SONG-TheWatchers, SONG-Weirdness]
 review_date: 2026-11-16
 ---
 # The Algorithm

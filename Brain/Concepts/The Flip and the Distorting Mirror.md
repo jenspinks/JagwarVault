@@ -5,6 +5,7 @@ status: draft
 created: 2026-06-27
 related: [CONCEPT-SourceVsReflection, CONCEPT-TheEmptyMirror, CHAR-Roy, CHAR-SirLucius]
 tier: mixed (see inline)
+referenced_by: [CONCEPT-TheMirror]
 ---
 # The Flip and the Distorting Mirror
 

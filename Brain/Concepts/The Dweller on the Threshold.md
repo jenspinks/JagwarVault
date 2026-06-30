@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, CHAR-Roy, ALBUM-LuciusLullaby]
   strong_read: [CONCEPT-TheMirror, CHAR-Mary, CONCEPT-TheLaborsOfHercules]
   resonance:   [CONCEPT-Yesod, CONCEPT-TheLightBearer]
-referenced_by: [CHAR-Roy, CHAR-SirLucius, CONCEPT-Nigredo, CONCEPT-TheAquarium, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLightBearer, CONCEPT-TheMask, SONG-BALLERINABOY, SONG-TheWatchers, SONG-Weirdness]
+referenced_by: [CHAR-Roy, CHAR-SirLucius, CHAR-SirRabbit, CONCEPT-Nigredo, CONCEPT-TheAquarium, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheProtector, SONG-BALLERINABOY, SONG-TheWatchers, SONG-Weirdness]
 review_date: 2026-11-16
 ---
 # The Dweller on the Threshold

@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-Roy]
   strong_read: [SONG-BALLERINABOY, SONG-SOL, CHAR-SirLucius, CONCEPT-TheMouth]
   resonance:   [CONCEPT-TheAlgorithm, CONCEPT-TheCircus]
-referenced_by: [CONCEPT-TheEmptyMirror, CONCEPT-TheMouth]
+referenced_by: [CHAR-SARAVI, CONCEPT-TheEmptyMirror, CONCEPT-TheMouth]
 review_date: 2026-11-16
 ---
 # The Voice / Silence

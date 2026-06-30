@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-SubjectToFlooding, SONG-Superhuman]
   strong_read: [CONCEPT-MachineVsHuman, CONCEPT-InheritedSubstrate, CONCEPT-WitnessingVsSurveillance]
   resonance:   [CONCEPT-Tiferet, CONCEPT-Yesod]
-referenced_by: [CONCEPT-SourceVsReflection]
+referenced_by: [CONCEPT-InheritedSubstrate, CONCEPT-MachineVsHuman, CONCEPT-SourceVsReflection, SONG-RoyVoiceMemoS1Arrowhead]
 dominant_pole: solar
 transformation_phase: albedo
 recursion_state: return

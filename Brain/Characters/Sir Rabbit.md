@@ -10,6 +10,7 @@ connections:
   strong_read: [CHAR-SirLucius, SONG-BALLERINABOY]
   resonance:   [CONCEPT-TheDwellerOnTheThreshold]
 review_date: 2026-12-29
+referenced_by: [CONCEPT-TheDivide]
 ---
 # Sir Rabbit
 

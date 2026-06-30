@@ -2,7 +2,7 @@
 id: CHAR-JagwarTwin
 type: character
 status: draft
-referenced_by: [CHAR-Roy, CONCEPT-TheJaguar]
+referenced_by: [CHAR-Roy, CHAR-SARAVI, CONCEPT-TheJaguar]
 ---
 # Jagwar Twin
 

@@ -5,6 +5,7 @@ status: draft
 created: 2026-06-27
 related: [CONCEPT-KeilimVessels, CONCEPT-TheEmptyMirror, CONCEPT-TheUpload]
 tier: mixed (see inline)
+referenced_by: [MEDIA-EggSunrise, MEDIA-HowToLiveForever, MEDIA-TestPilotLighter, SONG-RoyVoiceMemoS1Arrowhead]
 ---
 # The House & the Vessel — Container Imagery (hold · open · shatter · hatch)
 

@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-JagwarTwin]
   strong_read: [CONCEPT-WitnessingVsSurveillance, CHAR-Mary, CONCEPT-SourceVsReflection, SONG-TheCircle]
   resonance:   [CONCEPT-TheCircle, CHAR-SirLucius, CONCEPT-Inversion]
-referenced_by: [CONCEPT-TheUpload]
+referenced_by: [CHAR-SARAVI, CONCEPT-TheUpload]
 review_date: 2026-12-07
 ---
 # The Jaguar

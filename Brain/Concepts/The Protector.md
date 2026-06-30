@@ -10,6 +10,7 @@ connections:
   strong_read: [CHAR-SirLucius, SONG-Loser, SONG-GoodDay, SONG-NoFakeFriends, SONG-NotYourHomie]
   resonance:   [CONCEPT-TheDwellerOnTheThreshold, CONCEPT-MachineVsHuman]
 review_date: 2026-12-29
+referenced_by: [MEDIA-TestPilotLighter, SONG-GoodDay, SONG-HellOfANight, SONG-HellOfANightPt2TheHallelujahStickup, SONG-Loser, SONG-NoFakeFriends, SONG-NotYourHomie, SONG-RoyVoiceMemoS1Arrowhead]
 ---
 # The Protector
 

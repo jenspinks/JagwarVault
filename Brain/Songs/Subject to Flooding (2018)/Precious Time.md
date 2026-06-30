@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-SubjectToFlooding, CHAR-Roy, SONG-DreamDream]
   strong_read: [SONG-HellOfANightPt2TheHallelujahStickup, SONG-Shine, CONCEPT-InheritedSubstrate]
   resonance:   [CONCEPT-Nigredo, CONCEPT-MachineVsHuman]
-referenced_by: [SONG-AllMyFriends]
+referenced_by: [SONG-AllMyFriends, SONG-ItSYourTime]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop

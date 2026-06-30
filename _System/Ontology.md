@@ -77,6 +77,7 @@ hand-maintained thereafter.
 | `CHAR-JagwarTwin` | Jagwar Twin |  |
 | `CHAR-Mary` | Mary |  |
 | `CHAR-Roy` | Roy |  |
+| `CHAR-SARAVI` | SARAVI / VI | AI oracle-interface; Roy's uploaded-consciousness proxy; Hall of Mirrors guide; public digital-double entity. Wise/mystic/all-knowing register — do NOT identify with the Maker/Wise-One Jagwar unless public evidence appears → [[Brain/Characters/SARAVI]] |
 | `CHAR-SirLucius` | Sir Lucius |  |
 | `CHAR-SirRabbit` | Sir Rabbit | → [[Brain/Characters/Sir Rabbit]]; rabbit-register figure (cf. the Rabbits symbol-line); relation to Roy/Lucius held `[?]` |
 

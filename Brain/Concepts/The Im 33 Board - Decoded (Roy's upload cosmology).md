@@ -5,6 +5,7 @@ status: draft
 created: 2026-06-27
 source: "[[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] (the verbatim board)"
 tier: mixed (see inline)
+referenced_by: []
 ---
 # The "I'm 33" Board — Decoded (Roy's upload cosmology)
 

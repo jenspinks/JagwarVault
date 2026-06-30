@@ -5,6 +5,7 @@ status: stub
 confidence: low
 related: [CHAR-SirRabbit, CONCEPT-TheThread, CONCEPT-TheCircle]
 review_date: 2026-12-29
+referenced_by: []
 ---
 # The Divide
 

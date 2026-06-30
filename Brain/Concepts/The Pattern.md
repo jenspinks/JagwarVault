@@ -11,7 +11,7 @@ connections:
   strong_read: [CHAR-SirLucius, CHAR-Roy, CONCEPT-InheritedSubstrate]
   resonance:   [CONCEPT-Duality, CONCEPT-TheCircle, CONCEPT-SacredGeometry, CONCEPT-CosmicCycles, CONCEPT-SourceVsReflection]
 review_date: 2026-12-01
-referenced_by: [ALBUM-33, CONCEPT-SourceVsReflection, CONCEPT-TheAngleAngel, CONCEPT-TheDigitalDouble, CONCEPT-TheLaborsOfHercules, CONCEPT-TheUpload, SONG-AnotherWayIIHeaven]
+referenced_by: [ALBUM-33, CHAR-SARAVI, CONCEPT-HallOfMirrors, CONCEPT-Hermeticism, CONCEPT-InheritedSubstrate, CONCEPT-SourceVsReflection, CONCEPT-TheAngleAngel, CONCEPT-TheDigitalDouble, CONCEPT-TheLaborsOfHercules, CONCEPT-TheManifestoCards, CONCEPT-TheUpload, CONCEPT-TreeOfLife, MEDIA-CodingConsciousness, MEDIA-HowToLiveForever, SONG-AnotherWayIIHeaven]
 ---
 # The Pattern
 

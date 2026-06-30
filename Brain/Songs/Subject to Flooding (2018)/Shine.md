@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-SubjectToFlooding, CHAR-Roy, CONCEPT-SourceVsReflection]
   strong_read: [SONG-Weirdness, SONG-BALLERINABOY, SONG-MAGIK, SONG-SOL]
   resonance:   [CHAR-Mary, CONCEPT-Tiferet]
-referenced_by: [SONG-PreciousTime]
+referenced_by: [MEDIA-EggSunrise, SONG-PreciousTime]
 dominant_pole: solar
 transformation_phase: albedo
 recursion_state: return

@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-1ChampionLaConquistadora, SONG-BALLERINABOY]
   strong_read: [SONG-Weirdness, CHAR-Roy, CHAR-SirLucius]
   resonance:   [CONCEPT-Malkhut, CONCEPT-TheMoon, CONCEPT-Tiferet]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CHAR-SirLucius, CONCEPT-TheBanana, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheJaguar, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLabyrinth, CONCEPT-TheThread, CONCEPT-WitnessingVsSurveillance, SONG-1ChampionLaConquistadora, SONG-BALLERINABOY, SONG-Bananas, SONG-CityOfAngels, SONG-GreatTimeToBeHuman, SONG-MothsToTheFlame, SONG-NotYourHomie, SONG-Shine, SONG-Weirdness]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CHAR-SARAVI, CHAR-SirLucius, CONCEPT-Gnosticism, CONCEPT-TheBanana, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheJaguar, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLabyrinth, CONCEPT-TheThread, CONCEPT-WitnessingVsSurveillance, MEDIA-ThirdEyeWatcher, SONG-1ChampionLaConquistadora, SONG-BALLERINABOY, SONG-Bananas, SONG-CityOfAngels, SONG-GreatTimeToBeHuman, SONG-MothsToTheFlame, SONG-NotYourHomie, SONG-Shine, SONG-Weirdness]
 review_date: 2026-11-16
 ---
 # Mary

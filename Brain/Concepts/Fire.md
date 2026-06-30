@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus]
   strong_read: [CONCEPT-TheCircus, CONCEPT-Inversion, CONCEPT-TheLightBearer]
   resonance:   [CONCEPT-TheWheel, CONCEPT-TheCircle]
-referenced_by: [CONCEPT-TheWheel, SONG-CityOfAngels, SONG-MothsToTheFlame, SONG-PlayingToTheGods]
+referenced_by: [CONCEPT-TheWheel, MEDIA-TestPilotLighter, SONG-CityOfAngels, SONG-MothsToTheFlame, SONG-PlayingToTheGods]
 review_date: 2026-11-16
 ---
 # Fire

@@ -10,6 +10,7 @@ connections:
   strong_read: [CHAR-SirLucius, CONCEPT-TheAlgorithm, CONCEPT-WitnessingVsSurveillance, ALBUM-SubjectToFlooding, ALBUM-33]
   resonance:   [CONCEPT-Tiferet, CONCEPT-Yesod]
 review_date: 2026-12-29
+referenced_by: [ALBUM-33, CONCEPT-Gnosticism, CONCEPT-SourceVsReflection, CONCEPT-TheProtector, CONCEPT-WitnessingVsSurveillance, SONG-GoodDay, SONG-Loser, SONG-Online, SONG-PreciousTime, SONG-SuperhumanInterlude]
 ---
 # Machine vs Human
 

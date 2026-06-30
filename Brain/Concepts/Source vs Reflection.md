@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-SubjectToFlooding, SONG-SuperhumanInterlude]
   strong_read: [CONCEPT-MachineVsHuman, CONCEPT-TheCircle, CONCEPT-WitnessingVsSurveillance]
   resonance:   [CONCEPT-Yesod, CONCEPT-TheMirror, CONCEPT-TheMoon, CONCEPT-ThePattern]
-referenced_by: [ALBUM-33, CONCEPT-CommunionVsSpectacle, CONCEPT-KeilimVessels, CONCEPT-TheDigitalDouble, CONCEPT-TheEmptyMirror, CONCEPT-TheJaguar, CONCEPT-ThePattern, CONCEPT-TheUpload, SONG-CityOfAngels, SONG-LuciusLullaby, SONG-Shine, SONG-TheCircleLuciusVersion, SONG-TheWatchers]
+referenced_by: [ALBUM-33, CHAR-SARAVI, CHAR-SirRabbit, CONCEPT-CommunionVsSpectacle, CONCEPT-Gnosticism, CONCEPT-HallOfMirrors, CONCEPT-Hermeticism, CONCEPT-InheritedSubstrate, CONCEPT-KeilimVessels, CONCEPT-MachineVsHuman, CONCEPT-TheDigitalDouble, CONCEPT-TheEmptyMirror, CONCEPT-TheFlipAndTheDistortingMirror, CONCEPT-TheJaguar, CONCEPT-TheManifestoCards, CONCEPT-TheMirror, CONCEPT-ThePattern, CONCEPT-TheSpeakerProblem, CONCEPT-TheUpload, CONCEPT-TreeOfLife, SONG-CityOfAngels, SONG-LuciusLullaby, SONG-Shine, SONG-TheCircleLuciusVersion, SONG-TheWatchers]
 review_date: 2026-12-05
 ---
 # Source vs Reflection

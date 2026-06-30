@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, SONG-WelcomeToTheCircus, SONG-LOOP]
   strong_read: [CONCEPT-TheLaborsOfHercules, CONCEPT-TheMask, CONCEPT-Inversion, CHAR-Roy, SONG-HappyFace, CONCEPT-TheThread, SONG-SOL, SONG-1ChampionLaConquistadora, CHAR-Mary, CHAR-BallerinaBoy, CONCEPT-TheProtector, SONG-GoodDay]
   resonance:   [CONCEPT-Consumption, CONCEPT-TheAlgorithm, CONCEPT-TheCircle, CONCEPT-Yesod, CONCEPT-TheMoon]
-referenced_by: [CONCEPT-TheBanana, CONCEPT-TheLaborsOfHercules, CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, SONG-Bananas, SONG-Weirdness, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-TheBanana, CONCEPT-TheLaborsOfHercules, CONCEPT-TheProtector, CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, SONG-Bananas, SONG-Weirdness, SONG-WelcomeToTheCircus]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: orbit

@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-TheCircle, SONG-HappyFace, SONG-SoulIsAStar]
   strong_read: [CONCEPT-TheCircle, CONCEPT-MachineVsHuman, ALBUM-SubjectToFlooding]
   resonance:   [CONCEPT-SourceVsReflection, CONCEPT-ThePattern]
-referenced_by: [CHAR-Roy, CONCEPT-TheCircle, CONCEPT-ThePattern, CONCEPT-TheUpload, SONG-AnotherWayIIHeaven, SONG-DownToYou, SONG-HappyFace, SONG-ILikeToParty, SONG-ImagineAWorld, SONG-Online, SONG-PayAttentionFeatLittleLuna, SONG-TheCircle]
+referenced_by: [CHAR-Roy, CONCEPT-HallOfMirrors, CONCEPT-MachineVsHuman, CONCEPT-TheCircle, CONCEPT-ThePattern, CONCEPT-TheUpload, SONG-AnotherWayIIHeaven, SONG-DownToYou, SONG-HappyFace, SONG-ILikeToParty, SONG-ImagineAWorld, SONG-ItSYourTime, SONG-Online, SONG-PayAttentionFeatLittleLuna, SONG-TheCircle]
 review_date: 2026-12-05
 ---
 # 33 (album)

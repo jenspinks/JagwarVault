@@ -6,6 +6,7 @@ confidence: high
 source_quality: methodological
 related: [SONG-DreamDream, SONG-SoulIsAStar, SONG-SuperhumanInterlude, SONG-TheWatchers, CONCEPT-ThePattern, CONCEPT-SourceVsReflection]
 review_date: 2026-12-29
+referenced_by: [CONCEPT-ThePattern, MEDIA-CodingConsciousness, SONG-AllMyFriends, SONG-DreamDream, SONG-GoodDay, SONG-Loser, SONG-PreciousTime, SONG-SuperhumanInterlude]
 ---
 # Inherited Substrate
 

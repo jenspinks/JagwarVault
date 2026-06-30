@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `35e8741` (2026-06-30 04:27:46 -0500) · 47 songs · 80 concepts · 5 characters · 3 albums
+> [!info] Generated snapshot — vault commit `e143bdf` (2026-06-30 11:17:07 -0500) · 47 songs · 80 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -163,6 +163,7 @@ Declared in [[Ontology]] for reference-resolution; most have no standalone page 
 | `CHAR-JagwarTwin` | Jagwar Twin | `Brain/Characters/Jagwar Twin.md` · draft | — |
 | `CHAR-Mary` | Mary | `Brain/Characters/Mary.md` · draft | — |
 | `CHAR-Roy` | Roy | `Brain/Characters/Roy.md` · stable | `Essays/Characters/Roy.md` |
+| `CHAR-SARAVI` | SARAVI / VI | `Brain/Characters/SARAVI.md` · draft | — |
 | `CHAR-SirLucius` | Sir Lucius | `Brain/Characters/Sir Lucius.md` · stable | `Essays/Characters/Sir Lucius.md` |
 | `CHAR-SirRabbit` | Sir Rabbit | `Brain/Characters/Sir Rabbit.md` · draft | — |
 

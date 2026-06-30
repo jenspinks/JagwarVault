@@ -7,7 +7,7 @@ connections:
   grounded:    [CHAR-Roy]
   strong_read: [CONCEPT-SourceVsReflection, CONCEPT-TheEmptyMirror, CONCEPT-TikkunOlam, SONG-CityOfAngels]
   resonance:   [CONCEPT-Nigredo, CONCEPT-Malkhut, CONCEPT-Tiferet]
-referenced_by: [SONG-TheWatchers]
+referenced_by: [CONCEPT-TheHouseAndTheVessel, CONCEPT-TreeOfLife, SONG-RoyVoiceMemoS1Arrowhead, SONG-TheWatchers]
 review_date: 2026-12-15
 ---
 # Keilim — The Breaking of the Vessels (Shevirat HaKelim)

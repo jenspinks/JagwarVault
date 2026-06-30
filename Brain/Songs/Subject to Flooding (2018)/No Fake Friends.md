@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, ALBUM-SubjectToFlooding]
   strong_read: [CONCEPT-TheProtector, SONG-GoodDay, SONG-Loser, CONCEPT-FlattenedIdentity, SONG-HappyFace]
   resonance:   [CONCEPT-Nigredo, CONCEPT-Consumption, CONCEPT-OrbitReturn]
-referenced_by: [SONG-HellOfANightPt2TheHallelujahStickup]
+referenced_by: [CONCEPT-TheProtector, SONG-HellOfANightPt2TheHallelujahStickup]
 dominant_pole: mixed
 transformation_phase: nigredo
 recursion_state: orbit

@@ -7,6 +7,7 @@ source_quality: framework-hub
 aliases: [Gnosticism, Gnostic, The World as Trap, Anamnesis]
 related: [CONCEPT-SourceVsReflection, CONCEPT-MachineVsHuman, CHAR-SirLucius, CHAR-Mary, CONCEPT-TheAquarium, CONCEPT-TheCircle]
 review_date: 2026-12-29
+referenced_by: [SONG-ItSYourTime]
 ---
 # Gnosticism — The World as Trap (hub)
 

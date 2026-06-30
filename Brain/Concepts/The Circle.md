@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-TheCircle, SONG-MoveToYou]
   strong_read: [CONCEPT-TheThread, ALBUM-33, SONG-TheCircleLuciusVersion]
   resonance:   [CONCEPT-TheLoop, CONCEPT-Malkhut]
-referenced_by: [ALBUM-33, ALBUM-LuciusLullaby, CONCEPT-CommunionVsSpectacle, CONCEPT-Fire, CONCEPT-SourceVsReflection, CONCEPT-TheBanana, CONCEPT-TheCircus, CONCEPT-TheJaguar, CONCEPT-TheLaborsOfHercules, CONCEPT-ThePattern, CONCEPT-TheRealm, CONCEPT-TheWheel, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-TheCircle, SONG-TheCircleLuciusVersion]
+referenced_by: [ALBUM-33, ALBUM-LuciusLullaby, CHAR-SirRabbit, CONCEPT-CommunionVsSpectacle, CONCEPT-Fire, CONCEPT-Gnosticism, CONCEPT-SourceVsReflection, CONCEPT-TheBanana, CONCEPT-TheCircus, CONCEPT-TheDivide, CONCEPT-TheJaguar, CONCEPT-TheLaborsOfHercules, CONCEPT-ThePattern, CONCEPT-TheRealm, CONCEPT-TheWheel, MEDIA-CodingConsciousness, SONG-ItSYourTime, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-TheCircle, SONG-TheCircleLuciusVersion]
 review_date: 2026-12-05
 ---
 # The Circle
