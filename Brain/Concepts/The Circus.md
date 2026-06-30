@@ -98,4 +98,4 @@ The Circus is not a 2026 idea — it is a **staged, realized world built across 
 
 ---
 
-*Stub — to be developed as song-by-song analysis continues.*
+*Status: `draft` — a living aggregation page; expands as song-by-song analysis continues.*

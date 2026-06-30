@@ -63,7 +63,3 @@ This is the only moment in the public catalogue where the Circus's authorship is
 - [ ] Can the Algorithm be worked within without being captured by it? (Roy wants to release SOL — which the Algorithm presumably would not reward. Lucius overrides. This may be the Algorithm's victory in miniature.)
 - [ ] Bailey's *"the world is today the victim of illusion, propaganda, and mass suggestion"* — publicly curated Roy quote. Is Bailey being cited as a diagnosis of the Algorithm's precursor, or does the Algorithm exceed what Bailey imagined?
 - [ ] Is there any song in the catalogue that is anti-algorithmic by design — made precisely to fail by the Algorithm's metrics?
-
----
-
-*Stub — to be developed.*

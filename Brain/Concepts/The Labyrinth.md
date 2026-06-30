@@ -84,7 +84,3 @@ The reason the maze has no exit sign is not architectural — it is because *the
 - [ ] Does Lucius know where the exit is? (The *"don't say where the exits are"* reading — the exit exists but Lucius will not name it.)
 - [ ] The Rosicrucian reading of the Minotaur as *transformation potential* rather than simply a monster — does this change what's at the center of the maze? Is the Minotaur the wound that needs to be met, not destroyed?
 - [ ] Daedalus built wings to escape his own trap. Is there a wings-as-escape-from-labyrinth reading in the *"song hidden in its wings"* image?
-
----
-
-*Stub — to be developed.*

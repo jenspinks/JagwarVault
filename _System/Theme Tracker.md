@@ -75,25 +75,25 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## II. TRANSFORMATION & INITIATION
 
-### Nigredo [~]
+### Nigredo [W]
 - Blackening. Collapse. Dissolution.
 - Rock bottom.
 - The wound environment.
 - The Circus as arrested nigredo.
 
-### Albedo [~]
+### Albedo [W]
 - Reclamation.
 - First illumination.
 - Weirdness as sunlight.
 - The buried self resurfacing.
 
-### Rubedo [~]
+### Rubedo [W]
 - Integration completion.
 - Heart and mind reconciled.
 - Solar embodiment.
 - Not fully reached in current arc.
 
-### Alchemical Transmutation [~]
+### Alchemical Transmutation [W]
 - Shame transformed into gold.
 - Weakness becoming sacred material.
 - The rejected becoming luminous.
@@ -105,7 +105,7 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 - Movement becomes possible.
 - Examples: faceless angel, fatherly blessing, mirror realization, abyss crossings.
 
-### The Abyss [~]
+### The Abyss [W]
 - Collapse before transformation.
 - The split-point.
 - Da'at crossing.
@@ -230,31 +230,31 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ## VI. KABBALISTIC / ESOTERIC ARCHITECTURE
 
-### Tree of Life [~]
+### Tree of Life [W]
 - **Malkuth** — body, wound, material world.
 - **Yesod** — moon, memory, reflection, Lucius.
 - **Tiferet** — heart, integration, sunlight.
 - **Da'at** — threshold, throat, hidden crossing.
 
-### Da'at / The Gate [~]
+### Da'at / The Gate [W]
 - Knowledge threshold.
 - Crossing point between divided and integrated self.
 - The abyss interface.
 
-### Tsimtsum [~]
+### Tsimtsum [W]
 - Divine contraction. The void left behind.
 - Space created through absence.
 
-### Shattering / Tikkun [~]
+### Shattering / Tikkun [W]
 - Broken vessels. Fragmented light.
 - Repair through conscious return.
 
-### Keilim / Vessels [~]
+### Keilim / Vessels [W]
 - Structures that hold light.
 - The danger of overflow.
 - Can the vessel survive illumination?
 
-### Sacred Geometry [~]
+### Sacred Geometry [W]
 - Circles. Triangles. Symmetry. Mirror architecture.
 - Structural symbolism beneath visible form.
 
@@ -315,7 +315,7 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 ### The Aquarium [~]
 - Visibility within containment. Performer/audience separation.
 
-### Tarot [~]
+### Tarot [W]
 - Archetypal mapping system.
 - Magician, Devil, Fool, Moon, Sun, etc.
 

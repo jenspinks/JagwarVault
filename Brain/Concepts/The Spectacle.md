@@ -63,7 +63,3 @@ The term carries both a vernacular sense (something spectacular, impressive) and
 - [ ] Is there a form of *authentic* spectacle — beauty, art, sacred ritual — that the Circus perverts? Or is all spectacle inherently suspect?
 - [ ] The theatrical series (*EP 1-7*) is a Spectacle about a Spectacle — the Circus being documented by cameras that are part of the Circus. Does the meta-awareness defuse the trap, or is it just another layer of the Spectacle?
 - [ ] What is the opposite of the Spectacle in this project? Possibly [[SOL]] — the song Lucius cannot metabolize, which may be the anti-spectacular moment.
-
----
-
-*Stub — to be developed.*

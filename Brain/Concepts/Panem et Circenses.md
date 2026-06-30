@@ -71,4 +71,4 @@ This aspect is less often noted. In the Roman Empire, the circus and the arena w
 
 ---
 
-*Stub — to be developed. Likely to remain a supporting concept rather than a primary page.*
+*Status: `draft` — a developed supporting concept, likely to remain a supporting page rather than a primary one.*

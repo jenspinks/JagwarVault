@@ -70,7 +70,3 @@ The Circus collapses this into pure spectatorship: *take your seat, scream and s
 - [ ] Is the Audience's love of watching you lose control a *moral failure* of the Audience, or a *designed feature* of the system that the Audience cannot be blamed for?
 - [ ] Can a member of the Audience become a co-creator — and if so, what's the move? Does it require leaving the Circus?
 - [ ] Roy says the listener's consciousness *"bleeds out into shared reality."* Is this a warning (the Audience is responsible for what they generate inside themselves) or a comfort (the co-creator is never just a passive spectator, no matter how the system tries to seat them)?
-
----
-
-*Stub — to be developed.*

@@ -50,6 +50,13 @@ Standalone single, **2023-05-26**, Big Loud. Writers **Roy English, Colin Britta
 - [~] *"Chasing down a feeling I used to believe in"* — faded conviction; faint [[The Thread]] rhyme (don't force).
 - [~] *"don't wanna go outside"* ↔ [[Essays/Concepts/Songs/No Fake Friends|N.F.F.]] — circle tightens when the world floods.
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **Flatter read: a warm end-of-the-world-with-friends anthem.** *"The world is ending, but if I'm going out it's with all my friends"* is a recognizable (even cozy) apocalyptic-togetherness genre, and Roy's own framing `[G]` (played it *with friends*) grounds exactly that. The clone-vs-Witnessing, spin≠Loop, City-of-Angels-seed readings layer cosmology onto a sincere friends-anthem; hold them `[W]`, grant the plain one. `[P]`
+- **"I feel like a clone in a crowded city" is common modern-alienation, not a node.** Alienation-in-the-crowd is one of the most frequent contemporary lyrics; reading it into the clone/Watchers/City-of-Angels architecture is the vault's pattern — the page is honest to tag it "retrospective seed, NOT 2023 intent," so let the tag govern and keep the architecture `[~]`. `[~]`
+- **Jenny is a character before she's a Ballerina-Boy rhyme.** Most plainly she's a specific friend who's gone preachy about the End Times; the *"used to be a dancer"* ↔ Ballerina Boy rhyme links two different dancers two years apart and is rightly held `[~]`/`[?]`. Don't let an evocative rhyme promote a one-off character into the mythos. `[~]`
+- **Falsifier:** if "All My Friends" is the sincere apocalypse-with-friends song Roy describes (co-written with Colin Brittain — emergent), the clone-architecture / Loop / Witnessing readings are overlay.
+
 ## Open Questions
 - [?] "Jenny = 408" decode (post real + release-dated; meaning open).
 - [?] Jenny — person / archetype / composite (don't fix without evidence).

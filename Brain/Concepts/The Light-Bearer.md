@@ -93,7 +93,3 @@ The arc keeps all three live and does **not** collapse to one — which is why t
 - [ ] Is the Lucius/Lucifer/lux connection intentional, resonant, or coincidental? Does it need to be intentional to be load-bearing?
 - [~] Is there a moment in the arc where the Light-Bearer *becomes* an illuminator — where Lucius's light is redeemed? The Steiner model of the Dweller-who-becomes-guide suggests possible transformation. **Reframed (Jen, 2026-06-28): see §Reclaiming vs integration — "redeem" is only ONE of three stream-dependent outcomes (stop / re-order / redeem); the arc keeps all three live, so this stays open *by design*, not for lack of evidence.**
 - [ ] The morning star (Venus) is eventually outshone by the sun. Is SOL (sun in Spanish) the sun that outshines the morning star? Does the name mean what it seems to mean? **(Tarot layer added 2026-06-16, kept OPEN: Star → Moon → Sun as the same reflected/false-light → true-light finale — see §Biblical/Esoteric Resonance. Exploratory `[~]/[W]`; keep exploring.)**
-
----
-
-*Stub — to be developed.*

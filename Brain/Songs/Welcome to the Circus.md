@@ -55,6 +55,13 @@ Voiced: [[Sir Lucius]] (Ringmaster / Speech Mode). Body: [[Roy]] (reluctant perf
 ## Narrative anchor
 EP3 (visual lore, public): Roy proposes a Song of Love; Lucius overrides, cites low-performing vulnerable songs, "the algorithm baby." Song's authorship confessed in-work.
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **Flatter read: a dark-carnival villain anthem.** "Welcome to the show, this place will eat you alive" is a well-established theatrical-pop aesthetic (the menacing ringmaster). The Eucharist-inverted / Jonah-inverted / Theseus-without-Ariadne stacking layers theology and myth onto a vivid carnival-villain song that doesn't require them. The genuinely grounded heart is the **meta-collapse** (Roy conceding *"Lucius was right"* as the song broke out) `[W-strong]` — and it needs none of the esoteric apparatus. `[P]`
+- **Densest phrase→concept map in the vault — at this density it's a concordance, not a reading.** *Every* line resolves to a CONCEPT-entity (ring of fire→Circle-inverted, teeth→Mouth/Voice, maze→Labyrinth/Thread, upside-down→Inversion…). But many of those concepts were defined *partly from this song* — so the mapping risks **circular corroboration**: the song "confirms" concepts it helped author. When nothing fails to map, the mapping has stopped discriminating. `[W]`
+- **"Vowel-without-consonant" rides an unauthorized method; the Mary-marker rides a name.** *"Teeth falling out / screaming no words = vowel-without-consonant"* leans on the consonants=angles letter-mysticism that (per [[Sir Lucius]]) is **not Roy's stated system** → `[~]`. And tagging BG vocalist Rachel Kanner a *"recurring Mary-voice marker"* `[?]` is the name/voice-driven over-identification the Mary tracker has to resist. `[~]`
+- **Falsifier:** if WTTC is a theatrical dark-carnival anthem, the Eucharist/Jonah/Theseus/letter-mysticism readings are overlay — and the meta-collapse, the one thing that's `[W]`-grounded, stands without any of them.
+
 ## Open Questions
 - [ ] Lucius protecting Roy, or training him to rule the Circus?
 - [ ] Who is "the Boss" Lucius reports to? (CHAR-TheBoss)

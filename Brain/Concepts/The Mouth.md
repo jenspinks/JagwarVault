@@ -83,7 +83,3 @@ There are two modes of mouth in the project: **the mouth that testifies** (Roy's
 - [ ] Is the voiceless scream a *diagnosis* (this is what happens in the Circus) or a *personal history* (this was Roy's experience before the project)? Probably both — but the distinction matters for reading which lines are Lucius speaking and which are Roy's substrate speaking through Lucius.
 - [ ] Is the force-feeding in *I Like to Party* self-inflicted, industry-inflicted, or Lucius-inflicted? The jeweled hand from off-screen makes it external; but whose hand?
 - [ ] If SOL is the mouth integrated — what does the song sound like? What does Roy's mouth say when Lucius doesn't override it?
-
----
-
-*Stub — to be developed.*

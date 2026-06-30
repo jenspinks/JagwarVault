@@ -84,7 +84,3 @@ The project seems to be moving toward *chosen silence* (the voice that speaks wh
 - [ ] The "nonsense before structure" idea ([~] letter-mysticism, not a sourced Roy method — [[The Angels and the Angles]]) suggests the authentic voice arrives *before* conscious control can suppress it. Is this the way back to the voice — not through the controlled mouth but through the pre-conscious one?
 - [ ] If the vowels are the angels and the consonants are the angles — and the voice is the meeting of vowel and consonant — then *"teeth falling out"* (angles gone) and *"screaming with no words"* (angles gone) both describe a voice of pure vowel, pure spirit with no structure. Is this a failure state, or is it the voice at its most raw?
 - [ ] Is [[Essays/Concepts/Songs/Ballerina Boy]] the answer? The voice that can't perform for the algorithm but might be the most authentic in the catalogue?
-
----
-
-*Stub — to be developed.*

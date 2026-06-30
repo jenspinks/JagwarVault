@@ -77,7 +77,3 @@ The project traces a progression: **Happy Face** (the minimum-viable social mask
 - [ ] When Lucius says *"Paint my face"* in WTTC, is he describing something done *to* him (the system paints him) or something he does *willingly* (he chooses to paint himself)?
 - [ ] What is the face *under* the mask? Is Roy the face, or is Roy also a mask?
 - [ ] Is the removal of the mask the arc the project is working toward — or does the project argue that some mask is always necessary?
-
----
-
-*Stub — to be developed.*

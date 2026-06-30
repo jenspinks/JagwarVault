@@ -29,6 +29,13 @@ Bulwer-Lytton *Zanoni* (1842) → Blavatsky/Steiner (Lesser vs Greater Dweller) 
 ## Distinctions [W]
 Not Shadow-alone (Dweller = Shadow given face/name/voice). Not external demon (the demon-framing is itself the Dweller's defense). Not moral failure (adaptation to survive). Not necessarily destroyed — can become guide once recognized (Steiner).
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **Flatter read: Lucius is a stage persona, not a Theosophical Dweller.** An artist's shadow-character (Bowie's Ziggy, DOOM's villain) is ordinary craft; the Dweller framework (Bulwer-Lytton→Blavatsky→Steiner) is an erudite overlay. **Lineage is "none"** — no JT source names the Dweller — so the attribution is `[~]`, not `[W]`; the resemblance is real, the *reference* unclaimed.
+- **"Reintegrate, never kill" pre-commits the ending.** The Dweller frame requires reintegration as the only exit — but the catalogue may **destroy** Lucius, be destroyed by him, or leave it unresolved. The Open Questions below ask exactly this, which means the "Application `[W]`" overstates a genuinely open arc. Hold the integration-read as one possible telos, not the structure. `[P]`
+- **"I made you" is literal authorship before it is shadow-psychology.** Roy *did* author the character; the line needs no Jungian gloss. Reading self-authorship as "self-generated unintegrated material" converts a creator-to-creation statement into a metaphysical one. `[~]`
+- **Falsifier:** a resolution where Lucius is cast *off* (exorcised, defeated, revealed as truly external) rather than reabsorbed would break the Dweller frame at its core premise.
+
 ## Open Questions
 - [ ] Lucius Lullaby era = crossing, or Dweller blocking it?
 - [ ] Can Lucius → Dweller-as-guide?

@@ -77,7 +77,3 @@ Same shape. Different function:
 - [ ] Is the ring of fire in WTTC the *boundary of the sacred* (seraphim guarding the throne, now seen from the outside as an impassable wall), or the *instrument of punishment* (the lake of fire, the wheel of torment)?
 - [ ] Is there a moment in the arc where fire shifts back to its purifying function — where the ring of fire becomes the refiner's fire? Possibly the Leo-labor cave is where this happens; the strangling of the lion in the dark is the fire that refines without destroying.
 - [ ] Prometheus stole fire for humanity's benefit and was punished eternally. Does [[Roy]] carry a Promethean relationship to the fire — someone who brought the divine light into the human sphere and paid a price for it?
-
----
-
-*Stub — to be developed.*

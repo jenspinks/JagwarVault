@@ -78,7 +78,3 @@ If *The Circle* is the dervish's practice — the spinning that finds the still 
 - [ ] If the Circle is the redeemed Wheel, what's the move from Wheel to Circle? Consciousness? Stopping? Finding the axis? The Labors / Leo-cave reading would suggest: *entering the center willingly*, which is what the dervish does and what Hercules does in the cave.
 - [ ] Does the Wheel have a bottom — a lowest point — from which the only motion is upward? The Wheel of Fortune's lowest point is often the position from which transformation begins.
 - [ ] The Merkavah (Ezekiel's chariot-wheels) descends to earth and ascends to heaven. Is there a descent/ascent reading of the Lucius-Lullaby-to-SOL arc as a Merkavah journey?
-
----
-
-*Stub — to be developed.*

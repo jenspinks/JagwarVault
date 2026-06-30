@@ -89,4 +89,4 @@ These are likely not different threads — they are the *same thing* described a
 
 ---
 
-*Stub — to be developed. This is one of the most load-bearing concept pages in the vault.*
+*Status: `draft` — one of the most load-bearing concept pages in the vault; expand as the arc resolves.*

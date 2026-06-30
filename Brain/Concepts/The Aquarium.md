@@ -73,7 +73,3 @@ The work of awareness — Gurdjieff's "self-remembering," Bailey's "the path of 
 - [ ] Is the Aquarium escapable? Or is the work simply *becoming aware of being in one* — which changes the experience without changing the environment?
 - [ ] *"The inside of the inside"* from *The Circle* — is this the Aquarium's deepest trap or the Aquarium's exit? Roy has said the Circle is at the heart of all the work. Does the inside of the inside lead to the Aquarium's center (where you are most trapped) or to its breach (where the glass is thinnest)?
 - [ ] The Rosicrucian mandate — healing the sick, working in secret, refusing payment — could be read as operating *within* the Aquarium to help other inhabitants, without claiming to have escaped. Is that the only available service position?
-
----
-
-*Stub — to be developed.*

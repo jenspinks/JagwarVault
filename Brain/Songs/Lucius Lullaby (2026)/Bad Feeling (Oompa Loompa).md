@@ -71,6 +71,13 @@ The chorus phrase became the title of Roy's **first gallery show + pop-up** — 
 ## Boundary (do not re-contaminate)
 *"teeth falling out," "no exit sign in my maze," "spinning you 'round," "chew you up, spit you out"* belong to **[[Welcome to the Circus]]** (track 4) — **NOT** this song. (Adjacent track; treat as connection only.)
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **Roy's own gloss is modest; the vault's read is grand.** He frames it small `[G]` — *"a chocolate covered reminder to trust your gut."* That's intuition, personal. The vault reads it large: Wonka-factory = the Circus = a spectacle-machine = Consumption + Algorithm devouring the crowd. The gap between **stated scope (a gut-feeling)** and **imputed scope (a systems critique)** is itself the counterargument — honor the author's smaller frame as the floor, the systems-read as `[W]` on top. `[P]`
+- **The grotesque imagery may be playful horror, not a structural system-claim.** *"Carnivores and cannibals… on demand-able… mandible, jaw split"* is vivid candy-horror wordplay (the page even names it "clever-nonsense"); reading it as "the attention economy as a mouth" `[W]` is one option, but visceral imagery for its own eerie effect is another. Not every devouring image encodes [[Consumption]]. `[W]`
+- **"Dread under perfection" may be plain anxiety, not Maya.** *"When the moon hits the sky, I'm a little unwell"* reads as ordinary unease/depression at least as well as luna→lunacy + Kierkegaard's "crowd is untruth" + Bailey's illusion-doctrine stacked on top. Those are `[~]` framework-imports onto a mood piece — keep them resonance, and don't let four traditions co-sign one line. `[~]`
+- **Falsifier:** the candy/Wonka aesthetic being primarily a *2023 film tie-in marketing hook* (the single was timed to the *Wonka* release) would reframe the "spectacle-machine" depth as commercially-occasioned dressing — a possibility the page itself half-concedes ("threat-detector and factory foreman in one").
+
 ## Open Questions
 - [?] Who is the **"you"** the bad feeling is *about* (listener / industry / Roy / Lucius / the appetite-machine)? And the **"I"** — Lucius warning about the system, or the buried self warning about Lucius?
 - [?] Does the **acoustic-live (track 15)** reveal a more mournful core under the candy machinery?

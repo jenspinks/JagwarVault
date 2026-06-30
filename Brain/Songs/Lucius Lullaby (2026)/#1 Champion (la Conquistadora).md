@@ -65,6 +65,14 @@ The title chain runs **Champion → Conquistador → Conquistadora**: the song o
 - **Witnessing vs Surveillance** ([[Witnessing vs Surveillance]]): the champion *looks at* Mary (objectifies; can't see her face) — the consuming gaze — and is dropped. She cannot be possessed by being looked at.
 - **Mary as threshold-intervention** ([[Mary]]: "appears when recursion destabilizes"): she interrupts the looped boast (`recursion_state: loop`) and ends it.
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **Flatter read: a femme-fatale boast track, not a Marian unseating.** *"Dropped me dead when she said…"* is an ancient pop trope — the braggart undone by a woman out of his league — and the vocal split (female hook overpowering the boaster) is ordinary arrangement. The sacred-feminine theology (the count as "creation-grammar he can't survive," Mary as El Roi faceless-source) is `[W]`/`[~]` layered atop a swagger-and-its-comeuppance song. `[P]`
+- **"Mary" name-drives the whole Marian apparatus.** Mary is an extremely common name and *"quite contrary"* is the nursery rhyme `[G]`; the leap to Magdalene / Queen-of-Heaven / La Conquistadora-Madonna is exactly the name-driven over-reading the vault polices elsewhere ([[Inherited Substrate]]). "Gun in her hand, fawning over no man" reads as a tough-independent-woman figure at least as readily as a militarized Madonna. `[~]`/`[?]`
+- **Three co-writers complicate deep authorial encoding.** Credited to **Cici Ward, Roy English, Tony Esterly** — a pop writing-team co-write is less likely to be a deliberate sacred-feminine theological statement than an *emergent* one; the Marian depth may be the vault's reading of a collaborative product, not Roy's encoded intent. Tier the theology `[W]`, the intent `[?]`. `[W]`
+- **The "trap for Lucius" rests on EP7 staging, not the song.** "He claims the anthem and misses the line that kills him" is a reading of theatrical framing imported onto the recording; the song itself doesn't announce it's a trap. `[W]`
+- **Falsifier:** the writers describing it as a straightforward boast / femme-fatale / diss track would demote the Marian-unseating to overlay.
+
 ## Open Questions
 - [x] ~~Mary *"dropped me dead when she said…"* — the line she says is unstated.~~ **RESOLVED 2026-06-15:** the verse cuts straight into the chorus and Mary's voice opens it, so **what she said = *"A-B-C, count 'em, one, two, three…"*** `[G]` (structure + vocal split). The **count** is what drops the champion dead `[W]` — not a withheld secret but the creation-grammar he can't survive hearing.
 - [x] ~~Is *"If you don't know 'bout me"* also Mary's?~~ **RESOLVED 2026-06-15:** yes — the whole chorus is Mary's; Lucius sings only the title. So *"me"* = **Mary** `[W]` — her under-recognized presence (*you should know me by now*), inverting the ego's *"know 'bout me."*

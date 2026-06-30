@@ -45,6 +45,13 @@ Track 1, *Subject to Flooding* (2018, Atlantic). Writers: [?] Apple Music compos
 - [[Brain/Songs/Welcome to the Circus]] — this song diagnoses the system; WTTC exteriorizes it at full scale
 - [[Essays/Concepts/Songs/Weirdness]] — albedo counterpart; this song recognizes the disguise but cannot yet claim the light beneath it
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **Mirror/mask/disguise is universal singer-songwriter territory.** *"I see the disguise on my face getting clearer"* needs no Protector-structure or age-7-Ballerina-Boy link — "I don't recognize myself in the mirror" is among the most common self-alienation lyrics there is. Reading it as "the protector structure's formation before 2018" imposes a specific architecture on a generic image. `[P]`
+- **Authorship and lyrics are both unpinned.** Apple lists Jagwar Twin only; the "Travis Barker / Matthew Pauling" co-write is `[?]` unconfirmed — and the page's own Open Q notes a Barker co-write would shift the register toward mainstream rock affect. Building a mask-recognition arc on a song whose writers *and* words aren't verified is fragile; resolve those first. `[?]`
+- **"For the faceless, not the famous" is a populist applause line.** "This is for the real ones, not the celebrities" is one of pop-rock's most common anthemic gestures; reading the "faceless" here as a structural echo of the faceless Mary-class figure (even hedged) is the tracker finding its figure in a crowd-pleaser. `[~]`
+- **Falsifier:** if this is a sincere 2018 "I feel fake / this one's for the underdogs" album-opener, the proto-Lucius mask-architecture is overlay — which the `medium` confidence and unconfirmed authorship already suggest.
+
 ## Open Questions
 - [~] "They know" — systemic forces or something more specific? Forward-compatible with theatrical authority structures but not asserted.
 - [ ] Travis Barker co-write — does his presence affect how we read the song's cultural register (Blink-182 adjacency, mainstream rock affect)?

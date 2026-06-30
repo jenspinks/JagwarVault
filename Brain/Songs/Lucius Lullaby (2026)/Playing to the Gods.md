@@ -40,6 +40,13 @@ Official visualizer ([[Sources/Reference/Playing to the Gods Visualizer (choreog
 - **He can't hold her hand *and* perform `[W]`.** The instant the singing starts he **lets go of her** to wave/bow to the cameras — *"the mind divorced from the heart"* enacted as choreography: **playing to the gods requires dropping the connection.** Every time the performance begins, the hand opens.
 - **The flatline under "never gonna die" `[W]` — keystone.** As he **re-takes her hand**, a **heart-monitor flatline** enters and runs to the song's end. The deathless mantra plays **over a stopped heart** — the false immortality (above; *the phoenix that skips the burning*) made audible; *"if I make it out alive"* answered by the monitor (**he didn't**). He returns to the connection only *after* it has flatlined — back to a corpse.
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **The depth lives in the video, not the song.** The keystones — hand-dropping = "mind divorced from heart," the flatline under "never gonna die" — are readings of **visualizer choreography** `[W]`, not of the track. The song itself is a looped "never gonna die" mantra; strip the video and it's a brief, atmospheric ironic chant / intro to [[City of Angels]]. The page's own `confidence: medium` is the honest temperature. `[P]`
+- **"Playing to the gods" may carry only its surface sense.** The theatre-gallery idiom (highest seats = cheapest = self-abasement-as-worship) is a clever `[W]` inversion, but the line reads plainly as *"performing to a godlike, adoring crowd"* — the song doesn't require the slang to work. `[W]`
+- **A unison choir is a choir.** Reading the gospel-choir arrangement as "many voices forced to one = the counterfeit of the Circle's distinct-voices-communion" is the vault's frame imposed on a standard production choice; hold it `[~]`, not structural. `[~]`
+- **Falsifier:** read the visualizer out and the "false immortality over a stopped heart" thesis nearly vanishes — which means the reading is a reading of the *film*, and should be tiered as such, not as the song's own claim.
+
 ## Open Questions
 - [x] Full Spotify personnel — **done (Jen, 2026-06-07);** see Credits above.
 - [?] Non-lexical intro/outro ("(Mm-mm)/(Oh-oh)") per Jen's copy — confirm.

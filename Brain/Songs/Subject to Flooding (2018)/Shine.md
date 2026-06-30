@@ -44,6 +44,13 @@ Track 13 (**album closer**), *Subject to Flooding* (2018; streaming 2019); also 
 - [~] **Solar closer / [[SOL]] bookend:** STF ends on the **rising sun** (Shine, 2018); *Lucius Lullaby* ends on **SOL** (*Sol* = sun, 2026). Declared radiance (sung outward) → withheld radiance (wordless breath). Architectural.
 - [~] **Cinema escapism:** *"I wish that life was like a movie"* — light brush with the later spectacle/script thread (and the song was sparked watching a film).
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **The author's frame is a sunrise optimism anthem.** Roy states it plainly `[G]`: a happy chorus "like the sun rising," *"even in dark times there is light if you want to find it,"* sparked by watching *Troy*. The vault's reading — albedo / reflection→radiance / "the self that opened in the mirror tries to *become* the light" / Source-vs-Reflection — is alchemy and mirror-cosmology layered on a chosen-light closer. Honor the stated frame as the floor; tier the cosmology `[W]`. `[P]`
+- **"Shine" is among pop's most ubiquitous inspirational verbs.** Tracking a "shine lineage" from this 2018 song into the 2026 Mary-class blessings risks treating *"let your light shine" / "born to shine"* — gospel/inspirational boilerplate — as a deliberate motif-thread. The page's own guard ("Shine is the seed, NOT a Mary appearance") is the right brake; keep the lineage `[W]`. `[~]`
+- **"Architectural" overstates the SOL bookend.** STF ending on a rising sun and *Lucius Lullaby* ending on SOL (8 years apart) is an elegant `[~]` rhyme, but lots of albums close bright; "architectural" implies design where coincidence or shared aesthetic is at least as likely. `[~]`
+- **Falsifier:** if "Shine" is exactly the chosen-light sunrise anthem Roy describes, the albedo / reflection-becomes-radiance apparatus is overlay on a sincere uplift closer.
+
 ## Open Questions
 - [?] Writer vs. producer credits; unlisted co-writers (no Shine entry in [[Sources/Credits/Subject to Flooding]]).
 - [?] The 2020 Live-In-Studio re-release vs the album cut.

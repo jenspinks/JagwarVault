@@ -70,7 +70,3 @@ This inverts the typical veil-tearing structure (the veil tears to reveal the sa
 - [ ] What's behind the curtain? If the curtain closes and Lucius asks *"did you like the show?"* — is there a Roy behind the curtain who didn't perform, or is Lucius behind the curtain too?
 - [ ] The temple veil was torn *from top to bottom* — divine initiative, not human. Is there an equivalent divine-curtain-tearing moment in the project's arc?
 - [ ] Is [[SOL]] what happens behind the curtain — the song Lucius cannot metabolize, the song that plays when the curtain is closed and the Circus cannot reach?
-
----
-
-*Stub — to be developed.*

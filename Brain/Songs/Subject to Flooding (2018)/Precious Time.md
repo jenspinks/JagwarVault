@@ -50,6 +50,13 @@ Track 12 (penultimate), *Subject to Flooding* (2018; streaming 2019); 3:12. Writ
 - [W] **One recording, two tracks:** the same 1957 Vaughan *"Dream"* feeds [[Brain/Songs/Subject to Flooding (2018)/Dream - Dream|Dream / Dream]] (the **song**, track 2) and Precious Time (the **banter**, track 12) → `CONCEPT-InheritedSubstrate`.
 - [~] **Baptism inverted:** submersion reveals but doesn't cleanse; redemption deferred one track to [[Brain/Songs/Subject to Flooding (2018)/Shine|Shine]].
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **Flatter read: a carpe-diem / mortality reflection.** *"We never see our depth till we're underwater… time tickin'… we can't change"* is a fairly universal "we don't appreciate things until we're drowning / time is precious" meditation. The "time IS the flood — the album's deluge run *as temporality*" is an album-level cosmology imposed on a reflective song; hold it `[W]`. `[P]`
+- **"Form enacts the wasting" is almost always available.** "The looping *Nobody else* spends the time the song mourns" is the kind of form-mirrors-content claim you can make of *any* repetitive song (and any long song "enacts" duration). Elegant, but it can't be disconfirmed — `[~]`, not evidence. `[~]`
+- **Seizure-logic risks the Protector-everywhere move.** Reading *"picking the lock / stocked up, ready or not"* as "seizure-logic against time, kin to Pt. 2's stickup" extends the album's Protector/seizure architecture onto one more track; at some point every STF song becomes the same mechanism. Grant that hoard-and-break-in imagery can just be imagery. `[W]`
+- **Falsifier:** if "Precious Time" is a sincere mortality reflection, the time=flood cosmology and seizure-logic are overlay — and the genuinely grounded find here (the Vaughan-banter *sample* feeding two tracks) needs none of it. *(The page's refusal to make any ancestry claim from the buffalo/Navajo couplet is exactly the right discipline — keep it.)*
+
 ## Open Questions
 - [?] Pin the Vaughan banter (timestamp + audible words) by listen → source page as sample notes, never lyric; upgrade the `[P]` ID if unambiguous.
 - [?] "breathe" vs "breath" — verbatim kept; gloss in analysis.

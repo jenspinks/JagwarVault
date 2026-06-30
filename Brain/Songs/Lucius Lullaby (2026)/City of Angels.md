@@ -68,6 +68,13 @@ Continuous with the PTTG blocking ([[Sources/Reference/Playing to the Gods Visua
 ## [P] flagged leap
 "Hollywood / holy wood" (holly = traditional wand-wood; "welcome to the spell-wood") — fits the counterfeit-hymn + luc-/light wordplay habit, but build nothing load-bearing on it.
 
+## Counterarguments / Alternate Reads
+<!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
+- **Flatter read: a conventional cautionary-Hollywood song.** "The city that promises stardom and hollows you out / everyone here is fake and the same" is a well-worn genre (the page itself flags *Hotel California*). The pronoun-Loop, the Circle→Loop collapse, the Jagwar-Twin "twinning gone metastatic," the feminine-counterfeit — these are vault frameworks layered on a familiar LA-disillusionment track. Co-written (Roy + Matthew Pauling), which again raises **emergent vs encoded** `[?]`. `[P]`
+- **The pronoun-rotation keystone may over-read ordinary address-shifting.** *your → my → your* is how countless pop lyrics move (songs rotate pronouns constantly); "the conversion made grammatical / he occupies the recruiter-slot" is one available reading, not a demonstrated structure. Strong but `[W]` — the Loop is *encodable* in the pronouns, not proven by them. `[W]`
+- **The resonance stack risks infinite depth.** Jacob's-Ladder-inverted + shevirat-ha-kelim scattered sparks + Ariadne-withholding-the-thread + Hotel California, all on one Hollywood-walk — even held `[~]`, four traditions co-signing one song is how *anything* starts to look bottomlessly encoded. Prune to the one or two that earn their keep; name the rest as reader's-intertext only. `[~]`
+- **Falsifier:** Roy framing "City of Angels" as a straightforward fame-cautionary tale would demote the Circle-collapse / feminine-counterfeit apparatus to overlay; and the visualizer's rabbit-bride identity is explicitly `[?]` — don't let an unidentified figure carry Marian weight.
+
 ## Open Questions
 - [x] Full **Spotify personnel** for [[Playing to the Gods]] — **done (Jen, 2026-06-07).** [x] **EP6 wording verified** (Jen, 2026-06-07).
 - [?] Is a **true** immortality (the Great Design / the song that survives) hidden under the false one — or is the **absence of any waking-up** (unlike [[Lucius Lullaby]]) the point: inside the City there's no vantage left to see the lie from?
