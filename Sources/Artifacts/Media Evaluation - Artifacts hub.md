@@ -38,7 +38,7 @@ Every entry carries `#artifact` plus one or more content tags, so any tag is a "
 | `#possibly-trash` | low-signal or unclear; kept but flagged, with a reason |
 
 ## Groups
-- [[Artifacts - Drawings and Sketches]] — Roy's hand-drawn sketches, cosmology maps, portraits. **✅ built (format template)**
+- [[Artifacts - Drawings and Sketches]] — Roy's hand-drawn sketches, cosmology maps, portraits, the **planetary bestiary**. **✅ complete — 23 items, all viewed**
 - *Artifacts - Poems, Stories & Diaries* — text artifacts (Walking the Edge of a Knife, Sir Rabbit, Dead Letter Diaries, Roy Diary 2014…). *(planned)*
 - *Artifacts - Songs, Demos & Mints* — audio demos + lost songs + the MINT-room releases. *(planned)*
 - *Artifacts - Family, Father & Personal* — grandma / dad / childhood / photos. *(planned)*
@@ -47,7 +47,9 @@ Every entry carries `#artifact` plus one or more content tags, so any tag is a "
 - *Artifacts - Videos & Performance* — video / home-movie / stage clips. *(planned)*
 
 ## The "I'm 33" board (separate enrichment track)
-Roy's own spreadsheet is already captured as **one consolidated doc**: [[Roy - I'm 33 this year (spreadsheet)]] (decode: [[The Im 33 Board - Decoded (Roy's upload cosmology)]]). So this track is **enrichment, not capture** — weave the board's concepts into the relevant song/concept pages, each pointing *back* to that board doc. Its own "Connections" section already lists the target pages ([[The Labors of Hercules]], [[It's Your Time]], [[Sir Lucius]], [[33 (album)]], [[Soul Is A Star]], [[Online]], [[The Pattern]]…) — that list is the enrichment worklist.
+Roy's own spreadsheet is already captured as **one consolidated doc**: [[Roy - I'm 33 this year (spreadsheet)]] (decode: [[The Im 33 Board - Decoded (Roy's upload cosmology)]]). So this track is **enrichment, not capture** — weave the board's concepts into the relevant song/concept pages, each pointing *back* to that board doc.
+
+> **★ Finding (Drawings pass):** many HoM drawing-artifacts *are the board's own diagrams*, minted individually — the Eye-of-Horus fractions (#71/#84), Platonic Lambda (#45), "A Head of Adam" (#86), "Tree thinking / Abyss" (#15), "suggestion of apex — 6 sides" (#26), the Lightning-Flash (#125). So the artifact pass and this enrichment track feed each other: the board decodes the artifacts, and the artifacts are the board's cosmology made collectible. Its own "Connections" section already lists the target pages ([[The Labors of Hercules]], [[It's Your Time]], [[Sir Lucius]], [[33 (album)]], [[Soul Is A Star]], [[Online]], [[The Pattern]]…) — that list is the enrichment worklist.
 
 ## Method notes
 - **Evaluation = look at the item, then place it.** Entries here are sourced from the existing catalog analysis and the standout-visuals notes; where an item hasn't been visually confirmed it's marked *(to verify)* rather than asserted.
