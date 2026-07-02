@@ -241,6 +241,9 @@ The Circle naming on *Move To You* (2019) is a partial exception — it is the *
 ### Flood as transition / threshold [~]
 Across myth and religion, flood imagery marks the **passage between worlds** — the old order overwhelmed so another can emerge. *Subject to Flooding* reads as a **threshold album**: the old self submerged, the later mythology not yet present but its conditions forming. *(The [~] layer atop the [G] floor — Roy's own stated title-meaning is "let go of ego… we are all Subject to Flooding"; see §Grounded.)*
 
+### The two Ark birds — Orbit and Return [~]
+The flood-frame comes with **two birds built in.** In Genesis 8, Noah sends out a **raven** (which *"went to and fro"* and never returns) and a **dove** (which returns, then returns bearing the olive leaf, then doesn't return *because the world is dry and she has arrived*). Read forward from Roy's 2026 fundamentals — crow → [[Brain/Characters/Sir Lucius|Sir Lucius]], dove → [[Brain/Characters/Roy|Roy]] — the Ark's two birds already split on the catalogue's core axis: raven = **Orbit** (perpetual not-landing, the Protector's velocity), dove = **Return** (homecoming). A `[~]` resonance on *this* album, **not** intent (§Cautions): the debut is *"subject to flooding,"* and the flood myth it's named for happens to carry the exact two-bird emblem the later work will assign — inherited substrate surfacing early. Full thread: [[The Two Birds — Orbit and Return (crow and dove)]].
+
 ### Nigredo / alchemical blackening [~]
 The mirror, disguise, poverty, drowning, betrayal, and crisis imagery resonate with the **nigredo** — the dissolution stage that precedes transformation. The album *diagnoses* the blackening (esp. *Long Time Coming*) without resolving it.
 

@@ -8,7 +8,7 @@ related: [CHAR-SirLucius, SONG-WelcomeToTheCircus, CHAR-Roy, CONCEPT-WitnessingV
 # Good Time (1:08)
 
 ## Album / Position
-Standalone single, released **2023-09-29** (MV 2023-10-11), Big Loud, 2:36. `[G]` Lyric **Spotify-verified** (2026-06-10). **Writers:** Roy English, Lucky West, **Elijah Noll**, **Josh Dun**; **producers** Roy English / Lucky West / Elijah Noll ([[Sources/Lyrics/Good Time (1-08)]]). *(The credits confirm the TikTok's session detail — **Lucky West + Elijah Noll** are the studio collaborators Roy names; **Josh Dun** = Twenty One Pilots, also on Great Time to Be Human + Happy Face per the 2023 feed.)* The **2023 face-paint video** (full makeup + knight armor + *"I'm a mastermind"*) is the catalogue's earliest assembled-Lucius iconography — three years before the 2026 co-credit. → [[Sir Lucius]].
+Standalone single, released **2023-09-29** (MV 2023-10-11), Big Loud, 2:36. `[G]` Lyric **Spotify-verified** (2026-06-10). **Writers:** Roy English, Lucky West, **Elijah Noll**, **Josh Dun**; **producers** Roy English / Lucky West / Elijah Noll ([[Sources/Lyrics/Good Time (1-08)]]). *(The credits confirm the TikTok's session detail — **Lucky West + Elijah Noll** are the studio collaborators Roy names; **Josh Dun** = Twenty One Pilots, also on Great Time to Be Human + Happy Face per the 2023 feed.)* The **2023 face-paint video** (full makeup + knight armor + *"I'm a mastermind"*) is the catalogue's earliest assembled-Lucius iconography — three years before the 2026 co-credit. And the regalia is *already complete*: the **cigarette** that Roy's 2026-07-01 fundamentals later name as a Lucius symbol is in his hand here, at the origin (→ [[Sir Lucius]] §The throat cluster). → [[Sir Lucius]].
 
 ## Lyrics
 

@@ -102,6 +102,8 @@ EP7 does not show Lucius *rejecting* SOL. It shows him **unable to process it** 
 
 The half-and-half framing fits `[W]`: Lucius is the **words/structure** half; SOL is the **breath/soul** half. He can't metabolize SOL because he has no instrument for breath — he is the half that was never made of it. *(The neat verbal hook for this — *"you're half the man that you know"* — is from the **Half the Man** IG post, **not** SOL: a resonance, not a SOL grounding. The breath-vs-structure point itself stands on EP7's staging + the breath reading.)*
 
+There's a bodily version of this `[W]`. If SOL is **breath** — the *ruach* beneath the verses — then Lucius's counterfeit of it is the **cigarette**: smoke drawn through the very throat that wears *El Roi*, warm and rhythmic and hand-to-mouth, a thing that *mimics* breathing while quietly poisoning the channel ([[Sir Lucius]] §The throat cluster). That's the sharper reason he can't metabolize SOL — not that he simply lacks the instrument for breath, but that he carries a **forgery** of it, and the forgery is the tell. *The sword kills fast and honestly; the cigarette kills slowly while comforting; SOL is the breath both were only ever counterfeiting.*
+
 ---
 
 ## Survival, not triumph `[W]`
@@ -116,6 +118,7 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 
 - **SOL / Sol — the sun.** *Sol* = sun (Latin/Spanish). SOL reads as the solar source no reflected body can absorb: the moon "trying to become a sun" is **Roy's** arc, while **Lucius** is the mind whose borrowed shine can't metabolize the song of love (map: [[Kabbalah - The Tree of Life]]). The double meaning — **Song Of Love** (acronym) and **Solar source** — coheres.
 - **The white rose / The Fool tarot — moved to [[Essays/Concepts/Songs/No. 1 Champion (la Conquistadora)|#1 Champion]].** The *"white rose in my left hand, stepped off the ledge"* image (= the Rider-Waite **Fool**, card 0) is #1 Champion's visualizer caption, not SOL's — and #1 Champion's own lyric already says *"made a move like a **fool**."* The reading lives there now; SOL only shares the *theme* (the leap on trust).
+- **Swan-song — via Cygnus** `[~]`. Roy's fundamentals name his dove for the swan-constellation **Cygnus** ([[Roy]]); and the swan is fabled to sing its truest, only song *at the moment of death.* SOL — the album's **wordless closer**, the voice stripped past language — reads as exactly that: the last and truest sound, arriving when everything sayable has been said. **Hold the tension, don't resolve it** (the fundamentals' own instruction): a dove that carries the swan's name is a promise not yet kept — the buried child who was the swan all along. Cygnus is also the **Northern Cross** (love-sacrifice), which rhymes with SOL = *Song of Love* laid down as the final offering. Full thread: [[The Two Birds — Orbit and Return (crow and dove)]].
 - ***Ruach* / Great Breath** — see §Breath; the feminine substrate under the paternal frame.
 
 ---

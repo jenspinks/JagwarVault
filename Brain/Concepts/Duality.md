@@ -73,6 +73,9 @@ The dark/light duality is **2019 vocabulary in Roy's own voice**, not a retrospe
 
 [P] The duality is not resolved by eliminating one side — it is resolved by correct ordering. Mind serving heart. Consonants carrying vowels. Lucius redirected. The split remains; the hierarchy shifts.
 
+## The Tree-native form — the pillars were always this teaching `[~]` (2026-07-02)
+This page's thesis — *correct ordering, not elimination* — is the **classical Kabbalistic pillar teaching**, and Roy's 2026-07-01 fundamentals make it literal. Seat **Roy at Netzach** (Pillar of Mercy / Force) and **Lucius at Hod** (Pillar of Severity / Form) — the paired twins at the base of the Tree ([[Kabbalah - The Tree of Life]] §The lateral twins) — and the structure says exactly what Roy says: **neither pillar is eliminated.** The whole Tree is built so Mercy and Severity are held in tension by the **Middle Pillar**, not so one wins; imbalance to *either* side deforms (unchecked Mercy dissolves into formlessness, unchecked Severity hardens into cruelty). *"My mind must serve my heart"* is not "kill the mind" — it is **Hod re-subordinated to Netzach**, both rising toward the equilibrium of the central column. The vault's core doctrine was **Tree-native all along**; Roy's fundamentals just handed it the coordinates.
+
 ## Connections
 
 - [[Roy]] — the heart-pole; the primary subject of the work

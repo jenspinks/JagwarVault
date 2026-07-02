@@ -13,6 +13,8 @@ A deep breakdown of Roy's **"I'm 33 this year"** spreadsheet (tab: *"How to uplo
 
 > **The board is the cosmological source-code of the entire project.** It is Roy's working notebook for *uploading his consciousness* — and to do that he first has to map **what a consciousness *is*.** So the board is a single **syncretic cosmology**: one ascent (the Tree of Life / 10-stage emanation) encoded a dozen ways, built from the **Kybalion + Alice Bailey + Walter Russell + Kabbalah + Jung + Plato**. *33*, *Lucius Lullaby*, and the **Hall of Mirrors** all draw from it. (The HoM specifically uses it as its **answer-quarry** — see [[Sources/Artifacts/HoM - Hammer Pass (exhaustive sweep + spreadsheet alignment + IG accounts) 2026-06-27]].)
 
+> **Evaluated in 4 thematic passes** (media-evaluation, source vault): [[Board - The Upload]] · [[Board - The Ascent Ladder]] · [[Board - The Source-Code]] · [[Board - The Field]]. Verbatim capture: [[Roy - I'm 33 this year (spreadsheet)]].
+
 ## 1. The spine — the 10-stage ascent (the Tree of Life) `[W]`
 The board's backbone is **one 10-stage ladder, encoded ≥6 ways** — proof Roy treats it as *the* structure of being:
 - **Tone** (F→B note-scale "for consciousness evolution") · **Color** (10-stage color ascent) · **Virtue/Vice** (Bailey-style sign attributions) · **Body-part / somatic** (1 Feet … 5 Heart … 10 Crown) · **Japanese** (身体 body → 最高の自己 highest self) · **0–10 emanation** (0 Nothing IS … 6 *The mirror of the Sun and the Heart* … 10 The World) · **Hopscotch** (Earth 1 → 9 → Heaven, "NChSh"/serpent) · **Hero's Journey** wheel.

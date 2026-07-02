@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `d8d0442` (2026-07-01 19:28:10 -0500) · 47 songs · 80 concepts · 6 characters · 3 albums
+> [!info] Generated snapshot — vault commit `2644460` (2026-07-02 10:08:54 -0500) · 47 songs · 81 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -114,6 +114,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `CONCEPT-TheSpeakerProblem` | The Speaker Problem | `Brain/Concepts/The Speaker Problem.md` · draft | — |
 | `CONCEPT-TheSpectacle` | The Spectacle | `Brain/Concepts/The Spectacle.md` · draft | — |
 | `CONCEPT-TheThread` | The Thread | `Brain/Concepts/The Thread.md` · draft | — |
+| `CONCEPT-TheTwoBirds` | The Two Birds — Orbit and Return (crow & dove) | `Brain/Concepts/The Two Birds — Orbit and Return (crow and dove).md` · draft | — |
 | `CONCEPT-TheUpload` | The Upload (Consciousness Upload) | `Brain/Concepts/The Upload.md` · draft | — |
 | `CONCEPT-TheVeil` | The Veil | `Brain/Concepts/The Veil.md` · draft | — |
 | `CONCEPT-TheVoice` | The Voice | `Brain/Concepts/The Voice.md` · draft | — |
