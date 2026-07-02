@@ -38,13 +38,16 @@ Every entry carries `#artifact` plus one or more content tags, so any tag is a "
 | `#possibly-trash` | low-signal or unclear; kept but flagged, with a reason |
 
 ## Groups
-- [[Artifacts - Drawings and Sketches]] — Roy's hand-drawn sketches, cosmology maps, portraits, the **planetary bestiary**. **✅ complete — 23 items, all viewed**
-- *Artifacts - Poems, Stories & Diaries* — text artifacts (Walking the Edge of a Knife, Sir Rabbit, Dead Letter Diaries, Roy Diary 2014…). *(planned)*
-- *Artifacts - Songs, Demos & Mints* — audio demos + lost songs + the MINT-room releases. *(planned)*
-- *Artifacts - Family, Father & Personal* — grandma / dad / childhood / photos. *(planned)*
-- *Artifacts - Ciphers & Code-Series* — Flood glyphs, body-part codes, SA-RA-VI, numeric IDs. *(planned)*
-- *Artifacts - Concept-Codes* — codes that ARE canon concepts, to fold into pages. *(planned)*
-- *Artifacts - Videos & Performance* — video / home-movie / stage clips. *(planned)*
+**Standard format (all groups):** clickable **GCS thumbnail** (his image, opens full-size) · deep analysis · **adversarially-verified song ties** as `[[links]]` (only grounded strong/moderate survive) · reciprocal Artifact section on each tied song page · gallery backlink. Videos evaluated via extracted frames; audio from metadata (flagged *not auditioned*).
+- [[Artifacts - Drawings and Sketches]] — hand-drawn sketches, cosmology maps, portraits, the **planetary bestiary**. **✅ complete (25, deep format)**
+- [[Artifacts - Poems, Texts and Social Posts]] — poems, diaries, aphorisms + the 3 minted social posts. *(in progress)*
+- [[Artifacts - Songs, Demos and Mints]] — audio demos, lost songs, early-band videos, the MINT-room releases. *(in progress)*
+- [[Artifacts - Family, Friends and Moments]] — grandma / dad / childhood / pets / live-moment photos & videos. *(in progress)*
+- [[Artifacts - Ciphers and Code-Series]] — Flood glyphs, numeric IDs, the SA-RA-VI / True-Voice / gate chains. *(in progress)*
+- [[Artifacts - Concept Images and Emblems]] — images & clips whose code or content IS canon-concept material. *(in progress)*
+
+## Migration (public site)
+Once all groups are deep-format, the artifact layer migrates to **The Jagwar Files** as a `06 Artifacts/` section (index + one page per group), with the reciprocal Artifact sections added to the public song pages. Light by design: text + hotlinked GCS images travel; local media stays here as archival backup.
 
 ## The "I'm 33" board (separate enrichment track)
 Roy's own spreadsheet is already captured as **one consolidated doc**: [[Roy - I'm 33 this year (spreadsheet)]] (decode: [[The Im 33 Board - Decoded (Roy's upload cosmology)]]). So this track is **enrichment, not capture** — weave the board's concepts into the relevant song/concept pages, each pointing *back* to that board doc.
