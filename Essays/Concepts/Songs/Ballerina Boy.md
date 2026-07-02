@@ -86,8 +86,17 @@ And the voice that delivers it is **the cross-cutting figure.** It is now confir
 
 ## Artifacts
 
-**Queen Binah** · `TEETH OF A WHALE` — the Binah / God-the-Mother substrate of this song's motherly spoken outro (*'God's design… let your light shine'*). → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="220"></a>
+**ROY DIARY 2014** · `J403` — The diary's headline question "Does ANY one understand ME?" is a near-verbatim precursor of the released lyric "I said no one understands me but you always listen", sung about exactly this struggling-artist… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd14909d1145a6a8baf6db46d9a5efee8677c90898ae1dabf470ba720bb340e1e..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd14909d1145a6a8baf6db46d9a5efee8677c90898ae1dabf470ba720bb340e1e..jpg" width="200"></a>
+
+**DAD'S CLOCK 4 BB ROY** · `ROY'S TOMB` — A keepsake Roy's dad made for baby Roy, unlocked by the code ROY'S TOMB, maps onto the song's two anchors: the father who blesses the wounded child ("there's nothing wrong with you, my son") and the child's… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x6a84e9bf1fd657ad8872f89c876e17efd0627e3b048523896e40627725f99f97..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x6a84e9bf1fd657ad8872f89c876e17efd0627e3b048523896e40627725f99f97..jpg" width="240" controls preload="none"></video>
+
+**ROY STORY "SIR RABBIT** · `Q763` — The Ballerina Boy essay's documented 'buried child and the searching self' section places Sir Rabbit as the wound's direct output — the poem's 'I do not know Sir Rabbit said / But I must be someone' is the i… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png" width="200"></a>
+
+**QUEEN BINAH** · `TEETH OF A WHALE` — The spoken outro is delivered by an older motherly female voice ('God's design... let your light shine'), the audio-confirmed Divine-Mother / Mary-class appearance whose Kabbalistic substrate is the God-the-… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="200"></a>
 
 ## Connections
 

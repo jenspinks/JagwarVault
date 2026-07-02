@@ -60,6 +60,11 @@ The quarantine re-release gives Roy's stated intent, which grounds the reads bel
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Shine#Open Questions|Shine — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**IF THE SEA HAS ENOUGH WILL** · `THE PATTERN` — Shine closes Subject to Flooding (the album this artifact's title-code chains to via room #93 SUBJECT TO FLOODING BTS) and stages exactly the title's proposition of will against the sea: "you're in the sea s… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg" width="200"></a>
+
 ## Connections
 [[Subject to Flooding (album)]] (the flood metaphor named and survived; the *reflection → radiance* closer) · [[Essays/Concepts/Songs/Weirdness|Weirdness]] / [[Essays/Concepts/Songs/Ballerina Boy|Ballerina Boy]] / [[Essays/Concepts/Songs/MAGIK|MAGIK]] (the "shine" vocabulary redirected into the divine-feminine **blessing**) · [[SOL]] (the album-closing solar counterpart, eight years later) · [[Essays/Concepts/Songs/Life Is Good|Life Is Good]] (chosen light in spite of the fire — Shine is its 2018 antecedent) · [[Brain/Concepts/Source vs Reflection]] (*"a song is a mirror"*; the radiance pole) · [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell of a Night Pt. 2]] (the dark, frantic night this dawn follows).
 

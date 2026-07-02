@@ -75,6 +75,11 @@ The distracted crowd moves *"in circles"* like headless chickens. Against the ca
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/I Like to Party#Open Questions|I Like to Party — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**CAUTION, ALL KINGS END** · `CAKE` — The unlock code CAKE lands directly on the song's confirmed lyric cluster "Devil's Food is a cake / Cake, cake, cake, cake!... Bake a truth with a lie / Then we sell 'em the cake," and the same song ends its… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg" width="200"></a>
+
 ## Connections
 | Song / Source | Relationship |
 | --- | --- |

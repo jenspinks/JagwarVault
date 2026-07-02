@@ -87,6 +87,11 @@ Against [[Sources/Lyrics/Precious Time|Precious Time]] (awakening *too late*; ti
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/It's Your Time#Open Questions|It's Your Time — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**THE EMPTY ROOM** · `RAINBOW BRIDGE` — The lyric "A man is like an in-between / Animating Heaven and Hell" (which the song's essay explicitly glosses as the human hanging between the Tree's two pillars) is the drawing's exact schema: a lone walke… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png" width="200"></a>
+
 ## Connections
 
 | Song / Source | Relationship |

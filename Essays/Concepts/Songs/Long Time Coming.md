@@ -130,6 +130,11 @@ This is an unmistakable Nigredo song. Active characteristics: collapse of false 
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Long Time Coming#Open Questions|Long Time Coming — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**DEVIL IN THE MIRROR** · `RORRIM EHTNI LIVED` — "Every night when I look in the mirror / I see the disguise on my face getting clearer" is the vault's earliest released-lyric anchor for the mirror/disguise motif, the same looking-in-the-mirror-and-seeing-… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x77044650db58a6863546c6b2b5c74a3cd56c194bebd39ef574b014918d3feaf7..mp3" controls preload="none"></audio>
+
 ## Connections
 
 | Song / Source | Relationship |

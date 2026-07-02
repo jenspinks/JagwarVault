@@ -92,6 +92,20 @@ Identity dissolved into automated code — but with no reformation following. Th
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/Online#Open Questions|Online — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**RA-LINK** · `SA-LINK` — The screenshot IS a Notes-app draft of Online's lyrics: every visible line ("Automatic in the static of the human race," "They infiltrate my brain," "a Bug inside your database," "Buy! Buy! Buy!," "Everyone… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4d855ea139afbb890f7a15fc5bb91c61522597328d0e4319f4dbf2c8f36fa921..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4d855ea139afbb890f7a15fc5bb91c61522597328d0e4319f4dbf2c8f36fa921..png" width="200"></a>
+
+**VI-LINK** · `RA-LINK` — The image is verbatim draft lyrics of Online (33, track 1) — 'Internet is like a web and we're the Spider's food,' 'All the shamans and the Brahman's say we come from space,' 'Maybe Jupiter is stupider than… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1fe33a034502a7d263a17b5abc92d5af7cdb4eaeec5a610e4d66431e2ad38151..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1fe33a034502a7d263a17b5abc92d5af7cdb4eaeec5a610e4d66431e2ad38151..png" width="200"></a>
+
+**EVERYONE LOVES THE INTERNET** · `VI-LINK` — The screenshot is the lyric sheet for Online itself — 'Everyone loves the internet,' 'Cause you can get it online,' 'You feel good,' 'As machines became more sophisticated... (In the static of the human race… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xda309cfb1149169ba382e313147e762634d50fe230ebc64a1e660a9bcd6fc2ff..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xda309cfb1149169ba382e313147e762634d50fe230ebc64a1e660a9bcd6fc2ff..png" width="200"></a>
+
+**SA-LINK** · `EVERYONE LOVES THE INTERNET` — The artifact is a dated (April 30, 2022) Notes-app lyric draft of Online itself, containing the released chorus ("Cause you can get it online / Everyone ❤️s the internet / ...You feel good"), the "army up ag… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d671e6236e53d7d328466acbc4bdd9d613edfb80fbc47f9a3300451c2e9adc5..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d671e6236e53d7d328466acbc4bdd9d613edfb80fbc47f9a3300451c2e9adc5..png" width="200"></a>
+
 ## Connections
 
 | Node / Source | Relationship |

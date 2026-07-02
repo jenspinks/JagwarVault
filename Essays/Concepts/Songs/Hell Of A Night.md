@@ -51,6 +51,11 @@ related: [SONG-HellOfANightPt2TheHallelujahStickup, SONG-GoodDay, ALBUM-SubjectT
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Hell Of A Night#Open Questions|Hell Of A Night — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**FLOOD ARTIFACT (˙´¬¬)** · `Vi†ruvian` — This Flood Artifact's encoded name ˙´¬¬ decodes to 'hell,' and 'Hell Of A Night' is Track 10 of the debut album Subject to Flooding after which the whole Flood-artifact series is named; the clip's casino JAC… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9657389ae0e8345046afcfc15d3bc2179bdf70cb0294b54dfb3633999e638f0d..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9657389ae0e8345046afcfc15d3bc2179bdf70cb0294b54dfb3633999e638f0d..jpg" width="240" controls preload="none"></video>
+
 ## Connections
 [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell of a Night Pt. 2]] (the inevitable crash-through — Pt. 1 accelerates, Pt. 2 seizes; *hallelujah* + *stickup*) · [[Essays/Concepts/Songs/Good Day|Good Day]] (the same major-key brightness over instability — Protector in success-mode) · [[The Protector]] (the debut's adaptive-defense architecture; momentum-as-armor) · [[Subject to Flooding (album)]] (the album doctrine — outrun the flood) · [[Sir Lucius]] (**retrospective / architectural only** — the consequence-blind energy the persona later refines; *not* 2018 intent).
 

@@ -108,8 +108,8 @@ In the theatrical frame this lands as irony, and the irony is **a trap that spri
 
 ## Artifacts
 
-**Queen Binah** · `TEETH OF A WHALE` — *'GOD the Mother on Saturn'* — the Binah throne of this song's named, faceless Mary (*'saw a halo but I didn't see a head'*). → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="220"></a>
+**QUEEN BINAH** · `TEETH OF A WHALE` — This is the clearest named-Mary song, and its central image, 'Saw a halo but I didn't see a head,' is the faceless divine-feminine whose theological seat the vault identifies as exactly this artifact's Binah… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="200"></a>
 
 ## Connections
 | Node | Relationship |

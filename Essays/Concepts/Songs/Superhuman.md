@@ -121,11 +121,11 @@ Reads as the anthem of those fully integrated into the archonic system — inter
 
 ## Artifacts
 
-**Suggestion of Apex** · `SUGGESTION OF APEX` — a truncated pyramid that never reaches its peak — this song's endurance mistaken for a true apex. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d0e1e4a5a5d089ed56b0e86bea02e9a3c81f99d201403794224f4c5325aee4d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d0e1e4a5a5d089ed56b0e86bea02e9a3c81f99d201403794224f4c5325aee4d..jpg" width="220"></a>
+**SUGGESTION OF APEX** · `SUGGESTION OF APEX` — The vault's own Superhuman essay reads its 'ain't got no ceiling up on the roof / don't stop never' imagery as horizontal endurance mistaken for vertical breakthrough — a closed loop that never reaches a rea… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d0e1e4a5a5d089ed56b0e86bea02e9a3c81f99d201403794224f4c5325aee4d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d0e1e4a5a5d089ed56b0e86bea02e9a3c81f99d201403794224f4c5325aee4d..jpg" width="200"></a>
 
-**Cinnamon the Horse (Trojan Horse Program)** · `RIGHT SHOULDER OF A HORSE` — the Mars-glyph, sworded war-horse at the Geburah/Mars martial pole this song embodies. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png" width="220"></a>
+**JAGWAR TWIN TROJAN HORSE PROGRAM** · `RIGHT SHOULDER OF A HORSE` — The ♂ Mars glyph and drawn sword place Cinnamon at the Geburah/Mars (Severity, martial contraction) pole that the Superhuman essay reads the song as embodying — the untempered, armored, combat register. → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png" width="200"></a>
 
 ## Connections
 

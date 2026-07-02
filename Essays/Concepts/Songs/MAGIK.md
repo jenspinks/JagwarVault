@@ -55,6 +55,11 @@ related: [CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, CONCEPT-TheThread
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Singles & EPs/MAGIK#Open Questions|MAGIK — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**I'M NOT HERE** · `I'M NOT HERE` — MAGIK's core lines "you don't gotta disappear / everybody needs you here" are a direct answer-inversion of this artifact's title-code "I'M NOT HERE" — the later song interrupting the self-erasure this DARKNE… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..jpg" width="240" controls preload="none"></video>
+
 ## Connections
 
 [[Witnessing vs Surveillance]] (restorative seeing at its clearest) · [[Ballerina Boy]] / [[Weirdness]] / [[No. 1 Champion (la Conquistadora)]] (the blessing-voice cluster — blessing a shamed/hidden light into its own worth) · [[SOL]] (both locate the saving force outside strategy/spectacle — blessing/voice, not control) · [[The Labyrinth]] / [[The Thread]] (the "middle of a maze") · [[Roy]] (emphatically Roy-side).

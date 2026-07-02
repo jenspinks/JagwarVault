@@ -52,6 +52,11 @@ related: [ALBUM-SubjectToFlooding, SONG-HellOfANightPt2TheHallelujahStickup, SON
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Precious Time#Open Questions|Precious Time — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**FLOOD ARTIFACT (霊的な愛)** · `B1034` — The footage is a sustained gaze down into hazy water, and Precious Time's repeated hook is literally about that vantage: "Cause we never see our depth till we're underwater... Time tickin and your head goin… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1a28d145a6627c02c9fe073c4015c32a22002eafe0c2c4cdda9d7346e47811fd..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1a28d145a6627c02c9fe073c4015c32a22002eafe0c2c4cdda9d7346e47811fd..jpg" width="240" controls preload="none"></video>
+
 ## Connections
 [[Subject to Flooding (album)]] (the title metaphor and the clock revealed as one thing) · [[Essays/Concepts/Songs/Hell Of A Night|Hell Of A Night]] (the momentum that failed) · [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell of a Night Pt. 2]] (seizure-logic extended to Heaven's gate and the stockpile) · [[Essays/Concepts/Songs/Shine|Shine]] (the immediate answer — recognition → dawn; Shine *chooses* light, it doesn't cancel the water) · [[Essays/Concepts/Songs/Dream - Dream|Dream / Dream]] (the shared 1957 Vaughan source — song there, speech here) · [[LOOP]] (form-enacts-content kinship of device).
 

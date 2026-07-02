@@ -166,6 +166,11 @@ The song critiques day-job automation — *"Working so hard at your day job / Ha
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Good Day#Open Questions|Good Day — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**THE ANCIENT CHILD** · `JUST WOKE UP` — The unlock code 'JUST WOKE UP' is the same waking-declaration gesture as the song's repeated hook 'Woke up and I think today is gonna be a good day,' the most direct 'woke up' lyric in the released catalog. → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe1ced4d6a28de20b22b20717d8d5e65fa69cf421756a765aa2e34053bbf31d3a..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe1ced4d6a28de20b22b20717d8d5e65fa69cf421756a765aa2e34053bbf31d3a..png" width="200"></a>
+
 ## Connections
 
 | Song / Source | Relationship |

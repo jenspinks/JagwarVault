@@ -132,6 +132,11 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 
 ---
 
+## Artifacts
+
+**KHAWAH** · `26` — The page's "ONE LOVE = YHWH = 26" equates love with the divine name while asking "what is music?", and SOL's documented double meaning is Song Of Love / solar-divine source mapped to the same Tree of Life fr… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9cce9eb03c9f29c6481fca9f0f942b15bef0bbbc47fda0ddb44df157019835d9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9cce9eb03c9f29c6481fca9f0f942b15bef0bbbc47fda0ddb44df157019835d9..jpg" width="200"></a>
+
 ## Connections
 
 | Song / Source | Relationship |

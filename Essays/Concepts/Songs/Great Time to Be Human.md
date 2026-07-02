@@ -70,8 +70,23 @@ The relentless positivity is Lucius-mode — but the song is too observant, too 
 
 ## Artifacts
 
-**Thought Forms** · `THOUGHT FORMS` — *'Man anthropomorphises his gods'* — literalized by this song's dog→god line. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg" width="220"></a>
+**THE EMPTY ROOM** · `RAINBOW BRIDGE` — "Rainbows, butterflies / What is all this?" is the released catalog's one rainbow lyric, and the song's essay already routes its forced cheer through Roy's Empty-Mirror "seeing nothing"; the artifact pairs t… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png" width="200"></a>
+
+**B1034** · `B1035` — The man in the black triangle-patch snapback with plug gauges and a full-color sleeve closely matches Josh Dun of Twenty One Pilots [~], who is a credited co-writer and drummer on this track, so the photo wo… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x44f08985c82bb57ba15243d9a872ac96d582fdeb21a0117da5797749e7c73f2b..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x44f08985c82bb57ba15243d9a872ac96d582fdeb21a0117da5797749e7c73f2b..jpg" width="200"></a>
+
+**LITTLE LUNA EXPLAINING NFTS** · `EXPLAINING NFTS` — little luna is a documented background vocalist on this track (vault credits), and the memo's wonder at the new era ("how exciting is that?") matches the song's titular it's-a-great-time-to-be-alive register. → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdaa5986dfa957f4d504265bd2a0f4e768070f1d25aa7b26fd6b7b8be848d7eca..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdaa5986dfa957f4d504265bd2a0f4e768070f1d25aa7b26fd6b7b8be848d7eca..jpg" width="240" controls preload="none"></video>
+
+**O** · `THE VALUE OF NOTHING` — The catalog glosses this code with The Empty Mirror, and the Great Time to Be Human essay's section "The empty mirror, and the laugh track" grounds that emblem in the song: Roy's Empty Mirror tattoo means "l… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x538115b37f8d235538a6c63b12248a39c79a813ad927a7d2a7e7595457de89a9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x538115b37f8d235538a6c63b12248a39c79a813ad927a7d2a7e7595457de89a9..jpg" width="200"></a>
+
+**THOUGHT FORMS** · `THOUGHT FORMS` — The dog-god Reversal line 'she went to The Chemist to make her a dog / but he was dyslexic so he made a god' literalizes 'It is Man that anthropomorphises his gods' by having a human accidentally manufacture… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg" width="200"></a>
+
+**LUNA_COACHELLA 2015** · `BELIEVE IN YOUR FRIENDS DREAMS` — Per the vault's Lucius Lullaby collaborators documentation, little luna, the friend pictured, sings background vocals on this track, extending the artifact's believe-in-your-friends thread into the released… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x604fedcb1e620c6f6027cecf3598deb665abf9b3e31e8476de75266a80f021f0..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x604fedcb1e620c6f6027cecf3598deb665abf9b3e31e8476de75266a80f021f0..jpg" width="200"></a>
 
 ## Connections
 | Node | Relationship |

@@ -80,8 +80,8 @@ And the road there is a fallen ladder. *"City of **Angels** / walking down the *
 
 ## Artifacts
 
-**Jupiter the Blue Dolphin** · `LADDER` — its *'walking down the star-lined road'* reads as an inverted Jacob's Ladder — the ladder-of-angels this artifact's `LADDER` code names. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x86154a585c03e88a49b4f8a91b5119b60356f5aee3203585979a1c26d6cad56e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x86154a585c03e88a49b4f8a91b5119b60356f5aee3203585979a1c26d6cad56e..png" width="220"></a>
+**DOLPHINS ON JUPITER** · `LADDER` — The essay reads City of Angels as an inverted Jacob's Ladder ('walking down the star-lined road'), the same ladder-of-angels motif this artifact's 'LADDER' code names — here climbed up (Jupiter/Chesed reach)… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x86154a585c03e88a49b4f8a91b5119b60356f5aee3203585979a1c26d6cad56e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x86154a585c03e88a49b4f8a91b5119b60356f5aee3203585979a1c26d6cad56e..png" width="200"></a>
 
 ## Connections
 | Node | Relationship |

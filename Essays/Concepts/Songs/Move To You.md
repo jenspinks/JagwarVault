@@ -86,6 +86,14 @@ The child couplet (*"what it's like to be a kid… the way it feels to grow"*) l
 
 *Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Move To You#Open Questions|Move To You — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
+## Artifacts
+
+**I'M NOT HERE** · `I'M NOT HERE` — Roy states he recorded Move To You's vocals "in Florence, Italy and Joshua Tree" and wrote it from a place of feeling lost (Digital Journal 2019, [G]); this artifact is night footage of Roy in Florence's Pia… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..jpg" width="240" controls preload="none"></video>
+
+**PERSPECTIVE** · `JOSHUA TREE` — Roy stated in the Digital Journal interview (2019-09-23, in-vault transcript) that the Move To You vocals were cut in Florence and Joshua Tree, making this the released song with a documented recording tie t… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5648ac4aedb6afc8efe58a5a5cd99f2669b286cb3a2d00b784b072bcbb5f3ce6..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5648ac4aedb6afc8efe58a5a5cd99f2669b286cb3a2d00b784b072bcbb5f3ce6..jpg" width="240" controls preload="none"></video>
+
 ## Connections
 
 | Song / Source | Relationship |
