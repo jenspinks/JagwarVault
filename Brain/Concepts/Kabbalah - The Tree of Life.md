@@ -10,7 +10,7 @@ connections:
   grounded:    []
   strong_read: [CONCEPT-SourceVsReflection, CONCEPT-KeilimVessels]
   resonance:   [CONCEPT-ThePattern, CONCEPT-TheMoon, CONCEPT-Yesod, CONCEPT-Malkhut, CONCEPT-Netzach]
-referenced_by: []
+referenced_by: [CONCEPT-TheTwoBirds]
 review_date: 2026-12-28
 ---
 # Kabbalah — The Tree of Life

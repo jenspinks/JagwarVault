@@ -2,7 +2,16 @@
 id: CHAR-JagwarTwin
 type: character
 status: draft
+confidence: high
+source_quality: primary-source
+sources: []
+related: [CHAR-Roy, CHAR-SirLucius, CHAR-Mary, CHAR-SARAVI, CHAR-BallerinaBoy]
+connections:
+  grounded:    [CHAR-Roy, CHAR-SirLucius, CHAR-SARAVI]
+  strong_read: [CHAR-Mary, CHAR-BallerinaBoy]
+  resonance:   [CONCEPT-Netzach, CONCEPT-Hod, CONCEPT-Tiferet]
 referenced_by: [CHAR-Roy, CHAR-SARAVI, CONCEPT-TheJaguar]
+review_date: 2026-12-15
 ---
 # Jagwar Twin
 

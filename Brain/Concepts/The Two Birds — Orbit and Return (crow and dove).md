@@ -10,7 +10,7 @@ connections:
   grounded:    []
   strong_read: [CHAR-Roy, CHAR-SirLucius, CONCEPT-TheProtector]
   resonance:   [CONCEPT-WitnessingVsSurveillance, CONCEPT-TreeOfLife, CONCEPT-TheThread]
-referenced_by: [CHAR-Roy, CHAR-SirLucius]
+referenced_by: []
 review_date: 2026-12-30
 ---
 # The Two Birds — Orbit and Return (crow & dove)

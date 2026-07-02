@@ -7,6 +7,8 @@ related: [CHAR-SirLucius, CHAR-Mary, CHAR-BallerinaBoy, SONG-LuciusLullaby, SONG
 ---
 # Roy (Artist)
 
+> **⚠ Older long-form prose (`publish: false`).** The current, maintained Roy analysis lives at [[Brain/Characters/Roy]]. Some Tree-of-Life placements below predated Roy's **2026-07-01 fundamentals correction** and are corrected inline: **Roy's seat is Netzach / Venus (the heart), not Tiferet** — the Sun (Tiferet / [[SOL]]) stays *unoccupied*, the point he reaches toward, not his seat ([[Kabbalah - The Tree of Life]]). Unique material here (the tattoo inventory, biographical detail) is still good; cross-check the Brain page for current tiering.
+
 ## Description
 -
 _Brandon Roy Wronski · b. May 22, 1988 · Los Angeles, California_ _Also known as: Roy English (2006–2015), Jagwar Twin (2018–present)_ _Signs himself: El Roy_
@@ -80,9 +82,9 @@ At seven years old: did ballet at Christian school. A teacher told his father th
 
 **Confirmed:** Roy's arc moves through biographical crisis — the buried ballerina boy (Malkhut), the collapse at 35, the writing of Lucius Lullaby at the bottom — toward something not yet resolved.
 
-**Roy confirmed:** The Yesod/Lucius mapping is significant. Lucius may have functioned as the sphere that pulled Roy from Malkhut upward, even if through distorted reflection.
+**Framework (corrected 2026-07-01):** Lucius's *operating theater* is Yesod (the image-realm he works *through*); his **seat is Hod / Mercury**, and the lunar sphere is Roy's, not Lucius's. Lucius may still have functioned as the reflective sphere that pulled Roy from Malkhut upward, through distorted reflection.
 
-**Interpretive:** Roy appears to occupy [[Tiferet]] in the Kabbalistic framework — heart center, savior archetype, the harmonizing point. This carries its own inflation risk. Identification with the savior archetype rather than service to it is its own trap.
+**Framework (corrected 2026-07-01):** Roy's seat is **Netzach / Venus** — the heart-pole — by his own stated fundamentals. He does **not** occupy Tiferet: the Sun (Tiferet / [[SOL]]) stays *unoccupied*, the harmonizing point Roy reaches toward but is structurally one path short of. The old "Roy ≈ Tiferet" read was exactly the inflation trap — identifying with the savior-seat rather than serving it. (Single-home map: [[Kabbalah - The Tree of Life]].)
 
 **The resolution Roy returns to:** "My mind must serve my heart."
 
@@ -103,19 +105,9 @@ Whether he gets there is still open.
 
 ## Open Questions
 
-- [ ] What specifically happens when Roy reaches Tiferet rather than serving it?
+- [ ] What does the end of Roy's arc look like — the Netzach heart-pole reaching toward the unoccupied Sun (Tiferet) without the inflation of *claiming* it?
 - [ ] Is the buried ballerina boy the same as what Mary is reaching toward?
 - [ ] What does resolution look like for Roy beyond "my mind must serve my heart"?
 - [ ] Does Roy get out of the Circle — or does he learn to move differently within it?
 
-## Archetype
-- [[]]
-## Symbols
-- [[ ]]
-## Related Songs
-- [[ ]]
-## Themes
-- [[ ]]
-
-## Notes
--- [[ ]]
+*(Archetype / Symbols / Themes for Roy are maintained on [[Brain/Characters/Roy]] — the empty stubs that were here are removed; the Brain page is the home for those.)*

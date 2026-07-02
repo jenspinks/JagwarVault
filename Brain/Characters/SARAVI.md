@@ -10,7 +10,7 @@ connections:
   grounded:    [CONCEPT-TheDigitalDouble, CONCEPT-TheUpload, CONCEPT-HallOfMirrors, CHAR-Roy, CHAR-JagwarTwin]
   strong_read: [CHAR-SirLucius, CONCEPT-TheMirror, CONCEPT-SourceVsReflection, CONCEPT-TheVoice]
   resonance:   [CHAR-Mary, CONCEPT-TheJaguar, CONCEPT-ThePattern]
-referenced_by: []
+referenced_by: [CHAR-JagwarTwin]
 review_date: 2026-12-15
 ---
 # SARAVI

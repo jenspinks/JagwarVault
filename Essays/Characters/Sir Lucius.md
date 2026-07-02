@@ -7,6 +7,8 @@ related: [CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMirror, CHAR-Ma
 ---
 # Sir Lucius
 
+> **⚠ Older long-form prose (`publish: false`).** The current, maintained Sir Lucius analysis lives at [[Brain/Characters/Sir Lucius]] — the Devil-card grounding, the **Hod / Mercury** seat, the crow / green-apple fundamentals, and the three-register **manipulation / shadow / protective-love** reading. Some Tree placements below predated the **2026-07-01 correction** and are corrected inline: **Lucius's seat is Hod / Mercury, not Yesod** (Yesod is only his *operating theater*, and the Moon is Roy's). Much of this page's unique material (the El Roi cluster, the Rorrim Ehtni origin, the Speech-vs-Song analysis) remains valuable; cross-check the Brain page for current tiering.
+
 ## Description
 
 - Co-credited performing artist with [[Jagwar Twin]] on [[Lucius Lullaby (album)]] (released March 27, 2026). Has his own Apple Music and Spotify artist pages. Appears in the album's premiere video series ("Sir Lucius takes over the premiere," EP 5).
@@ -92,9 +94,11 @@ The distinction matters: **Lucius-voiced** songs (Lucius singing, Lucius's words
 
 ---
 
-## Three Modes
+## Three Modes (Gurdjieff "many I's")
 
-Lucius operates in three registers — context-dependent selves, with no integrated center. This reads as consistent with Gurdjieff's "many I's" model:
+> **Terminology note:** these three *behavioral* modes (Speech / Sidekick / Pleading) are the Gurdjieff many-I's lens, and are **distinct from** the load-bearing **three registers** on [[Brain/Characters/Sir Lucius]] — **manipulation / shadow / protective-love**, held simultaneously. Don't conflate the two triads: the protective-love register (the protector who genuinely held the buried light) is the one this behavioral list doesn't name.
+
+Lucius operates in three behavioral modes — context-dependent selves, with no integrated center — consistent with Gurdjieff's "many I's" model:
 
 ### 1. Speech Mode (Power)
 - Cold, prophetic, invulnerable
@@ -163,9 +167,9 @@ Mastermind → Final Boss. The self-naming arc is its own timeline, worth tracki
 ## Archetype
 
 - [[The Dweller on the Threshold]]
-- The Shadow (Jung)
+- The Shadow (Jung); **the Devil card (Tarot XV)** — Roy-stated via Paul Foster Case (green apple over the right eye); see [[Brain/Characters/Sir Lucius]]
 - The Mirror-Self
-- Yesod (Kabbalah) — the reflection sphere; lunar; mediator that does not originate
+- **Hod / Mercury (Kabbalah)** — the intellect / mind-pole; his seat (corrected 2026-07-01). **Yesod** is his *operating theater* (the reflection / image-realm he works *through*), **not** his seat; the lunar sphere is **Roy's**, not Lucius's.
 - Gurdjieff's "many I's" — the constellation of context-dependent selves with no integrated center
 
 ---
@@ -175,8 +179,9 @@ Mastermind → Final Boss. The self-naming arc is its own timeline, worth tracki
 - [[The Mirror]]
 - [[The Mask]] / face paint
 - [[The Algorithm]]
-- [[The Moon]]
+- **The green apple · the crow (Corvus) · cigarettes** — Lucius's grounded fundamentals (2026-07-01); see [[Brain/Characters/Sir Lucius]]
 - The jester / ringmaster
+- *(Not [[The Moon]] — the Moon is Roy's; Lucius works through Yesod's reflected light but is not the moon.)*
 
 ---
 
