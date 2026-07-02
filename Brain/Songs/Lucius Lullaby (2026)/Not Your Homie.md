@@ -58,7 +58,7 @@ Plague rhyme: contested folklore · John Wick: kill-loop · [~] letter-mysticism
 - [x] ~~MERCY distinct lead?~~ **RESOLVED [G]:** hook hers (voicenote); record voice still audio-open.
 - [x] ~~MERCY identity~~ **RESOLVED (Qobuz/Apple):** Mercedes Colletta Britton; NOT Pillar of Mercy / [[Mary]] cipher.
 - [x] ~~Writers/producers~~ **DONE (Qobuz):** see Type line.
-- [?] **Discrepancy (2026-07-01 re-distill):** card: [P] Lucius = Yesod/moon ("moon trying to become a sun"); essay's 2026-07-01 correction: lunar arc = Roy's, Lucius = Hod-mind via reflective sphere ([[Kabbalah - The Tree of Life]]). Essay is the prose home; reconcile there.
+- [x] ~~Discrepancy (2026-07-01 re-distill): card vs essay on Lucius = Yesod/moon~~ **RESOLVED 2026-07-01:** the lunar / "moon trying to become a sun" arc is **Roy's**; Lucius = the Hod-mind working *through* the reflective sphere, not the moon. Card and essay agree; single home [[Kabbalah - The Tree of Life]].
 
 ## Counterarguments / Alternate Reads
 - `[P]` Frame gap: Roy's `[G]` framing is light (*"the ultimate introverted extrovert anthem"*); the esoteric stack is `[P]`/`[W]`, not self-description.

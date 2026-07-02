@@ -114,7 +114,7 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 
 ## Resonances `[~]`
 
-- **SOL / Sol — the sun.** *Sol* = sun (Latin/Spanish). Lucius is lunar (reflected light "trying to become a sun"); SOL reads as the solar source the moon can't absorb. The double meaning — **Song Of Love** (acronym) and **Solar source** — coheres.
+- **SOL / Sol — the sun.** *Sol* = sun (Latin/Spanish). SOL reads as the solar source no reflected body can absorb: the moon "trying to become a sun" is **Roy's** arc, while **Lucius** is the mind whose borrowed shine can't metabolize the song of love (map: [[Kabbalah - The Tree of Life]]). The double meaning — **Song Of Love** (acronym) and **Solar source** — coheres.
 - **The white rose / The Fool tarot — moved to [[Essays/Concepts/Songs/No. 1 Champion (la Conquistadora)|#1 Champion]].** The *"white rose in my left hand, stepped off the ledge"* image (= the Rider-Waite **Fool**, card 0) is #1 Champion's visualizer caption, not SOL's — and #1 Champion's own lyric already says *"made a move like a **fool**."* The reading lives there now; SOL only shares the *theme* (the leap on trust).
 - ***Ruach* / Great Breath** — see §Breath; the feminine substrate under the paternal frame.
 

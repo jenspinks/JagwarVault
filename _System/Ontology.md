@@ -173,7 +173,7 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 | `CONCEPT-Tiferet` | Tiferet | Kabbalah beauty/center; the Sun; Roy's heart-pole; pending |
 | `CONCEPT-Binah` | Binah | Kabbalah Upper Mother (Great Sea, womb, Saturn); Mary's ascent-throne; pending |
 | `CONCEPT-Shekhinah` | Shekhinah | the indwelling feminine Presence = Malkhut, the Lower Mother/Bride; Mary's name; the moon's *theology* (reflected light, exile→return); pending |
-| `CONCEPT-Netzach` | Netzach | Kabbalah Victory; planet Venus; the morning-star register; Lucius's native *signature* (display/herald), deployed from a Hod/Geburah base; pending |
+| `CONCEPT-Netzach` | Netzach | Kabbalah Victory; planet Venus; **Roy's sefirah / heart** (dove·sword·El Roy — Roy's 2026-07-01 fundamentals); the morning-star is a Lucifer *name*-resonance only, NOT Lucius's seat; pending |
 | `CONCEPT-Hod` | Hod | Kabbalah Splendour; planet Mercury; intellect/strategy; part of Lucius's mechanism-base; pending |
 | `CONCEPT-Geburah` | Geburah | Kabbalah Severity/Judgment; planet Mars; the left/Severity pillar (Mary/Binah at its head); part of Lucius's base; pending |
 | `CONCEPT-Albedo` | Albedo | alchemical whitening / first reclamation; pending |

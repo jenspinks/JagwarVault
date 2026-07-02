@@ -17,7 +17,7 @@ Type: Concept / **Esoteric-stream hub** — the **world-affirming correspondence
 
 ## Relationship to existing nodes (this hub is a frame, not a duplicate)
 - [[Brain/Concepts/The Pattern]] = **Roy's own term for Hermetic Principle #2 (Correspondence)** — *"as above, so below," "The Pattern is present on all levels"* (the board's *Hermetic Correspondence* cell). The Pattern is the **worked home** of the central principle; this hub holds the **whole 7-principle frame + the tradition's other half (the Qabalah/tarot scaffold).**
-- [[Brain/Concepts/The Light-Bearer]] / [[Sir Lucius]] = the **Hermetic Qabalah / Golden-Dawn** scaffold (the morning-star/Venus Lucifer, the **Qliphah-of-Keter / Tree-of-Death**, the tarot Star→Moon→Sun).
+- [[Brain/Concepts/The Light-Bearer]] / [[Sir Lucius]] = the **Hermetic Qabalah / Golden-Dawn** scaffold (the Lucifer / morning-star name-field, the **Qliphah-of-Keter / Tree-of-Death**, the tarot Star→Moon→Sun). *(Venus/Netzach the sefirah is Roy's — the morning-star here is a name-resonance only; [[Kabbalah - The Tree of Life]].)*
 
 ## ⚠ Tier discipline
 - `[G]` — the **board-transcribed Kybalion** (7 principles in full); the **public "AS ABOVE SO BELOW" card** (2021, [[Sources/Quotes/JT Video - Down to You (Official MV) 2021]]); the board's *"Hermetic Correspondence"* cell; the **"Undefined Map"** freehand planetary-correspondence sketch.

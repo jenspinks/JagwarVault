@@ -29,7 +29,7 @@ The vault is designed as a **symbolic operating grammar**, not merely a symbolis
 
 ### Source / Reflection [W]
 - Primary light vs reflected light.
-- Sun (Tiferet / SOL) vs the **reflected bodies**: the **Moon** (Roy's position / Mary-Shekhinah's theology) and the **Morning Star** (Lucius / Venus / Netzach). *(lunar re-mapping 2026-06-14)*
+- Sun (Tiferet / SOL) vs the **reflected Moon** (Roy's position / Mary-Shekhinah's theology). Character seats (Roy's own word, 2026-07-01): **Roy = Netzach/Venus** (heart), **Lucius = Hod/Mercury** (mind); the morning-star is a Lucifer *name*-resonance only. *(single home: [[Kabbalah - The Tree of Life]])*
 - Creation vs performance.
 - Reflection preserves but does not originate.
 
