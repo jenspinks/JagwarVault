@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
   strong_read: [CONCEPT-TheCircus, CONCEPT-TheLightBearer, CONCEPT-TheMirror]
   resonance:   [CONCEPT-Yesod, CONCEPT-Tiferet]
-referenced_by: [CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-TheAngleAngel, CONCEPT-TheAquarium, CONCEPT-TheBanana, CONCEPT-TheJaguar, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheSpectacle, CONCEPT-TheThread, CONCEPT-TheUpload, CONCEPT-TheVeil, CONCEPT-TheWheel, SONG-BadFeelingOompaLoompa, SONG-Bananas, SONG-GreatTimeToBeHuman, SONG-HellOfANightPt2TheHallelujahStickup, SONG-MothsToTheFlame, SONG-NotYourHomie, SONG-TheWatchers, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-TheAngleAngel, CONCEPT-TheAquarium, CONCEPT-TheBanana, CONCEPT-TheJaguar, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLightBearer, CONCEPT-TheMask, CONCEPT-TheSpectacle, CONCEPT-TheThread, CONCEPT-TheUpload, CONCEPT-TheVeil, CONCEPT-TheWheel, SONG-BadFeelingOompaLoompa, SONG-Bananas, SONG-GreatTimeToBeHuman, SONG-HellOfANightPt2TheHallelujahStickup, SONG-LOOP, SONG-MothsToTheFlame, SONG-NotYourHomie, SONG-TheWatchers, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Inversion

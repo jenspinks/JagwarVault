@@ -2,7 +2,7 @@
 id: SONG-SoulIsAStar
 type: song
 status: draft
-referenced_by: [ALBUM-33, CONCEPT-InheritedSubstrate, CONCEPT-ThePattern, CONCEPT-TheSpeakerProblem, SONG-AnotherWayIIHeaven, SONG-BALLERINABOY, SONG-PayAttentionFeatLittleLuna]
+referenced_by: [ALBUM-33, CONCEPT-InheritedSubstrate, CONCEPT-ThePattern, CONCEPT-TheSpeakerProblem, SONG-AnotherWayIIHeaven, SONG-BALLERINABOY, SONG-PayAttentionFeatLittleLuna, SONG-SOL, SONG-TomorrowANGLEOFETERNITY]
 ---
 # Soul Is A Star
 

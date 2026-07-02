@@ -40,7 +40,7 @@ Lucius can be read three ways that are **not** the same — flag which stream ea
 - **Lucius as the shevirah itself** — the *necessary, planned* break (divine, within holiness; *descent for the sake of ascent*). [Lurianic]
 - **Lucius as kelipah / Sitra Achra** — the shell that traps the light, "masters the system from within"; in the Lurianic stream this is **redeemed/nullified**, never allied with. [Lurianic]
 - **Lucius as the shadow to integrate** — this slides into the **Hermetic/Jungian** stream (shadow-integration), *not* strict Luria. Mark it [Hermetic] when used.
-*(This bears on the lunar re-mapping: Lucius = the Morning Star operating through the image-realm — see [[Sir Lucius]] / [[Source vs Reflection]].)*
+*(Placement: Lucius operates through the image-realm (Yesod); his clean Tree seat is Hod/Mercury, the morning-star being a name-thread only — single home: [[Kabbalah - The Tree of Life]].)*
 
 ## Stream discipline ⚠ (the report's strongest point — keep it)
 - **Lurianic kelipot ≠ Hermetic/Golden-Dawn Qliphoth** (the "Tree of Death"). The vault's Tree-of-Life scaffold (tarot/sefirot, morning-star Lucifer, Qliphah-of-Keter on [[The Light-Bearer]]) is largely **Hermetic**; the shevirah is **Jewish** — label which stream.

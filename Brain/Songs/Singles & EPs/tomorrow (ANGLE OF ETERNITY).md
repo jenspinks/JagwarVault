@@ -2,7 +2,7 @@
 id: SONG-TomorrowANGLEOFETERNITY
 type: song
 status: draft
-referenced_by: []
+referenced_by: [SONG-LifeIsGood]
 sources: [Sources/Lyrics/tomorrow (ANGLE OF ETERNITY).md]
 related: [SONG-PlayingToTheGods, SONG-SoulIsAStar, SONG-LOOP, CONCEPT-Duality, CHAR-Roy]
 ---

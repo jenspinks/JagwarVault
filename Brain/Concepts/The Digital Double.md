@@ -10,7 +10,7 @@ connections:
   grounded:    [CONCEPT-TheUpload, SONG-Online, SONG-TheWatchers]
   strong_read: [CONCEPT-ThePattern, CHAR-SirLucius, CONCEPT-WitnessingVsSurveillance, CONCEPT-SourceVsReflection]
   resonance:   [SONG-LifeIsGood]
-referenced_by: [CHAR-SARAVI, CONCEPT-FlattenedIdentity, CONCEPT-TheEmptyMirror]
+referenced_by: [CHAR-SARAVI, CONCEPT-FlattenedIdentity, CONCEPT-TheEmptyMirror, SONG-LifeIsGood]
 review_date: 2026-12-09
 ---
 # The Digital Double

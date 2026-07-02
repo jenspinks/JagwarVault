@@ -53,7 +53,7 @@ The catalogue's named oppositions are **species** of this one genus. Each is *so
 | [[Witnessing vs Surveillance]] | **El Roi**, the gaze that *transforms* the seen | the apparatus, the gaze that *shapes* the watched |
 | [[Brain/Concepts/The Circle|Circle vs Loop]] | return to *"the inside of the inside"* | closed, self-referential repetition |
 | Sun vs reflected bodies (**Tiferet** vs **Yesod/Malkhut**) | originating light — the Sun (the heart; [[SOL]]) | reflected light — the **Moon** (Roy's *position*, Mary's *theology*); the morning-star register is a buried footnote, not Lucius's signature — map lives at [[Kabbalah - The Tree of Life]] |
-| [[Roy]] vs [[Sir Lucius]] | the heart (the source) | Roy = the **Moon** (Malkhut+Yesod, the lunar vessel); Lucius = the **Morning Star** (Venus/Netzach, the herald mistaken for the dawn) — *both reflect; neither is the sun* |
+| [[Roy]] vs [[Sir Lucius]] | Roy = the **heart** (Netzach/Venus, his own fundamentals) reaching toward the Sun; his lunar *position* (Malkhut+Yesod) is the advanced ascent-frame | Lucius = the **mind** (Hod/Mercury), the reflection that mistakes its borrowed shine for the source — map lives at [[Kabbalah - The Tree of Life]] |
 
 So the machine is not a new problem — it is the **late-stage, industrial-strength reflection-engine.** *33*'s screens and Lucius's mirrors are the same forgetting at higher resolution. Naming the genus is what lets the catalogue's pieces sit on one axis. [W] *(a synthesizing lens — the work never names it; see §Cautions.)*
 
@@ -135,7 +135,7 @@ This sharpens the master question (and addresses the Open Question below): the c
 | [[Machine vs Human]] | A species of this genus — the machine is the reflection-engine; "severed from the heart" = reflection that forgot its source. **Source vs Reflection sits above it.** |
 | [[Witnessing vs Surveillance]] | A species — being-seen by the source-gaze (El Roi) vs the apparatus. |
 | [[Brain/Concepts/The Circle]] | The *return-to-source* pole made doctrine ("inside of the inside"); the Loop is reflection closed on itself. |
-| [[Sir Lucius]] | The reflection that mistook itself for the face — "the moon trying to become a sun"; Empty Mirror, Rorrim Ehtni, El Roi on the throat. |
+| [[Sir Lucius]] | The reflection that mistook itself for the face — the mind's borrowed shine claiming sourcehood; Empty Mirror, Rorrim Ehtni, El Roi on the throat. |
 | [[Roy]] | The source pole — the heart; "El Roy"/El Roi as the gaze that witnesses. |
 | [[Subject to Flooding (album)]] | First articulation — reflection→radiance; the master-key section. |
 | [[The Light-Bearer]] / [[SOL]] | Reflected/flashing light vs the sun; SOL as the source-answer. |
@@ -151,7 +151,7 @@ This sharpens the master question (and addresses the Open Question below): the c
 
 ## Sources
 - [[Subject to Flooding (album)]] §"Source vs Reflection" — the originating articulation (reflection→radiance; two brightnesses).
-- [[Essays/Concepts/Songs/Ballerina Boy]] / [[Essays/Concepts/Songs/Not Your Homie]] — the moon/Yesod = reflected-light reading; *"the moon trying to become a sun."*
+- [[Essays/Concepts/Songs/Ballerina Boy]] / [[Essays/Concepts/Songs/Not Your Homie]] — the moon/Yesod = reflected-light reading (the moon-line source; *"the moon trying to become a sun"* now correctly **Roy's** arc, not Lucius's — corrected 2026-07-01).
 - [[Brain/Characters/Sir Lucius]] — Empty Mirror, *Rorrim Ehtni*, El Roi on the throat.
 - [[Machine vs Human]] · [[Witnessing vs Surveillance]] · [[Brain/Concepts/The Circle]] — the species this genus organizes.
 - Frameworks: Neoplatonism (the One / emanation), Plato (*Republic* VII), Hermetic correspondence. *No private material used.*

@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `3b47fcb` (2026-07-01 05:09:30 -0500) · 47 songs · 80 concepts · 6 characters · 3 albums
+> [!info] Generated snapshot — vault commit `d8d0442` (2026-07-01 19:28:10 -0500) · 47 songs · 80 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -44,7 +44,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `SONG-BALLERINABOY` | BALLERINA BOY | Singles & EPs | `Brain/Songs/Singles & EPs/BALLERINA BOY.md` · stable | `Sources/Lyrics/BALLERINA BOY.md` · stable | `Essays/Concepts/Songs/Ballerina Boy.md` | — |
 | `SONG-Dumbledore` | dumbledore | Singles & EPs | `Brain/Songs/Singles & EPs/dumbledore.md` · draft | `Sources/Lyrics/dumbledore.md` · draft | `Essays/Concepts/Songs/dumbledore.md` | — |
 | `SONG-GoodTime108` | Good Time (1-08) | Singles & EPs | `Brain/Songs/Singles & EPs/Good Time (1-08).md` · draft | `Sources/Lyrics/Good Time (1-08).md` · stable | `Essays/Concepts/Songs/Good Time (1-08).md` | — |
-| `SONG-LifeIsGood` | life is good | Singles & EPs | — | `Sources/Lyrics/Life Is Good.md` · stable | `Essays/Concepts/Songs/Life Is Good.md` | — |
+| `SONG-LifeIsGood` | life is good | Singles & EPs | `Brain/Songs/Singles & EPs/Life Is Good.md` · draft | `Sources/Lyrics/Life Is Good.md` · stable | `Essays/Concepts/Songs/Life Is Good.md` | — |
 | `SONG-LOOP` | LOOP | Singles & EPs | `Brain/Songs/Singles & EPs/LOOP.md` · draft | `Sources/Lyrics/LOOP.md` · stable | `Essays/Concepts/Songs/LOOP.md` | — |
 | `SONG-MAGIK` | MAGIK | Singles & EPs | `Brain/Songs/Singles & EPs/MAGIK.md` · draft | `Sources/Lyrics/MAGIK.md` · stable | `Essays/Concepts/Songs/MAGIK.md` | — |
 | `SONG-SideQuest` | SideQuest | Singles & EPs | `Brain/Songs/Singles & EPs/SideQuest.md` · draft | `Sources/Lyrics/SideQuest.md` · stable | `Essays/Concepts/Songs/SideQuest.md` | — |
@@ -174,10 +174,6 @@ Declared in [[Ontology]] for reference-resolution; most have no standalone page 
 | `ALBUM-33` | 33 | `Brain/Albums/33 (album).md` · draft | `Sources/Credits/33.md` |
 | `ALBUM-LuciusLullaby` | Lucius Lullaby | `Brain/Albums/Lucius Lullaby (album).md` · stable | `Sources/Credits/Lucius Lullaby.md` |
 | `ALBUM-SubjectToFlooding` | Subject to Flooding | `Brain/Albums/Subject to Flooding (album).md` · draft | `Sources/Credits/Subject to Flooding.md` |
-
-## ⚠ Resolution gaps (songs missing a Brain page or Lyric in this snapshot)
-
-- `SONG-LifeIsGood` life is good — no Brain
 
 ## Maintenance
 Regenerate with `python3 _System/gen-entity-map.py` after any file add/move/rename, then commit. Resolution = frontmatter-`id` match first, then normalized-name match (case/punct-insensitive), scoped to each layer's folder.

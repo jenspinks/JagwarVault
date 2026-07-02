@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, CHAR-SirLucius, ALBUM-LuciusLullaby]
   strong_read: [CONCEPT-TheAngleAngel, CONCEPT-TheMirror, SONG-WelcomeToTheCircus, SONG-Weirdness]
   resonance:   [CONCEPT-Yesod, CONCEPT-Tiferet, CONCEPT-TheEmptyMirror]
-referenced_by: [CONCEPT-ThePattern, SONG-Bananas, SONG-DownToYou]
+referenced_by: [CONCEPT-ThePattern, SONG-Bananas, SONG-DownToYou, SONG-GoodTime108, SONG-LifeIsGood, SONG-TomorrowANGLEOFETERNITY]
 review_date: 2026-11-16
 ---
 # Duality

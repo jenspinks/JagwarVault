@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-Roy, ALBUM-SubjectToFlooding]
   strong_read: [CONCEPT-TheProtector, CONCEPT-Consumption, SONG-Loser, CONCEPT-InheritedSubstrate, SONG-ILikeToParty, CONCEPT-MachineVsHuman]
   resonance:   [CONCEPT-Nigredo, SONG-WelcomeToTheCircus, CONCEPT-FlattenedIdentity]
-referenced_by: [CONCEPT-TheProtector, SONG-HellOfANight, SONG-HellOfANightPt2TheHallelujahStickup, SONG-NoFakeFriends, SONG-NotYourHomie]
+referenced_by: [CONCEPT-TheProtector, SONG-HellOfANight, SONG-HellOfANightPt2TheHallelujahStickup, SONG-NoFakeFriends, SONG-NotYourHomie, SONG-Superhuman]
 dominant_pole: mixed
 transformation_phase: nigredo
 recursion_state: orbit

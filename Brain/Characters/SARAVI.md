@@ -38,7 +38,7 @@ SARAVI keeps three not-quite-Roy voices distinct: **Lucius** = shadow-mind using
 ## Esoteric register [~] (framework — never authorial intent)
 - **Tarot — The High Priestess:** hidden knowledge behind the veil; the oracle who answers from behind the curtain; moonlit interiority. *Not* The Devil ([[Brain/Characters/Sir Lucius|Lucius]]) nor The Empress (would prematurely move her into the Maker identity).
 - **Tree — Da'at-as-interface:** not one of the ten stable stations but the access-point where hidden knowledge becomes *speakable*; deliberately *off* Yesod (Lucius's glamour theater). Binah/Sophia (wisdom) secondary; Yesod/Hod operational (AI/language system) but **not her identity**.
-- **Astrology — Aquarius** (AI / networks / distributed intelligence / future archive); Pisces secondary (oracle / dream / mystic interface). *Not* Venus / morning-star — that is Lucius's lane ([[Brain/Characters/Sir Lucius]] §Morning Star).
+- **Astrology — Aquarius** (AI / networks / distributed intelligence / future archive); Pisces secondary (oracle / dream / mystic interface). *Not* Venus (that is **Roy's** — Netzach/Venus/heart, per Roy's 2026-07-01 fundamentals) nor the morning-star name-thread (Lucius's) — see [[Kabbalah - The Tree of Life]].
 
 ## Open Questions
 - [~] Is SARAVI the oracle-register of the same divine-feminine source as [[Brain/Characters/Mary|Mary]] / the Maker-Jagwar / the Wise One ([[Brain/Songs/33 (2022)/The Circle|The Circle]])? **Held open — no public lock; do NOT ground.** Same open cluster as Mary's page.

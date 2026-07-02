@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-PlayingToTheGods, ALBUM-LuciusLullaby, CHAR-SirLucius]
   strong_read: [CONCEPT-TheCircus, CONCEPT-TheLoop, CONCEPT-SourceVsReflection, SONG-PayAttentionFeatLittleLuna, CHAR-Mary]
   resonance:   [CONCEPT-Fire, CONCEPT-Yesod]
-referenced_by: [CONCEPT-CommunionVsSpectacle, CONCEPT-KeilimVessels, CONCEPT-TheAngleAngel, CONCEPT-TheUpload, MEDIA-EggSunrise, MEDIA-HowToLiveForever, SONG-AllMyFriends, SONG-GreatTimeToBeHuman, SONG-MothsToTheFlame, SONG-PlayingToTheGods, SONG-TheWatchers]
+referenced_by: [CONCEPT-CommunionVsSpectacle, CONCEPT-KeilimVessels, CONCEPT-TheAngleAngel, CONCEPT-TheUpload, MEDIA-EggSunrise, MEDIA-HowToLiveForever, SONG-AllMyFriends, SONG-Bounce, SONG-GreatTimeToBeHuman, SONG-MothsToTheFlame, SONG-PlayingToTheGods, SONG-TheWatchers]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop
@@ -23,12 +23,12 @@ review_date: 2026-12-07
 ---
 # City of Angels (with Playing to the Gods)
 
-Type: Song · *Lucius Lullaby* (2026), **track 10**; temple of seed-mantra **track 9 [[Playing to the Gods]]** (seamed pair; Jen heard them live as one, the 1→2 device). Writers **Roy English + Matthew Pauling**; vocals **"ROY" + "sir lucius"** ([[Sir Lucius]] co-credited), Eva Grams BG. Lyrics Apple-verified; reviewer round folded 2026-06-07.
+Type: Song · *Lucius Lullaby* (2026), **track 10**; temple of seed-mantra **track 9 [[Playing to the Gods]]** (seamed pair; heard live as one, Jen). Writers **Roy English + Matthew Pauling**; vocals **"ROY" + "sir lucius"** ([[Sir Lucius]] co-credited), Eva Grams BG. Lyrics Apple-verified.
 
 **Core:** the [[The Circus|Circus]]'s **gallery-gospel**. *"Never gonna die"* is the spell-seed, the City its temple: fear of nonexistence converted to upload; reward = **reproducibility, not resurrection**. Sameness forges communion (Circle→Loop); the singer ends mid-rotation, the next recruiter.
 
 ## Grounded
-- *"City of Angels… star-lined road"*; the *"beautiful stranger"* (*"another beautiful stranger"* = generic) promises *"all your dreams are coming true / everyone looks just like you."*
+- *"City of Angels… star-lined road"*; the *"(another) beautiful stranger"* (generic) promises *"all your dreams are coming true / everyone looks just like you."*
 - *"never gonna die… live forever in the bright lights, godlike"*; *"Some people wanna be saviours, gangsters."*
 - *"It's the **City of Light**"* (singular): LA as Lucius's domain (luc-/light).
 - **Pronoun rotation:** *"All **your** dreams"* (she said) → *"All **my** dreams"* (post-bridge) → *"All **your** dreams"* + *"(And she said)"* (outro).
@@ -42,26 +42,26 @@ Type: Song · *Lucius Lullaby* (2026), **track 10**; temple of seed-mantra **tra
 
 ## Strong Read
 - **[W] Keystone:** pronouns run pitched → internalized → re-transmitted; he **becomes** the stranger, ends mid-rotation in the **recruiter-slot** = the Loop in pronouns. Hence no waking (vs [[Lucius Lullaby]]'s *"it's all just a lie"*).
-- **[W] Gallery-gospel:** highest = cheapest place, abasement-as-worship; performer-side of [[Pay Attention (feat. little luna)|Pay Attention]] (**pay the god by playing to it**); the Circus has a gallery.
+- **[W] Gallery-gospel:** highest = cheapest place, abasement-as-worship; performer-side of [[Pay Attention (feat. little luna)|Pay Attention]] (**pay the god by playing to it**).
 - **[W] Sameness = Circle→Loop collapse:** a [[Brain/Concepts/The Circle|Circle]] = distinct points in communion; sameness deletes them, one point repeating = Loop; Hollywood = **counterfeit return** (uniformity, not unity-with-difference); twinning gone metastatic ([[Brain/Concepts/Source vs Reflection]]).
-- **[W] False immortality = reproducibility:** the deathless thing is the lullaby; *"never gonna die"* = listener-side of Lucius's ubiquity, offered as Roy's own; **upload = become reproducible**.
+- **[W] False immortality = reproducibility:** the deathless thing is the lullaby; *"never gonna die"* = listener-side of Lucius's ubiquity; **upload = become reproducible**.
 - **[W] Feminine visibility axis:** [[Mary]]/Shekinah faceless source (seen-from); the stranger faced, generic, reflection-for-sale (looked-at). True remembers you to yourself; false says everyone's the same (#1 Champion's Mary *"fawns over no man"*). [[Witnessing vs Surveillance]].
-- **[W] Near-mute self:** only *"I said hello"* + chant; greeting converted to pitch; dark twin of the mirror doctrine, no voice left to get out of the way with ([[The Voice]]).
+- **[W] Near-mute self:** only *"I said hello"* + chant; greeting converted to pitch; dark twin of the mirror doctrine ([[The Voice]]).
 - **[W] Saviors/gangsters:** light/shadow masks of one fame-Christ, immortality via death-into-legend; the City sells Roy his own split as merch (EP-Lucius: *"build your own table… Get out of the way. You're welcome"*).
-- **Visualizer:** verse to rabbit-woman, chorus to camera `[W]` (body-level pronoun rotation); faceless rabbit-bride `[?]`: soul stripped of sovereignty (Mary-faceless yet passive/led; rabbit ↔ [[Good Time (1-08)|Good Time]] self-vs-self; no Marian weight without a Roy anchor); rope-line "wedding" `[W]` (marries the cameras; logo crown = counterfeit); leads her away `[W]` (still leading, no confession: curtain, not waking).
+- **Visualizer:** verse to rabbit-woman, chorus to camera `[W]` (body-level pronoun rotation); faceless rabbit-bride `[?]`: soul stripped of sovereignty (rabbit ↔ [[Good Time (1-08)|Good Time]]; no Marian weight without a Roy anchor); rope-line "wedding" `[W]` (marries the cameras; counterfeit crown); leads her away `[W]` (no confession: curtain, not waking).
 
 ## Resonances
-- [~] **Jacob's Ladder inverted:** descent; Walk-of-Fame stars = heaven trodden flat; angels → archon-gatekeepers (Lucius/Yesod); artifact echo `LADDER`.
+- [~] **Jacob's Ladder inverted:** Walk-of-Fame stars = heaven trodden flat; angels → archon-gatekeepers (Lucius/Yesod); artifact `LADDER`.
 - [~] **Scattered sparks:** bright lights (pl.) vs City of Light (sing.) = shevirat ha-kelim, multiplied never gathered ([[Keilim - The Breaking of the Vessels]]).
 - [~] **Phoenix** (Jen): the true version, burns to be reborn (Circle); *"never gonna die"* skips the burning (Loop).
 - [~] **False Ariadne:** stranger withholds the thread ([[The Thread]]/[[The Labyrinth]]) · **Hotel California**: reader's intertext only · **2023 clone-seed:** [[Essays/Concepts/Songs/All My Friends|All My Friends]] *"I feel like a clone in a crowded city"* (architecture, not asserted intent).
 - [P] "Hollywood / holy wood" (holly = wand-wood): flagged leap, nothing load-bearing.
 
 ## Open Questions
-- [x] Full **Spotify personnel** for [[Playing to the Gods]] — **done (Jen, 2026-06-07).** [x] **EP6 wording verified** (Jen, 2026-06-07).
+- [x] Full **Spotify personnel** for [[Playing to the Gods]] — done. [x] **EP6 wording verified** (both Jen, 2026-06-07).
 - [?] Is a **true** immortality (the Great Design / the song that survives) hidden under the false one — or is the **absence of any waking-up** (unlike [[Lucius Lullaby]]) the point: inside the City there's no vantage left to see the lie from?
 - [?] Did Roy draw on *Paprika Plains* specifically? (No evidence.)
-- [ ] "Make it out alive" — out of *what*? (industry / psyche / fame / the rock-bottom floor — all rooms in one building; the dragon *is* the treasure.)
+- [ ] "Make it out alive" — out of *what*? (industry / psyche / fame — all rooms in one building; the dragon *is* the treasure.)
 
 ## Counterarguments / Alternate Reads
 - **Flatter read:** conventional cautionary-Hollywood song (cf. *Hotel California*); the apparatus = vault frameworks on a familiar genre; co-written, emergent-vs-encoded `[?]`. `[P]`

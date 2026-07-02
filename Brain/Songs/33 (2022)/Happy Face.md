@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-33, CHAR-SirLucius, CONCEPT-TheMask]
   strong_read: [CONCEPT-TheAlgorithm, SONG-MoveToYou, CONCEPT-TheLoop]
   resonance:   [CONCEPT-TheSpectacle, CONCEPT-TheAudience]
-referenced_by: [ALBUM-33, CONCEPT-TheAlgorithm, CONCEPT-TheManifestoCards, CONCEPT-TheMask, CONCEPT-TheSpectacle, SONG-BALLERINABOY, SONG-BadFeelingOompaLoompa, SONG-GreatTimeToBeHuman, SONG-ILikeToParty, SONG-Loser, SONG-NoFakeFriends, SONG-NotYourHomie]
+referenced_by: [ALBUM-33, CONCEPT-TheAlgorithm, CONCEPT-TheManifestoCards, CONCEPT-TheMask, CONCEPT-TheSpectacle, SONG-BALLERINABOY, SONG-BadFeelingOompaLoompa, SONG-GreatTimeToBeHuman, SONG-ILikeToParty, SONG-LifeIsGood, SONG-Loser, SONG-NoFakeFriends, SONG-NotYourHomie]
 review_date: 2026-12-05
 ---
 # Happy Face

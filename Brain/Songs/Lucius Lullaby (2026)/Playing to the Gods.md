@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-CityOfAngels, ALBUM-LuciusLullaby, CHAR-SirLucius]
   strong_read: [CONCEPT-TheCircus, CONCEPT-TheLoop]
   resonance:   [CONCEPT-Fire]
-referenced_by: [SONG-CityOfAngels, SONG-TheWatchers]
+referenced_by: [SONG-CityOfAngels, SONG-SOL, SONG-TheWatchers, SONG-TomorrowANGLEOFETERNITY]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop

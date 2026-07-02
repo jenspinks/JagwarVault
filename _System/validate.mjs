@@ -88,6 +88,12 @@ for (const rel of pages) {
       && !/^#{1,6}\s+.*(counterargument|alternate read)/im.test(body))
     warns.push(`${rel}: status: stable but no '## Counterarguments / Alternate Reads' section (anti-totalization).`);
 
+  // 2g. size budget: Brain song cards are distilled indexes, not essays
+  //     (layer contract; 2026-07-01 efficiency pass §3.1). Warn past ~6 KB body —
+  //     re-distill toward the ~5 KB 33-era card shape; the Essays twin is the prose home.
+  if (rel.startsWith("Brain/Songs/") && fm.type === "song" && Buffer.byteLength(body, "utf8") > 6144)
+    warns.push(`${rel}: song card body is ${(Buffer.byteLength(body, "utf8") / 1024).toFixed(1)} KB (>6 KB budget, §3.1) — re-distill; the essay is the prose home.`);
+
   // 2e. broken wikilinks (lenient: resolve by Ontology display-name OR existing file basename)
   //     Strip code (fenced blocks + inline spans) first: a `[[link]]` inside backticks
   //     is documentation of a link (e.g. a provenance note recording a fix), not a live

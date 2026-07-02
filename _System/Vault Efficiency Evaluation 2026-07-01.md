@@ -83,12 +83,14 @@ No file named Tiferet/Yesod/Malkhut/The Moon exists; ~89 links to these pageless
 
 ## Phase 3 — Layer-contract repairs (the real analytical debt; multi-session)
 
-### 3.1 Brain/Songs has drifted into essays (the largest single win)
+### 3.1 Brain/Songs has drifted into essays (the largest single win) — ✅ DONE 2026-07-01
 ~10 Brain song notes (LL-era + The Watchers) have swollen into essay-length prose, several now LARGER than their Essays twins, violating the vault's own "Brain pages are not essays" rule. Verified nuance: this is parallel restatement (8-14% shingle overlap), not copy-paste, which is arguably worse: two divergent tellings of the same analysis that can rot independently.
 **Fix:** re-distill to terse cards (thesis line, tiered claim list, connections, open questions, "Full reading:" link), matching the healthy ~5 KB 33-era pattern. Adopt a size budget (<6 KB) and let the validator warn on it.
+**Done (2026-07-01):** all 10 re-distilled to <6 KB bodies with "Full reading" pointers; frontmatter untouched; tiers never upgraded; 9 card-vs-essay discrepancies flagged as `[?] Discrepancy (2026-07-01 re-distill)` open questions rather than silently resolved (grep that string to work them). validate.mjs now warns on Brain/Songs bodies >6 KB; 10 legacy dense-but-card-shaped StF/33-era cards (6.2–8.5 KB) warn today, left for a future pass. See log.md.
 
-### 3.2 Brain stubs that lie
+### 3.2 Brain stubs that lie — ✅ DONE 2026-07-01
 4 Brain song stubs (Good Time, Superhuman, SOL, Bounce) still say "not yet analyzed" while 8-20 KB finished analyses sit in Essays; 5 songs total remain in the captured-but-not-connected gap (verifier corrected: Move To You is NOT empty, it has a filled Grounded section). SOL is the priority (album closer, 10 inbound references, emptiest note in the folder). Also: 4 Brain notes have malformed "Full essay" links pointing at themselves.
+**Done (2026-07-01):** SOL, Good Time, Superhuman, Bounce rebuilt as real distilled cards, plus tomorrow (ANGLE OF ETERNITY) and LOOP (both met the same size/essay-gap criterion); Move To You's false status line corrected, its real content untouched. Zero "not yet analyzed" strings remain in Brain/Songs. Self-pointing "Full essay" links were 5, not 4 (Superhuman (Interlude) too); all repointed to the Essays twins. Bonus: the missing Life Is Good Brain card created (closes §2.4's pending item; its essay §Open Questions pointer-ized per §3.5).
 
 ### 3.3 Character layer inverted
 The two Character essays are smaller and 19 days staler than their supposedly-distilled Brain twins, with duplicated sections and no cross-pointer. Labors of Hercules essay contradicts its Brain twin on Bailey's evidence tier. Decide direction per pair and add cross-pointers.

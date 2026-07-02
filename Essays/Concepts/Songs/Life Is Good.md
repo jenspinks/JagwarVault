@@ -56,10 +56,7 @@ Standalone single — **Jagwar Twin × @angelbaby** (Hume AI artist). Released *
 
 ## Open Questions
 
-- **[?] "Nether" vs "Another"** — the central transcription fork; alters the cosmological read. (Filed text is "Nether.")
-- **[?] "La viva es buena"** — almost certainly *"La vida es buena"* (Drive typo); confirm.
-- **[?] Vocal split** — JT vs angelbaby: does the AI deliver the party-mandates while Roy delivers the *"I'm mad / misunderstood"* confession? Would map the song's internal architecture — but don't invent it.
-- **[?] AI authorship** — did Hume/angelbaby *generate* parts, or is it human-written and AI-*performed*? Gates how far the meta-layer resonance can go.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Singles & EPs/Life Is Good#Open Questions|Life Is Good — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

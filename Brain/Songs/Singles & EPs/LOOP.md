@@ -4,7 +4,7 @@ type: song
 status: draft
 sources: [Sources/Lyrics/LOOP.md, Sources/Quotes/Roy X Posts - June 2026 (aphorisms).md, Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts).md]
 related: [CONCEPT-TheLoop, CONCEPT-TheCircle, SONG-NotYourHomie, ALBUM-LuciusLullaby, CONCEPT-Inversion]
-referenced_by: [SONG-NotYourHomie]
+referenced_by: [SONG-NotYourHomie, SONG-TomorrowANGLEOFETERNITY]
 ---
 # LOOP
 
