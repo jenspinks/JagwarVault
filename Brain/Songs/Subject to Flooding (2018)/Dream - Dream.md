@@ -52,3 +52,8 @@ Track 2, *Subject to Flooding* (2018, Atlantic Records). **Composers (Apple Musi
 - [ ] Lyrics cross-check against Apple Music: flip `status: draft` → `stable` once verified.
 - [ ] Does the crowd synchronization formally anticipate the Circus, or merely share structural similarity?
 - [ ] Is the *"Life is but a dream"* line in Lucius Lullaby read as liberation or as Lucius's pitch? Affects how the dream-destabilization arc is framed.
+- [ ] Is "dreaming" already partially unstable here — encoded in the obsessive repetition — or only retroactively destabilized by later work?
+- [ ] How early had the mirror-framework conceptually formed during the *Subject to Flooding* era?
+- [~] Is the speaker already partially fragmented, even if Lucius has not yet externalized symbolically? Likely yes — the age-7 burial predates this song.
+- [x] Does the song frame dreaming as liberatory? Yes — explicitly within the lyric structure.
+- [x] Does the song assume the system is primarily external? Yes — the lyric consistently frames containment as societal rather than internal.

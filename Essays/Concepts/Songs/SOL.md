@@ -8,7 +8,7 @@ related: [SONG-MoveToYou, SONG-SoulIsAStar, CHAR-SirLucius, CHAR-Roy, SONG-Playi
 # SOL
 
 > [!warning] Tier discipline for this page
-> - **⚠ The "poem guide" is NOT a SOL source (de-attributed 2026-06-27).** It was filed under SOL via Jen's Drive doc 1, but its grounded homes are two *other* posts: *"white rose in my left hand, and stepped off the ledge"* is the **[[Essays/Concepts/Songs/#1 Champion (la Conquistadora)|#1 Champion]] visualizer caption** (El Roy), and *"my Father's hand / half the man"* is the **Half the Man IG post** (no confirmed song). Only a **thematic** link survives here — both speak of *finding your way back / proceeding on trust* — so the poem appears below **only as cross-reference**, never as SOL's own grounded text. Readings built on it (the Fool/white-rose; the "half the man" Lucius-halves) have moved to #1 Champion.
+> - **⚠ The "poem guide" is NOT a SOL source (de-attributed 2026-06-27).** It was filed under SOL via Jen's Drive doc 1, but its grounded homes are two *other* posts: *"white rose in my left hand, and stepped off the ledge"* is the **[[Essays/Concepts/Songs/No. 1 Champion (la Conquistadora)|#1 Champion]] visualizer caption** (El Roy), and *"my Father's hand / half the man"* is the **Half the Man IG post** (no confirmed song). Only a **thematic** link survives here — both speak of *finding your way back / proceeding on trust* — so the poem appears below **only as cross-reference**, never as SOL's own grounded text. Readings built on it (the Fool/white-rose; the "half the man" Lucius-halves) have moved to #1 Champion.
 > - The **identity** claim "SOL *is* the father's verse / the Joni-borrowed song" is **`[P]` (Jen's position)** — a licensed figure-collapse, never grounded. The defensible `[W]` is that they **participate in the same symbolic object: a transmission surviving partial loss.**
 > - "Love is a question" recurring across the catalogue is **`[G]`**; that SOL is *returning* to it (vs introducing it) is **`[W]`**.
 > - The breath-substrate reading is **`[P]`/`[~]`** (framework-attributed) and does **not** use the private breath-method. It rests on **Genesis *ruach* / Theosophy "Great Breath"** (universal/public). Any Abulafia / letter-mysticism correspondence is **`[~]` tradition-only** ([[The Angels and the Angles]]) — there is **no public Jagwar Twin source** grounding it as Roy's method.
@@ -29,7 +29,7 @@ related: [SONG-MoveToYou, SONG-SoulIsAStar, CHAR-SirLucius, CHAR-Roy, SONG-Playi
 - **The name** `[G]`. In *The Interview* EP2 Roy introduces it as *"The Song of Love"* and begins to sing it — *"Love… love is a question. Everyone's guessing. Everyone knows…"* — before Lucius cuts him off (*"No one wants this love stuff"*) and overrides it with *Not Your Homie.* "SOL" reads as the acronym.
 - **The wordlessness** `[G]`. On the album the track is **voiced but wordless** — primal, non-lexical vocalization, no lexical content (by ear, Jen 2026-06-05; Apple Music "No Lyrics Available"). Not instrumental: it is voice without words.
 - **The overrides and the latency** `[G]`. SOL is refused in EP2, referenced and overridden again in EP3 (*"I was recording the song of love"* → Lucius plays *Welcome to the Circus*), and in EP7 it **resurfaces** on the album Lucius didn't seem to know it was on. When it plays, Lucius is agitated and surprised, has Roy removed, then sits and listens, unsettled, until it finishes. *(Per Jen's note, Lucius's yelled lines aren't reliably synced to the playing track — so this rests on the **stage direction**, not a yelled-line attribution.)*
-- *(The "poem guide" that previously sat here is **de-attributed** — it belongs to [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)|#1 Champion]] (the visualizer caption) + the Half-the-Man post, not SOL. See the warning box. SOL's grounded floor is the three items above.)*
+- *(The "poem guide" that previously sat here is **de-attributed** — it belongs to [[Essays/Concepts/Songs/No. 1 Champion (la Conquistadora)|#1 Champion]] (the visualizer caption) + the Half-the-Man post, not SOL. See the warning box. SOL's grounded floor is the three items above.)*
 
 ---
 
@@ -50,7 +50,7 @@ What changes between 2018 and SOL is **compression** `[W]`. Move To You *explain
 
 And Move To You already supplies the answer that SOL embodies `[W]`. Its reply to *love's a question* is never propositional — *not* an answer "from above," *not* one "that you give" — but a question *chosen* and *known*, and then it drops to **pulse**: *"I can hear your heart, it beats / It moves to me / I move to you."* The answer to the question is **response** — one heart moving another, pre-verbal already in 2018. The wordless SOL is that answer carried to its limit: the Song of Love reduced to the only thing it was ever made of, breath and beat rather than statement.
 
-A second thread is **thematic, not textual** `[W]`: Move To You's *"Even if the stars are out of place / Even if I'm lost along the way"* — proceed anyway — names the same posture SOL *enacts* (stepping past language into breath). *(The vivid image of it — *"I followed anyway… stepped off the ledge"* — belongs to **#1 Champion's** visualizer caption, **not** SOL; it sits here only as the shared "finding your way back / move on **trust, not certainty**" theme Jen flagged. See [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)]].)* That posture is the inverse of Lucius's survival-clutch in [[Playing to the Gods]] (*"If I make it out alive, then I'm never gonna die"* `[G]`): Lucius bargains to survive.
+A second thread is **thematic, not textual** `[W]`: Move To You's *"Even if the stars are out of place / Even if I'm lost along the way"* — proceed anyway — names the same posture SOL *enacts* (stepping past language into breath). *(The vivid image of it — *"I followed anyway… stepped off the ledge"* — belongs to **#1 Champion's** visualizer caption, **not** SOL; it sits here only as the shared "finding your way back / move on **trust, not certainty**" theme Jen flagged. See [[Essays/Concepts/Songs/No. 1 Champion (la Conquistadora)]].)* That posture is the inverse of Lucius's survival-clutch in [[Playing to the Gods]] (*"If I make it out alive, then I'm never gonna die"* `[G]`): Lucius bargains to survive.
 
 ---
 
@@ -115,20 +115,14 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 ## Resonances `[~]`
 
 - **SOL / Sol — the sun.** *Sol* = sun (Latin/Spanish). Lucius is lunar (reflected light "trying to become a sun"); SOL reads as the solar source the moon can't absorb. The double meaning — **Song Of Love** (acronym) and **Solar source** — coheres.
-- **The white rose / The Fool tarot — moved to [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)|#1 Champion]].** The *"white rose in my left hand, stepped off the ledge"* image (= the Rider-Waite **Fool**, card 0) is #1 Champion's visualizer caption, not SOL's — and #1 Champion's own lyric already says *"made a move like a **fool**."* The reading lives there now; SOL only shares the *theme* (the leap on trust).
+- **The white rose / The Fool tarot — moved to [[Essays/Concepts/Songs/No. 1 Champion (la Conquistadora)|#1 Champion]].** The *"white rose in my left hand, stepped off the ledge"* image (= the Rider-Waite **Fool**, card 0) is #1 Champion's visualizer caption, not SOL's — and #1 Champion's own lyric already says *"made a move like a **fool**."* The reading lives there now; SOL only shares the *theme* (the leap on trust).
 - ***Ruach* / Great Breath** — see §Breath; the feminine substrate under the paternal frame.
 
 ---
 
 ## Open Questions / Verification
 
-- **[x] ~~Poem-guide short URL~~ — RESOLVED by de-attribution (2026-06-27):** the poem is **not SOL's.** Its two halves are the **#1 Champion visualizer reel** (/reel/DXPpfvbAcHh/) and the **Half the Man post** (/p/DWpd0psgedN/). Moved out; see warning box.
-- **[?] Melodic trace** — does the wordless album SOL carry the EP2 *"Love is a question"* melody (a ghost-lyric), or is the vocalization unmoored from the sung line? (Needs ear.)
-- **[x] ~~The "her" of the poem~~** — moot for SOL (the poem → #1 Champion, where "her" = the faceless Mary).
-- **[?] Joni interpolation nature** — melodic vs actual voice (bears on the *Soul Is A Star* transmission frame, indirectly on SOL's). *(Update 2026-06-14: Joni's **cowriter + blessing on *Soul Is A Star*** is now `[G]` — Roy-stated, [Discord 2023-12-21](https://discord.com/channels/705391219915882516/709750776284708955/1187277878539337829); firewalled from SOL per §transmission. The melodic-vs-voice question for SOL itself stays open.)*
-- **[P→?] Affective ending** — "gentle / fragile" needs Jen's ear before grounding.
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/SOL#Open Questions|SOL — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Counterarguments / Alternate Reads
 
@@ -147,7 +141,7 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 | [[Sir Lucius]] | The boundary of his power — the song he can't metabolize (EP7); the words / structure half to SOL's breath / soul half. |
 | [[Essays/Concepts/Songs/Not Your Homie]] / [[Essays/Concepts/Songs/Welcome to the Circus]] | The tracks Lucius uses to override SOL (EP2 / EP3). |
 | [[Playing to the Gods]] | Inverse — Lucius's survival-clutch ("if I make it out alive") vs SOL's surrender (stepping past language into breath). |
-| [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)]] | **Thematic only** (the de-attribution). The "white rose / stepped off the ledge" Fool poem is #1 Champion's visualizer caption, not SOL's; the two share just the *finding-your-way-back / leap-on-trust* theme. |
+| [[Essays/Concepts/Songs/No. 1 Champion (la Conquistadora)]] | **Thematic only** (the de-attribution). The "white rose / stepped off the ledge" Fool poem is #1 Champion's visualizer caption, not SOL's; the two share just the *finding-your-way-back / leap-on-trust* theme. |
 | [[Mary]] | `[~]` divine-feminine via the *ruach* substrate; the "her divinity / white rose" anchor was the poem (now #1 Champion), so Mary is even lighter here than before. |
 | [[The Circle]] / [[The Thread]] | SOL as the breath at the center the other songs emerge from and return to — origin surfacing at the close (circle, not loop). |
 

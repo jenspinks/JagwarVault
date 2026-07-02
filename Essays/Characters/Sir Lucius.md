@@ -186,7 +186,7 @@ Mastermind → Final Boss. The self-naming arc is its own timeline, worth tracki
 - [[Brain/Songs/Lucius Lullaby]]
 - [[Brain/Songs/Welcome to the Circus]]
 - [[Essays/Concepts/Songs/Weirdness]]
-- [[#1 Champion (la Conquistadora)]]
+- [[No. 1 Champion (la Conquistadora)]]
 - *Influence-only (not voiced by Lucius):* "I Like to Party," and likely others — this distinction is worth tracking song-by-song
 
 ---

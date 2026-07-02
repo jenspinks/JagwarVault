@@ -176,7 +176,7 @@ Track 4. The album opens with [[The Circle (Lucius Version)]], [[Essays/Concepts
 
 It is the confession that makes the rest of the album possible. After this, the listener cannot claim not to have been warned. The Circus has been named, the mechanism described, the final-boss self-designation made on the record.
 
-What follows on the album ([[Bad Feeling (Oompa Loompa)]], [[Moths to the Flame]], [[Bananas]], [[#1 Champion (la Conquistadora)]], [[Playing to the Gods]], [[City of Angels]], [[Essays/Concepts/Songs/Not Your Homie]], [[Bounce]]) is the listener continuing to dance inside the Circus *after having been told*.
+What follows on the album ([[Bad Feeling (Oompa Loompa)]], [[Moths to the Flame]], [[Bananas]], [[No. 1 Champion (la Conquistadora)]], [[Playing to the Gods]], [[City of Angels]], [[Essays/Concepts/Songs/Not Your Homie]], [[Bounce]]) is the listener continuing to dance inside the Circus *after having been told*.
 
 ---
 
@@ -263,7 +263,7 @@ The Bailey-curated quote *"the path of liberation leads through the midst of the
 | [[Great Time to Be Human]]             | Track 3 — the ironic affirmation that precedes this unmasking.                                                                               |
 | [[Bad Feeling (Oompa Loompa)]]         | Track 5 — the bad feeling about this exact dynamic.                                                                                          |
 | [[Moths to the Flame]]                 | Track 6 — Lucius's moth speech at EP 7 is the prose form of this next track.                                                                 |
-| [[#1 Champion (la Conquistadora)]]     | Track 8 — the champion archetype; possible Leo-trial completion song.                                                                        |
+| [[No. 1 Champion (la Conquistadora)]]     | Track 8 — the champion archetype; possible Leo-trial completion song.                                                                        |
 | [[Playing to the Gods]]                | Track 9 — different face of the same performance mechanism.                                                                                  |
 | [[SOL]]                                | The Song of Love. The track Lucius overrode in EP 3. The song that closes the album's structural arc.                                        |
 | [[Essays/Concepts/Songs/Ballerina Boy]]                      | Roy's lowest-performing song; the voice that *cannot* appear inside the Circus.                                                              |
@@ -273,16 +273,7 @@ The Bailey-curated quote *"the path of liberation leads through the midst of the
 
 ## Open Questions
 
-- [ ] **Is Lucius protecting Roy or training him to rule the Circus?** The song stops pleading and starts teaching. This is a fundamental reframe of the protector/shadow-ally reading.
-- [ ] Who is Lucius's **Boss**? In the visual lore series Lucius is heard reporting to one — *"Boss, I got this, my lullabi is everywhere."* Is the Boss BMRC (the bonus track's credited entity), the algorithm itself, capital, the collective audience, something more abstract?
-- [ ] Where is [[Essays/Concepts/Songs/Ballerina Boy]]? The song's structural silence about him may be the song's most important feature.
-- [ ] **Why does [[SOL]] unsettle Lucius?** SOL is the song he overrode in EP 3 and the track he reportedly cannot metabolize. SOL is the note Lucius cannot absorb. Why?
-- [ ] Rachel Kanner on background vocals — recurring voice across the catalogue? Possible sonic register for [[Mary]]?
-- [ ] *"They love it when you lose control"* — is this describing audience, industry, or Lucius himself? Who loves it?
-- [ ] Is the song's refusal to name an exit a *description* (the Circus has no exit) or a *strategy* (the exit exists but Lucius will not mention it)?
-- [ ] Does the Leo-trial framework apply to WTTC specifically — i.e., is this song the lion ravaging the countryside *before* the cave, with [[Essays/Concepts/Songs/Not Your Homie]] naming the cave as available? (See [[The Labors of Hercules]] Open Questions.)
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Welcome to the Circus#Open Questions|Welcome to the Circus — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Resonances
 

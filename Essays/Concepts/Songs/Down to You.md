@@ -65,10 +65,8 @@ The relentless *"the one… you are the one,"* in context, points the listener *
 - **[~] The One (Neoplatonic)** — the hammered *"the one / you are the one"* brushes Plotinus's One (the source all emanates from — apt with the descent imagery) and the popular "you are the One" chosen-figure motif. Resonance only; assert neither as intent.
 
 ## Open Questions
-- [ ] Does *"you are the one"* weight toward responsibility, divinity, or identity? (The descent + crown-flame tilts it past self-help toward divinity-realized.)
-- [ ] Is the descending light **revelation, inspiration, consciousness, or emanation**? (The down/up bidirectionality favors emanation over one-way revelation.)
-- [ ] How deliberate is the fame/money verse as a callback to *Pay Attention* / *I Like to Party*? (Shared vocabulary makes it strong; intent unconfirmed — retrospective-coherence guard.)
-- [x] **Matt Pauling — RESOLVED:** established *33* core writer/producer (sole producer here); not a new entity.
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/Down to You#Open Questions|Down to You — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 | Song / Source | Relationship |

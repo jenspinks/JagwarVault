@@ -128,12 +128,7 @@ This is an unmistakable Nigredo song. Active characteristics: collapse of false 
 
 ## Open Questions
 
-- `[~]` Is *"they know"* referring to generalized social consciousness — or does it become retroactively compatible with "The Boss" / algorithmic authority structures from the theatrical era? The `[W]` read is forward-compatible but not asserted.
-- `[ ]` Travis Barker co-write — does his presence affect how we read the song's cultural register? What did that collaboration produce and what did he bring to the track?
-- `[ ]` Does the "long time coming" refrain name integration itself as the inevitable thing — or something more specifically relational (a confrontation, a return, a specific event)?
-- `[ ]` Is the protector's emergence-into-visibility here the beginning of the arc, or a mid-point — something that had already been surfacing in pre-2018 work?
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Long Time Coming#Open Questions|Long Time Coming — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

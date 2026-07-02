@@ -1,7 +1,8 @@
 ---
 type: note
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 02 — the flood's double valence: the wave that drowns is the wall coming down (Jericho); the 2026 'waters are rising but so am I' answer; and the Sirens on the drowning album. Plain text, public material only. Read the Context Primer first."

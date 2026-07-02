@@ -16,7 +16,7 @@
 > public-safe** (no private content, no Secret-Document material) — it is meant to
 > be shared.
 >
-> **Snapshot date:** 2026-06-06.
+> **Snapshot date:** 2026-07-01.
 
 ---
 
@@ -91,11 +91,11 @@ silently upgraded:
 In the **Brain** layer these are carried as **inline markers** so they are
 machine-readable:
 
-- `(no marker)` — attributable to a named public source
-- `[W]` — working synthesis (AI inference across sources)
-- `[P]` — the author's stated personal position
-- `[?]` / `[~]` — uncertain / flagged
-- `(none — lyric)` / `(none — EP3, [URL])` — grounded citation form
+- `[G]` — grounded in a named public source (a legacy `(none — lyric)` / `(none — EP3, [URL])` citation marks grounded too)
+- `[W]` — strong read / working synthesis (AI inference across ≥2 public anchors)
+- `[P]` — a stated position (the author's, or a committed thesis)
+- `[~]` — resonance (a framework correspondence, attributed to the framework)
+- `[?]` — an unverified lead or a genuine leap
 
 **The named risk the whole architecture exists to prevent: contamination.** If an
 AI writes one wrong connection into Brain, every future session inherits it as
@@ -197,20 +197,23 @@ Three scripts (Node ES modules + Python), run before every commit:
   file paths + status, by frontmatter-`id` then normalized-name match); skips
   `_Private/`. Run after adding/moving/renaming pages.
 
-**Workflow:** `backlink` → `validate` (must show 0 errors) → `git commit` → push
-to a **private GitHub repo** (`jenspinks/JagwarVault`).
+**Workflow:** run `backlink` → `validate` (must show 0 errors) and regenerate the
+maps, then save. **The Obsidian Git plugin is the canonical sync mechanism: it
+autocommits and pushes the vault to its private GitHub backup
+(`jenspinks/JagwarVault`) on a schedule, so do not manually `git push`, which
+races the plugin.**
 
-**Count relationships** an external reader will notice (snapshot 2026-06-06;
-numbers drift):
+**Count relationships** an external reader will notice (snapshot 2026-07-01;
+numbers drift — run `validate.mjs` for live totals):
 
-- **~251** total `.md` files (whole vault, minus `_Private/` and `.git/`)
-- **122** "pages" — what the validator counts = everything under `Brain/` +
+- **~445** total `.md` files (whole vault, minus `_Private/` and `.git/`)
+- **216** "pages" — what the validator counts = everything under `Brain/` +
   `Essays/`
-- **118** registered Ontology IDs
-- **~50** Brain pages that actually carry an `id` and form the machine back-prop
-  graph (the rest are bare scaffolds — ~39 carry no frontmatter yet, a deliberate
-  "do not manufacture content" stance)
-- Latest health: **0 errors, 39 warnings** (the warnings are the bare scaffolds)
+- **145** registered Ontology IDs
+- **109** Brain pages that carry an `id` and form the machine back-prop graph (the
+  rest are terse scaffolds)
+- Latest health: **0 errors, 11 warnings** (mostly `related:` lists over the
+  5-item cap, plus a few stale review dates)
 
 ## 9. How it was built
 

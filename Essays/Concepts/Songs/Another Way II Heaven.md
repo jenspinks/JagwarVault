@@ -75,11 +75,16 @@ Mirrors, doubles, twins, loops, fragmented identities, reunification — the rec
 - **[~] Pythagorean numeric unfolding** — point (1), division (2), the unnumbered union/Sun (the implicit 3), then 4 = "Process and Time." The **skipped 3 may be the Sun itself** (the union's offspring, unnumbered because it's the child, not a division). Leap, flagged.
 
 ## Open Questions
-- [ ] Is the skipped **3** deliberately the "Sun born inside," or simply elided?
-- [ ] Does the clock-rendering (1:00–11:00) intend the missing **12** as the return-to-One, or incidental?
-- [ ] The *"you'll never get away"* voice — the dividing One, or a later intruder? (Bears on the Lucius reading; note it's song-only, not on the board.)
-- [ ] Is "heaven" metaphysical, perceptual, psychological — or all at once?
-- [x] **Credits — RESOLVED:** Roy English sole writer; Roy + Pauling produce.
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/Another Way II Heaven#Open Questions|Another Way II Heaven — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
+
+## Artifacts
+
+**Tree Thinking** · `TREE THINKING` — the 10-level sephirotic-descent pyramid that diagrams this song's *'From One and through Eleven'* emanation count. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a9fe05bb3dbf271b4ab76f457b52a14dda44f3eb42edc5f4da3743febbe4bd9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a9fe05bb3dbf271b4ab76f457b52a14dda44f3eb42edc5f4da3743febbe4bd9..jpg" width="220"></a>
+
+**Lambdoma (Platonic Lambda)** · `REALITY IS THE CHILD OF ILLUSION` — the Platonic Lambda's apex-1-into-the-many is this song's *'One, become Two'* descent. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd722c486ba8a39b19cd81b4f5b5cac3b977934026d04ec6515e0f8d5ea6af4d9..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd722c486ba8a39b19cd81b4f5b5cac3b977934026d04ec6515e0f8d5ea6af4d9..png" width="220"></a>
 
 ## Connections
 | Song / Source | Relationship |

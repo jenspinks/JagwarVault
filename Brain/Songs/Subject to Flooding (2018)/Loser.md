@@ -23,7 +23,7 @@ review_date: 2026-11-16
 ---
 # Loser
 
-Track 3, *Subject to Flooding* (2018, Atlantic). Debut JT single (premiered Zane Lowe / Beats 1; 17.4M+ Spotify streams). **Composer (Apple Music): Matthew Pauling & Roy English.** Lyrics **verified-stable** (Apple Music). Full essay: [[Brain/Songs/Subject to Flooding (2018)/Loser|Essays/Songs/Loser]].
+Track 3, *Subject to Flooding* (2018, Atlantic). Debut JT single (premiered Zane Lowe / Beats 1; 17.4M+ Spotify streams). **Composer (Apple Music): Matthew Pauling & Roy English.** Lyrics **verified-stable** (Apple Music). Full reading: [[Essays/Concepts/Songs/Loser]].
 
 ## Voicing
 [[Roy]], first-person, defiant-collective (*"just like you"*). Pre-Lucius — but **the proto-architecture that later becomes Lucius is forming here**.
@@ -53,3 +53,4 @@ Track 3, *Subject to Flooding* (2018, Atlantic). Debut JT single (premiered Zane
 - [ ] Trojan Horse cadence — does it mirror the songwriting structures Roy discussed studying during the early commercial period?
 - [ ] Beck "Loser" (1993) echo: deliberate homage or coincidence? (No credit → allusion-tier.)
 - [x] ~~Roy's *"we all walk around with masks on"* framing — locate the exact interview/source for citation.~~ **RESOLVED 2026-05-28 via Prelude Press 2019** — verbatim: *"Loser is about how we all walk around with these masks on and try to be what we think other people want us to be. But if we remove those masks we find that we're all human underneath and we're all losers. There is only perceived separation."* See [[Sources/Transcripts/Prelude-Press-2019-JT]] and the aggregation page [[Brain/Roy Voice/Roy on Authenticity & Masks]]. **The Roy's framing section above (grounded) is now citation-anchored, not just inferred from artist commentary.**
+- [x] **Is the brightness of the song evidence of genuine emergence?** **No.** Retrospective catalogue analysis shows the brightness functions primarily as **emotional survival architecture** rather than stable integration [W].

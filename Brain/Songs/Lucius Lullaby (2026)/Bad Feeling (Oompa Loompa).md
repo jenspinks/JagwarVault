@@ -83,6 +83,7 @@ The chorus phrase became the title of Roy's **first gallery show + pop-up** — 
 - [?] Does the **acoustic-live (track 15)** reveal a more mournful core under the candy machinery?
 - [?] Chart / viral stats — date-stamp before citing (≈#24 Hot Alternative, Jan 2024).
 - [?] Writer-name variants ("Roy English" / "Brandon Wronski"; aggregator noise).
+- [ ] Is the "moon → unwell" echo of "That's Amore" / "Unwell" intentional?
 
 ## Connections
 | Node | Relationship |

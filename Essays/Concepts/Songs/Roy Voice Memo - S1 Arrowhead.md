@@ -71,11 +71,7 @@ The "bubble" is the perimeter of the conscious ego before integration. The fear 
 
 ## Open Questions
 
-- [ ] **"Arrowhead"** — what does the title's "Arrowhead" denote? A studio, a place (Lake Arrowhead, CA?), a session name, or something pointed/directional? Genuinely open; don't guess.
-- [ ] Does the "vision" S1 names here get fulfilled or betrayed anywhere traceable later (e.g. a *Lucius Lullaby*-era track)? Parked — verify against actual tracklists before asserting any cross-link. `[?]`
-- [ ] Confirm the 2018-vs-2019 dating against [[Subject to Flooding (album)]]; the streaming "2019" may be the Atlantic re-release artifact.
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Roy Voice Memo - S1 Arrowhead#Open Questions|Roy Voice Memo - S1 Arrowhead — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

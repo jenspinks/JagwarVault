@@ -24,7 +24,8 @@ review_date: <YYYY-MM-DD>
 ---
 # <Song Title>
 
-Terse, structural. No literary voice. Markers: [W] synthesis · [P] Jen · [?] uncertain · (none) public-source.
+Terse, structural. No literary voice. Marker ladder:
+`[G]` grounded (named public source, cite it) · `[W]` strong read (≥2 public anchors, hedge "reads as") · `[P]` a stated position (Jen's or a committed thesis, attribute it) · `[~]` resonance (framework correspondence, e.g. Jung/Kabbalah/tarot/Gnostic/Hermetic, attribute to the framework, never "Roy meant") · `[?]` unverified lead / genuine leap (flag, never smuggle) · `(no marker)` legacy grounded-citation form, e.g. `(none — lyric)` / `(none — EP3, [URL])` / `(none — Mirror Sessions)`. Never let a `[W]` pass as `[G]`.
 
 ## Voicing
 Voiced / Inspired / Mentioned —

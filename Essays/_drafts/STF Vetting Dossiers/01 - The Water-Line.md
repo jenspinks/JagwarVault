@@ -1,7 +1,8 @@
 ---
 type: note
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 01 — the Water-Line: Eye Alaska → Subject to Flooding → 'I am the shore', a sixteen-year arc in three self-namings, plus the eye/I pun in the first band name. Plain text, public material only. Read the Context Primer first."

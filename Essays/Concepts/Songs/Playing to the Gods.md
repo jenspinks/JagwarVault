@@ -61,9 +61,7 @@ Whichever is operating, do **not** flatten Roy into the boast. Per the character
 
 ## Open Questions
 
-- [?] **Vocal assignment** — which of ROY / Sir Lucius sings which pass is unverified, and **stays open** unless settled by a public credit or clearly audible separation. Do not resolve from fan consensus or private material.
-- [?] **The non-lexical frame** — whether *"Mm-mm"/"Oh-oh"* is structural (emergence-from / return-to the wordless) or incidental.
-- [x] ~~Lyric completeness / brevity read~~ **RESOLVED:** Apple-verified stable (Jen, 2026-06-06); the song is the mantra only. The brevity reads are grounded on a confirmed text. *(Spotify cross-check optional, not blocking.)*
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/Playing to the Gods#Open Questions|Playing to the Gods — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

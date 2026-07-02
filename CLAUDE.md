@@ -76,9 +76,9 @@ Raw material. Things that exist in the world, preserved so they can be cited. **
 
 Each file carries `citable: true|false`. Immutable once placed: corrections only, never reinterpretation. Flag uncertainty with `[?]`.
 
-**Lyric verification:** Apple Music / Spotify streaming = authoritative verified source. **AZLyrics and Google Drive lyric docs are draft-tier — they do NOT count as verification.** AZLyrics has produced multiple documented errors (Dream / Dream dropped Johnny Mercer + misspelled Vaughan; Long Time Coming "framers" → "famous"; phantom co-writers on Good Day / Hell of a Night Pt. 2 from Producer↔Writer conflations). A lyric or credit sourced only from AZLyrics stays `status: draft` with lines flagged `[?]` until cross-checked against Apple Music/streaming. Record the real source in `verified_against:`; AZLyrics alone does not satisfy it. For composer/songwriter credits, the **Apple Music composer field is authoritative** where populated; the **Apple Music Lyrics-tab "Written By" line** can fill in when the Details composer field is blank; the **Spotify Credits view** is the most complete (Composition & Lyrics + Production & Engineering). See `Sources/Credits/`.
+**Lyric verification:** Apple Music / Spotify streaming = authoritative verified source. **AZLyrics and Google Drive lyric docs are draft-tier — they do NOT count as verification.** AZLyrics has produced multiple documented errors (e.g. Dream / Dream dropped Johnny Mercer + misspelled Vaughan; Long Time Coming "framers" → "famous"; phantom co-writers from Producer↔Writer conflations). A lyric or credit sourced only from AZLyrics stays `status: draft` with lines flagged `[?]` until cross-checked against Apple Music/streaming. Record the real source in `verified_against:`; AZLyrics alone does not satisfy it. For composer/songwriter credits, the **Apple Music composer field is authoritative** where populated; the **Apple Music Lyrics-tab "Written By" line** can fill in when the Details composer field is blank; the **Spotify Credits view** is the most complete (Composition & Lyrics + Production & Engineering). See `Sources/Credits/`.
 
-**Spotify ≥ Apple Music on completeness.** Both streaming sources are authoritative, but Apple Music's synced-lyrics pane has repeatedly proved *less complete* than Spotify's — three documented cases so far: *Loser's* closing bridge ("I think the world's gone insane / We're singing") absent from Apple; *Not Your Homie's* "(sucker, it's a vibe)" ad-lib absent from Apple; *Superhuman (Interlude)* line-break corrections only visible in Apple. **When in doubt, cross-check both — and prefer the more complete reading.** Composer credits also diverge (e.g. Good Day's Details composer is blank in Apple but populated in Apple's Lyrics-tab "Written By"; Spotify Credits view shows the full team). The rule: streaming wins over AZLyrics/drafts, and *the more complete streaming source wins between them*.
+**Spotify ≥ Apple Music on completeness.** Both streaming sources are authoritative, but Apple Music's synced-lyrics pane has repeatedly proved *less complete* than Spotify's (documented on Loser, Not Your Homie, and Superhuman (Interlude); the cases live in those song essays). **When in doubt, cross-check both, and prefer the more complete reading.** Composer credits also diverge (e.g. Good Day's Details composer is blank in Apple but populated in Apple's Lyrics-tab "Written By"; Spotify Credits view shows the full team). The rule: streaming wins over AZLyrics/drafts, and *the more complete streaming source wins between them*.
 
 ### Brain/
 Compressed ontology layer. AI-navigable semantic memory.
@@ -123,28 +123,11 @@ If you cannot ground a Brain claim, do not write it. An empty slot is recoverabl
 
 ## INTERPRETATION TIERS
 
-Every analytical claim belongs to ONE of these tiers.
+Every analytical claim belongs to ONE tier, marked inline per the ladder in §INLINE EPISTEMIC MARKERS:
 
-### Grounded
-Directly supported by lyric, public visual, public interview, theatrical dialogue, verified metadata, or public staging. Cite the source. No hedging required — it is what is there.
-
-Cite inline: `(none — lyric)` / `(none — EP3, [URL])` / `(none — Mirror Sessions, [episode])`.
-
-### Strong Read — `[W]`
-Interpretation supported by **≥2 public anchors**. Structurally coherent, textually defensible, cross-supported — but still interpretive. Hedged: *likely, probably, reads as, suggests, can be read as.*
-
-- `[W]` = working synthesis (Claude/analytical inference across sources)
-- `[P]` = Jen's stated interpretive position
-
-Never present Strong Reads as confirmed authorial intent.
-
-### Resonance
-Framework-level symbolic correspondence. Always attributed to the framework — Jungian, Kabbalistic, Gnostic, Hermetic, Alchemical, Gurdjieffian, Theosophical, Tarot, etc.
-
-**Correct:** "In Jungian terms, Lucius resembles a protector-shadow structure."
-**Incorrect:** "Lucius is canonically Jung's shadow."
-
-Resonance describes correspondence, not proof.
+- **Grounded** `[G]` — directly supported by lyric, public visual, interview, theatrical dialogue, verified metadata, or public staging. Cite it (`(none — lyric)` / `(none — EP3, [URL])` / `(none — Mirror Sessions, [episode])`); no hedge.
+- **Strong Read** `[W]` — interpretation on **≥2 public anchors**, hedged (*likely, reads as, suggests*). `[W]` = Claude's cross-source synthesis; `[P]` = Jen's stated position. Never present a Strong Read as confirmed authorial intent.
+- **Resonance** `[~]` — framework-level correspondence, always attributed to the framework (Jungian, Kabbalistic, Gnostic, Hermetic, Alchemical, etc.). **Correct:** "In Jungian terms, Lucius resembles a protector-shadow structure." **Incorrect:** "Lucius is canonically Jung's shadow." Correspondence, not proof.
 
 ### Canon Type Reference
 | Type | Meaning |
@@ -161,11 +144,9 @@ Resonance describes correspondence, not proof.
 
 ## INLINE EPISTEMIC MARKERS (Brain layer)
 
-- `(no marker)` — directly attributable to a named public source
-- `[W]` — working synthesis across sources
-- `[P]` — Jen's stated personal position
-- `[?]` — uncertain / unverified / flagged for review
-- `(none — lyric)` / `(none — EP[N], [URL])` / `(none — Mirror Sessions)` — grounded citation
+The 5-mark ladder (character-identical in [[GPT]], [[AI Quickstart]], [[GEMINI]], and the Brain Song template):
+
+`[G]` grounded (named public source, cite it) · `[W]` strong read (≥2 public anchors, hedge "reads as") · `[P]` a stated position (Jen's or a committed thesis, attribute it) · `[~]` resonance (framework correspondence, e.g. Jung/Kabbalah/tarot/Gnostic/Hermetic, attribute to the framework, never "Roy meant") · `[?]` unverified lead / genuine leap (flag, never smuggle) · `(no marker)` legacy grounded-citation form, e.g. `(none — lyric)` / `(none — EP3, [URL])` / `(none — Mirror Sessions)`. Never let a `[W]` pass as `[G]`.
 
 ---
 
@@ -310,18 +291,7 @@ These are **operations**, not merely symbols. When analyzing a song, show what t
 
 ## THEME TRACKER VOCABULARY
 
-The full analytical grammar is in `_System/Theme Tracker.md`. Sections:
-
-- **I. Core Dualities** — Source/Reflection, Breath/Structure, Heart/Mind, Hidden/Revealed, Motion/Stasis
-- **II. Transformation** — Nigredo, Albedo, Rubedo, Threshold Encounter, The Abyss, Love as Transformative Force
-- **III. Time/Memory/Recursion** — Time as Butcher, Frozen Time, Memory Geography, Recursion, Orbit/Return, Loop/Circle
-- **IV. Psychological** — Duality, The Mask, The Protector, The Buried Child, Anima/Feminine Principle, Fragmentation, The Speaker Problem
-- **V. Interior/Exterior Systems** — The Circus, The Algorithm, Consumption, Flattened Identity, Collective Sleep, Objective Art
-- **VI. Kabbalistic** — Malkuth/Yesod/Tiferet/Da'at, Tsimtsum, Shattering/Tikkun, Keilim/Vessels
-- **VII. Channels/Transmission** — The Voice, El Roi, The Mouth/Throat, Lunar Relay, Blocked/Hijacked Channels
-- **VIII. Symbolic Imagery** — Moon, Sun/Sunshine, Mirrors, Thread, Labyrinth, Rabbits, Stars
-- **IX. Relational Dynamics** — Witnessing, Protection vs Possession, Intervention, Reconciliation, Homecoming
-- **X. Meta-Structural** — Recursive Performance, The Speaker Problem, Myth Becoming Self-Aware
+The full analytical grammar lives in `_System/Theme Tracker.md` (do not maintain a second copy here). Its 10 sections: I. Core Dualities · II. Transformation · III. Time/Memory/Recursion · IV. Psychological · V. Interior/Exterior Systems · VI. Kabbalistic · VII. Channels/Transmission · VIII. Symbolic Imagery · IX. Relational Dynamics · X. Meta-Structural.
 
 **Always name the active theme explicitly. Identify the triggering line or image. Assign the tier.**
 
@@ -412,7 +382,7 @@ If a claim in the compilation has **no** traceable primary source, it stays an *
 ## ONTOLOGY, VALIDATOR, BACKLINK
 
 - **`_System/Ontology.md`** — controlled vocabulary. Every entity (`CONCEPT-*`, `CHAR-*`, `SONG-*`, `ALBUM-*`) has one canonical ID. New entities added here first, before use anywhere in frontmatter.
-- **`_System/validate.mjs`** — run before every commit. Fails on: unresolved frontmatter IDs; `related:` > 5 items; broken wikilinks. Warns on: no-frontmatter pages; pageless IDs; stale review dates. Must show **0 errors** before committing.
+- **`_System/validate.mjs`** — run before every commit. **Fails (exit 1) on:** a Brain page missing / duplicating / using an unregistered `id`; any `related`/`connections` ref not in Ontology; glued-frontmatter lines (a dropped newline gluing a key onto a value); **any gitignored-pattern file that is git-tracked (privacy-leak guard, check #6 — if it fires, `git rm --cached` before the next autosync)**. **Warns on:** no-frontmatter scaffolds; `related:` outside 3–5; an Essay carrying an `id`; a pageless ID that now has a page; stale review dates; a `stable` Brain page with no Counterarguments section; a stale file-map. **Broken wikilinks are infos, not failures** (Obsidian-lenient resolution). Must show **0 errors** before committing.
 - **`_System/backlink.mjs`** — rebuilds every page's `referenced_by` from the forward graph. Run before commit. `referenced_by` is machine-owned; never hand-edit.
 
 `related:` (curated, ≤5) = navigable graph for the fan site. `referenced_by:` (auto, complete) = full graph for AI traversal.
@@ -435,6 +405,7 @@ Obsidian wikilink format: `[[PageName]]` — not markdown `[text](url)`.
 10. **Cult-mythology drift** — treating the artist as guru / the work as gospel. Keep critical distance.
 11. **Register collapse** — Lucius *is* the moon; Mary *is* Sophia; Roy *believes* X. Use functional/register language.
 12. **Symbol flattening** — naming a symbol without identifying the operation it performs in this specific context.
+13. **Gitignore bypass by move** — relocating a gitignored file into a tracked path (this pushed the privacy-redactions log to GitHub, 2026-07-01; see [[lessons-learned]]). Before ANY move/archive: `git check-ignore <old-path>`; if ignored, the destination must be ignored too, or live in `_Private/`. Sensitive ignore rules stay pattern-based (`**/name*`), never exact paths.
 
 ---
 
@@ -443,11 +414,12 @@ Obsidian wikilink format: `[[PageName]]` — not markdown `[text](url)`.
 1. Read this file.
 2. Read `_System/Boundaries.md` (public/private rules — non-negotiable; more current than the inline §THE SECRET DOCUMENT).
 3. Read `_System/index.md`.
-4. Skim recent `_System/log.md`.
-5. Confirm Jen's current focus.
-6. Conversation instructions are additive; surface conflicts before proceeding.
+4. Read the top ~3 entries of `_System/log.md` (newest first; it is append-only and large, so never read the whole file).
+5. For a song/concept/character task, make `_System/AI Quickstart.md` the first move (per-task fetch recipes); resolve any entity to its exact files via `_System/entity-map.md`; check `_System/Claim Ledger.md` before asserting a contested reading.
+6. Confirm Jen's current focus.
+7. Conversation instructions are additive; surface conflicts before proceeding.
 
-**Finding a specific file (do NOT infer existence from the catalog).** `index.md` is curated, not exhaustive — it won't name every file. To locate something: (a) `grep -rli "term" .` from the vault root — fastest and always current; (b) `_System/file-map.md` — a flat enumeration of every `.md` by folder (regen: `python3 _System/gen-file-map.py`); (c) the registries (interviews → `Master Source List` §11/§2; IDs → `Ontology`). Never conclude a page is missing because it isn't listed in `index.md` — grep or check `file-map.md` first. See `index.md` → "Finding things" for the folder cheat-sheet.
+**Finding a specific file (do NOT infer existence from the catalog).** `index.md` is curated, not exhaustive — it won't name every file. For a known entity, start with `_System/AI Quickstart.md` (fetch recipes) and `_System/entity-map.md` (ID → exact paths). To locate anything else: (a) `grep -rli "term" .` from the vault root — fastest and always current; (b) `_System/file-map.md` — a flat enumeration of every `.md` by folder (regen: `python3 _System/gen-file-map.py`); (c) the registries (interviews → `Master Source List` §11/§2; IDs → `Ontology`). When grepping content, exclude `_System/_archive/` (junk + stale snapshots) and `_System/_legacy/`. Never conclude a page is missing because it isn't listed in `index.md` — grep or check `file-map.md` first. See `index.md` → "Finding things" for the folder cheat-sheet.
 
 ---
 

@@ -55,9 +55,8 @@ Heard in the album's logic — *Happy Face* (pretend you're fine) → *Bad Feeli
 **Resonance / open:** the Urkel recode (`[~]`, pending audio); banana-as-slapstick/decay; Pied Piper / failed catharsis. **Private (non-citable):** a phone *call* that touched the "nonsense" motif stays Secret-Doc — its call-specific decode is not reproduced or used. *(The angle/angel + "nonsense" + mirror framework itself is **public** — grounded at [[The Mouth]]; conflict resolved 2026-06-07.)*
 
 ## Open Questions
-- [ ] Speaker — Lucius inciting, Roy's unleashed id, or the horror of the split *witnessed*? (Likely all three.)
-- [ ] *"Did I do that?"* — intentional Urkel recode (confirm by audio)?
-- [ ] Archival to-do: locate the exact IG post/comment URL for Roy's banana=sterile gloss (statement confirmed public; grounded on firsthand witness).
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/Bananas#Open Questions|Bananas — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 | Node | Relationship |

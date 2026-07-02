@@ -56,3 +56,4 @@ Track 1, *Subject to Flooding* (2018, Atlantic). Writers: [?] Apple Music compos
 - [~] "They know" — systemic forces or something more specific? Forward-compatible with theatrical authority structures but not asserted.
 - [ ] Travis Barker co-write — does his presence affect how we read the song's cultural register (Blink-182 adjacency, mainstream rock affect)?
 - [ ] Does the "long time coming" refrain name the integration itself as the inevitable thing — or something more specifically relational (a confrontation, a return)?
+- `[ ]` Is the protector's emergence-into-visibility here the beginning of the arc, or a mid-point — something that had already been surfacing in pre-2018 work?

@@ -1,7 +1,8 @@
 ---
 type: note
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 07 — smaller leads (one paragraph each) plus the discipline ledger: items the analyst checked and deliberately did NOT claim, recorded so the vetting pass doesn't re-run rejected ones. Plain text, public material only. Read the Context Primer first."

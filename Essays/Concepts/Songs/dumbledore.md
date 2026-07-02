@@ -54,10 +54,7 @@ Reads #3 and #4 — the whole persecution / martyr-mob thesis — stand on **thr
 
 ## Open Questions
 
-- **[?] The "Constantine" fork.** Emperor Constantine (who *institutionalized* Christianity — an odd fit for a *persecuted-martyr* list) vs. **John Constantine** (DC's demon-fighting occultist — fits *"and I'm fighting demons"* perfectly). The latter reads cleanly *if* the word is even right. An interpretive fork **and** a transcription risk at once.
-- **[?] Roy or Lucius?** Roy's sincere wound, or Lucius **mocking** the martyr-complex by turning a crucifixion into a club banger? The song holds both — Roy's pain, Lucius's spectacle — and the **self-undercutting (*"go dumb"*) may be the tell** that the spectacle-frame is operating.
-- **[?] EP structure** — dumbledore's relationship to the MAGIK EP (same EP? separate? single?).
-- **[?] Lyric → stable** — verify Galileo / Joan / Constantine / "Crucified" / "caught thorns" / "eyes wide shut" against Apple Music **and** Spotify; AZLyrics doesn't count.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Singles & EPs/dumbledore#Open Questions|dumbledore — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

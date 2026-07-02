@@ -47,6 +47,8 @@ Plato's Cave · bread-and-circuses / "let them eat cake" · Gnostic awakening (v
 - "The club" = TV / platform-Zoom / society broadly? (zoom imagery → platform isolation.)
 - [~] Satire vs prophecy; the bridge is **interrupted**, not resolved.
 - Pairs with [[Happy Face]] (the mask, [[The Mask]]) — develop the surface/interior tension across both (review color: dark/moody soundscape, "creepy" video, TØP-adjacent).
+- [x] **Who interrupts? — RESOLVED (structural):** the **program** interrupts the kingdom-within awakening — the cut-off *"you're the King—"* / *"we interrupt"* is audible in the verified lyric. The distraction-system reasserts.
+- [x] **Matt Pauling — RESOLVED:** established *33* core writer/producer (sole producer here); not a new vault entity.
 
 ## Counterarguments / Alternate Reads
 - Works as a straight, ironic **party-banger satire** (stay-home/Zoom era) with no metaphysics; the attention-force / kingdom-within layer is `[W]`, not stated. The bridge could be a tonal gear-shift rather than a doctrinal claim.

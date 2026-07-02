@@ -67,3 +67,7 @@ EP3 (visual lore, public): Roy proposes a Song of Love; Lucius overrides, cites 
 - [ ] Who is "the Boss" Lucius reports to? (CHAR-TheBoss)
 - [ ] Why can Lucius not metabolize SOL?
 - [ ] Is the missing exit a description or Lucius's withheld strategy?
+- [ ] Where is [[Essays/Concepts/Songs/Ballerina Boy]]? The song's structural silence about him may be the song's most important feature.
+- [ ] Rachel Kanner on background vocals — recurring voice across the catalogue? Possible sonic register for [[Mary]]?
+- [ ] *"They love it when you lose control"* — is this describing audience, industry, or Lucius himself? Who loves it?
+- [ ] Does the Leo-trial framework apply to WTTC specifically — i.e., is this song the lion ravaging the countryside *before* the cave, with [[Essays/Concepts/Songs/Not Your Homie]] naming the cave as available? (See [[The Labors of Hercules]] Open Questions.)

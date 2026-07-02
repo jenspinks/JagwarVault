@@ -57,8 +57,8 @@ The quarantine re-release gives Roy's stated intent, which grounds the reads bel
 - **Cinema escapism.** *"I wish that life was like a movie / maybe one of the classics"* — a light brush with the catalogue's later spectacle/script obsession: longing for the narrative neatness of film because real life is chaotic (and, per Roy, the song itself was sparked *watching a film*). `[~]`
 
 ## Open Questions
-- **Writer credits `[?]`** — prior ingest lists Matthew Pauling, Roy English; confirm writer vs. producer roles + any unlisted co-writers against the Spotify master (no Shine entry yet in [[Sources/Credits/Subject to Flooding]]).
-- **The 2020 Live-In-Studio single `[?]`** — relationship of the re-release/video to the album cut (arrangement differences, if any).
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Shine#Open Questions|Shine — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 [[Subject to Flooding (album)]] (the flood metaphor named and survived; the *reflection → radiance* closer) · [[Essays/Concepts/Songs/Weirdness|Weirdness]] / [[Essays/Concepts/Songs/Ballerina Boy|Ballerina Boy]] / [[Essays/Concepts/Songs/MAGIK|MAGIK]] (the "shine" vocabulary redirected into the divine-feminine **blessing**) · [[SOL]] (the album-closing solar counterpart, eight years later) · [[Essays/Concepts/Songs/Life Is Good|Life Is Good]] (chosen light in spite of the fire — Shine is its 2018 antecedent) · [[Brain/Concepts/Source vs Reflection]] (*"a song is a mirror"*; the radiance pole) · [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell of a Night Pt. 2]] (the dark, frantic night this dawn follows).

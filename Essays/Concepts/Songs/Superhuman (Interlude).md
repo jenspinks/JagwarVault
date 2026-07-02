@@ -97,11 +97,7 @@ The catalogue increasingly appears to operate not only by **inventing** symbols,
 
 ## Open Questions
 
-- [ ] Why open the album's machine-statement with a *borrowed* 1940 voice? (Relay practice — cf. [[Essays/Concepts/Songs/Dream - Dream]]'s Mercer interpolation on the same album.)
-- [ ] How does the interlude function against the full [[Superhuman]] (track 6) that follows — setup, ironic frame, or thesis?
-- [ ] Is the "clown before the Circus" parallel structural (Chaplin → Lucius) or only resonant? Currently [W].
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Superhuman (Interlude)#Open Questions|Superhuman (Interlude) — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

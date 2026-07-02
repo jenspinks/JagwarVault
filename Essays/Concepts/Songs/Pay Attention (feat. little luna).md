@@ -69,13 +69,8 @@ Attention compels no one; the listener is invited and **assents**. The danger is
 - [~] **Life Force → money → attention: one harvested-energy economy** — Roy's own **"I'm 33" board** transcribes the Bailey doctrine that *"Money"* is the *"Object representing externalized 'Life Force'"* — *"On the physical plane it is energy,"* *"On the mental plane it is intelligence and knowledge,"* energy that *"can be transmuted by appropriate alchemy into money,"* itself *"the token of the capacity or energy of someone"* (cf. the sun as *"Externalized 'Life Force'"*). That the board *transcribes* this is `[G]`/`[W]` — Roy demonstrably **engages** the externalized-Life-Force/money frame (close Bailey paraphrase, in his own hand: see [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]]). *Pay Attention* runs the same ledger one step further: it makes **attention** the currency — *"Everybody's gotta pay me / You gotta pay Attention"* — so the song's harvested resource (awareness) sits on the board's substrate (Life Force → money → **attention**), all one transmuted energy collected by a deity. The **`[~]`** is the song↔doctrine correspondence; the song never cites Bailey. **Sharpening it:** the board also prompts, in Roy's hand, *"How to anthropomorphize attention? → Marduk"* — documented evidence (`[W]`) that personifying Attention-as-deity was an explicit working move, not only the reader's frame. The transaction register also links to [[Essays/Concepts/Songs/Online]] (the grid that mediates the spend). *(Engagement grounded on the public board; the single-economy reading is framework correspondence, not stated authorial intent.)*
 
 ## Open Questions
-- [x] **"more than mine" parse — RESOLVED:** the verified line is **"more than you Mind"** (not "mine") — a mind/consciousness statement; no possessive ambiguity. Strengthens §2.
-- [x] **Composer / "who is Matthew Pauling" — RESOLVED:** Roy English + Matt Pauling, **both writer & producer** ([[Sources/Credits/33]]); Pauling is the established *33* core collaborator, not a new entity.
-- [x] **Vocal assignment — RESOLVED (Jen, 2026-06-02):** **little luna = guide/introducer/chorus; Roy = Attention.** §5 now leans on this as grounded. *(Open sub-detail: exact line-by-line split of the ad-libs — "(Tell me about It)," "(Who Who?)" — not load-bearing.)*
-- [ ] Was the attention-economy critique deliberate here, or read back from later work? (retrospective-coherence guard.)
-- [ ] *"behind the Empires that rise"* — media, political, or civilizational empires (or all)?
-- [~] **Cover/album art** (per screenshot): a fragmented/doubled classical bust on red — head imagery resonant with the twin/fracture motif. Confirm artwork + provenance before use.
-- [~] The final lone **"MaMa"** — unparsed; flag, don't build.
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/Pay Attention (feat. little luna)#Open Questions|Pay Attention (feat. little luna) — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 | Song / Source | Relationship |

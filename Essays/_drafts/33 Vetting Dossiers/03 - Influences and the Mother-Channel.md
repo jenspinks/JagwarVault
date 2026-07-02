@@ -1,7 +1,8 @@
 ---
 type: note
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 citable: false
 created: 2026-06-15
 about: "Vetting dossier 03 (large chunk) — influences & the mother-channel: Joni 'Down to You' (D2), the Dylan field report (D10), the mother-as-first-medium synthesis (D11, public anchors only), and the smaller leads + discipline ledger (D12). Plain text, public material only; board-embedded DMs withheld. Read the Context Primer first."

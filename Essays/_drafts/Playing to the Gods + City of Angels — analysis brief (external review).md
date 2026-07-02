@@ -1,7 +1,8 @@
 ---
 type: note
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 ---
 # "Playing to the Gods → City of Angels" — Analysis Brief (for external review)
 

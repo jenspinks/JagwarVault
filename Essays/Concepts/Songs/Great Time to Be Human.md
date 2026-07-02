@@ -65,10 +65,13 @@ The relentless positivity is Lucius-mode — but the song is too observant, too 
 **Resonance / open:** the Demiurgic-typo (Gnostic); "follow your bliss" = Campbell soured; "Shanghai Summertime" = *shanghaied* (coercion); the album-wide nursery-rhyme substrate; Josh Dun's drums as grotesque-parade percussion `[~/?]`.
 
 ## Open Questions
-- [ ] Boy/girl — pure Everyman, or specific (Cain/Abel + Oedipal; fountain-of-youth / Magdalene / institutionalized-woman)?
-- [ ] "They" / the bloodsuckers — the industry, the "new kings," or the broader human pattern? (lean broad)
-- [ ] Is the Chemist a failed alchemist, a scientist, a Demiurge, or a producer — maker-without-wisdom in all those masks at once?
-- [ ] Does "Goodbye" mark a real exit or prove there is none?
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/Great Time to Be Human#Open Questions|Great Time to Be Human — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
+
+## Artifacts
+
+**Thought Forms** · `THOUGHT FORMS` — *'Man anthropomorphises his gods'* — literalized by this song's dog→god line. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg" width="220"></a>
 
 ## Connections
 | Node | Relationship |
@@ -80,4 +83,4 @@ The relentless positivity is Lucius-mode — but the song is too observant, too 
 | [[Sir Lucius]] | Stages Roy's lament as a children's spectacle. |
 
 ## Notes
-Reviewer-AI round (2026-06-07) contributed the communion-vs-spectacle distinction, the Demiurgic-typo and empty-mirror reads, and the ad-libs-as-spectacle-buttons; facts (placement, credits, EP7, billing) verified against the vault. *"Another song about ME"* in EP7 belongs to [[#1 Champion (la Conquistadora)]], not this track — Lucius merely yells the dog/god line here.
+Reviewer-AI round (2026-06-07) contributed the communion-vs-spectacle distinction, the Demiurgic-typo and empty-mirror reads, and the ad-libs-as-spectacle-buttons; facts (placement, credits, EP7, billing) verified against the vault. *"Another song about ME"* in EP7 belongs to [[No. 1 Champion (la Conquistadora)]], not this track — Lucius merely yells the dog/god line here.

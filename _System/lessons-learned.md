@@ -5,6 +5,18 @@ rule — so it is not repeated. Newest first. (CLAUDE.md §16.)
 
 ---
 
+## 2026-07-01 — Gitignore bypass by move: excluded privacy files reached GitHub
+
+**What happened.** `.gitignore` excluded the Vault Review Context export by exact path (`_System/Vault Review Context.md`, the split folder, and the redactions log, which aggregates private-referencing text). During a later cleanup the whole set was **moved into `_System/_archive/`**, where the path-exact rules no longer matched. Obsidian Git's autosync then committed and pushed all ~3 MB to the GitHub mirror (first in `b37c4a3`), including the redactions log the gitignore said must never be committed. Nobody force-added anything; a plain `mv` plus autosync was enough. Found by the 2026-07-01 efficiency audit; fixed same day (copies deleted, redactions log quarantined to `_Private/`, patterns made path-independent).
+
+**Rule.**
+1. Ignore rules for sensitive or generated-sensitive material must be **path-independent patterns** (`**/name*`), never exact paths. An exact path protects a location; a pattern protects the file.
+2. **Before moving or archiving any file, check `git check-ignore <old-path>`.** If it was ignored, the destination must be ignored too (or stay inside `_Private/`). A gitignored file never moves into a tracked path.
+3. The mechanical backstop is `validate.mjs` check #6: it ERRORS on any tracked file that matches `.gitignore` (`git ls-files -ci --exclude-standard`). If it fires, `git rm --cached` the file **before the next autosync**.
+4. Remember the repo is the AI-share mirror: anything committed is visible to every third-party agent granted repo access, even after a later delete (history retains it).
+
+---
+
 ## 2026-06-15 — The "Life of the Party" contamination trap (public lyric vs. quarantined track)
 
 **What happened.** An external review chat attributed *"Truth is on the mountaintop where man can pray to lightning / Youth is not a fountain, it's a hand grenade in hiding"* to **"Life of the Party"** — an unreleased, **Secret-Document-quarantined** track — and analyzed it as grounded `[G]` canon. The line is actually **Good Time (1:08)**, Verse 2 (Spotify-verified, public). The error is a name/lyric collision: Good Time's Verse 1 contains the literal lyric *"Life of the party,"* and the quarantined track is *titled* "Life of the Party." An AI conflates the phrase with the title, then misattributes Good Time's lyrics to the quarantined song and treats it as analyzable. (Earlier the same session I nearly mis-cleared a "Life of the party" hit while building the Vault Review Context export — it was Good Time's public lyric, correctly placed, but the near-miss is the point.)

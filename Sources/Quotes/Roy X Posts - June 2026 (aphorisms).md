@@ -2,18 +2,25 @@
 type: quote
 citable: true
 status: stable
-verified_against: ["Screenshots of x.com/JagwarTwin profile + posts, Apr 11 – Jun 7 2026 (Jen, 2026-06-09)", "Screenshots of x.com/JagwarTwin profile + posts, Nov 1–15 2025 (Jen, 2026-06-08)", "Screenshots of x.com/JagwarTwin profile + posts, Oct 18–31 2025 (Jen, 2026-06-08)"]
+verified_against: ["Screenshots of x.com/JagwarTwin profile + posts, Apr 11 – Jun 7 2026 (Jen, 2026-06-09)", "Screenshots of x.com/JagwarTwin profile + posts, Nov 1–15 2025 (Jen, 2026-06-08)", "Screenshots of x.com/JagwarTwin profile + posts, Oct 18–31 2025 (Jen, 2026-06-08)", "Socials-mirror Circle-bot embeds (YouTube Shorts + Instagram captions), 2026-06-28 → 2026-07-01 (crawled 2026-07-01)"]
 ingested: 2026-06-09
 ingest_source: "Public X/Twitter @JagwarTwin. Apr–Jun 2026 + Oct–Nov 2025 = Jen verified screenshots. Oct 17 2025 → Jun 13 2025 = text-capture research-doc (logged-in timeline scrape, paraphrased), folded 2026-06-09."
 ---
 # Roy X Posts — Spring 2026 (Apr–Jun, @JagwarTwin) (Source)
 
-Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT account; joined Dec 2008, ~30.6K followers). **No interpretation here** — analysis lives in Brain/ and Essays/. Roy-voice on the main account (not signed Sir Lucius unless noted). *(Filename says "June"; this file now covers the full Apr–Jun 2026 run.)*
+Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT account; joined Dec 2008, ~30.6K followers). **No interpretation here** — analysis lives in Brain/ and Essays/. Roy-voice on the main account (not signed Sir Lucius unless noted). *(Filename says "June"; this file now covers the full Apr–Jun 2026 run.)* *(2026-07-01: also logs the late-June–July cross-platform **video-caption aphorisms** pulled from the [[Sources/Artifacts/Data/JT Socials Feed (Discord Circle-bot mirror) 2026-06-27|socials mirror]] — tagged **YT Short / IG, not X-sourced** — in the block directly below.)*
 
 ## Bio (current)
 > "🐆 ☉ **There's two sides to every story** ☉ 🛶 🥥" *(emojis approximate)* · link: keychain.club/jagwartwin
 
 ## Posts (verbatim, newest → oldest) [G]
+
+**Late June – July 2026 — video-caption aphorisms** *(added 2026-07-01 from the [[Sources/Artifacts/Data/JT Socials Feed (Discord Circle-bot mirror) 2026-06-27|socials mirror]] crawl; **YouTube Shorts + Instagram captions, NOT X** — platform tagged per line; verbatim from the Circle-bot embeds)*
+- **[YT 06-30 / IG 07-01]** *"you just love me for my lore"* (YT Short `hrPUw3FCGF8` · IG `/p/DaOGyP1hOQu/`) → **wry / meta on the ARG-lore fandom** — the 2026 mastery-irony register (cf. *"Put it in the lore cannon"* [05-11] + [[Brain/Roy Voice/June 2026 Feed — Fluency in Opposites (translation, slay-the-slayer)|the June-2026 mastery-phase feed]]).
+- **[YT 06-29 / IG 06-30]** *"You don't make it out alive"* (YT Short `6p1cKrL-Tgg` · IG `/p/DaLcy6avXNn/`) → **mortality register** — coexistence of death-in-life (cf. *"Life is an act of death"* [06-26]); the false-immortality counter ([[City of Angels]] *"never gonna die"*; [[Moths to the Flame]]).
+- **[YT 06-28 / IG 06-29]** *"Something ancient in me is afraid of being seen. - El Roy"* (YT Short `UNvixK_Cqlg` · IG `/p/DaI7tXdJTTk/`) → **El Roy-signed**; the seen/unseen / being-watched axis ([[Witnessing vs Surveillance]] / [[The Watchers]]; [[Weirdness]] *"face out of sight"*); rhymes with *"If you saw me you would love me. But… i can't see myself"* [05-11] + *"I've always known that I could see"* [2025-06-15].
+- *(Also 06-28, non-aphorism: IG `/p/DaGGaJdlLg1/` — merch, *"'what a great time to be human' Puff Tee available now"*; echoes [[Great Time to Be Human]], logged in the socials mirror only.)*
+
 **June** *(Jun 9–27 added 2026-06-27 from Jen screenshots; verbatim)*
 - **[~06-27]** *"I need to become bilingual."* → **language / translation as the integrative move** — the two tongues = spectacle (**בבל**) and heart (**לבב**), the same letters reversed; cross [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]] §Beth/house + [[Roy on the Heart-Mind Split]]. *(Freshest post — may post-date the 06-27 Discord-mirror pull.)*
 - **[~06-26]** *"welcome to the circus (live underground) out now"* (+ video) → [[Welcome to the Circus]] / [[Sources/Quotes/JT IG Reel - welcome to the circus (Live Underground) 2026-06-26]].
@@ -25,7 +32,7 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **[06-16]** *"Jagwar Twins biggest merch drop ever"* (+ video, shop.jagwartwin.com) → Chaos Club / mask merch.
 - **[06-16]** *"Creativity is a curse if not contained. A highly creative individual is a channel for chaos. If you don't have discipline in proportion to your chaos it will kill you."* → **chaos must be *contained* by discipline** = the board's *"Right hemisphere = chaos/creativity/feminine (−) / Left = order/reason/masculine (+)"* polarity ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] / [[The Pattern]]). ⚠ Architectural vocabulary (**contained / channel / proportion**) → the container/vessel thread (keilim).
 - **[06-11]** *"bounce live underground tomorrow"* (+ video) → [[Bounce]] live / [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]].
-- **[06-10]** *"What a goose you are."* → `[~]` **Mother Goose / golden-goose** (NOT noise): the album's **nursery-rhyme method** (Bhasker's "study nursery rhymes"; *"Mary, Mary, so contrary"* in [[Brain/Songs/Lucius Lullaby (2026)/#1 Champion (la Conquistadora)|#1 Champion]]) **+ the golden goose → Golden Egg** (the HoM Sound.xyz Golden-Egg unlock mechanic, [[Sources/Artifacts/JT - The Song of the Sun & the Moon (33 Demo, Sound.xyz NFT) 2026-06-26]]) **+ Joni's "golden egg tossed by the company"** (artist-as-exploited; [[Sources/Lyrics/Soul Is A Star]]). Surface = colloquial "silly goose"; the *register* is documented. *(Corrects an over-hasty "casual reply, don't over-read" call — Jen.)*
+- **[06-10]** *"What a goose you are."* → `[~]` **Mother Goose / golden-goose** (NOT noise): the album's **nursery-rhyme method** (Bhasker's "study nursery rhymes"; *"Mary, Mary, so contrary"* in [[Brain/Songs/Lucius Lullaby (2026)/No. 1 Champion (la Conquistadora)|#1 Champion]]) **+ the golden goose → Golden Egg** (the HoM Sound.xyz Golden-Egg unlock mechanic, [[Sources/Artifacts/JT - The Song of the Sun & the Moon (33 Demo, Sound.xyz NFT) 2026-06-26]]) **+ Joni's "golden egg tossed by the company"** (artist-as-exploited; [[Sources/Lyrics/Soul Is A Star]]). Surface = colloquial "silly goose"; the *register* is documented. *(Corrects an over-hasty "casual reply, don't over-read" call — Jen.)*
 - **[06-09]** *"Love is the highest paying work there is."* → **love = the central work** (the heart/Tiphareth; cf. **[06-04]** "Love requires tremendous courage").
 - **[06-07]** *"To create something beautiful you need to entertain the thread of impossibility."* → [[The Thread]].
 - **[06-06]** *"The truth is a spectrum but a lie is a lie."* → [[Sir Lucius]] (the ethic under the deceptive-truth doctrine).

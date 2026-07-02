@@ -30,7 +30,7 @@ related: [CHAR-SirLucius, CHAR-Roy, SONG-LuciusLullaby, SONG-SOL, CONCEPT-TheCir
 | 5 | [[Bad Feeling (Oompa Loompa)]] | 2:13 |
 | 6 | [[Moths to the Flame]] | 1:31 |
 | 7 | [[Bananas]] | 2:22 |
-| 8 | [[#1 Champion (la Conquistadora)]] | 3:33 |
+| 8 | [[No. 1 Champion (la Conquistadora)]] | 3:33 |
 | 9 | [[Playing to the Gods]] | 1:05 |
 | 10 | [[City of Angels]] | 2:55 |
 | 11 | [[Essays/Concepts/Songs/Not Your Homie]] | 2:47 |
@@ -60,7 +60,7 @@ These are observations about the album-as-object, independent of lyrical or inte
 
 **I — The overture and the bargain (1–2).** The album opens by laying the keystone [[The Circle|Circle]] doctrine's *name* over the lullaby's *content*: [[The Circle (Lucius Version)]]'s only words — *"It's a beautiful life… I'm dreaming"* — are the refrain of [[Brain/Songs/Lucius Lullaby|Lucius Lullaby]], not the 2022 Circle's. The title track then names the floor in plain first person (rock-bottom at 35) and the bargain that pulls the speaker back from the edge — *"you gotta serve somebody."* The engine of the whole record is set here: **a life saved by being put *under* rather than woken.** Trap and mercy at once.
 
-**II — The Circus operating (3–12).** The longest stretch, all nigredo — Lucius's world running unopposed as a *system*: the toxic-positivity civilization-anthem ([[Great Time to Be Human]]), the Circus thesis ([[Brain/Songs/Welcome to the Circus|Welcome to the Circus]]), the candy-factory alarm ([[Bad Feeling (Oompa Loompa)]]), the doctrine→id-eruption seam ([[Moths to the Flame]] → [[Bananas]]), the false-immortality seam ([[Playing to the Gods]] → [[City of Angels]]), the bargain enacted ([[Essays/Concepts/Songs/Not Your Homie|Not Your Homie]]), kinetic evasion ([[Bounce]]). The one interruption is track 8, [[#1 Champion (la Conquistadora)]] — the boasting ego meets the faceless feminine ([[Mary]]) and is unseated. **This is the album's first crack** — threshold-state *approaching*, not yet crossing.
+**II — The Circus operating (3–12).** The longest stretch, all nigredo — Lucius's world running unopposed as a *system*: the toxic-positivity civilization-anthem ([[Great Time to Be Human]]), the Circus thesis ([[Brain/Songs/Welcome to the Circus|Welcome to the Circus]]), the candy-factory alarm ([[Bad Feeling (Oompa Loompa)]]), the doctrine→id-eruption seam ([[Moths to the Flame]] → [[Bananas]]), the false-immortality seam ([[Playing to the Gods]] → [[City of Angels]]), the bargain enacted ([[Essays/Concepts/Songs/Not Your Homie|Not Your Homie]]), kinetic evasion ([[Bounce]]). The one interruption is track 8, [[No. 1 Champion (la Conquistadora)]] — the boasting ego meets the faceless feminine ([[Mary]]) and is unseated. **This is the album's first crack** — threshold-state *approaching*, not yet crossing.
 
 **III — The turn (13, Weirdness): the first successful internalization.** The only albedo. The whole change is **one pronoun**: the angel-voice's *"**Your** weirdness is the sunshine"* becomes *"all **my** weirdness is **my** sunshine."* Integration happens by **reclaiming the shadow's distorted light as one's own**, not by defeating him. If #1 Champion is the first *crack*, Weirdness is the first *successful internalization* — the threshold actually crossed.
 

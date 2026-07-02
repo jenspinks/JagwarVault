@@ -72,10 +72,8 @@ The distracted crowd moves *"in circles"* like headless chickens. Against the ca
 - **Pandemic isolation** — *"Zoom everyday," "don't go outside," "stay in," "lock up your door"* read as 2020–22 lockdown imagery; the "club" as the Zoom-era simulated gathering ("zoom" doubles as zoomed-out/distracted).
 
 ## Open Questions
-- [x] **Who interrupts? — RESOLVED (structural):** the **program** interrupts the kingdom-within awakening — the cut-off *"you're the King—"* / *"we interrupt"* is audible in the verified lyric. The distraction-system reasserts.
-- [ ] Does "the club" point most at TV culture, platform/Zoom culture, or society broadly? (Zoom imagery tilts toward mediated/platform isolation.)
-- [~] Satire vs. prophecy — and does the bridge *resolve* the satire or merely get interrupted by it? (The interrupt suggests the latter.)
-- [x] **Matt Pauling — RESOLVED:** established *33* core writer/producer (sole producer here); not a new vault entity.
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/I Like to Party#Open Questions|I Like to Party — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 | Song / Source | Relationship |

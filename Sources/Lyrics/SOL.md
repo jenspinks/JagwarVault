@@ -21,7 +21,7 @@ This line is what Roy **performs in *The Interview* EP2** (the album track itsel
 
 > [!warning] De-attributed from SOL (2026-06-27)
 > A two-part "poem guide" was filed here from **Jen's Drive doc 1** (the doc grouped it under SOL), but its grounded primary sources are **two separate @jagwartwin posts, neither confirmed as SOL** — so it has been moved out:
-> - *"I saw her divinity, but not the one who held it, or where it led. / I followed anyway, **white rose in my left hand, and stepped off the ledge**." — El Roy* = the verbatim caption of the **#1 Champion (la conquistadora) visualizer reel** → [[Sources/Quotes/Roy IG Reel - 1 Champion Visualizer (El Roy caption)]]. Analysis: [[Essays/Concepts/Songs/#1 Champion (la Conquistadora)]].
+> - *"I saw her divinity, but not the one who held it, or where it led. / I followed anyway, **white rose in my left hand, and stepped off the ledge**." — El Roy* = the verbatim caption of the **#1 Champion (la conquistadora) visualizer reel** → [[Sources/Quotes/Roy IG Reel - 1 Champion Visualizer (El Roy caption)]]. Analysis: [[Essays/Concepts/Songs/No. 1 Champion (la Conquistadora)]].
 > - *"I reached for my Father's hand / He said you're half the man that you know"* = the **"Half the Man" IG post** (2026-04-02; image = the Fool/jester ruff; **no confirmed song attribution**) → [[Sources/Quotes/Roy IG Post - Half the Man (Father)]].
 >
 > Only a **thematic** thread links them to SOL (finding your way back / proceeding on trust). The poem is **not** a SOL lyric or grounded SOL source.

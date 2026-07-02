@@ -45,10 +45,7 @@ Standalone single, released **2025-08-29**, **kept off [[Lucius Lullaby (album)]
 
 ## Open Questions
 
-- [?] **The pre-fall gap.** If LOOP is the moment of clarity, what happens between this and the Lucius-dominated [[Not Your Homie]]? Working arc: naming the loop isn't enough to break it, and the unmet desire for escape becomes vulnerable to Lucius's "mastery from within" offer.
-- [?] **Chain packaging.** Were LOOP / Not Your Homie / Welcome to the Circus released as an EP or strictly as separate singles? Confirm the official relationship.
-- [?] **"My mind must serve my heart" — URL pin (housekeeping).** Grounded as published @jagwartwin lore; pin the exact post date/URL for the citation locator.
-- [?] **Lyric → stable.** AZLyrics-sourced; verify *"break the simulation," "carousel,"* the outro, and the intro repetition against Apple Music **and** Spotify.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Singles & EPs/LOOP#Open Questions|LOOP — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

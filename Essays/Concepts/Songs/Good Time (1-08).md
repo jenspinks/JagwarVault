@@ -60,9 +60,12 @@ The dream ends in a crash — *"white semi truck with a lightning bolt comes, bo
 
 ## Open Questions
 
-- [x] ~~Lyric → stable~~ **DONE (Spotify-verified, 2026-06-10).** The Drive text matched; *"rabbit in a road rage" / "I don't know what I'm looking for"* confirmed verbatim (the dream encoded in the lyric stands). Credits added (Josh Dun / Elijah Noll / Lucky West co-write).
-- **[?] Vocal/voice frame.** Is the manipulator-guide verse (*"stick with me, I'll take you far"*) marked as Lucius's voice in any official text, or is that the read? (Read #2 is `[W]`, grounded on the dream + the face-paint video, not a credited vocal split.)
-- **[?] Dream date.** The dream precedes the 2023-09-29 release; the TikTok telling is ~Oct 2023. Exact dream date unpinned.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Singles & EPs/Good Time (1-08)#Open Questions|Good Time (1-08) — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
+
+## Artifacts
+
+**2014 Self Portrait** · `DON'T BE A BLACK HOLE` — a 2014 self-portrait already wearing the forehead cross of this song's Lucius face-paint — the pre-Lucius self-image. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x42aca9f05cbbdc9c3bf764cabf65b56bca8959ef77dee0d1ad7a55012d2305d7..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x42aca9f05cbbdc9c3bf764cabf65b56bca8959ef77dee0d1ad7a55012d2305d7..jpg" width="220"></a>
 
 ## Connections
 

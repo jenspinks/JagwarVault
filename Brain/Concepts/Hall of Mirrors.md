@@ -17,7 +17,7 @@ review_date: 2026-12-29
 
 Type: Concept / **Project hub** — the web3 ARG that is the JT "uploaded-consciousness" archive.
 
-> **What this hub does:** documents the **hall itself** — what it is, its history, creation, and solving — and **indexes its artifacts.** Each artifact's *full analysis* lives in **[[Brain/Media/|Brain/Media]]** (tagged `source: HoM`, `artifact: true`), **not here** — this page only points to them. For the live forensic code-solving state see [[Sources/Artifacts/HoM - Session Handoff & Index|the Session Handoff]]; for the complete artifact list see the [[Sources/Artifacts/Hall of Mirrors - Artifact Gallery (catalog) 2026-06-25|Artifact Gallery catalog]].
+> **What this hub does:** documents the **hall itself** — what it is, its history, creation, and solving — and **indexes its artifacts.** Each artifact's *full analysis* lives in **[[Brain/Media/|Brain/Media]]** (tagged `source: HoM`, `artifact: true`), **not here** — this page only points to them. For the live forensic code-solving state see [[_System/HoM - Session Handoff & Index|the Session Handoff]]; for the complete artifact list see the [[Sources/Artifacts/Hall of Mirrors - Artifact Gallery (catalog) 2026-06-25|Artifact Gallery catalog]].
 
 ## What it is `[G]`
 A web3 ARG at **mirrors.jagwartwin.com**, framed as a universe built from Jagwar Twin's **uploaded consciousness** — artifacts "lost in the code," discoverable by fans through hidden codes seeded in campaign drops, social posts, and Discord threads. The public **Manifesto** frames it as a response to the internet replacing *immersion with volume, purpose with reach, feeling with algorithm*, and asks what influence is actually meant to guide people toward. So the artifacts are not collectibles — they are **fragments of Roy's symbolic operating system**, turned into a maze. *(Narrative to expand from the Manifesto/FAQ + handoff.)*
@@ -28,7 +28,7 @@ A web3 ARG at **mirrors.jagwartwin.com**, framed as a universe built from Jagwar
 
 ## The solving `[G]` *(skeleton — to expand)*
 - **Community solve** via Discord (`#hall-of-mirrors`, ~4,603 messages; core solvers Aite_Lyds, ibby, Toyah, brittaney, cthdrl.josh, + Roy).
-- **Archive state:** 196 Merkle rooms mapped; codes are effectively a *dictionary of Roy's esoteric vocabulary*; code-guessing is "largely but not provably exhausted." The live method is the **open-leaf reading bench** (read each remaining artwork forensically; test every visible string against all open leaves). *(Full state: [[Sources/Artifacts/HoM - Session Handoff & Index|Session Handoff]].)*
+- **Archive state:** 196 Merkle rooms mapped; codes are effectively a *dictionary of Roy's esoteric vocabulary*; code-guessing is "largely but not provably exhausted." The live method is the **open-leaf reading bench** (read each remaining artwork forensically; test every visible string against all open leaves). *(Full state: [[_System/HoM - Session Handoff & Index|Session Handoff]].)*
 
 ## Decoder culture — participation and its shadow `[~]/[W]`
 *(Folded 2026-06-30 from the promotion packet's "Decoder Culture" fragment — kept here rather than minted as a standalone concept.)*
@@ -53,7 +53,7 @@ The HoM is the **externalized memory palace** of the project: it takes private/a
 
 ## Connections
 - [[The Upload]] / [[The Pattern]] — the cosmology the maze externalizes. · [[Source vs Reflection]] / [[The Mirror]] — the "hall of mirrors" namesake (self seen as other). · [[33 (album)]] — the era it grew out of.
-- **Method/forensics (Sources):** [[Sources/Artifacts/HoM - Session Handoff & Index|Session Handoff]] · [[Sources/Artifacts/HoM - Open-leaf artwork reading bench (34 rooms, forensic) 2026-06-29|Open-leaf bench]] · [[Sources/Artifacts/Hall of Mirrors - Artifact Gallery (catalog) 2026-06-25|Gallery catalog]] · [[Sources/Artifacts/HoM - Finds Ledger (all cracks + status)|Finds Ledger]].
+- **Method/forensics (Sources):** [[_System/HoM - Session Handoff & Index|Session Handoff]] · [[Sources/Artifacts/HoM - Open-leaf artwork reading bench (34 rooms, forensic) 2026-06-29|Open-leaf bench]] · [[Sources/Artifacts/Hall of Mirrors - Artifact Gallery (catalog) 2026-06-25|Gallery catalog]] · [[_System/HoM - Finds Ledger (all cracks + status)|Finds Ledger]].
 
 ## Counterarguments / Alternate Reads
 - **"Uploaded consciousness" is the project's *framing*, not a literal claim** — the artifacts are real drawings/objects/posts curated into a maze; treat the cosmology as Roy's deliberate art-frame, not evidence the vault should assert as metaphysics. `[P]`

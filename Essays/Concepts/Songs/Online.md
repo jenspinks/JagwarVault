@@ -90,14 +90,7 @@ Identity dissolved into automated code — but with no reformation following. Th
 
 ## Open Questions
 
-- [x] **Lock the two public posts** — DONE 2026-05-30: both screenshot-verified and filed ([[Sources/Quotes/Roy X Post - Everyone's a Guru (Aquarium)]], [[Sources/Quotes/Sir Lucius IG Post - One Hit Wonder]]); §4 anchor + §5 now Grounded. *(IG caption top still truncated — pull the opening lines when convenient.)*
-- [ ] Confirm **track position** on *33* against [[33 (album)]].
-- [ ] Confirm the **"Ones to Watch" (2022)** interview quotes — Roy reportedly calling *Online* "fun and ridiculous" (bears on the §2 guard) and the "spider's food" framing — before citing.
-- [~] **Projection risk:** the "*33* = recursive machine-awareness pivot" framing is a strong `[W]`, but the hyper-clean fit with the later mythology may be the vault smoothing a loose pop artifact into a neat arc. Held open — the brightness may be the seduction (§2), or it may just be a fun song.
-- [~] *"Come in two"* on *33* (the album where the Roy/Lucius split forms) — the doubling motif arriving through a joke, its most deniable form. Note it; don't hang a thesis on it.
-- [ ] Writer credits for *Online* (Spotify Credits) — still `[?]` ([[Sources/Lyrics/Online]]).
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/Online#Open Questions|Online — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

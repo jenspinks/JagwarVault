@@ -62,3 +62,5 @@ Voiced: [[Sir Lucius]] (primary), to [[Roy]]. V1 = Roy's rock-bottom (the suicid
 - [?] **Mary:** the lyric has none (see Voicing correction). Does she appear *visually* in the video? — confirm with Jen.
 - [ ] Does Roy recognize Lucius as ally here, or only later?
 - [~] Is *"I'm dreaming"* / *"life is but a dream"* the album-wide **sedation** motif — the inverse of the Circle doctrine of *waking/remembering*?
+- [ ] How does this song function in live performance? Does the theatrical staging reveal anything the recording doesn't?
+- [ ] What is the relationship between the lullaby form and the broader sleep/wake motif across the catalogue?

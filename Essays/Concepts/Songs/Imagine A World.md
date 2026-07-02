@@ -72,11 +72,13 @@ The *identification* of stage 10 with **Malkhut / Assiah** stays a correspondenc
 - **[~] Iron Butterfly / the garbled sacred** — *"In-A-Gadda-Da-Vida"* (1968) = a famous slurring of *"In the Garden of Eden"*; the sacred surviving as a degraded pop echo until reclaimed inwardly. Resonance only.
 
 ## Open Questions
-- [ ] Is OZ pure whimsy, perennialist inclusivity, or a pointed **fraud-god wink** at the album's attention-force? (Album context favors the wink.)
-- [ ] Is imagination here psychology, spirituality, or creativity — or all three?
-- [ ] "Choose your parents" — perspective exercise only, or brushing reincarnation / soul-contract ideas?
-- [ ] How literally does *"Conceive it"* intend imagination-as-creation vs. motivation?
-- [x] **Credits — RESOLVED:** Roy English + Matt Pauling write & produce.
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/Imagine A World#Open Questions|Imagine A World — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
+
+## Artifacts
+
+**Thought Forms** · `THOUGHT FORMS` — *'It is Man that anthropomorphises his gods'* restates this song's *'Is there a God you designed?'*. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg" width="220"></a>
 
 ## Connections
 | Song / Source | Relationship |

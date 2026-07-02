@@ -48,9 +48,8 @@ related: [SONG-HellOfANightPt2TheHallelujahStickup, SONG-GoodDay, ALBUM-SubjectT
 - **Alchemical heating — the fire under the crucible.** Track 10 reads as the **turning-up of the heat**: the unstable acceleration that forces the premature, explosive *rubedo* of Pt. 2. (The album's wound-environment is its nigredo; this is the flame applied to it — [[Nigredo]].)
 
 ## Open Questions
-- **The addressee `[?]`** — who is *"you"* (*"I don't really know what you're tryna do," "promise you'll bail me out"*)? A romantic partner, the audience pulled into complicity, or an internal interlocutor? Hold open — **do not** force it into a 2018 "shadow-self/Lucius" reading.
-- **The seam `[?]`** — does Track 10 bleed seamlessly into Pt. 2, or is it a hard cut? (Gates the "acceleration → crash-through" architecture; needs an audio check.)
-- **Position `[?]`** — Track 10 of 13 / Pt. 2 at 11 per the Brain stub; confirm the full album sequence against MusicBrainz.
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Hell Of A Night#Open Questions|Hell Of A Night — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell of a Night Pt. 2]] (the inevitable crash-through — Pt. 1 accelerates, Pt. 2 seizes; *hallelujah* + *stickup*) · [[Essays/Concepts/Songs/Good Day|Good Day]] (the same major-key brightness over instability — Protector in success-mode) · [[The Protector]] (the debut's adaptive-defense architecture; momentum-as-armor) · [[Subject to Flooding (album)]] (the album doctrine — outrun the flood) · [[Sir Lucius]] (**retrospective / architectural only** — the consequence-blind energy the persona later refines; *not* 2018 intent).

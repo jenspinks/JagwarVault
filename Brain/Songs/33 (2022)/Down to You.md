@@ -49,6 +49,7 @@ The shared title with **Joni Mitchell's "Down To You"** (*Court and Spark*, 1974
 - "You are the one": responsibility / divinity / identity weighting? (descent + crown tilt toward divinity-realized.)
 - Descending light = revelation / inspiration / emanation? (bidirectionality → emanation.)
 - Deliberateness of the fame/money callback to tracks 3–4 (intent unconfirmed; retrospective-coherence guard).
+- [x] **Matt Pauling — RESOLVED:** established *33* core writer/producer (sole producer here); not a new entity.
 
 ## Counterarguments / Alternate Reads
 - Reads as a straight **empowerment/Top-40 anthem** ("it's up to you") with light-and-heart flavor; the emanation/heart-mind/wilderness-refusal architecture is `[W]`, layered on a verified-but-spare lyric. The scripture is grounded; the "answers the bargain" structure is the read.

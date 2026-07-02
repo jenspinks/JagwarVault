@@ -47,6 +47,10 @@ Roy's [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)|"I'm 33" board]] 
 - [resolved] Vocal assignment: **luna = guide/introducer/chorus; Roy = Attention** (Jen, 2026-06-02).
 - Deliberate attention-economy critique, or read back from later work? (retrospective-coherence guard.)
 - [~] Cover art (fragmented/doubled bust on red) — confirm before use.
+- [x] **"more than mine" parse — RESOLVED:** the verified line is **"more than you Mind"** (not "mine") — a mind/consciousness statement; no possessive ambiguity. Strengthens §2.
+- [x] **Composer / "who is Matthew Pauling" — RESOLVED:** Roy English + Matt Pauling, **both writer & producer** ([[Sources/Credits/33]]); Pauling is the established *33* core collaborator, not a new entity.
+- [ ] *"behind the Empires that rise"* — media, political, or civilizational empires (or all)?
+- [~] The final lone **"MaMa"** — unparsed; flag, don't build.
 
 ## Counterarguments / Alternate Reads
 - The "deity" framing is the reader's; the song also works as a straight, witty **attention-economy satire** (advertising/influencer pitch) with no metaphysics required. The Lucius/Demiurge layer is `[W]`, not stated.

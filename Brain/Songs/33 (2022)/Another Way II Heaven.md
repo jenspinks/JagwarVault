@@ -47,6 +47,8 @@ Emanation / Lurianic procession-return (tikkun = "Great Design") · cosmic mirro
 - Skipped **3** = the Sun, or elided?
 - Clock 1:00–11:00 → missing **12** = return-to-One?
 - The *"never get away"* voice — the dividing One or a later intruder? (Lucius reading; note it's song-only.)
+- [ ] Is "heaven" metaphysical, perceptual, psychological — or all at once?
+- [x] **Credits — RESOLVED:** Roy English sole writer; Roy + Pauling produce.
 
 ## Counterarguments / Alternate Reads
 - Reads as an abstract, pretty **numerology/creation conceit** — the specific Kabbalah label-mappings (Yesod=9, Sefirot+Da'at=11) are `[W]`/resonance, not stated. **But** the cosmogony-as-intentional is unusually well-grounded (the board poem), so this is *less* speculative than most per-song framework reads.

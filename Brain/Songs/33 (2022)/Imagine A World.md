@@ -46,6 +46,8 @@ Imagination-as-creation (Romantic/Hermetic/New Thought) · child-wonder · Eden-
 - "Choose your parents" — perspective exercise, or brushing reincarnation/soul-contract?
 - "Conceive it" — literal imagination-as-creation vs motivation?
 - Does Roy **invert** the utopian "Imagine" register or sustain it? (Reads as sincere-with-a-warning, not inverted.)
+- [ ] Is imagination here psychology, spirituality, or creativity — or all three?
+- [x] **Credits — RESOLVED:** Roy English + Matt Pauling write & produce.
 
 ## Counterarguments / Alternate Reads
 - A sincere, indie-rock **imagination/empowerment anthem**; the curtain-god / Eden-within / mirror architecture is `[W]` layered on a verified-but-accessible lyric. OZ may be pure play.

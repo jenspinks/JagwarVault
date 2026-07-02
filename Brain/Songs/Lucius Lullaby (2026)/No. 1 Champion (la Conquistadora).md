@@ -1,10 +1,11 @@
 ---
+aliases: ["#1 Champion (la Conquistadora)", "#1 Champion"]
 id: SONG-1ChampionLaConquistadora
 type: song
 status: stable
 confidence: high
 source_quality: primary-source
-sources: [Sources/Lyrics/#1 Champion (la Conquistadora).md, Sources/Credits/Lucius Lullaby.md]
+sources: [Sources/Lyrics/No. 1 Champion (la Conquistadora).md, Sources/Credits/Lucius Lullaby.md]
 related: [CHAR-Mary, CHAR-SirLucius, ALBUM-LuciusLullaby, CHAR-Roy, SONG-Weirdness]
 connections:
   grounded:    [CHAR-Mary, ALBUM-LuciusLullaby, CHAR-SirLucius]
@@ -82,6 +83,6 @@ The title chain runs **Champion → Conquistador → Conquistadora**: the song o
 - [~] Magdalene vs Queen-of-Heaven vs Conquistadora — which Marian register dominates, or is the **collision** (gutter + crown + gun) the point?
 
 ## Sources
-- [[Sources/Lyrics/#1 Champion (la Conquistadora)]] (Apple-verified) · [[Sources/Credits/Lucius Lullaby]] · EP7 [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]].
-- **Vocal arrangement `[G]` (Jen audio/visual witness, 2026-06-15):** recording + official visualizer — the chorus *count + money-line* is a distinct female (Mary) voice; the *title-line* is shared (Mary + Lucius). Evidence class = performance/visual (cf. the Ballerina Boy outro, audio-confirmed). Filed in [[Sources/Lyrics/#1 Champion (la Conquistadora)]] §Vocal arrangement.
+- [[Sources/Lyrics/No. 1 Champion (la Conquistadora)]] (Apple-verified) · [[Sources/Credits/Lucius Lullaby]] · EP7 [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]].
+- **Vocal arrangement `[G]` (Jen audio/visual witness, 2026-06-15):** recording + official visualizer — the chorus *count + money-line* is a distinct female (Mary) voice; the *title-line* is shared (Mary + Lucius). Evidence class = performance/visual (cf. the Ballerina Boy outro, audio-confirmed). Filed in [[Sources/Lyrics/No. 1 Champion (la Conquistadora)]] §Vocal arrangement.
 - *No private material used. The structure-receives-breath `[W]` stands on SOL-breath + Lucius-structure alone.*

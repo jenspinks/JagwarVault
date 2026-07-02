@@ -52,7 +52,7 @@ The catalogue's named oppositions are **species** of this one genus. Each is *so
 | [[Machine vs Human]] | heart-integrated creation | optimization severed from the heart — the industrial **reflection-engine** |
 | [[Witnessing vs Surveillance]] | **El Roi**, the gaze that *transforms* the seen | the apparatus, the gaze that *shapes* the watched |
 | [[Brain/Concepts/The Circle|Circle vs Loop]] | return to *"the inside of the inside"* | closed, self-referential repetition |
-| Sun vs reflected bodies (**Tiferet** vs **Yesod/Malkhut + Netzach**) | originating light — the Sun (the heart; [[SOL]]) | reflected light — the **Moon** (Roy/Mary) *and* the **Morning Star** (Lucius); see §the Kabbalistic spine |
+| Sun vs reflected bodies (**Tiferet** vs **Yesod/Malkhut**) | originating light — the Sun (the heart; [[SOL]]) | reflected light — the **Moon** (Roy's *position*, Mary's *theology*); the morning-star register is a buried footnote, not Lucius's signature — map lives at [[Kabbalah - The Tree of Life]] |
 | [[Roy]] vs [[Sir Lucius]] | the heart (the source) | Roy = the **Moon** (Malkhut+Yesod, the lunar vessel); Lucius = the **Morning Star** (Venus/Netzach, the herald mistaken for the dawn) — *both reflect; neither is the sun* |
 
 So the machine is not a new problem — it is the **late-stage, industrial-strength reflection-engine.** *33*'s screens and Lucius's mirrors are the same forgetting at higher resolution. Naming the genus is what lets the catalogue's pieces sit on one axis. [W] *(a synthesizing lens — the work never names it; see §Cautions.)*
@@ -92,19 +92,15 @@ This sharpens the master question (and addresses the Open Question below): the c
 
 ---
 
-## The Kabbalistic spine — the Sun and its reflected bodies `[~]` (re-mapped 2026-06-14)
+## The Kabbalistic spine — gloss `[~]` (single home: [[Kabbalah - The Tree of Life]])
 
-> **Structural home:** [[Kabbalah - The Tree of Life]] — the sefirot/pillars hub this section centralizes ([[Keilim - The Breaking of the Vessels|Keilim]] = the *fracture* of the same vessels).
+**The full planet/sefirot map lives on ONE page, [[Kabbalah - The Tree of Life]], and is stated nowhere else** (single-homed 2026-07-01 after the local copies drifted twice). The gloss this page needs:
 
-The deepest framework anchor — **syncretic** (Jewish Kabbalah + Hermetic Qabalah held together; framework-tier, never authorial intent — the engagement that licenses it is Roy's documented Kabbalah, the "I'm 33" board + El Roi). The **Sun** is the source: **Tiferet**, the heart — Roy's heart-pole, and [[SOL]], the song of love. Everything else on this axis is a *reflected body* that generates **no light of its own**:
+- **The Sun is the source (Tiferet, [[SOL]]); the Moon reflects it** — Roy's *position* (Malkhut + Yesod, "the moon trying to become a sun" is HIS arc), Mary's *theology* (Shekhinah). That is the whole source-vs-reflection doctrine written onto the sky.
+- **The character fundamentals are Roy's own (2026-07-01, via relay): Roy → Netzach/Venus (heart), Lucius → Hod/Mercury (intellect)** — mind-pole against heart-pole. The older "Lucius = Venus/morning-star native signature" framing is Roy-contradicted and survives only as a buried name-resonance footnote on the Kabbalah page.
+- The cure is unchanged: re-subordinate reflection to source — *"my mind must serve my heart"* = Hod (Lucius) serving Netzach (Roy), ascending to the heart-Sun.
 
-- **The Moon = Roy's *position*** (Malkhut + Yesod — the only sefirot either tradition calls lunar; he occupies both). The lunar vessel: *"she has nothing of her own, but receives entirely from Tiferet"* (Arizal) — the same Roy who operates "from the heart," the mirror-mission, *"I have become nothing."* **"The moon trying to become a sun" is *his* arc** (and the feminine's, below) — **not Lucius's**: the **diminished-moon myth** (Chullin 60b — the moon made to diminish, God seeking atonement for it) → restoration (Isaiah 30:26, *"the light of the moon shall become as the light of the sun"*) → Cordovero's **atarah** (Malkhut *becomes the crown* on ascent) = the literal engine of *"reclaim your crown."*
-- **The Moon's *theology* = Mary** (the **Shekhinah** / Malkhut — reflected divine light, exile→return; see [[Mary]] §the two-mothers ascent). Roy holds the moon's *position*; Mary holds its *personhood/ascent*. The feminine is split, so the moon is too.
-- **The Morning Star = Lucius** (**Venus / Netzach**). *Lucifer* is the Latin name for Venus the morning star — so this is Lucius's **native signature**, not a borrowed one: the star that rises just before the sun, outshines all but sun and moon, and is **routinely mistaken for the dawn it only heralds.** Exactly the established Lucius — *"the herald of dawn, not the darkness,"* the light-*bringer* who wakes Roy but is not the source. (His *mechanism* stays **Hod/Geburah**; **Yesod** is his **operating theater** — the image-realm / Treasure House of Images / glamour he works *through* — which is why the [[The Banana|banana]] is a **broken Yesod**: generativity replaced by image.)
-
-So the reflection-pole has **two bodies** — the Moon (Roy / Mary) and the Morning Star (Lucius) — and the Sun (Tiferet / [[SOL]]) is the true light **both orbit and neither is.** The cure is unchanged: re-subordinate the reflected light to its source (*"my mind must serve my heart"* = the morning-star's mind serving the heart-sun; the moon restored to the sun's light = the song of love finished).
-
-> **Supersedes** the prior framing ("Lucius is the Yesod moon trying to become a sun"). The reflection-*logic* is preserved; only the *bodies* are re-assigned, per Jen's 2026-06-14 lunar-feminine doctrine. **Reconciled this pass:** [[The Light-Bearer]], [[Brain/Songs/Lucius Lullaby (2026)/Bad Feeling (Oompa Loompa)|Bad Feeling]]. **Still carrying the old frame (essay-layer, flagged for a later pass):** [[Essays/Concepts/Songs/Ballerina Boy]], [[Essays/Concepts/Songs/Not Your Homie]] (the verbatim "moon trying to become a sun = Lucius" quote).
+> **Supersession trail:** "Lucius is the Yesod moon" (struck 2026-06-14, the moon is Roy's) → "Lucius = Venus/Netzach morning-star signature" (struck 2026-07-01, Netzach/Venus is Roy's, per Roy). Essay-layer stragglers ([[Essays/Concepts/Songs/Ballerina Boy]], [[Essays/Concepts/Songs/Not Your Homie]]) reconciled 2026-07-01.
 
 ---
 

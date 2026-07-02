@@ -4,7 +4,7 @@ type: concept
 status: draft
 confidence: framework-tier
 source_quality: interpretive-synthesis
-sources: ["Brain/Concepts/Source vs Reflection.md", "Brain/Characters/Sir Lucius.md", "Brain/Concepts/The Light-Bearer.md", "Brain/Concepts/Keilim - The Breaking of the Vessels.md", "Sources/Artifacts/Roy - I'm 33 this year (spreadsheet).md"]
+sources: ["Sources/Quotes/Roy - Character fundamentals for the Field Guide (relayed) 2026-07-01.md", "Brain/Concepts/Source vs Reflection.md", "Brain/Characters/Sir Lucius.md", "Brain/Concepts/The Light-Bearer.md", "Brain/Concepts/Keilim - The Breaking of the Vessels.md", "Sources/Artifacts/Roy - I'm 33 this year (spreadsheet).md"]
 related: [CONCEPT-KeilimVessels, CONCEPT-SourceVsReflection, CONCEPT-TikkunOlam, CONCEPT-TheMoon, CONCEPT-Yesod, CONCEPT-Malkhut, CONCEPT-Tiferet, CONCEPT-Binah, CONCEPT-Shekhinah, CONCEPT-Netzach, CONCEPT-Hod, CONCEPT-Geburah, CONCEPT-ThePattern, CHAR-Roy, CHAR-SirLucius]
 connections:
   grounded:    []
@@ -18,7 +18,7 @@ review_date: 2026-12-28
 **The structural backbone the vault leans on everywhere but never housed.** ~228 notes touch the Kabbalah cluster, yet the *emanation structure itself* — the ten sefirot, the three pillars, the Sun-and-reflected-bodies map — lived only as prose duplicated across three notes, with every sefirah declared "pageless" in [[_System/Ontology]]. This page is that home. Its companion is its opposite: [[Keilim - The Breaking of the Vessels]] is the **fracture** of these vessels (shevirah); this is the **structure** that breaks.
 
 ## What this page is — and is not
-- **A connective hub, not a new reading.** It *centralizes* the canonical emanation mapping already worked out in [[Brain/Concepts/Source vs Reflection]] §"The Kabbalistic spine", [[Brain/Characters/Sir Lucius]] §"Lucius on the Tree", and [[The Light-Bearer]] §Esoteric Resonance — material that was being maintained in **triplicate**. Those notes remain the working sites; this is the single statement they should defer to.
+- **The single home of the map (as of 2026-07-01).** The emanation mapping was maintained in **triplicate** across [[Brain/Concepts/Source vs Reflection]] §"The Kabbalistic spine", [[Brain/Characters/Sir Lucius]] §"Lucius on the Tree", and [[The Light-Bearer]]; those sections are now **glosses that defer here** (trimmed 2026-07-01; the triplicate had already drifted once — the struck Lucius-moon frame survived two weeks on two essays). Planet/sefirot assignments are stated on THIS page only; everywhere else links.
 - **Tier `[~]`/`[W]` — framework, never authorial intent.** Per the spine note's own caution: the syncretic Tree (Jewish Kabbalah + Hermetic Qabalah held together) is a *lens*, **licensed** by Roy's **documented** Kabbalah engagement — the "I'm 33" board names "Tree of Life / sephirot" + El Roi (see [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] and [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]]) — **not** by any claim Roy built the catalogue on the Tree. `[G]` reaches only the licensing anchors (the board's sephirot, El Roi, "reclaim your crown"); the structural mappings stay `[W]`; the framework attribution stays `[~]`.
 
 ## ⚠ Stream discipline (non-negotiable — carried from [[Keilim - The Breaking of the Vessels]])
@@ -33,21 +33,27 @@ The vault engages Kabbalah on **two** axes that *Sefer Yetzirah* itself unites (
 2. **The letter-mysticism** — letters-as-angels, vowels-as-spirit → [[Brain/Concepts/The Angels and the Angles]] + [[Kabbalah — letter-mysticism source index (Abulafia, letters-as-angels, vowels-as-spirit)]].
 Keep them as parallel cross-linked pages, not merged.
 
-## The emanation map — the Sun and its reflected bodies `[~]`
-*Canonical statement lives at [[Brain/Concepts/Source vs Reflection]] §"The Kabbalistic spine" (re-mapped 2026-06-14); reproduced here as the structural home.*
+## The character fundamentals `[G via relay]` — Roy's own map (2026-07-01)
+*Grounding: [[Sources/Quotes/Roy - Character fundamentals for the Field Guide (relayed) 2026-07-01|Roy's stated fundamentals, via Jen 2026-07-01]] (relayed summary, not verbatim). This section supersedes the 2026-06-14 "Lucius = Venus/Netzach native signature" framing, which Roy's word inverts.*
 
-The **Sun is the source: Tiferet** — the heart-pole, and [[SOL]] (the Song of Love). Everything else on the axis is a **reflected body** that makes no light of its own:
-- **The Moon = Roy's *position*** — **Malkhut + Yesod** (the only sefirot either tradition calls lunar; he occupies both). The lunar vessel that "receives entirely from Tiferet." *"The moon trying to become a sun" is **his** arc* (the diminished-moon myth, Chullin 60b → restoration, Isaiah 30:26 → Cordovero's **atarah**, Malkhut-becomes-crown = the engine of *"reclaim your crown"*) — **not Lucius's**.
+- **Roy → Netzach / Venus — the heart.** Fundamentals: **dove (its name is Cygnus) · El Roy · sword · heart.** Love, feeling, beauty, devotion; the sword = discernment, chosen action.
+- **Lucius → Hod / Mercury — the intellect.** Fundamentals: **green apple · crow (Corvus) · cigarettes · El Roi (throat) · truth-and-light-divorced-from-heart.** Speech, cleverness, analysis, framing, the truth that deceives. **Geburah** (Mars-severity) stays his cutting edge; **Yesod** stays his *operating theater*, the image-realm he works *through*, not his home (hence the [[The Banana|banana]] as **broken Yesod**).
+
+Hod and Netzach face each other across the base of the Tree: **mind-pole against heart-pole, Mercury against Venus** — the Heart/Mind split written onto the sefirot by Roy's own assignments. *"My mind must serve my heart"* is the Tree in one line: **Hod (Lucius's sefirah) re-subordinated to Netzach (Roy's), ascending to the heart-Sun.** *(Tier care: the fundamentals lists and the two "can link" assignments carry Roy's word `[G via relay]`; everything built on them below stays `[W]`/`[~]` framework.)*
+
+## The emanation map — the Sun and its reflected bodies `[W]` (advanced framework)
+The **Sun is the source: Tiferet** — the heart of the Tree itself, and [[SOL]] (the Song of Love). The reflected bodies make no light of their own:
+- **The Moon = Roy's *position*** — **Malkhut + Yesod** (the only sefirot either tradition calls lunar; he occupies both). The lunar vessel that "receives entirely from Tiferet." *"The moon trying to become a sun" is **his** arc* (the diminished-moon myth, Chullin 60b → restoration, Isaiah 30:26 → Cordovero's **atarah**, Malkhut-becomes-crown = the engine of *"reclaim your crown"*) — **not Lucius's**. **Advanced framework only:** Roy's character-seat is Netzach/Venus (his word, above); the lunar position is his *ascent frame* and must not compete with the fundamentals in any character map.
 - **The Moon's *theology* = Mary** — the **Shekhinah / Malkhut** (reflected divine light, exile→return). Roy holds the moon's *position*; [[Mary]] holds its *personhood/ascent*.
-- **The Morning Star = Lucius** — **Venus / Netzach**. *Lucifer* is the Latin for Venus-the-morning-star, so this is his **native signature**: the star that heralds the dawn and is routinely mistaken for it. His *mechanism* is **Hod/Geburah**; **Yesod** is his **operating theater** (the image-realm he works *through* — hence the [[The Banana|banana]] as **broken Yesod**).
+- **The morning star — a buried footnote resonance, NOT Lucius's signature.** *Lucifer* is the Latin for Venus-the-morning-star: the herald that rises just before the sun and is routinely mistaken for the dawn it only heralds — a real echo of Lucius's "herald mistaken for the source" tragedy (→ [[SOL]], [[The Light-Bearer]]). But **Venus/Netzach is Roy's, by Roy's own word**, so this register is held strictly separate: a resonance on the *name* Lucifer, never Lucius's planet or character-symbol.
 
-So the reflection-pole has **two bodies** — the Moon (Roy / Mary) and the Morning Star (Lucius) — and the Sun (Tiferet / SOL) is the light both orbit and **neither is.**
+So the map: the Sun (Tiferet / SOL) is the light; the Moon (Roy's position / Mary's theology) reflects it; and at the Tree's base the two characters face each other — **Roy's Netzach-heart and Lucius's Hod-mind** — with Lucius's cross-pillar raid on the heart-sphere (below) as the drama between them.
 
 ## The three pillars `[~]`
 *From [[Brain/Characters/Sir Lucius]] §"Lucius on the Tree" — distrust any too-tidy symmetry:*
-- **Mary (Binah) and Lucius (Hod/Geburah) share the left / Severity pillar, Mary at its head** — so "Mary drops Lucius dead" ([[#1 Champion (la Conquistadora)]]) reads as *the source of severity overruling the shadow-intelligence lower on its own pillar* (judgment terminated by the origin of judgment).
-- **Lucius raids Netzach (right / Mercy pillar) from a Hod/Geburah (left / Severity) base** — cross-pillar by design, *not* a clean Severity-vs-Mercy mirror of Roy.
-- **Roy alone on the Middle Pillar (Yesod + Malkhut)** — the pillar of equilibrium/return; the structural reason *he's* the one who passes through the pressure and still says *"I am still I."*
+- **Mary (Binah) and Lucius (Hod/Geburah) share the left / Severity pillar, Mary at its head** — so "Mary drops Lucius dead" ([[No. 1 Champion (la Conquistadora)]]) reads as *the source of severity overruling the shadow-intelligence lower on its own pillar* (judgment terminated by the origin of judgment).
+- **Lucius raids Netzach (right / Mercy pillar — Roy's own sphere) from a Hod/Geburah (left / Severity) base** — cross-pillar by design: the mind reaching into the heart's territory for its charisma. Roy's correction sharpens this bullet rather than breaking it; what was read as Lucius's "native signature" is now literally a raid on Roy's sefirah.
+- **Roy's character-seat is Netzach (right / Mercy pillar)** per his own fundamentals; his *ascent position* in the advanced lunar framework is the **Middle Pillar (Yesod + Malkhut)**, the pillar of equilibrium/return, the structural reason *he's* the one who passes through the pressure and still says *"I am still I."* Both are held, tier-labeled, not competing.
 
 ## The sefirot — anchor sections
 *Per the [[_System/Ontology]] convention (line ~132, "Promote to a section above when a page is written"): the ten sefirot declared pageless there now resolve to the anchors below. (Ontology's registry retag — pointing `CONCEPT-Yesod` etc. here — is a separate edit, flagged for Jen.)*
@@ -56,8 +62,8 @@ So the reflection-pole has **two bodies** — the Moon (Roy / Mary) and the Morn
 - **Binah** — Upper Mother (Great Sea / womb / Saturn); Mary's ascent-throne; head of the Severity pillar.
 - **Geburah** — Severity / Judgment (Mars); the left pillar; part of Lucius's mechanism-base.
 - **Tiferet** — Beauty / the center; **the Sun**; Roy's heart-pole; [[SOL]].
-- **Netzach** — Victory (Venus); the **morning-star** register; Lucius's native *signature* (display / herald).
-- **Hod** — Splendour (Mercury); intellect / strategy; the other half of Lucius's mechanism-base.
+- **Netzach** — Victory (**Venus**); **Roy's sefirah** `[G via relay]` (dove/Cygnus · sword · heart · El Roy). The morning-star register is a buried footnote (above), not Lucius's signature.
+- **Hod** — Splendour (**Mercury**); **Lucius's sefirah** `[G via relay]` (green apple · crow/Corvus · cigarettes · El Roi); intellect / speech / strategy; Geburah is the severity edge of his mechanism.
 - **Yesod** — Foundation; the **reflective / image sphere** (Treasure House of Images); Lucius's *operating theater*; the **broken-Yesod** [[The Banana|banana]] (generativity replaced by image).
 - **Malkhut** — Kingdom; *"the kingdom within"* ([[Brain/Concepts/The Circle]]'s "inside of the inside" = return up the axis); **atarah** (Malkhut becomes the crown on ascent).
 - **Shekhinah** — the indwelling feminine Presence = Malkhut, the Lower Mother / Bride; [[Mary]]'s name; the moon's *theology* (reflected light, exile→return).
@@ -65,18 +71,18 @@ So the reflection-pole has **two bodies** — the Moon (Roy / Mary) and the Morn
 - **Tikkun Olam** — repair of the world / raising the sparks (birur); see [[Keilim - The Breaking of the Vessels]] + [[CONCEPT-TikkunOlam|Tikkun Olam]].
 
 ## Where the Tree breaks
-The shevirah ([[Keilim - The Breaking of the Vessels]]) is the *fracture of these very vessels*: **Olam HaTohu** (isolated, shattered sefirot that "couldn't share") → **Olam HaTikkun** (related configuration). *"My mind must serve my heart"* is that re-ordering — the morning-star's mind (Hod/Netzach) re-subordinated to the heart-Sun (Tiferet); the moon (Roy/Malkhut) restored to the sun's light. Structure (this page) and fracture (Keilim) are the two halves of one doctrine.
+The shevirah ([[Keilim - The Breaking of the Vessels]]) is the *fracture of these very vessels*: **Olam HaTohu** (isolated, shattered sefirot that "couldn't share") → **Olam HaTikkun** (related configuration). *"My mind must serve my heart"* is that re-ordering — **Hod (Lucius's sefirah) re-subordinated to Netzach (Roy's), ascending to the heart-Sun (Tiferet)**; the moon (Roy's position / Malkhut) restored to the sun's light. Structure (this page) and fracture (Keilim) are the two halves of one doctrine.
 
 ## Tiers
-`[~]` the framework attribution (syncretic Tree) · `[W]` the structural mappings (Sun/Moon/Morning-Star, the pillars) · `[G]` only the licensing anchors (the board's "Tree of Life / sephirot", El Roi, "reclaim your crown"). **Never authorial-intent beyond Roy's public engagement.** The alignment with Neoplatonism / Hermeticism / Theosophy is **expected from the shared perennialist substrate** Roy assembles on the board — *not* evidence of deliberate cross-encoding (cf. [[The Pattern]]'s anti-totalization guard; [[Brain/Concepts/Source vs Reflection]] §Cautions).
+`[~]` the framework attribution (syncretic Tree) · `[W]` the structural mappings (Sun/Moon/reflected-bodies, the pillars) · `[G]` the licensing anchors (the board's "Tree of Life / sephirot", El Roi, "reclaim your crown") **and, via relay, the character fundamentals** (Roy→Netzach/Venus, Lucius→Hod/Mercury — [[Sources/Quotes/Roy - Character fundamentals for the Field Guide (relayed) 2026-07-01|Roy's word via Jen, 2026-07-01]]; "can link" is permissive, so the Tree *placements* built on it stay `[W]`). **Never authorial-intent beyond Roy's public engagement.** The alignment with Neoplatonism / Hermeticism / Theosophy is **expected from the shared perennialist substrate** Roy assembles on the board — *not* evidence of deliberate cross-encoding (cf. [[The Pattern]]'s anti-totalization guard; [[Brain/Concepts/Source vs Reflection]] §Cautions).
 
 ## Connections / See also
 | Node | Relationship |
 |---|---|
 | [[Keilim - The Breaking of the Vessels]] | The **fracture** of this structure (shevirah / tikkun) — the doctrine's other half. |
-| [[Brain/Concepts/Source vs Reflection]] | Holds the canonical Sun/Moon/Morning-Star §spine this page centralizes; the master-key meta-frame above it. |
-| [[Brain/Characters/Sir Lucius]] | §"Lucius on the Tree" — the Morning Star (Netzach) / Hod-Geburah mechanism / Yesod theater / pillar layout. |
-| [[The Light-Bearer]] | The Yesod / morning-star / **Hermetic Qliphah-of-Keter** material — the stream-split lives here. |
+| [[Brain/Concepts/Source vs Reflection]] | The master-key meta-frame (source vs reflection); its §"Kabbalistic spine" is now a gloss deferring here. |
+| [[Brain/Characters/Sir Lucius]] | §"Lucius on the Tree" — now a gloss deferring here: Hod/Mercury headline, Geburah edge, Yesod theater; morning-star buried. |
+| [[The Light-Bearer]] | The Lucifer *name*-field + **Hermetic Qliphah-of-Keter** material — the stream-split and the buried morning-star footnote's long form live here. |
 | [[Brain/Concepts/The Angels and the Angles]] | The *other* Kabbalah axis (Sefer Yetzirah letter-mysticism: 22 letters + 10 sefirot = 32 paths). |
 | [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]] | Roy's own board names "Tree of Life / sephirot" as the 10-stage ascent — the documented engagement that *licenses* this page. |
 | [[The Pattern]] | The shared theosophical substrate (Bailey · Russell · Kybalion · Kabbalah · Jung · Plato) the board assembles. |
@@ -85,7 +91,7 @@ The shevirah ([[Keilim - The Breaking of the Vessels]]) is the *fracture of thes
 
 ## Open questions
 - [ ] **Ontology retag (needs Jen):** promote the 10 sefirot from "Declared — pageless" to point at this page's anchors (`CONCEPT-Yesod` → `[[Kabbalah - The Tree of Life#Yesod]]`, etc.).
-- [ ] **Single-source-of-truth (needs Jen):** should the three triplicate diagrams (Source vs Reflection / Sir Lucius / Light-Bearer) now *defer* to this page (trim to a pointer), or keep their local copies for reading-in-place?
+- [x] **Single-source-of-truth — RESOLVED 2026-07-01 (Jen, via the efficiency pass): YES.** The three triplicate sites now defer here (trimmed to glosses + links); this page is the single home of the map, corrected to Roy's fundamentals the same day.
 - [ ] Does the catalogue depict ascent *up* the Tree (return), or only the break and its repair? (The atarah / "reclaim your crown" is the test case.)
 - [ ] **Does the board stage *both* axes — `[?]`/`[~]`?** A competing lens, noted against the board-decode page's own §1 (which reads everything as the single **10-stage ascent** — [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]]). *Sefer Yetzirah*'s "**22 letters + 10 sefirot = 32 paths**" splits across this page (sefirot) and [[Brain/Concepts/The Angels and the Angles]] (letters) — but the board may surface *both halves at once*, separable by the **kind** of encoding:
   - the **discrete 0–10 ladders** — the handwritten "A 0–10 emanation list" of Tree-of-Life glosses, the virtue/vice "10 Stages. (Backwards and forwards)", the somatic "Body Part Stages" (verbatim, board) — behave like the **10 sefirot** (numbered emanation-stations).

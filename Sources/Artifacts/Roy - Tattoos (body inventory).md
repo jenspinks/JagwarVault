@@ -113,3 +113,27 @@ The tattoos are not a list — they are a **symmetrical map.**
 - [?] Photo-confirm exact wording/placement of each tattoo before quoting with marks (working from his compiled statements, not direct image reads).
 - [?] "If you forget who you are, you used to b" — confirm whether truncation is the actual tattoo or a transcription cutoff.
 - [?] Confirm the `+`/ROSE ESOR arrangement visually (mirror-word orientation).
+- [G, web-corroborated 2026-07-01] **Fear · Be · I am Human · Remember you're alive** — independently observed in print (Artist Waves 2018, §IV).
+- [G, web-corroborated 2026-07-01] **Trust your guts** — placement (stomach) + provenance (Pittsburgh, tattooer "Bryce", ~2019 tour, captioned "the biggest lesson") from the One Stop Watch tour diary (§IV).
+
+---
+
+## IV. Web corroboration & external sources — added 2026-07-01
+
+**Coverage note [G].** An 8-angle web sweep (2026-07-01) found the open-web third-party footprint on Roy's tattoos is **thin and heavily self-sourced.** The web confirms he is extensively tattooed and corroborates a small subset of the WORDS; it does **NOT** independently corroborate the MEANINGS — every gloss in §I originates from Roy's own channels (Instagram, a TikTok "tattoo tour", YouTube, official site). Cite the glosses as *his own words from his own posts*, single-sourced. Reddit / Genius / Fandom-wiki were blocked (402/403); no fan corroboration retrievable.
+
+**Third-party sources (real, verified live) [G]:**
+- **Artist Waves — "Checking in with Jagwar Twin" (Jeff Gorra, 2018-09-28)** — <https://artistwaves.com/checking-in-with-jagwar-twin/>. Journalist observation lists the words: *"Fear. Be. Feel. I am human. Remember you're alive."* No placements, no gloss. **The only third-party print list.**
+- **One Stop Watch tour diary (2019)** — <https://www.onestowatch.com/en/blog/jagwar-twin-takes-us-to-the-mall-of-america-and>. Photo caption confirms **"trust your guts"** stomach tattoo, done in **Pittsburgh** with **"Bryce"**, ~2019 tour, captioned *"the biggest lesson"* (+ a second "Tattooed reminders" caption). Only photo-adjacent corroboration on the open web.
+- **Bring The Noise UK — 30STM/Jagwar Twin, OVO Hydro Glasgow, 2024-06-06** — confirms Roy performed **shirtless** June 2024 (ink publicly visible; no specific tattoo named). Establishes recency.
+
+**His own tattoo-explanation content [G] — the primary gloss source:**
+- **TikTok "Tattoo tour part 2"** — <https://www.tiktok.com/@jagwartwin/video/7271409138226203946> (~2023, Roy-authored). This (and an implied "part 1", URL not recovered) is almost certainly the ORIGINAL source of the §I glosses. **Spoken content is NOT scrapable — Jen should open it directly** to pin exact wording. **Confirmed negative:** no tattoo-tour video on the Jagwar Twin YouTube channel; the walkthrough lives on TikTok/IG, which is why the detailed glosses are un-indexed on the open web.
+
+**New / flagged:**
+- [?] **"Feel"** — a possible **sixth word tattoo**: it appears in the Artist Waves 2018 list (*"Fear. Be. Feel. I am human…"*) but is NOT in §I. May be a discrete tattoo we missed OR the journalist parsing a phrase. **Verify against a photo / the tattoo-tour before adding to §I.**
+- [G] **No new (2023–2026) ink** surfaced in any indexed source (a research limitation — new ink would live only in un-indexed IG/TikTok, not evidence of absence).
+
+**El Roi — person vs character [W], resolved as inference 2026-07-01.** The **"El Roi" Hebrew throat marking + white face + black X-eyes + inverted-cross-on-cheek is Sir Lucius's CHARACTER marking / face paint, NOT a tattoo on Roy's real body.** No on-record source states it either way (8 angles dead-ended), but the balance of evidence favors makeup: (a) Roy frames ROY vs *sir lucius* as two personas — *"a war between light and dark"* (IG reel <https://www.instagram.com/reel/DPJzT_gCdku/>, 2025-09-28); (b) the cluster appears only on the character in *The Interview* videos, never described on Roy's body; (c) Lucius sings *"paint my face"* in *welcome to the circus* (literal face paint). **Keep classified `subject: character` and tagged as inference.** ⚠ Distinct from the **"El Roy"** authorial *signature* (Roy's own name folded into El Roi = "the one who sees"), which IS Roy's and seeds the seeing-motif. **Definitive resolution:** compare in-character vs out-of-character throat in *The Interview* EP2 (<https://www.youtube.com/watch?v=xCwa3S7P8Jk>) or find a Roy statement.
+
+**Public-vault companion:** a reader-facing version of this material lives at `The Jagwar Files/01 Characters/Roy's Tattoos.md` (built 2026-07-01, same web layer).

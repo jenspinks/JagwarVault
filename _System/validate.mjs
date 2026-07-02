@@ -2,8 +2,9 @@
 // _System/validate.mjs — pre-commit linter (CLAUDE.md §8).
 // Exits 1 on ERROR (blocks commit), 0 on warnings/clean.
 // Run: node _System/validate.mjs
-import { readdirSync, readFileSync, statSync } from "node:fs";
+import { readdirSync, readFileSync, statSync, existsSync } from "node:fs";
 import { join, extname } from "node:path";
+import { execSync } from "node:child_process";
 import { readFrontmatter, outRefs } from "./lib-frontmatter.mjs";
 
 const ROOT = new URL("..", import.meta.url).pathname;
@@ -125,6 +126,35 @@ try {
   if (missing.length)
     warns.push(`file-map.md omits ${missing.length} present _System/ file(s): ${missing.join(", ")} — re-run gen-file-map.py.`);
 } catch { /* file-map.md absent — skip */ }
+
+// 6. Privacy-leak guard — ERROR if a file matching .gitignore is git-TRACKED.
+//    (The 2026-06 Vault Review Context leak: gitignored files were MOVED to
+//    _System/_archive/, escaped the path-exact rules, and got pushed. Rules are
+//    now pattern-based, and this check catches any future bypass: a rename, a
+//    new gitignore gap, or an accidental force-add.)
+//    Files deleted-but-not-yet-committed are skipped (existsSync) so the check
+//    stays quiet while an autosync removal is in flight.
+try {
+  const trackedIgnored = execSync("git ls-files -ci --exclude-standard -z", { cwd: ROOT })
+    .toString().split("\0").filter(Boolean)
+    .filter((f) => existsSync(join(ROOT, f)));
+  for (const f of trackedIgnored)
+    errors.push(`${f}: matches .gitignore but is git-TRACKED (privacy leak — git rm --cached it before it syncs).`);
+} catch { infos.push("privacy-leak guard skipped (git unavailable)."); }
+
+// 7. Glued-frontmatter lint — ERROR on a value with a key concatenated onto it
+//    (e.g. `folded: 2026-06-30publish: false`). A 2026-06-30 bulk stamping pass
+//    did exactly this to 19 drafts, silently destroying the next field, and the
+//    validator saw nothing. Narrow patterns (date/bool glued to a key) so URLs
+//    and colons inside quoted values can't false-positive.
+for (const rel of pages) {
+  const raw = readFileSync(join(ROOT, rel), "utf8");
+  const fmBlock = raw.startsWith("---\n") ? raw.slice(4, raw.indexOf("\n---", 4)) : "";
+  for (const line of fmBlock.split("\n")) {
+    if (/\d{4}-\d{2}-\d{2}[a-z_]+\s*:/.test(line) || /\b(?:true|false)[a-z_]+\s*:/.test(line))
+      errors.push(`${rel}: glued frontmatter line ('${line.trim().slice(0, 60)}') — a bulk edit dropped a newline; split it.`);
+  }
+}
 
 // Report
 const tag = (a, l) => a.forEach((m) => console.log(`${l} ${m}`));

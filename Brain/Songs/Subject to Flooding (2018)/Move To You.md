@@ -8,7 +8,7 @@ referenced_by: [CONCEPT-TheCircle, SONG-HappyFace, SONG-RoyVoiceMemoS1Arrowhead]
 
 **Album:** [[Subject to Flooding (album)]] (2018, Atlantic Records)
 **Track:** 7 of 13
-**Status:** Stub — not yet analyzed
+**Status:** Card, grounded floor filled. Full reading: [[Essays/Concepts/Songs/Move To You]].
 
 ---
 
@@ -26,6 +26,9 @@ referenced_by: [CONCEPT-TheCircle, SONG-HappyFace, SONG-RoyVoiceMemoS1Arrowhead]
 ## Resonances
 
 ## Open Questions
+- [x] **Full EP3 dialogue — NOW IN-VAULT.** The full verbatim EP3 transcript is filed at [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] §EP3. Confirmed: the loop is *Loser → "Move to you" (ballad) → Happy Face*; "when you're vulnerable you LOSE" lands on **Ballerina Boy** (mimed ballet); Move To You is the named-and-dropped ballad. *(Remaining: in-video timestamps.)*
+- [~] The **Y tattoo ↔ "love's a question"** link is strong (Roy's own gloss, in [[Roy]]); does the tattoo-tour add anything that sharpens it?
+- [ ] Production: does the arrangement physically foreground a heartbeat/pulse motif that *"I can hear your heart, it beats"* names literally? Listen-pass.
 
 ## Counterarguments / Alternate Reads
 

@@ -1,4 +1,5 @@
 ---
+aliases: ["#1 Champion (la Conquistadora)", "#1 Champion"]
 type: song
 status: draft
 publish: false
@@ -12,7 +13,7 @@ related: [CHAR-Mary, CHAR-SirLucius, ALBUM-LuciusLullaby, SONG-Weirdness, CHAR-R
 
 ## Lyrics
 
-![[Sources/Lyrics/#1 Champion (la Conquistadora)]]
+![[Sources/Lyrics/No. 1 Champion (la Conquistadora)]]
 
 ---
 
@@ -102,11 +103,13 @@ In the theatrical frame this lands as irony, and the irony is **a trap that spri
 - *"Dropped me dead when she said—"*: **resolved** (2026-06-15) — the verse cuts into the chorus in Mary's voice, so what she said = *"A-B-C, count 'em…"* (the count). The omission was a hand-off, not a blank.
 
 ## Open Questions
-- [ ] Who is the "champion" — Lucius, the generic ego, or Roy-in-ego-mode? (Note: the title is **Mary's** in the mix; Lucius only joins then overtakes it — the "champion" he claims was never his to sing.)
-- [x] ~~The withheld line ("when she said—")~~ — **resolved**: the chorus in Mary's voice = the count (see "What she said").
-- [x] ~~Is *"if you don't know 'bout me"* also Mary's?~~ — **resolved**: the whole chorus is Mary's; *"me"* = Mary.
-- [ ] Which Marian register dominates — Conquistadora, Queen of Heaven, or Magdalene — or is the collision the point?
-- [ ] The gun — leaning sovereignty/revolution over self-defense; settle the register.
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/No. 1 Champion (la Conquistadora)#Open Questions|No. 1 Champion (la Conquistadora) — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
+
+## Artifacts
+
+**Queen Binah** · `TEETH OF A WHALE` — *'GOD the Mother on Saturn'* — the Binah throne of this song's named, faceless Mary (*'saw a halo but I didn't see a head'*). → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="220"></a>
 
 ## Connections
 | Node | Relationship |

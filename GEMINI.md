@@ -31,13 +31,7 @@ symbolic-analysis system for the music of Jagwar Twin / Roy English and his shad
   an Ontology ID, a "Bailey says…".
 
 ## Tier every interpretive claim (tag inline)
-- **Grounded** — directly supported by a public source; cite it.
-- **[W] Strong Read** — interpretation with ≥2 public anchors; hedge ("reads as," "suggests").
-- **[P]** — a stated interpretive position (Jen's, or a committed thesis), attributed.
-- **Resonance** — a framework correspondence (Jung, Kabbalah, Bailey, tarot, Gnostic…);
-  attribute to the framework, **never** claim the artist intended it.
-- **[~] / [?]** — a genuine leap or something unverified. Flag it; never smuggle it.
-Never let a Strong Read pass as Grounded. Write "the work reads as…," never "Roy meant…".
+`[G]` grounded (named public source, cite it) · `[W]` strong read (≥2 public anchors, hedge "reads as") · `[P]` a stated position (Jen's or a committed thesis, attribute it) · `[~]` resonance (framework correspondence, e.g. Jung/Kabbalah/tarot/Gnostic/Hermetic, attribute to the framework, never "Roy meant") · `[?]` unverified lead / genuine leap (flag, never smuggle) · `(no marker)` legacy grounded-citation form, e.g. `(none — lyric)` / `(none — EP3, [URL])` / `(none — Mirror Sessions)`. Never let a `[W]` pass as `[G]`.
 
 ## HARD BOUNDARIES — do not cross (see `_System/Boundaries.md`)
 1. **Secret Document / private material.** A private document and private chats/calls exist.

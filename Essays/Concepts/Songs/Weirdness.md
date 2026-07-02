@@ -53,7 +53,7 @@ This pre-chorus appears **twice** in the song — once after verse 1 (the childh
 
 Her facelessness is not incidental. She cannot be reduced to a romantic object, a celebrity image, a mirror projection, or a normal identity. She is there to reveal, not to be consumed. The same faceless feminine blessing voice appears:
 - in [[Essays/Concepts/Songs/Ballerina Boy]] (the older motherly voice whose face is never shown, delivering "let your light shine")
-- in [[#1 Champion (la Conquistadora)]] (where **Mary** is named outright)
+- in [[No. 1 Champion (la Conquistadora)]] (where **Mary** is named outright)
 
 *(**Not** Lucius Lullaby — corrected 2026-06-06: the "I came to set you free / magic mirror" voice there is [[Sir Lucius]] **counterfeiting** the rescue/Mary-function, not Mary.)*
 
@@ -144,15 +144,12 @@ Weirdness orients toward Tiferet — the solar heart-center, the place where bea
 
 ## Open Questions
 
-- [x] **String line — CONFIRMED (none — AZLyrics, Jen).** Both chorus and final chorus say *"off its string."* No on/off arc exists. The string reading is revised: the liberation was stated throughout; the whole change is the pronoun. (See Strong Read — string section.)
-- [ ] **Outro returns to "Your weirdness is the sunshine."** After claiming "my weirdness is my sunshine," the song closes on the "your" register. Three possible readings: (1) structural envelope — begins and ends the same, integration happens in the middle; (2) gift to the listener — having claimed his own light, Roy turns and names yours; (3) the Lucius register persists, unresolved. None of these requires the others to be wrong. Worth sitting with before asserting any one.
-- [~] **Mary-class angel = BB outro voice?** Working assumption: yes, same figure (faceless blessing, "born to shine" language). Pre-chorus appearing twice in this song strengthens the reading — she is persistent, not situational. Credits/casting source would settle.
-- [ ] **"I changed my name"** — strongest explicit lyric anchor for the Roy English → Jagwar Twin transition. Note in [[Roy]] biography section.
-- [ ] **Track 13 on Lucius Lullaby** — intentional placement? Flag, don't assert.
-- [ ] **Is this full integration?** No — working reading is threshold, not terminus. Lucius still exists in EP7 (post-Weirdness in release order). The shadow is named but not reconciled. Worth watching how the album arc positions this track relative to the end.
-- [ ] **"No other child was like me"** — past tense. The strangeness is being remembered from adulthood, not claimed as current identity. How does this sit with "Why am I this way?" (present tense) immediately after? The temporal slippage may be intentional — the wound is past, the question is ongoing.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/Weirdness#Open Questions|Weirdness — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
----
+## Artifacts
+
+**Queen Binah** · `TEETH OF A WHALE` — the Divine-Mother / Binah seat of this song's faceless *'born to shine'* angel-voice. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="220"></a>
 
 ## Connections
 
@@ -161,7 +158,7 @@ Weirdness orients toward Tiferet — the solar heart-center, the place where bea
 | [[Essays/Concepts/Songs/Ballerina Boy]] | Wound-song and healing-song: BB focuses on the burial; Weirdness begins the reclamation. The dancing child in the rain maps to the ballerina. |
 | [[Essays/Concepts/Songs/Not Your Homie]] | Anti-pretense mirrored: "Let's not pretend" (Lucius, enforcing distance) vs. "Stop pretending" (angel, dissolving mask). |
 | [[Essays/Concepts/Songs/Welcome to the Circus]] | The public performance of the Lucius system; Weirdness is the private threshold that counters it. |
-| [[#1 Champion (la Conquistadora)]] | Mary named here; same figure who appears faceless in Weirdness. |
+| [[No. 1 Champion (la Conquistadora)]] | Mary named here; same figure who appears faceless in Weirdness. |
 | [[Essays/Concepts/Songs/Lucius Lullaby]] | **Not** a Mary appearance — corrected 2026-06-06: the "set you free / magic mirror" rescuer voice there is [[Sir Lucius]] *counterfeiting* the Mary-function (no Mary in the verified lyrics). The contrast sharpens Weirdness's *real* faceless-Mary. |
 | [[The Circle]] | "A world tied on a string" — both chorus instances say "your/my head is off its string." The freedom was already there; the song is finding out it's yours. |
 | [[SOL]] | The love-current beneath the weirdness; the song Lucius cannot metabolize. |

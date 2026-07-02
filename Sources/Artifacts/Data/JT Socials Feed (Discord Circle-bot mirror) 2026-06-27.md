@@ -10,9 +10,17 @@ ingest_source: "The Jagwar Twin Discord #🐦socials channel — an automated 'C
 **The durable archive of @JagwarTwin's social posts.** The Jagwar Twin Discord (`#🐦socials`, channel `785690058476617768`) runs an automated bot named **"Circle"** that mirrors every Twitter/X, YouTube, Instagram, and Twitch post into Discord as a rich embed. Because Discord stores the embed (author, title, **full post text**, url, timestamp) **at the moment of posting**, these survive deletion from the source. Roy's live X record is largely **deleted** — so for ~2,400 tweets, **this is the only durable copy.**
 
 - **Raw data:** `Sources/Artifacts/Data/JT Socials Feed (Discord Circle-bot mirror) 2026-06-27.json` — **3,770 records**, one per mirrored post. Fields: `id` (Discord msg id), `ts` (ISO timestamp), `h` (host), `a` (embed author), `t` (title), `d` (description = the post text), `u` (url, protocol-stripped).
-- **Span:** **2020-12-08 → 2026-06-27.**
+- **Span:** **2020-12-08 → 2026-07-01.** *(Base pull ran to 2026-06-27 = 3,770 records; the +7 posts through 2026-07-01 were added in the Increment below → 3,777.)*
 - **Breakdown:** **2,413 Twitter/X · 644 YouTube · 640 Instagram · 19 Twitch · 54 other.**
 - **By year (tweets):** 2020 ×18 · 2021 ×384 · 2022 ×645 · 2023 ×381 · 2024 ×300 · 2025 ×581 · 2026 ×104.
+
+## Increment — 2026-07-01 (+7 posts, incremental crawl)
+Re-crawled `#🐦socials` for everything after the base-pull boundary (msg id `1520245272431820821`, 2026-06-27T01:51Z) via the same Chrome-MCP channel-messages method. **7 new mirrored posts → JSON now 3,777 records.** The `after`-boundary fetch returned a single sub-100 batch, so this is the **complete** set with no gap. They collapse to **4 unique items** (each aphorism double-posted to YouTube Shorts + Instagram; plus one merch post):
+- **[caption quote] *"Something ancient in me is afraid of being seen. - El Roy"*** — YT Short (`watch?v=UNvixK_Cqlg`, 06-28) + IG (`/p/DaI7tXdJTTk/`, 06-29). **El Roy-signed**; the seen/unseen / El Roi / being-watched axis (→ [[The Watchers]], [[Weirdness]]'s *"face out of sight"*, [[Witnessing vs Surveillance]]).
+- **[caption quote] *"You don't make it out alive"*** — YT Short (`watch?v=6p1cKrL-Tgg`, 06-29) + IG (`/p/DaLcy6avXNn/`, 06-30). Mortality register (cf. [[City of Angels]] *"never gonna die"* false-immortality; [[Moths to the Flame]]).
+- **[caption quote] *"you just love me for my lore"*** — YT Short (`watch?v=hrPUw3FCGF8`, 06-30) + IG (`/p/DaOGyP1hOQu/`, 07-01). Wry / meta on the ARG-lore fandom (the 2026 mastery/irony register; cf. [[Brain/Roy Voice/June 2026 Feed — Fluency in Opposites (translation, slay-the-slayer)|June-2026 feed]]).
+- **[merch]** *"'what a great time to be human' Puff Tee available now"* — IG (`/p/DaGGaJdlLg1/`, 06-28). Product post; echoes the [[Great Time to Be Human]] title, not a new aphorism.
+The 3 caption-aphorisms are also logged to the quote layer ([[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]] + [[Master Source List]] §7). **IG-Stories gap still stands** (the Circle bot mirrors only feed posts, not ephemeral Stories).
 
 ## Why this is a big deal
 1. **Recovers the "unrecoverable" 2022 campaign window.** **341 tweets from Feb–Aug 2022** are here — the exact HoM clue-seeding window I'd previously logged as *lost* (deleted from X, gone from Wayback's React-shell era; see [[Sources/Artifacts/HoM - 2022 Twitter & Campaign (Wayback recovery) 2026-06-26]], which recovered only 2 of 6 target tweets). The mirror has the whole period in clean text.

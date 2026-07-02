@@ -160,12 +160,7 @@ The refrain *"I'm a loser, baby, just like you"* therefore becomes a strange for
 
 ## Open Questions
 
-- [ ] To what extent does the repetitive nursery-rhyme cadence intentionally mirror the "Trojan Horse" songwriting structures Roy discussed studying during the early commercial period?
-- [~] Does the California / Mexico pairing function symbolically as a border-threshold image between systems, identities, or psychic states?
-- [x] **Is the brightness of the song evidence of genuine emergence?** **No.** Retrospective catalogue analysis shows the brightness functions primarily as **emotional survival architecture** rather than stable integration [W].
-- [x] ~~**Lyric verification:** is *"I think the world's gone insane"* actually audible?~~ **RESOLVED 2026-05-28 (Spotify confirms).** The bridge is present in Spotify's synced lyrics (Apple's omitted it). Source body restored; section 5's "World gone insane" beat now carries full grounded weight.
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Loser#Open Questions|Loser — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

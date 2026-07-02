@@ -1,7 +1,8 @@
 ---
 type: note
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 citable: false
 created: 2026-06-13
 about: "Vetting dossier 02 — the Circle hinge: how 33 (2022) and Lucius Lullaby (2026) are turned 180 degrees on the same keystone doctrine. Plain text, public material only. Read the Context Primer first."

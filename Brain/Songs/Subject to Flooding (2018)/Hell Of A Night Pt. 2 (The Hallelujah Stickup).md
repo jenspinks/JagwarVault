@@ -23,7 +23,7 @@ review_date: 2026-11-16
 ---
 # Hell Of A Night Pt. 2 (The Hallelujah Stickup)
 
-Track 11, *Subject to Flooding* (2018-09-21 release; 2019 Apple-metadata redistribution). Closes the album's final triad (paired with [[Hell Of A Night|Hell of a Night Pt. 1]] / Track 10). **Composition & Lyrics (Spotify Credits, verified 2026-05-28): Roy English, Michael Morgan.** **Production:** Roy English, Michael Morgan, Matt Pauling (Producers); S1 (Executive Producer); Chris Gehringer (Masterer); Jeff Ellis (Mixer). **Lyrics + credits fully verified-stable** (Spotify, 2026-05-28). Full essay: [[Brain/Songs/Subject to Flooding (2018)/Hell Of A Night Pt. 2 (The Hallelujah Stickup)|Essays/Songs/Hell of a Night Pt. 2]].
+Track 11, *Subject to Flooding* (2018-09-21 release; 2019 Apple-metadata redistribution). Closes the album's final triad (paired with [[Hell Of A Night|Hell of a Night Pt. 1]] / Track 10). **Composition & Lyrics (Spotify Credits, verified 2026-05-28): Roy English, Michael Morgan.** **Production:** Roy English, Michael Morgan, Matt Pauling (Producers); S1 (Executive Producer); Chris Gehringer (Masterer); Jeff Ellis (Mixer). **Lyrics + credits fully verified-stable** (Spotify, 2026-05-28). Full reading: [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)]].
 
 ## Voicing
 [[Roy]], first-person, anthemic/collective ("we"). Pre-Lucius — but **proto-Lucius outlaw architecture is forming**.

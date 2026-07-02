@@ -28,13 +28,7 @@ This repo is a **backup of the live vault, not the live vault.** The source of t
 - **Fact-claims:** never assert one you didn't verify against a repo file. A fact-claim is anything checkable — a lyric, quote, credit, track #, album, date, who-said-a-line, a tattoo, an Ontology ID, a "Bailey says…". You can read the file, so do.
 
 ## Tier every interpretive claim (tag inline — the vault's legend)
-- **`[G]` Grounded** — directly supported by a named public source (lyric / credit / interview / official text); cite it.
-- **`[W]` Strong Read** — interpretation on ≥2 public anchors; hedge ("reads as," "suggests").
-- **`[P]`** — a stated position (Jen's, or a committed thesis); attribute it.
-- **`[~]` Resonance** — a framework correspondence (Jung, Kabbalah, Bailey, tarot, Gnostic, Hermetic…); attribute to the framework, **never** claim Roy intended it.
-- **`[?]`** — unverified / a genuine leap. Flag it; never smuggle it.
-
-Never let a Strong Read pass as Grounded. Write *"the work reads as…"*, never *"Roy meant…"*.
+`[G]` grounded (named public source, cite it) · `[W]` strong read (≥2 public anchors, hedge "reads as") · `[P]` a stated position (Jen's or a committed thesis, attribute it) · `[~]` resonance (framework correspondence, e.g. Jung/Kabbalah/tarot/Gnostic/Hermetic, attribute to the framework, never "Roy meant") · `[?]` unverified lead / genuine leap (flag, never smuggle) · `(no marker)` legacy grounded-citation form, e.g. `(none — lyric)` / `(none — EP3, [URL])` / `(none — Mirror Sessions)`. Never let a `[W]` pass as `[G]`.
 
 ## The interpretive guards (the vault's hard-won discipline)
 - **Inherited Substrate is the law** (`Brain/Concepts/Inherited Substrate.md`): *not all resemblance is reference.* Credited/named → `[G]`; strong breadcrumb → `[W]`; shared tradition → `[~]`; similarity alone → `[?]`; failed source-pin → ruled out. Comparison is licensed; it is **not** proof.

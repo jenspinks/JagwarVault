@@ -53,14 +53,11 @@ related: [CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, CONCEPT-TheThread
 
 ## Open Questions
 
-- **[?] Lyric → stable** — verify against Apple Music **and** Spotify; resolve any mishears in the non-lexical runs. Drive doesn't count.
-- **[?] The blessing cluster's `[G]` floor** — the supporting quotes (Ballerina Boy *"God's design / let your light shine,"* Weirdness *"you were born to shine"*) are themselves Drive/AZLyrics-sourced; the cluster's grounding waits on their verification.
-- **[?] EP tracklist / MAGIK's position** — confirm before asserting any sequence-meaning.
-- **[?] The "you"** — unresolvable by design (read #5); not a defect to close.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Singles & EPs/MAGIK#Open Questions|MAGIK — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 
-[[Witnessing vs Surveillance]] (restorative seeing at its clearest) · [[Ballerina Boy]] / [[Weirdness]] / [[#1 Champion (la Conquistadora)]] (the blessing-voice cluster — blessing a shamed/hidden light into its own worth) · [[SOL]] (both locate the saving force outside strategy/spectacle — blessing/voice, not control) · [[The Labyrinth]] / [[The Thread]] (the "middle of a maze") · [[Roy]] (emphatically Roy-side).
+[[Witnessing vs Surveillance]] (restorative seeing at its clearest) · [[Ballerina Boy]] / [[Weirdness]] / [[No. 1 Champion (la Conquistadora)]] (the blessing-voice cluster — blessing a shamed/hidden light into its own worth) · [[SOL]] (both locate the saving force outside strategy/spectacle — blessing/voice, not control) · [[The Labyrinth]] / [[The Thread]] (the "middle of a maze") · [[Roy]] (emphatically Roy-side).
 
 ## Sources
 

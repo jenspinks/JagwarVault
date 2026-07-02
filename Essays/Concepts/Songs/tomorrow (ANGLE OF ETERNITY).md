@@ -56,10 +56,7 @@ Standalone single — **Jagwar Twin × lovelytheband** (collab). `[G]`. Writers 
 
 ## Open Questions
 
-- **[?] Collaborative vocal split** — JT vs lovelytheband: who sings verses, bridge, the *"I AM"* chant? A second voice changes the geometry of "you" and "I" (singing *to* each other, *to* the audience, or in unison). Don't invent it.
-- **[?] "A war that I lost and won"** — what war? (internal / Lucius? industry? the human condition?) Losing-and-winning-at-once points at the surrender-as-victory theme; hold open.
-- **[?] Writers / credits** — confirm whether Roy co-wrote or it was an outside pitch; gates the Roy-attribution in read #3.
-- **[?] Lyric → stable** — AZLyrics single-source; cross-check the full text against Apple Music **and** Spotify.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Singles & EPs/tomorrow (ANGLE OF ETERNITY)#Open Questions|tomorrow (ANGLE OF ETERNITY) — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

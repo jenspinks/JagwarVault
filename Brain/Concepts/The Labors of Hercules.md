@@ -93,7 +93,7 @@ Roy explicitly: *"cancer specifically is the **fourth labor**"* (grounds the num
 Nemean Lion = coordinated dominant personality (successful ego turned tyrannical). Cave w/ two openings; block one (seal emotional escape), drop weapons, strangle bare-handed = integrate, don't kill; energy preserved, authority changes. → [[The Mask|Strength card]] = earned steady state. [W] Lucius = the un-tamed lion; [[Brain/Songs/Welcome to the Circus]] = lion ravaging before the cave.
 
 ## Strongest lyric anchor (none)
-[[Essays/Concepts/Songs/Not Your Homie]]: "if you choose to tame The Beast / you've got to prove yourself to be / a champion." [W] *tame* (not kill) + *The Beast* + *champion* + *choose to* = tight Leo cluster. [[#1 Champion (la Conquistadora)]] reinforces (track 8).
+[[Essays/Concepts/Songs/Not Your Homie]]: "if you choose to tame The Beast / you've got to prove yourself to be / a champion." [W] *tame* (not kill) + *The Beast* + *champion* + *choose to* = tight Leo cluster. [[No. 1 Champion (la Conquistadora)]] reinforces (track 8).
 
 ## Counterarguments [W]
 "tame the beast" is universal; "champion" may = winner not initiate; Bailey is one syncretic layer not spine; album arc has ≥1 valid frame; retrospective-totalization risk. **Updated test (2026-05-30):** Bailey-*presence* is now grounded (Roy names the book), so the guard is no longer "is Bailey here?" but **"does *this song* actually map to a labour, or am I back-fitting Roy's stated interest onto unrelated material?"** Roy using the framework licenses the lens; it does not license mapping every track.

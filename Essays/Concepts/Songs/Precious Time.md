@@ -49,9 +49,8 @@ related: [ALBUM-SubjectToFlooding, SONG-HellOfANightPt2TheHallelujahStickup, SON
 - **Baptism inverted.** The submersion reveals truth but does not cleanse — more drowning than rebirth; if a baptism is present it is a frightened one. Water as revelation without (yet) redemption — the redemption deferred one track, to [[Essays/Concepts/Songs/Shine|Shine]]. `[~]`
 
 ## Open Questions
-- **The sample's placement `[?]`** — pin where the Vaughan banter sits in the mix and (if clearly audible) what she says. Log on the **source** page as sample-audio notes — **never** as lyric text; upgrade the `[P]` ID if the match is unambiguous.
-- **"Breathe" vs "breath" `[?]`** — metadata typo or choice; kept verbatim, glossed in analysis.
-- **The couplet `[?]`** — metaphor / lament / ancestry / sonic image: hold open; **no identity claim.**
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Precious Time#Open Questions|Precious Time — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 [[Subject to Flooding (album)]] (the title metaphor and the clock revealed as one thing) · [[Essays/Concepts/Songs/Hell Of A Night|Hell Of A Night]] (the momentum that failed) · [[Essays/Concepts/Songs/Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell of a Night Pt. 2]] (seizure-logic extended to Heaven's gate and the stockpile) · [[Essays/Concepts/Songs/Shine|Shine]] (the immediate answer — recognition → dawn; Shine *chooses* light, it doesn't cancel the water) · [[Essays/Concepts/Songs/Dream - Dream|Dream / Dream]] (the shared 1957 Vaughan source — song there, speech here) · [[LOOP]] (form-enacts-content kinship of device).

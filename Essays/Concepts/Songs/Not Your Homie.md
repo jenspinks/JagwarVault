@@ -93,7 +93,7 @@ The Ballerina-Boy ending reportedly closes on a faceless female voice: *"the moo
 - illuminated by **fear, algorithms, survival pressure, audience hunger** → he becomes viral, synthetic, dominating;
 - illuminated by **source-light** (the faceless mother, [[SOL]], heart, remembrance) → he becomes reminder, witness, bridge — *carrier of light through darkness.*
 
-He is **the moon trying to become a sun.** That is the tragedy, and the reason he reads as morally complex rather than evil.
+He is **the reflection trying to become the source — the mind mistaking its borrowed shine for the light.** That is the tragedy, and the reason he reads as morally complex rather than evil. *(Corrected 2026-07-01: the vault's earlier phrasing here, "the moon trying to become a sun," is superseded — that lunar arc is **Roy's**, and Venus/Netzach is Roy's by his own word; Lucius's register is the **Hod-mind** working *through* the reflective sphere. Single home of the map: [[Kabbalah - The Tree of Life]].)*
 
 ## El Roi on the Throat
 
@@ -103,11 +103,11 @@ A tight irony falls out *[W]*: Lucius wears *"the God who sees me"* on the very 
 
 ## Champion and the False Crown
 
-*"Prove yourself to be a champion"* is deliberately ambiguous — recruitment/domination on one reading, alchemical confrontation-with-the-Beast on the other. The catalogue sharpens it: in [[#1 Champion (la Conquistadora)]] Lucius claims championship, then encounters **Mary / La Conquistadora** (*"with a gun in her hand … fawning over no man"*) and **loses symbolic dominance.** So in *Not Your Homie* he is, in effect, **reselling a crown already revoked** — the champion who has been or will be unseated, still hawking the title. (See [[Mary]].)
+*"Prove yourself to be a champion"* is deliberately ambiguous — recruitment/domination on one reading, alchemical confrontation-with-the-Beast on the other. The catalogue sharpens it: in [[No. 1 Champion (la Conquistadora)]] Lucius claims championship, then encounters **Mary / La Conquistadora** (*"with a gun in her hand … fawning over no man"*) and **loses symbolic dominance.** So in *Not Your Homie* he is, in effect, **reselling a crown already revoked** — the champion who has been or will be unseated, still hawking the title. (See [[Mary]].)
 
 ## The Beast — Integration, Not Destruction
 
-The line says *tame*, never *kill.* In Jung, alchemy, Hermeticism, and the project's own grammar, the Beast is instinct, libido, vitality, survival-force — and **Lucius is that Beast refined into strategy**: Roy's anger, ambition, humiliation, fear, charisma, performance-intelligence, organized into a working system. So the peril the song stages is not defeating Lucius but whether Roy will **serve** him instead of **integrating** him. The catalogue is consistent: wholeness is *heart + shadow*, not *heart instead of shadow*. Without shadow, spirit becomes weak dissociation; without heart, shadow becomes domination. Best read beside [[Essays/Concepts/Songs/Welcome to the Circus]] (the lion *untamed*) and toward [[#1 Champion (la Conquistadora)]] (the archetype titled).
+The line says *tame*, never *kill.* In Jung, alchemy, Hermeticism, and the project's own grammar, the Beast is instinct, libido, vitality, survival-force — and **Lucius is that Beast refined into strategy**: Roy's anger, ambition, humiliation, fear, charisma, performance-intelligence, organized into a working system. So the peril the song stages is not defeating Lucius but whether Roy will **serve** him instead of **integrating** him. The catalogue is consistent: wholeness is *heart + shadow*, not *heart instead of shadow*. Without shadow, spirit becomes weak dissociation; without heart, shadow becomes domination. Best read beside [[Essays/Concepts/Songs/Welcome to the Circus]] (the lion *untamed*) and toward [[No. 1 Champion (la Conquistadora)]] (the archetype titled).
 
 ## The Feeling That Must Not Be Cut — the Father's Diagnostic
 
@@ -129,14 +129,7 @@ Probably *yes, no, and neither.* One part of him wants recognition, relief from 
 
 ## Open Questions
 
-- [x] **Bargain scene + verbatim dialogue — CONFIRMED** (transcript of public EP2): SOL refused; *"this is what the people want / it doesn't mean anything / exactly, it's nonsense, it's all nonsense"*; Roy's concession *"I'll give you this one"* is **verbatim**, not a paraphrase. Final polish only: an in-video timestamp.
-- [x] **Which sincere song is refused — RESOLVED: [[SOL]] ("The Song of Love"), in EP2** (and overridden again for [[Essays/Concepts/Songs/Welcome to the Circus]] in EP3 — two override beats).
-- [x] **Ballerina-Boy moon line — CONFIRMED a female voice.** The whole BB outro, including the moon line, is an older motherly female voice (Jen, audio) — see [[Essays/Concepts/Songs/Ballerina Boy]] / [[Mary]].
-- [x] **El Roi placement — CONFIRMED:** Hebrew on Lucius's neck reading "El Roi" (transcript note + video still). The Da'at reading is anchored.
-- [~] **EP "child" beats** — mostly grounded: apple-eating + *"you're very strange"* in EP4; **Leif** introduced EP5 and speaking EP6 (*"Boss, I got this"*). The habitual *camera-glances* remain a loose visual claim.
-- [x] ~~Does MERCY sing a distinct *lead* section~~ **RESOLVED [G]:** Roy's 2025-10-31 post confirms she originated the chorus hook via voicenote — creative authorship of the hook is hers. Whether the final recording uses her voice or Roy's revoicing = still audio-open, but the contribution is generative, not merely supportive.
-- [x] **MERCY — RESOLVED (public credits).** Credits (Qobuz, corrob. Apple/Shazam) list "**Mercy**" as *Vocalist, Main Artist, Background Vocalist*, legal name **Mercedes Colletta Britton** — also credited co-writer. A real collaborator, **not** the Pillar of Mercy and **not** a [[Mary]] cipher. (IG @unimerce_, X @Unimerce1.)
-- [x] **Writers/producers — DONE.** Roy English, Mercedes Colletta Britton, Dave Burris (writers); Jagwar Twin + Dave Burris (prod); mix/vocal-prod Roy English; mastering Dale Becker, Noah McCorkle. (Qobuz.)
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/Not Your Homie#Open Questions|Not Your Homie — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Counterarguments / Alternate Reads
 
@@ -155,7 +148,7 @@ The honest position: with the visual-lore frame, the Lucius-triumph / shadow-dem
 | [[Essays/Concepts/Songs/Welcome to the Circus]] | Chain-sibling. NYH = trial *named* / feeling *sacrificed*; WTTC = lion *untamed*. Shared strategic-spectacle thesis. |
 | [[LOOP]] | The loop Lucius accuses Roy of; carries *"my mind must serve my heart."* |
 | [[The Labors of Hercules]] | "Tame the beast / champion" — strongest public anchor; integration-not-destruction. |
-| [[#1 Champion (la Conquistadora)]] | The crown Lucius resells here is revoked there by Mary / La Conquistadora. |
+| [[No. 1 Champion (la Conquistadora)]] | The crown Lucius resells here is revoked there by Mary / La Conquistadora. |
 | [[The Thread]] | The feeling that must not be cut — what NYH trades away. |
 | [[Essays/Concepts/Songs/Ballerina Boy]] | The underperforming sincerity Lucius cites; the moon-line source. |
 | [[Sir Lucius]] | Voicing; Beast refined into strategy; Yesod/moon; El Roi; the mirror-flip. |

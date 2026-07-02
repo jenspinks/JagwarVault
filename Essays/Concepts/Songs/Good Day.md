@@ -164,15 +164,7 @@ The song critiques day-job automation — *"Working so hard at your day job / Ha
 
 ## Open Questions
 
-- [ ] **Who is "Essex"?** Apple Music Lyrics-tab Written By: *Essex, Roy English, S1*. Possible interpolation source (cf. the album's Mercer / Chaplin pattern); Discogs gated, web search inconclusive. Research path: ASCAP / BMI Songview, official liner notes, or sample-spotting by ear.
-- [ ] Is *"Phoebe"* (in *"Now me and Phoebe out in Paris"*) literal, symbolic, or both?
-- [~] Does *"Phoebe"* carry **lunar resonance** through its mythic association (Phoebe the Titan, "bright moon," grandmother of Apollo/Artemis), or is that over-reading? Currently `[~]` — tonally suggestive given the album's Yesodic register but under-anchored without authorial context.
-- [x] Is *"No time for the clown"* a prediction of Lucius? — **No.** Best reading: retrospective irony [W].
-- [x] Is this albedo? — **No.** Better: **nigredo-adaptive brightness** — relief protected as mood rather than integrated as wholeness [W].
-- [ ] Wave / Flood inversion: confirm Good Day is the Flood's *success-pole* sibling to [[Essays/Concepts/Songs/Loser]]'s loser-pole? Same survival-architecture playing both win and lose.
-- [ ] **`CONCEPT-TheProtector` has no Brain page** (pageless — Ontology-declared only), yet this essay, [[Essays/Concepts/Songs/Loser]], and [[Essays/Concepts/Songs/No Fake Friends]] all lean on it. Write the Protector Brain page — grounding it from the triad essays + Roy's wound/heart-mind statements, **not** from the untriaged `_System/_legacy/` synthesis files (which carry unvetted "savior-archetype" doctrine).
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Good Day#Open Questions|Good Day — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

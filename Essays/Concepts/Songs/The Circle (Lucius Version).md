@@ -49,9 +49,7 @@ related: [CONCEPT-TheCircle, SONG-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheAlgo
 
 ## Open Questions
 
-- **[?] Child voices** — confirm whether Charlotte / Reagan Egner are children before the "identity-compression / put-the-child-to-sleep" read hardens.
-- **[x] Dog/god line** — quarantined to [[Great Time to Be Human]] (not in this track); affirmed.
-- **[?] The SOL bracket** — the "Lucius can't metabolize it" half depends on the EP7 SOL check on the [[SOL]] page; not asserted here beyond SOL being the Track-14 closer.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/The Circle (Lucius Version)#Open Questions|The Circle (Lucius Version) — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

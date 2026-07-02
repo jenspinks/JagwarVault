@@ -62,6 +62,11 @@ The thread tying *Happy Face* to a **deliberately-engineered "trick the brain ch
 
 This is **Gurdjieff's Objective Art stated as method** — the song built as a functional tool to induce a calculated internal state (the Resonance note above, now with an authorial warrant). *(Still unconfirmed-public: the specific alchemical-*Stone* / invisibility sub-motif — keep only that piece flagged.)*
 
+## Artifacts
+
+**Cinnamon the Horse (Trojan Horse Program)** · `RIGHT SHOULDER OF A HORSE` — the *'Trojan Horse Program'* card names Roy's Trojan-Horse-music doctrine — with Happy Face as its flagship example. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png" width="220"></a>
+
 ## Connections
 | Node | Relationship |
 |---|---|

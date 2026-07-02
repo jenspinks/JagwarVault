@@ -1,7 +1,8 @@
 ---
 type: note
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 citable: false
 created: 2026-06-15
 about: "Vetting dossier 01 (large chunk) — the 'I'm 33' board as a decoder of the catalogue: the Tao Te Ching receipt (D3), Marduk (D4), the 1–11 Tracks count (D5), and the 22-film Rosetta (D6). Plain text, public material only. Read the Context Primer first."

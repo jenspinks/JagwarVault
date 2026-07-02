@@ -1,7 +1,9 @@
 ---
+aliases: ["#1 Champion (la Conquistadora)", "#1 Champion"]
 type: note
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 ---
 # "#1 Champion (la Conquistadora)" — Analysis Brief (for external review)
 

@@ -70,9 +70,16 @@ And the **paratext** completes the loop. Roy posted to his Instagram Story a pag
 **Resonance `[~]`:** the MJ pop-surveillance ghost (intent); the Grigori; the Ezekiel/Horus four-living-creatures witness; the Dream/Yesod layer.
 
 ## Open Questions
-- Release: confirm date and whether the credited cut is the 2024 single/EP or a re-release; exact 3-track EP contents (a *Slowed + Verb* version is confirmed).
-- Is the Michael Jackson reference a deliberate pop-surveillance-ghost gesture or dance-icon shorthand?
-- Does the Jung Story key to a specific lyric beat, or is it general paratext?
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Singles & EPs/The Watchers#Open Questions|The Watchers — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
+
+## Artifacts
+
+**Horus (Eye-of-Horus fractions)** · `WE ANTHROPOMORPHIZE EVERYTHING` — the all-seeing Eye of Horus as diagram — the Jung/Horus page Roy scored to this single. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfb6c762ec043c75c306cfce699139ff6c4fde2717094e78fc5fa22c39f2aa77c..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfb6c762ec043c75c306cfce699139ff6c4fde2717094e78fc5fa22c39f2aa77c..jpg" width="220"></a>
+
+**Complete Upload Recipe** · `INTERNAL GUIDE` — its 63/64 Eye-of-Horus sense-fractions are the clone-paradox this song names, *'I'm afraid I'm a clone'*. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeb355aac61d7bdff66349fed14458aff800433f0ff39aaf203c6c4a9a9558bb0..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeb355aac61d7bdff66349fed14458aff800433f0ff39aaf203c6c4a9a9558bb0..png" width="220"></a>
 
 ## Connections
 [[City of Angels]] (clone = inward turn of replication) · [[Playing to the Gods]] (crowd-as-Eye = inward turn of the deified crowd) · [[Lucius Lullaby]] (sedation ↔ alarm; "life is but a dream" ↔ "is it just a dream / wake up") · [[Sir Lucius]] + "Stop Sir Lucius" (the accusatory crowd / scapegoat) · [[Bad Feeling (Oompa Loompa)]] / [[Bananas]] / [[Welcome to the Circus]] (candy / consumption / spectacle) · [[The Algorithm]] / [[The Circus]] (the fascinated crowd-machine) · [[Online]] (named surveillance precedent, 2022) · [[I Like to Party]] (the faceless congregation) · [[Dream - Dream|Dream]] (the interpolation precedent — Mercer) · [[Witnessing vs Surveillance]] / [[Inversion]] (being-seen; mirror → eye) · [[The Angels and the Angles]] (angles without angels = the clone; *r-'-y* = mirror/eye) · [[The Dweller on the Threshold]] (the bad-guy the gaze makes).

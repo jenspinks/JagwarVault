@@ -33,6 +33,9 @@ Tracklist unknown. The title is the name of the Harry Potter character — a fig
 - Is the Dumbledore reference sincere, ironic, or both?
 
 ---
+- **[?] The "Constantine" fork.** Emperor Constantine (who *institutionalized* Christianity — an odd fit for a *persecuted-martyr* list) vs. **John Constantine** (DC's demon-fighting occultist — fits *"and I'm fighting demons"* perfectly). The latter reads cleanly *if* the word is even right. An interpretive fork **and** a transcription risk at once.
+- **[?] EP structure** — dumbledore's relationship to the MAGIK EP (same EP? separate? single?).
+- **[?] Lyric → stable** — verify Galileo / Joan / Constantine / "Crucified" / "caught thorns" / "eyes wide shut" against Apple Music **and** Spotify; AZLyrics doesn't count.
 
 ## Sources
 - [[Sources/The Game/Gatekeeper Saga (dumbledore)]] — the release chronology (Roy + Michael, public `#⭕the-circle`, 2023–2025); cite the permalinks therein.

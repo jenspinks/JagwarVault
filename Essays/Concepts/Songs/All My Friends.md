@@ -51,9 +51,8 @@ Standalone single, **2023-05-26**, Big Loud. `[G]` Writers **Roy English, Colin 
 - **The shrunk perimeter** — *"don't wanna go outside"* resonates with [[Essays/Concepts/Songs/No Fake Friends|N.F.F.]]'s defensive social filtration: when the world floods, the circle tightens to the trusted few.
 
 ## Open Questions
-- **"Jenny = 408" `[?]`** — the post is real and release-dated; the meaning is open (number-song trope / area code / timestamp — none asserted).
-- **Jenny herself `[?]`** — real person, archetype, scene-portrait, or composite? Don't fix her symbolic role without evidence.
-- **The end-times register `[?]`** — sincere dread, irony, affection, or all three? The lyric supports the blend; hold it.
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Singles & EPs/All My Friends#Open Questions|All My Friends — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 [[Essays/Concepts/Songs/Life Is Good|Life Is Good]] (the world-ending-so-choose-togetherness sibling, six months later, 2023) · [[Essays/Concepts/Songs/City of Angels|City of Angels]] (the clone's 2026 destination — *"everyone looks just like you"*; retrospective seed) · [[The Watchers]] (clone → surveillance) · [[Brain/Concepts/The Circle|The Loop]] (spinning ≠ the Circle) · [[Witnessing vs Surveillance]] (the crowd sees a copy; friends see you) · [[Essays/Concepts/Songs/Ballerina Boy|Ballerina Boy]] (the dancer who *"used to be"*) · [[Essays/Concepts/Songs/Precious Time|Precious Time]] (the expiring clock — kinship of theme).

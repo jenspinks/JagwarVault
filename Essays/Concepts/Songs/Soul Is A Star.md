@@ -231,3 +231,11 @@ Is the work **fighting** the asymmetry (pain transmits, wisdom doesn't) or **acc
 > We can make "Roy is a millennial Joni Mitchell" funny again. Maybe not this part, though. Because… damn.
 >
 > And that's only the foundation of the ties. There are many more — just none quite as profound as watching mythology cycle through.
+
+## Artifacts
+
+**Religious Organism (rejected album art)** · `HOW TO STEER THE SOUL` — a soul enshrined as a luminous icon in a colored ring on a starfield — the visual of *'your soul is a Star'*. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84f9ea3e9a05b88f67564f83b59868af069a49f4476d9c51652dfa9fe95052a9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84f9ea3e9a05b88f67564f83b59868af069a49f4476d9c51652dfa9fe95052a9..jpg" width="220"></a>
+
+**David Star — 'Where The World Was Crossed'** · `TWISTED LADDER` — a soul-spark cast into The Deep that ascends to become a star/constellation — the picture behind *'your soul is a Star'*. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png" width="220"></a>

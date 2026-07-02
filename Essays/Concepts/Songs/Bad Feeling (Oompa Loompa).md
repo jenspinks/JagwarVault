@@ -59,9 +59,8 @@ Even the one un-coated moment confirms the design. Amid the jingle, a single pro
 **Resonance / open:** the corrupted "That's Amore" moon → lunacy (moon = Lucius's reflected light); candy-paradise as Maya / false Eden (Kierkegaard's "crowd is the untruth," Bailey on illusion); the Oompa-Loompas as consumed labor; Jungian shadow-alarm. **Boundary:** "teeth / no-exit maze / chew you up" belong to [[Welcome to the Circus]] (track 4), not here.
 
 ## Open Questions
-- [ ] Who is the **"you"** the bad feeling is about (listener / industry / Roy / Lucius / the appetite-machine)? And the **"I"** — Lucius warning about the system, or the buried self warning about Lucius?
-- [ ] Does the acoustic-live (track 15) reveal a mournful core under the candy machinery?
-- [ ] Is the "moon → unwell" echo of "That's Amore" / "Unwell" intentional?
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/Bad Feeling (Oompa Loompa)#Open Questions|Bad Feeling (Oompa Loompa) — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 | Node | Relationship |

@@ -1,4 +1,5 @@
 ---
+aliases: ["#1 Champion (la Conquistadora)", "#1 Champion"]
 type: lyrics
 citable: true
 status: stable
@@ -73,7 +74,7 @@ Performance fact (not interpretation), from the recording + official visualizer:
 - **The ending:** Mary's voice **fades**, Lucius **drowns her out**, she goes **silent**, and he repeats the title a few times **alone** — the **last one a cappella, after the music has ended.**
 - The verse's *"…dropped me dead when she said"* leads **directly into the chorus**, so "she said" = *"A-B-C, count 'em…"* (Mary's count).
 
-Evidence class = performance/visual (cf. the Ballerina Boy outro voice). Analysis: [[Brain/Songs/Lucius Lullaby (2026)/#1 Champion (la Conquistadora)]].
+Evidence class = performance/visual (cf. the Ballerina Boy outro voice). Analysis: [[Brain/Songs/Lucius Lullaby (2026)/No. 1 Champion (la Conquistadora)]].
 
 ## Maintenance
 - Bulk-ingested 2026-05-25 from Google Drive doc 1; **VERIFIED → stable 2026-06-06** against Apple Music (Jen screenshots). Drive-draft wording normalized ("ABC"→"A-B-C", "No. 1"→"number one", "know about me"→"know 'bout me"). Repeated identical choruses condensed; all unique lines verbatim.

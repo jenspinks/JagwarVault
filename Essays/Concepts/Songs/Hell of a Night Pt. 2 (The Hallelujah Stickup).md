@@ -159,12 +159,7 @@ Within that condition, **crime becomes psychologically reinterpreted as agency**
 
 ## Open Questions
 
-- [ ] How intentionally did S1's production architecture amplify emotional invincibility to compensate for underlying lyrical instability?
-- [~] Does the transition from Track 10 ([[Hell Of A Night]]) into Track 11 represent the precise STF-era threshold where defensive adaptation mutates into overt behavioral volatility?
-- [x] **Why does the album repeatedly frame liberation through force, speed, or outlaw posture?** **Resolved [W]:** retrospective analysis across the STF-era material suggests the catalogue repeatedly treats **acceleration as a substitute for transformation** — the psyche attempts to outrun collapse through momentum until the strategy exhausts itself and formalizes into the Lucius structure.
-- [x] ~~**Lyric verification pending**~~ **RESOLVED 2026-05-28 (Spotify).** Substantive reconciliation: *"Red wine shoelace no body found"* (Spotify) vs AZLyrics' *"Red and white shoelace, nobody found"*; pre-chorus restructured into six short imperatives (robbery-command cadence); *"gonna"* → *"guna"* throughout. The Spotify body materially strengthens the heist reading; AZLyrics had flattened the crime-scene imagery.
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Hell Of A Night Pt. 2 (The Hallelujah Stickup)#Open Questions|Hell of a Night Pt. 2 (The Hallelujah Stickup) — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

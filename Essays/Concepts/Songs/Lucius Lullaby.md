@@ -135,12 +135,7 @@ Everything in the Jagwar Twin mythology flows forward from this moment. The arc 
 
 ## Open Questions
 
-- [ ] What specifically are the terms of the deal between Roy and Lucius?
-- [ ] Does Mary appear *visually* in the video? (She is **not** in the verified lyrics — correction 2026-06-06.)
-- [ ] How does this song function in live performance? Does the theatrical staging reveal anything the recording doesn't?
-- [ ] What is the relationship between the lullaby form and the broader sleep/wake motif across the catalogue?
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby#Open Questions|Lucius Lullaby — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Notes
 

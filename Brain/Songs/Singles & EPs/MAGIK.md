@@ -24,5 +24,8 @@ Tracklist unknown. Preceded Lucius Lullaby. "MAGIK" — the archaic spelling (cf
 - Is the "MAGIK" spelling intentional/esoteric?
 
 ---
+- **[?] Lyric → stable** — verify against Apple Music **and** Spotify; resolve any mishears in the non-lexical runs. Drive doesn't count.
+- **[?] The blessing cluster's `[G]` floor** — the supporting quotes (Ballerina Boy *"God's design / let your light shine,"* Weirdness *"you were born to shine"*) are themselves Drive/AZLyrics-sourced; the cluster's grounding waits on their verification.
+- **[?] The "you"** — unresolvable by design (read #5); not a defect to close.
 
 ## Sources

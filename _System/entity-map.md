@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `e143bdf` (2026-06-30 11:17:07 -0500) · 47 songs · 80 concepts · 6 characters · 3 albums
+> [!info] Generated snapshot — vault commit `3b47fcb` (2026-07-01 05:09:30 -0500) · 47 songs · 80 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -26,7 +26,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `SONG-PayAttentionFeatLittleLuna` | Pay Attention (feat. little luna) | 33 (2022) | `Brain/Songs/33 (2022)/Pay Attention (feat. little luna).md` · stable | `Sources/Lyrics/Pay Attention (feat. little luna).md` · stable | `Essays/Concepts/Songs/Pay Attention (feat. little luna).md` | `Sources/Credits/33.md` |
 | `SONG-SoulIsAStar` | Soul Is A Star | 33 (2022) | `Brain/Songs/33 (2022)/Soul Is A Star.md` · draft | `Sources/Lyrics/Soul Is A Star.md` · stable | `Essays/Concepts/Songs/Soul Is A Star.md` | `Sources/Credits/33.md` |
 | `SONG-TheCircle` | The Circle | 33 (2022) | `Brain/Songs/33 (2022)/The Circle.md` · stable | `Sources/Lyrics/The Circle.md` · stable | `Essays/Concepts/Songs/The Circle.md` | `Sources/Credits/33.md` |
-| `SONG-1ChampionLaConquistadora` | #1 Champion (la Conquistadora) | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/#1 Champion (la Conquistadora).md` · stable | `Sources/Lyrics/#1 Champion (la Conquistadora).md` · stable | `Essays/Concepts/Songs/#1 Champion (la Conquistadora).md` | `Sources/Credits/Lucius Lullaby.md` |
+| `SONG-1ChampionLaConquistadora` | #1 Champion (la Conquistadora) | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/No. 1 Champion (la Conquistadora).md` · stable | `Sources/Lyrics/No. 1 Champion (la Conquistadora).md` · stable | `Essays/Concepts/Songs/No. 1 Champion (la Conquistadora).md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-BadFeelingOompaLoompa` | Bad Feeling (Oompa Loompa) | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/Bad Feeling (Oompa Loompa).md` · stable | `Sources/Lyrics/Bad Feeling (Oompa Loompa).md` · stable | `Essays/Concepts/Songs/Bad Feeling (Oompa Loompa).md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-Bananas` | Bananas | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/Bananas.md` · stable | `Sources/Lyrics/Bananas.md` · stable | `Essays/Concepts/Songs/Bananas.md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-Bounce` | Bounce | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/Bounce.md` · draft | `Sources/Lyrics/Bounce.md` · stable | `Essays/Concepts/Songs/Bounce.md` | `Sources/Credits/Lucius Lullaby.md` |

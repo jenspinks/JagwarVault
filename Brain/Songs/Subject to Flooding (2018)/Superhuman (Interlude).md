@@ -32,7 +32,7 @@ A verbatim sample of **Charlie Chaplin's *The Great Dictator* (1940) closing spe
 [W] Voice = **Chaplin, sampled** — neither [[Roy]] nor [[Sir Lucius]]. An *inherited* voice placed into the sequence (`narrative_voice: unknown` for that reason). Inherited substrate, not internal architecture (`CONCEPT-InheritedSubstrate`).
 
 ## Moves
-- [W] **Relay / conduit, not authored doctrine.** Roy *curates and embeds* Chaplin's transmission — he does not invent the message. → transmission cluster (The Voice, Lunar Relay, Objective Art, Channel/Conduit, [[Witnessing vs Surveillance|Witnessing]]). Curated inherited transmission (B), not internal architecture (A) — `CONCEPT-InheritedSubstrate`. Full reading: [[Brain/Songs/Subject to Flooding (2018)/Superhuman (Interlude)|essay]].
+- [W] **Relay / conduit, not authored doctrine.** Roy *curates and embeds* Chaplin's transmission — he does not invent the message. → transmission cluster (The Voice, Lunar Relay, Objective Art, Channel/Conduit, [[Witnessing vs Surveillance|Witnessing]]). Curated inherited transmission (B), not internal architecture (A) — `CONCEPT-InheritedSubstrate`. Full reading: [[Essays/Concepts/Songs/Superhuman (Interlude)|essay]].
 - **The anchor of [[Machine vs Human]]** (grounded). The speech states the thread at its source: *"the power to create **machines**"* set beside *"the power to create **happiness**."* The machine is **human creative capacity**, not the enemy — the opposition is heart-integrated creation vs optimization severed from heart ([[Tiferet]] vs [[Yesod]]-severed). The interlude is the album's clearest statement that *the machine is not the antagonist*.
 - [W] **The clown before the Circus.** Chaplin = a clown/persona figure speaking *against* mechanization → historical inversion of the later Circus: the clown waking the crowd into agency vs the Ringmaster synchronizing it for spectacle ([[Brain/Songs/Welcome to the Circus]]).
 - [W] **Decentralized Tiferet-humanism.** "not in one man / nor a group of men / but in all men" = divinity distributed, not centralized — contrast the later centralization in Lucius (hierarchy, managerial intelligence, spectacle-management).
@@ -49,3 +49,4 @@ A verbatim sample of **Charlie Chaplin's *The Great Dictator* (1940) closing spe
 ## Open Questions
 - [ ] Why open the album's machine-statement with a *borrowed* 1940 voice? (Inherited-substrate practice — cf. [[Brain/Songs/Subject to Flooding (2018)/Dream - Dream]]'s Mercer interpolation, same album.)
 - [ ] How does the interlude function against the full [[Superhuman]] (track 6) that follows — setup, ironic frame, or thesis?
+- [ ] Is the "clown before the Circus" parallel structural (Chaplin → Lucius) or only resonant? Currently [W].

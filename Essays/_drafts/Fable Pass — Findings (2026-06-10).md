@@ -1,7 +1,8 @@
 ---
 type: report
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 generated_by: "Fable 5 (1M context) — full-corpus coherence/discovery pass + adversarial keystone review"
 snapshot: "HEAD dbcf8d2 · 152 pages · 0 errors · 0 warnings · run 2026-06-10"
 reading_frame: "Findings report per _System/Fable Pass — Brief.md §5. READ-MOSTLY: this file is the pass's only write. No claim graduates a tier here — graduation is Code/Jen's job."

@@ -53,6 +53,8 @@ The **dog↔god line** (*"she went to The Chemist to make her a dog… he was dy
 - [?] How the credits' separate **"ROY" + "sir lucius"** vocal entries map to the heard single "one voice."
 - [~] *"It's a beautiful life"* — faint echo of Ace of Base's "Beautiful Life" (1995)? Hold as resonance only: credits list **Roy English as sole writer** (no co-writer/interpolation credit, unlike Joni on [[Essays/Concepts/Songs/Soul Is A Star]]), which argues *against* a direct interpolation. Inherited-substrate guard applies.
 - [~] Is this music-box "I'm dreaming" reduction the album's thesis-in-miniature — the lullaby that sedates the Circle's awakening?
+- **[x] Dog/god line** — quarantined to [[Great Time to Be Human]] (not in this track); affirmed.
+- **[?] The SOL bracket** — the "Lucius can't metabolize it" half depends on the EP7 SOL check on the [[SOL]] page; not asserted here beyond SOL being the Track-14 closer.
 
 ## Connections
 | Node | Relationship |

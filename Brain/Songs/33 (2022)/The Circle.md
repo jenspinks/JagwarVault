@@ -47,6 +47,8 @@ Music-of-creation (Ainulindalë) · divine spark / kingdom-within (Malkhut) · E
 - Maker Jagwar / Wise One = divinity / consciousness / Sophia-Shekinah / nature / imagination / **the collective template ("all of us" remembering — Jen)** — or a *fusion* (cosmic-source face + immanent/collective-template face, joined in anamnesis)?
 - The cave = memory / sacred space / unconscious / origin?
 - Side-by-side with [[The Circle (Lucius Version)]] (same myth, Lucius's distortion) — analytically essential, not yet done.
+- [x] **Writer credit — RESOLVED:** Roy English (sole writer); Roy + Pauling produce. Confirms this as Roy's personal mythic statement.
+- [~] Foundational myth underlying [[LOOP]] / [[Lucius Lullaby]]?
 
 ## Counterarguments / Alternate Reads
 - Reads as a self-contained, "bizarrely beautiful" mythic **fable** closer; the Thread/tzimtzum/Sophia architecture is `[W]` — **but** unusually well-anchored (it's Roy's solo write, it names the project's own creatures, and it's the documented public source of the "song in its wings" phrase). Lower projection-risk than most framework reads.

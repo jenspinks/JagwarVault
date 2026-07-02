@@ -71,7 +71,7 @@ At seven years old: did ballet at Christian school. A teacher told his father th
 ## Key Relationships
 
 - [[Sir Lucius]] — formed from Roy's interior life. The mind divorced from the heart. Roy says: "I made you." Lucius pulled him out of the bottom. The deal may have been worth it.
-- [[Mary]] — the divine-feminine blessing voice. *(Corrected 2026-06-06: she does **not** appear in [[Brain/Songs/Lucius Lullaby]] — the "set you free / magic mirror" voice there is **Lucius counterfeiting** the rescue function. Grounded faceless-Mary appearances: [[#1 Champion (la Conquistadora)]], [[Essays/Concepts/Songs/Ballerina Boy|Ballerina Boy]], [[Essays/Concepts/Songs/Weirdness|Weirdness]].)*
+- [[Mary]] — the divine-feminine blessing voice. *(Corrected 2026-06-06: she does **not** appear in [[Brain/Songs/Lucius Lullaby]] — the "set you free / magic mirror" voice there is **Lucius counterfeiting** the rescue function. Grounded faceless-Mary appearances: [[No. 1 Champion (la Conquistadora)]], [[Essays/Concepts/Songs/Ballerina Boy|Ballerina Boy]], [[Essays/Concepts/Songs/Weirdness|Weirdness]].)*
 - [[The Jaguar]] — the project's emblem of **seeing / the mirror of consciousness** (grounded etymology, 3 interviews: the jaguar "looks into the souls of others… and back into itself; humans are mirrors for each other"). The container/frame, **not** a separate self or peer-figure. *(The older "inter-world traveler / sees into all living beings" gloss is un-sourced `[?]` — see [[The Jaguar]].)*
 
 ---

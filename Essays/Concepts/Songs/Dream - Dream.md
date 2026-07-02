@@ -354,15 +354,7 @@ The "stairway to Heaven" [?] functions symbolically as return-vector imagery: th
 
 ## Open Questions
 
-- [ ] Are the "Dream / Dream" lyrics verified against Apple Music? Current source: AZLyrics via MusixMatch — `status: draft`. Cross-check needed before `[?]` markers can be removed.
-- [ ] Does the bridge structurally anticipate the crowd synchronization later weaponized by the Circus, or merely share formal similarity?
-- [ ] Is "dreaming" already partially unstable here — encoded in the obsessive repetition — or only retroactively destabilized by later work?
-- [ ] How early had the mirror-framework conceptually formed during the *Subject to Flooding* era?
-- [~] Is the speaker already partially fragmented, even if Lucius has not yet externalized symbolically? Likely yes — the age-7 burial predates this song.
-- [x] Does the song frame dreaming as liberatory? Yes — explicitly within the lyric structure.
-- [x] Does the song assume the system is primarily external? Yes — the lyric consistently frames containment as societal rather than internal.
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Dream - Dream#Open Questions|Dream - Dream — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

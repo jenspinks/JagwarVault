@@ -50,6 +50,8 @@ Official visualizer ([[Sources/Reference/Playing to the Gods Visualizer (choreog
 ## Open Questions
 - [x] Full Spotify personnel — **done (Jen, 2026-06-07);** see Credits above.
 - [?] Non-lexical intro/outro ("(Mm-mm)/(Oh-oh)") per Jen's copy — confirm.
+- [?] **Vocal assignment** — which of ROY / Sir Lucius sings which pass is unverified, and **stays open** unless settled by a public credit or clearly audible separation. Do not resolve from fan consensus or private material.
+- [?] **The non-lexical frame** — whether *"Mm-mm"/"Oh-oh"* is structural (emergence-from / return-to the wordless) or incidental.
 
 ## Sources
 - [[Sources/Lyrics/Playing to the Gods]] (Apple-verified) · [[Sources/Credits/Lucius Lullaby]] · EP6 [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]].

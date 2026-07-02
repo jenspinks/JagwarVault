@@ -117,15 +117,15 @@ Reads as the anthem of those fully integrated into the archonic system — inter
 
 ## Open Questions
 
-- [x] **Album placement** — **resolved:** *Subject to Flooding* (2018), per Ontology + *33* tracklist. The Protector trilogy is single-album.
-- [x] **Verify the bridge lyric** — **DONE (Apple Music, 2026-05-30):** *"All we are is human / But I'll try, try, try, try to be Superhuman"* confirmed; source now `stable`.
-- [ ] Confirm the **"glamour of the world blinds humanity"** Bailey post and whether it's tagged to *Welcome to the Circus*.
-- [ ] The 🏆 on "victim of illusion, propaganda, and mass suggestion" — does it tag #1 Champion / la conquistadora? Check the original post.
-- [ ] Place Superhuman on the [[The Labors of Hercules]] 12-labour scaffold — pre-Leo labour, or the aspirant's general pre-labour posture?
-- [x] **(a) The "Father / half the man" + "fool" beats — SOURCED.** One public @jagwartwin post, **2026-04-02** ([[Sources/Quotes/Roy IG Post - Half the Man (Father)]]): the **caption** is *"I reached for my Father's hand / He said you're half the man that you know,"* and the **image** is the **fool** (Elizabethan/Pierrot ruff + body-text, "I'M NOT HERE"). Caveats: (i) the draft's "rejected as *only half a human* / ascends only in the light" was a **paraphrase**, not the post's words — that *narrative* remains unsourced; (ii) it's a **2026 Lucius-era** post → **cross-era resonance** with this 2018 song, not a same-source anchor.
-- [ ] `[?]` **(b)** a reference to "TheLaw" (induction/conduction waveforms) — unrecognized, no such vault page; still unsourced. Provide a source and these can be added. **Lead (2026-06-13):** the old-chats finding-aid ([[Old-Chats Mining — Fable findings (2026-06-13)]] §F4) describes a Roy *"The Law"* diagram — **Induction (+/apex) · Conduction (−/base) · Zero-Point center · *"Being × Knowing ÷ Time = Life"* · *"Computations of GOD"* · Fibonacci** — i.e. **Walter Russell's** polarity vocabulary (Russell is already a vault-named influence; cf. the [[Sources/Quotes/Roy IG Post - The Law of One (Ways To Unwind) 2020|"Law of One" 2020 IG post]]). `citable:false` lead — **needs Roy's actual diagram** (a real artifact) to verify before this can ground; until then the induction/conduction terms stay unsourced.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Superhuman#Open Questions|Superhuman — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
----
+## Artifacts
+
+**Suggestion of Apex** · `SUGGESTION OF APEX` — a truncated pyramid that never reaches its peak — this song's endurance mistaken for a true apex. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d0e1e4a5a5d089ed56b0e86bea02e9a3c81f99d201403794224f4c5325aee4d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d0e1e4a5a5d089ed56b0e86bea02e9a3c81f99d201403794224f4c5325aee4d..jpg" width="220"></a>
+
+**Cinnamon the Horse (Trojan Horse Program)** · `RIGHT SHOULDER OF A HORSE` — the Mars-glyph, sworded war-horse at the Geburah/Mars martial pole this song embodies. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png" width="220"></a>
 
 ## Connections
 

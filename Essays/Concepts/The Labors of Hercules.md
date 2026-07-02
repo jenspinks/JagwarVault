@@ -210,7 +210,7 @@ Once a framework "clicks," every symbol begins reading through it. This is the f
 - [[The Dweller on the Threshold]] — overlapping framework; the Dweller is the figure encountered at threshold-crossings throughout the Labors, especially Leo (the cave's threshold) and Capricorn (Hades' gate)
 - [[Brain/Songs/Welcome to the Circus]] — the maze of the un-tamed lion's territory; the Circus as the dominant ego operating publicly
 - [[Essays/Concepts/Songs/Not Your Homie]] — contains the strongest direct lyric anchor for the framework
-- [[#1 Champion (la Conquistadora)]] — the champion-archetype, possibly the strength-card position
+- [[No. 1 Champion (la Conquistadora)]] — the champion-archetype, possibly the strength-card position
 - [[The Mirror]] — the jaguar's gift of seeing into itself, structurally aligned with the Leo move of facing the lion in the cave
 - [[The Circle]] — Bailey's Labors are themselves a circular journey through the zodiac
 - [[Brain/Concepts/The Labors of Hercules]] — the atomic concept page.

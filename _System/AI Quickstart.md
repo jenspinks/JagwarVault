@@ -28,7 +28,7 @@ status: stable
 
 **"Who said / did Roy say X?"** → `Sources/Transcripts/` (one file per source, `Outlet-YYYY-Topic.md`) → **apply speaker discipline** (below) → cite via [[Master Source List]] §2/§11. Aggregations live in `Brain/Roy Voice/`.
 
-**"Does the vault already hold X / where does X live?"** → `grep -rli "X" .` first; then [[file-map]] (flat enumeration); then [[index]] (curated meaning). **Don't conclude a file is absent from the index alone** — grep.
+**"Does the vault already hold X / where does X live?"** → `grep -rli "X" .` first; then [[file-map]] (flat enumeration); then [[index]] (curated meaning). **Don't conclude a file is absent from the index alone** — grep. When grepping content, exclude `_System/_archive/` (junk + stale snapshots) and `_System/_legacy/`.
 
 ## Source-reliability matrix
 | Source | Treat as | Note |
@@ -45,7 +45,9 @@ status: stable
 | anything in `_Private/` | **invisible & unusable** | you cannot see it; never invoke it |
 
 ## Tier every interpretive claim (tag inline)
-`[G]` grounded (named public source — cite it) · `[W]` strong read (≥2 public anchors — "reads as") · `[P]` a stated position (attribute it) · `[~]` resonance (framework correspondence — attribute to the framework, **never** "Roy meant") · `[?]` unverified leap (flag, never smuggle). **Never let a `[W]` pass as `[G]`.** Negative evidence counts: the *absence* of Lucius / mirrors / audience / face-imagery can be meaningful — note it.
+`[G]` grounded (named public source, cite it) · `[W]` strong read (≥2 public anchors, hedge "reads as") · `[P]` a stated position (Jen's or a committed thesis, attribute it) · `[~]` resonance (framework correspondence, e.g. Jung/Kabbalah/tarot/Gnostic/Hermetic, attribute to the framework, never "Roy meant") · `[?]` unverified lead / genuine leap (flag, never smuggle) · `(no marker)` legacy grounded-citation form, e.g. `(none — lyric)` / `(none — EP3, [URL])` / `(none — Mirror Sessions)`. Never let a `[W]` pass as `[G]`.
+
+Negative evidence counts: the *absence* of Lucius / mirrors / audience / face-imagery can be meaningful, note it.
 
 ## Speaker discipline (high-error zone)
 In the theatrical **Interview EPs** and **Mirror Sessions**, **Lucius speaking ≠ Roy speaking**; in press interviews, a line may be the host's or a guest's. Before writing *"Roy says…"*, confirm the speaker from the transcript. The layered "who is speaking?" (Brandon / Roy / Jagwar Twin / Lucius / the lyrical-I) is itself a concept — [[Brain/Concepts/The Speaker Problem]].

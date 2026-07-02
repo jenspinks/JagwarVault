@@ -74,6 +74,17 @@ def find(eid, name, *prefixes, want_status=False):
     for rel, k, fm in all_md:
         if k == nk and under(rel, *prefixes):
             return rel, fm.get('status')
+    # normalized frontmatter-alias within the prefix(es) — a renamed file
+    # (e.g. the link-hostile '#1 Champion…' → 'No. 1 Champion…', 2026-07-01)
+    # keeps its display name reachable via `aliases:`.
+    for rel, k, fm in all_md:
+        raw = fm.get('aliases') or ''
+        # read_frontmatter is flat-scalar: an inline list arrives as its raw
+        # text — pull the quoted entries out of it.
+        aliases = re.findall(r'"([^"]+)"|\'([^\']+)\'', raw)
+        aliases = [a or b for a, b in aliases] or ([raw] if raw else [])
+        if any(norm(a) == nk for a in aliases) and under(rel, *prefixes):
+            return rel, fm.get('status')
     return None, None
 
 # ---- 2. parse the Ontology tables ------------------------------------------

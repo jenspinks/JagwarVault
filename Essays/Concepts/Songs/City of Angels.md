@@ -75,10 +75,13 @@ And the road there is a fallen ladder. *"City of **Angels** / walking down the *
 **Resonance / open:** inverted Jacob's Ladder; bright-lights-as-scattered-sparks (Lurianic); Ariadne-inversion (the stranger withholds the thread); *Hotel California* (reader's intertext, not a claimed influence); "Hollywood / holy wood" `[P]` — flagged, build nothing on it.
 
 ## Open Questions
-- [ ] Is a **true** immortality (the Great Design / the song that survives) hidden under the false one — or is the **absence of any waking-up** (unlike Lucius Lullaby) the point: inside the City there is no vantage left to see the lie from?
-- [ ] "Make it out alive" — out of *what*? (industry / psyche / fame / the rock-bottom floor — all rooms in one building; the dragon *is* the treasure.)
-- [ ] Did Roy draw on Joni's *"Paprika Plains"* (phoenix-from-ashes) specifically? (No evidence — open.)
-- [ ] Full Spotify personnel for Playing to the Gods.
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/City of Angels#Open Questions|City of Angels — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
+
+## Artifacts
+
+**Jupiter the Blue Dolphin** · `LADDER` — its *'walking down the star-lined road'* reads as an inverted Jacob's Ladder — the ladder-of-angels this artifact's `LADDER` code names. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x86154a585c03e88a49b4f8a91b5119b60356f5aee3203585979a1c26d6cad56e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x86154a585c03e88a49b4f8a91b5119b60356f5aee3203585979a1c26d6cad56e..png" width="220"></a>
 
 ## Connections
 | Node | Relationship |

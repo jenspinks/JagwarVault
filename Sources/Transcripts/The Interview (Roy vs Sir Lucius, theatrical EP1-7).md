@@ -268,7 +268,7 @@ ingest_source: "Jen-maintained working transcript (Google Doc). The Doc is a REF
 | **EP4** | "I'm your weirdness" / "Your weirdness is the sunshine" (becomes the song's intro) | [[Essays/Concepts/Songs/Weirdness]] |
 | **EP5** | the empire/systems speech; "build your own table"; "Get out of the way. You're welcome"; Leif's first appearance | [[Sir Lucius]] · [[The Spectacle]] · [[Essays/Concepts/Songs/Welcome to the Circus]] |
 | **EP6** | Leif↔Lucius; "my lullaby is everywhere"; Roy kidnapped | [[Essays/Arcs/Lucius Lullaby]] · [[Sir Lucius]] |
-| **EP7** | the moth speech; the dyslexic-chemist line; #1 Champion "another song about ME"; SOL agitates Lucius | [[Moths to the Flame]] · [[The Circle (Lucius Version)]] · [[#1 Champion (la Conquistadora)]] · [[SOL]] |
+| **EP7** | the moth speech; the dyslexic-chemist line; #1 Champion "another song about ME"; SOL agitates Lucius | [[Moths to the Flame]] · [[The Circle (Lucius Version)]] · [[No. 1 Champion (la Conquistadora)]] · [[SOL]] |
 
 ## Maintenance
 - **2026-06-05** — ingested from Jen's working Google Doc as the consolidated theatrical-canon transcript (Jen-directed; resolves the gap where the most-cited primary source had no file in `Sources/Transcripts/`). `status: draft`.

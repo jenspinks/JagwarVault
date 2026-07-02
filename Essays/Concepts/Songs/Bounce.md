@@ -57,11 +57,7 @@ The party-command register **reads in a Lucius register**; the panic line **soun
 
 ## Open Questions
 
-- **[?] Does *I Like to Party* actually contain a panic line?** A prior pass claimed *"do I really wanna know why I'm panicking?"* echoed a 2022 *I Like to Party* line, with a 2023 X-post as a "third anchor." **Both are struck:** *I Like to Party*'s Spotify-verified lyric contains no panic line, and no such X-post exists in the captured archive (the "third anchor" was fabricated). If a streaming-verified *I Like to Party* lyric ever shows the line, a callback could be **reconsidered** — as `[W]`, never `[G]`. Until then there is deliberately **no [[I Like to Party]] link** on this page.
-- **[~] "Leave this place"** — escape or recruitment? (held, above).
-- **[?] Phonetics** — "lore"/"lure"/"Lord," "bow-bow" (incl. the gunfire possibility), "addy" — verify against Apple Music **and** Spotify; the §"lore" read depends on the first.
-- **[?] Vocal assignment** — resolve only on public credit / audible separation.
-- **[?] "Tear the roof off"** — confirm the Parliament-Funkadelic allusion before weighting the self-exposure read.
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/Bounce#Open Questions|Bounce — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

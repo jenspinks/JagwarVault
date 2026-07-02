@@ -34,3 +34,4 @@ Track 9, *Subject to Flooding* (2018) — a **0:42 spoken interlude** (not a son
 ## Open Questions
 - [ ] **"Arrowhead"** — studio / place (Lake Arrowhead, CA?) / session name / something pointed-directional? Genuinely open; don't guess.
 - [ ] Confirm the 2018-vs-2019 streaming date against [[Subject to Flooding (album)]] (likely the Atlantic re-release artifact).
+- [ ] Does the "vision" S1 names here get fulfilled or betrayed anywhere traceable later (e.g. a *Lucius Lullaby*-era track)? Parked — verify against actual tracklists before asserting any cross-link. `[?]`

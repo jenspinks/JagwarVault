@@ -23,7 +23,7 @@ review_date: 2026-11-16
 ---
 # Good Day
 
-Track 4, *Subject to Flooding* (2018, Atlantic). **Composer / Written By (Apple Music): Essex, Roy English, S1.** (Apple Music *Details* composer field is **BLANK**; the *Lyrics* tab "Written By" line provides this credit. **"Essex"** is unidentified — possible interpolation source `[?]`. AZLyrics' "Terry Knight" was a phantom — corrected.) Lyrics **verified-stable** (Apple Music). Full essay: [[Brain/Songs/Subject to Flooding (2018)/Good Day|Essays/Songs/Good Day]].
+Track 4, *Subject to Flooding* (2018, Atlantic). **Composer / Written By (Apple Music): Essex, Roy English, S1.** (Apple Music *Details* composer field is **BLANK**; the *Lyrics* tab "Written By" line provides this credit. **"Essex"** is unidentified — possible interpolation source `[?]`. AZLyrics' "Terry Knight" was a phantom — corrected.) Lyrics **verified-stable** (Apple Music). Full reading: [[Essays/Concepts/Songs/Good Day]].
 
 ## Voicing
 [[Roy]], first-person, **partner-addressed** (*"I just wanna spend it with you"*). Pre-Lucius. Surface mood: celebratory, "made it" hedonism.
@@ -51,3 +51,5 @@ Track 4, *Subject to Flooding* (2018, Atlantic). **Composer / Written By (Apple 
 - [~] Does *"Phoebe"* carry **lunar resonance** via the mythic association (Phoebe the Titan, "bright moon," grandmother of Apollo/Artemis)? Tonally suggestive given the album's Yesodic register but under-anchored without authorial context.
 - [x] ~~Does *"No time for the clown, clowns"* register as wrong-kind-of-clown vs. the album's reverent Chaplin sample~~ **Resolved — retrospective irony, not prophecy.** *The thing the speaker had no time for came back wearing his face.* No internal contradiction required.
 - [ ] Wave / Flood inversion — confirm: Good Day is the Flood's **success-pole** sibling to [[Brain/Songs/Subject to Flooding (2018)/Loser]]'s loser-pole? Same survival-architecture playing both win and lose.
+- [x] Is this albedo? — **No.** Better: **nigredo-adaptive brightness** — relief protected as mood rather than integrated as wholeness [W].
+- [ ] **`CONCEPT-TheProtector` has no Brain page** (pageless — Ontology-declared only), yet this essay, [[Essays/Concepts/Songs/Loser]], and [[Essays/Concepts/Songs/No Fake Friends]] all lean on it. Write the Protector Brain page — grounding it from the triad essays + Roy's wound/heart-mind statements, **not** from the untriaged `_System/_legacy/` synthesis files (which carry unvetted "savior-archetype" doctrine).

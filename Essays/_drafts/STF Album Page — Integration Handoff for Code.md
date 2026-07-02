@@ -1,7 +1,8 @@
 ---
 type: handoff
 status: folded-to-canon
-folded: 2026-06-30audience: claude-code
+folded: 2026-06-30
+audience: claude-code
 publish: false
 from: workshop-claude
 date: 2026-06-05
@@ -79,7 +80,8 @@ Every claim Workshop's flagged for verification (§§7–9) should land at the t
 
 type: album
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 entry_points: [subject-to-flooding, orientation, source-and-reflection, inherited-substrate, protector-before-lucius]
 related: [Long Time Coming, Dream / Dream, Loser, Good Day, Superhuman, Move To You, No Fake Friends, Precious Time, Shine, 33]
 
@@ -359,7 +361,8 @@ The big addition I'd defend hardest is Source and Reflection. That feels like th
 
 type: album
 status: folded-to-canon
-folded: 2026-06-30publish: false
+folded: 2026-06-30
+publish: false
 entry_points: [subject-to-flooding, album-overview, the-seedbed]
 related: [33, Lucius-Lullaby, The-Circle, The-Thread, The-Algorithm]
 

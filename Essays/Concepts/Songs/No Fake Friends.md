@@ -152,12 +152,7 @@ Phenomenologically, the song tracks the moment an individual realizes that **soc
 
 ## Open Questions
 
-- [ ] How intentionally does the STF-era sequencing place N.F.F. after the increasingly velocity-driven defensive tracks ([[Essays/Concepts/Songs/Good Day]], [[Superhuman]], [[Move To You]]) — to reveal the emotional cost underneath them?
-- [~] Does the repeated use of surveillance language across the early catalogue (*night watch*, *radar*, *vibe*, "frame") indicate a unified thematic concern around **attention, exposure, and psychic perimeter-management**? Likely yes — see [[Witnessing vs Surveillance]].
-- [x] **Does N.F.F. portray the completed Lucius identity?** **No.** The song portrays the **adaptive conditions and perimeter psychology** that later make the Lucius crystallization structurally possible [W].
-- [ ] Lowercase *"i"* in *"when i had nothing"* — Spotify renders it lowercase; confirm Apple's rendering matches. If yes, the small-*i* preservation of the diminished pre-success self is a real authorial choice (see Brain page).
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/No Fake Friends#Open Questions|No Fake Friends — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

@@ -41,9 +41,8 @@ Underneath the doctrine is a precise reversal of a source the vault already uses
 **Resonance `[~]`:** Sufi *parvāna*; the dark-feminine register (with caveats); the anti-civ lineage.
 
 ## Open Questions
-- The **MOTH-Gallery echo** (track 6 *Moths* ↔ track 15 *Bad Feeling* @ "MOTH Gallery") — kept `[?]`; do not upgrade on elegance.
-- **Cause vs. sequence:** does blowing the candle out *trigger* the descending vocalization, or merely precede it? Confirm from the video.
-- The 3-to-1 candelabra ratio (Masonic/esoteric, or read-in?); the single candle ↔ EP1's two red candles (missing second = the absent Roy? `[~]`).
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Lucius Lullaby (2026)/Moths to the Flame#Open Questions|Moths to the Flame — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 [[Bananas]] (the enacted practice — the 6→7 seam) · [[Sir Lucius]] (Power mode) · [[The Audience]] (the moths) / [[The Circus]] (the flame/trap) · [[Great Time to Be Human]] (cheerful horror as natural order) · [[City of Angels]] / [[Inversion]] (the counterfeit phoenix) · [[The Watchers]] / [[The Upload]] / [[33 (album)]] (flame = attention = the Eye/feed) · [[Fire]] (cigarette ignition; the stove).

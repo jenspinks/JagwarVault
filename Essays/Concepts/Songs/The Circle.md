@@ -85,11 +85,19 @@ The Wise One is not one *or* the other of two readings — the song's own doctri
 - **[~] Joni's "Circle Game"** — *"round and round… captive on the carousel of time… in the circle game"* (cf. [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]]): the **trapped carousel** vs JT's **circle that grows from within** — a dialogue (same image, opposite charge). Feeds the pending `33 (album)` Joni consolidation. `[~]`/`[W]` (Joni is a confirmed *33* influence).
 
 ## Open Questions
-- [x] **Writer credit — RESOLVED:** Roy English (sole writer); Roy + Pauling produce. Confirms this as Roy's personal mythic statement.
-- [ ] The maker Jagwar / Wise One = divinity / consciousness / Sophia-Shekinah / nature / imagination / **the collective template ("all of us" remembering — Jen's read, §10)** — or a *fusion* (likely: a cosmic-source face **and** an immanent/collective-template face, joined in anamnesis)?
-- [ ] The cave = memory / sacred space / the unconscious / the origin point?
-- [ ] Relation to [[Sources/Lyrics/The Circle (Lucius Version)]] — the same myth re-sung through Lucius (distorted/obscured)? Needs a side-by-side (Lucius version not yet read here).
-- [~] Foundational myth underlying [[LOOP]] / [[Lucius Lullaby]]?
+
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/33 (2022)/The Circle#Open Questions|The Circle — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
+
+## Artifacts
+
+**Roy poem 'Walking the Edge of a Knife'** · `INSIDE OF THE INSIDE` — the artifact's unlock code is verbatim this song's refrain, *'the inside of the inside must be where you go'*. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe858c547827aba7438709a166b469d26170394ba55ffbf865b0ebecea03f3c6a..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe858c547827aba7438709a166b469d26170394ba55ffbf865b0ebecea03f3c6a..png" width="220"></a>
+
+**Roy 'Unidentified' Sketch (the mindscape)** · `KEM` — a giant hand-drawn face captioned *'Inside of the inside'* — a literal illustration of this song's refrain. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2da3b5d407a32ab61b91199bb55c7844f91e2b0a7f5c39bbd6227e233792b24d..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2da3b5d407a32ab61b91199bb55c7844f91e2b0a7f5c39bbd6227e233792b24d..jpeg" width="220"></a>
+
+**David Star — 'Where The World Was Crossed'** · `TWISTED LADDER` — its divine-spark-must-remember-and-ascend myth is this song's *'from the inside of the inside'* reunion-through-remembrance. → [[Artifacts - Drawings and Sketches|full analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png" width="220"></a>
 
 ## Connections
 | Song / Source | Relationship |

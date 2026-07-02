@@ -84,11 +84,7 @@ The child couplet (*"what it's like to be a kid… the way it feels to grow"*) l
 
 ## Open Questions
 
-- [x] **Full EP3 dialogue — NOW IN-VAULT.** The full verbatim EP3 transcript is filed at [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] §EP3. Confirmed: the loop is *Loser → "Move to you" (ballad) → Happy Face*; "when you're vulnerable you LOSE" lands on **Ballerina Boy** (mimed ballet); Move To You is the named-and-dropped ballad. *(Remaining: in-video timestamps.)*
-- [~] The **Y tattoo ↔ "love's a question"** link is strong (Roy's own gloss, in [[Roy]]); does the tattoo-tour add anything that sharpens it?
-- [ ] Production: does the arrangement physically foreground a heartbeat/pulse motif that *"I can hear your heart, it beats"* names literally? Listen-pass.
-
----
+*Open questions for this song are tracked in ONE place: the Brain card, [[Brain/Songs/Subject to Flooding (2018)/Move To You#Open Questions|Move To You — Brain card §Open Questions]]. Single home per the 2026-07-01 efficiency pass; do not re-list questions here (twin lists drift).*
 
 ## Connections
 

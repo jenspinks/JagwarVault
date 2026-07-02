@@ -23,7 +23,7 @@ review_date: 2026-11-16
 ---
 # N.F.F. (No Fake Friends)
 
-Track 8, *Subject to Flooding* (2018, Atlantic). Official title styling: **"N.F.F. (No Fake Friends)"**. **Composition & Lyrics (Spotify Credits, verified 2026-05-28): Roy English, Matt Pauling, S1.** (S1 also Executive Producer; Pauling also Producer. Chris Gehringer Masterer, Jeff Ellis Mixer.) Lyrics **verified-stable** (Spotify). Full essay: [[Brain/Songs/Subject to Flooding (2018)/No Fake Friends|Essays/Songs/No Fake Friends]].
+Track 8, *Subject to Flooding* (2018, Atlantic). Official title styling: **"N.F.F. (No Fake Friends)"**. **Composition & Lyrics (Spotify Credits, verified 2026-05-28): Roy English, Matt Pauling, S1.** (S1 also Executive Producer; Pauling also Producer. Chris Gehringer Masterer, Jeff Ellis Mixer.) Lyrics **verified-stable** (Spotify). Full reading: [[Essays/Concepts/Songs/No Fake Friends]].
 
 ## Voicing
 [[Roy]], first-person, autobiographical. Pre-Lucius. Direct address to absent "fake friends."
@@ -61,3 +61,6 @@ Three faces of the **same Protector architecture** ([[Sir Lucius]] = these three
 - [ ] Confirm Spotify's lowercase *"i"* in *"when i had nothing?"* — Apple Music rendering may differ; the lowercase reading [W] above depends on it.
 - [ ] The list itself — does it ever appear as content (named friends, named betrayals), or is it always referenced from the outside?
 - [ ] **Apple Music Details composer field for N.F.F.** — Jen's first-pass list (which flagged tracks with non-JT composers in Details) did NOT include N.F.F.; Spotify Credits clearly shows three writers. Possible that Apple's Details field is the abbreviated "Jagwar Twin" for this track even while Spotify breaks it out — would parallel the Good Day case (Details blank, Lyrics-tab Written By full). Worth confirming when convenient.
+- [ ] How intentionally does the STF-era sequencing place N.F.F. after the increasingly velocity-driven defensive tracks ([[Essays/Concepts/Songs/Good Day]], [[Superhuman]], [[Move To You]]) — to reveal the emotional cost underneath them?
+- [~] Does the repeated use of surveillance language across the early catalogue (*night watch*, *radar*, *vibe*, "frame") indicate a unified thematic concern around **attention, exposure, and psychic perimeter-management**? Likely yes — see [[Witnessing vs Surveillance]].
+- [x] **Does N.F.F. portray the completed Lucius identity?** **No.** The song portrays the **adaptive conditions and perimeter psychology** that later make the Lucius crystallization structurally possible [W].
