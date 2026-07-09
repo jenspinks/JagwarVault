@@ -15,7 +15,7 @@ review_date: 2026-11-16
 ---
 # Roy
 
-Brandon Roy Wronski · b. 1988-05-22, LA · Roy English (2006–2015) → Jagwar Twin (2018–). Signs "El Roy". The heart / vulnerable authentic self.
+Roy English (b. Brandon Roy Wronski, 1988-05-22, LA) → rebranded Jagwar Twin (2018–); Roy English remains his songwriting credit. Signs "El Roy". The heart / vulnerable authentic self.
 
 ## Biographical (none)
 Bands → solo 2015 → Jagwar Twin 2018. Dropped by major label; breakup; lost a close friend. Age 35: rock bottom, wrote [[Brain/Songs/Lucius Lullaby]] from childhood bedroom. Age 7: ballet at Christian school; overheard he was thought gay; prayed to be "good"; buried the self that came alive on stage — [[Essays/Concepts/Songs/Ballerina Boy]]. **The dance wound is Roy-narrated** (MB conversation): only boy in the class, the girls' *"you're not a real boy,"* came home crying — and the adult dance videos = shadow-work reclaiming it ([[Sources/Transcripts/MB-Conversation-Jagwar-Twin (Mental Health, Cancel Culture)]]).

@@ -11,7 +11,7 @@ related: [CHAR-SirLucius, CHAR-Mary, CHAR-BallerinaBoy, SONG-LuciusLullaby, SONG
 
 ## Description
 -
-_Brandon Roy Wronski · b. May 22, 1988 · Los Angeles, California_ _Also known as: Roy English (2006–2015), Jagwar Twin (2018–present)_ _Signs himself: El Roy_
+_Roy English · b. Brandon Roy Wronski, May 22, 1988 · Los Angeles, California_ _Also known as: Jagwar Twin (2018–present); Roy English remains his songwriting credit_ _Signs himself: El Roy_
 
 ---
 

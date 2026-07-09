@@ -18,7 +18,7 @@ review_date: 2026-12-15
 Type: Character / Project
 
 ## Description
-- The primary musical project of [[Roy|Brandon Roy Wronski]] since 2018 (previously: Roy English, 2006–2015).
+- The primary musical project of [[Roy]] since 2018 (earlier releases as **Roy English**, which remains his songwriting credit).
 - Per [[Context Store 1]]: the **meta-system / container** — not a single voice but a stage for voices. Contains [[Sir Lucius]] (mind / strategy / reflection), [[Roy]] (heart / meaning / interpretation), and [[Essays/Concepts/Songs/Ballerina Boy]] (origin / light).
 - Name etymology — **[G] grounded in public interviews (Roy's voice, 3 sources):** the jaguar = *"the creature who looks into the souls of other people and then, in turn, can look back into itself"* — *"humans are just mirrors for each other"* → **a mirror of consciousness** ([[Sources/Transcripts/Ones-To-Watch-2018-Debut-QA]] 2018; [[Sources/Transcripts/Highwire-2021-Power-of-Sound]] 2021; [[Sources/Transcripts/Mic-Magazine-UK-Myth-of-Music]] 2024 — the last adds *"pulls people out of the darkness… into the light"*). **Twin** = the **dual nature — light/dark, yin/yang** — plus Roy's **Gemini** (all three sources). *(The older "sees into all living beings / travels between worlds / inter-world traveler" gloss is **not** in these quotes — keep that attribute's sourcing open `[?]`; what's grounded is the **mirror-of-consciousness** meaning.)*
 - Signed to Big Loud Rock, under exclusive license to Mercury Records (UMG).
@@ -39,7 +39,7 @@ Type: Character / Project
 
 ## Notes
 - The project name itself encodes the duality: **Jagwar** (the **mirror / seer** — looks into others *and* back into the self) + **Twin** (the paired / mirrored self; **light/dark** + Gemini). The project's title *is* the thesis — a self that is both one and two, both observer and observed. **[G]** per the etymology interviews above.
-- Spelling: "Jagwar" not "Jaguar" — intentional choice by Wronski.
+- Spelling: "Jagwar" not "Jaguar" — Roy's intentional choice.
 
 ## The name on the Tree — Jagwar Twin = the Netzach–Hod pair `[W]` (2026-07-02)
 Roy's 2026-07-01 fundamentals seat **Roy at Netzach** (Venus / heart) and **Lucius at Hod** (Mercury / mind) — the two **paired sefirot at the same height**, the twin hips flanking the Middle Pillar ([[Kabbalah - The Tree of Life]] §The lateral twins). So the project's name reads straight off the base of the Tree: **"Jagwar Twin" is the name of the Netzach–Hod pair itself** — the two-that-are-one, observer and observed, heart-pole and mind-pole. This sharpens the duality the §Notes already hears in the name, and chimes with Roy's public **Gemini-Sun** self-ID ([[Roy]] §Self-naming) — the Twins written into the birth chart *and* the Tree.
