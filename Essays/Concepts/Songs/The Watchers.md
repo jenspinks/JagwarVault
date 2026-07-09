@@ -62,6 +62,13 @@ And the **paratext** completes the loop. Roy posted to his Instagram Story a pag
 - **The title itself — the Grigori.** "The Watchers" are the watcher-angels of the Enochic tradition (Daniel's *"a watcher, a holy one"*; the angels who observed humanity and fell among it). With Horus, the Eye, centered in the paratext, the title gestures at an all-seeing angelic/surveillant field — ambiguous between the holy watchers and the fallen ones. `[~]`
 - **Dream / Yesod / Moon.** The dream-uncertainty and the *"wake up"* sit on the catalogue's dream-system, the lunar layer where the imaginal governs. `[~]`
 
+## The flop verdict — Lucius on his own surveillance song `[G]`
+Roy released "The Watchers" **2024-10-04**. On **Halloween, 2024-10-31** — ~4 weeks later — an Instagram post signed **Sir Lucius** ("one hit wonder," the industry-scorecard rant) includes the line **"The Watchers is a flop"** inside a wider dismissal (Jagwar Twin as "a one hit wonder," ranked below Charli XCX / the 1975 / Chappell Roan). ([[Sources/Quotes/Sir Lucius IG Post - One Hit Wonder]]; cross-grounded on [[Brain/Characters/Sir Lucius]] §"Everyone's a guru.") `[G]` the post and its date.
+
+The timing is the point: Lucius's sneer lands specifically on the **surveillance/watching song** — sung by the artist named El Roi, "the God who sees" — from the character whose whole faculty *is* watching, ranking, and consuming. A verdict on being watched, delivered by the watcher. `[W]`
+
+"The Watchers" later sits on the **"dumbledore" EP** (2025-02-28, Big Loud Records) alongside Ballerina Boy/"Pinocchio Jesus" and MAGIK-era material — `[?]` this compilation-placement isn't yet independently confirmed against streaming/EP metadata in this vault (the [[Brain/Songs/Singles & EPs/dumbledore|dumbledore]] page itself still logs "tracklist not yet confirmed"); hold as an open lead pending a metadata check, not a grounded fact.
+
 ## Confirmed vs. Interpretive
 **Confirmed `[G]`:** the credit block and the **Rockwell interpolation** (credited); performers/instrumentation (theremin, mellotron, accordion); label; the lyric content (clone-fear, no-privacy, *"is it just a dream / wake up,"* the dancing crowd, candy/bacon, the *"bad guy"* framing); the public Jung-Story paratext. *(Lyric source still `draft` — MusixMatch/AZLyrics — pending a direct Apple/Spotify eyeball to flip `stable`.)*
 
@@ -95,4 +102,5 @@ And the **paratext** completes the loop. Roy posted to his Instagram Story a pag
 - Interpolated source: **Rockwell, "Somebody's Watching Me" (1984).**
 - **Jung, *Collected Works* Vol. 18, "The Significance of Dreams," ¶416–417** — via Roy's IG Story ([[Sources/Quotes/Roy IG Story - Jung Signs vs Symbols (The Watchers)]]).
 - Roy-posted Gurdjieff (*"man is asleep, he must wake up"*) — public.
+- [[Sources/Quotes/Sir Lucius IG Post - One Hit Wonder]] — the "flop" verdict (§The flop verdict).
 - **No private material used.** The Secret-Document surveillance/clone material (e.g. the unreleased "Life of the Party") stays silent; this page stands entirely on the released song + public sources.

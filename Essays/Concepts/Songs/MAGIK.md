@@ -18,9 +18,9 @@ related: [CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, CONCEPT-TheThread
 
 ---
 
-## Grounded `[G]` (pending streaming)
+## Grounded `[G]`
 
-*(Lyric is **Drive-sourced, streaming-unverified `[?]`** — the "Baba bada / Boo doo" runs are non-lexical. Any read on a contested word inherits `[?]`.)*
+*(Lyric is now **Spotify-verified** ([[Sources/Lyrics/MAGIK]], checked 2026-06-10) — the earlier Drive/`[?]` flag is stale, corrected here. The "Baba bada / Boo doo" runs are non-lexical vocalization per the verified transcript.)*
 
 - The song is structured almost entirely as **second-person reassurance**: *"you don't gotta disappear," "everybody needs you here," "you don't have to try so hard," "you're more than who you think you are."*
 - The speaker repeatedly **sees what the addressee cannot**: *"you don't even see it / but you have it," "everywhere you are is so bright / but you don't even know that," "I see it in your eyes."*
@@ -47,7 +47,8 @@ related: [CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, CONCEPT-TheThread
 
 ## Resonance `[~]`
 
-- **The K-spelling — suggestive, not load-bearing.** *"MAGIK"* may gesture at esoteric *"Magick"* (Crowley's spelling, distinguishing *intentional will* from stage illusion), but the lyric's content leans toward **innate, unrecognized worth** (*"you have it," "everything you do is Magik"*), not occult will. Keep the esoteric reading `[?]` — the content doesn't earn it; raise it, don't assert it.
+- **The K-spelling — now a cited public caption, Fortune-first.** *"MAGIK"* gestures at esoteric *"Magick,"* and Roy's own "dumbledore"-era quote-card cluster (which the title shares vocabulary with — see [[dumbledore]]) captions the definition *"[magic is] the art of causing changes in consciousness in conformity with will."* `[G]` The **"-ck"/"-k" spelling** circulating in that cluster is Crowleyan, but **this specific phrasing is Dion Fortune's** — Fortune is already the vault's keystone named influence ([[Brain/Roy Voice/Roy on Influences]] §Dion Fortune) — so **correct any prior Crowley attribution here.** `[W]` That said, the *song's own* content still leans toward **innate, unrecognized worth** (*"you have it," "everything you do is Magik"*) rather than occult will-doctrine — the K-spelling raises the esoteric register as a cited public caption, it doesn't convert the lyric into a will-magic text. `[?]` remains the right tier for reading the *song* itself through Fortune's definition; the *caption's own attribution* is now `[G]`/`[W]`, not `[?]`.
+- **Chorus, verified.** *"Everything you do is Magik / Living in a world so plastic"* ([[Sources/Lyrics/MAGIK]], Spotify-verified) — **not** "so classic"; a variant wording circulating outside the vault is a mishearing, corrected here against the streaming lyric.
 - **"A lasso round the Moon."** Reaching for the unreachable as a love-gesture. Two soft resonances, neither forced: the vault's lunar / Mary / Yesod material, and ***It's a Wonderful Life*** (George Bailey offers to "lasso the moon" — notably *for a woman named **Mary**,* which quietly rhymes with the vault's [[Mary]] without needing to be load-bearing). `[~]`
 - **Placement.** MAGIK preceding *Lucius Lullaby* reads as the **light the album then watches Lucius try to suppress** — the same role [[SOL]] plays as the love the shadow can't metabolize. The world is plastic, but the person is still real, stated *before* the descent. Tier carefully; placement-meaning is inference. `[W]` at best.
 
@@ -66,6 +67,8 @@ related: [CONCEPT-WitnessingVsSurveillance, SONG-BALLERINABOY, CONCEPT-TheThread
 
 ## Sources
 
-- Lyric: [[Sources/Lyrics/MAGIK]] `[?]` (Drive, streaming-unverified).
+- Lyric: [[Sources/Lyrics/MAGIK]] — Spotify-verified.
+- (none — "dumbledore"-era quote-card) — the Fortune magick-definition caption (§Resonance).
+- [[Brain/Roy Voice/Roy on Influences]] §Dion Fortune — the Crowley-correction anchor.
 - *It's a Wonderful Life* — public comparator for the lasso/moon gesture (`[~]`, not asserted as Roy's reference).
 - *No private material; no Bailey claim; no fabricated cross-song callbacks (all cross-links are brief-provided framework).*

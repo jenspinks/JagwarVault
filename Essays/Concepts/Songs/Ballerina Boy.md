@@ -28,6 +28,7 @@ Everything here is in the public lyric — Roy released this story himself:
 - **The fork:** *"Do I kill myself or come back for that kid I let go / This song's for Ballerina Boy / This song's a prayer for hope."*
 - **The blessing (spoken outro), delivered by an older *motherly female voice*** *(per Jen's ear — audio)*: *"We don't really know who we are until we try things / and something clicks inside / and says 'this is me.' / You are one of a kind, God's design / so my son, let your light shine / and on those dark nights / look up to the sky. / The moon reminds us that even in the darkness / there is light. / There's no one else like you / out there."* (Note: the **earthly father's** blessing — *"there's nothing wrong with you, my son"* — is a *narrated* line earlier; the outro *"my son, let your light shine"* is the **feminine** voice. Two distinct blessings.)
 - **Release:** standalone single (June 13, 2025; Big Loud Rock / Mercury, UMG), kept off *Lucius Lullaby.*
+- **The origin, told in Roy's own public caption (the "magik2" spoken-word post) `[G]`.** Independent of the lyric and the (still-unpinned) Mirror Sessions episode, Roy narrates the wound in his own posted words ([[Image Decode - Spreadsheet BMRC and Social - findings 2026-07-08]] §3.6): *"Me at 7 in ballet class… 'We think your son is gay.' 'You're not a real boy.' I made a vow to never dance again… Until I found that boy again. I told him, You are brave… **You are one of one.**"* This is the **strongest public grounding yet** for the buried-child ontology — autobiographical-in-public, not a character's lyric. *"Not a real boy"* names **Pinocchio** directly (the made boy told he isn't real — already on Roy's own 22-film board), and *"you are one of one"* is the adult's counter-blessing to the child, in the same register as the outro's *"there's no one else like you."*
 
 ## Strong Read
 
@@ -59,6 +60,16 @@ Either way the structural point holds, and is the arc's hinge: both parental voi
 
 ### Counter-algorithm
 The song refuses the performance economy on its own terms — it does not compete with Lucius for virality, it **declines the metric.** It risks being "low-performing" precisely because its value isn't measured in streams. Form and content agree: the off-album single about the off-album child, kept out of the spectacle it diagnoses.
+
+### The visualizer: the grave-tableau `[W]`
+The Ballerina Boy visualizer stages the ontology literally ([[Image Decode - Spreadsheet BMRC and Social - findings 2026-07-08]] §3.3/§3.11-C): **an adult male at a desert grave** — a **homemade wooden cross**, a **scorched trench with a live ember-seam** still glowing, and a small pale **moon** overhead. Not a contradiction of the *buried-child* reading but its **literalization**: the song's *"I killed… I buried"* rendered as the **burial site**, the adult returning as the **reclamation scene**, the **live ember** as the buried thing *still burning* (preservation-through-darkness; the moon line). The seed-frame closes it: **John 12:24** — *"unless a grain of wheat falls into the earth and dies… it bears much fruit"* — the child is **planted, not lost** (rhymes with the Grasshopper Song's *"we fall down as seeds," "power from the flower"* below, and [[Soul Is A Star]]'s *"we fall down as seeds on the ground"*). `[W]` (framework-attributed seed-reading; the visual is grounded, the John 12:24 gloss is the reading).
+
+### The Grasshopper Song — the maternal blessing's real-world root `[W]`
+The board's *"Mom's song"* links to **"The Grasshopper Song" by Ms. Jeannie & The Grasshopper Kids** — **Roy's own mother's published children's song** (public/citable; [[Image Decode - Spreadsheet BMRC and Social - findings 2026-07-08]] §1.9). It gives the **[[Mary]]-class blessing a real-world root in Roy's actual mother**, and every beat seeds this song's answer-half:
+- **The leap = the arc.** *"Will he jump high / will he jump low / jump Mr Grasshopper / ready set GO!"* = the **leap of faith** in its earliest form — the same vertical rise the outro urges (*"let your light shine… look up to the sky"*) and the 2025 campaign later names (*"the loop ends the moment you choose it"*).
+- **Overcoming grasshopper-smallness.** *"looking at the sky / wondering if he can jump that high"* (self-doubt) flips into Roy's *"I am larger and other than I was told"* — **redeeming Numbers 13:33** (*"we were in our own sight as grasshoppers,"* the spies too small to take the land through failed vision): here the small creature *can* jump. The structural inverse of *"you're not a real boy."*
+- **"Power from the flower" = seed/garden.** *"munching on a flower / this is where he will get his power,"* the video's **Ms. Jeannie gardening** = the board's *"He who plants a seed believes in God"* figure; ties the John 12:24 / *Soul Is A Star* seed-thread above.
+- **The maternal counterpart** to the HoM heirloom *"Grandma's Song"* (code `THE LIGHTNING FLASH`) — mother's song beside grandmother's. `[W]`
 
 ## The Moon, and the Divine Feminine Voice
 
@@ -122,6 +133,9 @@ And the voice that delivers it is **the cross-cutting figure.** It is now confir
 ### Visual Lore
 - *The Interview* **EP3** — Lucius's mockery of Ballerina Boy, verbatim: *"your lowest performing song… Ballerina Boy. When you're vulnerable you LOSE!"* Transcribed from the public episode; map + URLs in [[Master Source List]] §2.
 - **The Ballerina Boy inspiration story** is in a **Mirror Sessions** episode (none — Mirror Sessions: Roy interviewing friends/artists, c. 2023–24; authorial biography, citable for intent). The series attribution is correct; specific episode name/URL still pending before it can be cited as Grounded. (See [[Master Source List]] §2.)
+- **The "magik2" spoken-word post** (public IG/YouTube caption, Roy's own words): the age-7 ballet-class origin verbatim (*"you're not a real boy… I made a vow to never dance again… You are one of one"*) — **public autobiographical grounding**, independent of the Mirror Sessions pin. Via [[Image Decode - Spreadsheet BMRC and Social - findings 2026-07-08]] §3.6 (pin the specific post before treating any line as verbatim-Grounded).
+- **The Ballerina Boy visualizer** (grave-tableau: wooden cross, ember-seam, moon) — grounded visual; the John 12:24 seed-gloss is framework-attributed. Via the decode §3.3.
+- **"The Grasshopper Song" — Ms. Jeannie & The Grasshopper Kids** (Roy's mother's published song; `youtube.com/watch?v=efn_brsprZE`, also Spotify) — the board's *"Mom's song"* link; cite the release directly.
 
 ### Frameworks Drawn On
 - C. G. Jung — the divine child; the compensating shadow; integration over transcendence.

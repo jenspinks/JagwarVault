@@ -25,7 +25,7 @@ Verbatim ingest of a public Instagram post on @jagwartwin, **signed Sir Lucius**
 ## Notes / pending
 - **Caption truncated at the top** — the opening lines (before "…his social media manager") are not captured; pull the full caption when convenient.
 - **Lucius voicing contempt** — the *superiority* pole against Roy's *humble* version of the same "everyone's a guru" line ([[Sources/Quotes/Roy X Post - Everyone's a Guru (Aquarium)]]). The two together = the Roy/Lucius split in public form; see [[Essays/Concepts/Songs/Online]] §5 and the anti-guru note on [[Roy]] / [[Sir Lucius]].
-- "Michael 'MM'" = named as Roy's social media manager (per Lucius) — `[?]` whether this is the Michael Morgan of the STF credits; do not assume.
+- "Michael 'MM'" = named as Roy's social media manager (per Lucius). **ID CONFIRMED (Jen, 2026-07-08): MM = Michael Morgan**, the real Jagwar Twin collaborator ([[Sources/Transcripts/SoundBetter-Michael-Morgan-Profile]]) — Lucius casts a real second author into the fiction as an in-world SM-manager foil. *(Supersedes the earlier "do not assume" flag.)* Not a persona/new character — link the existing entry.
 - Pure **Yesod-metric**: ranks the field by cool / streams / tour sales (Charli XCX, the 1975, Chappell Roan named as "cool"; Jagwar dismissed) — the exact value system the music refuses, voiced on Roy's own account by his shadow.
 
 ## Citation

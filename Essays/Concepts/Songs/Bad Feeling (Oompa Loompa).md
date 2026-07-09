@@ -50,6 +50,11 @@ Even the one un-coated moment confirms the design. Amid the jingle, a single pro
 
 ---
 
+## The dual title, and the role worn by many `[G]` visual
+The dual title reads **on-screen** in the song's own video material — "Bad Feeling" and "(Oompa Loompa)" both appear as the title, not just a Spotify/metadata artifact of two working titles merged. `[G]`
+
+The video stages a **troupe of ~4 identical figures in matching red balaclavas and red PVC**, alongside a **black-and-white checkerboard blindfold**. This extends the catalogue's "red = ROLE" device (the single red ringmaster jacket shared between Roy and Lucius in the theatrical canon) from **one shared jacket to a multiplied uniform**: several interchangeable bodies wearing the same role at once — [[Flattened Identity]] staged as a literal costume design. `[W]` Read against the song's own Wonka-factory frame (§above), the multiplied red figures are a visual match for the **Oompa-Loompa workers themselves** — interchangeable, uniformed, consumed labor performing the same role in parallel, which is the song's own consumed-chorus reading (§"From 'perfect puzzle' to 'bad feeling'") made literal in costume. The checkerboard blindfold (sight denied, in the black/white register already active elsewhere in the catalogue) reinforces the factory-worker's lack of vantage — seeing the puzzle from inside it, not from the chorus's usual vantage of hindsight. `[W]`
+
 ## Confirmed vs. Interpretive
 
 **Confirmed (lyric + credits + EP + Roy's statement):** the Oompa-Loompa interpolation (Bricusse/Newley credited); the 2023-single → album-track-5 release; Roy's "chocolate covered reminder to trust your gut"; whistle/melodica + distorted-lullaby texture; Lucius claims it in EP1; the I-Like-to-Party "sell 'em the cake / don't want 'em awake" cross-reference.
@@ -70,6 +75,7 @@ Even the one un-coated moment confirms the design. Amid the jingle, a single pro
 | [[I Like to Party]] | The cross-album recipe: "bake a truth with a lie / sell 'em the cake / we don't want 'em awake." |
 | [[Consumption]] / [[The Circus]] | The devouring, on-demand spectacle-machine. |
 | [[Great Time to Be Human]] / [[Lucius Lullaby]] | The manufactured-paradise lie + the nursery substrate. |
+| [[Flattened Identity]] | The multiplied red-troupe costuming — one role, many interchangeable bodies. |
 
 ## Notes
 Reviewer-AI round (2026-06-07) contributed the cautionary-chorus → intuition-alarm shift, the consumed-labor deepening, and the alarm-and-foreman paradox; Roy's "trust your gut" statement + the 2023 *Wonka*-timed release are the grounding. Boundary correction applied: the teeth/maze/chew-you-up lines are [[Welcome to the Circus]], not this song.

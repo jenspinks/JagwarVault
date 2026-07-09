@@ -72,6 +72,7 @@ SiaS poses the question at the center (5); The Circle resolves it at the close (
 
 - **[W] The descending soul is every soul.** Child of God = the son = Jesus = Mozart = all of us — the soul that descends into matter and is lost; not one biographical person.
 - **[G] Sun/Son pun, on the board.** [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] drafts the verse as **"Who had a Sun"** / "my **Sun** was a singer" — the homophone is in his hand, and coheres with the board's "The sun = manifesting energy / externalized Life Force" and the *Tracks* title "Sun of God." **[?]** The further "Christ / Logos / Sun" verse-annotation the draft cites is **not in our capture** — pending.
+- **[G/W] The board is *33*'s concept-document.** The board is titled **"I'm 33 this year"** and self-dates to **2021** (birthdate-gematria: `5+22+1+9+8+8` = Roy's 5/22/1988 birthdate; title + digits together give 1988+33=2021) — one year before *33* released. It carries the finished lyrics of two *33* tracks (this song and [[Another Way II Heaven]]), so at its origin the board functions as **the concept-document / making-of map for *33*** — its Kybalion/Tree-of-Life/Hero's-Journey scaffolding is the album's conceptual architecture, later kept growing into a running cosmology board through the BMRC/LOOP era. `[G]` the board's contents and self-dating; `[W]` the "concept-document" framing itself.
 - **[W] Two ends of one arc.** *Woodstock* = the boy at dawn walking to "get my soul free." *Soul Is A Star* = the same soul after "the world took him" — "wrote songs you never heard… gave it up before Prophets ever turned." The hinge is Woodstock's own "caught in the devil's bargain" — **confirmed Joni's own line** (in her official published lyrics, all versions; Jen, 2026-06-02).
 - **[?] Hold at archetype, not biography.** "Same literal person" is the leap; keep it at descending-soul archetype.
 
@@ -165,7 +166,7 @@ Is the work **fighting** the asymmetry (pain transmits, wisdom doesn't) or **acc
 
 - "Soul Is A Star," *33* (Big Loud Rock, 2022) — lyrics [[Sources/Lyrics/Soul Is A Star]]; credits [[Sources/Credits/33]] (**Joni co-write [G]**).
 - *Woodstock* / *For Free* — [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]].
-- "Sun" spelling, "dropped by my record label" self-note — [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] (Roy's citable artifact). Kybalion/Gender transcription also there.
+- "Sun" spelling, "dropped by my record label" self-note, title/birthdate-gematria dating (2021) — [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] (Roy's citable artifact). Kybalion/Gender transcription also there.
 - **[?] pending in-vault:** idobi review; Hall of Mirrors / CTHDRL campaign docs (the actual-voice / interpolation claim); Masquerade Atlanta bio (Joni+Dylan childhood); Atwood/Honey Pop interview ("dropped by a major label"); a citable source for Roy's use of "Da'at"/"gnosis"; the "Christ/Logos/Sun" verse-annotation.
 
 ---

@@ -27,6 +27,8 @@ Type: Song · *Lucius Lullaby* (2026), **track 14 of 14, the album closer**. Voi
 - [W] **Survival, not triumph.** SOL survives Lucius, it does not conquer him. Guard against any "and then love wins" reading.
 - [P] **Jen's collapse:** the true Song of Love is the ancestral transmission (the father's verse, the Joni-borrowed song) and SOL is **the breath beneath all the verses**. The defensible [W] underneath is the shared transmission; the identity claim stays Jen's position.
 
+- [G] **B.M.R.C door (visual).** The SOL visualizer stages a physical **"B.M.R.C" wall-sign** — a 4th independent BMRC channel (metadata/caption/stencils/in-video signage). [W] Roy exits through a door marked with the circus's own initials: the threshold out of the underworld, branded by its owner (fits the album's survives-not-conquers discipline, §Survival, not triumph).
+
 ## Resonances
 - [~] **SOL / Sol, the sun.** SOL = the solar source no reflected body can absorb; the moon "trying to become a sun" is **Roy's** arc, while **Lucius** is the mind whose borrowed shine can't metabolize the song of love ([[Kabbalah - The Tree of Life]]).
 - [~] **Breath substrate:** Genesis 1:2 *ruach* before speech (grammatically feminine, the implicit feminine under the explicit paternal frame) and Theosophy's "Great Breath." Framework-attributed; no private breath-method; Abulafia stays tradition-only ([[The Angels and the Angles]]).

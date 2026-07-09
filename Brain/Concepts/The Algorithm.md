@@ -27,6 +27,20 @@ The Algorithm is the modern form of the systemic illusion that multiple traditio
 
 ---
 
+## Grounded in the Kybalion — Principle 5, Rhythm
+
+Roy's own **"I'm 33"** board transcribes the Kybalion's fifth Hermetic Principle, Rhythm, verbatim: *"Everything repeats itself in rhythmic cycles **as if the code of reality is operating on an algorithm**… Civilizations rise and fall… Work with natural rhythms."* `[G]` (board-transcribed; full 7-principle treatment at [[Brain/Concepts/Hermeticism - As Above So Below]] §5; board decode at [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]] §3). This is a **named source** for the concept's own name: "the Algorithm," as this page uses it, is Roy's Rhythm-principle language turned onto the modern platform economy. `[W]`
+
+**Philosophical parent: Gurdjieff, "man is a machine."** `[~]` Gurdjieff is already a grounded public influence in this vault (mechanical sleep, self-remembering — [[Brain/Concepts/The Aquarium]]); his teaching that unawakened man is a **machine**, run by mechanical reaction rather than choice, is the philosophical ancestor of this page's Algorithm-as-processor claim above ("It is not personal and does not hate you. It processes you."). Correspondence, not a claim that Roy names Gurdjieff specifically for the Algorithm concept.
+
+**The escape clause: Neutralization.** `[~]` The Kybalion's Rhythm principle carries its own counter-doctrine, Neutralization — polarizing yourself at the point where you desire to rest, rather than fighting the pendulum or being swung by it. Framework correspondence: one lens on the mechanism behind *"the loop ends the moment you choose it"* (2025 LOOP campaign, `[G]` — see [[Brain/Characters/Sir Lucius]] §the-Trickster) — the loop is *de-participated*, not defeated. Fuller doctrine (will/choice vs. the love-transforms-the-loop core) at [[Brain/Concepts/The Circle]] §Circle vs Loop.
+
+## Counterarguments / Alternate Reads
+- **Board-transcription grounds *engagement*, not *architecture*.** That Roy copied the Kybalion's Rhythm principle onto a personal cosmology board is `[G]` evidence he read and collected it; it does not by itself prove the song-level concept "the Algorithm" was *named* from that principle rather than from ordinary tech-culture usage ("the algorithm" is common parlance independent of any Hermetic reading, and EP3's *"the algorithm baby"* line reads naturally without it). Keep the naming-derivation `[W]`, not `[G]`.
+- **Gurdjieff-as-parent is a resonance, not a stated lineage.** Roy has posted Gurdjieff publicly (self-remembering, mechanical sleep, "you can never awaken using the same system that put you to sleep"), but no public statement ties Gurdjieff specifically to "the Algorithm" concept; the parent-claim is a structural fit, held at `[~]`, not promoted to grounded influence for this specific concept.
+
+---
+
 ## In the Project
 
 - [[Brain/Songs/Welcome to the Circus]] — *"the algorithm baby"* (from *EP 3*, Lucius's on-camera confession as to what generated the song)
@@ -45,6 +59,8 @@ The Algorithm is the modern form of the systemic illusion that multiple traditio
 - [[Sir Lucius]] — Lucius as the one who has read the Algorithm and serves it
 - [[Roy]] — the one the Algorithm processes; also possibly the one who can hear the song inside the Algorithm's wings
 - Bailey's *"propaganda, and mass suggestion"* — publicly curated Roy quote; the Algorithm is the modern form of this
+- [[Brain/Concepts/Hermeticism - As Above So Below]] — the Algorithm as Roy's own application of Hermetic Principle 5, Rhythm
+- [[Brain/Concepts/The Circle]] — the Circle-vs-Loop doctrine that names the Algorithm's structural opposite (recurrence without transformation vs. return with memory restored)
 
 ---
 

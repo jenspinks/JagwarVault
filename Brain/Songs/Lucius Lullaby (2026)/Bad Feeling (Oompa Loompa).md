@@ -45,6 +45,8 @@ Type: Song · [[Lucius Lullaby (album)]], **track 5**; acoustic-live = 15. **202
 - **[W] Lucius = alarm AND contamination:** claiming doesn't falsify; the *Wonka*-timed single proves the paradox: a genuine alarm that was itself a calculated content-play. **Threat-detector and factory foreman in one.**
 - **[W] Smaller:** *"dance 'til we drop"* = danse macabre (cf. NYH "ashes we all fall down," GT2BH "danced to destroy") · gaze turns outward: *"bad feeling 'bout **you**"* · *"Are you fucking serious?"* = rupture-point, the only un-coated line · interpolation = album method (Wonka credited [G]; nursery rhymes GT2BH/NYH/#1 Champion; Dylan "serve somebody" in [[Lucius Lullaby]] = artist-attributed [G], not a credit).
 
+- [G] **Dual title + the multiplied role (visual).** The dual title "Bad Feeling (Oompa Loompa)" reads on-screen, not just in metadata. The video stages a **troupe of ~4 identical red-balaclava/red-PVC figures** — the "red = ROLE" jacket (shared single garment in the theatrical canon) pluralized into an interchangeable uniform, matching [[Flattened Identity]] — plus a **black/white checkerboard blindfold**. [W] The multiplied figures visually confirm the consumed-labor Oompa-Loompa reading (§Strong Read).
+
 ## Resonances
 [~] "That's Amore" moon corrupted → **lunacy** (*"when the moon hits the sky, I'm a little unwell"*); reflected light = Yesod, Lucius's medium (the Moon = Roy's; [[Brain/Concepts/Source vs Reflection]]) · [~] candy paradise = false Eden / Maya (Roy-posted Kierkegaard "the crowd is the untruth," Bailey, Blavatsky/Steiner) · [~] sugar = anesthetic/decay (tooth-decay = [[Welcome to the Circus]]) · [~] Jungian shadow-alarm / Gnostic archonic appetite · brushes [[The Algorithm]].
 **Boundary:** "teeth / no-exit maze / chew you up" = [[Welcome to the Circus]] (4), NOT here.
@@ -63,6 +65,6 @@ Type: Song · [[Lucius Lullaby (album)]], **track 5**; acoustic-live = 15. **202
 - **Falsifier:** Wonka aesthetic as chiefly 2023 film-tie-in marketing → spectacle-machine depth = commercial dressing.
 
 ## Sources
-[[Sources/Lyrics/Bad Feeling (Oompa Loompa)]] (Apple-verified) · [[Sources/Credits/Lucius Lullaby]] · EP1: [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] · Bricusse/Newley "Oompa Loompa" (1971) · Roy's gloss + tattoo. *No private material; Bailey only via Roy's posts.*
+[[Sources/Lyrics/Bad Feeling (Oompa Loompa)]] (Apple-verified) · [[Sources/Credits/Lucius Lullaby]] · EP1: [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] · Bricusse/Newley "Oompa Loompa" (1971) · Roy's gloss + tattoo · (none — "Bad Feeling (Oompa Loompa)" official video, dual title on-screen + red-troupe/checkerboard-blindfold visuals). *No private material; Bailey only via Roy's posts.*
 
 > **Full reading:** [[Essays/Concepts/Songs/Bad Feeling (Oompa Loompa)]]

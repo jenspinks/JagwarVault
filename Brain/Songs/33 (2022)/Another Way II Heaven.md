@@ -21,6 +21,7 @@ Type: Song · *33* (2022), **track 8 of 10**, 4:25. **Roy English (sole writer)*
 
 ## Grounded
 - **The lyric = Roy's board cosmogonic poem** ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] / [[The Pattern]]) — the **same creation myth composed twice** (song + standalone board text). Grounds the cosmogony as Roy's own intentional framing.
+- **[G] The board block is color-coded to the board's own ten-rung ladder.** `[W]` the song = the emanation-ladder narrated, in Roy's own annotation, not only the reader's Kabbalah frame — strengthens the Yesod=9 / count-as-clock reads below. **[G/W] The board = *33*'s concept-document:** titled "I'm 33 this year," self-dated 2021 (birthdate-gematria) — one year pre-release; it also carries [[Soul Is A Star]]'s lyric.
 - Solitude → sight: *"I was just me / But who was 'I' to Know? / I wanted to see myself."*
 - Division speech-act: *"I spoke the words 'One, become Two' / Then 'I' was in reverse… 'I' became 'You'."*
 - Dyad/union: *"A Darkness and a Light"* → *"When we crashed and came together / A Sun was born inside."*

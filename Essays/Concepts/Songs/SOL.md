@@ -114,6 +114,11 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 
 ---
 
+## A B.M.R.C door, and an exit branded by its owner `[G]`/`[W]`
+The SOL visualizer contains a **physical "B.M.R.C" wall-sign** in its set — a second, video-based BMRC sighting, independent of the site-metadata capture (`sirlucius.com`/`jagwartwin.com` meta tags) and the emoji-order caption elsewhere in the catalogue. `[G]` This is now a fourth independent BMRC channel (metadata / emoji-caption / stencils / in-video signage), which strengthens the underlying grounding without changing what "B.M.R.C." expands to — the letters stay unexpanded by design (see [[Sir Lucius]] for the standing BMRC discipline).
+
+Staged in the same visualizer: Roy **exits through a door marked with the circus's own initials.** `[W]` Read against SOL's own architecture — the song the shadow spent the theatrical run trying to suppress, finally surviving to the album's last word (§The irreducible remainder, above) — the door reads as the **threshold out of the underworld, branded by its owner**: the exit from the space Lucius/BMRC operates in is itself signed by BMRC, which fits the album's survives-not-conquers discipline (§Survival, not triumph) — the space one steps out of doesn't stop being what it was, and the doorway out still carries its owner's mark.
+
 ## Resonances `[~]`
 
 - **SOL / Sol — the sun.** *Sol* = sun (Latin/Spanish). SOL reads as the solar source no reflected body can absorb: the moon "trying to become a sun" is **Roy's** arc, while **Lucius** is the mind whose borrowed shine can't metabolize the song of love (map: [[Kabbalah - The Tree of Life]]). The double meaning — **Song Of Love** (acronym) and **Solar source** — coheres.
@@ -159,6 +164,7 @@ The survival-sequence is the page's positive spine: **there is a Song of Love �
 
 ### Song / release
 - "SOL" — Jagwar Twin, *Lucius Lullaby*, track 14 (Apple Music). Wordless album cut; source note [[Sources/Lyrics/SOL]].
+- (none — SOL visualizer) — the "B.M.R.C" wall-sign set-piece + the branded exit door (§A B.M.R.C door).
 - *The Interview* EP2 / EP3 / EP7 — the consolidated theatrical canon at [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]]: EP2 names and sings "The Song of Love" (the Bargain; SOL refused); EP3 references SOL (overridden with *Welcome to the Circus*); EP7 SOL agitates Lucius — the song he can't metabolize *(stage direction; yelled lines not track-synced)*.
 - ~~**Poem guide**~~ — **de-attributed from SOL (2026-06-27)**; it's the [[Sources/Quotes/Roy IG Reel - 1 Champion Visualizer (El Roy caption)|#1 Champion visualizer]] caption + the [[Sources/Quotes/Roy IG Post - Half the Man (Father)|Half the Man]] post, not a SOL source.
 

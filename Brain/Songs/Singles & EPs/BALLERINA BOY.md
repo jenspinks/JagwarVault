@@ -36,6 +36,7 @@ Type: Song · standalone single, **June 13, 2025**; ℗ 2025 **Big Loud Rock / M
 - [G] **Roy tells the wound outside the lyric** (MB conversation, ~2021–22): the girls' chant, *"I'm never gonna dance again"*, shame *"pushed so deep into the subconscious"*; adult **dance videos = shadow-work** (transcript in sources). Literal autobiography, not only a character's lyric.
 - [G] **Lucius mocks this song by name** (The Interview EP3, verbatim): *"your lowest performing song… Ballerina Boy. When you're vulnerable you LOSE!"*
 - [G] **Pinocchio sits on Roy's own 22-film board** (*"Pattern Represented in Movies"*): Roy-curated, not a critic's import.
+- [G] **"magik2" public caption = the origin in Roy's own words** (age-7 ballet class; *"you're not a real boy… vow to never dance again… **You are one of one**"*): public autobiographical grounding, independent of the unpinned Mirror Sessions ep. *"Not a real boy"* = Pinocchio (decode §3.6; pin post for verbatim).
 
 ## Strong Read
 - **[W] One mechanism, schoolyard→religion→industry→algorithm:** *sacrifice the true self so the world stops punishing you*; Lucius later weaponizes it ([[Not Your Homie]], [[Welcome to the Circus]]).
@@ -45,6 +46,8 @@ Type: Song · standalone single, **June 13, 2025**; ℗ 2025 **Big Loud Rock / M
 - **[W] Counter-algorithm** (declines the metric; off-album single about the off-album child) · **[W] Divine Child / true embodied self** (anima elements, not *only* anima; Jen's refinement).
 - **[W] Divine-feminine voice** (track on [[Mary]]): the faceless blessing recurs in [[Weirdness]] and [[No. 1 Champion (la Conquistadora)]]; likely all Mary-class, clearest here. *("Set you free" in Lucius Lullaby = Lucius counterfeiting the Mary-function; corrected 2026-06-06.)*
 - **[W-] Pinocchio = curated mythic analogue** (via the [G] board): a made boy told "not a real boy"; the maker's string (→ [[The Circle]]); Blue Fairy ↔ outro. Coexists with the autobiography, not "the inherited template". *(33 Deep Dive D1.)*
+- **[W] Visualizer = grave-tableau** (adult at desert grave: cross, ember-seam, moon) = literalization of *"I killed… I buried"*; seed-frame **John 12:24** (planted-not-lost). Essay §The visualizer.
+- **[W] Grasshopper Song (board *"Mom's song"*) = maternal blessing's real-world root** (Roy's mother's own song); leap-of-faith redeems **Num 13:33** grasshopper-smallness. Essay §The Grasshopper Song; decode §1.9.
 - **Roster:** "Brandon" collapses into Ballerina Boy (Jen 2026-06-08; [[Essays/_drafts/Prior Analysis — Triage, Flags & Expansion]] Part 4).
 
 ## Resonances

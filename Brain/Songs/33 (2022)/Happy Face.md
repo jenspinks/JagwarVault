@@ -30,6 +30,8 @@ review_date: 2026-12-05
 - [W] **Minimum-viable mask** ([[The Mask]]): prototype → jester face ([[Essays/Concepts/Songs/Welcome to the Circus]]) → face removed. *persona* = "through-sound" — a mask you literally **sound.**
 - [W] *"Death of my generation"* doubled: Roy grieving the casualties + the algorithm naming its own body count.
 
+- [G] **"Are you content?" — 2020 origin of the HoM crack `3132514932`.** The **"Happy Face (Official Audio)"** YouTube thumbnail (2020) reads *"ARE YOU CONTENT? CALL NOW (313)-251-4932"* + **#AreYouContent** tag; the video's manifesto text: *"WE EACH HAVE THE POWER OF THE UNIVERSE WITHIN US… BURNING THE OLD WAYS DOWN TO THE GROUND… OUT OF THE FIRE SOMETHING NEW IS BEING BIRTHED. THIS IS THE DEATH OF MY GENERATION."* The digit-string sources the Hall of Mirrors crack `3132514932` (leaf `0xd72324e3`, cracked 2026-06-29) to this **public 2020 launch asset**, five years before it re-seeded as an ARG code — an instance of reveal-art codes seeded elsewhere in the catalogue. `[W]` the HoM link.
+
 ## Resonances
 - [~] Jung persona/shadow (the mask weaponized); Gurdjieff Objective Art (engineered internal state — the song is the sedation it describes).
 
@@ -41,4 +43,4 @@ review_date: 2026-12-05
 - [[Sir Lucius]] · [[Essays/Concepts/Songs/Move To You]] / [[Brain/Concepts/The Circle]] (Loop keystone) · [[Essays/Concepts/Songs/Loser]] (architected-not-claimed; the down-mask) · [[Essays/Concepts/Songs/Welcome to the Circus]] (mask at scale) · [[The Mask]] / [[The Algorithm]] / [[The Spectacle]] / [[The Audience]] · [[Brain/Songs/Lucius Lullaby (2026)/Bad Feeling (Oompa Loompa)|Bad Feeling]] (co-claimed EP1).
 
 ## Sources
-- [[Sources/Lyrics/Happy Face]] · [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] (EP1/EP3) · [[Sources/Credits/33]] · [[Sources/Transcripts/Knockturnal-2019-Studio-Sessions]] · [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]].
+- [[Sources/Lyrics/Happy Face]] · [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] (EP1/EP3) · [[Sources/Credits/33]] · [[Sources/Transcripts/Knockturnal-2019-Studio-Sessions]] · [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]] · (none — "Happy Face (Official Audio)," YouTube, 2020, thumbnail + description).

@@ -50,6 +50,13 @@ Lucius claims Happy Face *by name* in 2026 (EP1, *"those are me"*) — but the s
 
 **And Roy says it himself.** A 2021-10-19 **#HappyFaceHalloween** Short shows Roy in a **clown mask**, captioned in his own words: *"When they tell you to put on a happy face 🤡."* That is the artist **fusing the song's title to the literal clown-mask in 2021** — five years before EP1 names the mask Lucius. Roy-voice + iconography, both citable. ([[Master Source List]] §3.)
 
+## "Are you content?" — the 2020 origin of a 2026 HoM code `[G]`
+The **"Happy Face (Official Audio)"** YouTube thumbnail (2020) reads **"ARE YOU CONTENT? CALL NOW (313)-251-4932"**, and the upload is tagged **#AreYouContent** (313 = the Detroit area code). The video's own manifesto text runs: *"WE EACH HAVE THE POWER OF THE UNIVERSE WITHIN US… WE ARE BURNING THE OLD WAYS DOWN TO THE GROUND… OUT OF THE FIRE SOMETHING NEW IS BEING BIRTHED. THIS IS THE DEATH OF MY GENERATION,"* cycling through a zodiac/alchemical glyph banner (eye, sun, ankh, cross, skull-and-bones, yin-yang, hourglass, Pisces, Aquarius, crescent-and-star, book). `[G]` (none — "Happy Face (Official Audio)," YouTube, 2020)
+
+This **sources a Hall of Mirrors crack**: the digit-string **3132514932** was cracked in the ARG (leaf `0xd72324e3`, 2026-06-29) with only "poster phone#" as its prior gloss — the phone number on this 2020 thumbnail is that same digit-string, five years earlier, in a public promotional context, not a seeded ARG artifact. It's a clean example of the HoM method-note that reveal-art codes are often seeded **elsewhere** in the released catalogue, here in Happy Face's own launch material. `[W]` the HoM connection (the digit match is `[G]`; that the ARG intentionally re-seeded *this specific* 2020 asset is the interpretive step). *(The Finds-Ledger entry itself is out of scope for this fold pass — flag for the HoM-cluster session to add this citation to `_System/HoM - Finds Ledger`.)*
+
+**"Are you content?"** also plays as a double question under the hook's own instruction to perform contentment (*"say you're good, say you're fine"*) — content as *satisfied* and content as *the thing you produce and upload*. Both readings sit comfortably inside the song's algorithmic-pressure grounded material, above. `[~]`
+
 ## Resonance
 *Framework correspondences — not authorial intent.*
 - **Jung — persona / shadow** [~]: the social mask weaponized; the Shadow using the Persona for commercial leverage.
@@ -104,4 +111,5 @@ This is **Gurdjieff's Objective Art stated as method** — the song built as a f
 - [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]] — the Circle-naming on *Move To You* (the Loop keystone, §1).
 - [[Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror]] — "Trojan Horse music," the deathofmygeneration.fun forced-smile experiment, 444 Hz (§Roy's stated method).
 - [[Sources/Transcripts/MB-Conversation-Jagwar-Twin (Mental Health, Cancel Culture)]] — the stove = alchemical brew / shadow-work / "casting the shadow" (§Roy's stated method).
+- (none — "Happy Face (Official Audio)," YouTube, 2020) — the "ARE YOU CONTENT?" thumbnail, phone number, #AreYouContent tag, and manifesto text (§"Are you content?").
 - Frameworks: C. G. Jung (persona / shadow); G. I. Gurdjieff (Objective Art). *No private material used.*
