@@ -120,7 +120,7 @@ Each links the Brain entry (always) and the Essay (if written ✦).
 The Mask · The Mouth · The Voice · The Audience · The Light-Bearer · The Spectacle · Consumption · Fire · The Wheel · The Veil · The Aquarium · Panem et Circenses
 
 **Pageless** ⬚ (declared in [[Ontology]], referenced, no page yet — live source: [[entity-map]] §Pageless / [[Ontology]] "Declared — pageless")
-The Moon · Yesod · Malkhut · Tiferet · Binah · Shekhinah · Netzach · Hod · Geburah · Albedo · Rubedo · Orbit / Return · Anima/Animus · Alchemical Transmutation · The Loop · The Abyss · Objective Art · Somatic Captivity · Collective Amnesia · The Twice-Voiced Blessing · Tsimtsum · Tikkun Olam · Liminal Spaces · Sacred Geometry · Cosmic Cycles · Sleep / Wake Up · Ballerina Boy · Leif · The Boss/BMRC
+The Moon · Yesod · Malkhut · Tiferet · Binah · Shekhinah · Netzach · Hod · Geburah · Albedo · Rubedo · Orbit / Return · Anima/Animus · Alchemical Transmutation · The Loop · The Abyss · Objective Art · Somatic Captivity · Collective Amnesia · The Twice-Voiced Blessing · Tsimtsum · Tikkun Olam · Liminal Spaces · Sacred Geometry · Cosmic Cycles · Sleep / Wake Up · Ballerina Boy · Leif · BMRC (Black Magic Rainbow Circus; "Boss" = Lucius)
 
 **Characters**
 [[Roy]] ✦ · [[Sir Lucius]] ✦ · Mary ◦ · Jagwar Twin ◦ · Ballerina Boy ⬚

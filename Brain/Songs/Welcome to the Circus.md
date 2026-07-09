@@ -64,7 +64,7 @@ EP3 (visual lore, public): Roy proposes a Song of Love; Lucius overrides, cites 
 
 ## Open Questions
 - [ ] Lucius protecting Roy, or training him to rule the Circus?
-- [ ] Who is "the Boss" Lucius reports to? (CHAR-TheBoss)
+- [ ] Is Lucius's rebellion his own, or unwitting assignment to the pattern he inverted? ("Boss" is Leif's term for Lucius; Lucius answers to no one he acknowledges. CHAR-TheBoss)
 - [ ] Why can Lucius not metabolize SOL?
 - [ ] Is the missing exit a description or Lucius's withheld strategy?
 - [ ] Where is [[Essays/Concepts/Songs/Ballerina Boy]]? The song's structural silence about him may be the song's most important feature.

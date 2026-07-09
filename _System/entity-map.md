@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `2644460` (2026-07-02 10:08:54 -0500) · 47 songs · 81 concepts · 6 characters · 3 albums
+> [!info] Generated snapshot — vault commit `4a79eaf` (2026-07-02 16:58:19 -0500) · 47 songs · 81 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -127,6 +127,7 @@ Declared in [[Ontology]] for reference-resolution; most have no standalone page 
 
 | ID | Concept | Brain page (if minted since) |
 |---|---|---|
+| `CHAR-TheBoss` | "Boss" (= Lucius) / BMRC | — |
 | `CONCEPT-Albedo` | Albedo | — |
 | `CONCEPT-AlchemicalTransmutation` | Alchemical Transmutation | — |
 | `CONCEPT-AnimaAnimus` | Anima/Animus | — |
@@ -148,7 +149,6 @@ Declared in [[Ontology]] for reference-resolution; most have no standalone page 
 | `CONCEPT-SleepWakeUp` | Sleep / Wake Up | — |
 | `CONCEPT-SomaticCaptivity` | Somatic Captivity | — |
 | `CONCEPT-TheAbyss` | The Abyss | — |
-| `CHAR-TheBoss` | The Boss / BMRC | — |
 | `CONCEPT-TheLoop` | The Loop / Cycles | — |
 | `CONCEPT-TheMoon` | The Moon | — |
 | `CONCEPT-TwiceVoicedBlessing` | The Twice-Voiced Blessing | — |

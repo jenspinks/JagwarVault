@@ -86,5 +86,5 @@ The Jonah story is the key comparative:
 ## Open Questions
 
 - [ ] Is there a transformation-through-consumption reading available? Is being chewed up the *beginning* of an initiatory process that hasn't completed yet in the WTTC timeframe?
-- [ ] Who is the *consumer* — Lucius, the Algorithm, the industry, the audience? The song attributes it to Lucius-as-ringmaster; but behind Lucius is a Boss. The consumption may be further upstream than it looks.
+- [ ] Who is the *consumer* — Lucius, the Algorithm, the industry, the audience? The song attributes it to Lucius-as-ringmaster, who thinks he is the top; but the appetite may run *through* him to the pattern he serves without admitting it. (Not "a Boss behind Lucius": he answers to no one he acknowledges; the true higher power is the champion he denies.)
 - [ ] Is [[SOL]] the Jonah-moment — the prayer from inside the whale's belly, the transformation that happens in the darkness before the ejection?

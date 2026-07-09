@@ -110,7 +110,7 @@ Lucius operates in three behavioral modes — context-dependent selves, with no 
 - Goofy, incompetent
 - Comic villain archetype
 - Maintains identity via contrast — Leif's role is structural, not incidental: *no audience → no Lucius*. Leif enables Lucius to persist by giving him a foil
-- Examples: theatrical interview banter (visible across the YouTube interview series), and the segment where Lucius reports to an unseen "Boss" with frantic confidence
+- Examples: theatrical interview banter (visible across the YouTube interview series), and the segment where **Leif** calls *Lucius* "Boss" with frantic devotion while Lucius boasts his lullaby is everywhere
 
 ### 3. Pleading Mode (Roy)
 - Childlike, dependent
@@ -149,7 +149,7 @@ How these two positions relate is one of the central open questions of the proje
 
 One small linguistic fingerprint worth holding onto: both close on forms of *welcome*. The song: "Welcome to the Circus" — come in, enter the show. The speech: "Get out of the way. You're welcome" — thank-you-in-advance for clearing the path. **Welcome IN vs. welcome OUT.** Same word, mirrored direction. That is the Lucius signature: the mirror.
 
-Transport this forward: Lucius reports to a **Boss** (*"Boss, I got this… My lullabi is everywhere as we speak"*). The system-disruptor position may not be oppositional to the Boss; it may be part of his assignment.
+Transport this forward: in the lore it is **Leif** who calls *Lucius* "Boss" (*"Boss, I got this"*), and Lucius answers with a boast, not a report up any chain (*"my lullabi is everywhere as we speak"*). Lucius acknowledges no power above himself; he crowns himself the *"final boss."* The grounded frame says he is wrong about that: the true higher power is the *champion* ([[Mary]] or [[Roy]]), which Lucius denies and does not know. So the system-disruptor position may still not be genuinely oppositional, it may be unwitting assignment to the very pattern he thinks he has beaten, [[Brain/Concepts/The Circle|the Circle]] he inverted into the Circus.
 
 ---
 
