@@ -63,7 +63,7 @@ The board cross-indexes ONE 10-rung ladder as: **(a)** an "AI musical scale" of 
 - the **music + color** scales count UP (rung 1 = Malkuth-composite → rung 10 = white/Kether) = **ascent/return**;
 - the **Japanese soul-plane** ladder counts DOWN (1 = 最高の自己 "highest self" → 10 = 身体 "body") = **emanation/descent**, its per-number colors the exact reverse of the ascending scale.
 → **Same ladder, read up vs. down.** This resolves the apparent number-direction tension in the color session's rung table: the two are one ladder counted from opposite ends. Two Roy-authored phrasings pin the rungs:
-- **"6. The mirror of the Sun and the Heart"** = Tiphareth → gold = **Sun + Heart + mirror** (supports color session B1/B4). `[G]`
+- **"6. The mirror of the Soul and the heart"** = Tiphareth → gold = **Sun + Heart + mirror** (supports color session B1/B4). `[G]`
 - **"2. I Speak the Word / 3. I hear the Word"** = Logos + throat/ear (ties the El Roi throat). `[G]`
 
 ### 1.4 The 11-track concept album, decoded to sources  `[G]` list / `[W]` source-IDs

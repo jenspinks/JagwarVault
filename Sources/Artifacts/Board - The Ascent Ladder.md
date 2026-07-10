@@ -26,7 +26,7 @@ Three ten-stage columns run side by side, three encodings of *one* ascent:
 - **Japanese soul-labels** (for the "Enlightened Being" diagram): 身体 *body* → 下意識 *subconscious* → 思索 *contemplation* → 感情 *emotion* → センター *center* → ソウルパワー *soul power* → 魂の気づき *soul awareness* → 霊的な愛 *spiritual love* → 霊的な意志 *spiritual will* → 最高の自己 *highest self* (道教 = Taoism).
 - **The 0–10 emanation list** (Tree-of-Life glosses): *0. Nothing IS, Nothing Becomes, Nothing is Not · 1. I AM · 2. I speak the word · 3. I hear the word — Abyss · 4. Father + Mother concealed in generation · 5. whirling energy = Fortune · **6. The mirror of the Soul and the heart** · 7. Beauty · 8. wavering · 9. stability · 10. The World.*
 
-**Stage 6 — *"The mirror of the Sun and the Heart"* — is the [[SOL]] / Heart-Mind keystone in Roy's own hand:** the Sun and the Heart reflected as one. And the ladder's top rung, **"10. The World,"** *is a released song* — the HoM Tree-of-Life-ladder artifact's code is *"Know how to spell the name of the song"* → **Imagine A World**.
+**Stage 6 — *"The mirror of the Soul and the heart"* — is the [[SOL]] / Heart-Mind keystone in Roy's own hand:** the Sun and the Heart reflected as one. And the ladder's top rung, **"10. The World,"** *is a released song* — the HoM Tree-of-Life-ladder artifact's code is *"Know how to spell the name of the song"* → **Imagine A World**.
 
 **Song ties →** [[Imagine A World]] *(strong — the emanation ladder's rung "10. The World" is the song, tied via the HoM Tree-of-Life-ladder artifact)* · [[SOL]] *(moderate — rung 6, "the mirror of the Sun and the heart," is the Heart-Mind / Sun keystone)*.
 
