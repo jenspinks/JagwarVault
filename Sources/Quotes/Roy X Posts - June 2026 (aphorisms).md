@@ -66,7 +66,7 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **[04-25]** *"When your attention is off yourself your intuition has the space to operate."* → [[Roy on the Heart-Mind Split]] (intuition vs self-focus).
 - **[04-24]** *"'bounce' official visualizer — out now"* (+ YouTube: *Jagwar Twin, sir lucius — bounce (Visualizer)*; underwater classical bust w/ face-paint). → public source for **[[Bounce]]** (track 12).
 - **[04-21]** *"Every person has it inside of them. The trick is getting it inside out."* → **the song hidden inside everyone** → [[The Circle]] §Wise-One ("all of us"; inside-of-the-inside, *getting it inside out*).
-- **[04-18]** *"Happy birthday"* (+ image of the **"I'm 33 this year" board**, "Jagwar Twin | It's Your Time," its-your-time.jagwartwin.com). → **the board posted PUBLICLY** on Roy's birthday → confirms the artifact's public status ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] / [[The Pattern]] / [[The Upload]]).
+- **[04-18]** *"Happy birthday"* (+ image of the **"I'm 33 this year" board**, "Jagwar Twin | It's Your Time," its-your-time.jagwartwin.com). → **the board surfaced PUBLICLY** in April 2026 under a deadpan *"Happy birthday"* caption, about a month before Roy's actual **May 22** birthday → confirms the artifact's public status ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] / [[The Pattern]] / [[The Upload]]).
 - **[04-18]** *"You are always who you are."*
 - **[04-17]** *(reposted @2times_eth)* *"'Playing to the Gods' — @JagwarTwin really just popped up. There is something more to this whole universe."* (Roy amplified — reception.)
 - **[04-17]** *"If it's happening for me it's happening for everyone."* → **the collective / "all of us"** ([[The Circle]] §Wise-One).
@@ -342,7 +342,7 @@ Verbatim ingest of public posts from **@JagwarTwin** (X/Twitter; the main Roy/JT
 - **Deceptive-truth (×2):** *"truth is a spectrum but a lie is a lie"* + *"truth may walk the earth in an unlikely disguise"* → [[Sir Lucius]].
 - **Rosicrucian rose-cross, Roy-voice:** *"the rose blooms in the center of the cross"* → [[The Pattern]] (board rose-cross/Venus).
 - **Invisibility + the unseen self** (×3 + *"can't see myself"*) → [[Roy]] / El Roi / [[Witnessing vs Surveillance]].
-- **Board is public** (birthday post) + **underground event is public** (May 5) — provenance anchors.
+- **Board is public** (April *"Happy birthday"* post) + **underground event is public** (May 5) — provenance anchors.
 - **Surrender/freedom paradox, Roy-voice [G]:** *"To be free you must surrender. Thats the paradox. Letting go is the ultimate strength"* (Nov 15, highest-engagement post in the Nov window) → the integration arc made explicit: Lucius's clinging = the cage; release = the way through. → [[Sir Lucius]] / [[Roy on the Heart-Mind Split]] / [[The Labyrinth]].
 - **Bad Feeling truth-lie thesis, Roy-voice [G]:** *"The truth is a lie that nobody can tell"* (#badfeelingjt, Nov 10) = Roy using the lyric as the post's headline → publicly marks the truth-lie inversion as the song's load-bearing center (not ornamental; Roy's own framing).
 - **Green apple decode (Aug 21 2025) — symbol grounded, wording pending pin:** the 🍏-as-Lucius's-mark is `[G]` (real IG "Keys to Instagram" post). The *verbose* gloss (*"intelligence divorced from spirit…"*) is `[W — pending pin]`: it rests on **summaries** (this timeline doc + the LOOP-lore card), **not a screenshot** of the Aug-21 post. Pin before quoting as verbatim. → [[Sir Lucius]].
