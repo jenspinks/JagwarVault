@@ -10,6 +10,8 @@ ingest_source: "Roy English's own conceptual spreadsheet 'I'm 33 this year'. Cla
 
 **Primary artifact.** Roy English's own working spreadsheet, **"I'm 33 this year"** (tab: *"How to upload myself to the internet"*) — a large visual "consciousness board": typed cells, hand-drawn diagrams, gematria, pasted science images, and photos. **No JT interpretation here** (layer separation) — this file preserves *what the board says/shows* verbatim so Brain/Essays can ground readings on it. Cross-links below are pointers only.
 
+> **Image gallery companion:** [[Roy - I'm 33 Board (Image Gallery)]] — the board's HoM-minted panels + non-minted board panels, grouped by thematic architecture, mirroring the HoM artifact-gallery catalogs (2026-07-11).
+
 > **Evaluated in 4 thematic passes** (media-evaluation, source vault): [[Board - The Upload]] · [[Board - The Ascent Ladder]] · [[Board - The Source-Code]] · [[Board - The Field]]. Full analysis: [[The Im 33 Board - Decoded (Roy's upload cosmology)]].
 
 ## Provenance & method
