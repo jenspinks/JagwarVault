@@ -75,7 +75,7 @@ This is the only moment in the public catalogue where the Circus's authorship is
 
 ## Open Questions
 
-- [ ] Is Lucius the Algorithm's *agent* (consciously serving it), its *product* (unknowingly shaped by it), or its *reflection* (the Algorithm's mirror-face)?
+- [~] Is Lucius the Algorithm's *agent* (consciously serving it), its *product* (unknowingly shaped by it), or its *reflection* (the Algorithm's mirror-face)? **→ Leaning resolved (2026-07-10): its *product-become-master*.** The machine (the *System*) predates Lucius by twenty years; he did not build it, he *studied* it. *"The algorithm, baby"* is the student handing back a perfect exam — mastery worn as a flex, not a confession of being the machine. So: neither naive product nor mere agent, but the siege's product who learned the game and now wars to replace it (its would-be usurper). See [[Essays/Arcs/Machine vs Human]] §The machine gets a claimant · [[Cross-Vault Fold Status]] row B. *(The residual openness: whether that war is liberation or just succession — a new king on the same cage.)*
 - [ ] Can the Algorithm be worked within without being captured by it? (Roy wants to release SOL — which the Algorithm presumably would not reward. Lucius overrides. This may be the Algorithm's victory in miniature.)
 - [ ] Bailey's *"the world is today the victim of illusion, propaganda, and mass suggestion"* — publicly curated Roy quote. Is Bailey being cited as a diagnosis of the Algorithm's precursor, or does the Algorithm exceed what Bailey imagined?
 - [ ] Is there any song in the catalogue that is anti-algorithmic by design — made precisely to fail by the Algorithm's metrics?

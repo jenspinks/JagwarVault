@@ -262,13 +262,13 @@ status: stable
 - Joni and the Prophet lineage - alignment audit (not a claim).md
 - Kabbalah - The Tree of Life.md
 - Keilim - The Breaking of the Vessels.md
+- Letters of Creation.md
 - Machine vs Human.md
 - Nigredo.md
 - Panem et Circenses.md
 - Pronoun Audit - I-you machine (33 vs Lucius Lullaby).md
 - Source vs Reflection.md
 - The Algorithm.md
-- The Angels and the Angles.md
 - The Aquarium.md
 - The Audience.md
 - The Banana.md

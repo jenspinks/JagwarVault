@@ -117,7 +117,7 @@ Fold target: the board-decoded page + the *Inside of the Inside* page; note the 
 
 **Awaiting your approval (SOURCE canon):**
 - [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]] — fold the full Queen-scale ladder table (B1) + the ~22% census rule (B3).
-- [[Brain/Concepts/Kabbalah - The Tree of Life]] — the board ladder = Queen scale, with the A#=grey minted cross-anchor.
+- [[Brain/Concepts/Kabbalah - The Tree of Life]] — the board ladder = Queen scale, with the A#=grey **validated** cross-anchor (a validated HoM code, not "minted" — see the §66 verification note).
 - NEW `Brain/Concepts/The Color System.md` (or a section on the board-decoded page) — the four keys by domain (B2).
 - [[Brain/Characters/Sir Lucius]] + [[Brain/Concepts/The Circus]] — BMRC = Black Magic Rainbow Circus (A), the distortion set (B4), the wardrobe/grade reading (B2, B5).
 - [[Brain/Concepts/Nigredo]] · [[Brain/Concepts/Inversion]] · [[Brain/Concepts/The Jaguar]] — the shattered-rainbow, the cat-halo icon, the teal-complement inversion.

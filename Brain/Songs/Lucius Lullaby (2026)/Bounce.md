@@ -8,7 +8,7 @@ referenced_by: []
 ---
 # Bounce
 
-Type: Song · [[Lucius Lullaby (album)]] (2026), **track 12 of 14** `[G]` *(confirm on final release)*. Lyric Drive-sourced, **streaming-unverified `[?]`**, high mishear risk.
+Type: Song · [[Lucius Lullaby (album)]] (2026), **track 12 of 15** `[G]`. Lyric Drive-sourced, **streaming-unverified `[?]`**, high mishear risk.
 
 **Core:** performs psychological evasion in real time: panic surfaces for a single beat, then is instantly converted into movement, mythology, sexuality, and spectacle, *before it can become knowledge*. The conversion is fast enough to be visible; that visibility may be the point. `[W]`
 
@@ -25,7 +25,7 @@ Type: Song · [[Lucius Lullaby (album)]] (2026), **track 12 of 14** `[G]` *(conf
 - [W] **The real command is "don't stop."** The opposite of Bounce is reflection, not sitting; stopping reads as dangerous. Regression cluster, no callback needed: [[Moths to the Flame]] (doctrine) → [[Bananas]] (id-eruption) → Bounce (**kinetic evasion**); movement as the technology for staying asleep, the Gurdjieff "wake up" axis in reverse.
 - [W] **Anakin = panic weaponized:** *panicking → Anakin → "who's your daddy?"*, vulnerability converted into myth; Anakin's villainy grows from intolerable fear of loss, the Vader turn *is* panic weaponized (vs generic "fallen hero"). *Guard `[~]`:* Roy habitually self-IDs as pop avatars (Jack Sparrow, Bon Jovi, "venus as a boy," Neo-shaman); no Vader theology on one boast.
 - [W] **"Leave this place" = recruitment, not just escape:** admits a place exists and needs escaping, never named. Strongest reads: dissociate upward into the Lucius-performance state, or lure the listener into the Circus. Exit only through immediate motion, itself the trap; hold escape-vs-recruitment live.
-- [W] **The destruction is personal:** *"tear the roof off of **my** house"*; the possessive is personal, not communal. Protections strip in sequence (panic → mythology → roof → moving body); trajectory = **exposure**, not freedom. *(`[~]` allusion: P-Funk "Give Up the Funk"; if a quotation, "my house" is his deviation, supporting the read.)*
+- [W] **The destruction is personal, and it is the *roof* specifically:** *"tear the roof off of **my** house"*; the possessive is personal, not communal. Protections strip in sequence (panic → mythology → roof → moving body); trajectory = **exposure**. But *exposure* and *opening* are the **same gesture**, not rival reads. The roof is the lid of **Beth**'s own meaning (Beth = *house* — the Sefer Yetzirah letter epigraphed on the Bounce *Live Underground* card, [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10|the Beth card]]), and tearing it runs the catalogue's container→**opening** move ([[The House & the Vessel — Container Imagery (hold, open, shatter, hatch)]]): closed→open, protected→exposed, the heart unsealed. Here the opening is *involuntary and evasive* (the crack forced, not chosen), which is why it lands as exposure rather than freedom. Roy's own promo caption grounds the arc: *"We begin with a house and we end up with a heart."* *(`[~]` allusion: P-Funk "Give Up the Funk"; if a quotation, "my house" is his deviation, supporting the read.)*
 - **"Lore" as the possible center, `[W]` read · `[?]` word:** *if* the line is *"you just love me for my **lore**,"* the audience loves the story/mythology/wound/content, not the person; may outrank the panic line as center. Anchors verify-then-anchor (corrects a contaminated pass): SARAVI's consume-the-mythology-not-the-person logic ([[The Digital Double]]); Lucius as **"the algorithm baby"** (EP3 grounded self-description; link to *this* line `[W]`). The bite (it lands because it's accurate) holds either way.
 - [?] **The duality, gated on vocals:** party-command register reads Lucius; the panic line sounds like Roy pressure leaking through; vocal assignment unverified, keep who-sings-what conditional.
 
@@ -39,7 +39,7 @@ Type: Song · [[Lucius Lullaby (album)]] (2026), **track 12 of 14** `[G]` *(conf
 - **[~] "Leave this place"** — escape or recruitment? (held, above).
 - **[?] Phonetics** — "lore"/"lure"/"Lord," "bow-bow" (incl. the gunfire possibility), "addy" — verify against Apple Music **and** Spotify; the "lore" read depends on the first.
 - **[?] Vocal assignment** — resolve only on public credit / audible separation.
-- **[?] "Tear the roof off"** — confirm the Parliament-Funkadelic allusion before weighting the self-exposure read.
+- **[~] "Tear the roof off"** — the Parliament-Funkadelic allusion (*"Give Up the Funk"*) stays **unconfirmed**, but the self-exposure read no longer hangs on it. Two independent anchors carry it: the possessive *my* house (Roy's deviation from P-Funk's *communal* roof, *if* the allusion holds), and the **Beth = house** epigraph on the Bounce card, which grounds roof-as-opening regardless of P-Funk (see Strong Read above).
 
 ## Sources
 - *Lucius Lullaby* album sequence `[G]`.

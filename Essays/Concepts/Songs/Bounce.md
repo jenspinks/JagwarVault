@@ -8,7 +8,7 @@ related: [SONG-MothsToTheFlame, SONG-Bananas, CHAR-SirLucius, SONG-CityOfAngels,
 # Bounce
 
 ## Album / Position
-*Lucius Lullaby*, **Track 12 of 14** — deep in the back half, after [[Playing to the Gods]] (9) and [[City of Angels]] (10). `[G]` *(confirm track number on final release).*
+*Lucius Lullaby*, **Track 12 of 15** — deep in the back half, after [[Playing to the Gods]] (9) and [[City of Angels]] (10). `[G]`
 
 ## Lyrics
 
@@ -39,7 +39,7 @@ related: [SONG-MothsToTheFlame, SONG-Bananas, CHAR-SirLucius, SONG-CityOfAngels,
 
 **4. "Leave this place" — recruitment, not just escape.** *"No time to waste if you wanna leave this place"* suddenly admits *a place exists and needs escaping* — never naming it. Given the surrounding recruitment register, the strongest readings are **leaving ordinary reality / the body for the Lucius-performance state** (dissociate upward into performance) or **luring the listener out of reality into the Circus.** Hold escape-vs-recruitment as a live ambiguity — the line offers exit *only through immediate motion*, which is itself the trap. `[W]`
 
-**5. The destruction is personal.** Party songs say "tear the roof off" as communal celebration; this says *"tear the roof off of **my** house."* The possessive matters — the demolition is **personal, not communal.** Across the song the protections strip away in sequence: panic surfaces → identity becomes mythology → roof comes off → body keeps moving. The trajectory isn't toward freedom; it's toward **exposure.** *(Allusion flag `[~]`: "tear the roof off" echoes Parliament-Funkadelic's "Give Up the Funk (Tear the Roof off the Sucker)"; Roy is a serial interpolator. If it's a quotation, the possessive **"my house" is his deviation from the source** — which supports the personal-exposure read rather than undercutting it.)* `[W]`
+**5. The destruction is personal — and it is the *roof* specifically.** Party songs say "tear the roof off" as communal celebration; this says *"tear the roof off of **my** house."* The possessive matters — the demolition is **personal, not communal.** Across the song the protections strip away in sequence: panic surfaces → identity becomes mythology → roof comes off → body keeps moving. The trajectory isn't toward freedom; it's toward **exposure.** But *exposure* and *opening* are the **same gesture**, not rival readings. The roof is the lid of **Beth**'s own meaning — Beth (ב) = *house*, the Sefer Yetzirah letter epigraphed on the Bounce *Live Underground* card ([[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10|the Beth card]]) — and tearing it runs the catalogue's container→**opening** move ([[The House & the Vessel — Container Imagery (hold, open, shatter, hatch)]]): closed→open, protected→exposed, the heart unsealed. Roy's own promo caption names the arc: *"We begin with a house and we end up with a heart."* What makes it read as *exposure* rather than freedom is that here the opening is **involuntary and evasive** — the crack forced open by panic, not chosen. *(Allusion flag `[~]`: "tear the roof off" echoes Parliament-Funkadelic's "Give Up the Funk (Tear the Roof off the Sucker)"; Roy is a serial interpolator. If it's a quotation, the possessive **"my house" is his deviation from the source** — which supports the personal-exposure read. But the roof-as-opening no longer hangs on the P-Funk allusion; the Beth epigraph grounds it either way.)* `[W]`
 
 ## "Lore" — the possible center, gated on the word `[?]`
 
@@ -61,7 +61,7 @@ The party-command register **reads in a Lucius register**; the panic line **soun
 
 ## Connections
 
-[[Moths to the Flame]] / [[Bananas]] (the regression cluster — doctrine, id-eruption, kinetic evasion) · [[City of Angels]] (Bounce as escalatory denial *after* the cost is revealed) · [[Sir Lucius]] (defense-mechanism / forced protection) · [[Happy Face]] (the "haha wow" deflation) · [[Playing to the Gods]] (the back-half neighbor it follows). *(No [[I Like to Party]] link — the connection is unverified; see Open Questions.)*
+[[Moths to the Flame]] / [[Bananas]] (the regression cluster — doctrine, id-eruption, kinetic evasion) · [[City of Angels]] (Bounce as escalatory denial *after* the cost is revealed) · [[Sir Lucius]] (defense-mechanism / forced protection) · [[Happy Face]] (the "haha wow" deflation) · [[Playing to the Gods]] (the back-half neighbor it follows) · [[The House & the Vessel — Container Imagery (hold, open, shatter, hatch)]] (the roof/house/Beth spine — *tear the roof off* = the vessel opened at the top) · [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]] (the Beth card that epigraphs the song). *(No [[I Like to Party]] link — the connection is unverified; see Open Questions.)*
 
 ## Sources
 

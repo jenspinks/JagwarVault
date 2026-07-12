@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `4a79eaf` (2026-07-02 16:58:19 -0500) · 47 songs · 81 concepts · 6 characters · 3 albums
+> [!info] Generated snapshot — vault commit `6c655ab` (2026-07-11 23:49:37 -0500) · 47 songs · 81 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -86,7 +86,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `CONCEPT-PanemEtCircenses` | Panem et Circenses | `Brain/Concepts/Panem et Circenses.md` · draft | — |
 | `CONCEPT-SourceVsReflection` | Source vs Reflection | `Brain/Concepts/Source vs Reflection.md` · draft | — |
 | `CONCEPT-TheAlgorithm` | The Algorithm | `Brain/Concepts/The Algorithm.md` · draft | — |
-| `CONCEPT-TheAngleAngel` | The Angels and the Angles | `Brain/Concepts/The Angels and the Angles.md` · draft | — |
+| `CONCEPT-TheAngleAngel` | The Angels and the Angles | `Brain/Concepts/Letters of Creation.md` · stable | — |
 | `CONCEPT-TheAquarium` | The Aquarium | `Brain/Concepts/The Aquarium.md` · draft | — |
 | `CONCEPT-TheAudience` | The Audience | `Brain/Concepts/The Audience.md` · draft | — |
 | `CONCEPT-TheBanana` | The Banana | `Brain/Concepts/The Banana.md` · draft | — |
