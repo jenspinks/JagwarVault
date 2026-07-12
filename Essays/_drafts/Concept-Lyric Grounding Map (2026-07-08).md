@@ -19,16 +19,18 @@ sibling: "[[Image Decode - Spreadsheet BMRC and Social - findings 2026-07-08]]"
 
 **60 concepts tested** against the 47-song corpus.
 
-| net_grounding | count | share |
+> ⚠ **METHOD CORRECTION (2026-07-08, Jen).** The verify pass rejected links **lexically** — it grep'd for each concept's signature *vocabulary* ("nothing/void" for Empty Mirror; "vessel/shell/shatter/klipot" for Keilim) and called the concept homeless when the words were absent. That violates the vault's own rule (*show what the symbol **does**, not what it is*). Both **The Empty Mirror** and **Keilim** are **operations** that run all through the songs without their name-vocabulary, and both have now been re-grounded **strong** (§Mirror, §Esoteric). Because the bias is **systematic**, the remaining **weak/none** tail is being re-checked with an *operational* lens (§3 marks which are re-confirmed vs. pending). Treat the counts below as post-correction-in-progress.
+
+| net_grounding | count (post-correction) | share |
 |---|---|---|
-| **strong** | 29 | 48% |
+| **strong** | 31 | 52% |
 | **moderate** | 16 | 27% |
 | **weak** | 10 | 17% |
-| **none** | 5 | 8% |
+| **none** | 3 | 5% |
 
-**Lyric-grounded (strong + moderate): 45 concepts (75%).** **Weak or no lyric home: 15 (25%).**
+**Lyric-grounded (strong + moderate): 47 concepts (78%)** — likely higher after the operational re-check of the tail. Empty Mirror + Keilim moved none→strong on Jen's reading.
 
-The bulk of the vault's grammar has real lyric footing. The 25% that don't are not failures, they are concepts that live where the songs aren't: on the board, in the ARG, in the theatrical EPs, in inherited esoteric substrate, or as purely structural-analytical distinctions. That negative set (§3) is the most diagnostically useful part of this map.
+The bulk of the vault's grammar has real lyric footing. A genuinely-homeless concept (§3) is one whose evidence *class* is elsewhere (board / ARG / theatrical EP / inherited substrate / pure analytical distinction) — **but only after an operation-level check**, not a word search.
 
 ---
 
@@ -43,7 +45,14 @@ Grouped by cluster. One entry per concept: **net_grounding**, then each survivin
 - **Lucius Lullaby** — "Now look into this magic mirror, tell me what you see" `[G]` — a literal device wielded in Lucius's own voice, showing an image and asking what's seen.
 - **Another Way II Heaven** — "I wanted to see myself / And where I could go ... And "I" became "You"" `[W]` — no glass, but genuine self-reflection/doubling: the self seeks to see itself and produces a "You" (the I↔You mirror-grammar).
 
-**The Empty Mirror** — **none** — *lost all proposed links.* See §3.
+**The Empty Mirror** — **strong** — *(corrected 2026-07-08, Jen `[P]`: the concept is an **operation** (reflect back, supply no object), NOT the word "nothing" — the lexical verify pass false-negatived it).*
+- **Great Time to Be Human** — "What a great time to be human" `[W]` — the clearest: absurdity/violence/religion/control paraded, then answered with a bright, vacant smile that reflects the pageant back **without** resolving it. The "empty-mirror operation": smile, say nothing, force the viewer to confront what they brought to the glass.
+- **Lucius Lullaby** — "Now look into this magic mirror, tell me what you see" / "nothing's what it seems" `[G]` device, `[W]` reading — the **corrupted** mirror: Lucius pre-loads the glass (the dream, the mansion, the fans, the lie) before you look. "Nothing's what it seems" = the **"third nothing"** — liberating *no-thing* or another Lucius control-inversion? Open question.
+- **Weirdness** — the curved **spoon** distorts the reflection until it stops working as identity-confirmation → he finds "Sunshine," named from a changed angle, not a better fixed face `[W]` — the useful mirror is the one that stops giving the ego its expected face (visual application).
+- **Down to You** — title-card "WHAT IS IT THAT YOU SEEK?" → "NONE" `[W]` — the seeker handed no object/role/god; "None" = *no-thing*, the refusal to supply one more image to chase (early visual precursor).
+- **Loser** — "I'm a loser, baby, just like you" `[W]` — empties the insult by holding it without defense; identity with the hierarchy removed (Roy: the song came alive by "removing everything"). Stripping, not annihilation.
+- **The Circle** — "the inside of the inside" `[~]` — the interior reached after the imposed image is stripped; the Wise One *remembers* rather than acquires a persona.
+- **Online / All My Friends** — "inside your database" / "a clone in a crowded city" `[W]` — the **negative** pole: the mirror overcrowded with copies (an infinite field of replicated identities — full of everything except the self).
 
 **Source vs Reflection** — **strong**
 - **Another Way II Heaven** — "I spoke the words / "One, become Two" / Then "I" was in reverse / But now "I" could see my Self / And "I" became "You"" `[G]` — the song's actual theme: the One divides to see itself, the second term is "You." Source splitting into source + reflection.
@@ -59,7 +68,7 @@ Grouped by cluster. One entry per concept: **net_grounding**, then each survivin
 
 **Inversion** — **strong**
 - **Welcome to the Circus** — "Spinning you 'round and 'round, 'round / Ooh / Everything's upside down" `[G]` — literally states inversion; form intact, direction reversed.
-- **Lucius Lullaby** — "The truth will set you free but nothing's, nothing's what it seems" `[G]` — John 8:32 kept as form, then reversed; endpoint of the documented 3-era refraction. (Same line is *rejected* under The Empty Mirror: it supports inversion, not emptiness.)
+- **Lucius Lullaby** — "The truth will set you free but nothing's, nothing's what it seems" `[G]` — John 8:32 kept as form, then reversed; endpoint of the documented 3-era refraction. (Same line does **double-duty** under The Empty Mirror — Jen's "third nothing": is it inversion or the liberating *no-thing*? The ambiguity is the point.)
 - **Bad Feeling (Oompa Loompa)** — "'Cause the truth is a lie that nobody can tell" `[G]` — literal truth→lie inversion; the paradox mid-stage of the John 8:32 refraction.
 - **Not Your Homie** — "Ashes, ashes, we all fall down / Take that smile, turn it upside-down" `[W]` — inversion imperative + a nursery rhyme kept as form with meaning darkened.
 
@@ -235,6 +244,16 @@ Grouped by cluster. One entry per concept: **net_grounding**, then each survivin
 - **The Circle** — "But the inside of the inside must be where you go" `[~]↓` — recursion/interiority; zero sefirotic vocabulary. Malkhut→return mapping is a lens.
 - **I Like to Party** — "Heaven is within your heart / The kingdom, you're the kingdom / You're the King" `[~]↓` — "kingdom"=Malkhut is a translation pun; native meaning is the Gospel "kingdom within" (the *same* lines anchor Gnosticism here — a tell).
 
+**Keilim — The Breaking of the Vessels** — **strong** — *(corrected 2026-07-08, Jen `[P]`: the concept is the **break-and-repair STRUCTURE** (unity → rupture → sparks-in-shells → tikkun), NOT the words "vessel/shell/shatter" — the lexical verify pass false-negatived it).*
+- **LOOP** — "In the beginning there was the One. The One was divided" → fire / confusion / shadow / distorted reflection → "my mind must serve my heart" `[G]` lore, `[W]` reading — the clearest **full Lurianic sequence**: unity, rupture, trapped light/shells, repair. The green-apple decode fits exactly: power/knowledge received before the vessel is mature enough to hold it.
+- **Ballerina Boy** — "I killed that ballerina boy / I buried him inside" (then returns for him) `[W]` — the human-scale broken vessel + **tikkun**: the fractured piece recovered, not discarded.
+- **The Circle** — the Maker hides the song "inside their wings" `[G]` line / `[W]` reading — the clearest **collective** version: sacred sparks trapped inside the damaged structure, awaiting the Wise One's remembering.
+- **Happy Face** — "ticking like a time bomb" `[W]` — a vessel under intolerable pressure; the smiling shell built around what it cannot safely contain (Roy: deliberately going *into* the darkness to pull the listener through = attempted repair).
+- **Lucius Lullaby** — the opening crisis (age/career/home/love/identity no longer hold) → Lucius arrives as the adaptive **shell** `[W]` — Lucius is not the break but the hardened structure that forms around the sparks after it; the album asks whether that shell can be redeemed or must be broken again.
+- **Weirdness** — "you were born to shine" `[W]` — the trapped **spark freed** from the shell that suppressed it (hidden-weirdness → owned sunshine).
+- **Soul Is A Star** — the inner light that survives fragmentation `[W]` — the **spark itself**; the theology behind the repair songs (the vessel may fail, the light is not destroyed).
+- **Online** — "inside your database" `[W]` — the **negative** pole: sparks dispersed/trapped in technological shells, no tikkun yet begun.
+
 ### Machine / Consumption / Surveillance
 
 **Machine vs Human** — **strong**
@@ -361,19 +380,15 @@ Grouped by cluster. One entry per concept: **net_grounding**, then each survivin
 
 ## 3. ★ Negative evidence — concepts with NO lyric home
 
-Five concepts returned **net_grounding = none.** Per CLAUDE.md ("negative evidence matters"), this is the analytically load-bearing section: it locates precisely where a concept lives *because* it does not live in the songs.
+> **The original "5 homeless" verdict was wrong — the lexical bias produced false negatives.** Jen re-grounded **The Empty Mirror** and **Keilim** as **strong** (they're operations, not vocabularies). The three below are what *remains* flagged as possibly-homeless — but each is now marked **PENDING an operational re-check** (the same bias may have false-negatived them too), not asserted as homeless.
 
-- **The Empty Mirror** — *inherited substrate / external-grounding.* Its one proposed anchor (Lucius Lullaby, "nothing's what it seems") is a textbook false friend: "nothing" there is a quantifier ("nothing is as it appears," the Maya/illusion axis), not the noun *emptiness / void / no-thing* the concept requires. The actual grounding is a wrist tattoo + interview "become nothing" lines, none in any released lyric — possibly a distinct Maya axis, not the Empty-Mirror emptiness at all. **Lost all proposed links.**
+- **The Two Birds — Orbit and Return (crow and dove)** — ⚠ **PENDING (likely false negative).** The lexical pass searched for "crow/dove" and found none, so called it board-only. But the concept's *operation* — **orbit vs. return** — is arguably one of the most lyric-present themes in the corpus (the whole Loop→Circle arc, "one day We'll get back together"). The crow/dove *pairing* may be board-only; **orbit-and-return almost certainly has strong lyric grounding.** Re-check operationally before concluding anything.
 
-- **The Divide** — *structural-analytical concept.* No lyric anchor was even proposed. It functions as a distinction between other concepts (a divider/axis in the ontology), not as an image a song carries.
+- **Hall of Mirrors** — *ARG-layer (likely a true negative, but confirm).* The web3 room-architecture (minted artifacts) is genuinely an ARG system, not a lyric image — the *mirror/reflection operation* it names is covered by [[The Mirror]] / [[The Empty Mirror]]. Probably homeless as a *named ARG*, but re-check whether "hall of mirrors" as an image appears.
 
-- **Keilim — The Breaking of the Vessels** — *inherited substrate + board/ARG.* Both proposals rejected. Grep-confirmed: vessel / shell / shard / shatter / klipot / spark vocabulary is **absent from every lyric file**; every grounded Keilim anchor lives in IG / EP / board (Lurianic material Roy reworks, never sings). "Star-lined road" = the literal Hollywood Walk of Fame; "the bubble bursting" = mundane career advice. **Lost all proposed links.**
+- **The Divide** — *structural-analytical concept.* No lyric anchor was proposed; it functions as a distinction *between* other concepts. Re-check whether the light-reveals-shadow songs (e.g. Life Is Good "which side are you") give it an operation-level home before calling it purely structural.
 
-- **The Two Birds — Orbit and Return (crow and dove)** — *board-only architecture.* No lyric anchors. The crow/dove orbit-and-return pairing is a board/decode structure, not a motif any song stages.
-
-- **Hall of Mirrors** — *ARG-layer.* No lyric anchors. It is the web3 room-architecture (196 rooms, minted artifacts), an artifact/ARG system rather than a lyric image.
-
-**The pattern:** a concept with no lyric home is not a weak concept, it is a concept whose evidence *class* is elsewhere. Three of the five are board/ARG artifacts (Two Birds, Hall of Mirrors, Keilim's real anchors), one is inherited esoteric substrate (Empty Mirror / Keilim), and one is a pure analytical distinction (The Divide). None should be forced onto a lyric to manufacture grounding; each should cite its actual layer.
+**The corrected principle:** a concept is "homeless" ONLY after an **operation-level** check comes up empty — never on a word search. A concept whose vocabulary is absent but whose *operation* runs through the songs (Empty Mirror, Keilim) is lyric-grounded. The genuinely-homeless set is where the evidence *class* is elsewhere (board / ARG / theatrical EP / inherited substrate / pure analytical distinction) **and** no operation surfaces in any lyric.
 
 ---
 
