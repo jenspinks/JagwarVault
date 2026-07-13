@@ -217,7 +217,7 @@ Grouped by cluster. One entry per concept: **net_grounding**, then each survivin
 ### Esoteric frames
 
 **Hermeticism — As Above So Below** — **moderate**
-- **Down to You** — "Heaven in the sky to the Earth below / Anywhere that you go / It all comes down to you" `[W]` — near-verbatim Correspondence; the 2021 official MV end-card literally printed "AS ABOVE SO BELOW." Authored intent, not pareidolia.
+- **Down to You** — "Heaven in the sky to the Earth below / Anywhere that you go / It all comes down to you" `[W]` — near-verbatim Correspondence; the 2021 official MV title card literally printed "AS ABOVE SO BELOW." Authored intent, not pareidolia.
 - **Life Is Good** — "My head's an antenna / I'm wide awake" `[~]↓` — a receiver image belongs to Vibration (#3), not Correspondence; wrong principle, general Hermetic-frame resonance only.
 
 **Nigredo** — **moderate**

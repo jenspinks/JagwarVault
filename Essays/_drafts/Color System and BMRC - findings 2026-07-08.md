@@ -33,7 +33,7 @@ targets:
 
 **Dear anchor (grounded).** Roy's caption *"They love it when you lose control 🖤🪄🌈🎪"* (TikTok 2026-01-13; mirrored IG) spells B-M-R-C in emoji order (black-heart, magic-wand, rainbow, circus-tent). It sits in `Sources/Artifacts/Data/JT TikTok Feed - jagwartwin captions 2026-06-27.tsv` and the Discord Circle-bot mirror JSON, absent from all .md analysis.
 
-**In-world staging holds (grounded).** On the stencil (*PROPERTY OF B.M.R.C.*), the end-card (*Produced In Cooperation With B.MR.C*), and the tracklist credit (*BMRC bonus track*), the letters never expand. The name lives only off the artifacts. So the fold is: the initials are a **sealed sigil in-world, decoded at the production layer.**
+**In-world staging holds (grounded).** On the stencil (*PROPERTY OF B.M.R.C.*), the title card (*Produced In Cooperation With B.MR.C*), and the tracklist credit (*BMRC bonus track*), the letters never expand. The name lives only off the artifacts. So the fold is: the initials are a **sealed sigil in-world, decoded at the production layer.**
 
 **The name as distortion set (strong reading).** Read against [[Brain/Characters/Sir Lucius]]'s habit of distorting Roy's own symbols, each word is a captured Roy-arc symbol:
 - **Black** = Lucius's declared team color (*"Black hearts for Team Sir Lucius 🖤"*, 2025-07-31; the 🖤 emoji is era-locked, 0 uses 2020-2024, first 2025-04-04).

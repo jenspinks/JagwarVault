@@ -3,13 +3,13 @@ type: quote
 citable: true
 status: draft   # card text transcribed from Jen's frame screenshots (2026-06-25) — flip to stable after the post URL is pulled + card eye-confirmed verbatim
 release_date: 2021   # public release year (©2021 on the card)
-verified_against: ["Jen frame screenshots of the @JagwarTwin 'I Like To Party (Official Audio)' — the end-card + cover art + the post UI (2026-06-25)"]
+verified_against: ["Jen frame screenshots of the @JagwarTwin 'I Like To Party (Official Audio)' — the title card + cover art + the post UI (2026-06-25)"]
 ingested: 2026-06-25
 ingest_source: "@JagwarTwin YouTube/IG video 'I Like To Party (Official Audio)' (2021) — Jen frame screenshots, 2026-06-25"
 ---
 # JT Video — *I Like To Party (Official Audio)* (Source)
 
-Verbatim ingest of the @JagwarTwin *I Like To Party* official audio + its on-screen end-card and cover art. **No interpretation here** — analysis routes to Brain/Essays. **Second card of the early manifesto-card wave (2019–2021)** (see [[The Manifesto Cards]]); same fixed template as [[Sources/Quotes/JT Video - Happy Face (Official MV) 2020]], ~5 years before the 2026 *Lucius Lullaby* wave.
+Verbatim ingest of the @JagwarTwin *I Like To Party* official audio + its on-screen title card and cover art. **No interpretation here** — analysis routes to Brain/Essays. **Second card of the early manifesto-card wave (2019–2021)** (see [[The Manifesto Cards]]); same fixed template as [[Sources/Quotes/JT Video - Happy Face (Official MV) 2020]], ~5 years before the 2026 *Lucius Lullaby* wave.
 
 ## The post (grounded)
 - **Account:** **@JagwarTwin**. Title: **"I Like To Party (official audio)"**.
@@ -40,4 +40,4 @@ Verbatim ingest of the @JagwarTwin *I Like To Party* official audio + its on-scr
 - **[W] → [[Consumption]] — the Saturn-cake.** Cover art: a cake plated as **Saturn / Cronus the devourer** (the god who eats his children) **+ cake** = Consumption, **ringed by skulls** = memento mori. The party that eats you.
 
 ## Citation
-- @JagwarTwin, *"I Like To Party (official audio)"* (2021, #JagwarTwin, ©2021), URL TBD. Captured 2026-06-25 from Jen's frame screenshots (end-card + cover art + post UI).
+- @JagwarTwin, *"I Like To Party (official audio)"* (2021, #JagwarTwin, ©2021), URL TBD. Captured 2026-06-25 from Jen's frame screenshots (title card + cover art + post UI).

@@ -3,13 +3,13 @@ type: quote
 citable: true
 status: draft   # card text transcribed from Jen's frame screenshots (2026-06-25) — flip to stable after the post URL is pulled + card eye-confirmed verbatim
 release_date: 2021   # public release year (the vault's date for this video)
-verified_against: ["Jen frame screenshots of the @JagwarTwin 'Down to You (Official Music Video)' — the red end-card + the post UI (2026-06-25)"]
+verified_against: ["Jen frame screenshots of the @JagwarTwin 'Down to You (Official Music Video)' — the red title card + the post UI (2026-06-25)"]
 ingested: 2026-06-25
 ingest_source: "@JagwarTwin YouTube/IG video 'Down to You (Official Music Video)' (~2021) — Jen frame screenshots, 2026-06-25"
 ---
 # JT Video — *Down to You (Official MV)* (Source)
 
-Verbatim ingest of the @JagwarTwin *Down to You* official video + its on-screen end-card. **No interpretation here** — analysis routes to Brain/Essays. **Third card of the early manifesto-card wave (2019–2021)** (see [[The Manifesto Cards]]); same fixed template as [[Sources/Quotes/JT Video - Happy Face (Official MV) 2020]] and [[Sources/Quotes/JT Video - I Like To Party (Official Audio) 2021]].
+Verbatim ingest of the @JagwarTwin *Down to You* official video + its on-screen title card. **No interpretation here** — analysis routes to Brain/Essays. **Third card of the early manifesto-card wave (2019–2021)** (see [[The Manifesto Cards]]); same fixed template as [[Sources/Quotes/JT Video - Happy Face (Official MV) 2020]] and [[Sources/Quotes/JT Video - I Like To Party (Official Audio) 2021]].
 
 ## The post (grounded)
 - **Account:** **@JagwarTwin**. Title: **"Down to You (Official Music Video)"**.
@@ -36,4 +36,4 @@ Verbatim ingest of the @JagwarTwin *Down to You* official video + its on-screen 
 - **[W] → [[Source vs Reflection]] — the concept-of-self manifesto = the mirror doctrine.** *"To change the world one must first change the concept of the world… the concept one holds of the self makes one see the world as they do"* = change-your-conception-of-self-and-you-change-your-world. **New named-influence lead: Neville Goddard** (almost verbatim — *verify against a primary before grounding*).
 
 ## Citation
-- @JagwarTwin, *"Down to You (Official Music Video)"* (~2021, #Matter), URL TBD. Captured 2026-06-25 from Jen's frame screenshots (red end-card + post UI).
+- @JagwarTwin, *"Down to You (Official Music Video)"* (~2021, #Matter), URL TBD. Captured 2026-06-25 from Jen's frame screenshots (red title card + post UI).

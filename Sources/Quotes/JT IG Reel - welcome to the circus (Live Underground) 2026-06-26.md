@@ -3,13 +3,13 @@ type: quote
 citable: true
 status: draft   # text transcribed from Jen's frame screenshots; flip to stable after the post URL is pulled + card eye-confirmed
 release_date: 2026-06-26   # public release (the vault's date for this video)
-verified_against: ["Jen frame screenshots of the @jagwartwin IG video — the credit/title card + the BMRC end-card + the post UI (private preview, 2026-06-25)"]
+verified_against: ["Jen frame screenshots of the @jagwartwin IG video — the credit/title card + the BMRC title card + the post UI (private preview, 2026-06-25)"]
 ingested: 2026-06-25
 ingest_source: "@jagwartwin IG video 'welcome to the circus (live underground)' — Jen private-preview screenshots, 2026-06-25; public release 2026-06-26"
 ---
 # JT IG Video — *welcome to the circus (Live Underground)* (Source)
 
-Verbatim ingest of a @jagwartwin IG video + its credit/title card and BMRC end-card. **No interpretation here** — analysis routes to Brain/Essays. **Second card in the *Live Underground* series** (after [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]]); same card template, different esoteric epigraph.
+Verbatim ingest of a @jagwartwin IG video + its credit/title card and BMRC title card. **No interpretation here** — analysis routes to Brain/Essays. **Second card in the *Live Underground* series** (after [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]]); same card template, different esoteric epigraph.
 
 > **Release timing:** the video's vault date is its **public release, 2026-06-26.** Jen received a **private early copy on 2026-06-25** (this capture). Not a `_Private`/Secret-Document item — it just isn't public until 06-26, so **hold it off any public-facing surface (e.g. SARAVI's brain) until released.**
 
@@ -26,7 +26,7 @@ Verbatim ingest of a @jagwartwin IG video + its credit/title card and BMRC end-c
 > *(left sigil: a circular concentric **labyrinth** seal, legend* **"you are the maze"** *· right sigil: the cat/twin glyph)*
 > **I'M JUGGLING YOUR DARKEST THOUGHTS. IT'S A SPECTACLE. I'M THE FINAL BOSS. PAINT MY FACE AND THEY CLAP AND SMILE, BUT WHO ARE YOU WITHOUT THE MASK? DID HERMES PAINT HIS FACE? I DON'T KNOW, MAYBE.**
 
-## The end-card (separate frame)
+## The title card (separate frame)
 > **Produced In Cooperation With** **B.MR.C** *(blackletter)*
 
 ### Textual notes (not interpretation)
@@ -43,4 +43,4 @@ Verbatim ingest of a @jagwartwin IG video + its credit/title card and BMRC end-c
 - **→ [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]] — the letter-cipher prediction test.** See that file's prediction block (updated 2026-06-25): WTTC's small-print slot held the song's lyrics + a **Hermes** riddle, **not a Sefer Yetzirah Vav** → the strict Hebrew-letter cipher is **weakened**; the "esoteric-epigraph-per-card" pattern + **Hermes-in-the-letter-slot** survives. Lullaby (Lamed) remains the decider.
 
 ## Citation
-- @jagwartwin, Instagram video *"welcome to the circus (live underground)"*, **public release 2026-06-26** (URL TBD). Captured 2026-06-25 from Jen's private-preview frame screenshots (credit card + BMRC end-card + post UI).
+- @jagwartwin, Instagram video *"welcome to the circus (live underground)"*, **public release 2026-06-26** (URL TBD). Captured 2026-06-25 from Jen's private-preview frame screenshots (credit card + BMRC title card + post UI).

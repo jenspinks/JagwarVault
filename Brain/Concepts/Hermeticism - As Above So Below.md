@@ -13,7 +13,7 @@ referenced_by: []
 
 Type: Concept / **Esoteric-stream hub** — the **world-affirming correspondence** stream.
 
-> **Created 2026-06-29** to centralize the Hermetic stream. **This is the most board-grounded of the three esoteric streams:** the **Kybalion's 7 Principles are transcribed in full on Roy's [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)|"I'm 33" board]]**, and **"AS ABOVE SO BELOW" was printed publicly** on the 2021 *Down to You* end-card — years before the board was decoded.
+> **Created 2026-06-29** to centralize the Hermetic stream. **This is the most board-grounded of the three esoteric streams:** the **Kybalion's 7 Principles are transcribed in full on Roy's [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)|"I'm 33" board]]**, and **"AS ABOVE SO BELOW" was printed publicly** on the 2021 *Down to You* title card — years before the board was decoded.
 
 ## Relationship to existing nodes (this hub is a frame, not a duplicate)
 - [[Brain/Concepts/The Pattern]] = **Roy's own term for Hermetic Principle #2 (Correspondence)** — *"as above, so below," "The Pattern is present on all levels"* (the board's *Hermetic Correspondence* cell). The Pattern is the **worked home** of the central principle; this hub holds the **whole 7-principle frame + the tradition's other half (the Qabalah/tarot scaffold).**
