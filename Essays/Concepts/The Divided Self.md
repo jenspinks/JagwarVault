@@ -1,12 +1,17 @@
 ---
-title: The Divided Self - Parallel-Story Array and the Mozart-Amadeus Route
-type: synthesis-draft
-status: draft (for Jen's review — brain first, nothing folded or public yet)
+id: CONCEPT-DividedSelf
+type: concept
+status: draft
 confidence: mixed
-threshold_state: approaching   # the Roy/Lucius integration stays OPEN; the array holds the prognoses, it does not resolve them
-tiers_in_body: true
-source_basis: ["released music", "public interviews", "public posts", "public artifacts", "external scholarship (framework)"]
-created: 2026-07-13
+source_quality: interpretive-synthesis
+threshold_state: approaching
+related: [CONCEPT-JacobEsau, CONCEPT-Mozart, CONCEPT-TreeOfLife, CHAR-Roy, CHAR-SirLucius]
+connections:
+  grounded:    [CHAR-Roy, CHAR-SirLucius]
+  strong_read: [CONCEPT-JacobEsau, CONCEPT-Mozart]
+  resonance:   [CONCEPT-TreeOfLife]
+review_date: 2026-12-31
+referenced_by: []
 ---
 
 # The Divided Self — shown in parallel
@@ -62,7 +67,7 @@ This is the thread that makes the array *citable* onto the Tree instead of merel
 
 **Why the placement is the payoff.** The documented landing is the shoulders — Gevurah/Chesed, one triad *above* the Netzach/Hod we first reached for. But Netzach and Hod are the **lower octave of those same two pillars** (Chesed and Netzach both on the right Pillar of Mercy; Gevurah and Hod both on the left Pillar of Severity). So the composers land on the correct *pillars*, and two convergences fall out:
 
-1. **Salieri = Cain = the left / Severity pillar (Gevurah → Hod)** is *exactly* where the vault already, independently, seats Lucius: base at **Hod cross-cut with Geburah/Mars** (the 2026 lunar re-mapping fold; [[Brain/Concepts/Kabbalah - The Tree of Life]], [[Concepts/The Light-Bearer|The Light-Bearer]] Deep End). The web route and the Roy-relayed map agree on the shadow. That is not analogy; it is convergence.
+1. **Salieri = Cain = the left / Severity pillar (Gevurah → Hod)** is *exactly* where the vault already, independently, seats Lucius: base at **Hod cross-cut with Geburah/Mars** (the 2026 lunar re-mapping fold; [[Brain/Concepts/Kabbalah - The Tree of Life]], [[The Light-Bearer|The Light-Bearer]] Deep End). The web route and the Roy-relayed map agree on the shadow. That is not analogy; it is convergence.
 2. **The asymmetry on Roy's side is the whole reading.** Mozart = Abel = right / Chesed → Netzach matches Roy's grounded Netzach/Venus heart-seat — but the vault also stands Roy *alone on the Middle Pillar.* That is not a flaw in the mapping; it **is the geometry of the two endings.** Cain/Abel is the pure left-right split **with no middle to hold them**, which is why it ends in murder. Jacob/Esau's embrace is the Middle Pillar (Tiferet, the heart) holding both sides. So: *the shoulders without the middle is the un-reconciled prognosis; the reconciled prognosis is Roy holding the center.* The sephirot don't just place the composers — they explain *why one story ends in a mark and the other in a hug.*
 
 **Two sub-leads that ride along:**
@@ -85,7 +90,7 @@ This is the thread that makes the array *citable* onto the Tree instead of merel
 ## V. Where the pieces fold (recommendation — not yet done)
 
 - **The array** → its own home node (this page, cleaned up), cross-linked from [[Jacob & Esau]] (which stays whole) with a *"see also: the full divided-self array"* pointer. Cain/Abel and Jacob/Esau remain rows *and* keep their existing homes.
-- **The Mozart thread** → the dedicated **Mozart node** we discussed (grounded anchors + the Amadeus/Cain-Abel bridge as its interpretive spine).
+- **The Mozart thread** → the dedicated **[[Mozart]]** node, built 2026-07-13 (grounded anchors + the Amadeus/Cain-Abel bridge as its interpretive spine).
 - **The sephirot geometry** (§III, the shoulders/octave/middle-pillar payoff) → the [[Kabbalah - The Tree of Life]] Deep End.
 - **Public Field Guide** → later, and only after your review — the Deep-End register, hedged, `[~]`, with the *"alternative scripts"* framing intact.
 

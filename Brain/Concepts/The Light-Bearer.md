@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, SONG-WelcomeToTheCircus]
   strong_read: [CONCEPT-Inversion, CONCEPT-TheCircus, CONCEPT-TheMirror]
   resonance:   [CONCEPT-Yesod, CONCEPT-TheDwellerOnTheThreshold]
-referenced_by: [CHAR-SirLucius, CONCEPT-Fire, CONCEPT-Hermeticism, CONCEPT-Inversion, CONCEPT-TheDwellerOnTheThreshold, SONG-LongTimeComing, SONG-Weirdness]
+referenced_by: [CHAR-SirLucius, CONCEPT-Fire, CONCEPT-Hermeticism, CONCEPT-Inversion, CONCEPT-Mozart, CONCEPT-TheDwellerOnTheThreshold, SONG-LongTimeComing, SONG-Weirdness]
 review_date: 2026-11-16
 ---
 # The Light-Bearer

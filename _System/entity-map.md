@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `6c655ab` (2026-07-11 23:49:37 -0500) · 47 songs · 81 concepts · 6 characters · 3 albums
+> [!info] Generated snapshot — vault commit `2599852` (2026-07-13 16:06:06 -0500) · 47 songs · 83 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -82,6 +82,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `CONCEPT-TreeOfLife` | Kabbalah — The Tree of Life | `Brain/Concepts/Kabbalah - The Tree of Life.md` · draft | — |
 | `CONCEPT-KeilimVessels` | Keilim / The Breaking of the Vessels | `Brain/Concepts/Keilim - The Breaking of the Vessels.md` · stable | — |
 | `CONCEPT-MachineVsHuman` | Machine vs Human | `Brain/Concepts/Machine vs Human.md` · draft | `Essays/Arcs/Machine vs Human.md` |
+| `CONCEPT-Mozart` | Mozart | `Brain/Concepts/Mozart.md` · draft | — |
 | `CONCEPT-Nigredo` | Nigredo | `Brain/Concepts/Nigredo.md` · draft | — |
 | `CONCEPT-PanemEtCircenses` | Panem et Circenses | `Brain/Concepts/Panem et Circenses.md` · draft | — |
 | `CONCEPT-SourceVsReflection` | Source vs Reflection | `Brain/Concepts/Source vs Reflection.md` · draft | — |
@@ -94,6 +95,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `CONCEPT-TheCircus` | The Circus | `Brain/Concepts/The Circus.md` · draft | — |
 | `CONCEPT-TheDigitalDouble` | The Digital Double | `Brain/Concepts/The Digital Double.md` · draft | — |
 | `CONCEPT-TheDivide` | The Divide | `Brain/Concepts/The Divide.md` · stub | — |
+| `CONCEPT-DividedSelf` | The Divided Self | — | `Essays/Concepts/The Divided Self.md` |
 | `CONCEPT-TheDwellerOnTheThreshold` | The Dweller on the Threshold | `Brain/Concepts/The Dweller on the Threshold.md` · stable | `Essays/Concepts/The Dweller on the Threshold.md` |
 | `CONCEPT-TheEmptyMirror` | The Empty Mirror | `Brain/Concepts/The Empty Mirror.md` · draft | — |
 | `CONCEPT-TheFlipAndTheDistortingMirror` | The Flip and the Distorting Mirror | `Brain/Concepts/The Flip and the Distorting Mirror.md` · draft | — |
