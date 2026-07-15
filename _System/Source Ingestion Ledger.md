@@ -104,7 +104,19 @@ purpose: "The complete register of every INPUT to the vault (dossier, draft, ext
 - **Bailey per-labour myth-gists** (I/II/III/VI/VIII + Leo/Pisces keynotes + p.211) — tracked research paths.
 - **Josh Dun credits** frame-mismatch (Strife "Happy Face + Bad Feeling" vs Credits "GTTBH + Bad Feeling") — noted, not silently changed.
 
-### Remaining fold-queue (safe, deferred to a fresh session 2026-07-14 — this is the self-contained resume point; no re-mining needed)
+### Remaining fold-queue — MOSTLY COMPLETED in the resume pass (2026-07-14, cont.)
+
+**✅ Folded in the resume pass:** both resonances (**Forever Young → Weirdness**, **eagle/serpent → Duality**); all STF synthesis survivors (**F3** children's-voices bracket, **F7** star-arc, **F8** pieces-fusion, **F9** clock/detonation, **F10** Sirens — also fixed a dangling cross-ref, **F17-1** water-line); the **C6 gate-lifts** on all 6 now-Spotify-stable essays (**3 contested words resolved**: Bounce = "lore" `[G]`, Life Is Good = "Another" not "Nether", SideQuest = "Jaguar Swaguar"; Bounce §Lore promoted `[W]`); reconciles **C4** (Circle-LV over-claim softened), **C5** (NYH + GTTBH status↔maintenance aligned), **C8-SiaS** (Masquerade-bio contradiction), **C9** (NYH moon-line hedge struck — verified confirmed); hygiene **C17-r** (index repointed to essays), **C19** (Roy Voice README 3 phantom pages marked pending), **C20** (Roy essay dead link removed + truncated-tattoo clarified per source; Arcs LL dead Connections block repointed). *(**The Watchers** C6 gate correctly LEFT — its lyric is still MusixMatch-only, not Spotify-stable.)*
+
+**⏳ Still deferred (genuinely better fresh):**
+- **C16** — **66 occurrences** of bare/aliased `[[Lucius Lullaby]]` need per-context disambiguation (song vs album-arc vs Brain-card vs lyrics). Vault-wide, error-prone, non-fatal (Obsidian info only); a dedicated sweep, not a tail-of-session batch.
+- **MAGIK + SideQuest** Brain stubs (C13-residual) — terse Brain-skeleton distillation from their full essays; content-generation.
+- **Optional:** the Joni Woodstock-2000 (id=1389) enrichment into `Soul Is A Star` §III/§VIII. **Still Jen's:** Bailey per-labour myth-gists; the Josh Dun credits frame-mismatch (leave the source-faithful line).
+
+---
+*(The original detailed spec is retained below as record — the items above it are now folded.)*
+
+### Remaining fold-queue (original spec — 2026-07-14; items now folded except C16 + stubs)
 
 **C6 — under-claim gate-lifts** (lyrics are now Spotify-stable but essays/cards still gate them `[?]`/`draft`; lift each stale gate):
 - `Essays/Concepts/Songs/` — LOOP (l.3,33,58) · SideQuest (l.3,23) · tomorrow (l.3,26,68) · Life Is Good (l.3,23) · Bounce (l.3,28,44,69 — **promote Bounce §Lore l.44 `[?]`→`[W]`**, D2) · Dream-Dream (l.57,376); plus `Brain/Songs/Singles & EPs/The Watchers.md:58`.

@@ -162,6 +162,10 @@ The closer rises. *"When I rise to a brand new morning / I know the sun's gonna 
 
 The Protector accumulates from Loser forward; the **billing** changes in 2026 (cf. [[Brain/Characters/Sir Lucius]]: *"the Dweller does not begin — accumulates; what changed in 2026 = billing, not the figure"*).
 
+### The star, from sky to soul [W] (STF Deep Dive F7)
+
+A single motif migrates across the catalogue: the **star falls out of the sky and is relocated to the soul.** On the debut it is **displaced** (*Move To You*, track 7: *"even if the stars are out of place"*) and then **flattened into pavement** (*N.F.F.*, track 8: *"looked down at my stars"* — the Hollywood Walk of Fame, the heavens collapsed into Malkhut). By *33* (2022) it is **re-interiorized** as [[Essays/Concepts/Songs/Soul Is A Star|*Soul Is A Star*]]: the light that fell out of the sky is now carried within. The **Move To You ↔ Soul Is A Star** pair is the clearest call-and-answer — *stars out of place* (2018) answered by *the soul is a star* (2022). Each anchor is `[G]` on its own page; the **through-line is the `[W]`.** *(A possible fourth beat in [[LOOP]] is held `[~]` pending its own anchor.)*
+
 ### The inherited-substrate method [G]
 
 Chaplin + Mercer + Vaughan: the album works by **curating and relaying** cultural transmissions, not only inventing them. This is the discipline that keeps symbolic readings honest — the past is sampled, named, credited, and built into the song-bodies. The method enacts what [[Brain/Concepts/The Circle|the Circle]] will later mythologize as *"the song handed down / called back."* (`CONCEPT-InheritedSubstrate`.)

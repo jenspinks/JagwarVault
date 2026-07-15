@@ -43,6 +43,7 @@ Track 13 (**album closer**), *Subject to Flooding* (2018; streaming 2019); also 
 ## Resonance
 - [~] **Solar closer / [[SOL]] bookend:** STF ends on the **rising sun** (Shine, 2018); *Lucius Lullaby* ends on **SOL** (*Sol* = sun, 2026). Declared radiance (sung outward) → withheld radiance (wordless breath). Architectural.
 - [~] **Cinema escapism:** *"I wish that life was like a movie"* — light brush with the later spectacle/script thread (and the song was sparked watching a film).
+- [W] **The water-line completes in 2026.** *Shine* closes the debut on a **rising** register (the sun-rising chorus Roy describes); eight years on he posts *"The waters are rising but so am I"* ([[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]], 04-13), the same rise-verb set explicitly against the flood. The debut's rising-light closer and the 2026 rising-self aphorism are the two ends of the catalogue's **water-line** (Eye Alaska → *Subject to Flooding* → *"I am the shore"* → *"so am I"*). `[W]`. *(STF Deep Dive F17-1; completes the F1 water-line.)*
 
 ## Counterarguments / Alternate Reads
 <!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->

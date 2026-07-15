@@ -26,10 +26,10 @@ Thematic aggregation of **Roy English's own public statements** about his music 
 | [[Roy on Mirrors & Collective Consciousness]] | Mirror-doctrine, "we not me", Hall of Mirrors, projection law, *Mirror Sessions* premise |
 | [[Roy on the Heart-Mind Split]] | Heart/intuition vs mind/intellect; **mind = Lucifer archetype**; grounds [[Sir Lucius]] = the mind |
 | [[Roy on Influences]] | Cited frameworks (Bailey, Steiner, Karpathy); musical influences |
-| [[Roy on Lucius]] | Statements about Sir Lucius — **when does this enter the discourse?** |
-| [[Roy on Subject to Flooding]] | Album-era statements (2018–19) |
+| Roy on Lucius *(pending — not yet created)* | Statements about Sir Lucius — **when does this enter the discourse?** |
+| Roy on Subject to Flooding *(pending — not yet created)* | Album-era statements (2018–19) |
 | [[Roy on 33]] | Album-era statements (2022) |
-| [[Roy on Lucius Lullaby]] | Album-era statements (2026) |
+| Roy on Lucius Lullaby *(pending — not yet created)* | Album-era statements (2026) |
 | [[Roy on specific songs]] | Per-track Roy commentary (catch-all for single-song framings) |
 | [[Roy on the cosmology]] | The Manifesto / mythos / mirror sessions framing |
 
@@ -39,7 +39,7 @@ New pages are created when ~3 quotes accumulate on a theme. Pages stay small —
 
 **Before completing a Strong Read on any song:**
 1. Skim the topic-page filenames here.
-2. Load any page whose theme touches the song (mask → [[Roy on Authenticity & Masks]]; commercial pressure → [[Roy on Industry]]; Lucius → [[Roy on Lucius]]; etc.).
+2. Load any page whose theme touches the song (mask → [[Roy on Authenticity & Masks]]; commercial pressure → [[Roy on Industry]]; Lucius → Roy on Lucius *(pending)*; etc.).
 3. Where Roy's quote **directly applies** to a claim you're about to make, **promote that claim from `[W]` to grounded** and cite the relevant Roy Voice page in `connections.grounded`.
 4. Where Roy's quote **contradicts or limits** a [W] reading, soften the [W] or mark a Counterargument.
 5. Where Roy is **silent** on a theme the song raises, that's also data — it bears on the retrospective-coherence guard (the `CLAUDE.md` rule). Note silences as `[~]` open questions, not absences of evidence.

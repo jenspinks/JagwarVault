@@ -112,12 +112,10 @@ These are observations about the album-as-object, independent of lyrical or inte
 
 ## Connections
 
-- [[Songs]]
-- [[Characters]]
-- [[Philosophies & Influences]]
-- [[Symbol Index]]
-- [[The Path]]
-- [[Theatrical]]
+- [[Brain/Albums/Lucius Lullaby (album)]] — the structured album page
+- [[Machine vs Human]] — the arc this album completes
+- [[Sir Lucius]] · [[Roy]] — the two poles
+- [[The Circle]] — the myth the opener appropriates
 
 ---
 

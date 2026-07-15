@@ -54,7 +54,7 @@ That distinction is critical.
 - The bridge shifts from individual aspiration into collective synchronization:
   - "Rise up, we gotta dream" [?]
 
-*Note: Lyrics sourced from AZLyrics via MusixMatch (`Sources/Lyrics/Dream - Dream.md`, `status: draft`). All direct quotes carry `[?]` pending Apple Music verification.*
+*Note: Lyric **Spotify-stable 2026-06-10** (`Sources/Lyrics/Dream - Dream.md`); the earlier "AZLyrics, pending Apple Music verification" gate is lifted. (The Mercer interpolation + Sarah Vaughan credit are the composer-credit anchors, separate from the lyric-body verification.)*
 
 ---
 
@@ -373,7 +373,7 @@ The "stairway to Heaven" [?] functions symbolically as return-vector imagery: th
 
 ## Sources
 
-- Lyrics: `Sources/Lyrics/Dream - Dream.md` — AZLyrics via MusixMatch, ingested 2026-05-16 (`status: draft`; lyric body cross-check against Apple Music still pending)
+- Lyrics: `Sources/Lyrics/Dream - Dream.md` — **Spotify-stable 2026-06-10** (originally AZLyrics/MusixMatch, ingested 2026-05-16; lyric body now streaming-verified)
 - Composer credit (authoritative): Apple Music "Get Info" — Johnny Mercer, Matthew Pauling, Roy English & Sarah Vaughan
 - Johnny Mercer, "Dream (When You're Feeling Blue)" (1944 jazz standard); recorded by Sarah Vaughan, Frank Sinatra, the Pied Pipers, et al. — [Wikipedia](https://en.wikipedia.org/wiki/Dream_(1944_song))
 - *Subject to Flooding* (2018, Atlantic Records)

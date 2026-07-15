@@ -76,6 +76,9 @@ The dark/light duality is **2019 vocabulary in Roy's own voice**, not a retrospe
 ## The Tree-native form — the pillars were always this teaching `[~]` (2026-07-02)
 This page's thesis — *correct ordering, not elimination* — is the **classical Kabbalistic pillar teaching**, and Roy's 2026-07-01 fundamentals make it literal. Seat **Roy at Netzach** (Pillar of Mercy / Force) and **Lucius at Hod** (Pillar of Severity / Form) — the paired twins at the base of the Tree ([[Kabbalah - The Tree of Life]] §The lateral twins) — and the structure says exactly what Roy says: **neither pillar is eliminated.** The whole Tree is built so Mercy and Severity are held in tension by the **Middle Pillar**, not so one wins; imbalance to *either* side deforms (unchecked Mercy dissolves into formlessness, unchecked Severity hardens into cruelty). *"My mind must serve my heart"* is not "kill the mind" — it is **Hod re-subordinated to Netzach**, both rising toward the equilibrium of the central column. The vault's core doctrine was **Tree-native all along**; Roy's fundamentals just handed it the coordinates.
 
+## Inherited resonance, Joni's eagle and serpent `[~]`
+The heart/mind, Roy/Lucius split has a **participation-not-source** cousin in Joni Mitchell's *"Don Juan's Reckless Daughter"* (1977), which stages an **eagle and a serpent at war within one self** (the predator of the air against the predator of the ground, ascent against descent, with a scales-into-feathers transformation running through it). Joni is a grounded Roy influence ([[Roy on Influences]], childhood-origin via the mother's records), so this reads as an **inherited-substrate correspondence**, not encoding, held to the framework and not to authorial intent. `[~]` → [[Inherited Substrate]].
+
 ## Connections
 
 - [[Roy]] — the heart-pole; the primary subject of the work

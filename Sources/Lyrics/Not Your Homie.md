@@ -68,7 +68,7 @@ Let's not pretend-tend-tend-tend
 
 ## Maintenance
 - Bulk-ingested 2026-05-25 from Google Drive doc 1 (album doc).
-- **2026-05-28 (Jen, Spotify screenshot):** added *"it's a vibe"* to *"Now you're on the dark side (sucker, it's a vibe)"* — present in Spotify's synced lyrics, **absent from both Apple Music and Genius**. Precedent: Spotify's lyric pane can be more complete than Apple Music's; cross-check both when verifying. Status stays `draft` pending full line-by-line streaming verification.
+- **2026-05-28 (Jen, Spotify screenshot):** added *"it's a vibe"* to *"Now you're on the dark side (sucker, it's a vibe)"* — present in Spotify's synced lyrics, **absent from both Apple Music and Genius**. Precedent: Spotify's lyric pane can be more complete than Apple Music's; cross-check both when verifying. *(The frontmatter status was later flipped to `stable` on the verified core; the Spotify-screenshot observations below remain **pending Jen's review/application** — refinements, not blockers. The earlier "status stays draft" note here was superseded by that flip.)*
 - **Other Spotify-screenshot observations** (not yet applied — pending Jen review):
   - *"You're no friend"* may render as *"You're no frie-e-e-end"* (stretched).
   - *"Stick it in your eye, bury you alive"* may be *"Stick it in your eye (ah), bury you alive"*.

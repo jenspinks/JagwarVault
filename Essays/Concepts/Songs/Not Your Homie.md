@@ -88,7 +88,7 @@ Lucius reaches for the **throne** (the ringmaster scaling to the polity; cf. *"f
 
 ## The Moon: Lucius as Reflector, Not Source
 
-The Ballerina-Boy ending reportedly closes on a faceless female voice: *"the moon reminds us that even in the darkness there is light"* *(verify against the public track)*. That places the moon as **reflector / witness / relay of hidden source-light** — and Lucius is strongly a **Yesod** figure: reflection, masks, dream-logic, spectacle, the lunar realm. The moon does not generate light; it reflects what reaches it. This resolves much of Lucius's apparent contradiction:
+The Ballerina-Boy ending closes on a faceless female voice (older, motherly): *"the moon reminds us that even in the darkness there is light"* (confirmed, see [[Essays/Concepts/Songs/Ballerina Boy]]; also §Grounded above). That places the moon as **reflector / witness / relay of hidden source-light** — and Lucius is strongly a **Yesod** figure: reflection, masks, dream-logic, spectacle, the lunar realm. The moon does not generate light; it reflects what reaches it. This resolves much of Lucius's apparent contradiction:
 
 - illuminated by **fear, algorithms, survival pressure, audience hunger** → he becomes viral, synthetic, dominating;
 - illuminated by **source-light** (the faceless mother, [[SOL]], heart, remembrance) → he becomes reminder, witness, bridge — *carrier of light through darkness.*

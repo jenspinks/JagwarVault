@@ -18,7 +18,7 @@ related: [CONCEPT-TheCircle, SONG-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheAlgo
 
 ---
 
-## Grounded `[G]` (lyric Apple-verified, credits Spotify-verified — Jen 2026-06-06)
+## Grounded `[G]` (refrain confirmed via the title track's Apple entry — no separate Circle-LV lyric entry; credits Spotify-verified — Jen 2026-06-06)
 
 - **The substitution, as fact:** the track is the *33* keystone reduced to a **music-box texture with a little violin**, carrying **one looped line** — *"It's a beautiful life, it's a beautiful life, I'm dreaming."* That line is **not** from the original [[The Circle]]; it is the **refrain of [[Lucius Lullaby]] (Track 2).** The track wears the **name** "The Circle" but carries the **Lullaby's words.**
 - **Music Box is a literal credited instrument** — Roy English plays *"Music Box"* (+ bass / synth / keyboard); **Dan Adams**, violin ([[Sources/Credits/Lucius Lullaby]]).
@@ -57,7 +57,7 @@ related: [CONCEPT-TheCircle, SONG-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheAlgo
 
 ## Sources
 
-- *Lucius Lullaby* Track 1 — lyric **Apple-Music-verified**, credits **Spotify-verified** (Jen, 2026-06-06); [[Sources/Lyrics/The Circle (Lucius Version)]], [[Sources/Credits/Lucius Lullaby]]. `[G]`
+- *Lucius Lullaby* Track 1 — the single looped refrain is **confirmed via the title track's Apple entry** (the Circle-LV track has **no separate Apple lyric entry**, which is why its source stays `draft`), credits **Spotify-verified** (Jen, 2026-06-06); [[Sources/Lyrics/The Circle (Lucius Version)]], [[Sources/Credits/Lucius Lullaby]]. `[G]` on the refrain text + credits.
 - [[The Circle]] (*33*) — the original remembrance doctrine being appropriated.
 - EP3 (*"the algorithm baby"*) — compression anchor.
 - *No private material; no fabricated cross-song callbacks.*

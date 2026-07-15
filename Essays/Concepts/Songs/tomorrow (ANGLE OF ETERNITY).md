@@ -23,7 +23,7 @@ Standalone single — **Jagwar Twin × lovelytheband** (collab). `[G]`. Writers 
 
 ## Grounded `[G]` (lyric pending streaming)
 
-*(Lyric is **AZLyrics single-source, streaming-unverified `[?]`** — the full text is filed, which strengthens the *reads* but not the *verification*; flip only against the Apple/Spotify master.)*
+*(Lyric **Spotify-stable 2026-06-10** — the earlier AZLyrics single-source / streaming-unverified gate is lifted.)*
 
 - **Title stylization:** lowercase *"tomorrow,"* uppercase *"(ANGLE OF ETERNITY)."*
 - **The "I AM" climax:** the outro is a massive repeated chant of *"I AM."*
@@ -65,6 +65,6 @@ Standalone single — **Jagwar Twin × lovelytheband** (collab). `[G]`. Writers 
 ## Sources
 
 - *tomorrow (ANGLE OF ETERNITY)* single — JT × lovelytheband `[G]` (writers `[?]`).
-- Lyric: [[Sources/Lyrics/tomorrow (ANGLE OF ETERNITY)]] `[?]` (AZLyrics single-source).
+- Lyric: [[Sources/Lyrics/tomorrow (ANGLE OF ETERNITY)]] `[G]` (Spotify-stable, 2026-06-10).
 - Public traditions: Exodus 3:14 (the "I AM"); John 1 / Genesis (logos / word-creation); Platonic/Gnostic anamnesis.
 - *No private material cited as grounded* — the angle/angel framework is private-only ([[The Angels and the Angles]]), struck from `[G]`.

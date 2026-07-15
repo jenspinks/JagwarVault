@@ -155,6 +155,10 @@ The track documents the **collapse of trust in institutional meaning structures*
 
 Within that condition, **crime becomes psychologically reinterpreted as agency**. The "stickup" fantasy is therefore not fundamentally about violence — it is about **recovering the sensation that one's existence still belongs to oneself**.
 
+### Classical, the Sirens `[~]`
+
+*"Sirens call out making their sound"* reads first as **police sirens** reframed as hallelujahs (§Grounded). On an album titled *Subject to Flooding* the word carries a second, mythological register: the Greek **Sirens**, whose song lures sailors to **drown**. The drowning-album context activates the pun, a seductive sound that pulls the listener under, the aural cousin of the flood. Held to the framework, `[~]` (a resonance the title makes available, not a claimed encoding). This is the footnote the [[Subject to Flooding (album)]] frame points to. *(STF Deep Dive F10.)*
+
 ---
 
 ## Open Questions

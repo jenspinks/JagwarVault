@@ -87,6 +87,8 @@ This tension becomes load-bearing for the entire cosmology: **the self armors pr
 
 The track's childlike melodic structure is not merely commercial accessibility; it **performs emotional regulation** [W]. The *"La-la-la-la-la"* sections create a nursery-rhyme cadence that softens the panic embedded in the surrounding lyrics: insanity, defect, collapse, isolation, social sameness.
 
+The **children's-voice register brackets the catalogue at its two ends, with inverted function.** Here in 2018 it is the childlike cadence as **self-comfort** (the unashamed pre-shame register soothing itself); in 2026 [[The Circle (Lucius Version)]] engineers **actual child voices** *"aligned to sound like one voice unless you listen closely"* ([[Communion vs Spectacle]]), the child-register turned to **sedation, unison-not-communion.** Recovery at the debut, anaesthesia at the end. `[W]` as a thematic bracket; whether Loser's *"la-la"* is *literally* children's voices (vs Roy's own childlike delivery) stays `[?]`. *(STF Deep Dive F3.)*
+
 > The song sounds comforting because it is attempting to comfort itself [W].
 
 This deepens the earlier "Trojan Horse" reading into something more precise:

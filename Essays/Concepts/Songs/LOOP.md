@@ -30,7 +30,7 @@ Standalone single, released **2025-08-29**, **kept off [[Lucius Lullaby (album)]
 
 **2. The paralysis of awareness.** *"We're gonna break the simulation"* is the ideological core — and it arrives in the **past tense, as an intimate conversation**, not an enacted reality: *"you and I stayed up all night / talking about how we're gonna break the simulation."* The song reads as a diagnosis of the modern condition: we know we're in the simulation, we discuss breaking it endlessly, and we stay on the carousel. **Talking about escape may itself be part of the loop.** `[W]`
 
-**3. Form enacts the trap.** The intro strips melody to the mechanical repetition of the word *"loop"* — the song structurally *becomes* the thing it describes, a controlled simulation of the loop so it can be recognized. *(The exact repetition count is AZLyrics-unverified and the read does not depend on the number — `[?]` on the count, `[W]` on the move.)*
+**3. Form enacts the trap.** The intro strips melody to the mechanical repetition of the word *"loop"* — the song structurally *becomes* the thing it describes, a controlled simulation of the loop so it can be recognized. *(The exact repetition count isn't specified in the streaming lyric, and the read does not depend on the number — `[?]` on the count, `[W]` on the move.)*
 
 **4. The coda as stage direction.** The closing lines — *"close your eyes and just imagine / you're going on a journey / 'cause this is called the journey"* — drop the emotional register entirely. The voice shifts from **victim-inside-the-loop to guide-naming-the-initiation-from-outside** (Roy-the-guide). It does not *resolve* the loop emotionally; it **names it from outside** and hands the listener into the broader sequence. The loop becomes a *path* once consciously named. `[W]`
 
@@ -55,5 +55,5 @@ Standalone single, released **2025-08-29**, **kept off [[Lucius Lullaby (album)]
 
 - Release date + sole-writer credit `[G]`; public release-window posts (Aug–Sep 2025) + *"Life is a loop"* (2024-01-05) `[G]` ([[Sources/Quotes/Roy X Posts - June 2026 (aphorisms)]]).
 - *"My mind must serve my heart"* `[G]` — Roy's published LOOP-era lore (quote-card, @jagwartwin IG/FB/YouTube); cite the underlying post (URL pin pending), via finding-aid [[Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts)]].
-- Lyric: [[Sources/Lyrics/LOOP]] (AZLyrics, streaming-unverified, `draft`).
+- Lyric: [[Sources/Lyrics/LOOP]] (Spotify-stable, 2026-06-10).
 - *No private material; no Bailey-sourcing claim.*

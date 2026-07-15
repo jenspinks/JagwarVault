@@ -20,7 +20,7 @@ related: [CHAR-Roy, CONCEPT-TheJaguar, CONCEPT-SourceVsReflection]
 
 ## Grounded
 
-*(Drive-sourced; lyric core corroborated by Shazam but streaming-unverified `[?]`. The Drive source reads **"Jaguar Swaguar"**; a Shazam pass reported **"Jagwar Swagwar"** — the spelling is interpretively load-bearing, see Open Questions.)*
+*(Lyric **Spotify-stable 2026-06-10**, confirming **"Jaguar Swaguar"** (resolving the Shazam "Jagwar Swagwar" variant; the spelling is interpretively load-bearing, see Open Questions).)*
 
 - **Game vocabulary structures the whole song** `[G]`: *"side quest"* vs *"main one," "you were playing a game," "Baldur's Gate," "you played me well."*
 - **The asymmetry, stated plainly** `[G]`: *"you didn't love me like I loved you."*

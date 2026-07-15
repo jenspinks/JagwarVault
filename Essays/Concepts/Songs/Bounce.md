@@ -25,7 +25,7 @@ related: [SONG-MothsToTheFlame, SONG-Bananas, CHAR-SirLucius, SONG-CityOfAngels,
 - Structurally **command-driven and continuous**: bounce / get down / get on the floor / start the party / tear the roof off — sustained motion, no still point. `[G]`
 - Track 12, after the false-immortality ([[Playing to the Gods]]) and replication ([[City of Angels]]) machinery. `[G]`
 
-*(Lyric source is Drive-sourced, streaming-unverified `[?]` — high mishear risk. Contested words whose reads carry their own `[?]`: **"lore"** vs "lure"/"Lord"; **"bow-bow-bow"** ("bah"? onomatopoeic gunfire?); **"addy."**)*
+*(Lyric **Spotify-stable 2026-06-10**. **"lore"** is now confirmed (not "lure"/"Lord") — see §Lore below. Remaining genuine mishears held `[?]`: **"bow-bow-bow"** ("bah"? onomatopoeic gunfire?) and **"addy."**)*
 
 ---
 
@@ -41,9 +41,9 @@ related: [SONG-MothsToTheFlame, SONG-Bananas, CHAR-SirLucius, SONG-CityOfAngels,
 
 **5. The destruction is personal — and it is the *roof* specifically.** Party songs say "tear the roof off" as communal celebration; this says *"tear the roof off of **my** house."* The possessive matters — the demolition is **personal, not communal.** Across the song the protections strip away in sequence: panic surfaces → identity becomes mythology → roof comes off → body keeps moving. The trajectory isn't toward freedom; it's toward **exposure.** But *exposure* and *opening* are the **same gesture**, not rival readings. The roof is the lid of **Beth**'s own meaning — Beth (ב) = *house*, the Sefer Yetzirah letter epigraphed on the Bounce *Live Underground* card ([[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10|the Beth card]]) — and tearing it runs the catalogue's container→**opening** move ([[The House & the Vessel — Container Imagery (hold, open, shatter, hatch)]]): closed→open, protected→exposed, the heart unsealed. Roy's own promo caption names the arc: *"We begin with a house and we end up with a heart."* What makes it read as *exposure* rather than freedom is that here the opening is **involuntary and evasive** — the crack forced open by panic, not chosen. *(Allusion flag `[~]`: "tear the roof off" echoes Parliament-Funkadelic's "Give Up the Funk (Tear the Roof off the Sucker)"; Roy is a serial interpolator. If it's a quotation, the possessive **"my house" is his deviation from the source** — which supports the personal-exposure read. But the roof-as-opening no longer hangs on the P-Funk allusion; the Beth epigraph grounds it either way.)* `[W]`
 
-## "Lore" — the possible center, gated on the word `[?]`
+## "Lore" — the center of the song `[W]` (word confirmed 2026-06-10)
 
-*If* the lyric is *"you just love me for my **lore**,"* it may be the center of the song, not the panic line: the speaker understands the audience loves the **story / mythology / character / wound / content**, not the person — a modern anxiety landing in a late-Lucius-album slot. Candidate anchors, **verify-then-anchor** (flagged because this page is correcting a prior contaminated pass): the "consume the mythology, not the person" logic associated with **SARAVI** ([[The Digital Double]]), and Lucius as **"the algorithm baby"** (EP3, grounded as his self-description; the connection to *this* line stays `[W]`). The bite — that the line lands because it's *accurate* — holds either way. `[W]` on the read · `[?]` on the word.
+The lyric is confirmed *"you just love me for my **lore**"* (Spotify-stable, resolving the earlier "lure"/"Lord" mishear). This is the center of the song, not the panic line: the speaker understands the audience loves the **story / mythology / character / wound / content**, not the person, a modern anxiety landing in a late-Lucius-album slot. Anchors: the "consume the mythology, not the person" logic associated with **SARAVI** ([[The Digital Double]]), and Lucius as **"the algorithm baby"** (EP3, grounded as his self-description; the connection to *this* line stays `[W]`). The bite, that the line lands because it's *accurate*, holds. **Word now `[G]`; the reading `[W]`.** *(Fable Pass D2 lift applied.)*
 
 ## The duality `[?]`
 
@@ -66,6 +66,6 @@ The party-command register **reads in a Lucius register**; the panic line **soun
 ## Sources
 
 - *Lucius Lullaby* album sequence / credits `[G]`.
-- Lyric: [[Sources/Lyrics/Bounce]] `[?]` (Drive, streaming-unverified).
+- Lyric: [[Sources/Lyrics/Bounce]] `[G]` (Spotify-stable, 2026-06-10).
 - Parliament-Funkadelic, "Give Up the Funk (Tear the Roof off the Sucker)" — public comparator for the "tear the roof off" allusion (structure-level; not asserted as Roy's stated reference).
 - *No private material; no Bailey-sourcing claim.*

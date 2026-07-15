@@ -66,4 +66,4 @@ What a great time to be human!
 
 ## Maintenance
 - Bulk-ingested 2026-05-25 from Google Drive doc 1 (album doc).
-- **Not yet verified** against streaming release. Record URLs in `verified_against`; flip `status` to `stable`. Official release wins on divergence.
+- **Verified 2026-06-07** (Apple Music + Jen in-hand — the capitalized archetypal-station nouns confirmed as official text; see `verified_against`), so `status: stable` is correct. Official release wins on divergence. *(The earlier "not yet verified" note was superseded by that check; release URLs still to be added at §Source.)*

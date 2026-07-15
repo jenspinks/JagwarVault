@@ -51,7 +51,7 @@ At seven years old: did ballet at Christian school. A teacher told his father th
 | The Empty Mirror                         | Wrist                            | "Looking at yourself in the mirror and seeing nothing."          |
 | All Reality Is                           | Inside upper arm                 | —                                                                |
 | Remember you're alive                    | Inner upper arm                  | —                                                                |
-| If you forget who you are, you used to b | Chest                            | —                                                                |
+| If you forget who you are, you used to b… | Chest | *(text appears cut off at "b" in the source photo; whether the truncation is the actual tattoo or a photo cutoff is an open question — [[Sources/Artifacts/Roy - Tattoos (body inventory)]])* |
 | Trust your guts                          | Lower abdomen                    | — Reminder to trust your guts!                                   |
 | Be                                       | Front of shoulder                | "To remind me to be."                                            |
 | Listen                                   | Below ear, arrow pointing to ear | "Listening is an art form."                                      |
@@ -99,7 +99,6 @@ Whether he gets there is still open.
 - [[Brain/Songs/Lucius Lullaby]] · [[33]] · [[Subject to Flooding]]
 - [[Another Way II Heaven]] · [[Essays/Concepts/Songs/Ballerina Boy]] · [[SOL]] · [[Move to You]]
 - [[Kabbalah]] · [[Tree of Life]] · [[Gurdjieff]] · [[Jung]]
-- [[The Mirrors Platform]]
 
 ---
 
