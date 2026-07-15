@@ -51,7 +51,7 @@ At seven years old: did ballet at Christian school. A teacher told his father th
 | The Empty Mirror                         | Wrist                            | "Looking at yourself in the mirror and seeing nothing."          |
 | All Reality Is                           | Inside upper arm                 | —                                                                |
 | Remember you're alive                    | Inner upper arm                  | —                                                                |
-| If you forget who you are, you used to b… | Chest | *(text appears cut off at "b" in the source photo; whether the truncation is the actual tattoo or a photo cutoff is an open question — [[Sources/Artifacts/Roy - Tattoos (body inventory)]])* |
+| If you forget who you are, you used to b | Chest | **Complete and deliberate** (Jen, 2026-07-15): ends at "b" on purpose — the sentence enacts its premise, breaking off before it can finish "be," so forgetting-who-you-are severs the memory of who you *used to be*. Read as-is; the form is the content. `[W]` |
 | Trust your guts                          | Lower abdomen                    | — Reminder to trust your guts!                                   |
 | Be                                       | Front of shoulder                | "To remind me to be."                                            |
 | Listen                                   | Below ear, arrow pointing to ear | "Listening is an art form."                                      |

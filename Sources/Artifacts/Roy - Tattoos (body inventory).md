@@ -47,7 +47,7 @@ The tattoos are not a list — they are a **symmetrical map.**
 
 ### Torso
 - **"I CAN'T FEEL"** — back of shoulder.
-- **"If you forget who you are, you used to b"** — chest. (Text appears cut off at "b".)
+- **"If you forget who you are, you used to b"** — chest. **Complete and deliberate** (Jen, 2026-07-15): the line ends at "b" on purpose, **read as-is** — not a photo cutoff or transcription error.
 - **"In service to all, in service to the one"** — up the side of the abdomen.
 - **"Lessons learned"** — near a scar, lower chest.
 - **"Trust your guts"** — on the guts (lower abdomen).
@@ -111,7 +111,7 @@ The tattoos are not a list — they are a **symmetrical map.**
 
 ## III. Verification queue
 - [?] Photo-confirm exact wording/placement of each tattoo before quoting with marks (working from his compiled statements, not direct image reads).
-- [?] "If you forget who you are, you used to b" — confirm whether truncation is the actual tattoo or a transcription cutoff.
+- [x] ~~"If you forget who you are, you used to b" — confirm whether truncation is real~~ **RESOLVED (Jen, 2026-07-15): the line is COMPLETE and intentional — it deliberately ends at "b," read as-is; not a cutoff or transcription error.**
 - [?] Confirm the `+`/ROSE ESOR arrangement visually (mirror-word orientation).
 - [G, web-corroborated 2026-07-01] **Fear · Be · I am Human · Remember you're alive** — independently observed in print (Artist Waves 2018, §IV).
 - [G, web-corroborated 2026-07-01] **Trust your guts** — placement (stomach) + provenance (Pittsburgh, tattooer "Bryce", ~2019 tour, captioned "the biggest lesson") from the One Stop Watch tour diary (§IV).
