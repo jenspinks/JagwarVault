@@ -100,7 +100,7 @@ The lineage to [[Happy Face]] is direct: *"Say you're good, say you're fine"* / 
 
 Explicit consumption imagery. The Circus is not a neutral container — it is a digestive system. The performer enters, is processed, is excreted. Lucius is naming the metabolic function of the spectacle out loud.
 
-This connects backward to "I Like to Party" (2022, dir. Kyle Vorbach) — that earlier music video shows Roy being **force-fed cake** by a jeweled, ringed hand entering from off-screen. The feeding escalates in aggression across the video; cake is eventually smashed across his face and torso. Four years before WTTC names the digestive mechanism in lyric, the same operation was rendered visually with Roy as the thing being eaten. *The cake before the Circus.*
+This connects backward to "I Like to Party" (2021, dir. Kyle Vorbach) — that earlier music video shows Roy being **force-fed cake** by a jeweled, ringed hand entering from off-screen. The feeding escalates in aggression across the video; cake is eventually smashed across his face and torso. Five years before WTTC names the digestive mechanism in lyric, the same operation was rendered visually with Roy as the thing being eaten. *The cake before the Circus.*
 
 ### "Take your seat, scream and shout / 'Cause I'm the one they're talking 'bout"
 
@@ -254,7 +254,7 @@ The Bailey-curated quote *"the path of liberation leads through the midst of the
 | *EP 7 — ROY's listening party (visual lore)* | Bound-Roy listening party where Lucius's moth speech foreshadows track 6                                                                     |
 | [[Good Time (1-08)|Good Time]]                          | Earlier Lucius self-designation: *"I'm a mastermind."* Direct precursor to *"I'm the final boss."*                                           |
 | [[Happy Face]]                         | The Mask Layer at minimum-viable scale. WTTC is Happy Face industrialized.                                                                   |
-| [[I Like to Party]]                    | The cake-before-the-Circus. Force-feeding rendered visually four years before chewing-up named lyrically.                                    |
+| [[I Like to Party]]                    | The cake-before-the-Circus. Force-feeding rendered visually five years before chewing-up named lyrically.                                    |
 | [[LOOP]] *(not on album)*              | Roy's single. First in the official pattern-breaking chain. Lucius's loop-accusation in EP 3 inverts it: he accuses Roy of being in a loop. |
 | [[Essays/Concepts/Songs/Not Your Homie]]                     | The previous Lucius-produced hit that made this one possible. Also: contains the Beast/champion lyric — the Leo-trial named directly.        |
 | [[The Circle]]                         | The Circus is The Circle inverted. Same motion, opposite direction.                                                                          |
@@ -298,7 +298,7 @@ The *final boss* designation imports video-game logic: the entertainer becomes t
 Roy's "STOP SIR LUCIUS" flyer rebellion (from the visual lore series) deploys an iconography that mirrors Lucius's own (hooded figure, X crosses on cheeks). The resistance cannot escape the symbol it is resisting. Lucius cannot be opposed using Lucius's own image. This is one of the Dweller's structural defenses — see [[The Dweller on the Threshold]].
 
 ### The Cake Before the Circus
-The 2022 "I Like to Party" music video shows Roy being force-fed cake by jeweled hands from off-screen, escalating in aggression to saturation. *I'll chew you up, spit you out* is the lyrical naming of an operation Roy was filmed enacting four years prior — as the thing being eaten. The visual catalogue of the Lucius mechanism predates the lyrical naming by a substantial margin.
+The 2021 "I Like to Party" music video shows Roy being force-fed cake by jeweled hands from off-screen, escalating in aggression to saturation. *I'll chew you up, spit you out* is the lyrical naming of an operation Roy was filmed enacting five years prior — as the thing being eaten. The visual catalogue of the Lucius mechanism predates the lyrical naming by a substantial margin.
 
 ### Ballerina Boy as Structural Absence
 The song does not name [[Essays/Concepts/Songs/Ballerina Boy]]. Possible readings:
@@ -341,7 +341,7 @@ Both readings point in the same direction: the most important figure in the proj
 ### Catalogue Referenced
 
 - "Good Time (1:08)" Official Music Video — October 11, 2023 — *(visual anchor: face paint, Empty Mirror tattoo, "mastermind" self-designation)*
-- "I Like to Party" Official Music Video, dir. Kyle Vorbach — 2022, Los Angeles — *(cake-feeding sequence)*
+- "I Like to Party" Official Music Video, dir. Kyle Vorbach — 2021-08-06, Los Angeles — *(cake-feeding sequence)*
 - [[Happy Face]] — Jagwar Twin
 - [[The Circle]] — Jagwar Twin
 - [[Essays/Concepts/Songs/Not Your Homie]] — Jagwar Twin, MERCY, Sir Lucius

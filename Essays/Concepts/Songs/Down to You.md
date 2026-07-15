@@ -13,8 +13,8 @@ related: [ALBUM-33, SONG-PayAttentionFeatLittleLuna, SONG-ILikeToParty, CONCEPT-
 - **Album:** *33* (2022, Big Loud Rock) — **track 7 of 10**; 3:48. Writers **Roy English, Matt Pauling**; **Producer: Matt Pauling (sole)** ([[Sources/Credits/33]]).
 - **Arc:** the attention-force is set up in [[Essays/Concepts/Songs/Pay Attention (feat. little luna)|Pay Attention]] (3) and shown operating in [[Essays/Concepts/Songs/I Like to Party]] (4); **Down to You (7) is the inward correction** — it names the exact "fame / money" offerings those tracks peddle, and refuses them.
 
-> [!warning] No Joni bridge
-> Joni Mitchell also has a *"Down to You"* (*Court and Spark*, 1974) — but it's **thematically coincidental** (hers = transience of love/style, not fame; confirmed via [[Sources/Reference/Joni Mitchell — source index]] #3). **Same title only — do not forge a connection.**
+> [!note] A candidate second Joni dialogue `[W candidate]` (verdict reopened 2026-06-15)
+> Joni Mitchell also has a *"Down to You"* (*Court and Spark*, 1974), and the earlier "same title only, coincidental" verdict has been **reopened**: Joni's official lyric carries the **same resolving hook** *"it all comes down to you"* and is itself a **duality** text (*"you're a kind person / you're a cold person too"*), while *33* **already grounds Joni** (the credited *Woodstock* sample on [[Essays/Concepts/Songs/Soul Is A Star]]). Held at **`[W candidate]`, not `[G]`** — the hook is ordinary idiomatic English and Roy's track carries no Joni credit, so same-album adjacency raises plausibility without making an uncredited song a sourced reference. Full treatment: [[Brain/Songs/33 (2022)/Down to You]] §"A candidate second Joni dialogue." *(33 Deep Dive D2; promotion past `[W candidate]` awaits a Roy statement or a decisive lyric side-by-side.)*
 
 ## Lyrics
 

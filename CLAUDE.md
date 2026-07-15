@@ -375,6 +375,8 @@ The doc gets you the content; the underlying source gets the citation.
 
 If a claim in the compilation has **no** traceable primary source, it stays an **unverified lead `[?]`** — not citable until one is found. Keep two epistemic objects apart: an **interpretive `[W]` read** seeded by a compilation is sayable on its own anchors (per the tiers); an **empirical fact** needs its primary source, full stop. **Convention:** every `citable: false` synthesis file should carry a **"citable counterparts"** pointer to where its real sources live (e.g. the Joni dossiers → [[Sources/Reference/Joni Mitchell — source index]]).
 
+**Register nested docs — the Mozart rule (2026-07-14).** A finding-aid that names *another* external document must give that doc its own row in [[Source Ingestion Ledger]], not a passing mention. When a `citable: false` file references a second document that is **not itself a file** in the vault (an external chat, a NotebookLM / AI audio-overview, a Google Doc), register it as its own ledger row (status: `external-never-retrieved` / `retrieved-and-mined` / `is-actually-a-file`) and mine **all** of its payload, not just the one delta relevant to the citing page. The lost-Mozart failure was exactly this shape: a synthesis nested one level deep inside a finding-aid, its payload unrelated to the page that referenced it, with no row of its own to catch it. [[Source Ingestion Ledger]] is the third fold-tracker (alongside [[Drafts Fold-Status]] and [[Cross-Vault Fold Status]]) and the home for these rows.
+
 **Credits note:** MERCY in Not Your Homie credits = songwriter Mercedes Colletta Britton. Not a symbolic figure.
 
 ---

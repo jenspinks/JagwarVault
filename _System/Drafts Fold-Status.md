@@ -21,13 +21,15 @@ purpose: "The fix for the 'captured but not connected' trust gap. Every Essays/_
 | `Playing to the Gods + City of Angels — analysis brief` | 2026-06-30 |
 | `The Circle (Lucius Version) — analysis brief` | 2026-06-30 |
 | `#1 Champion (la Conquistadora) — analysis brief` | 2026-06-30 |
-| `Fable Pass — Findings (2026-06-10)` | 2026-06-30 |
 | `33 Vetting Dossiers/01 · 02 · 03` | 2026-06-30 (also `✅ VETTED & FOLDED` body stamp) |
 | `STF Vetting Dossiers/01 · 02 · 03 · 05 · 07` | 2026-06-30 (folded by-number → [[Subject to Flooding (album)]] + [[Roy]]) |
 | `LL Vetting Dossiers/02 · 03 · 04` | 2026-06-30 (folded into LL canon) |
 
 ## 🔶 Folded per audit, status-field NOT updated — **CLEARED 2026-06-30**
 *All spot-checked (content confirmed in canon) and stamped — see ✅ above. Promotion-packet "Full execution" pass, 2026-06-30.*
+
+## 🔶 Partially folded — do NOT treat as fully integrated
+- `Fable Pass — Findings (2026-06-10)` — **the `status: folded-to-canon` frontmatter OVERSTATES it** (corrected here 2026-07-14 after the Ingestion-Backlog Pass-2 reconcile; moved out of the ✅ table above). Only the **contamination class** (K2, C1–C3, C15) folded 2026-06-11; **C14 + §3-bis G1/G2/G3/G5 + Q5 + index hygiene folded since** (mirror-family mint 06-29; cross-vault fold 07-12). **STILL OPEN (audit 2026-07-14):** the C4–C12 verification/drift block, C13-residual (MAGIK + SideQuest Brain stubs), C16–C20 hygiene, G4. The file's own FOLD LOG (line 12) is the authoritative to-do. See [[Source Ingestion Ledger]] §3.
 
 ## ❓ Unverified — classified 2026-06-30 (promotion-packet pass)
 - ✅ **Folded + stamped:** `STF Vetting Dossiers/04` (Dream/Dream — Mercer layer folded, C.R.E.A.M. quarantined) · `The Crowd Sings It Back` (core device-concordance → [[Brain/Concepts/Communion vs Spectacle]] §The sing-back device; §4b Babel + §4 BMRC HELD, flagged in the draft).

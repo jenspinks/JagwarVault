@@ -84,7 +84,7 @@ There may be earlier visual evidence still. The Good Time still is just the earl
 
 ### "I Like to Party" (and similar)
 
-Lucius does not appear on every Jagwar Twin track. "I Like to Party" (2022, Los Angeles, dir. Kyle Vorbach) is not voiced by Lucius — but it is unmistakably **Lucius-inspired**, and visually it is the clearest pre-Sir-Lucius rendering of his mechanism in any official Jagwar Twin music video.
+Lucius does not appear on every Jagwar Twin track. "I Like to Party" (2021, Los Angeles, dir. Kyle Vorbach) is not voiced by Lucius — but it is unmistakably **Lucius-inspired**, and visually it is the clearest pre-Sir-Lucius rendering of his mechanism in any official Jagwar Twin music video.
 
 The video shows Roy being **force-fed cake** by jeweled, ringed hands entering from off-screen. The feeding escalates in aggression across the video; by mid-song, cake is smashed across his face and torso (see [[Media Index]] — three stills from this video). The party is happening *to him*, not with him. The pop-friendly title and chorus run on top of imagery of restraint, mouth-stuffing, and saturation.
 

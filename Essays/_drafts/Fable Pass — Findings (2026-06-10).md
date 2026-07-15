@@ -1,7 +1,7 @@
 ---
 type: report
-status: folded-to-canon
-folded: 2026-06-30
+status: partially-folded
+folded: 2026-06-30 (contamination class only — see the reconcile note below; corrected from folded-to-canon 2026-07-14)
 publish: false
 generated_by: "Fable 5 (1M context) — full-corpus coherence/discovery pass + adversarial keystone review"
 snapshot: "HEAD dbcf8d2 · 152 pages · 0 errors · 0 warnings · run 2026-06-10"
@@ -10,6 +10,8 @@ reading_frame: "Findings report per _System/Fable Pass — Brief.md §5. READ-MO
 # Fable Pass — Findings (2026-06-10)
 
 > **FOLD LOG — 2026-06-11 (Jen authorized "fix the contamination").** The contamination-class findings are **folded into canon** (15 files; validator 153 pages · 0 errors · 0 warnings). Done: **K2** (Mary "appears twice" struck from all 5 + 2 soft survivors → rerouted to the grounded #1 Champion / Ballerina Boy / Weirdness anchors); **C1** (angle/angel "Roy's stated method" → `[~]` tradition-correspondence in all 9 + The Mouth softened; Hebrew *engagement* kept `[G]`; the FB-source over-claim scoped down); **C2** (the private phrase + "later poetry" removed from all 5 locations, reading kept on public Ariadne/Thread anchors — Boundaries §8 leak closed); plus two adjacent fixes on pages already open — **C3** (the false Jaguar "inter-world traveler / sees into all beings" gloss on Essays/Roy → grounded mirror-of-consciousness etymology) and **C15** (Thread mis-sourced "world tied on a string" → *The Circle* (33), not the Lucius Version). **Not yet folded** (different classes, left for separate passes): C4–C14 verification/drift reconciliation, C16–C20 hygiene, the §3-bis discoveries. Commit left for Jen/Code.
+
+> **RECONCILE NOTE — 2026-07-14 (Ingestion-Backlog Pass 2).** This file was silently marked `status: folded-to-canon` in the tracker and frontmatter, overstating the above. A full re-check found **~9 of the "not yet folded" items were closed by later passes** (the 2026-06-29 mirror-family mint + the 2026-07-12 cross-vault fold): **C14** (Bounce "track 12 of 15", cross-vault row C), the §3-bis discoveries **G1** (serve-hinge + Dylan `[G]` pin), **G2** (El Roi source/reflection hinge), **G3** ([[The Empty Mirror]] minted), **G5** ([[The Speaker Problem]] minted), and **Q5** (Mary voice unified), plus most of the C13 stub-fill and the C17 index hygiene. **Still genuinely open (audit 2026-07-14):** the C4–C12 verification/drift block (contamination core = **C11**, **C10**, **C7**, **C12** — being folded this pass), C13-residual (MAGIK + SideQuest Brain stubs), C16–C20 hygiene, and G4. Status corrected to `partially-folded`; see [[Source Ingestion Ledger]] §3 + [[Drafts Fold-Status]] §"Partially folded."
 
 **Coverage statement.** Read in full: all `_System` orientation docs; all 6 character pages (both layers); all 26 Brain/Concepts (15 in full, 11 sampled); all Lucius Lullaby Brain pages + all LL-relevant lyric sources; the keystone essays (Welcome to the Circus, Lucius Lullaby, SOL, Ballerina Boy, Not Your Homie, The Circle, Happy Face, Soul Is A Star §I–II, LOOP, Bounce, Good Time, Circle LV); both full Singles Brain pages (The Watchers, BALLERINA BOY); the EP1–7 theatrical transcript in full; the LOOP-era lore compilation in full; Roy on the Heart-Mind Split in full; all three album pages; targeted greps across the entire tree for every contamination candidate. **Not read in full** (verified from the citing side instead): the 12 MirrorSessions transcripts, ~25 per-interview transcripts (consulted via the Roy Voice aggregations), the Hercules pair, the Jacob & Esau essay, the remaining 33/STF essays, the Joni `citable:false` dossiers. Nothing in the unread remainder is load-bearing for a verdict below; where a finding touches an unread file, it says so.
 

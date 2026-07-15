@@ -22,7 +22,7 @@ Written at Roy's absolute bottom. Age 35, broke, couch-surfing, back in his pare
 
 ## Who's Speaking
 
-**[[Sir Lucius]]** is the primary voice. This is Lucius singing *to* Roy — but the crucial insight is that Lucius is genuinely trying to wake Roy up. The lullaby form is subverted: this is not a song to put someone to sleep. It's a song to pull someone out of collapse.
+**[[Sir Lucius]]** is the primary voice. This is Lucius singing *to* Roy. The lullaby form is subverted, but not into a wake-up call: on the verified lyrics (below) Lucius **saves Roy by putting him *under***, not by rousing him. It pulls someone out of collapse the way a sedative does, a lullaby that *works* — mercy and trap in one act. *(An earlier reading here held that Lucius was "genuinely trying to wake Roy up"; the 2026-06-06 verified lyrics corrected it.)*
 
 Roy may speak within the song, but the dominant presence is Lucius. The "deal" between them originates here — Lucius pulled Roy from the bottom, and whatever the cost of that deal, it may have been worth it.
 
@@ -138,15 +138,16 @@ Everything in the Jagwar Twin mythology flows forward from this moment. The arc 
 - ~~Mary appears twice, face hidden~~ → **not in the lyrics.** The rescuer voice is Lucius counterfeiting the Mary-function. (Earlier analysis predated the in-vault lyric — the transclusion note read "source lyric file pending ingestion.")
 
 **Interpretive (well-supported):**
-- Lucius is genuinely trying to wake Roy up, not seduce or trap him
+- Lucius **saves Roy by putting him *under***, not by waking him — the lullaby is competent, mercy and trap in one act *(corrected 2026-06-06 on the verified lyrics; supersedes the earlier "trying to wake Roy up" reading)*
 - The lullaby form is deliberately subverted
 - Malkhut → Yesod mapping as the initiating movement on the Tree
 - The childhood bedroom as the site of original wounding creates a deliberate geographic echo with Ballerina Boy
 
 **Open / Unresolved:**
 - What exactly is the deal? What did Lucius get in return?
-- Why is Mary's face hidden? Is she not yet integrated, not yet earned, or protecting herself?
 - Does Roy recognize Lucius as ally in this moment, or only later?
+
+*(Removed as resolved: "Why is Mary's face hidden?" — the Corrected block above establishes Mary is **not in this song**; the rescuer voice is Lucius counterfeiting the Mary-function, so there is no hidden Mary face to explain here.)*
 
 ---
 

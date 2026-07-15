@@ -17,7 +17,7 @@ Track 14, Lucius Lullaby. **Wordless on the album — but VOICED.** *Not* instru
 **Sung opening line — CONFIRMED BY EAR (Jen, 2026-06-05, 100%):**
 > "Love. Love is a question. Everyone's guessing. Everyone knows."
 
-This line is what Roy **performs in *The Interview* EP2** (the album track itself is instrumental) — it matches the EP2 transcript in [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] §EP2. **Correction:** an earlier rendering here ("everyone's asking, nobody knows") was wrong on both words — it is **"guessing"** and **"everyone knows."**
+This line is what Roy **performs in *The Interview* EP2** — it matches the EP2 transcript in [[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)]] §EP2. **Correction:** an earlier rendering here ("everyone's asking, nobody knows") was wrong on both words — it is **"guessing"** and **"everyone knows."**
 
 > [!warning] De-attributed from SOL (2026-06-27)
 > A two-part "poem guide" was filed here from **Jen's Drive doc 1** (the doc grouped it under SOL), but its grounded primary sources are **two separate @jagwartwin posts, neither confirmed as SOL** — so it has been moved out:
@@ -27,4 +27,4 @@ This line is what Roy **performs in *The Interview* EP2** (the album track itsel
 > Only a **thematic** thread links them to SOL (finding your way back / proceeding on trust). The poem is **not** a SOL lyric or grounded SOL source.
 
 ## Maintenance
-- Ingested 2026-05-25 from Google Drive doc 1. Confirm instrumental status against streaming at verification time.
+- Ingested 2026-05-25 from Google Drive doc 1. **Voiced/wordless status RESOLVED** (voice-only, non-lexical, not instrumental — confirmed by ear, Jen 2026-06-05, 100%; see §Note); the earlier "confirm instrumental status" to-do is closed.

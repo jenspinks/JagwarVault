@@ -49,6 +49,7 @@ Standalone single, **2023-05-26**, Big Loud. Writers **Roy English, Colin Britta
 - [~] [[The Watchers]] — clone-with-friends (2023) → clone-being-watched (2024, *"I'm afraid I'm a clone"*).
 - [~] *"Chasing down a feeling I used to believe in"* — faded conviction; faint [[The Thread]] rhyme (don't force).
 - [~] *"don't wanna go outside"* ↔ [[Essays/Concepts/Songs/No Fake Friends|N.F.F.]] — circle tightens when the world floods.
+- [W] **The posted sun-death dream (2023-01-05) as the emotional weather behind this song.** Four and a half months before release, Roy posts a dream: *"watching the sun almost like from a microscope and it was at the end of its life about to explode. When it exploded it sent the earth into darkness"* ([[Sources/Quotes/Roy X Posts - 2023 (Jan-Apr) DRAFT]], 01-05). The dying **sun** sending the earth *into darkness* is the same apocalyptic register AMF sings months later (*"the world is ending"*); the *"microscope"* is the analytic gaze turned on the source. Posted dream `[G]`; the link to the song `[W]`; the source-light rhyme with [[SOL]] `[~]`. Joins Roy's other **posted dreams** ([[Good Time (1-08)]] origin-dream, [[The Watchers]]) as a small recurring source-class worth harvesting.
 
 ## Counterarguments / Alternate Reads
 <!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->

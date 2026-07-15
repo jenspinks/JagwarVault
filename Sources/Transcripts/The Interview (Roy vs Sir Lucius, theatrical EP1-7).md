@@ -153,7 +153,9 @@ ingest_source: "Jen-maintained working transcript (Google Doc). The Doc is a REF
 >
 > **Lucius:** What if eventually never comes?
 >
-> **Roy:** It always comes. And not because of luck, or some scheme, but because this whole game was **designed to reward truth. And love is the ultimate truth.** And when I move from that place, nothing can stop me. …Speaking of not stopping — what if, for now, we keep this train rolling. It looks good on you, by the way… success. The fuzziness of it looks good on you. *(Roy looks pleased and amused.)* We finally have the momentum back. *Not Your Homie* is flying. Let me give you another hit.
+> **Roy:** It always comes. And not because of luck, or some scheme, but because this whole game was **designed to reward truth. And love is the ultimate truth.** And when I move from that place, nothing can stop me.
+>
+> **Sir Lucius:** …Speaking of not stopping — what if, for now, we keep this train rolling. It looks good on you, by the way… success. The fuzziness of it looks good on you. *(Roy looks pleased and amused.)* We finally have the momentum back. *Not Your Homie* is flying. Let me give you another hit.
 >
 > **Roy:** I assume you already have something in mind.
 >
