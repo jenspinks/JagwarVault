@@ -19,6 +19,33 @@ purpose: "The complete register of every INPUT to the vault (dossier, draft, ext
 
 ---
 
+## ⭐ For Jen — plain-language summary (start here; no internal codes)
+
+**What this whole thing was.** A hunt for analysis that had been worked out in old review documents but never actually written into the vault's real pages — the failure that once lost the "Mozart" thread. **Good news: the vault was in good shape.** Most old analysis was already filed; only a handful of genuine gaps. *(The lettered/numbered tags further down — "C11", "F15", etc. — are just internal labels from two old review docs, kept for a future AI session. You can ignore them.)*
+
+### 1. What was uncovered
+- **Missing musical influences** Roy has named but that weren't on the influences page: **Radiohead**; his **Eastern-European family roots** (German / Polish / Russian / Slavic — the source of the accordion-and-tuba "oompah" sound on *Bad Feeling* and *Good Time*); **Bowie, Michael Jackson, John Lennon**; and **Twenty One Pilots** (his stated favorite band, whose drummer plays on the album, and whose "Blurryface" alter-ego mirrors the Roy/Lucius split).
+- **A few real errors** the vault was stating wrong: a **Lucius line was labeled as Roy** in the main *Interview* transcript; the **"I Like to Party" video was mis-dated 2022** (it's 2021); and a couple of pages **contradicted themselves** (the *Lucius Lullaby* essay said Lucius both wakes Roy up *and* sedates him; the *SOL* lyric page said the track was both voiced *and* instrumental).
+- **Song analysis figured out but never connected:** a **dream Roy posted (Jan 2023)** of the sun dying and the world going dark, 4.5 months before *All My Friends*; the **"star" moving from sky to soul** across four songs; a **"waters rising"** thread; and a few smaller cross-song patterns.
+- **Two outside documents referenced but never saved into the vault** (the Mozart risk) — see §3 below.
+
+### 2. What was ingested, and where it went
+- The **influences** (Radiohead · family roots · Bowie/MJ/Lennon · Twenty One Pilots) → the **[[Brain/Roy Voice/Roy on Influences|Roy on Influences]]** page.
+- The **Lucius-vs-Roy transcript fix** → the **[[Sources/Transcripts/The Interview (Roy vs Sir Lucius, theatrical EP1-7)|Interview (EP1–7) transcript]]**.
+- The **video-date fix** → the **[[Essays/Concepts/Songs/Welcome to the Circus|Welcome to the Circus]]** + **[[Essays/Characters/Sir Lucius|Sir Lucius]]** pages.
+- The **sun-death dream** → **[[Brain/Songs/Singles & EPs/All My Friends|All My Friends]]**; the **water / star / other song threads** → their song pages (**[[Brain/Songs/Subject to Flooding (2018)/Shine|Shine]]**, **[[Brain/Songs/33 (2022)/Happy Face|Happy Face]]**, the **[[Brain/Albums/Subject to Flooding (album)|Subject to Flooding album]]** page, and others).
+- **Lyric cleanups** on ~6 song essays: removed stale "lyrics unverified" flags now that the lyrics are Spotify-confirmed — which also settled three long-disputed words: it's **"lore"** (*Bounce*), **"Another"** not "Nether" (*Life Is Good*), and **"Jaguar Swaguar"** (*SideQuest*).
+- The **tattoo correction** ("you used to b" is complete, not cut off) → three pages, including the public tattoo page.
+- Everything validated clean (0 errors) throughout, and autosyncs via Obsidian Git.
+
+### 3. What you need to do
+1. **Retrieve two outside documents** if you want them checked for lost content — they're referenced in the vault but were never saved as files, so only you can pull the originals: **"Jagwar Twin Research Context Handoff (2026)"** (higher priority) and, optional, an old **"Happy Face draft."**
+2. **Decide on "Down to You."** There's a real chance the song echoes **Joni Mitchell's** song of the same name; I've marked it a **"candidate,"** but calling it a confirmed connection is your judgment (or would need a Roy statement).
+3. **Review 5 small lyric tweaks for "Not Your Homie"** — you have the Spotify screenshots; I couldn't apply them without seeing them.
+4. **Optional, low-priority leftovers:** a link-naming cleanup (many links just say "Lucius Lullaby," which is ambiguous between 5 different pages) and two thin pages (**MAGIK**, **SideQuest**) that could be fleshed out later.
+
+---
+
 ## 1. Sources/Reference/ research dossiers
 *None appear in [[Drafts Fold-Status]] or [[Cross-Vault Fold Status]] (those cover `Essays/_drafts/` and PUBLIC->SOURCE only), so every row here was a tracking blind spot until now. Content status below.*
 
