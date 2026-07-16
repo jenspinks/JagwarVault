@@ -181,22 +181,22 @@ status: draft
 
 ## FLAG: needs a human eye (223)
 ### FLAG › thematic (65), carry a concept tag, likely some real value here
-- `?` [Wake up Neo 👁️](https://www.youtube.com/shorts/ewa8oqiQcNE) _Sleep/WakeUp, WakeUp(Matrix)_
-- `?` [Wake up, you're dreaming... 🏰](https://www.youtube.com/shorts/UTiHp1CkQdM) _Sleep/WakeUp_
-- `?` [And 5G is zapping us too!](https://www.youtube.com/shorts/Q3GP4Y41ffw) _Machine/Human, Witness/Surveil_
-- `?` [Hey Deep Roy, I’m Shallow Roy](https://www.youtube.com/shorts/tf_XmCHxELw) _Duality/mirror, Duality_
-- `?` [tooting my horn 🎺](https://www.youtube.com/shorts/m8faNjf1_iU) _Lucius/herald_
-- `2026-05-06` [If you feel like a mistake you must be mistaken - ROY](https://www.youtube.com/shorts/RdGUnBcBA8s) _Weirdness_
+- `?` [Wake up Neo 👁️](https://www.youtube.com/shorts/ewa8oqiQcNE) _Sleep/WakeUp, WakeUp(Matrix)_✅
+- `?` [Wake up, you're dreaming... 🏰](https://www.youtube.com/shorts/UTiHp1CkQdM) _Sleep/WakeUp_✅
+- `?` [And 5G is zapping us too!](https://www.youtube.com/shorts/Q3GP4Y41ffw) _Machine/Human, Witness/Surveil_✅
+- `?` [Hey Deep Roy, I’m Shallow Roy](https://www.youtube.com/shorts/tf_XmCHxELw) _Duality/mirror, Duality_✅ - Roy calls Bad Feeling his Shallow Roy song
+- `?` [tooting my horn 🎺](https://www.youtube.com/shorts/m8faNjf1_iU) _Lucius/herald_✅ - Roy is singing Good Time
+- `2026-05-06` [If you feel like a mistake you must be mistaken - ROY](https://www.youtube.com/shorts/RdGUnBcBA8s) _Weirdness_ ✅ Weirdness is signed ROY not lucius
 - `2026-05-05` [I’m so in style](https://www.youtube.com/shorts/075LbDxLYvo) _The Circus_
-- `2026-04-14` [Almost all commercial bananas are genetically identical.](https://www.youtube.com/shorts/-QYrlRd8ydo) _Lucius_
+- `2026-04-14` [Almost all commercial bananas are genetically identical.](https://www.youtube.com/shorts/-QYrlRd8ydo) _Lucius_ ✅ - Clones, genetic dead ends, beautiful but sterile.
 - `2026-04-09` [Did you like the show?](https://www.youtube.com/shorts/JvkiENsKxLI) _The Circus_
 - `2026-03-26` [STOP SIR LUCIUS](https://www.youtube.com/shorts/Xiulg8LmOgM) _Lucius_
-- `2026-03-26` [Do you hear lucius’ lullaby?](https://www.youtube.com/shorts/PooRVksxDxY) _Lucius_
+- `2026-03-26` [Do you hear lucius’ lullaby?](https://www.youtube.com/shorts/PooRVksxDxY) _Lucius_ ✅ - Why "Do you" and not have you or did you or just the command to hear in?  
 - `2026-03-23` [Time to go bananas “lucius lullaby” out](https://www.youtube.com/shorts/vJThxfDBqRo) _Lucius_
 - `2026-03-20` [“lucius lullaby” 3/27](https://www.youtube.com/shorts/W2tzrvlERhY) _Lucius_
-- `2026-02-13` [Every maze has a center](https://www.youtube.com/shorts/vfAAqcVzw58) _The Circus_
-- `2026-01-15` [Visita interiora terrae, rectificando invenies occultum lapidem](https://www.youtube.com/shorts/pjNv1dFAdZg) _The Circus_
-- `2026-01-15` [And the people will love it 🐇](https://www.youtube.com/shorts/MDdqzXIiLQw) _The Circus_
+- `2026-02-13` [Every maze has a center](https://www.youtube.com/shorts/vfAAqcVzw58) _The Circus_ -✅ Just a short singing circus with the same character that plays mary dancing behind him.  has the SAME hebrew on her neck.  
+- `2026-01-15` [Visita interiora terrae, rectificando invenies occultum lapidem](https://www.youtube.com/shorts/pjNv1dFAdZg) _The Circus_✅ - _**V**__isita_ _**I**__nteriorem_ _**T**__errae_ _**R**__ectificando_ _**I**__nvenies_ _**O**__ccultum_ _**L**__apidem_, alchemy
+	- `2026-01-15` [And the people will love it 🐇](https://www.youtube.com/shorts/MDdqzXIiLQw) _The Circus_ 
 - `2026-01-13` [They love it when you lose control 🖤🪄🌈🎪](https://www.youtube.com/shorts/I9mZXvYM5lc) _The Circus_
 - `2026-01-12` [I’m the one they’re talkin’ bout “welcome to the circus”](https://www.youtube.com/shorts/8PdJvhHsR8E) _The Circus_
 - `2026-01-09` [I’m the one they’re talking bout 🎪🐇](https://www.youtube.com/shorts/AmdGFFql49w) _The Circus_
@@ -208,7 +208,7 @@ status: draft
 - `2025-11-07` [Sir Lucius is both classy and snazzy 🖤](https://www.youtube.com/shorts/hjnLJFSsVrw) _Lucius_
 - `2025-11-01` [“not your homie” offical is one take. no edit. sir lucius says you’re all welcome for this masterpiece.](https://www.youtube.com/shorts/mTTRizXC2AI) _Lucius_
 - `2025-10-31` [“not your homie” is . sir lucius says you're all welcome.](https://www.youtube.com/shorts/v0n9bXC6QX4) _Lucius_
-- `2025-10-13` [🦇🖤 sir lucius on your timeline telling you what to wear and what to like and how to be. 🖤](https://www.youtube.com/shorts/sljzclx4Jm8) _Lucius_
+- `2025-10-13` [🦇🖤 sir lucius on your timeline telling you what to wear and what to like and how to be. 🖤](https://www.youtube.com/shorts/sljzclx4Jm8) _Lucius_ ✅  - Lucius replaces the system
 - `2025-10-10` [📼🪱/🧀🐀/🔲🔳/👁️📼 who’s gonna tell them about sir lucius?](https://www.youtube.com/shorts/Af9F-DIPnHA) _Lucius_
 - `2025-10-04` [sir lucius is highly collectible](https://www.youtube.com/shorts/0JY1tCUFsXw) _Lucius_
 - `2025-10-03` [what is sir lucius preparing?](https://www.youtube.com/shorts/5Qs2G7FMovE) _Lucius_
@@ -317,29 +317,29 @@ status: draft
 - `?` [origin story](https://www.youtube.com/shorts/tICZcF_0szw)
 - `?` [Which Halloween costume should I choose? 🐇](https://www.youtube.com/shorts/XLkby1EsIpA)
 - `?` [Grammy-award winning mixer Jeff Ellis Worldwide on how thinking is a trap when making music. 🪞](https://www.youtube.com/shorts/zcTUdXwh0XU)
-- `?` [The power of language and music](https://www.youtube.com/shorts/peZEkmJ77ws)
-- `2026-06-30` [you just love me for my lore](https://www.youtube.com/shorts/hrPUw3FCGF8)
-- `2026-06-29` [You don't make it out alive](https://www.youtube.com/shorts/6p1cKrL-Tgg)
+	- `?` [The power of language and music](https://www.youtube.com/shorts/peZEkmJ77ws) ✅  - I think a lot of what triggered me becoming an artist was feeling the lack of a way to communicate what was going on internally, inside...externally.  struggling to find words that could actually articulate the way that I was feeling.  but words paired with music  was a whole different thing and you could express yourself in a different way and connect with other people  in a different way. and I think music has a really powerful ability to connect poeple because of that.  if you take happy face and you say "hey put on a happy face and everything ok" but it's over happy music it means something totally different then when its over strange clown circus music. Its this emotion thats beyond words, and thats something that so powerful that we can do as artists. 
+- `2026-06-30` [you just love me for my lore](https://www.youtube.com/shorts/hrPUw3FCGF8) 
+- `2026-06-29` [You don't make it out alive](https://www.youtube.com/shorts/6p1cKrL-Tgg)✅  on welcome to the circus visualizer
 - `2026-06-22` [Let’s tear the roof off of my house](https://www.youtube.com/shorts/yYYlYNTcfEs)
-- `2026-06-17` [There is only now. Wya?](https://www.youtube.com/shorts/XUmOpkE3_Rs)
-- `2026-06-15` [This is our world](https://www.youtube.com/shorts/sNTNxOr9DIg)
+- `2026-06-17` [There is only now. Wya?](https://www.youtube.com/shorts/XUmOpkE3_Rs)✅  on the Underground Concert (Bounce)
+- `2026-06-15` [This is our world](https://www.youtube.com/shorts/sNTNxOr9DIg)✅ bounce in the Underground Live show
 - `2026-06-11` [Who’s coming to the next one?](https://www.youtube.com/shorts/5qjTUybOp0Y)
 - `2026-05-08` [Sometimes you’re early on the scene Sometimes your down in the dirt But you always rise 🐍](https://www.youtube.com/shorts/qLUsc_72l70)
-- `2026-04-28` [Bless millie bobby brown her character 11 was top 4](https://www.youtube.com/shorts/ZSUcQ0SG9uI)
+- `2026-04-28` [Bless millie bobby brown her character 11 was top 4](https://www.youtube.com/shorts/ZSUcQ0SG9uI)✅  - this is on the video for GttbH - there once was a girl who drank from the fountain...
 - `2026-04-27` [Everyone looks just like you](https://www.youtube.com/shorts/i1k8NRrsDQI)
-- `2026-04-07` [I’m the No. 1 champion in this town](https://www.youtube.com/shorts/0hIdgMjIHAk)
+- `2026-04-07` [I’m the No. 1 champion in this town](https://www.youtube.com/shorts/0hIdgMjIHAk) - ✅  plays trumpet along with opening to #1 champ
 - `2026-03-30` [You should know by now…](https://www.youtube.com/shorts/SyN472e4Gh8)
 - `2026-03-30` [let’s tear the roof off of my house](https://www.youtube.com/shorts/HhI0Ds8YMAM)
-- `2026-03-16` [When the old order breaks the new world begins](https://www.youtube.com/shorts/o0We4jEE-4M)
+- `2026-03-16` [When the old order breaks the new world begins](https://www.youtube.com/shorts/o0We4jEE-4M)✅  - Opening lyrics of banana "hy kids, do you ever wanna break shit"
 - `2026-03-14` [bounce with me](https://www.youtube.com/shorts/taKNTdDZMvI)
-- `2026-03-13` [Genesis 3](https://www.youtube.com/shorts/WNNdfSIP0Jg)
+- `2026-03-13` [Genesis 3](https://www.youtube.com/shorts/WNNdfSIP0Jg) ✅  Lucius lullaby - when the first human beings started walking...
 - `2026-03-09` [Let's get this party started now](https://www.youtube.com/shorts/2a_KmvJopEk)
 - `2026-03-06` [Life is short](https://www.youtube.com/shorts/3o5We3gdOSc)
 - `2026-03-05` [John Wick](https://www.youtube.com/shorts/Cf8w7gQ9bnQ)
 - `2026-03-02` [I am your father](https://www.youtube.com/shorts/H2fvgmYSTVs)
 - `2026-02-18` [The show must go on 🎪](https://www.youtube.com/shorts/0obXA9ppAFw)
 - `2026-02-10` [a conjunction of Saturn, Jupiter, and Mars in the sign of Aquarius corrupted the air](https://www.youtube.com/shorts/Btfd1_xShI8)
-- `2026-02-06` [you’re welcome 🎪](https://www.youtube.com/shorts/BP-IZdXATAY)
+- `2026-02-06` [you’re welcome 🎪](https://www.youtube.com/shorts/BP-IZdXATAY) ✅  Unseen woman hands lucius a phone - "Lucius, WttC is blowing up.  We need you to make a video thanking your fans for listening to it" Lucius - smoking. " well, I told you this would happen.  WttC is officially Jagwar twins highest performing song of all time.  So.  Your Welcome."
 - `2026-01-20` [ever met a bloodsucker with crocodile shoes?](https://www.youtube.com/shorts/OZlsID-SGBM)
 - `2025-12-23` [More live shows in 2026?](https://www.youtube.com/shorts/8mYfsrNZLRw)
 - `2025-12-18` [Out the park 🏟️](https://www.youtube.com/shorts/GAlfIOE1REc)
@@ -357,11 +357,11 @@ status: draft
 - `2025-10-28` [“not your homie” out on Halloween 10/31 🎃🐇](https://www.youtube.com/shorts/W-coaShE6O0)
 - `2025-10-24` [Send this to someone who’s not your homie 🥀](https://www.youtube.com/shorts/DYsR2gN4rmY)
 - `2025-10-22` [Comin in like a plague from the dark side 🥀](https://www.youtube.com/shorts/MmUQslUbFbo)
-- `2025-10-21` [Are NPCs real?](https://www.youtube.com/shorts/lsAQM_FuyCo)
-- `2025-10-20` [“The time has come to realize that supersensible knowledge has now to arise from the materialistic grave.”― Rudolf ](https://www.youtube.com/shorts/pM6lTMciQZQ)
+- `2025-10-21` [Are NPCs real?](https://www.youtube.com/shorts/lsAQM_FuyCo) ✅  - On NYH video
+- `2025-10-20` [“The time has come to realize that supersensible knowledge has now to arise from the materialistic grave.”― Rudolf ](https://www.youtube.com/shorts/pM6lTMciQZQ) - ✅ Happy Face video "tik tok ticking like a time bomb. lines.
 - `2025-10-08` [I’ll go first. Dr. Dre invited me to the studio. He said he loved my song and wanted to put drums on it. I said, “N](https://www.youtube.com/shorts/svbxFS0Tj34)
 - `2025-10-05` [Ashes ashes we all fall down 🥀](https://www.youtube.com/shorts/h3lnLPbEJwA)
-- `2025-09-15` [The world’s in flames 🐇](https://www.youtube.com/shorts/t8LjN-ZAPo8)
+- `2025-09-15` [The world’s in flames 🐇](https://www.youtube.com/shorts/t8LjN-ZAPo8) ✅  -interesting because he put this song over the footage that had been being used for loop
 - `2025-09-11` [Is it Happy Face season yet? 🎃👻](https://www.youtube.com/shorts/S5iPkjlmcZ4)
 - `2025-09-11` [Who’s looping?](https://www.youtube.com/shorts/QLIxPJS9RdY)
 - `2025-08-26` [Where my gemini twins at?](https://www.youtube.com/shorts/owp1sGzJsiE)
@@ -373,10 +373,10 @@ status: draft
 - `2025-08-22` [“Great Time To Be Human” !! Yeeaaaa](https://www.youtube.com/shorts/A3-bK-1pYhY)
 - `2025-08-22` [World's gone mad, let's start the show. Happy Face .](https://www.youtube.com/shorts/UVrcJ0g-d-4)
 - `2025-08-22` [BALLERINA BOY](https://www.youtube.com/shorts/inuqu6wpi3I)
-- `2025-08-08` [The tree would not fall into the flames ✞☠︎︎](https://www.youtube.com/shorts/qERdFH-qNHs)
-- `2025-08-07` [Roy's prayer was answered through a crack in the sky, and the fire still burned ✡︎ ☯︎ ︎](https://www.youtube.com/shorts/xLsnaMouE0o)
-- `2025-08-06` [In the mist of infinity, Roy's prayer was heard ✟](https://www.youtube.com/shorts/5E-0GLFtnks)
-- `2025-08-02` [The waters stirred, and the war began ♱ ☯︎ ︎](https://www.youtube.com/shorts/3cZQNp2AX2I)
+- `2025-08-08` [The tree would not fall into the flames ✞☠︎︎](https://www.youtube.com/shorts/qERdFH-qNHs) - ✅ on the loop visualizer
+- `2025-08-07` [Roy's prayer was answered through a crack in the sky, and the fire still burned ✡︎ ☯︎ ︎](https://www.youtube.com/shorts/xLsnaMouE0o) Loop visualizer - starts with huge explosion of fire behind him, coming towards him.  
+- `2025-08-06` [In the mist of infinity, Roy's prayer was heard ✟](https://www.youtube.com/shorts/5E-0GLFtnks) 0✅  See below
+- `2025-08-02` [The waters stirred, and the war began ♱ ☯︎ ︎](https://www.youtube.com/shorts/3cZQNp2AX2I)✅ see below
 - `2025-07-06` [thank you for allowing me a place to share my story. The full version of ballerina boy LA is out tomorrow](https://www.youtube.com/shorts/TnN_4uY8N9w)
 - `2025-07-03` [maybe I’ll drop](https://www.youtube.com/shorts/UBihSg1NFuk)
 - `2025-06-25` [Sharing these songs live is such a gift. Thank you for making this all possible](https://www.youtube.com/shorts/oRx7EUlCz4Q)
@@ -389,22 +389,22 @@ status: draft
 - `2025-06-12` [There's no one else out there like you](https://www.youtube.com/shorts/y2a0pmsM1nU)
 - `2025-06-11` [Friday is going to be wild](https://www.youtube.com/shorts/8VZDf9SE4tM)
 - `2025-06-10` [what makes a real boy☠︎ ✞](https://www.youtube.com/shorts/_wpbj6DOcRg)
-- `2025-06-09` [to the whispers from the future not the echos from the past. It’s you. BALLERINA BOY out June 13th](https://www.youtube.com/shorts/CbnCOWhX-Z4)
-- `2025-06-08` [What parts of yourself have you buried? No more walking with ghosts ☠︎ ✞](https://www.youtube.com/shorts/kfa4mcVVc0w)
+- `2025-06-09` [to the whispers from the future not the echos from the past. It’s you. BALLERINA BOY out June 13th](https://www.youtube.com/shorts/CbnCOWhX-Z4) ✅  ballerina boy and the writing "this is a reminder to love the person that you were as much as the person you are becoming."
+- `2025-06-08` [What parts of yourself have you buried? No more walking with ghosts ☠︎ ✞](https://www.youtube.com/shorts/kfa4mcVVc0w) - ✅ Ballerina Boy video with text: " I buried the part of me that felt the most alive. This is his story."
 - `2025-06-06` [One week 🩰](https://www.youtube.com/shorts/Snp9hS63v2s)
-- `2025-06-06` [The legend is me obviously](https://www.youtube.com/shorts/boJY6_j-S7Y)
+- `2025-06-06` [The legend is me obviously](https://www.youtube.com/shorts/boJY6_j-S7Y) - ✅ Ballerina Boy video - Text on video: they told him he wasn't a real boy. so he became a legend instead.
 - `2025-06-05` [Buried him inside ☠︎ BALLERINA BOY out June 13th](https://www.youtube.com/shorts/baR1549fffc)
 - `2025-06-04` [I did have a purple gym bag so in retrospect I was kinda asking for it](https://www.youtube.com/shorts/vJ34obi7BxU)
 - `2025-06-04` [MAGIK at the club in the 80s woulda been crazy](https://www.youtube.com/shorts/pdZcK8d0aTY)
-- `2025-06-03` [Pinocchio Jesus](https://www.youtube.com/shorts/VmgCD3i4A34)
+- `2025-06-03` [Pinocchio Jesus](https://www.youtube.com/shorts/VmgCD3i4A34) ✅  - Ballerina boy text says - "what makes a real boy"
 - `2025-05-31` [I also set my high schools long jump record for shortest long jump See you June 13th at The Echo in LA, get now bef](https://www.youtube.com/shorts/YVOtuX0SU6s)
-- `2025-05-30` [Anyone else a christian school kid?](https://www.youtube.com/shorts/jmE28-zNERs)
+- `2025-05-30` [Anyone else a christian school kid?](https://www.youtube.com/shorts/jmE28-zNERs) ✅  video says "The most dangerous thing you can be is yourself"
 - `2025-05-28` [Ballerina Boy June 13th](https://www.youtube.com/shorts/908APa4kRHk)
 - `2025-05-27` [Everything you do is MAGIK✨](https://www.youtube.com/shorts/MvoSH7CS-vg)
 - `2025-05-27` [You Oompa Loompas ready?](https://www.youtube.com/shorts/A5plLmooJVY)
 - `2025-05-23` [Anyone know this chord?](https://www.youtube.com/shorts/rMlV9IFZ9ug)
-- `2025-05-22` [Ok dog](https://www.youtube.com/shorts/NYwH6HooFAU)
-- `2025-05-18` [Promo](https://www.youtube.com/shorts/XrrNoo9GHHs)
+- `2025-05-22` [Ok dog](https://www.youtube.com/shorts/NYwH6HooFAU) ✅ - interviewer: are you more of a dog person as well? Roy: I'm more of like a human person.  
+- `2025-05-18` [Promo](https://www.youtube.com/shorts/XrrNoo9GHHs) ✅  Magik - text Music for the fans of Jesus, the Buddah, and Harrry Potter
 - `2025-05-16` [MAGIK IS EVERYWHERE NOW MAGIK IS EVERYWHERE NOW MAGIK IS EVERYWHERE NOW](https://www.youtube.com/shorts/B2AeXaUX548)
 - `2025-05-15` [Life without a YOU would be tragic ✨⚔️](https://www.youtube.com/shorts/hg210nvvUjY)
 - `2025-05-14` [2 days till MAGIK ✨](https://www.youtube.com/shorts/PQTkvC9nQ0Y)
@@ -413,25 +413,25 @@ status: draft
 - `2025-05-07` [Everybody needs you here 🌎✨](https://www.youtube.com/shorts/5gnXAUJ5nZg)
 - `2025-05-07` [May 16th✨](https://www.youtube.com/shorts/9FQWJfttznY)
 - `2025-04-16` [Live The Echo in LA. June 13th. 🐆❤️‍🔥⚔️](https://www.youtube.com/shorts/ypYscDfatqg)
-- `2025-04-15` [When’s the last time you watched Snow White tho?](https://www.youtube.com/shorts/oIoh-NUWZDo)
+- `2025-04-15` [When’s the last time you watched Snow White tho?](https://www.youtube.com/shorts/oIoh-NUWZDo) ✅  Interview video Roy: "Jagwar Twin, the whole thing is an exploration of light and dark. Carl Jung also has this quote" The taller the building, the greater the shadow. And so its like your capacity to hold truth, to hold light...if like you're a tall building, you're gonna have a deep shadow.  Everything with Jagwar Twin has this dual element. Its both and how they play together. Because that so much of my exploration as a human. Because the jaguar is the creature in myan mythology who goes into the dark places and knows that its powerful enough to then come out and bring other with him"
 - `2025-04-06` [Whole lifes been a series of SideQuests ❤️‍🔥⚔️](https://www.youtube.com/shorts/P0CJukMN4uU)
 - `2025-04-03` [ADD isn’t real ⚔️](https://www.youtube.com/shorts/UUTaV2804jA)
 - `2025-03-28` [⚡️SideQuest ⚡️ is ❤️‍🔥⚔️ Every SideQuest leads us somewhere. I am grateful for the journey and grateful for everyon](https://www.youtube.com/shorts/wn63PvO-k3E)
 - `2025-03-27` [SideQuest out tonight at midnight ❤️‍🔥⚔️⚡️](https://www.youtube.com/shorts/RhutJGMTa8w)
-- `2025-03-25` [Shoutout to the council of Balder ⚡️](https://www.youtube.com/shorts/9t42QPfM_bY)
+- `2025-03-25` [Shoutout to the council of Balder ⚡️](https://www.youtube.com/shorts/9t42QPfM_bY) ✅  just flagging this because I don't remember if we have looked into balder's gate and what signifigance it might have
 - `2025-03-24` [The SideQuest begins Friday ❤️‍🔥⚔️](https://www.youtube.com/shorts/sC9DozkFZiI)
 - `2025-03-21` [1 week until we begin the SideQuest ⚔️❤️‍🔥](https://www.youtube.com/shorts/AoTOB_L8COs)
-- `2025-03-20` [I'm a Gemini, but I identify as a Libra](https://www.youtube.com/shorts/NmzXh0yQy9A)
+- `2025-03-20` [I'm a Gemini, but I identify as a Libra](https://www.youtube.com/shorts/NmzXh0yQy9A) ✅ nothing black and white except for you cuz your a zebra
 - `2025-03-20` [Dumbledore, but it’s a love song 🧙🏼‍♂️ Acoustic video](https://www.youtube.com/shorts/byv_rFwa-ZE)
 - `2025-03-19` [goss](https://www.youtube.com/shorts/Tug164GghwU)
 - `2025-03-19` [You're nobody's sidequest ❤️‍🔥⚔️](https://www.youtube.com/shorts/_7ZB5HQ4pQo)
 - `2025-03-18` [I never put anyone else above you ⚔️ SideQuest 3/28](https://www.youtube.com/shorts/GFI874udM2A)
 - `2025-03-15` [SideQuest 3/28. Who’s coming with me? ⚔️](https://www.youtube.com/shorts/FCRikqdcCoY)
 - `2025-03-07` [I miss tour. It’s been amazing creating but I can’t wait to be back with you ❤️‍🔥⚔️](https://www.youtube.com/shorts/F-RlpX49SOM)
-- `2025-03-02` [Every thought you think, every word you speak, is a spell you cast. You are magik.](https://www.youtube.com/shorts/XjAimUp2xdM)
+- `2025-03-02` [Every thought you think, every word you speak, is a spell you cast. You are magik.](https://www.youtube.com/shorts/XjAimUp2xdM) 
 - `2025-02-28` [Consensually of course - 🧙🏼‍♂️ ⚔️](https://www.youtube.com/shorts/PeCecIAIuYQ)
-- `2025-02-25` ["Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?" - dumbl](https://www.youtube.com/shorts/z8sdv9xgKTg)
-- `2025-02-21` [It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never qui](https://www.youtube.com/shorts/6FYRse0dCaI)
+- `2025-02-25` ["Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?" - dumbl](https://www.youtube.com/shorts/z8sdv9xgKTg)✅ 
+- `2025-02-21` [It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.⚔️  ✅ 
 - `2025-02-20` [Got my mouth full of moonstones. My leo moon says hi. 🌙🧙🏻‍♂️🏰](https://www.youtube.com/shorts/Dkv9eRxceuc)
 - `2025-02-19` [Never too OTT. Bring down the lightning mfkkinnngg Zuess ⚡️🧙🏻‍♂️](https://www.youtube.com/shorts/Ks5Z6tkxqzY)
 - `2025-02-19` [Dude. AI is rad. 🪄 Which wizard did you get? 🧙🏼‍♂️](https://www.youtube.com/shorts/KjRJnZgEfuw)
@@ -467,6 +467,11 @@ status: draft
 - [Jagwar Twin: Before the Flood - Chapter 2](https://www.youtube.com/watch?v=XNj4S5MOKAU)
 - [Jagwar Twin: Before the Flood - Chapter 1](https://www.youtube.com/watch?v=JbTJnqt9gY8)
 
+These go together:
+ [The tree would not fall into the flames ✞☠
+ [Roy's prayer was answered through a crack in the sky, and the fire still burned ✡︎ ☯︎ ︎](https://www.youtube.com/shorts/xLsnaMouE0o) 
+ [In the mist of infinity, Roy's prayer was heard ✟](https://www.youtube.com/shorts/5E-0GLFtnks)  - The "not roy guy" appears in this one
+ [The waters stirred, and the war began ♱ ☯︎ ︎](https://www.youtube.com/shorts/3cZQNp2AX2I) - shows the magician card
 ## DROP (204), not listed individually
 Promo drops, song-title announcements, tour/stream links, bare emoji. Examples: "lucius lullaby (live underground) "; "#onthisday"; "It  cant be stopped. “lucius lulla"; "“lucius lullaby” out 3/27"; "Bounce"; "welcome to the circus 🎪"
 
