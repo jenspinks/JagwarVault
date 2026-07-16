@@ -5,6 +5,8 @@ status: draft
 ---
 # YouTube + TikTok Caption Triage - Phase 2 master eval set (2026-07-15)
 
+> [!done] **EVALUATED 2026-07-16.** The full-brain evaluation ran (224 items, 507 findings verified: 439 confirmed / 66 adjusted / 2 killed). Results: [[Caption Codex - Phase 2 Evaluation (2026-07-16)]] (the picture + character dossiers) · [[Caption Codex - Fold Plan (2026-07-16)]] (per-page approval bullets, NOTHING folded yet) · [[Caption Codex - Verified Findings Ledger (2026-07-16)]] (all 505 kept findings).
+
 *The full "to evaluate" set. Nothing analyzed yet. Scope (Jen 2026-07-15): **all** of the below, not just the ✅ items. Roy's captions/notes are verbatim; prose is mine.*
 
 | tier | n | status |
