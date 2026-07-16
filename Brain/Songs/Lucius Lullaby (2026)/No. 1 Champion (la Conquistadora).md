@@ -56,7 +56,7 @@ Type: Song · [[Lucius Lullaby (album)]], **track 8**. Writers **Cici Ward, Roy 
 - [x] ~~Is *"If you don't know 'bout me"* also Mary's?~~ **RESOLVED 2026-06-15:** yes; *"me"* = Mary `[W]`, her under-recognized presence (inverts his *"know 'bout me"*).
 - [~] *"Mopping up the flora, fawning over no man"* — transcription confirmed (Apple-verified, Jen 2026-06-08); open only at meaning: flowers/field vs. a name. Don't over-resolve.
 - [?] The **gun** — judgment, self-defense, or revolution? Lean sovereignty/revolution [W] (*"fawning over no man… such a revolutionary"*).
-- [?] The "champion" — Lucius, the generic ego, or Roy-in-ego-mode? (EP7: Lucius claims it.)
+- [x] ~~The "champion" — Lucius, the generic ego, or Roy-in-ego-mode?~~ **RESOLVED 2026-07-16 (Jen relay): Lucius sings it.** `[G via relay]` The row stood open because the song never names its speaker and the only in-work tie was Lucius's own EP7 claim — and his claims are unreliable (in EP1 he also claims *Happy Face* / *Bad Feeling*, which predate his billing). Jen's audio determination settles it. **The trap-read firms:** he claims the anthem **and** sings the verses that execute him — while the chorus, incl. the title line he takes, is **hers** `[G]`. Feeds [[Brain/Media/Mary in the Visualizers (WttC + No 1 Champion)]] §leak thesis.
 - [~] Magdalene vs Queen-of-Heaven vs Conquistadora — which register dominates, or is the **collision** (gutter + crown + gun) the point?
 
 ## Counterarguments / Alternate Reads

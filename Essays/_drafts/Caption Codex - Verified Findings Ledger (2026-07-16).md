@@ -6,6 +6,9 @@ status: draft
 
 *All 505 findings kept after adversarial verification (of 507; 66 tier-adjusted, 2 killed). Tier shown = post-verification corrected tier. HIGH findings carry full anchors + verifier notes; MEDIUM/LOW are compact. Machine-readable original: session scratchpad `verified_ledger.json`.*
 
+> [!warning] **STALE IN PLACES — see the corrections banner on [[Caption Codex - Phase 2 Evaluation (2026-07-16)]] §SUPERSEDED.**
+> Generated before the verification gate was worked. Known: (1) the Mary/El Roi finding is **no longer a `[?]` watch-note** — frame-verified `[G]`, and the real finding is the **throat→heart / word→organ relocation** ([[Brain/Media/Mary in the Visualizers (WttC + No 1 Champion)]]); (2) "30-day continuous authored narrative" is **overstated** — write "a month-long serialized run with date gaps"; (3) six gate items are now **cleared** with full captions (green apple 08-21, rose 08-17, Gurdjieff 10-19, GO DUMB 02-13, Bailey 02-26, goat→#bananas); (4) the **#1 Champion singer is resolved: Lucius**; (5) new: the **08-14 "dance of Darkness and Light"** caption.
+
 ## HIGH (164)
 
 ### [W] The Aug-2025 war captions are a dated creation-myth; the worklist pins the entire lore spine

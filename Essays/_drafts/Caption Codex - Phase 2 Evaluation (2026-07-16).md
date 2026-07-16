@@ -14,6 +14,33 @@ status: draft
 
 ---
 
+## ⚠ SUPERSEDED / UPDATED SINCE GENERATION (2026-07-16, later same day)
+*Generated before the verification gate was worked. Where this section and the body disagree, **this section wins.***
+
+**Gate cleared — full captions pulled `[G]`:**
+- **Green apple, 2025-08-21** (`Vod9hEbEEzA`), full text pinned: the esoteric-symbolism list (knowledge unearned · misuse of the mind · intelligence divorced from spirit · power access before spiritual maturity · unripe fruit) closing on *"No wonder why Sir Lucius is always holding one."* **Discharges the standing debt at [[Sir Lucius]] §"Only tells the truth…"** ("pin that post before treating the decode as verbatim-grounded").
+- **Rose gloss, 2025-08-17** (`V-_r52eo0xU`), *inside* the war run: the rose as *"the heart revealed, the union of opposites, light and dark… the truth hidden in the center of the self,"* attached to the Roy-vs-Lucius question + "LOOP out on 8/29."
+- **Gurdjieff two-struggles, 2025-10-19** (`35Z-311Ijl4`) — named on-card; closes the `[?/likely]` flag. Inner-world/Outer-world struggle → intentional contact → *"crystallize data for the Third World, the World of the Soul."*
+- **GO DUMB, 2025-02-13** (`CgjnhxxP70Y`) — the prison card is signed *"— Gurdjieff aka **GO DUMB**"* beside *"Dumbledore comes out on 2/28."* **Roy nicknames Gurdjieff "GO DUMB" and puns it into the song title** `[G]`. Unblocks DUM-5.
+- **Bailey back-dated, 2025-02-26** (`0A8OAyJYvSs`) — named on-card, *"a loyal servant of The Realm 🐂🌕⚔️"*, two days before dumbledore shipped; her public floor moves back ~11 months (RVI-6).
+- **Goat→Bananas, 2026-04-15** (`ZaeMbndt78U`) — Roy's own hashtag is `#bananas`; grounds the placement without the host video (BAN-2).
+- **"tooting my horn"** dates to **2023-12-13** (`m8faNjf1_iU`).
+
+**Corrections to body claims:**
+- **"30-day continuous authored narrative" → overstated.** Write **"a month-long serialized run with date gaps"** (no eval-set posts 08-09/10, 16-17, 19, 22-25) plus the posting-order tension. The verifier flagged it; the Ledger text still carries the inflated phrase.
+- **Mary / El Roi is no longer a `[?]` watch-note — frame-verified `[G]`,** and the finding is **larger than "same mark, two bearers."** Verified: **WttC** = his face paint **+ El Roi Hebrew on her throat**, no heart-emblem; **#1 Champion** = no paint, **no throat-mark**, **sacred heart with an open eye** on her chest. **The eye relocates throat → heart and changes category word → organ.** Node: [[Brain/Media/Mary in the Visualizers (WttC + No 1 Champion)]]; record: [[Sources/Reference/WttC and No1 Champion visualizers - Mary staging (Jen viewing notes 2026-07-16)]]. **Gate item #1 closed.**
+- **#1 Champion singer resolved: Lucius** (Jen relay, 2026-07-16). Closes that page's `[?]`.
+
+**New finding from the gate pass — the war is only half the doctrine `[G caption]`:**
+- **2025-08-14** (`RU5CYRkiMIM`) names the light/dark relation a ***dance***, *"inside the constraints of the LOOP,"* **in the same caption that states the serve-doctrine** ("My mind must serve my heart"). So **"war" is the *experience* of divided consciousness; "dance" is the deeper relation of the polarities** `[W]` — and it runs *inside* the loop's constraints, not outside. Guards the faction framing (🤍/🖤 teams) against hardening into enemies-with-a-victor; coheres with K8 (ordering, not elimination) and the three-registers rule.
+
+**Dated order corroborates the accumulation doctrine `[W]`:** **08-01 division → 08-02 waters/war → 08-03 fire + "distorted reflection" → 08-04 "a shadow awoke. And the shadow was Sir Lucius."** Conflict and distortion **precede the naming**. **Lucius emerges from an already-disordered condition; he does not initiate the primordial disturbance** — public corroboration for *"Nothing is evil in the beginning"* `[G]` and the Dweller-accumulates doctrine.
+
+**Method caution adopted:** *"the caption layer is the reliable narrator"* is **too absolute**. Correct form: **the caption layer often acts as a corrective/instructional counter-channel to the theatrical layer, but speaker and placement must be evaluated post by post** (the account also carries Lucius-voiced cards, promo, irony, game mechanics). The doubleness already noted for *"You are the center of the circus"* (cure **and** flattery) is the methodology, not an exception.
+- Related discipline: the **scripture-casting model** stays **pattern-level** except where placement is *direct*. Genuinely direct: **Genesis 3** self-pinned to the LL video; **Amos 3:6** on release night. **Matthew 12:34 is NOT** a direct-placement case — the worklist records the card and Jen's triage tag only; its host video is unrecorded. Do not cite it as placed.
+
+---
+
 # The Overarching Picture: The Caption Corpus as Roy's Second Text
 
 ## Thesis
