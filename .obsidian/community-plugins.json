@@ -10,5 +10,6 @@
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "remotely-save",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-local-rest-api"
 ]
