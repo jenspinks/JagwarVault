@@ -6,6 +6,9 @@
 .obsidian/cache/
 .obsidian/plugins/*/data.json
 
+# Machine-local plugin state — differs per machine, would churn between the two Macs
+.claudian/
+
 # Machine-local Obsidian UI state — re-dirties the tree on every launch
 .obsidian/graph.json
 .obsidian/backlink.json
