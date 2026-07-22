@@ -11,7 +11,7 @@ purpose: "Findings born in a LIVE chat session, queued for a single batched fold
 ## Convention
 
 1. **Append only.** Add rows at the end of the table. **Never edit, renumber, or reflow another session's rows.**
-2. **Row IDs are dated, not sequential** (`YYYYMMDD-n`), so two sessions cannot collide on numbering.
+2. **Row IDs are `YYYYMMDD-<first 4 chars of session id>-n`** (e.g. `20260721-38cc-1`), never a running integer. Date alone is not enough: two sessions on the same day would both start at `-1`. *(The seed rows `20260721-1…7` predate this rule and are grandfathered; do not renumber them.)*
 3. **One body file per session**, at `Essays/_drafts/fold-inbox/YYYY-MM-DD <topic> (session <id>).md`. Unique by construction, so no two sessions ever write the same prose file. The table holds one line; the body holds the argument.
 4. **Dedupe-checked is required.** Name what you grepped this against (the Codex ledgers, the other fold trackers, the target page itself). **An empty cell blocks the fold.** Recurrence is the cheapest evidence and re-derivation is the cheapest error.
 5. **Name the vault.** SOURCE / PUBLIC / BOTH. Cross-vault confusion has already produced one phantom-sweep scare.
