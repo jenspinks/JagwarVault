@@ -199,7 +199,7 @@ as pageless (warning, not error). Promote to a section above when a page is writ
 | `CONCEPT-SleepWakeUp` | Sleep / Wake Up | mechanical sleep vs. awakening; pending |
 | `CHAR-BallerinaBoy` | Ballerina Boy | buried child self; referenced, no page yet |
 | `CHAR-Leif` | Leif | Lucius sidekick mode; pending |
-| `CHAR-TheBoss` | "Boss" (= Lucius) / BMRC | NOT a separate figure: "Boss" is Leif's name for Lucius; Lucius acknowledges no power above him. The real higher power is the champion (Mary/Roy) he denies. BMRC = his own corp, the Black Magic Rainbow Circus (site-metadata capture) |
+| `CHAR-TheBoss` | "Boss" (= Lucius) / BMRC | NOT a separate figure: "Boss" is Leif's name for Lucius; no chain of command above him. *(The "acknowledges no power above him" doctrine was retired 2026-07-16, argument from silence; his domain reads as bounded, the material plane, not the cosmos.)* The real higher power is the champion (Mary/Roy) he denies. BMRC = his own corp, the Black Magic Rainbow Circus (site-metadata capture) |
 
 ---
 

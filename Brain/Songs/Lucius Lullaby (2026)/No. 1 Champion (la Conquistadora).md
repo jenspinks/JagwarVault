@@ -11,7 +11,7 @@ connections:
   grounded:    [CHAR-Mary, ALBUM-LuciusLullaby, CHAR-SirLucius]
   strong_read: [SONG-Weirdness, SONG-BALLERINABOY, CONCEPT-WitnessingVsSurveillance, CHAR-Roy]
   resonance:   [CONCEPT-TheMoon]
-referenced_by: [CHAR-Mary, CONCEPT-TheLaborsOfHercules, SONG-NotYourHomie]
+referenced_by: [CHAR-Mary, CONCEPT-TheLaborsOfHercules, MEDIA-MaryVisualizers, SONG-NotYourHomie]
 dominant_pole: mixed
 transformation_phase: nigredo
 recursion_state: loop

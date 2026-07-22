@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius]
   strong_read: [CONCEPT-MachineVsHuman, CONCEPT-TheAudience, CONCEPT-TheSpectacle, CONCEPT-TheAlgorithm, CONCEPT-TheAquarium, SONG-NotYourHomie, SONG-Online]
   resonance:   [CONCEPT-Yesod, CONCEPT-Tiferet, CHAR-Mary]
-referenced_by: [CONCEPT-FlattenedIdentity, CONCEPT-MachineVsHuman, CONCEPT-SourceVsReflection, CONCEPT-TheDigitalDouble, CONCEPT-TheJaguar, CONCEPT-TheSpeakerProblem, CONCEPT-TheTwoBirds, CONCEPT-TheUpload, MEDIA-ThirdEyeWatcher, SONG-1ChampionLaConquistadora, SONG-AllMyFriends, SONG-GoodTime108, SONG-Online, SONG-SuperhumanInterlude, SONG-TheWatchers]
+referenced_by: [CONCEPT-FlattenedIdentity, CONCEPT-MachineVsHuman, CONCEPT-SourceVsReflection, CONCEPT-TheDigitalDouble, CONCEPT-TheJaguar, CONCEPT-TheSpeakerProblem, CONCEPT-TheTwoBirds, CONCEPT-TheUpload, MEDIA-MaryVisualizers, MEDIA-ThirdEyeWatcher, SONG-1ChampionLaConquistadora, SONG-AllMyFriends, SONG-GoodTime108, SONG-Online, SONG-SuperhumanInterlude, SONG-TheWatchers]
 review_date: 2026-11-16
 ---
 # Witnessing vs Surveillance

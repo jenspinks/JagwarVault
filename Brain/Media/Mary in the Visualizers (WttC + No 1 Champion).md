@@ -17,6 +17,7 @@ connections:
   strong_read: [CONCEPT-WitnessingVsSurveillance, CONCEPT-SourceVsReflection, CONCEPT-Inversion, CONCEPT-TheCircus, CONCEPT-TheMask, CONCEPT-FlattenedIdentity, CONCEPT-TheAudience, SONG-SOL, SONG-Weirdness]
   resonance:   [CONCEPT-Malkhut, CONCEPT-TheMoon, CONCEPT-Gnosticism]
 review_date: 2027-01-16
+referenced_by: []
 ---
 # Mary in the Visualizers (WttC + No. 1 Champion)
 

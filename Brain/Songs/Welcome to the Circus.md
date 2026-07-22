@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, CHAR-Roy, CONCEPT-TheCircus]
   strong_read: [CONCEPT-Inversion, CONCEPT-TheLabyrinth, CONCEPT-TheThread, CONCEPT-TheMouth, CONCEPT-Consumption, CONCEPT-TheMask, CONCEPT-TheAudience, SONG-LuciusLullaby, SONG-TheCircleLuciusVersion, CONCEPT-TheLaborsOfHercules]
   resonance:   [CONCEPT-TheAquarium, CONCEPT-TheSpectacle, CHAR-BallerinaBoy, SONG-TheCircle, SONG-NotYourHomie]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-SirLucius, CONCEPT-Consumption, CONCEPT-Duality, CONCEPT-Fire, CONCEPT-Inversion, CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAquarium, CONCEPT-TheAudience, CONCEPT-TheBanana, CONCEPT-TheCircus, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLabyrinth, CONCEPT-TheLightBearer, CONCEPT-TheManifestoCards, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-TheRealm, CONCEPT-TheSpectacle, CONCEPT-TheThread, CONCEPT-TheVeil, CONCEPT-TheVoice, CONCEPT-TheWheel, SONG-BadFeelingOompaLoompa, SONG-Bananas, SONG-DreamDream, SONG-GoodDay, SONG-GoodTime108, SONG-HellOfANightPt2TheHallelujahStickup, SONG-ILikeToParty, SONG-LifeIsGood, SONG-LongTimeComing, SONG-Loser, SONG-NotYourHomie, SONG-Online, SONG-PayAttentionFeatLittleLuna, SONG-TheCircle]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-SirLucius, CONCEPT-Consumption, CONCEPT-Duality, CONCEPT-Fire, CONCEPT-Inversion, CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAquarium, CONCEPT-TheAudience, CONCEPT-TheBanana, CONCEPT-TheCircus, CONCEPT-TheLaborsOfHercules, CONCEPT-TheLabyrinth, CONCEPT-TheLightBearer, CONCEPT-TheManifestoCards, CONCEPT-TheMask, CONCEPT-TheMouth, CONCEPT-TheRealm, CONCEPT-TheSpectacle, CONCEPT-TheThread, CONCEPT-TheVeil, CONCEPT-TheVoice, CONCEPT-TheWheel, MEDIA-MaryVisualizers, SONG-BadFeelingOompaLoompa, SONG-Bananas, SONG-DreamDream, SONG-GoodDay, SONG-GoodTime108, SONG-HellOfANightPt2TheHallelujahStickup, SONG-ILikeToParty, SONG-LifeIsGood, SONG-LongTimeComing, SONG-Loser, SONG-NotYourHomie, SONG-Online, SONG-PayAttentionFeatLittleLuna, SONG-TheCircle]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop
@@ -64,7 +64,7 @@ EP3 (visual lore, public): Roy proposes a Song of Love; Lucius overrides, cites 
 
 ## Open Questions
 - [ ] Lucius protecting Roy, or training him to rule the Circus?
-- [ ] Is Lucius's rebellion his own, or unwitting assignment to the pattern he inverted? ("Boss" is Leif's term for Lucius; Lucius answers to no one he acknowledges. CHAR-TheBoss)
+- [ ] Is Lucius's rebellion his own, or unwitting assignment to the pattern he inverted? ("Boss" is Leif's term for Lucius, and no chain of command sits above him; his sovereignty reads as bounded to the material plane `[P]`, the "answers to no one he acknowledges" doctrine having been retired 2026-07-16. CHAR-TheBoss)
 - [ ] Why can Lucius not metabolize SOL?
 - [ ] Is the missing exit a description or Lucius's withheld strategy?
 - [ ] Where is [[Essays/Concepts/Songs/Ballerina Boy]]? The song's structural silence about him may be the song's most important feature.
