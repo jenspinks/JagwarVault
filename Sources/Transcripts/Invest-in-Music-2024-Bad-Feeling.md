@@ -26,7 +26,7 @@ Host (Coop), lead-in: "…the depth, right? You could say like, go listen to The
 
 Roy: "Yeah, like a song like The Circle, it didn't commercially perform, but that song will be around for as long as streaming services or in whatever form, that song is an important song. And I still think that's Jagwar Twin's biggest song. Like on the record, I think The Circle is and will be Jagwar Twin's biggest song. I don't know when the time is, I don't know if I'll be alive for that. But I really believe that. And similar with the hall of mirrors. It think in some ways it was…it is complex. Its very complex…"
 
-**Status: [G], human-verified audio.** Roy names The Circle twice, says "on the record" himself, and the mortality clause ("I don't know if I'll be alive for that") is verbatim. This supersedes the reply-target ambiguity of the 2025-04-26 Discord fragment ("I have a feeling it will be Jagwars biggest song when it finds its time"), which now reads as a later restatement of the same position.
+**Status: [G], human-verified audio, machine-corroborated.** Roy names The Circle twice, says "on the record" himself, and the mortality clause ("I don't know if I'll be alive for that") is verbatim. This supersedes the reply-target ambiguity of the 2025-04-26 Discord fragment ("I have a feeling it will be Jagwars biggest song when it finds its time"), which now reads as a later restatement of the same position. **Update 2026-07-23:** the whisper-1 complete re-transcription independently captured this full passage, matching Jen's ear-verification, confirming the earlier gap was a gpt-4o span-drop, not audio ambiguity.
 
 ---
 
@@ -38,7 +38,7 @@ Roy: "Yeah, like a song like The Circle, it didn't commercially perform, but tha
 
 **The persona stack as detachment:** Roy explains the layering (Brandon, then Roy as his middle name, "then another layer of detachment, Jagwar Twin") as a deliberate detachment mechanism.
 
-**Closing line:** "Oh, the circle will grow from the inside of the inside of the circle."
+**Closing line, corrected 2026-07-23:** whisper-1 reads the interview's closer as a SUNG outro line (The Circle playing over the sign-off), not spoken Roy. The growth law's grounding is therefore the lyric itself (Sources/Lyrics: "The circle will grow / From the inside of the inside"), not this interview. Held [?] as a spoken-Roy attribution.
 
 **Speaker caution:** the host (Coop) does heavy interpretive framing throughout (hero's journey, "you made it happen, you alone," the "go listen to The Circle" recommendation itself). Roy repeatedly lets framings pass with a short "Yeah" or redirects; letting a framing pass is not confirmation. The "send them to The Circle" recommendation is the host's, not Roy's.
 
