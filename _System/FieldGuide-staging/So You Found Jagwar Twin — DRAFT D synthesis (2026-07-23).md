@@ -21,9 +21,9 @@ Jagwar Twin is the project of Roy English: singer, songwriter, mirror holder, co
 
 But underneath, the songs seem to tell one long and familiar story. The whole thing is a Trojan horse: steak to hide the meds, a fairy tale to hide the philosophy.
 
-Start with the name on the door, because it gives the game away. Roy has told the story, in some form, for years (the order changes with the telling): the jaguar is the creature who looks into its own dark places and, in turn, can see into the souls of other people. Humans are mirrors for each other. The jaguar walks into the dark and comes back out, pulling others into the light with him. And the Twin? Roy names it flat out: the dark and the light. The name was the spoiler all along.
+Start with the name on the door, because it gives the game away. Roy has been telling the story for years, never quite the same way twice: the jaguar is the creature that can look into its own dark places and into the souls of other people, and each kind of seeing teaches the other. Humans are mirrors for each other. The jaguar walks into the dark and comes back out, pulling others into the light with him. And the Twin? Roy names it flat out: the dark and the light. The name was the spoiler all along.
 
-And fair warning: this is not finally a story about a man with excellent cheekbones and a complicated relationship with apples. The mirror points out. The songs keep asking which of your own voices are true, which masks helped you survive, and whether you still know the way home.
+Fair warning, though. This looks like a story about a man with excellent cheekbones and a complicated relationship with apples. It is not, or not only. It is a mirror, and it is pointed at you. Stay long enough and the songs start asking their questions in your direction: which of your voices are true, which masks helped you survive, whether you still know the way home.
 
 
 There is Roy, the heart of the project. And there is Sir Lucius, <img src="https://plumcreekranch.com/jagwar/lucius_apple.png" style="float: left; width: 120px; margin-right: 16px; margin-bottom: 8px;">the sharp voice in the white face paint, the green apple, the cigarette, the grin that knows exactly where to poke the wound. 
