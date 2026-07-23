@@ -593,3 +593,59 @@ Second, apply the P0 evidence correction across `Duality`, `Sir Lucius`, `The Pr
 Third, fold the core authorial explanations into `The Jaguar`, the Hall/mirror cluster, `Roy on Influences`, and the Field Guide. Only after that should the song-specific details and lower-priority biography be distributed. This keeps the project from gaining more facts before it gains a clearer spine.
 
 Finally, audition the non-text audio queue, beginning with *Western Woods*. That is a separate research pass, not an appendix to transcript mining. Until the files have been heard, the honest result is that the recordings exist, their metadata is known, and their contents remain unanalyzed.
+
+
+---
+
+# Reviewer's analysis, canon-state verification (Claude, 2026-07-23)
+
+**Same review tier as the rest of this page. Nothing below is folded.** This is an added pass, not a rewrite of the staging above. Its one job is the check the hard gate demands: I pulled the *live* brain and public-vault pages each fold packet targets, rather than trusting the page's description of what canon currently says. The finding is asymmetric, and worth stating plainly up front.
+
+**The logistics half of this audit is the real yield; the interpretive-correction half needs re-tiering.** The source-authority work (v2 as the coverage authority, the missing 22 recordings, the unsupported "68-file" claim), the audio-never-auditioned queue, and the stale-registry findings are all sound, and they are things no amount of canon-reading can dissolve, because they are facts about the corpus and the trackers, not readings. But several of the P0/P1 *interpretive* packets describe a canon state that predates the pages as they now stand. This is the page's own §"Stale trackers" lesson (*"multiple items are already live through other routes"*) turned back on its own priority map. Receipts follow.
+
+## A. Re-tier Packet 1 and Canonical Correction #1: already folded, from P0 CORRECTION to P2 CORROBORATIVE
+
+The premise that "Duality's *not integration* guard is too absolute" does not hold against the live page. Current [[Brain/Concepts/Duality.md]] opens on *"not the elimination of that split but its correct ordering,"* and the only thing it guards against is *"synthesis that **erases** difference,"* which is exactly the guard this staging page itself says to preserve. It is already integration-friendly.
+
+The Lucius side is more thoroughly grounded still. Current [[Brain/Characters/Sir Lucius]] §Grounding already carries, at `[G]`:
+- *"we need to see his shadow and then say these thoughts are not my own. becuase what we fight we become"* ([Discord 2024-11-15](https://discord.com/channels/705391219915882516/709750776284708955/1307129793468305429)), captioned in-page as **"Integration = dis-identify, not defeat."**
+- the **Dion Fortune** shadow thesis, *"the shadow is not evil… power unrecognized,"* glossed on-page as *"the work is **integration, not elimination**."*
+- *"My mind must serve my heart"* `[G]`, via the dated LOOP posts.
+
+And the *"acknowledges no higher power"* clause that Correction #1 implicitly leans against was **already retired 2026-07-16** and is now handled on the page. So the "false opposition in the current ontology" the packet sets out to resolve is one the ontology already resolved.
+
+**What genuinely survives, and it is worth keeping:** the exact 2025-08-16 line is a fresh, verbatim, not-yet-folded witness, *"its really our shadow. and then learning how to love that part and interatge it with the whole to serve our highest calling"* ([Discord, msg 1406085653976060039](https://discord.com/channels/705391219915882516/709750776284708955/1406085653976060039)). It is a *different* message from the *"true-but-soul-killing"* quote already folded from the same night (msg [1406084272279781519](https://discord.com/channels/705391219915882516/709750776284708955/1406084272279781519)). Route it as **one more `[G]` witness** on the already-grounded integration register in [[Brain/Characters/Sir Lucius]] and [[Brain/Concepts/Duality.md]], not as a correction to an absent one. Quote-hygiene note: the source spells it **"interatge"**; preserve `[sic]` or normalize silently, but do not invent a clean "integrate" in quotation marks.
+
+## B. Withdraw Canonical Correction #2's specific claim; keep only its caution
+
+Correction #2 says the public claim that *"the catalogue never goes to defeat"* is "factually too broad," citing the 2024 STOP SIR LUCIUS campaign. That reads the public sentence as *"Roy never uses defeat imagery."* It does not say that. Public [[Concepts/Duality]]'s "counterfeit resolutions" drawer names the **resolution**: *"amputation: kill the mind, defeat the shadow, end the split. The catalogue never goes there."* The claim is that the work never **resolves** by amputation, which is true and is the core doctrine. The 2024 defeat campaign does not falsify it. The vault already metabolizes that campaign as *part of the trap*: public [[Concepts/Gnosticism - The World as Trap|Gnosticism]], *"'defeat the boss to reach the exit' is the ringmaster's own sales pitch, part of the trap, not the way out of it";* public [[Concepts/The Dweller on the Threshold|Dweller]], *"The public STOP SIR LUCIUS flyer-and-banner campaign fails."*
+
+So the two registers the packet says "coexist" are already both held, under a **sharper** frame than "two dated registers": the defeat-campaign is Lucius's own doomed sales pitch, not a rival thesis to integration. What is worth keeping from Correction #2 is only its *caution* against declaring the arc complete, and that caution is already canon: public [[Source & Structure/Open Questions]] asks *"Has the integration actually happened, or is the album the question, not the answer?"* and public [[Concepts/The Protector]] states *"Nothing in the released work delivers a completed integration."* The staging page and the vault already agree; there is nothing to correct.
+
+## C. Packet 3 under-credits the Jaguar and risks flattening it; fold as corroboration, not gap-fill
+
+The packet treats the descent-and-return mission as `[?]`, pending ear-checks on new ASR (t01, y09, y10, y13), and does not cite the grounding that already exists. Current [[Brain/Concepts/The Jaguar]] grounds it at `[G]` from **three named public interviews** (Ones to Watch 2018, Highwire 2021, Mic Magazine UK 2024), and the 2024 one already contains the exact mission phrase, *"pulls people out of the darkness… into the light."* The new recordings are therefore an Nth corroboration of a triply-grounded claim, not a filling of an empty slot.
+
+More importantly, the live page is **richer than the packet's read of it**, and folding the packet as written would thin it. The current page carries the feminine **Maker-Jagwar** of *The Circle* (*"she made other Jagwars, then taught them to sing"*), the open **Reading A / Reading B** question about whether the Jaguar is a genderless seeing-field distinct from Mary or is deliberately collapsed with her, and a second **solar-cat-versus-Apophis** register from the board. The packet reads the emblem as descent-and-return only. Route the new material onto the existing grounded emblem as added weight; do not let a thinner summary overwrite a thicker page.
+
+## D. The proposal that survives strongest: the Love aggregation (Packet 4)
+
+Confirmed against the vault: there is **no `Brain/Concepts/Love.md`** among the 53 files in `Brain/Concepts/`, yet love is load-bearing doctrine already (`JagwarTwin/CLAUDE.md` §"Love as Transformative Force"; *"Love transforms the loop into the circle"*), currently carried implicitly across [[Brain/Concepts/The Circle]], [[Brain/Concepts/The Protector]], and public [[Concepts/The Loop and the Circle]]. A dedicated aggregation is a genuine structural gap, and this packet is the best home for the page's fold energy. The five-function decomposition is well-formed. Keep each formulation at its own source-tier: the public 2025 posts (*"more powerful than power,"* the open-heart-opens-doors line) at `[G]`; the *"love creates / materializes"* recordings at `[?]` until heard. This is the one place I would *promote* the staging page's priority, not demote it.
+
+## E. Methodological refinement: dual-ASR agreement is error-control, not corroboration
+
+The page's confidence model rests partly on *"where both transcripts independently converge, confidence in the gist rises."* That is true only for one thing: it controls for **transcription error**. Two automatic transcripts are two renderings of **one channel**, the same audio; their agreement says the words were probably heard right, not that the meaning is corroborated. The vault's promotion bar is **two independent public channels** ([[feedback_two_channel_rule]]), and it is stricter even than that phrasing suggests: on [[Brain/Characters/Sir Lucius]], even *Roy's own* green-apple decode *"currently rests on two summaries… not a screenshot"* and stays `[W — wording pending pin]`. So the page's instinct to hold new-recording wording at `[?]` until an ear-check is exactly right. It should just say the reason plainly: ASR-versus-ASR convergence cannot by itself move a reading toward `[G]`, because it is not a second channel. State that, and the confidence ladder is airtight.
+
+## F. The reframed priority map
+
+Reading the packets against live canon inverts the top of the priority table:
+
+| Was | Should be | Why |
+|---|---|---|
+| **P0** Duality/Lucius integration correction | **P2** corroborative | Already folded at `[G]`; only the 2025-08-16 quote is new (§A) |
+| **P0** "never goes to defeat" correction | **withdraw** | Rests on a misreading; the sharper frame is already canon (§B) |
+| **P1** Jaguar descent/return | **corroboration** onto existing `[G]` | Triply grounded already; packet is thinner than the page (§C) |
+| **P2** Love aggregation | **P0 interpretive** | The one real structural gap; best home for fold energy (§D) |
+| logistics: source authority, audio queue, tracker defects | **P0, unchanged** | Facts about the corpus, not readings; the true yield of this audit |
+
+The through-line: this is an excellent **coverage and provenance** audit whose **canonical-state** claims drifted from a stale snapshot. Verify each interpretive packet against the live page before folding, promote the Love page, and route the new recordings as weight added to grounding that already exists rather than as gaps to be filled. The audio that has never been auditioned, beginning with *Western Woods*, remains the honest frontier: those recordings exist, their metadata is known, and their contents are still unheard.
