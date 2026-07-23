@@ -27,7 +27,7 @@ And fair warning: this is not finally a story about a man with excellent cheekbo
 
 
 There is Roy, the heart of the project. And there is Sir Lucius, <img src="https://plumcreekranch.com/jagwar/lucius_apple.png" style="float: left; width: 120px; margin-right: 16px; margin-bottom: 8px;">the sharp voice in the white face paint, the green apple, the cigarette, the grin that knows exactly where to poke the wound. 
-The Engine: in the story, Roy and Lucius are not two parallel characters; they are two sides of one person. The same tensions run under the whole catalogue, heart and mind, the real face and the performed one, and the later chapters give them names, costumes, and a stage. Once they have the stage, most of the story is the two of them arguing, bargaining, masking, performing, and trying to break the loop. Lucius believes he knows the only way out. Roy has to decide whether the way out is really a way home. And home, when the songs finally point at it, is not Roy winning. Nobody wins that fight. Home is the mind coming back into the service of the heart. An embrace, not a funeral. The force that can turn the loop into a circle has an embarrassingly simple name: love. Yes. That one. The whole haunted carnival runs on it.
+The Engine: in the story, Roy and Lucius are not two parallel characters; they are two sides of one person. The same tensions run under the whole catalogue, heart and mind, the real face and the performed one, and the later chapters give them names, costumes, and a stage. Once they have the stage, much of the later story is the two of them arguing, bargaining, masking, performing, and trying to break the loop. Lucius believes he knows the only way out. Roy has to decide whether the way out is really a way home. And home, when the songs finally point at it, is not Roy winning. Nobody wins that fight. Home is the mind coming back into the service of the heart. An embrace, not a funeral. The force that can turn the loop into a circle has an embarrassingly simple name: love. Yes. That one. The whole haunted carnival runs on it.
 
 
 🎠<strong>That is the part to hold onto. Everything else is furniture. Beautiful furniture, haunted furniture, possibly cursed furniture, but still sofas all the way down.</strong>
@@ -44,7 +44,7 @@ Once you hear that, the songs start changing shape.
 
 Roy is the other pole: heart, sword, song, the part still trying to choose. His side of the map is warmer but not weaker. The heart in this story is not sentimental mush. It has a blade. It has to cut through the mask without becoming another mask and learn to see itself. And Roy gives us the why, again and again: his mission with the music is to be a mirror, the clearest mirror he can be, to remind people who they truly are. He has been to the dark himself and says so plainly: if I can do it, anybody can do it. That is the jaguar again. Into the dark, back out, others in tow.
 
-And then there is Mary, the third voice. She walks in already named, in [[No. 1 Champion (la Conquistadora)|No. 1 Champion]]: Mary, Mary, so contrary. Mary, Mary, such a revolutionary. She is harder to explain without immediately stepping right out of philosophy and into the spiritual realm, so let's keep it simple: Mary is the presence that calls the hidden self back into the light. The songs keep handing her the one line Lucius cannot metabolize: stop pretending, baby, you were born to shine. ✨ Whether every blessing-voice in the catalogue is hers is an open question. This guide leaves the wings partly dark on purpose.
+And then there is Mary, the third voice. She walks in already named, in [[No. 1 Champion (la Conquistadora)|No. 1 Champion]]: Mary, Mary, so contrary. Mary, Mary, such a revolutionary. She is harder to explain without immediately stepping right out of philosophy and into the spiritual realm, so let's keep it simple: this guide reads Mary as the presence that calls the hidden self back into the light. The songs keep handing her the one line Lucius cannot metabolize: stop pretending, baby, you were born to shine. ✨ Whether every blessing-voice in the catalogue is hers is an open question. This guide leaves the wings partly dark on purpose.
 
 Much of this plays out inside what we can call [[Concepts/The Circus]], one very loud room in the myth-world, not the whole of it. It is the attention machine, the show that never closes, the place where they love it when you lose control. It looks like the music industry, Hollywood. It looks like your feed. It looks like a stage. It also looks suspiciously like the inside of a human head at 2:17 a.m.
 
@@ -54,11 +54,11 @@ The story so far comes in three big movements.
 
 🎰 [[33]] is waking up inside the machine.  
 
-🎪 [[Lucius Lullaby (album)|Lucius Lullaby]] is the strange turn where the shadow/protector gets the microphone, top billing, and enough rope to decorate the tent.
+🎪 [[Lucius Lullaby (album)|Lucius Lullaby]] is the strange turn where the shadow/protector gets the microphone, his name on the marquee, and enough rope to decorate the tent.
 
 Underneath all three runs one shape: the same loop, lived, then seen, then sung from the inside by the shadow himself, waiting for the turn that makes it a circle. Which brings up the song this guide would be negligent not to flag: [[The Circle]]. Roy calls it the favorite song that has ever come through him, and he has said, on the record, that he thinks The Circle is and will be Jagwar Twin's biggest song. Not the biggest so far. The biggest, someday, whether or not he is around to see it. He really believes that. He even gives us the growth law: the circle will grow from the inside of the inside of the circle. No, you are not supposed to understand that yet. That is what the rest of the guide is for.
 
-You do not need a decoder ring or a tarot deck to navigate this, but if you have them available, backup never hurts. Here is a simple map to get you started. 
+You do not need a decoder ring or a tarot deck to navigate this, but if you have them available, backup never hurts. Here is a simple map to get you started. One caution before you memorize it: these are recurring emblems in a living story, not a substitution cipher, and a few of them trade hands.
 
 Lucius holds 🍏 the green apple, 🐦‍⬛ the crow, 🚬 the cigarette, 🗡 the dagger, and 🧠 mind divorced from heart (distortion).
  
