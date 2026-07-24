@@ -14,7 +14,7 @@ The short verdict is that the vault does not have a general analysis famine. Its
 
 **Scope warning:** the 46-item transcript body received a complete entry-by-entry screen. The raw social archive received a systematic grep-based semantic sweep of all 3,777 records, not a claim that a human read every record linearly, and the audio files have not been auditioned. This page therefore closes the available transcript differential and stages the strongest grep-only finds while preserving the remaining non-text work and source-verification gates as explicit queues.
 
-The deepest new material does not replace the project's existing heart. It gives that heart cleaner authorial language. Roy repeatedly describes Jagwar Twin as an exploration of polarity and of one self across light and darkness; describes the jaguar as the creature that enters darkness and returns able to bring others out; describes the mind as a brilliant tool that must serve heart, soul, or intuition; describes masks as iterations used while trying to remember the self; describes the Hall of Mirrors as learning to see other people as reflections; and describes love as a force that creates, materializes, opens, serves, and makes integration possible. The most useful result is therefore not a new complicated theory. It is firmer grounding for the simple one.
+The deepest new material does not replace the project's existing heart. It gives that heart cleaner authorial language. A live-canon reconciliation completed after the first audit also changes the priority: integration, the mind's service to heart, and the Jaguar's descent-and-return mission are already substantially analyzed. Their new witnesses are mostly corroborative enrichments, not missing doctrine, although Roy's direct integration wording requires one narrow public-vault correction. The genuine structural gap is Love, whose analysis is load-bearing but distributed across other pages. The operational gaps are source authority, unauditioned audio, and stale trackers. The most useful result is therefore not a new complicated theory. It is firmer grounding for the simple one, plus a more honest map of where work actually remains.
 
 ## How to read this page
 
@@ -36,58 +36,61 @@ The following status labels are used throughout:
 
 The two external Google documents contain the same 46 recordings, `t01` through `t25` and `y01` through `y21`, but they are not interchangeable. The body is 25 TikToks, eight YouTube Shorts, and thirteen long YouTube interviews. It is not the 68-recording handoff described in the attached progress log; if those other 22 recordings exist, they are not in either linked document and remain a separate missing source. [TRANSCRIPTS_v2.md](https://docs.google.com/document/d/1UvnPoOyYmAmtdc0MQetFWRRESczaDb-eRhk-w_hSR7o/edit) is the Whisper `whisper-1` body and is substantially more complete at roughly 303,600 characters. [TRANSCRIPTS_FINAL.md](https://docs.google.com/document/d/1PuJgquQYqsysCgYgABryaFKqCzzfo6k4JvHm3NBPlXs/edit) is the `gpt-4o-transcribe` body and is roughly 277,000 characters. The largest omissions from the latter are in `y15`, `y18`, `y10`, `y13`, `y16`, and `y12`, including several of the passages most relevant to the core mythology.
 
-For mining, `v2` is therefore the coverage authority, not because it is necessarily more accurate word by word, but because it contains more of the recordings. Where both transcripts independently converge, confidence in the gist rises. Exact quotations, sensitive biographical claims, credits, proper names, and anything that would carry `[G]` still require a listen-check against the public recording. The apparent word “FINAL” in a filename cannot substitute for provenance.
+For mining, `v2` is therefore the coverage authority, not because it is necessarily more accurate word by word, but because it contains more of the recordings. Agreement between the two ASR renderings can reduce transcription uncertainty, but both decode the same recording. Their agreement is error-control, not independent-source corroboration, and it cannot raise a claim to `[G]`. Exact quotations, sensitive biographical claims, credits, proper names, and anything that would carry `[G]` still require a listen-check against the public recording. The apparent word “FINAL” in a filename cannot substitute for provenance.
 
 Only `y09` and `y20` presently have local transcript notes, and both are partial in different ways. The local Invest in Music note preserves selected passages, including Jen's listen-verified statement about *The Circle*, while the local Honey Podcast note stops around 12:40, immediately before Roy's answer about what the Hall of Mirrors means. The other long interviews are mostly absent from `Sources/Transcripts/`, including the especially rich `y13`, `y15`, and `y18`. Before any large-scale canonical fold, the public URLs, transcript version, checked passages, and listen-verification state should be captured as durable source notes.
 
 ## Priority map
 
-The most valuable folds are not evenly distributed. These are the packets that materially change, correct, or simplify the project:
+The most valuable folds are not evenly distributed. Operational and interpretive priorities are both included here so the source work does not disappear behind the more interesting readings:
 
 | Priority | Finding | Primary homes | Status |
 |---|---|---|---|
-| P0 | Two dated public registers coexist: 2024 exposure/defeat language and a later 2025 prescription to love and integrate the shadow so it can serve the highest calling. | `Duality`, `Sir Lucius`, `The Protector`, `Heart and Mind` | CORRECTION |
-| P0 | The mind is a tool of soul/heart, not the bad half; “proper use” solves, misuse tears down. | `Roy on the Heart-Mind Split`, `The Protector`, `Sir Lucius` | NEW + CORROBORATIVE |
-| P0 | The jaguar enters darkness knowingly and returns able to bring others out; this is Roy's stated mission, not a vault projection. | `The Jaguar`, core Field Guide, Roy overview | CORROBORATIVE |
-| P0 | Love is an operation beneath the mythology, not decorative spirituality. | Proposed new `Love` aggregation, `SOL`, `Process`, `Protector` | NEW CLUSTER |
+| P0 | The two linked transcript documents contain 46 recordings, not the reported 68, and most long interviews lack durable local source notes with passage-level verification states. | Transcript source notes, ingestion and coverage ledgers | VERIFY + SOURCE DEBT |
+| P0 | The Hall of Mirrors audio collection is catalogued but not auditioned; *Western Woods* is the clearest blind spot. Media and ingestion trackers also disagree with the live corpus. | Audio/source ledger, Media Index, tracker repair | VERIFY + TRACKER DEBT |
+| P0 | Love is an operation beneath the mythology, not decorative spirituality. Its doctrine is already distributed across the vault, but no dedicated `Love` concept gathers it. | Proposed new `Love` aggregation, `SOL`, `Process`, `Protector` | NEW AGGREGATION |
+| P1 | The mind is a tool of soul/heart, not the bad half; new public wording says proper use solves, misuse tears down, and the mind should become a loyal servant. | `Roy on the Heart-Mind Split`, `The Protector`, `Sir Lucius` | CORROBORATIVE + NEW LANGUAGE |
 | P1 | Roy repeatedly calls Jagwar Twin an exploration of polarity, light/dark, inner/outer, and good/evil. | `Duality`, core Field Guide | CORROBORATIVE |
 | P1 | Masks and names are attempts to remember the self; the Hall is reciprocal recognition through other people as mirrors. | `The Mask`, `Speaker Problem`, `Source vs Reflection`, Hall overview | NEW |
 | P1 | New recordings name Hermetics and Kabbalah and call *Pay Attention* a modern retelling of Marduk; `y13` also corroborates the already-grounded *Circle*-as-Genesis statement. | `Roy on Influences`, mythology section, relevant songs | NEW + CORROBORATIVE |
 | P1 | All the songs on *33* are described as versions of the same message: “it is all you.” | *33*, *The Circle*, *Another Way II Heaven*, *Down to You* | NEW |
-| P1 | The Hall of Mirrors audio collection is catalogued but not auditioned; *Western Woods* is the clearest blind spot. | Audio/source ledger, early-history page | VERIFY |
+| P1 | A fresh 2025 Discord statement explicitly names loving and integrating the shadow with the whole so it can serve the highest calling. It is the first located direct Roy formulation that joins those terms in the Lucius context, and it corrects public wording that opposes polarity to all integration. | `Duality`, `Sir Lucius`, `The Protector`, proposed `Love` | NEW `[G]` WORDING + NARROW CORRECTION |
+| P2 | New recordings add witnesses for the already-grounded Jaguar descent-and-return mission; the public Discord adds the especially useful “knowing that they are us” and love language. | `The Jaguar`, core Field Guide, Roy overview | CORROBORATIVE |
 | P2 | The Upload began as a joke about a failed 33-year-old musician uploading his consciousness, succeeding, and losing control. | `The Upload`, `The Digital Double`, *33* | NEW |
 | P2 | Several song explanations and production facts remain absent or underverified. | Song pages and credits | NEW + VERIFY |
 | P2 | Raw social posts add clean language for heart, attention, information, myth, the Realm, and digital selfhood. | Concept pages named below | NEW |
 
 # Fold packets by destination
 
-## 1. Duality and Lucius: coexisting defeat and integration registers
+## 1. Duality and Lucius: a fresh integration witness within an established doctrine
 
 ### Source floor
 
-Roy's public language contains both positions the vault currently treats as if only one existed. In a 2024 Instagram campaign post he says Lucius can sometimes serve but, if allowed to rule, will burn the kingdom; the same post uses the rhetoric that once Lucius is visible “we” can defeat him. On 2025-08-16, in a permalink-preserved Discord statement, Roy calls Lucius “really our shadow” and describes learning to love that part and integrate it with the whole so it can serve the highest calling. The latter is not an inferred Jungian gloss. Roy uses the word *integrate* himself.
+The live Brain already holds the governing doctrine. `Duality` argues for correct ordering rather than elimination or erasure. `Sir Lucius` already carries “Integration = dis-identify, not defeat,” Dion Fortune's shadow language as “integration, not elimination,” and “my mind must serve my heart.” `The Protector` likewise frames integration as reclaiming the armor's useful capacities after it loses the throne. The new material does not discover this model.
 
-The new interviews independently reinforce the surrounding architecture. In `t01`, `y09`, `y10`, and `y11`, Roy describes Jagwar Twin as an exploration of light and dark or explicitly of polarity. In `y15`, he describes shadows as places in which superpowers may be hidden and the mind as both trap and sword or tool. In `t08`, the soul is the guidance system and the mind is to become its tool. These passages require ear-checks for quotation, but their convergence makes the overall model unusually stable.
+It does add one unusually direct witness. On 2025-08-16, in a permalink-preserved Discord statement, Roy calls Lucius “really our shadow” and writes that the work is “learning how to love that part and interatge [sic] it with the whole to serve our highest calling.” The misspelling belongs to the source and should either travel with `[sic]` in an exact quotation or be normalized only in paraphrase. A 2024 Instagram campaign post also says Lucius can sometimes serve but, if allowed to rule, will burn the kingdom, then uses the rhetoric that once he is visible “we” can defeat him. Defeat imagery therefore exists, but it is not evidence that the released arc resolves by amputating the shadow.
+
+The new interviews add further single-recording witnesses around this architecture. In `t01`, `y09`, `y10`, and `y11`, Roy describes Jagwar Twin as an exploration of light and dark or polarity. In `y15`, he describes shadows as places in which superpowers may be hidden and the mind as both trap and sword or tool. In `t08`, the soul is the guidance system and the mind is to become its tool. These passages require ear-checks for quotation. Agreement between ASRs improves transcription confidence only; it does not make the interviews independent of themselves.
 
 ### Analysis
 
-The evidentiary conclusion is narrower than a completed developmental arc. Two dated public registers coexist. The 2024 campaign externalizes and dramatizes the antagonist in the grammar of visibility and defeat; the later 2025 explanation re-internalizes Lucius as *our* shadow and prescribes love, integration, wholeness, service, and highest calling. “My mind must serve my heart” specifies the ordered relationship this prescription seeks.
+The evidentiary conclusion is narrower than a completed developmental arc. The fresh Discord line makes love, integration, wholeness, service, and highest calling explicit in Roy's own language. It should be added to the existing doctrine as a direct terminology upgrade and keystone witness. The dates should not be forced into a simple evolution from conquest to love because campaign theater, character speech, aphorism, and direct explanation perform different jobs.
 
-This also resolves a false opposition in the current ontology. Polarity and integration are not rival interpretations. Polarity names the field, discernment identifies which voice or faculty is ruling, integration recovers the disowned capacity, and service gives it a right relationship. The project can preserve a split at the level of theatrical characters while moving toward integration at the level of the person.
+One narrow public-vault clarification remains warranted. Public `Concepts/Duality.md` currently says Roy “chose” polarity over integration or unity, even though that page later describes integration as reclaiming the Protector's gifts. The new direct verb shows that *integration* cannot be treated as synonymous with merger or erasure. Polarity names the differentiated field; discernment identifies which voice or faculty is ruling; integration recovers the disowned capacity without dissolving its difference; service gives it a right relationship. The project can preserve a split at the level of theatrical characters while moving toward integration at the level of the person.
 
 The Claim Ledger's load-bearing guard remains. Integration here does not mean synthesis that erases difference, does not overturn correct ordering, and does not prove that the *Lucius Lullaby* album narrative has already completed this movement. It establishes a direct later prescription in Roy's public language, not a settled ending for the character.
 
 ### Proposed fold copy
 
-> `[G]` A 2024 campaign post speaks in the theatrical grammar of exposing and defeating the figure. In August 2025 Roy calls Lucius “really our shadow” and says the work is to love that part and integrate it with the whole so it can serve the highest calling.
+> `[G]` The Brain already grounds dis-identification, integration rather than elimination, and the mind's service to heart. In August 2025 Roy adds a compact witness: Lucius is “really our shadow,” and the work is to love that part and “interatge [sic] it with the whole to serve our highest calling.”
 >
-> `[W]` Read together, the statements support a path from seeing and dis-identifying from the ruling voice toward love, integration, and right service. They do not by themselves prove that the album has completed that path.
+> `[W]` The fresh statement clarifies rather than replaces the existing model. Polarity names a structure of differentiated parts; integration names the recovery of a disowned part into right relationship. It is not merger into sameness.
 >
-> `[W]` Polarity names the structure; integration names the work performed within it. Roy does not abolish the mind. He takes it off the throne. The same speed, intelligence, pattern-making, and protection that become destructive when severed from heart can become useful again when made to serve heart, soul, intuition, or the highest calling.
+> `[W]` Roy does not abolish the mind. He takes it off the throne. The same speed, intelligence, pattern-making, and protection that become destructive when severed from heart can become useful again when made to serve heart, soul, intuition, or the highest calling. Nothing in the new line proves that the album has completed that path.
 
 ### Routing and gate
 
-Fold to `Brain/Concepts/Duality.md`, `Brain/Characters/Sir Lucius.md`, `Brain/Concepts/The Protector.md`, and `Brain/Roy Voice/Roy on the Heart-Mind Split.md`, then adapt for `Concepts/Duality.md`, `Concepts/The Protector.md`, `Concepts/Heart and Mind.md`, and `Characters/Stars/Sir Lucius — The Inside of the Inside.md`. Before folding, preserve the dates and the difference between campaign narration and Roy speaking directly. Correct any public sentence claiming that the catalogue “never” goes to defeat, and correct any internal rule that treats integration as merely an external interpretive preference.
+Add the 2025 statement as a direct keystone witness to `Brain/Characters/Sir Lucius.md`, `Brain/Concepts/Duality.md`, `Brain/Concepts/The Protector.md`, and the proposed `Love` aggregation. The Brain does not need a doctrinal rewrite. In public `Concepts/Duality.md`, narrowly revise the claim that Roy chose polarity over integration so it distinguishes integration from undifferentiated merger. Do not “correct” the sentence that the catalogue never resolves by amputation merely because defeat rhetoric occurs in the campaign. If clarity is wanted, specify that defeat language appears but the released arc never completes that resolution. Preserve the difference between campaign narration, character speech, and Roy speaking directly.
 
 ## 2. The mind as servant, sword, and guidance problem
 
@@ -123,35 +126,37 @@ Fold first to `Roy on the Heart-Mind Split`, `The Protector`, and `Sir Lucius`, 
 
 ### Source floor
 
-`t01`, `y09`, `y10`, and `y13` converge on an unusually clean explanation. The jaguar is the creature in Roy's mythology that can enter dark places, know their terrain or its own power there, and come out able to bring others with it. In the public Discord transcript, Roy says the mission of Jagwar Twin is to pull people from darkness to light because he has been there, and says even the darkness attracted to the project can be handled with love, knowing “they are us.”
+The descent-and-return doctrine is already `[G]` in `Brain/Concepts/The Jaguar.md` from three named public interviews, including the 2024 statement that the project “pulls people out of the darkness” and “into the light.” The live page also carries material this packet must not flatten: the feminine Maker-Jagwar of *The Circle*, the open seer-versus-source Reading A/B question, and the solar-cat-versus-Apophis register.
+
+`t01`, `y09`, `y10`, and `y13` add further, still-to-be-heard witnesses for the Jaguar entering darkness and returning able to bring others out. In the public Discord transcript, Roy says the mission of Jagwar Twin is to pull people from darkness to light because he has been there, and says even the darkness attracted to the project can be handled with love, knowing “they are us.” That community-and-love formulation is the clearest additive piece.
 
 `y09` and `y13` place the mission in Roy's biography without reducing it to celebrity confession. Roy connects the project to feeling like a misfit, difficulty communicating, severe depression or anxiety, searching across mythology and spirituality, and wanting someone as lost as he was to know that a way out exists. Because the mental-health wording is sensitive and currently ASR-derived, the exact phrases require an ear-check. The mission itself is corroborated by the permalink-preserved 2024 Discord statement.
 
 ### Analysis
 
-This is the clearest authorial floor for the project's descent-and-return mythology. The jaguar does not represent positivity, avoidance, or conquest from a safe distance. It represents trained vision in darkness. The return matters as much as the descent: private survival becomes service only when the person comes back able to help another human being recognize a path.
+The new recordings are additional direct corroboration for an already-strong authorial floor. The jaguar does not represent positivity, avoidance, or conquest from a safe distance. It represents trained vision in darkness. The return matters as much as the descent: private survival becomes service only when the person comes back able to help another human being recognize a path.
 
 The line “knowing that they are us” prevents the mission from becoming a savior fantasy. Darkness is not an alien population from whom the enlightened must separate. The people arriving in pain, confusion, projection, or hostility are mirrors of capacities shared by the community and the artist. The appropriate response is boundary plus love, not purity.
 
 ### Proposed fold copy
 
-> `[?]` Across several still-to-be-checked recordings Roy describes the jaguar as the creature that enters dark places and comes back able to bring others out.
+> `[G]` Three earlier public interviews already ground the Jaguar as a figure who can enter darkness and return able to bring others toward light.
 >
-> `[W]` That makes descent only half the myth. The project is completed by return and service: the knowledge won in darkness becomes a light another person can use.
+> `[?]` Several new recordings appear to restate that doctrine directly. They are corroborative until listened to, not the doctrine's first floor.
 >
 > `[G]` When darkness gathers around the work, Roy says it can be met with love, “knowing that they are us.”
 >
-> `[W]` This mission-language refuses a clean border between rescuer and rescued. The jaguar's sight is therefore not a badge of superiority. It is recognition without surrendering discernment.
+> `[W]` The return turns private survival into service, while “knowing that they are us” refuses a clean border between rescuer and rescued. The Jaguar's sight is therefore not a badge of superiority. It is recognition without surrendering discernment.
 
 ### Routing and gate
 
-Fold to `Brain/Concepts/The Jaguar.md`, the Roy overview or manifesto aggregation, and the opening Field Guide. Adapt publicly in `Concepts/The Jaguar.md`. Listen-check `t01`, `y09`, `y10`, and the sensitive `y13` passage before quoting them; the Discord mission statement already has a durable public permalink and can carry the grounded floor.
+Route the new material to `Brain/Concepts/The Jaguar.md`, the Roy overview or manifesto aggregation, and the opening Field Guide as added witnesses, not gap-fill. Adapt publicly in `Concepts/The Jaguar.md` only where the community-and-love language adds something. Do not overwrite or reduce the Maker-Jagwar, Reading A/B, or solar-cat registers. Listen-check `t01`, `y09`, `y10`, and the sensitive `y13` passage before quoting them; the Discord mission statement already has a durable public permalink and can carry the new grounded language.
 
 ## 4. Love as the project's operative force
 
 ### Source floor
 
-The corpus now exceeds the threshold for a dedicated Love aggregation. `t02` says service and love loosen the need for validation. `t10` calls love a kind of death and rebirth, treats relationship as mirror, and describes surrender as strength rather than defeat. `t11` describes love as gravity or a fabric of creation. `t13` says love creates or materializes and connects that claim directly to making a song with heart, soul, and love. Public 2025 posts say an open heart opens doors and portals, that love is more powerful than power because it contains power without chains, and that the heart knows the way back. The 2025 Lucius statement makes love the method of shadow integration.
+The doctrine is not absent, but it is distributed. No dedicated `Brain/Concepts/Love.md` exists among the current concept files even though Love is load-bearing across `The Circle`, `The Protector`, `The Loop and the Circle`, the relational-mirror material, and the vault's operating ontology. The corpus now exceeds the threshold for a dedicated aggregation. `t02` says service and love loosen the need for validation. `t10` calls love a kind of death and rebirth, treats relationship as mirror, and describes surrender as strength rather than defeat. `t11` describes love as gravity or a fabric of creation. `t13` says love creates or materializes and connects that claim directly to making a song with heart, soul, and love. Public 2025 posts say an open heart opens doors and portals, that love is more powerful than power because it contains power without chains, and that the heart knows the way back. The 2025 Lucius statement makes love the method of shadow integration.
 
 The cluster also includes necessary tensions. One post places truth under love; others insist on discernment, boundaries, and not confusing thought, feeling, or ideology with what is truly one's own. Love in this corpus is not passivity, forced softness, or the absence of judgment. It is openness strong enough to remain permeable without making the protective mind sovereign.
 
@@ -382,11 +387,11 @@ The following posts are unusually useful because their exact language has no cur
 | Source | Core material | Best destinations | Status |
 |---|---|---|---|
 | Instagram, 2025-02-18, `DGMJfzJSbh9` | Open heart opens doors or portals; mind uses fear to protect; vulnerability appears illogical to the protector; heart moves toward highest potential. | Heart-Mind Split, Protector, Love | NEW |
-| Instagram, 2025-08-15, `DNWijpPyHZy` | “Make your mind your loyal servant”; mind as tool given by God for return; conditioned loops and breaking out of the LOOP. | Heart-Mind, Protector, Duality, LOOP | NEW, P0 |
+| Instagram, 2025-08-15, `DNWijpPyHZy` | “Make your mind your loyal servant”; mind as tool given by God for return; conditioned loops and breaking out of the LOOP. | Heart-Mind, Protector, Duality, LOOP | CORROBORATIVE + NEW LANGUAGE, P1 |
 | Instagram, 2021-10-11, `CU5mPCGBs7X` | Gate of Attention; crowned woman as gate from earth to moon/dream realm; “right vs almost right”; Malkuth gate and violet machinery. | Gate, Moon, Malkuth, discernment | NEW, authorial design description |
 | Instagram, 2021-10-23, `CVYTMkVJOBj` | Outside ideologies and feelings; false “good” creates out-groups; Mother Mary brings left and right hands together; heaven within heart. | System, Duality, Mary, Realm, Heart-Mind | PARTIAL |
 | Instagram, 2021-10-28, `CVlF-S2P7Ur` | Visions cast through media into hearts and minds; programmers require discernment; all light casts shadow and shadow reveals light. | Tell-A-Vision, Algorithm, Digital Double, Duality | NEW |
-| Instagram, 2024-11-02, `DB11-cdv6k9` | Lucius's thoughts as not-own or outside; he can sometimes serve but burns the kingdom if allowed to rule; defeat rhetoric. | Lucius, Protector, Duality | CORRECTION |
+| Instagram, 2024-11-02, `DB11-cdv6k9` | Lucius's thoughts as not-own or outside; he can sometimes serve but burns the kingdom if allowed to rule; defeat rhetoric. | Lucius, Protector, Duality | CHRONOLOGY + SCOPE GUARD |
 | Instagram, 2025-07-24, `DMd5fqWhWAR` | Sensitivity, still water reflecting sky, trusted intuition, center, and distorted reflections. | Heart-Mind, Water, Source vs Reflection, Center | NEW |
 | Instagram, 2025-12-31, `DS6EDc2DF_7` | Alchemy as slow transformation under pressure; sensitivity translates the world into sound; heart desires and soul guides. | Alchemy, Process, Sensitivity | NEW; do not impose a stage |
 | Instagram, 2022-08-24, `ChpOZmFs7I9` | Myths and stories shape culture and purpose; digital connection can hide human disconnection; find self through others. | Modern mythology, Mirror, Digital Double | NEW |
@@ -403,10 +408,10 @@ The following posts are unusually useful because their exact language has no cur
 | X, 2021-22, statuses `1439392025766346755`, `1521589059985965056`, `1530331092154130434` | Jagwar/Roy/Brandon/Boy/Human/Spirit/Avatar identity stack; uploading body parts raises what makes life; SARAVI speaks as a mirror of seen/understood desire. | Speaker Problem, Upload, Digital Double, SARAVI | NEW CLUSTER |
 | X, 2021-22, statuses `1601082135284133888`, `1465118674428129282`, `1566511483554451456` | Thoughts possess people; everyone is possessed until not; asks who speaks in self-talk. | Voice, Mask, Heart-Mind, Protector | NEW CLUSTER |
 | Instagram/X, 2022-06-28, `CfXDv_TP6RN` / status `1541863812092928001` | Music as a snapshot of the collective, driving thought patterns and showing people themselves. | Mirrors, Music as Pattern, Spectacle, Attention | NEW; one cross-platform event |
-| Discord, 2024-01-07, line 1166 | Mission is to pull people from darkness to light and meet attracted darkness with love, knowing “they are us.” | Jaguar, mission, Love | NEW |
+| Discord, 2024-01-07, line 1166 | Mission is to pull people from darkness to light and meet attracted darkness with love, knowing “they are us.” | Jaguar, mission, Love | CORROBORATIVE + NEW COMMUNITY LANGUAGE |
 | Discord, 2024, line 1178 | Truth requires emptying and can change over time. | Empty Mirror, Truth, Process | NEW |
 | Discord, 2024-08-03, line 1674 | Roy says he is reading Jung's *Red Book*. | Influences | NEW |
-| Discord, 2025-08-16, line 2812 | Lucius is “really our shadow”; love and integrate that part with the whole so it can serve the highest calling. | Duality, Lucius, Protector, Love | CORRECTION, P0 |
+| Discord, 2025-08-16, line 2812 | Lucius is “really our shadow”; love and integrate that part with the whole so it can serve the highest calling. | Duality, Lucius, Protector, Love | NEW `[G]` WORDING + NARROW CORRECTION, P1 |
 | Discord, line 3232 | Heart has intelligence beyond mind and unlocks further perception. | Heart-Mind, discernment | NEW |
 
 Additional Discord statements about increased light making more darkness visible, the grey mixture of black and white, one mind dreaming, creating from the heart rather than the mind, and an internally created outer world are useful but lower priority. Several already have strong equivalents elsewhere. They should be used as corroboration, not multiplied into duplicate doctrine.
@@ -449,15 +454,17 @@ The Weirdness viewing note records Lucius puncturing a deflated star balloon wit
 
 ## Corrections and verification debt
 
-### Canonical corrections
+### Canon-state reconciliation and remaining corrections
 
-1. **Duality's “not integration” guard is too absolute.** Roy's direct 2025 wording explicitly includes loving and integrating the shadow with the whole. Preserve correct ordering and continued differentiation, but do not define those against integration.
-2. **The public claim that the catalogue never goes to defeat is factually too broad.** The 2024 Lucius campaign does use defeat language, while a later 2025 statement prescribes love, integration, and service. That dated coexistence does not prove the album completes a linear movement from one to the other.
-3. **Polarity is Roy's word, not merely private direction or vault synthesis.** Multiple public recordings use it explicitly. The exact clips should be ear-checked, but the repeated ASR agreement overturns any blanket claim that Roy only says “light and dark.”
-4. **The local Honey Podcast note is partial, not complete.** It stops around 12:40 of a 36:13 episode and misses the direct Hall-of-Mirrors explanation.
-5. **The 2022 social-feed retrieval task is complete.** The remaining work is content extraction and folding, not recovery.
-6. **The 68-file transcript claim is not supported by either linked document.** Both contain the same 46 IDs. Locate a separate handoff before marking the other 22 complete, failed, or analyzed.
-7. **The draft Information source gate is partly resolved.** Public mirror records now ground three of its five old-chat leads: “The soul is information,” living inside the being called the internet, and digital presence not being presence. “All information is always in formation” is an additional grounded neighbor. The cities and air/thought phrases remain unverified.
+1. **The Brain's integration doctrine is already in place; public Duality needs one narrow terminology correction.** `Brain/Concepts/Duality.md`, `Brain/Characters/Sir Lucius.md`, and `Brain/Concepts/The Protector.md` already hold correct ordering, dis-identification, and integration rather than elimination. The fresh 2025 Discord line is a `[G]` terminology upgrade and keystone witness because Roy directly joins love, integration, wholeness, and service in the Lucius context. Public `Concepts/Duality.md` should stop saying Roy chose polarity over integration. It can reject merger or erased difference without rejecting integration.
+2. **The proposed defeat correction becomes a scope clarification, not a doctrinal reversal.** The 2024 El Roy campaign explicitly proposes defeating Lucius, so that rhetoric must remain visible and cannot be collapsed into the later final-boss sales pitch. It does not show that the released arc completes an amputation-by-defeat resolution. The clean formulation is: the released arc has not completed an amputation-by-defeat resolution, despite a 2024 El Roy campaign that explicitly proposed defeating him.
+3. **The Jaguar packet is corroboration, not a missing foundation.** Descent and return are already grounded by multiple named public interviews. The new recordings add witnesses, while the public Discord contributes the especially useful mission, love, and “knowing that they are us” formulation. Any fold must preserve the live page's Maker-Jagwar, Reading A/B, and solar-cat registers.
+4. **The Love aggregation remains the genuine structural gap.** Love is already analyzed across several pages, but no dedicated concept gathers its creative, vulnerable, surrendering, integrative, and service functions. This is aggregation of existing doctrine plus new witnesses, not first discovery.
+5. **Polarity is already publicly grounded as Roy's word.** The new recordings corroborate it, but are not needed to overturn a private-only rule. Ear-check them before adding exact quotations.
+6. **The local Honey Podcast note is partial, not complete.** It stops around 12:40 of a 36:13 episode and misses the direct Hall-of-Mirrors explanation.
+7. **The 2022 social-feed retrieval task is complete.** The remaining work is content extraction and folding, not recovery.
+8. **The 68-file transcript claim is not supported by either linked document.** Both contain the same 46 IDs. Locate a separate handoff before marking the other 22 complete, failed, or analyzed.
+9. **The draft Information source gate is partly resolved.** Public mirror records now ground three of its five old-chat leads: “The soul is information,” living inside the being called the internet, and digital presence not being presence. “All information is always in formation” is an additional grounded neighbor. The cities and air/thought phrases remain unverified.
 
 ### Source and quotation debt
 
@@ -465,7 +472,7 @@ The AltPress 2023 quote source is marked draft, yet several pages present its wo
 
 The ASR body also contains known literal errors: `I Alaska` means Eye Alaska in `t15`, `Basker` means Jeff Bhasker in `t18`, `Rick Knowles` means Rick Nowels in `t25`, and `Shy` means *Shine* in `y19`. These corrections improve searchability but do not independently verify the surrounding biography or credits. Reposted clip upload dates also should not be treated as the date of the underlying statement unless the original recording date is pinned.
 
-The local Invest in Music source should preserve Jen's listen-verified *Circle* passage and clearly distinguish it from draft ASR around it. The full 48-minute interview still needs a durable source transcript or coverage note. New source notes should state whether a passage was machine-transcribed, independently converged across two ASRs, manually spot-checked, or fully listen-verified.
+The local Invest in Music source should preserve Jen's listen-verified *Circle* passage and clearly distinguish it from draft ASR around it. The full 48-minute interview still needs a durable source transcript or coverage note. New source notes should state whether a passage was machine-transcribed, agreed across two ASR renderings of the same audio, manually spot-checked, or fully listen-verified. Cross-ASR agreement reduces decoding uncertainty only. Once a primary public recording is actually heard and pinned, that single source can ground what Roy directly said; a second independent public channel is required to strengthen a cross-source interpretation, not every exact quotation.
 
 ### Grep evidence index
 
@@ -530,6 +537,10 @@ Negative findings are part of the result, not leftover failure. They identify wh
 16. **The social feed adds no direct jaguar-descent explanation.** It contains mission slogans and darkness language, but the substantive animal doctrine remains interview-grounded; no Indigenous or Mesoamerican claim should be backfilled from social captions.
 17. **The named esoteric field is saturated rather than secretly empty.** The raw feed surfaced no new tradition requiring expansion beyond the already tracked Jung, Bailey, Blavatsky, Regardie, Gurdjieff, Steiner, Hall, Lévi, Fortune, Watts, biblical, Hermetic, Kabbalistic, and Gnostic clusters.
 18. **Two Information leads remain negative.** The full feed has no match for “There's a lot of information in cities” or “Air has been associated with thought and information.” Those old-chat memories remain unverified even though the soul/information and information/formation posts are now grounded.
+19. **Integration is not a missing Brain doctrine.** The new 2025 statement is a valuable first direct Roy formulation joining love, integration, the whole, and service in the Lucius context, but a broad four-page doctrinal rewrite would duplicate work already live.
+20. **The Jaguar's descent-and-return mission is not an empty slot.** Additional interview witnesses should enrich the existing page, not replace its thicker and more ambiguous symbolic registers.
+21. **Defeat imagery and defeat-as-resolution are different findings.** The former exists in an El Roy campaign. The latter has not been completed in the released arc. Neither should be used to erase the other.
+22. **Two ASRs are not two sources.** Their agreement can make a transcription more plausible, but only listening can verify the recording, and only a genuinely separate channel can corroborate a cross-source reading.
 
 # The 46-recording coverage ledger
 
@@ -586,66 +597,27 @@ This ledger records the disposition of every entry in the newly available body. 
 
 # Recommended fold sequence
 
-The safest and most useful order is source-first rather than page-first. First, create durable transcript notes for `y09`, `y13`, `y15`, `y18`, and the missing continuation of `y20`, marking exactly which passages have been listened to. In parallel, capture the high-value 2022 and 2025 social posts as quote notes and correct the media/source registries.
+The safest and most useful order is source-first rather than page-first. First, create durable transcript notes for `y09`, `y13`, `y15`, `y18`, and the missing continuation of `y20`, marking exactly which passages have been listened to. In parallel, capture the high-value 2022 and 2025 social posts as quote notes, locate or formally mark missing the other 22 recordings, and repair the media/source registries.
 
-Second, apply the P0 evidence correction across `Duality`, `Sir Lucius`, `The Protector`, and `Heart-Mind`, then create the Love aggregation. The correction should record the two dated registers and the later integration prescription without declaring the album's arc complete. Those changes establish the vocabulary needed for later folds and prevent new material from being forced into a false choice between polarity and integration.
+Second, after the ontology and routing decision, create the Love aggregation from already-grounded doctrine plus the new source-tiered witnesses. This is the first interpretive fold because it supplies a missing home rather than repeating an existing one.
 
-Third, fold the core authorial explanations into `The Jaguar`, the Hall/mirror cluster, `Roy on Influences`, and the Field Guide. Only after that should the song-specific details and lower-priority biography be distributed. This keeps the project from gaining more facts before it gains a clearer spine.
+Third, add the fresh 2025 integration statement to existing grounding in `Sir Lucius`, `Duality`, and `The Protector`, and narrowly clarify public Duality's false polarity-versus-integration opposition. Route the Jaguar recordings as corroboration and add the community-and-love wording without reducing the live Jaguar page's other registers.
+
+Fourth, fold the genuinely new authorial explanations into the Hall/mirror cluster, `Roy on Influences`, and the Field Guide. Only after that should the song-specific details and lower-priority biography be distributed. This keeps the project from gaining more facts before it gains a clearer spine.
 
 Finally, audition the non-text audio queue, beginning with *Western Woods*. That is a separate research pass, not an appendix to transcript mining. Until the files have been heard, the honest result is that the recordings exist, their metadata is known, and their contents remain unanalyzed.
 
-
 ---
 
-# Reviewer's analysis, canon-state verification (Claude, 2026-07-23)
+# Canon-state review status
 
-**Same review tier as the rest of this page. Nothing below is folded.** This is an added pass, not a rewrite of the staging above. Its one job is the check the hard gate demands: I pulled the *live* brain and public-vault pages each fold packet targets, rather than trusting the page's description of what canon currently says. The finding is asymmetric, and worth stating plainly up front.
+Claude's appended 2026-07-23 review was checked against both live vaults and incorporated into the body above. Two refinements were necessary during reconciliation: public `Concepts/Duality.md` still contains a narrow false opposition between polarity and integration, and the source-tier law allows one listened, named primary public source to ground what Roy directly said. Two ASR renderings of that source are still only transcription error-control, not two-source corroboration. The superseded appendix was removed so the page no longer carries contradictory priority tables.
 
-**The logistics half of this audit is the real yield; the interpretive-correction half needs re-tiering.** The source-authority work (v2 as the coverage authority, the missing 22 recordings, the unsupported "68-file" claim), the audio-never-auditioned queue, and the stale-registry findings are all sound, and they are things no amount of canon-reading can dissolve, because they are facts about the corpus and the trackers, not readings. But several of the P0/P1 *interpretive* packets describe a canon state that predates the pages as they now stand. This is the page's own §"Stale trackers" lesson (*"multiple items are already live through other routes"*) turned back on its own priority map. Receipts follow.
+## TO VERIFY
 
-## A. Re-tier Packet 1 and Canonical Correction #1: already folded, from P0 CORRECTION to P2 CORROBORATIVE
-
-The premise that "Duality's *not integration* guard is too absolute" does not hold against the live page. Current [[Brain/Concepts/Duality.md]] opens on *"not the elimination of that split but its correct ordering,"* and the only thing it guards against is *"synthesis that **erases** difference,"* which is exactly the guard this staging page itself says to preserve. It is already integration-friendly.
-
-The Lucius side is more thoroughly grounded still. Current [[Brain/Characters/Sir Lucius]] §Grounding already carries, at `[G]`:
-- *"we need to see his shadow and then say these thoughts are not my own. becuase what we fight we become"* ([Discord 2024-11-15](https://discord.com/channels/705391219915882516/709750776284708955/1307129793468305429)), captioned in-page as **"Integration = dis-identify, not defeat."**
-- the **Dion Fortune** shadow thesis, *"the shadow is not evil… power unrecognized,"* glossed on-page as *"the work is **integration, not elimination**."*
-- *"My mind must serve my heart"* `[G]`, via the dated LOOP posts.
-
-And the *"acknowledges no higher power"* clause that Correction #1 implicitly leans against was **already retired 2026-07-16** and is now handled on the page. So the "false opposition in the current ontology" the packet sets out to resolve is one the ontology already resolved.
-
-**What genuinely survives, and it is worth keeping:** the exact 2025-08-16 line is a fresh, verbatim, not-yet-folded witness, *"its really our shadow. and then learning how to love that part and interatge it with the whole to serve our highest calling"* ([Discord, msg 1406085653976060039](https://discord.com/channels/705391219915882516/709750776284708955/1406085653976060039)). It is a *different* message from the *"true-but-soul-killing"* quote already folded from the same night (msg [1406084272279781519](https://discord.com/channels/705391219915882516/709750776284708955/1406084272279781519)). Route it as **one more `[G]` witness** on the already-grounded integration register in [[Brain/Characters/Sir Lucius]] and [[Brain/Concepts/Duality.md]], not as a correction to an absent one. Quote-hygiene note: the source spells it **"interatge"**; preserve `[sic]` or normalize silently, but do not invent a clean "integrate" in quotation marks.
-
-## B. Withdraw Canonical Correction #2's specific claim; keep only its caution
-
-Correction #2 says the public claim that *"the catalogue never goes to defeat"* is "factually too broad," citing the 2024 STOP SIR LUCIUS campaign. That reads the public sentence as *"Roy never uses defeat imagery."* It does not say that. Public [[Concepts/Duality]]'s "counterfeit resolutions" drawer names the **resolution**: *"amputation: kill the mind, defeat the shadow, end the split. The catalogue never goes there."* The claim is that the work never **resolves** by amputation, which is true and is the core doctrine. The 2024 defeat campaign does not falsify it. The vault already metabolizes that campaign as *part of the trap*: public [[Concepts/Gnosticism - The World as Trap|Gnosticism]], *"'defeat the boss to reach the exit' is the ringmaster's own sales pitch, part of the trap, not the way out of it";* public [[Concepts/The Dweller on the Threshold|Dweller]], *"The public STOP SIR LUCIUS flyer-and-banner campaign fails."*
-
-So the two registers the packet says "coexist" are already both held, under a **sharper** frame than "two dated registers": the defeat-campaign is Lucius's own doomed sales pitch, not a rival thesis to integration. What is worth keeping from Correction #2 is only its *caution* against declaring the arc complete, and that caution is already canon: public [[Source & Structure/Open Questions]] asks *"Has the integration actually happened, or is the album the question, not the answer?"* and public [[Concepts/The Protector]] states *"Nothing in the released work delivers a completed integration."* The staging page and the vault already agree; there is nothing to correct.
-
-## C. Packet 3 under-credits the Jaguar and risks flattening it; fold as corroboration, not gap-fill
-
-The packet treats the descent-and-return mission as `[?]`, pending ear-checks on new ASR (t01, y09, y10, y13), and does not cite the grounding that already exists. Current [[Brain/Concepts/The Jaguar]] grounds it at `[G]` from **three named public interviews** (Ones to Watch 2018, Highwire 2021, Mic Magazine UK 2024), and the 2024 one already contains the exact mission phrase, *"pulls people out of the darkness… into the light."* The new recordings are therefore an Nth corroboration of a triply-grounded claim, not a filling of an empty slot.
-
-More importantly, the live page is **richer than the packet's read of it**, and folding the packet as written would thin it. The current page carries the feminine **Maker-Jagwar** of *The Circle* (*"she made other Jagwars, then taught them to sing"*), the open **Reading A / Reading B** question about whether the Jaguar is a genderless seeing-field distinct from Mary or is deliberately collapsed with her, and a second **solar-cat-versus-Apophis** register from the board. The packet reads the emblem as descent-and-return only. Route the new material onto the existing grounded emblem as added weight; do not let a thinner summary overwrite a thicker page.
-
-## D. The proposal that survives strongest: the Love aggregation (Packet 4)
-
-Confirmed against the vault: there is **no `Brain/Concepts/Love.md`** among the 53 files in `Brain/Concepts/`, yet love is load-bearing doctrine already (`JagwarTwin/CLAUDE.md` §"Love as Transformative Force"; *"Love transforms the loop into the circle"*), currently carried implicitly across [[Brain/Concepts/The Circle]], [[Brain/Concepts/The Protector]], and public [[Concepts/The Loop and the Circle]]. A dedicated aggregation is a genuine structural gap, and this packet is the best home for the page's fold energy. The five-function decomposition is well-formed. Keep each formulation at its own source-tier: the public 2025 posts (*"more powerful than power,"* the open-heart-opens-doors line) at `[G]`; the *"love creates / materializes"* recordings at `[?]` until heard. This is the one place I would *promote* the staging page's priority, not demote it.
-
-## E. Methodological refinement: dual-ASR agreement is error-control, not corroboration
-
-The page's confidence model rests partly on *"where both transcripts independently converge, confidence in the gist rises."* That is true only for one thing: it controls for **transcription error**. Two automatic transcripts are two renderings of **one channel**, the same audio; their agreement says the words were probably heard right, not that the meaning is corroborated. The vault's promotion bar is **two independent public channels** ([[feedback_two_channel_rule]]), and it is stricter even than that phrasing suggests: on [[Brain/Characters/Sir Lucius]], even *Roy's own* green-apple decode *"currently rests on two summaries… not a screenshot"* and stays `[W — wording pending pin]`. So the page's instinct to hold new-recording wording at `[?]` until an ear-check is exactly right. It should just say the reason plainly: ASR-versus-ASR convergence cannot by itself move a reading toward `[G]`, because it is not a second channel. State that, and the confidence ladder is airtight.
-
-## F. The reframed priority map
-
-Reading the packets against live canon inverts the top of the priority table:
-
-| Was | Should be | Why |
-|---|---|---|
-| **P0** Duality/Lucius integration correction | **P2** corroborative | Already folded at `[G]`; only the 2025-08-16 quote is new (§A) |
-| **P0** "never goes to defeat" correction | **withdraw** | Rests on a misreading; the sharper frame is already canon (§B) |
-| **P1** Jaguar descent/return | **corroboration** onto existing `[G]` | Triply grounded already; packet is thinner than the page (§C) |
-| **P2** Love aggregation | **P0 interpretive** | The one real structural gap; best home for fold energy (§D) |
-| logistics: source authority, audio queue, tracker defects | **P0, unchanged** | Facts about the corpus, not readings; the true yield of this audit |
-
-The through-line: this is an excellent **coverage and provenance** audit whose **canonical-state** claims drifted from a stale snapshot. Verify each interpretive packet against the live page before folding, promote the Love page, and route the new recordings as weight added to grounding that already exists rather than as gaps to be filled. The audio that has never been auditioned, beginning with *Western Woods*, remains the honest frontier: those recordings exist, their metadata is known, and their contents are still unheard.
+- Listen-check and pin the high-value passages in `y09`, `y13`, `y15`, `y18`, and the continuation of `y20`.
+- Locate the other 22 recordings claimed in the handoff, or mark them explicitly as missing rather than analyzed.
+- Decide whether to create and register the proposed `Love` concept before folding its packet.
+- Verify live captions or stable source frames for the high-value social posts before exact public quotation.
+- Audition *Western Woods* and the remaining preserved audio as a separate non-text pass.
+- Repair the Media Index, Source Ingestion Ledger, Drafts Fold Status, and stale Lucius song discrepancy only after checking their current live state at edit time.
