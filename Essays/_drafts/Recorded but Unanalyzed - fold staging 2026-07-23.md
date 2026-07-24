@@ -4,7 +4,7 @@ citable: false
 status: review
 created: 2026-07-23
 scope: recorded-material differential across Sources, raw social archives, two external transcript corpora, Brain, Essays, and The Jagwar Files
-related: [CONCEPT-Duality, CONCEPT-HeartMind, CONCEPT-Protector, CONCEPT-Jaguar, CONCEPT-Mirror, CONCEPT-Mask, CONCEPT-SourceReflection, CONCEPT-DigitalDouble, CONCEPT-Upload, CHAR-SirLucius]
+related: [CONCEPT-Duality, CONCEPT-TheProtector, CONCEPT-TheJaguar, CONCEPT-HallOfMirrors, CHAR-SirLucius]
 ---
 # Recorded but Unanalyzed: fold staging, 2026-07-23
 
