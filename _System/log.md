@@ -12,6 +12,18 @@ Action types:
 
 For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
+## [2026-07-26] lint | FieldGuide go-live readiness audit + fixes · Fable full-corpus pass (budget-aborted)
+
+**FieldGuide publish-readiness pass (Opus).** Static audit of the public FieldGuide repo (`JagwarTwin-FieldGuide`, 215 pages) toward go-live, at Jen's request. Structural health is good: **0 broken image embeds, 0 orphan pages.**
+- **Fixed on FieldGuide branch `claude/go-live-cleanup-2026-07-26` (PR #1):** (1) dead link — `Roy's Posts - Canon Index` (hyphen) → em-dash form, in *Flattened Identity — The Deep End*; (2) internal-vocabulary leak — "the Master Source List" removed from *All My Friends* public prose.
+- **P0 boundary gates (Jen's call — deliberately NOT touched):** a quoted DM ("…portal timeline…'true voice'…") in *Artifacts - Gallery 2 (38-74)*; iMessage bubbles ("Here"/"At the gate") in *Artifacts - Poems, Texts and Social Posts*; Discord/Inner-Circle quotes (*LOOP*, *Gatekeeper Saga* — quotes "Michael" + "a Circle member"). Each needs a public-vs-private (incl. **Jen↔Roy**) confirmation before launch. Plus a `[P]` Private-tier marker shown publicly in *Beth*.
+- **P1 broken links:** *Joni and the Prophet Lineage* (5 links / 4 pages) and *Michael Morgan* (in *Sir Lucius*) point to unpublished pages — publish or delink.
+- **P2:** 7 lines leak internal tier codes into public prose — pick a convention.
+- **P3:** ambiguous `The I'm 33 Board` basename (3 files); publish-selection sanity check.
+- Full prioritized detail: [[FieldGuide Go-Live Readiness — audit (2026-07-26)]]. No interpretive edits made — only the two mechanical fixes.
+
+**Fable full-corpus coherence+discovery pass — ABORTED.** Per [[Fable Pass — Brief]], fanned out 7 read-only Fable-5 corpus-slice readers (STF / 33 / Lucius Lullaby / Singles / Concepts / Characters / vault⇄FieldGuide). **All 7 terminated early — Fable-5 usage credits exhausted mid-run; no findings reports returned.** The 2026-07-26 Fable pass produced nothing usable; re-run when the Fable pool refills. No canon touched (read-only by design).
+
 ## [2026-07-21] lint | Boss-doctrine retirement propagated (7 sites) + [[Session Fold Inbox]] created
 
 Applied the **2026-07-16 (Jen) ruling** retiring *"Lucius acknowledges no higher power"* `[G]` as an argument from silence. [[project_ll_visualizer_boss_rule]] recorded 3 propagation sites; a vault-wide grep found **7 in canon**: [[Brain/Concepts/Consumption]]:89, [[Brain/Characters/Sir Lucius]] §Moves + §Counterarguments + §Open Questions, [[Brain/Songs/Welcome to the Circus]]:67, [[Essays/Characters/Sir Lucius]]:152, and [[_System/Ontology]] `CHAR-TheBoss`. **Kept everywhere:** the guard (no chain of command, no commission, "Boss" is *Leif's* word for *Lucius*, BMRC is his own signature). **Struck:** the doctrine, with the counter-evidence written inline at §Counterarguments so it cannot silently resurrect. **Dropped:** *"and does not know"* from the champion clause; *denies* survives alone. **Added `[P]`:** bounded sovereignty, mastermind of humankind / the material plane, Malkhut-Yesod, *boss of the shop rather than of the cosmos*, consistent with the Roy-stated Hod/Mercury seat and with the essay-level demiurge-inside-Yesod reading that already contradicted the doctrine. `open-questions` regenerated (it is generated, never hand-edited), backlink + file-map rebuilt, **validate: 230 pages · 0 errors**. ⚠ Two `_drafts` findings records still assert the old ruling and are queued, not touched (row `20260721-7`).
