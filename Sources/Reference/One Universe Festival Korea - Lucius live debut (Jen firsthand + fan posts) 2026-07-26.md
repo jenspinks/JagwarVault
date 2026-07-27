@@ -91,7 +91,32 @@ Jen's account of the spoken beat the "sir lucius speaks Korean" Story captures, 
 
 **Reading of these results:** the three models **disagree substantially**. Only the *weakest* (`small`) produced 해 ("sun"), in a run that also emitted 도연 five times (a hallucination loop). `large-v3` produced **no sun at all**, rendered the second element **자리** ("seat") rather than **다리**, and heard **one** clause, not the two-clause parallel structure the candidate requires. Known Whisper-Korean hallucination attractors present in the output: **하나님** ("God", over-represented via sermon data) and **다 그렇더라구요** (stock filler). **The only feature stable across all three models is the opening syllables *hanan-*.** Conclusion: **the audio is too degraded for ASR to settle this.** Do not treat any machine transcript as evidence.
 
-**★★ RESOLVED 2026-07-27 — THE ASR TOKENS ARE A NEAR-FIELD AUDIENCE VOICE, NOT THE STAGE. The sun/moon candidate loses its only machine evidence.**
+**★★★ REVERSED 2026-07-27 (later in the same session) — THE SUN/MOON PARALLEL IS THE BEST-SUPPORTED READING. The earlier withdrawal below was driven by a CROPPING ERROR and is retracted.**
+
+**The decisive run.** `large-v3`, **full uncropped 17.3 s file**, `--language Korean --temperature 0`, **no prompt, no isolation, no denoising**:
+> **하나는 해가 내고 하나는 달이 보여온다**
+> word timings — 하나는 (1.9) · **해가** (3.3) · 내고 (3.9) · 하나는 (4.5) · **달이** (11.7) · 보여온다 (13.5)
+> `avg_logprob −0.41`, `no_speech_prob 0.14` — **the highest-confidence transcription obtained all day** (vs −0.57 and −0.74 for every other run).
+
+**Independently corroborated by a second model size.** The `small` run, also on the **full** file and also unprompted, produced the **same structure in the same order**: 하나는 해가 … 다 그렇더라구요 … 하나는 … 다리. Two model sizes, neither hinted, both yielding the parallel **하나는 X … 하나는 Y** with **sun first, moon second**.
+
+**⚠ THE ERROR THAT CAUSED THE FALSE NEGATIVE.** Claude cropped the audio at **4.5 s** (guessing the Story boundary) and ran `medium` and `large-v3` on that crop. **The first clause runs 1.9–3.9 s, so the crop removed it**, and its absence was then reported as "the best model hears no sun." That was an artifact of the crop, not a finding. **Always run the full file before concluding absence** (cf. [[feedback_verify_before_absent]]).
+
+**Structural bonus:** the 7-second gap between 하나는 (4.5) and 달이 (11.7) coincides with the near-field interjection window, matching Jen's independently-proposed three-part staging — **Lucius line 1 · fan interjects · Lucius line 2** — reproduced by a model that had never seen that proposal.
+
+**Isolation HURT, it did not help.** The per-line isolations (`sir_lucius_line1/2_isolated[_slow].m4a`, saved 2026-07-27) transcribed as **오랜만이야 + nonsense** (line 1) and **하나님 다리의 노였던** (line 2). Source separation strips context the model relies on. **The raw, unprocessed, complete file is the best material.**
+
+**WHAT IS ESTABLISHED vs STILL OPEN.**
+- **Established `[W]`, well-supported:** the **parallel construction** 하나는 … 하나는, with **해가 (sun)** and **달이 (moon)** in first and second position. Semantic core: *"one … the sun … one … the moon."*
+- **OPEN — the verb endings**, which vary on every run (내고 / 되고 · 보여온다 / 되었다 / 노였던). **"became" (되다) is NOT established**, and that is exactly the morpheme that would make this the folktale formula rather than a looser sentence. Also **하나님 remains a near-homophone rival** for 하나는.
+- **OPEN — the REFERENT, and this is the bigger question.** Even fully confirmed, the line could be a visiting artist **quoting 해와 달이 된 오누이**, a gracious and entirely ordinary thing to do for a Korean crowd. That would **not** make it doctrine. It would also not make it empty: **which** story he chose is still a choice, and this one is about a matched pair split into a solar and a lunar half. **Do not convert the line into a character-mapping claim without a second channel.**
+- **Next step unchanged and now higher-value:** a Korean-speaking listener on the raw clip, to settle the endings.
+
+---
+
+*(HISTORICAL — the following withdrawal was written earlier in the session and is SUPERSEDED by the reversal above. Kept for the record because its acoustic near-field finding about the **interjection** still stands; its conclusion about the **stage line** does not.)*
+
+**~~RESOLVED 2026-07-27 — THE ASR TOKENS ARE A NEAR-FIELD AUDIENCE VOICE, NOT THE STAGE.~~**
 
 **Jen's observation (firsthand, load-bearing):** an audience voice in the background of the clip seems to say **"hanaro dorabora"**. **Jen confirms 2026-07-27: it is NOT 한 번 (*hanbon*)** — so the mundane fan-shout parse **한 번 돌아봐라** ("turn around and look, just once") is **ruled out by ear** and Claude's reconstruction is withdrawn. Best remaining candidates: **하나로 돌아보라** ("look back as one") or **하나로 돌아오라** ("come back as one" / "return to one"); 하나로 = *as one, into one*. **Held open — do not substitute another guess.** Note **하나** is the same syllable root every ASR run produced, and it is *not* conventional crowd-shout Korean, so the speaker's purpose is unknown.
 
