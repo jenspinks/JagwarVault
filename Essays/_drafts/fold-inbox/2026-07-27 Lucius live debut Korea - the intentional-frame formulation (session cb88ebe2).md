@@ -55,6 +55,27 @@ Smaller reads, held at weight:
 - **Hood off, then Soul is a Star** (the ears removed before the soul/star song, own hair, guitar): `[W]`-candidate only, n=1, heat supplies a mundane cover. Promote on recurrence.
 - Crowd in unison on Loser + the Jericho fold (Jen-authored, Roy-reposted): one channel + a framework, stays `[?]`.
 
+## 4b. The Korean-speech beat and the SOL collision `[?]` — a LEAD, deliberately not promoted
+
+**The facts** (Jen firsthand, logged in the source record §Korean-speech beat): a three-beat deictic sequence, **finger up → hand out shielding the sun, addressed toward it → hand out to the crowd**, with some of the audience answering in a thumb-and-index sign (plausibly the 손하트 finger heart, conventionally answering *사랑해요*). **The words are unknown; the audio is untranscribed.**
+
+**Why it is tempting.** [[Brain/Characters/Sir Lucius]] §Open Questions asks, unresolved: *"Why can he not metabolize [[SOL]]?"* Lucius is the **lunar/reflective** register; the sun is the Tiphareth heart-seat he does not occupy. A Lucius-costumed figure addressing the sun and then handing something to the crowd would be **the lunar figure performing a solar transmission**, which reads either as the doctrine evolving on stage or as the Roy voice surfacing through the costume (the same fork as §4). The sun is also, that day, the **physical agent that destroyed the mask**.
+
+**Why it stays `[?]`.** This is structurally identical to the **Magician gesture** killed on 2026-07-16 ([[feedback_two_channel_rule]]): a fully real, fully vault-grounded framework recruiting **one ambiguous motion**, where every link being independently true supplied a *reason to trust* the recruitment. Frame-check discipline applies twice over here, since the stills do not even confirm the finger-up (foreground audience hand) or the crowd's hand-shape.
+
+**The mundane reading is strong and must stay on the table.** A touring artist at a brutally hot outdoor show learns Korean lines about the heat and the crowd; point at the sky, shield against the sun, open the hand to the audience ≈ *"it's hot, that sun is insane, but you all are incredible."* This needs **nothing** from the vault, fits the gestures exactly, and fits the light register of the Story caption. Shielding the eyes is the most common gesture in outdoor live music.
+
+**★ DEFLATED, pending verification (2026-07-27, same session).** An unverified candidate transcript (ChatGPT's guess, relayed by Jen; logged with its provenance warning in the source record) reads **오랜만이야. 오늘은 다 같이 놀아보자!** — *"Long time no see. Let's all have fun together today!"* **If correct, the sun-address reading collapses**, because **오늘은 = "today"** and pointing at the sun to mean *today* is an ordinary **iconic** gesture, not an address. The map becomes: finger-up = greeting · sun = "today" · open hand = **다 같이, "all together."** Beat 3 then fits perfectly with **no framework required.**
+
+**But do not close it yet, for one reason:** the provenance is unresolved — unknown whether the model **processed the audio** or **generated a plausible greeting from a description.** If the latter, the gesture-fit above is **circular** (a generic stage greeting fits generic stage gestures), and the deflation is as ungrounded as the reading it deflates. Verification = a Korean-speaking listener on the audio. *(Method note worth keeping: the `[?]` tier did its job here — the first evidence to arrive deflated the pretty reading rather than being absorbed by it.)*
+
+**What discriminates, in priority order:**
+1. **The words** (transcribe the audio, or a Korean-speaking listener). If the utterance is three-part with the sun as an addressee, promote toward `[W]`; if it is standard heat-and-crowd banter, the symbolic layer drops to substrate at best.
+2. **Sun azimuth** (Paradise City Incheon · 2026-07-26 · stage orientation · slot time; computable, no new footage needed). If the sun sat **behind the crowd**, beats 2 and 3 share a single axis and the sequence is spatially continuous, *the star above and the star in you on one line*, which is [[SOL]]'s own geometry. If the sun was to the side or behind him, the beats are two distinct directions and the reading weakens sharply.
+3. **Recurrence** at another outdoor date (per [[feedback_evidence_weighting]], the cheapest evidence, so it corroborates rather than establishes).
+
+**A separate, smaller finding that does NOT depend on any of the above `[W]`-cand:** the crowd answered a spoken/gestural offer with a **gesture of return**. In [[Communion vs Spectacle]] terms that is **the sing-back device in non-verbal form**, in a language he does not speak, which is consistent with the set's larger pattern of soliciting distinct return rather than scripted noise. Weaker than the Loser mic-out (a gesture is not a voice, and audience-hearts are conventional), but it points the same way.
+
 ## 5. Discriminating questions for Roy (Jen's ask-list, refined)
 1. "Did you know what that heat was going to do to the paint when you got dressed, or did you find out onstage?" (designed melt / accepted melt / surprise)
 2. "Was going down to the barrier during Happy Face planned, or did it pull you down?" (blocked staging / channeled impulse; independently checkable via security + pit camera)

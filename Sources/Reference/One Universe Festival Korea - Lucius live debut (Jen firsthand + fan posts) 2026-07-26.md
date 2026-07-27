@@ -64,6 +64,25 @@ Jen's standing rule preserved: staging/action facts are `[P]` (firsthand relay) 
 
 **Reception datum `[G]` (the vocabulary, not a claim about intent):** both of the reposting account's texts reach for **팬 서비스 / "fan service"**, a genre-native Korean term for *deliberate* performer-to-fan intimacy (eye contact, hand-holding, leaning in), understood as something the artist chooses to give. The local audience coded the barrier sequence as **intentional generosity, rated record-tier** — not as a malfunction or a mask failing. **Guard:** 팬 서비스 is the default frame available for *any* artist who works the barrier, so it is weak evidence about Roy's intent and strong evidence about **reception**. Jen's reading (the mask coming off) and the local reading (the artist giving) are different claims; the gap between them bears on [[Communion vs Spectacle]] (does the act return to source, or point at the image?).
 
+## The Korean-speech beat — gesture sequence `[P]` (Jen firsthand, 2026-07-27)
+*Observation record only. The reading lives in the fold-inbox body file; it is `[?]`, see the guard there.*
+
+Jen's account of the spoken beat the "sir lucius speaks Korean" Story captures, in order:
+1. **Index finger pointed up** — first sentence.
+2. **Hand held out, blocking/shielding the sun** — first part of the second sentence. Jen: *"he said it almost like he was talking to the sun"* **(interp., Jen's read of direction + tone, not staging fact)**.
+3. **Hand held out to the crowd** — last part.
+4. **Audience response:** some members made a sign with **thumbs and pointer fingers** during these statements. `[?]` **identification:** consistent with the Korean **손하트 / finger heart** (thumb and index crossed), the conventional audience response to affection from a stage, most often answering **사랑해요** ("I love you"). Identification not confirmed from stills.
+
+**⚠ Frame-check caveats (Claude, 2026-07-27).** Stills do NOT independently confirm beats 1 or 4: in the second Story frame **the crisp raised index finger nearest the camera is a foreground AUDIENCE hand, not Roy's** (his own gesture is the small screen-image behind it), and the crowd's hand-shape is unresolvable at this resolution. Hands raised = ✅; the shapes = **Jen's count, taken per [[feedback_two_channel_rule]]** ("where she has watched and I have stills, take her count and say so"). What the stills do confirm: hand-raised and hand-extended gestures on the LED screen ✅, full daylight ✅.
+
+**Festival name confirmed ✅:** **ONE UNIVERSE** in red graffiti lettering on the stage rigging (4th Story frame), with the JAGWAR TWIN blackletter banner on the stage screen. adidas branding also on the rigging.
+
+**Structural note (fact, not reading):** the three beats are **deictic with three distinct referents, in order: up → the sun → the crowd.** So the utterance related three things and ended on the audience, whatever the words were.
+
+**⚠ Unverified candidate transcript `[?]` — NOT a source.** ChatGPT's best guess (relayed by Jen, 2026-07-27): **오랜만이야. 오늘은 다 같이 놀아보자!** *(Oraenmaniya. Oneureun da gachi noraboja!)* — "Long time no see. Let's all have fun together today!" **Provenance unresolved and load-bearing: unknown whether the model processed the audio or generated a plausible stage-greeting from a description.** If the latter, any gesture-fit is circular (a generic greeting fits generic stage gestures). Precedent for refusing to launder this in: the 2026-07-16 Google AI Overview that asserted fan Mad-Hatter chatter + a wrong Genesis-3 claim ([[project_ll_visualizer_boss_rule]]). **Do not cite.** Verification = one Korean-speaking listener on the audio.
+
+*Two observations held against the candidate, both `[?]`:* (a) **오랜만이야 ("long time no see") is semantically odd at a first-ever Korea show** — which is either a reason to doubt the guess, or, if verified, in-character (the figure who claims *"I was early on the scene"* greeting strangers as prior acquaintances). (b) Both phrases are **반말 (casual register)** where a performer addressing a Korean festival crowd would conventionally use 존댓말 — presumptuous familiarity, consistent with the character, but weak evidence (a foreigner says whatever phrase they were taught).
+
 ## The video (translate.mov) — what it does and does not contain ✅
 - Screen recording of two @jagwartwin IG Stories, ~17s, captured 2026-07-27 ~11:01-11:02, both Stories ~4h old.
 - **All on-screen text is English.** Story 1 (repost of @nouserinformationlol): *"@jagwartwin 🔥🔥 @fluxsonic.official"* over the fan-selfie clip. Story 2 (repost of @bekimwj): the overlay **"sir lucius speaks Korean"** + *"@jagwartwin"*, over IMAG-screen footage of the set and a wide shot of the **JAGWAR TWIN** blackletter stage banner.
@@ -79,6 +98,8 @@ Jen's standing rule preserved: staging/action facts are `[P]` (firsthand relay) 
 - [ ] **What Lucius actually said in Korean** (audio untranscribed; the claim currently rests on an overlay caption). Jen's ear, or a Korean-speaking listener, closes this.
 - [ ] Whether the "sir lucius speaks Korean" overlay was written by the @jagwartwin account or by @bekimwj (Story-added text vs baked into the fan's clip).
 - [ ] Expand and capture the full @music.fleamarket.club caption (truncated at "…프로듀서").
+- [ ] **Sun azimuth at set time** (Paradise City, Incheon · 2026-07-26 · stage orientation · slot time). Decides whether beats 2 and 3 of the Korean-speech sequence share a direction (sun behind the crowd = one axis) or oppose (sun to the side/behind him = two directions). Computable without new footage; **the single most load-bearing open fact on that beat.**
+- [ ] Confirm the audience hand-shape (finger heart vs other) from better footage; and whether the response was to a specific beat or general.
 - [ ] Festival day/slot; whether other Korea dates exist on this trip.
 - [ ] Copy Jen's capture archive (IMG_2358-2369, SoulisaStar.PNG, translate.mov) into a durable store; currently outside the vault in ~/Claude/Code/Images. Jen's call where.
 - [ ] Master Source List row for this record (not added this session).
