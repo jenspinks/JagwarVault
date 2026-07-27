@@ -111,7 +111,24 @@ Jen's account of the spoken beat the "sir lucius speaks Korean" Story captures, 
 
 **Consequence:** the 해 token that seeded the sun/moon reading came from **an audience member asking Roy to turn around**, not from the PA. **The sun/moon candidate is withdrawn as unsupported** — not disproven (Roy's actual words may simply be unrecoverable from this clip), but it has **no evidential floor** and must not be cited, folded, or used to support any staging reading. **Method note:** Jen's ear beat three ASR models and Claude's own acoustic hunch; cf. [[feedback_two_channel_rule]] ("Jen's observations outrank mine").
 
-**★★★ THE AUDIO IS EXHAUSTED — STOP PROCESSING IT (established 2026-07-27). A hallucination CONTROL was obtained.**
+**★★★ TWO SPEAKERS, TWO WINDOWS — the current best reading of the audio (revised 2026-07-27 after Jen's correction).**
+
+⚠ **Standing limitation, stated first because it governs everything below: Claude CANNOT HEAR AUDIO.** Every Claude claim in this section derives from Whisper's text output and ffmpeg decibel measurements. **Jen has listened; Claude has not.** On any question of what is audible, **Jen is authoritative and Claude has no standing.** Jen, 2026-07-27: the words in the isolation are **clearly and loudly audible, not subtle.** An earlier Claude framing ("the audio is exhausted") **overreached and is withdrawn.**
+
+**★ The time-alignment, which fits both Jen's ear and the measurements — TWO SEPARATE UTTERANCES, not rival transcripts of one:**
+
+| original time | Whisper content | acoustic profile | most likely speaker |
+|---|---|---|---|
+| ~7.7–10.5 s | 다 · **그렇더라(구요)** | **far-field** (HF−LF ≈ −22 dB) | **the stage / PA** — the region where Roy's "first line" should sit |
+| ~10.5–15.3 s | **하나님 · 다리에 · 보였다** | **near-field** (HF−LF ≈ −7 to −10 dB) | **the audience member beside the phone** |
+
+**Consequence:** *아, 그렇더라* and Jen's *"Hah-nah-roe to-ra-bo-rah"* were treated as competing readings of one utterance. **They are probably not competing at all** — they fall in different windows with different acoustic signatures, and **both may be correct about different voices.** The near-field window is where Jen's phonetic string belongs; the far-field window is the candidate for Roy.
+
+**What remains genuinely open:** which words are in each window. Six machine candidates exist and are mutually incompatible; **the null-input control (below) shows why a machine transcript cannot self-validate**, not that any specific one is wrong. **A Korean-speaking listener on the isolation resolves this quickly, and Jen reports the audio is more than good enough for that.**
+
+---
+
+**The null-input control (kept — it bounds what a machine transcript can prove, nothing more):**
 
 Further attempts, all failing:
 - **Roy's own line is unrecoverable.** The far-field window where Jen places his "first line" (orig ~4.6–10.5 s) was isolated, denoised (highpass 110 / lowpass 5200 / afftdn / loudnorm) and run through `large-v3`: output was **그렇더라구요** alone — the stock filler again. Nothing else is in there.
@@ -124,13 +141,15 @@ Further attempts, all failing:
 | **pink noise** (`anoisesrc`, 7 s) | 오늘도 시청해 주셔서 감사합니다! ("thanks for watching today!") |
 | low-passed isolation (250 Hz) | 다음 영상에서 만나요! ("see you in the next video!") |
 
-  **Whisper produced the paid-advertising sentence from LITERAL DIGITAL SILENCE — the same output it gave for the slowed isolation.** Given no signal at all it returns Korean YouTube boilerplate with full confidence. **그렇더라구요 belongs to the same fallback family** and was emitted from **four different audio regions** today, including the far-field window (orig 4.6–10.5 s) which *ends where the near voice begins* and so cannot contain it. **A genuine transcription cannot be identical for two different sound sources.**
+  Given **no signal at all**, Whisper returns Korean YouTube boilerplate with full confidence. **What this establishes and what it does NOT:** it proves Whisper **can** fabricate fluent Korean from nothing, so a machine transcript is not self-validating. **It does NOT prove that any particular output here IS fabricated.** ⚠ **Claude overgeneralised from this control on 2026-07-27 and the overreach is retracted** — if there is real signal (see below), the control says nothing about what the model does with it.
+
+  ⚠ **A factual error in the original write-up, corrected:** Claude claimed 그렇더라구요 was emitted "from four different audio regions… two different sound sources." **The timestamps say otherwise** — the full-clip run and the segment run both place it in the **same** window (orig ~7.7–10.5 s). That is **consistency**, reported here in error as contradiction.
 
 - **⚠ Whisper's own "acoustic ranking" is NOT an independent check.** Scoring candidate sentences by log-probability uses **the same model with the same priors** that produced the hallucination; a model that defaults to 그렇더라구요 also *scores* it highly. Spontaneous output agreeing with candidate-ranking is **one error measured twice**, not two witnesses (silence would rank high too). Applies to any future forced-alignment attempt on this material.
 
 - **A sixth candidate, also declined: 아, 그렇더라. 보라.** ("Ah, so that's how it was. Look.") Proposed 2026-07-27 on the reasoning that Whisper heard 아 그렇더라… and merely completed the polite ending -구요. **Three objections:** (1) it takes as its starting material the exact phrase family the **null-input control** proves Whisper emits with **no signal at all** — there is no basis for treating the stem as heard and only the suffix as invented; (2) it requires **discarding the /n/ in Jen's own hearing** — she wrote **"nah roe"**, the parse needs **"geu-reot"**, and /n/ vs /g/ are not confusable (she independently ruled out 한 번 on that same region); (3) **★ PRIMARY-DATUM DRIFT** — Jen's phonetic string has been silently rewritten across relays: **"nah roe" → "kah-row" → "geu-reot"**, each step landing nearer the model's current hypothesis. **The single genuine observation in this investigation is being edited by the tools meant to interpret it.** Same failure as the sun/moon guess, one layer up.
 
-**★ STANDING RULE for this datum:** **freeze Jen's phonetic string verbatim — "Hah - nah roe to ra bo rah" — and do not convert it.** Do not generate further Korean candidates; six mutually-incompatible ones now exist, all fluent, all from systems that also transcribe silence. **Route the frozen phonetics (and the audio) to a Korean-speaking human, with no model in between.**
+**★ STANDING RULE for this datum:** **freeze Jen's phonetic string verbatim — "Hah - nah roe to ra bo rah" — and do not convert it.** It is a **primary observation**, and it has already drifted twice in relay ("nah roe" → "kah-row" → "geu-reot"). Preserve it unconverted so any future listener starts from the original, not from a model's paraphrase of it. **Route the frozen phonetics AND the audio to a Korean-speaking human, with no model in between.** *(This rule is about protecting the primary datum from drift — it is NOT a claim that the words are unrecoverable; Jen reports they are clearly audible.)*
 
 **What the control does NOT establish:** that the voice is absent. **Jen hears it clearly**, so it is real, and her phonetic string ("Hah-nah-roe to-ra-bo-rah") is real data. What is dead is **every machine transcript of this material**, including the ones that agreed with each other. **The only instrument that has worked is a person listening.**
 
