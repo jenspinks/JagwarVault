@@ -54,6 +54,21 @@ Jen's standing rule preserved: staging/action facts are `[P]` (firsthand relay) 
 - Repost of **@bekimwj** concert footage with the text overlay **"sir lucius speaks Korean"** ✅ (translate.mov). Whether the overlay text is the account's or the fan's = TO VERIFY; visual style reads as Story-added text.
 - Provenance note: these are **Roy-exposed public reposts** (citable per [[Boundaries]]); the underlying fan posts are public IG posts.
 
+## Korean-language captions, verbatim + translation ✅ (frame-read 2026-07-27)
+*No interpretation here. Translations by Claude; a native-speaker check is welcome but the readings are plain.*
+
+- **@crownsondo** (carousel, IMG_2358-2360): **예년보다 뜨거울 나의 여름 ☀** — "My summer, hotter than the usual years ☀" (independent corroboration of the heat).
+- **@music.fleamarket.club, on-video overlay** across the barrier footage (IMG_2361): **팬 서비스가 말도 안 되는 재규어 트윈** — "Jagwar Twin, whose fan service is absurd" (말도 안 되는 = lit. "makes no sense," idiomatic praise, i.e. "unreal"). **재규어 트윈** = Jagwar Twin transliterated.
+- **@music.fleamarket.club, post caption** (truncated by IG, IMG_2366/2369): **역대급 팬 서비스를 보여준 미국의 싱어송라이터이자 프로듀서 …** — "The American singer-songwriter and producer who delivered all-time-great fan service …" (역대급 = record-tier). Full caption text = TO VERIFY (expand the post).
+- Account handle **바자회** = "bazaar" (the flea-market branding).
+
+**Reception datum `[G]` (the vocabulary, not a claim about intent):** both of the reposting account's texts reach for **팬 서비스 / "fan service"**, a genre-native Korean term for *deliberate* performer-to-fan intimacy (eye contact, hand-holding, leaning in), understood as something the artist chooses to give. The local audience coded the barrier sequence as **intentional generosity, rated record-tier** — not as a malfunction or a mask failing. **Guard:** 팬 서비스 is the default frame available for *any* artist who works the barrier, so it is weak evidence about Roy's intent and strong evidence about **reception**. Jen's reading (the mask coming off) and the local reading (the artist giving) are different claims; the gap between them bears on [[Communion vs Spectacle]] (does the act return to source, or point at the image?).
+
+## The video (translate.mov) — what it does and does not contain ✅
+- Screen recording of two @jagwartwin IG Stories, ~17s, captured 2026-07-27 ~11:01-11:02, both Stories ~4h old.
+- **All on-screen text is English.** Story 1 (repost of @nouserinformationlol): *"@jagwartwin 🔥🔥 @fluxsonic.official"* over the fan-selfie clip. Story 2 (repost of @bekimwj): the overlay **"sir lucius speaks Korean"** + *"@jagwartwin"*, over IMAG-screen footage of the set and a wide shot of the **JAGWAR TWIN** blackletter stage banner.
+- **⚠ The Korean speech itself is unverified.** The claim that Lucius spoke Korean rests on the **overlay text** (whose author, Roy's account or the fan, is itself unconfirmed); **the audio has not been transcribed** (Claude cannot process audio). What was actually said, in what language, and whether it was in Lucius's register = **open**.
+
 ## TO VERIFY
 - [ ] Permalinks for: the @crownsondo carousel, both @music.fleamarket.club posts, both @jagwartwin Stories (expire in 24h; the originals @nouserinformationlol / @bekimwj may persist), any @fluxsonic.official post.
 - [ ] Full setlist and order (Happy Face position; whether Life is Good was in fact second; what else from LL was played).
@@ -61,6 +76,9 @@ Jen's standing rule preserved: staging/action facts are `[P]` (firsthand relay) 
 - [ ] Whose camera operator was in the pit (festival media vs Roy's crew).
 - [ ] Whether @jagwartwin posts its own footage of the set (vs only fan reposts).
 - [ ] Whether the timing of the hood removal attaches specifically to Soul is a Star or preceded it by songs.
+- [ ] **What Lucius actually said in Korean** (audio untranscribed; the claim currently rests on an overlay caption). Jen's ear, or a Korean-speaking listener, closes this.
+- [ ] Whether the "sir lucius speaks Korean" overlay was written by the @jagwartwin account or by @bekimwj (Story-added text vs baked into the fan's clip).
+- [ ] Expand and capture the full @music.fleamarket.club caption (truncated at "…프로듀서").
 - [ ] Festival day/slot; whether other Korea dates exist on this trip.
 - [ ] Copy Jen's capture archive (IMG_2358-2369, SoulisaStar.PNG, translate.mov) into a durable store; currently outside the vault in ~/Claude/Code/Images. Jen's call where.
 - [ ] Master Source List row for this record (not added this session).
