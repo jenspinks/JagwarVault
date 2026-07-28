@@ -185,6 +185,9 @@ Universal source material — published books, traditions, philosophical systems
 
 ## 7. Public Posts & Social Media
 
+### Live performances — observation records
+- **One Universe Festival, Paradise City, Incheon, Korea — 2026-07-26.** First-ever Korea show and **the first full musical set performed as Sir Lucius**. Record: [[Sources/Reference/One Universe Festival Korea - Lucius live debut (Jen firsthand + fan posts) 2026-07-26]] (`status: draft`). Sources = Jen firsthand `[P]` + public fan IG posts (@crownsondo, @music.fleamarket.club) + **@jagwartwin Story reposts** of @nouserinformationlol and @bekimwj (⚠ **Stories expire — the underlying fan posts are the durable anchors and are still uncaptured**). Cite the fan posts / the account's reposts, never the screen-recording. Session log entry: [[log]] `[2026-07-27]`.
+
 Twitter/X, Instagram, TikTok content from Jagwar Twin's verified accounts.
 
 - Twitter/X: [@jagwartwin](https://twitter.com/jagwartwin)
