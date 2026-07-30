@@ -3,12 +3,12 @@ type: reference
 citable: false
 status: stable
 created: 2026-07-29
-purpose: "One-page index of the 2026-07-29 session: the VITRIOL/quote-card provenance correction, the open-leaf reading pass, Jen's artifacts-are-source-code reframe, and the board↔artifact overlap map. Links out to every file touched; the append-only record is in log.md (three 2026-07-29 entries)."
+purpose: "One-page index of the 2026-07-29 session: the VITRIOL/quote-card provenance correction, the open-leaf reading pass, Jen's artifacts-are-source-code reframe, and the board↔artifact overlap map. Links out to every file touched; the append-only record is in log.md (four 2026-07-29 entries, one from the parallel video-corpus session)."
 ---
 # Session Checkpoint — 2026-07-29
 ## Quote-card pins · the artifact reframe · the board overlap
 
-**What this is:** the one-page view of everything done in the 2026-07-29 working session, in order, with links. Detail lives in the linked pages and in [[log]] (this session wrote the `lint | CORRECTION — quote-cards` and the two `restructure/query` entries; the `ingest+query+lint | hung cloud session recovered` entry that day is a **different, parallel session** on the video corpus).
+**What this is:** the one-page view of everything done in the 2026-07-29 working session, in order, with links. Detail lives in the linked pages and in [[log]] (this session wrote the `lint | CORRECTION — quote-cards` entry, the two `restructure/query` entries, and the `query+ingest | completeness pass` entry; the `ingest+query+lint | hung cloud session recovered` entry that day is a **different, parallel session** on the video corpus).
 
 **The two rulings that now govern all artifact work (Jen, this session):**
 > *"I don't need codes. These artifacts are the source code to the whole project. Every one of them should be considered a direct statement… It is an attempt to download his own consciousness, the same one that built the project, wrote the songs, and created the JT cosmos."*
@@ -45,7 +45,7 @@ purpose: "One-page index of the 2026-07-29 session: the VITRIOL/quote-card prove
 - **`18c56a31` and `83ff23dd` are screenshots of the "I'm 33" board itself** (the Tetragrammaton column; the "Horus" cell) — board-as-quarry confirmed at **cell level**.
 - **`8cbe4d1d` is a video frame with real, illegible stencil text** (not "confirmed text-free"), and `3252cfd9` carries a **`+` on the forehead** pass-1 never recorded.
 - Codes, for completeness: 1,481 visible-mark variants vs all 42 open leaves → **0 hits** (validator self-tested against the 3 known cracks; saved as `Sources/Artifacts/Data/merkle-coverage-2026-06-28/hom_validate_2026-07-29.py`). No prohibition written.
-- **Never pulled from GCS, still unseen by anyone:** `51f28bfc` · `53d191a0` · `ac9f2eb2`.
+- ~~**Never pulled from GCS, still unseen by anyone:** `51f28bfc` · `53d191a0` · `ac9f2eb2`.~~ → ✅ **pulled + read in the second sitting** (see §4a and open item 3).
 
 ---
 
@@ -71,15 +71,22 @@ Jen's ruling (top of page) landed mid-pass and was written into the vault as sta
 - **Cross-domain:** ASHIM #120's code = a verbatim poem line (*"who was I to know?"*) · **ROMA CALLED ROY #30** threads Statue-of-Roy → Roy's *"true of voice"* self-sketch → the `TRUE VOICE` code → the board DM · ★ the **chest-emblem triple** (his `+` tattoo · #30's chest pendant · the `+`-figure's star medallion) `[W]`.
 - **Roy's own taxonomies** folded into the self-archive page: the Hero's-Journey wheel as the corpus's myth-index in his hand; the Body-Part ladder as its somatic grid; my eight strata demoted to a compatible analyst's grid.
 
+### 4a · The completeness pass (second sitting, after Jen's "every single artifact?" challenge)
+
+§C of the map was targeted, not exhaustive — the honest answer was **no**. The map now carries:
+- **§C2 — all 149 catalog rows swept** vs the board: ~20 new ties. Standouts: #8's code = **`INSIDE OF THE INSIDE`** (the board aphorism verbatim) · ★ **KHAWAH's code `26` = the YHWH sum whose derivation the board-screenshot room `18c56a31` displays** (a board panel teaching another room's code) · #47's name + code = the two halves of one board cell · #63/#64 = elements of the **SEEDS notebook page** (one drawing, three rooms) · ★★ the **animal body-part code family** (`LEFT HIP OF A DOVE` · `RIGHT SHOULDER OF A HORSE` · `CRANIUM OF A SWAN` · `PITUITARY GLAND OF AN OWL` · `TEETH OF A WHALE`) **↔ the board's Body-Part Stages ladder**, held `[W]`, differential unrun · explicit **nulls recorded** so the sweep is claimable.
+- **§C3 — the last three leaves, seen for the first time ever:** `53d191a0` = **the veils drawing** (the artwork minted **#117 WHEELS** reproduces; corrects #117's "ADN"→**AIN**) · `51f28bfc` = **4:28 video**, rotating point-cloud **bust of a woman's head** (identity `[?]`) · `ac9f2eb2` = **3:53 video**, wireframe glyph over **frozen-sea footage** (the Antarctica register, likely kin to #105 `ANTARCTICA (LOST SONG)`). All three archived to the bench folder; manifest → 37 entries. ★ **Both videos carry audio no one has ever heard** — extracted and delivered to Jen's listening queue.
+- **§C4 — the coverage statement:** 149/149 rows swept · every open-leaf image read · board panels fully passed · **audio = the one unread stratum, Jen's listening pass in progress.**
+
 ---
 
 ## Every file touched (created ★ / edited)
 
-**_System/** · [[Quote-Cards - Provenance Handoff (2026-07-28)]] (rewritten, `status: resolved`) · [[Framework Registry]] · [[Drafts Fold-Status]] · [[log]] (3 entries) · ★ this checkpoint
+**_System/** · [[Quote-Cards - Provenance Handoff (2026-07-28)]] (rewritten, `status: resolved`) · [[Framework Registry]] · [[Drafts Fold-Status]] · [[log]] (4 entries) · ★ this checkpoint
 **Brain/Roy Voice/** · [[Brain/Roy Voice/Roy on Influences]] (VITRIOL + 15 pins + flags reworked)
 **Brain/Concepts/** · [[Brain/Concepts/The Rose Cross]]
 **Brain/Media/** · ★ [[Brain/Media/The + marked figure (cat ears, star medallion)]] · ★ [[Brain/Media/The child knight (armour and pony)]] · ★ [[Brain/Media/The artifact corpus as a self-archive]] · [[Brain/Media/Egg - Sunrise by the Ocean (Vladimir Kush)]]
-**Sources/Artifacts/** · [[HoM - Open-leaf artwork reading bench (34 rooms, forensic) 2026-06-29]] (scope-correction + reading pass + board join) · ★ [[Board - The Artifact Overlap (crops, rooms, subjects)]] · [[Roy - I'm 33 this year (spreadsheet)]] (header) · [[Roy - I'm 33 Board (Image Gallery)]] (discrepancy flag) · ★ `Data/merkle-coverage-2026-06-28/hom_validate_2026-07-29.py`
+**Sources/Artifacts/** · [[HoM - Open-leaf artwork reading bench (34 rooms, forensic) 2026-06-29]] (scope-correction + reading pass + board join) · ★ [[Board - The Artifact Overlap (crops, rooms, subjects)]] (+§C2–C4 second sitting) · [[Roy - I'm 33 this year (spreadsheet)]] (header) · [[Roy - I'm 33 Board (Image Gallery)]] (discrepancy flag) · ★ `Data/merkle-coverage-2026-06-28/hom_validate_2026-07-29.py` · ★ 3 media archived to `Media/images/hom-artifacts/open-leaf-bench-2026-06-29/` (+ `_manifest.json` → 37)
 **Ontology:** +4 MEDIA ids (`MEDIA-PlusForeheadFigure` · `MEDIA-ChildKnight` · `MEDIA-ArtifactCorpusSelfArchive`; `MEDIA-DeadLetterDiaries` added then removed, its analysis already lives at catalog #12)
 **Memory:** ★ `feedback_artifacts_are_source_code` · `feedback_verify_before_absent` (escalated) · index updated
 
@@ -87,7 +94,7 @@ Jen's ruling (top of page) landed mid-pass and was written into the vault as sta
 1. Verify `3252cfd9` **on/off the board** against Jen's 5 hi-res screenshots (gallery says on; transcript is silent).
 2. Complete the **10-of-10 colour-ladder hex capture** (currently 8), then test the two swatch rooms (`6ed41c56` #d3e8df · `768e7068` #78cde1) as rungs.
 3. ~~Pull the 3 never-seen leaves~~ ✅ **DONE (second sitting):** `53d191a0` = the veils drawing (≈ minted #117, "ADN"→AIN corrected) · `51f28bfc` = 4:28 point-cloud-bust video · `ac9f2eb2` = 3:53 Antarctica-register video — **both videos have never-heard audio, handed to Jen's listening queue.** Also: the **full 149-row catalog sweep** ran (map §C2 — ~20 new board ties incl. the `INSIDE OF THE INSIDE` code, the KHAWAH·`26` interlock, the SEEDS page-family, ★ the **animal body-part code family ↔ Body-Part-Stages ladder** hypothesis).
-4. **The audio stratum has no listening pass** — 14 room MP3s in `Sources/Artifacts/Audio Files/` + open leaf `e163466b`; under the source-code frame these are direct statements too.
+4. **The audio stratum has no *recorded* listening pass** — ⏳ **Jen is listening now (2026-07-29)**: 14 room MP3s in `Sources/Artifacts/Audio Files/` + open leaf `e163466b` + the two never-heard tracks extracted from the §C3 videos. When done, her hearings should land somewhere durable (a listening-notes file or per-artifact rows), else the pass evaporates.
 5. Pin the **Jung Trickster** card and resolve **"man is a machine"** vs the pinned 2026-01-16 card.
 6. Pixel-compare the two ladders vs the board screenshots (crop vs re-instantiation).
 7. `8cbe4d1d`'s stencilled planter-box text: higher-res pull could yield it.
