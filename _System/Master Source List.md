@@ -186,7 +186,7 @@ Universal source material — published books, traditions, philosophical systems
 ## 7. Public Posts & Social Media
 
 ### Live performances — observation records
-- **One Universe Festival, Paradise City, Incheon, Korea — 2026-07-26.** First-ever Korea show and **the first full musical set performed as Sir Lucius**. Record: [[Sources/Reference/One Universe Festival Korea - Lucius live debut (Jen firsthand + fan posts) 2026-07-26]] (`status: draft`). Sources = Jen firsthand `[P]` + public fan IG posts (@crownsondo, @music.fleamarket.club) + **@jagwartwin Story reposts** of @nouserinformationlol and @bekimwj (⚠ **Stories expire — the underlying fan posts are the durable anchors and are still uncaptured**). Cite the fan posts / the account's reposts, never the screen-recording. Session log entry: [[log]] `[2026-07-27]`.
+- **One Universe Festival, Paradise City, Incheon, Korea — 2026-07-26.** First-ever Korea show. `[?]` Whether it was **the first full musical set performed as Sir Lucius** is **OPEN and needs re-sourcing** — the claim entered the vault attributed to Jen as a present witness, and ⚠ **Jen was not at the show** (confirmed 2026-07-28). Record: [[Sources/Reference/One Universe Festival Korea - Lucius live debut (Jen video review + fan posts) 2026-07-26]] (`status: draft`; **read its correction banner before citing**). Sources = **Jen's review of fan video** `[P]` (⚠ NOT eyewitness — corrected 2026-07-28) + public fan IG posts (@crownsondo, @music.fleamarket.club) + **@jagwartwin Story reposts** of @nouserinformationlol and @bekimwj (⚠ **Stories expire — the underlying fan posts are the durable anchors and are still uncaptured**). Cite the fan posts / the account's reposts, never the screen-recording. Session log entry: [[log]] `[2026-07-27]`.
 
 Twitter/X, Instagram, TikTok content from Jagwar Twin's verified accounts.
 
@@ -287,6 +287,30 @@ Verbatim excerpts are filed in [[Sources/Transcripts]]; thematic aggregation in 
 | ~2022 | Masquerade Atlanta | https://www.masqueradeatlanta.com/attraction/jagwar-twin/ | Venue bio / **childhood ballet** confirmation / 33-era framing / Happy Face = social media inauthenticity | **ingested** — [[Sources/Transcripts/Masquerade-Atlanta-Venue-Bio]] |
 | n/a | SoundBetter | https://soundbetter.com/profiles/221681-michael-morgan | Michael Morgan profile (collaborator credits — co-writer Hell Pt. 2) | **ingested** — [[Sources/Transcripts/SoundBetter-Michael-Morgan-Profile]] |
 | ~2022 | YouTube | https://www.youtube.com/watch?v=DSTNppG5Bkg | **"Creative Process For New Album '33'"** — full body pending | partial — [[Sources/Transcripts/YouTube-DSTNppG5Bkg-33-CreativeProcess]] (metadata only; needs Jen paste or yt-dlp for transcript) |
+
+### Long-form YouTube interviews — whisper-1 batch (registered 2026-07-29)
+
+Thirteen long-form interviews captured in full from the whisper-1 coverage authority. **Topics below
+are the videos' own titles, not mined claims** — these bodies are ingested but **not yet analysed**,
+and none is listen-verified. Dates are `[?]` pending upload-date pinning. Corpus ids `y09`–`y21`.
+
+| Date | Outlet | URL | Topic | Status |
+|---|---|---|---|---|
+| 2024 `[?]` | Invest in Music (ep. 45, host Coop) | https://www.youtube.com/watch?v=qAF42lv1-Uo | `y09` 48:11 — Bad Feeling era. **Circle "biggest song" passage is listen-verified `[G]`** | **ingested (full body 2026-07-29)** — [[Sources/Transcripts/Invest-in-Music-2024-Bad-Feeling]] |
+| `[?]` | Bru In Studio | https://www.youtube.com/watch?v=s4lTKLpkWMA | `y10` 19:16 — "Jagwar Twin Joins Bru In Studio" | **ingested, unmined** — [[Sources/Transcripts/Bru-In-Studio-JagwarTwin]] |
+| `[?]` | outlet `[?]` | https://www.youtube.com/watch?v=H8lFeQVV3fk | `y11` 10:34 — "Let's Meet Jagwar Twin" | **ingested, unmined** — [[Sources/Transcripts/Lets-Meet-Jagwar-Twin]] |
+| `[?]` Bad Feeling era | Shane & Glory | https://www.youtube.com/watch?v=4oiolSALUNo | `y12` 20:36 — "Talking about Bad Feeling (Oompa Loompa)" | **ingested, unmined** — [[Sources/Transcripts/Shane-and-Glory-Bad-Feeling]] |
+| `[?]` | Bringin' It Backwards (host Adam) | https://www.youtube.com/watch?v=n9mf-4anR3w | `y13` 41:02 — podcast interview. Flagged as one of the three richest bodies | **ingested, unmined** — [[Sources/Transcripts/Bringin-It-Backwards-Podcast]] |
+| `[?]` Bad Feeling era | outlet `[?]` | https://www.youtube.com/watch?v=M4bL8eqrGFY | `y14` 12:54 — "Grateful For 'Oompa Loompa' Success, Attention After Grinding For Many Years" | **ingested, unmined** — [[Sources/Transcripts/Oompa-Loompa-Success-Interview]] |
+| `[?]` 33 era | outlet `[?]` | https://www.youtube.com/watch?v=n6HhkpNtsbI | `y15` 29:24 — "new album '33', learning yourself, & making choices like Harry Potter". **Closes a registered HoM gap** | **ingested, unmined** — [[Sources/Transcripts/Talking-About-33-Harry-Potter]] |
+| `[?]` 33 / NFT era | outlet `[?]` | https://www.youtube.com/watch?v=DgdHVqNzPF8 | `y16` 7:33 — "working with Josh Dun, fighting Mike Tyson, Happy Face, NFTs" | **ingested, unmined** — [[Sources/Transcripts/Josh-Dun-Happy-Face-NFTs]] |
+| `[?]` | The Lounge | https://www.youtube.com/watch?v=DKZTUElScIg | `y17` 3:12 — "Recording Jagwar Twin Songs in Haiti, Italy, and More" | **ingested, unmined** — [[Sources/Transcripts/The-Lounge-Recording-Haiti-Italy]] |
+| `[?]` ~Nov 2022 | The Honey POP | https://www.youtube.com/watch?v=fpg8w3tfgyo | `y18` 41:15 — "On '33' and The Hall of Mirrors". **Closes a registered HoM gap**; one of the three richest bodies | **ingested, unmined** — [[Sources/Transcripts/Honey-POP-33-and-Hall-of-Mirrors]] |
+| `[?]` Shine era | Five Things | https://www.youtube.com/watch?v=MYiJEiV_6KQ | `y19` 3:26 — "5 Things About Their Song 'Shine'" | **ingested, unmined** — [[Sources/Transcripts/Five-Things-Shine]] |
+| `[?]` | The Lounge | https://www.youtube.com/watch?v=M3yXE5bktG0 | `y21` 3:17 — "No Big 'Egos' Are Allowed in the Jagwar Twin Studio" | **ingested, unmined** — [[Sources/Transcripts/The-Lounge-No-Big-Egos]] |
+
+The Honey Podcast S2 E7 row above (`y20`, `R-GPlK7tyOQ`) already existed; its file now carries the
+**full 36:13 body**, where the prior auto-caption ingest stopped near 12:40.
 
 **Ingestion progress: 24 of 27** ingested + 1 partial (YouTube metadata-only). Final batch 5: Billboard 2019, Masquerade Atlanta, YouTube DSTNppG5Bkg (partial). **All 27 URLs are now registered, statused, and either ingested or actively flagged.**
 

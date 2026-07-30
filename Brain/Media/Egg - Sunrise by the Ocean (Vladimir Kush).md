@@ -17,8 +17,8 @@ source_quality: primary-source
 aliases: [Egg, Sunrise by the Ocean, Vladimir Kush]
 related: [SONG-SOL, SONG-Shine, ALBUM-SubjectToFlooding, CONCEPT-TheHouseAndTheVessel, CONCEPT-HallOfMirrors]
 grounded: [CONCEPT-HallOfMirrors]
-strong_read: []
-resonance: [SONG-SOL, SONG-Shine, ALBUM-SubjectToFlooding, CONCEPT-TheHouseAndTheVessel, SONG-CityOfAngels]
+strong_read: [CONCEPT-TheHouseAndTheVessel]
+resonance: [SONG-SOL, SONG-Shine, ALBUM-SubjectToFlooding, SONG-CityOfAngels]
 referenced_by: []
 review_date: 2026-12-29
 ---
@@ -58,8 +58,8 @@ An egg — the universal vessel of latent life — splits, and what is born betw
 
 So the picture compresses **drown → crack → dawn** — the directional move the catalogue runs from *Subject to Flooding* to *Shine*/SOL.
 
-### Canon connections — `[~]`
-- **The egg = the vessel that must crack to hatch.** [[Brain/Concepts/The House & the Vessel — Container Imagery (hold, open, shatter, hatch)|House & Vessel]] tracks hold / open / **shatter** / **hatch**; Kush's egg is the **hatch** fate made literal — rhyming with the **"I'm 33" board's egg→chicken** figure for the upload (*"how to live forever?"*). The shell is not the life; it protects life **until it can emerge.**
+### Canon connections
+- ★ **The egg = the vessel that must crack to hatch — UPGRADED `[~]`→`[W]` (2026-07-29).** [[Brain/Concepts/The House & the Vessel — Container Imagery (hold, open, shatter, hatch)|House & Vessel]] tracks hold / open / **shatter** / **hatch**; Kush's egg is the **hatch** fate made literal. The second, Roy-authored channel this page's counterarguments demanded turns out to be **contemporaneous**: the "I'm 33" board (dated **2021** by its own birthdate cell) carries, typed in Roy's own hand, *"**I'm an egg, in the process of becoming a chicken to make more eggs to make more chickens**"* — and this tweet is **2021-10-02**, the board's own year. One word over a hatching-egg painting + the era's long-form egg doctrine on the board = **two independent channels** for *egg-as-vessel-of-becoming*. **Scope discipline:** the upgrade covers exactly that core (the shell protects life until it can emerge, and must break). The sun=SOL / water=Flood / scaffolding readings **stay `[~]`** — the board aphorism says nothing about suns or floods. → [[Board - The Artifact Overlap (crops, rooms, subjects)]]
 - **The healthy inverse of false immortality.** [[City of Angels]] diagnoses *false* immortality — *"never gonna die,"* preservation-as-reproducibility (the shell kept forever; the Loop). The Egg states the *true* version: the shell **must break.** Live forever by *hatching*, not by *not-dying* — the corrective image to City of Angels' counterfeit. `[~]/[P]`
 - **The scaffolding = the built-and-tested vessel.** The shell is braced and tended by tiny workers — the vessel is **constructed** so it can crack safely. Rhymes with the HoM **aviation/father thread** (Test-Pilot lighters `da3b774d`/`4b240a5e`, biplane `99f4ee19`): someone *builds and tests the craft* so the crossing is survivable.
 
@@ -81,6 +81,7 @@ So the picture compresses **drown → crack → dawn** — the directional move 
 - **Falsifier:** a Roy statement that he posted it for egg-as-simple-rebirth (or just liked the Kush) collapses the solar-birth / Flood / vessel apparatus to one received symbol + our pattern-matching.
 
 ## Open Questions
-- [ ] Which era/mood prompted it (2021, between *33*-era work)? Any documented thread to the board's egg→chicken line?
+- [x] ~~Any documented thread to the board's egg→chicken line?~~ ✅ **Closed 2026-07-29:** the board is dated 2021 by its own birthdate cell; the tweet is 2021-10-02 — same era, and the aphorism is typed on the board in Roy's hand. Folded into §Canon connections as the `[W]` upgrade.
+- [ ] Which era/mood prompted the specific *day* of posting (anything adjacent on 2021-10-02)?
 - [ ] Did Roy choose Kush's **sun-over-water** specifically, or any "egg" image? (governs how much the sun/water reading is his vs ours)
 - [ ] HoM room `dd61bc93` is still uncracked — which seeded-elsewhere phrase opens it? (forensic; lives on the bench, not here)

@@ -12,7 +12,7 @@ ingest_source: "Roy English's own conceptual spreadsheet 'I'm 33 this year'. Cla
 
 > **Image gallery companion:** [[Roy - I'm 33 Board (Image Gallery)]] — the board's HoM-minted panels + non-minted board panels, grouped by thematic architecture, mirroring the HoM artifact-gallery catalogs (2026-07-11).
 
-> **Evaluated in 4 thematic passes** (media-evaluation, source vault): [[Board - The Upload]] · [[Board - The Ascent Ladder]] · [[Board - The Source-Code]] · [[Board - The Field]]. Full analysis: [[The Im 33 Board - Decoded (Roy's upload cosmology)]].
+> **Evaluated in 5 thematic passes** (media-evaluation, source vault): [[Board - The Upload]] · [[Board - The Ascent Ladder]] · [[Board - The Source-Code]] · [[Board - The Field]] · [[Board - The Artifact Overlap (crops, rooms, subjects)]] (board ↔ HoM artifacts/rooms, 2026-07-29). Full analysis: [[The Im 33 Board - Decoded (Roy's upload cosmology)]].
 
 ## Provenance & method
 - **Original:** Roy's Google **Sheet** "I'm 33 this year" (`gid=0`); AI-access-restricted, so read via **Jen's screenshots** (5 high-res panels spanning the full board) + an earlier Chrome pass.

@@ -11,6 +11,38 @@ about: "Vetting dossier 06 — two public 2023 posts as primary material: the su
 
 > **✅ RESOLVED 2026-06-28 — folded.** The B2 attribution is **pinned: Walter Russell, *The Universal One*** (1926), primary-source verified — a genuine **second public Russell receipt**. The 2026-06-14 canon withdrawal (in [[Sources/Quotes/Roy X Posts - 2023 (May-Dec) DRAFT]]) was a search-failure error, now corrected there + in [[The Pattern]]. The sun-death dream (A) + SiaS retelling (B1) live in that same canon quotes note. This dossier is superseded.
 
+> **✅ VETTED — verdict in (2026-06-14).** Recovered 2026-07-29 from the ChatGPT session archive [[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)|the full pass response]] (filed in this folder 2026-07-29). Reviewer's own wording below.
+>
+> **Tier moves:**
+> - The dream post: `[G]` **as a post.**
+> - The dream as era emotional weather: `[W-lite]`.
+> - Microscope optics: `[~]`.
+> - The dream-harvest class: `[W-lite]` **method note.**
+> - Luke/luc/light: `[~]`, **"probably omit."**
+> - Russell attribution: `[G]`, pending a stable source pin.
+> - Russell quote ↔ *Soul Is A Star* relation: `[W-]`.
+> - Second public Russell receipt: `[W]` once the board/public capture is stable.
+>
+> ★ **THE DREAM-HARVEST GATES, recovered in full** (the vault had recorded only that gates existed). *"Public dreams are eligible evidence, not automatic evidence. Use when at least two gates hold:"*
+> 1. posted by Roy;
+> 2. recurs/clusters with released imagery;
+> 3. later referenced/repurposed;
+> 4. temporally close to related cycle;
+> 5. contains unusually specific later echo;
+> 6. Roy explicitly treats dreams as creative/spiritually meaningful.
+>
+> **The governing formulation:** *"Posted dreams are primary material for Roy's public self-mythologizing and image ecology, not proof of song intent."*
+>
+> **Tone correction (do not lose this):** *"The kimchi ending matters. It keeps the post as raw dream-journal material, not lyric-sheet doctrine."*
+>
+> **Russell ↔ Soul Is A Star, the correct framing:** *"The Russell quote does not prove an intended source for Soul Is A Star, but Roy's 2023 curation of it publicly reactivates the same condemned-visionary logic the song had dramatized nine months earlier."*
+>
+> *The dossier text below is the version sent for review, preserved as-is.*
+
+> **⚠ PROVENANCE DISCREPANCY, unresolved — read before citing the Russell history.** The recovered archive records the pass **identifying** the attribution: *"The prophets quote was identified as Walter Russell, The Universal One. Before final public filing, still seek stable scan/page citation."* But the vault records the **opposite** verdict from the same 2026-06-14 pass: `Sources/Quotes/Roy X Posts - 2023 (May-Dec) DRAFT.md:317` states the *"NOT Russell / zero hits"* verdict was **withdrawn** on 2026-06-28. Both cannot describe the same exchange. Possibilities: two separate passes ran; the archive captures a later turn after the reviewer corrected itself; or the vault attributed a different source's negative to this pass. **Do not rewrite either record until this is settled.** What is *not* in doubt: the attribution is correct (primary-source verified 2026-06-28 by text extraction from the 453-page scan, where archaic *"to-day"* plus a curly apostrophe had defeated the lookups) and the failure was diagnosed as **"a search failure, not a real absence"** — the same failure mode that later hid the Eye Alaska video in Dossier 01. Cf. [[feedback_verify_before_absent]].
+>
+> ⚠ **Separately, the withdrawn verdict is still live in one place.** `_System/Parallel Works Index.md:49` continues to assert *"NOT Walter Russell… stays unattributed `[S]`"*, contradicting [[Brain/Concepts/The Pattern]]:65 and the Sources note. Queued as [[Session Fold Inbox]] row `20260721-065f-4`, **pending Jen's call.**
+
 **What to vet.** Two **public 2023 posts** treated as primary material connecting to the catalogue. Both are genuinely [G] as *posts*; the question is what they're allowed to ground. One carries an **attribution lead** ([?]) that one search could settle. Tell me where the [W] links over-reach, and help pin the attribution.
 
 ---

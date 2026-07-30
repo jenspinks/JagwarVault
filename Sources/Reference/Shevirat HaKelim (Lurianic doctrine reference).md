@@ -33,4 +33,42 @@ about: "Portable doctrinal reference for Shevirat HaKelim (the Breaking of the V
 - **Lurianic (world-affirming, redeem the material) ≠ Gnostic (anti-cosmic, escape the material).** The break is *generative* in Luria; the world exists *because* of it.
 - The **288-sparks** etymology is traditional gematria, not philology.
 
+## D. The Four Worlds (ABiYA) — and the two "worlds" taxonomies ⚠ (added 2026-07-28)
+This section closes a real gap: §A gives the *process* worlds and never gives the **standing ladder**, which is the taxonomy most readers mean by "the Four Worlds." Conflating the two is the classic error.
+
+**The ladder `[G doctrine]`.** Four worlds, descending, each a **complete Tree of ten sefirot** — so a world is not something *beside* the vessels, a world **is** a full set of them:
+| World | Sense | Standard correspondences |
+|---|---|---|
+| **Atzilut** (אֲצִילוּת) | Emanation | yod of YHWH · *chayah* · GD King scale · Wands/fire |
+| **Beriah** (בְּרִיאָה) | Creation | first heh · *neshamah* · **Queen scale** · Cups/water |
+| **Yetzirah** (יְצִירָה) | Formation | vav · *ruach* · Emperor/Prince scale · Swords/air |
+| **Assiah** (עֲשִׂיָּה) | Action / Making | final heh · *nefesh* · Empress/Princess scale · Disks/earth |
+
+Scriptural root: **Isaiah 43:7** — *"created… formed… made"* (בְּרָאתִיו / יְצַרְתִּיו / עֲשִׂיתִיו) gives Beriah/Yetzirah/Assiah, with Atzilut set above them. Counted with the primordial **Adam Kadmon** (§A.4) the scheme is the **Five Worlds**. The stacked-and-overlapping arrangement of all four Trees is nicknamed **"Jacob's Ladder."**
+
+**⚠ Two different "worlds" taxonomies — do not merge:**
+| | **Process worlds** (§A) | **The ABiYA ladder** (here) |
+|---|---|---|
+| Members | Olam HaNekudim · Olam HaTohu · Olam HaTikkun | Atzilut · Beriah · Yetzirah · Assiah |
+| What they are | **stages/conditions of the cosmic drama** | **standing ontological strata** |
+| Count | three | four |
+
+They are related but not the same list: **the shevirah occurs in the World of Points / Tohu, and the fallen shards constitute the substance of the worlds below Atzilut** (the *kelipot* descending to Assiah). That is the link between §A and §D, and it is internal to the doctrine — **the vessels and the worlds are one system, not two that were later mapped onto each other.**
+
+**⚠ Dual-stream, unlike the shevirah.** Where §A is specifically Jewish and §B is specifically Hermetic, **ABiYA is load-bearing in both.** The Golden Dawn's four **colour scales** and the four **tarot suits** are keyed to it (which is why the widely-reproduced sephirotic colour column is the *Queen* scale, i.e. Briah's — a fact invisible unless you already know the system, and therefore **not** evidence that a given user of that colour column has engaged the Four Worlds at all). Label which stream any claim is in, per §C.
+
+### Sourcing note (searched and resolved 2026-07-28)
+Two statements in this section were written from an analyst's general knowledge rather than a cited text. Both were checked against online sources. **One is now sourced; the other failed and is withdrawn.**
+
+**✅ (1) "Each world is a complete Tree of ten sefirot" — SOURCED.** Rabbi Nissan Dovid Dubov, *The Four Worlds* (Chabad.org): ***"Although all ten Sefirot are present in every world, one Sefirah (or a group of Sefirot) is predominant at each stage."*** <https://www.chabad.org/library/article_cdo/aid/361902/jewish/The-Four-Worlds.htm>. Corroborated by GalEinai (*Arba'ah Olamot*, <https://inner.org/worlds/arbaolam.htm>): all ten sefirot and the partzufim are manifest in each of the four realms. The same article independently confirms the **YHWH letter-mapping** used in §D's table (yod→Atzilut/Chokhmah · heh→Beriah/Binah · vav→Yetzirah/the six · final heh→Assiah/Malkhut). ⚠ **Tier the source, not just the claim:** Chabad and GalEinai are **Hasidic-lens** presentations, not neutral scholarship (cf. §A's own caution). The doctrine is standard and uncontroversial; for a neutral-academic pin prefer **Scholem** or **Fine**, neither of which is freely online. Wikipedia's *Four Worlds* article does **not** state it, so Chabad is the load-bearing citation here.
+
+**❌ (2) "Eden's four rivers (Gen 2:10) stand for the four worlds" — WITHDRAWN, could not be sourced.** A search returned **no reputable source** for this correspondence. Wikipedia's *Four Worlds* article contains **no mention of it whatsoever**; the only hit was a modern Gnostic discussion forum, which is not citable. **What that forum actually attributes to the Zohar is a *different* teaching**, and it is the securer one: **Eden = Binah, the Garden = Malkhut, and the river flowing out of Eden = the six sefirot between them.** Note that this teaching maps the river to **six**, not four, and reaches the four worlds only via a further step (Malkhut manifesting in each of the four Olamot) presented as *one of several* esoteric readings. **Do not cite the four-rivers↔four-worlds link.** If a rivers-correspondence is ever needed, **PaRDeS** remains the securer traditional association (*pardes* being the garden itself), and the Zoharic Eden/Garden/river teaching above should get its own pin from the Zohar directly before use. `[?]`
+
+**Consequence for the JT application:** the *How to Live Forever?* page's co-location of Gen 2:10 with "4 worlds" remains a **real observed fact about the page** `[G]`, but it is **no longer evidence that Roy was invoking a four-worlds proof-text** — that inference rested on the withdrawn association. Downgraded accordingly in [[Essays/_drafts/Framework Differential 01 - The Four Worlds (2026-07-28)]] §1.
+
+*(Everything else in §D is standard: Vital's *Etz Chaim* for the Lurianic material; Mathers / Regardie / Crowley's *777* for the Golden Dawn scales and suits; **Isaiah 43:7** for the Beriah/Yetzirah/Assiah naming, which Wikipedia cites explicitly; and the stacked-Trees "Jacob's Ladder" nickname, also in Wikipedia.)*
+
+*JT application and the standing guards (what may and may not be mapped) live at [[Keilim - The Breaking of the Vessels]] and [[Kabbalah - The Tree of Life]] §"The third axis".*
+
+---
 *Sources are listed inline above; this page summarizes them for portability. No Roy material here — see [[Keilim - The Breaking of the Vessels]] for the JT application.*

@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `84b370e` (2026-07-16 18:24:31 -0500) · 47 songs · 83 concepts · 6 characters · 3 albums
+> [!info] Generated snapshot — vault commit `0f1ec03` (2026-07-28 15:08:25 -0500) · 47 songs · 85 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -36,7 +36,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `SONG-MothsToTheFlame` | Moths to the Flame | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/Moths to the Flame.md` · stable | `Sources/Lyrics/Moths to the Flame.md` · stable | `Essays/Concepts/Songs/Moths to the Flame.md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-NotYourHomie` | Not Your Homie | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/Not Your Homie.md` · stable | `Sources/Lyrics/Not Your Homie.md` · stable | `Essays/Concepts/Songs/Not Your Homie.md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-PlayingToTheGods` | Playing to the Gods | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/Playing to the Gods.md` · stable | `Sources/Lyrics/Playing to the Gods.md` · stable | `Essays/Concepts/Songs/Playing to the Gods.md` | `Sources/Credits/Lucius Lullaby.md` |
-| `SONG-SOL` | SOL | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/SOL.md` · draft | `Sources/Lyrics/SOL.md` · draft | `Essays/Concepts/Songs/SOL.md` | `Sources/Credits/Lucius Lullaby.md` |
+| `SONG-SOL` | SOL | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/SOL.md` · draft | `Sources/Lyrics/SOL.md` · stable | `Essays/Concepts/Songs/SOL.md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-TheCircleLuciusVersion` | The Circle (Lucius Version) | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/The Circle (Lucius Version).md` · draft | `Sources/Lyrics/The Circle (Lucius Version).md` · draft | `Essays/Concepts/Songs/The Circle (Lucius Version).md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-Weirdness` | Weirdness | Lucius Lullaby (2026) | `Brain/Songs/Lucius Lullaby (2026)/Weirdness.md` · stable | `Sources/Lyrics/Weirdness.md` · stable | `Essays/Concepts/Songs/Weirdness.md` | `Sources/Credits/Lucius Lullaby.md` |
 | `SONG-WelcomeToTheCircus` | Welcome to the Circus | Lucius Lullaby (2026) | `Brain/Songs/Welcome to the Circus.md` · stable | `Sources/Lyrics/Welcome to the Circus.md` · stable | `Essays/Concepts/Songs/Welcome to the Circus.md` | `Sources/Credits/Lucius Lullaby.md` |
@@ -81,6 +81,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `CONCEPT-JacobEsau` | Jacob & Esau | — | `Essays/Concepts/Jacob & Esau.md` |
 | `CONCEPT-TreeOfLife` | Kabbalah — The Tree of Life | `Brain/Concepts/Kabbalah - The Tree of Life.md` · draft | — |
 | `CONCEPT-KeilimVessels` | Keilim / The Breaking of the Vessels | `Brain/Concepts/Keilim - The Breaking of the Vessels.md` · stable | — |
+| `CONCEPT-Love` | Love | `Brain/Concepts/Love.md` · draft | — |
 | `CONCEPT-MachineVsHuman` | Machine vs Human | `Brain/Concepts/Machine vs Human.md` · draft | `Essays/Arcs/Machine vs Human.md` |
 | `CONCEPT-Mozart` | Mozart | `Brain/Concepts/Mozart.md` · draft | — |
 | `CONCEPT-Nigredo` | Nigredo | `Brain/Concepts/Nigredo.md` · draft | — |
@@ -113,6 +114,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `CONCEPT-ThePattern` | The Pattern | `Brain/Concepts/The Pattern.md` · draft | — |
 | `CONCEPT-TheProtector` | The Protector | `Brain/Concepts/The Protector.md` · draft | — |
 | `CONCEPT-TheRealm` | The Realm | `Brain/Concepts/The Realm.md` · draft | — |
+| `CONCEPT-TheRoseCross` | The Rose Cross | `Brain/Concepts/The Rose Cross.md` · draft | — |
 | `CONCEPT-TheSpeakerProblem` | The Speaker Problem | `Brain/Concepts/The Speaker Problem.md` · draft | — |
 | `CONCEPT-TheSpectacle` | The Spectacle | `Brain/Concepts/The Spectacle.md` · draft | — |
 | `CONCEPT-TheThread` | The Thread | `Brain/Concepts/The Thread.md` · draft | — |

@@ -75,6 +75,20 @@ The Circus is not a 2026 idea — it is a **staged, realized world built across 
 
 ---
 
+## The Flood and the Circus — opposite failure modes `[W]`
+
+*Folded 2026-07-29 from the external meta-evaluation ([[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)]] §Keepers).*
+
+The two albums that bracket the catalogue name **two opposite ways the same thing fails.** *Subject to Flooding* is **dissolution**: the self loses its boundary, is overwhelmed, cannot stay sealed. The Circus is **sedation**: the self keeps its boundary perfectly intact and is anaesthetised inside it. One drowns you, the other numbs you.
+
+**The pairing's payload is that they share a victim.** Both prevent **living contact** — the boundary that is *permeable but held*, which is what [[Communion vs Spectacle|communion]] and [[The Circle]] require. Too much boundary-loss and there is no one left to meet; too little and there is no one willing to. The flood destroys the vessel; the Circus **preserves the vessel and empties it**, which is why the Circus is the more durable failure: it looks like survival.
+
+This reframes the two eras as a matched pair rather than a sequence. The debut diagnoses the danger of having **no walls** ([[Subject to Flooding (album)]] — *"we are all subject to flooding"*); the Lucius era diagnoses the danger of walls **that hold beautifully while nothing gets through** (the anaesthetic register the Circus already runs on: the lullaby that sedates, the music-box [[The Circle (Lucius Version)|counterfeit Circle]], *panem et circenses* below). Note the direction of travel: sedation is the **answer** the system offers to dissolution, and it is worse, because dissolution at least still wants contact.
+
+**Guard `[W]`.** This is a structural pairing drawn across two albums by this vault, not a claim Roy set them up as opposites. 2018 has no Circus vocabulary at all ([[Subject to Flooding (album)]] §retrospective-coherence). The **anaesthetic** reading of the Circus is independently grounded; the **flood-as-its-opposite** half is the synthesis. Do not date the pair to 2018.
+
+---
+
 ## Connections
 
 - [[The Circle]] — the Circus is the Circle inverted

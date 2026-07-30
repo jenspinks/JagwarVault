@@ -21,6 +21,12 @@ _Private/
 # Node (qmd / future tooling)
 node_modules/
 
+# Audio transcription scratch — raw stems, separated tracks, QC clips (~1.5 GB).
+# Working data, not source: the source audio lives in "Sources/Artifacts/Audio Files/*.mp3"
+# and the finished outputs in ".../Audio Files/Transcripts/*.md" (both committed).
+# PATH-INDEPENDENT (`**/`) per anti-pattern #13 — must not become committable via a move.
+**/_transcription_work/
+
 # Generated external-review export — regenerate via `node _System/build-review-context.mjs`.
 # NOT committed: large (~2.8 MB) and the redactions log aggregates private-referencing text.
 # (The build script itself IS committed — it's the source of truth.)

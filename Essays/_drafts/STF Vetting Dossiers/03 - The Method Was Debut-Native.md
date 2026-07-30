@@ -9,6 +9,29 @@ about: "Vetting dossier 03 — the craft theory and inherited-substrate method w
 ---
 # Dossier 03 — The Method Was Debut-Native
 
+> **✅ VETTED — verdict in (2026-06-14).** Recovered 2026-07-29 from the ChatGPT session archive [[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)|the full pass response]] (filed in this folder 2026-07-29). Reviewer's own wording below.
+>
+> **Verdict: the meta-claim survives only if narrowed to** *"Several later-signature craft habits are already documented at the debut."* It **fails** if rewritten as *"the whole later mythology was already encoded."*
+>
+> **Tier moves:**
+> - **A** (mantra) date floor: `[G]`; equivalence to the later Trojan-Horse framing: `[W]`.
+> - **B** (subtraction) anecdote: `[G]`; the cross-era thread: `[W-]`. Tsimtsum stays `[~]`.
+> - ★ **C** (Tinker-Tailor / nursery rhyme): **`[W-]` or `[?+]`.** The reviewer calls it *"Stress fracture."*
+> - **D** (Chaplin relay): `[W-]`.
+> - The overall debut-native thesis: **`[W]` only if narrow.**
+>
+> **A, the limit:** *"2018 establishes repetition-as-belief work. It does not independently establish every later delivery strategy/marketing formulation."* Suggested wording: *"The mantra date-floor moves back to 2018: Roy already describes repeated lyric as belief-altering practice. Later chorus-as-mantra language is a later formalization of a debut-era craft instinct."*
+>
+> **B, the limit:** the production event is a genuine craft anchor, but *"Later SOL/Circle readings need their own public anchors."* Suggested wording: *"Subtraction as revelation has a 2018 craft anchor: Loser came alive when material was removed. Later wordless or reduced versions can be read as variations, but theology remains resonance."*
+>
+> ★ **C, the fracture (note the reviewer's actual reasoning):** *"Rich man, poor man occurs in nursery rhyme but does not prove the allusion. Prophet and priest could point to a general **all-stations or biblical universalizing** line."* Suggested wording: *"Long Time Coming may draw on the Rich Man, Poor Man counting-rhyme tradition, but prophet and priest also support a simpler all-classes/all-stations reading. Treat it as possible childhood-form resonance, not a settled anchor."* ⚠ Correction to the vault's earlier secondhand summary: it recorded this as *"biblical merism."* **The reviewer did not use that word** — the competing reading is *all-stations / biblical universalizing*. Use the reviewer's phrasing.
+>
+> **D, the limit:** *"The album imports Chaplin's distributed humanism. Do not say Roy authored later theology in 2018."* Suggested wording: *"The debut's inherited-voice method is not decorative: Chaplin imports distributed, anti-authoritarian humanism that aligns with later anti-guru and collective-self language."*
+>
+> **The other three findings are folded canon** (2026-07-21 dedupe trail, do not re-derive): the 2018 mantra/reprogramming date-floor ([[Brain/Roy Voice/Roy on Influences]], [[Brain/Albums/Subject to Flooding (album)]]), subtraction-as-revelation, and the Chaplin relay ([[Brain/Songs/Subject to Flooding (2018)/Superhuman (Interlude)]]).
+>
+> *The dossier text below is the version sent for review, preserved as-is.*
+
 **What to vet.** Four findings that all push the **same date-floor correction**: the catalogue's signature *methods* — the mantra/repetition craft-theory, the subtraction-as-revelation production move, the nursery-rhyme substrate, and the inherited-voice relay — are usually credited to the later era but are **documented at the 2018 debut, in Roy's own words.** The risk to watch: a date-floor correction is strong precisely *because* it doesn't claim intent — make sure each stays a craft/continuity claim, not "he planned the mythology."
 
 ---

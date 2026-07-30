@@ -4,7 +4,7 @@ type: song
 status: draft
 sources: [Sources/Lyrics/SOL.md]
 related: [SONG-MoveToYou, SONG-SoulIsAStar, CHAR-SirLucius, CHAR-Roy, SONG-PlayingToTheGods]
-referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CONCEPT-TheMouth, CONCEPT-TheUpload, CONCEPT-TheVoice, MEDIA-EggSunrise, MEDIA-MaryVisualizers, SONG-BALLERINABOY, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-Shine]
+referenced_by: [ALBUM-LuciusLullaby, CHAR-Roy, CONCEPT-Love, CONCEPT-TheMouth, CONCEPT-TheUpload, CONCEPT-TheVoice, MEDIA-EggSunrise, MEDIA-MaryVisualizers, SONG-BALLERINABOY, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-Shine]
 ---
 # SOL
 

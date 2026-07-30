@@ -47,6 +47,7 @@ Legend: ✦ developed · ◦ skeleton/scaffold (Brain page, Essay pending) · �
 | [[AI Quickstart]] | **Operational first-pass workflow** — per-task fetch recipes (song/concept/character), source-reliability matrix, tier ladder, speaker + boundary guards. Shorter than [[CLAUDE]], more procedural than [[GPT]]. |
 | [[entity-map]] | **Canonical ID → file paths** (machine-readable) — every Ontology entity resolved to its Brain/Lyric/Essay/Credits files + status; a per-song "packet" table (regen: `gen-entity-map.py`) |
 | [[Claim Ledger]] | **Contested-claim register** — load-bearing / struck / ruled-out / private-only claims with status, tier, source path, falsifier. Check before asserting a contested reading (stops struck claims resurrecting) |
+| [[Framework Registry]] | **Lens register** — its sibling: the Ledger tracks *claims*, this tracks *frameworks*. One row per lens with its Roy-side anchor, the differential run against its competitors, verdict, and falsifier. **Check before adopting or applying any interpretive framework** (stops "found a fit and stopped"). Carries Roy's own named-tradition syllabus + his level-schemas by count. |
 | [[log]] | Chronological operational log |
 | [[lessons-learned]] | Drift & process register |
 | [[Ontology]] | Canonical entity registry (IDs) — run `validate.mjs` for the live ID count |

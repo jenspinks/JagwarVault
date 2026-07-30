@@ -9,6 +9,29 @@ about: "Vetting dossier 02 — the flood's double valence: the wave that drowns 
 ---
 # Dossier 02 — The Flood's Double Meaning
 
+> **✅ VETTED — verdict in (2026-06-14).** Recovered 2026-07-29 from the ChatGPT session archive [[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)|the full pass response]] (filed in this folder 2026-07-29). Reviewer's own wording below.
+>
+> **Verdict:** *"the double-valence is viable, but do not say title contains its own remedy as though Roy explicitly designed that mechanism."*
+>
+> **Tier moves:**
+> - The four quotes: `[G]`, pending exact source links.
+> - Flood as drowning **and** ego-wall dissolution: **`[W-]`.**
+> - ★ *"Title contains its own remedy"*: **`[P]`/`[W-]`** — the demotion lands on the dossier's headline formulation.
+> - Jericho → Circle mechanism: **`[~]`/`[W-]`, not full `[W]`.**
+> - The 2026 rising answer: **`[~]`/`[W-]`.**
+> - Sirens: **`[~]`, "tiny surface-pun resonance only."**
+> - The Roy repost: **`[G]` as curation, low weight.**
+>
+> **Skeptical case (reviewer's):** *"The dossier stacks flood, walls, and sound from separate semantic fields: title explanation, lyric, creative-process quote, and general spiritual language. The connection is interpretive, not explicitly authored."*
+>
+> **Sharpened version (adopt this wording):** *"Roy's title explanation makes flooding double. Flooding suggests overwhelm: the self cannot remain sealed, controlled, or defended. Yet Roy also links the album to letting go of ego and rediscovering shared humanity, so loss of boundary is a cure as well. Loser sharpens the idea through Jericho falling like a wave: water does not only drown; it can collapse separation."*
+>
+> **Jericho correction (adopt this wording):** *"Jericho gives the debut an early image of collective sound breaking enclosure, a motif the later catalogue develops more deliberately through the Circle."* Followed by the reviewer's flat instruction: **"Do not call it the Circle mechanism eight years early."**
+>
+> *The dossier text below is the version sent for review, preserved as-is.*
+
+> **📌 Live defect downstream (2026-07-21, not part of the pass).** The demoted phrase is currently published **unhedged** on PUBLIC `Symbols/Water.md` — introduced by a session that did not retrieve from source. Grep confirms **0 hits** in SOURCE, so it is not a canon leak. Queued as [[Session Fold Inbox]] row `20260721-065f-1`, **still pending**. The same row notes the cure-pole rests on Roy's interview gloss when the **lyric** *"Jericho fell like a wave"* is the stronger, earlier anchor.
+
 **What to vet.** That the album's central element — the **flood** — is **double-valenced**, and that **Roy's own statements supply both poles**: flooding as *drowning* (the threat) and flooding as *the fall of the walls of perceived separation* (the cure). The album's title would then **contain its own remedy.** Judge whether the double-reading is in the material or imposed.
 
 ---

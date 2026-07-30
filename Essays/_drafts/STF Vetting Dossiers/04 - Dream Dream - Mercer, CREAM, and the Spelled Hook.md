@@ -18,6 +18,18 @@ about: "Vetting dossier 04 — Dream / Dream (track 2): the credited Mercer inte
 >
 > *The dossier text below is the version sent for review, preserved as-is.*
 
+> **➕ ADDENDUM — the reviewer's ear-check criteria, recovered 2026-07-29** from `Handoffs/ChatGPT Session Archive — Flooding Dossier Vetting — 2026-07-29.md`. The block above got the outcome right; these are the operational tests it did not record, and they are what a future ear-check should actually run.
+>
+> **To retain C.R.E.A.M. even at `[~]`, ALL of:** comparable letter cadence · similar rhythmic slot · comparable transition from spelling to imperative · melodic/stress similarity · production vocabulary pointing to 1990s hip-hop · **acronymic** rather than simple childlike/pop spelling delivery.
+>
+> **Kill conditions, any of:** a bright melodic pop cadence unrelated to C.R.E.A.M. · no recognizable rhythmic resemblance · clear Mercer/gospel/pop orientation · direct citation by Roy of a different spelling source.
+>
+> **Why it stays capped regardless:** *"Spelled hooks are common. DREAM/CREAM is visually clever but may not be audible. No credit blocks anything above `[~]`. Dream/cash content in C.R.E.A.M. may strengthen an essayist comparison but not evidence an allusion."*
+>
+> **The Mercer formulation the reviewer supplied:** *"Roy keeps Mercer's dream imperative but changes its social posture: the dream is no longer merely inward consolation; it is voiced outward as invitation."*
+>
+> **The independent spelling claim (stands without C.R.E.A.M.):** *"The hook makes DREAM pedagogical: the listener is taught the word, repeats the word, and then is commanded to inhabit it."*
+
 **What to vet.** Two layers on track 2. **(A)** The *grounded* interpolation work: how the song transforms **Johnny Mercer's "Dream" (1944)** — solid, on-page, [G]/[W]. **(B)** The *pass's single most speculative item*: that the spelled hook **D-R-E-A-M** echoes Wu-Tang Clan's **C.R.E.A.M.** — offered deliberately as a leap held at **[~]**. **Please attack (B) hardest** — and tell me if the ear-check should kill it.
 
 ---

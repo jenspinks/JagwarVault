@@ -7,7 +7,7 @@ source_quality: framework-hub
 aliases: [Hermeticism, Hermetic, As Above So Below, The Kybalion]
 related: [CONCEPT-ThePattern, CONCEPT-TheLightBearer, CONCEPT-SourceVsReflection, CHAR-SirLucius]
 review_date: 2026-12-29
-referenced_by: []
+referenced_by: [CONCEPT-Love]
 ---
 # Hermeticism — As Above, So Below (hub)
 

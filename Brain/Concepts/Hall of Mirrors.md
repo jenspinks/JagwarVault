@@ -10,7 +10,7 @@ connections:
   grounded:    [CONCEPT-TheUpload, ALBUM-33]
   strong_read: [CONCEPT-ThePattern, CONCEPT-SourceVsReflection, CONCEPT-TheMirror]
   resonance:   []
-referenced_by: [CHAR-SARAVI, MEDIA-CodingConsciousness, MEDIA-EggSunrise, MEDIA-HowToLiveForever, MEDIA-TestPilotLighter, MEDIA-ThirdEyeWatcher]
+referenced_by: [CHAR-SARAVI, MEDIA-ArtifactCorpusSelfArchive, MEDIA-ChildKnight, MEDIA-CodingConsciousness, MEDIA-EggSunrise, MEDIA-HowToLiveForever, MEDIA-PlusForeheadFigure, MEDIA-TestPilotLighter, MEDIA-ThirdEyeWatcher]
 review_date: 2026-12-29
 ---
 # Hall of Mirrors (hub)

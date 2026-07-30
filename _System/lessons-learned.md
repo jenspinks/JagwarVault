@@ -5,6 +5,16 @@ rule — so it is not repeated. Newest first. (CLAUDE.md §16.)
 
 ---
 
+## 2026-07-29 — Two arc-reading distinctions the vault was sitting close to
+
+*Folded from the external meta-evaluation ([[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)]] §Keepers). Neither is a drift we were caught in; both are traps the arc pages sit one step away from.*
+
+**1. Chronology is not album order.** A motif can **degrade chronologically** across the catalogue and still appear on any single album as a **field-state** rather than a plot. Tracklist sequence is a *shape*, not a timeline: an album that opens in one register and closes in another has not necessarily *narrated* a change, it may be describing one condition from several angles. **Rule:** say which claim you are making. A cross-catalogue degradation is a **chronology** claim and needs dated anchors; a within-album movement is a **structural** claim and needs the tracklist. Do not let the second borrow the first's evidence. *(Live application: [[Essays/Arcs/Lucius Lullaby]] runs a track-order arc whose long middle is tagged "all nigredo" — that is a field-state, and it is exactly the sort of stretch that reads as plot.)*
+
+**2. The first crack is not the first successful internalization.** The first time a structure is breached and the first time the breach is actually *absorbed* are different events, often far apart, and collapsing them back-dates the resolution. **Rule:** date them separately. *(Live application: [[Essays/Arcs/Lucius Lullaby]] names track 8 **"the album's first crack"** while correctly holding `threshold_state: approaching` — the crack is not the crossing. The vault's *"survival, not triumph"* doctrine is the other half of the same point: [[SOL]] **survives** the Lucius system without anyone in the story internalizing it. A first crack that never lands is still only a first crack.)*
+
+---
+
 ## 2026-07-01 — Gitignore bypass by move: excluded privacy files reached GitHub
 
 **What happened.** `.gitignore` excluded the Vault Review Context export by exact path (`_System/Vault Review Context.md`, the split folder, and the redactions log, which aggregates private-referencing text). During a later cleanup the whole set was **moved into `_System/_archive/`**, where the path-exact rules no longer matched. Obsidian Git's autosync then committed and pushed all ~3 MB to the GitHub mirror (first in `b37c4a3`), including the redactions log the gitignore said must never be committed. Nobody force-added anything; a plain `mv` plus autosync was enough. Found by the 2026-07-01 efficiency audit; fixed same day (copies deleted, redactions log quarantined to `_Private/`, patterns made path-independent).
@@ -34,6 +44,12 @@ rule — so it is not repeated. Newest first. (CLAUDE.md §16.)
 **What happened.** In the Not Your Homie analysis I read the **MERCY** feature credit as symbolic — Kabbalistic Pillar of Mercy, a Mary-coded feminine presence. Jen corrected: MERCY is a real backup singer with public socials; the prominent credit (where his other background singers go uncredited) most plausibly reflects an off-mythology personal/career choice. The symbolic read was premature synthesis / totalization (CLAUDE.md §14).
 
 **Rule.** Before mythologizing a name, credit, or collaborator, check the **biographical / industry** explanation first. Not every signal is symbol. Deflate to the mundane when it fits.
+
+**Rule, second half — added 2026-07-29** (from the external meta-evaluation, [[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)]] §Keepers; the reviewer's phrasings were *"credited collaborator is not mythic influence"* and *"do not let grounded influence become transferable credit"*). The MERCY case above guards one direction: **a credit must not be inflated into a symbol.** The mirror-image failure is **scope creep on a credit that is entirely real** — and it runs two ways:
+1. **Collaborator → mythos.** A credited player is a credited player. *(Working example: **Josh Dun** is credited on drums for Great Time to Be Human and Bad Feeling `[G]`. That is a personnel fact. It does **not** make Twenty One Pilots an influence node, and the vault correctly builds nothing on it — [[Sources/Credits/Lucius Lullaby]] records the credit and stops. Same discipline as the credits file's own note on **Sia**: "record factually; do not mythologize the name (MERCY rule).")*
+2. **One grounded influence → blanket influence.** A credit anchors the **line, track, or interpolation it appears on** — it is not transferable across a catalogue. *(Live tension worth watching: **Joni** is credited on Soul Is A Star `[G]`, and the vault separately records *Ladies of the Canyon* as an album-wide `[W]` influence on **33** — legitimately, because the [[Theme Tracker]] influence-recording rule requires **a concrete anchor plus corroborating surrounding themes.** The guard is that the second half of that test is doing real work and must not be waived: the credit alone would not have earned the album-wide claim.)*
+
+**Net:** a credit is `[G]` for exactly what it credits. Everything past that edge needs its own anchor.
 
 **Privacy note.** The fuller (relationship) explanation Jen shared is speculative AND personal — kept OUT of the vault entirely; used only as silent guidance to deflate the over-read. The public claim (MERCY = credited backup singer) stands on its own.
 

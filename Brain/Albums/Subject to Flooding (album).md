@@ -230,6 +230,10 @@ The "in retrospect" readings above are mostly **[W]**, and they must remain so. 
 
 So the honest framing: STF **sincerely participates** in dream / mask / collective / "we are all losers" language that the later work **reinterprets and weaponizes**. The soil contains the seed, but the seed wasn't planted on purpose. An album overview must **hold that tension**, not flatten it into *"he planned it all."*
 
+*(The external pass supplied a compact formulation of exactly this guard, worth keeping: **"The soil contained the seed, but the seed was not planted on purpose."** — [[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)]] §Governing protocol.)*
+
+**Cross-ref, and the same guard applies to it `[W]`:** this album and the Circus era read as **opposite failure modes** — the flood as **dissolution** (no boundary; the self overwhelmed) against the Circus as **sedation** (the boundary intact and the self anaesthetised inside it), both defeating *living contact*. The pairing is drawn by this vault across two eras, **not** set up as opposites in 2018. Full treatment: [[The Circus]] §The Flood and the Circus.
+
 The Circle naming on *Move To You* (2019) is a partial exception — it is the *one* keystone-doctrine word Roy did speak aloud in the era. But even there: the *word* is documented; the *system* it later anchors is not.
 
 **The Protector is not evil at origin — it is adaptation.** The disguise (*Long Time Coming*), the shame-preemption (*Loser*), the vibe-defense (*Good Day*), the social filter (*N.F.F.*) are survival structures that **worked.** The danger isn't that they exist — it's their **calcification**: when adaptation hardens into identity and the mask begins to mistake itself for the source. *That* hardening is the Lucius arc; STF is the adaptation still doing its job. Reading STF's Protector as a *villain* back-imports the Lucius verdict onto a survival self that hadn't yet earned it. [W]

@@ -7,7 +7,7 @@ about: "Session body file for the 2026-07-27 chat findings on the One Universe F
 ---
 # Lucius live debut Korea: the intentional-frame formulation (session findings, 2026-07-27)
 
-**Companion source record (facts only):** [[Sources/Reference/One Universe Festival Korea - Lucius live debut (Jen firsthand + fan posts) 2026-07-26]].
+**Companion source record (facts only):** [[Sources/Reference/One Universe Festival Korea - Lucius live debut (Jen video review + fan posts) 2026-07-26]].
 **Queue rows:** Session Fold Inbox `20260727-cb88-1` through `-3`.
 
 ---

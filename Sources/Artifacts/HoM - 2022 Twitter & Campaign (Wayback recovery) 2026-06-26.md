@@ -44,7 +44,7 @@ The cluster that runs the ARG, in order — all real, all archive-verified, all 
 
 ## C. Roy's design intent — interviews `[G]`
 - **culture3 interview** (Clovis McEvoy) — live URL now **404; recovered in full from Wayback** (`web.archive.org/web/20221021182348id_/https://www.culture3.xyz/posts/jagwar-twin`). Roy in his own words: the upload idea **began as a joke** to CTHDRL; **SARAVI was given the Twitter account "in August"** (2022); FWB was his web3 on-ramp; the throughline = a *"warring desire to connect… but stay one step removed."*
-- **YouTube interviews** (HoM-relevant, not yet pulled): *"Jagwar Twin On '33' and The Hall of Mirrors | The Honey POP"* (`youtube.com/watch?v=fpg8w3tfgyo`, ~Nov 8 2022); *"Talking to Jagwar Twin about new album '33'"* (`youtube.com/watch?v=n6HhkpNtsbI`).
+- **YouTube interviews** (HoM-relevant) — ✅ **BOTH PULLED 2026-07-29**: *"Jagwar Twin On '33' and The Hall of Mirrors | The Honey POP"* (`youtube.com/watch?v=fpg8w3tfgyo`, ~Nov 8 2022) → [[Sources/Transcripts/Honey-POP-33-and-Hall-of-Mirrors]] (41:15, full body); *"Talking to Jagwar Twin about new album '33'"* (`youtube.com/watch?v=n6HhkpNtsbI`) → [[Sources/Transcripts/Talking-About-33-Harry-Potter]] (29:24, full body). Both `status: draft`, whisper-1 ASR, **not listen-verified**, speaker labels inferred: listen-check before quoting any HoM design-intent line. The Honey POP interview is the one the ARG-mechanics leads (chain-link, withheld master key, EGG scope) came from, so those in particular need ear-verification before they reach `[G]`.
 - **No archived Twitter Spaces or TikTok lives found** — the ephemeral live-clue layer did not survive (as Roy predicted it wouldn't).
 
 ## D. Predecessor microsites — ✅ CRAWLED 2026-06-26 `[G]`

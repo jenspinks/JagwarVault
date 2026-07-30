@@ -9,6 +9,37 @@ about: "Vetting dossier 07 — smaller leads (one paragraph each) plus the disci
 ---
 # Dossier 07 — Smaller Leads & Discipline Ledger
 
+> **✅ VETTED — verdict in (2026-06-14).** Recovered 2026-07-29 from the ChatGPT session archive [[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)|the full pass response]] (filed in this folder 2026-07-29). Reviewer's own wording below.
+>
+> **Tier moves, all seven leads:**
+> - Jaguar reciprocal direction: `[W-lite]`, **as a short correction note.**
+> - Ledge triad: `[~]`.
+> - Roof / ceiling: `[~]`.
+> - Fake-it-like-your-passport: `[W-lite]` **within STF.**
+> - ★ **Face census: `[W]`** — the one real promotion.
+> - Faceless inversion: `[W-lite]`/`[W-]`.
+> - Ann Morrison Park: `[?]`, *"chase once."*
+> - Kazan (*A Face in the Crowd*): `[~]`.
+>
+> **Strongest promotion (adopt this wording):** *"The debut already inventories face-relations — disguise, facelessness, anti-anonymity — before later catalogue literalizes the mask through Happy Face, face paint, and Lucius-era persona work."*
+>
+> **Faceless direction, with its guard:** *"The catalogue first addresses the faceless as those needing recognition; later, facelessness becomes a medium of blessing or rescue. The term moves from object of care to source of care."* Followed by: **"Do not treat it as one continuous entity."**
+>
+> **Passport formulation:** *"The passport line extends STF's fake/real problem from social relations into identity paperwork: falseness becomes not only something to detect, but something one may perform to move through the world."*
+>
+> **Ann Morrison Park:** *"unusual enough to investigate via touring, Eye Alaska/Roy Boise dates, collaborators/persons with Boise roots, or other biography."* Guard: **"do not symbolize Boise without evidence."**
+>
+> **Ledger review (the reviewer audited the rejections and largely upheld them):**
+> - **Joshua/Jericho manager coincidence "remains correctly rejected."**
+> - Stairway to Heaven / City of Angels: *"may be a W-lite cross-link, but not a dossier-grade finding."*
+> - The 1957 Vaughan/Kazan curio: **cut/quarantine.**
+> - Luke/luc-light: **scratchpad-only.**
+> - *"retrospective-coherence guard stays active."*
+>
+> *The dossier text below is the version sent for review, preserved as-is.*
+
+> **📌 The ledger in use (2026-07-21, not part of the pass).** The upheld **Joshua-at-Jericho / manager-named-Joshua** rejection was cited as the governing precedent for rejecting a **structurally identical but weaker** claim on PUBLIC `Brandon.md`: a Brandon Lee / Bruce Lee / *The Crow* drawer resting on a shared first name, where Roy has never publicly referenced the film or either Lee. The manager at least appears in Roy's life; Brandon Lee does not appear in it at all. Queued as [[Session Fold Inbox]] row `20260721-065f-3`, **still pending**.
+
 **What to vet.** Lower-confidence leads (most at [~] or [?]) and a **discipline ledger** — things already checked and *deliberately not claimed*. For the leads: tell me which deserve promotion and which are noise. For the ledger: tell me if any rejection was wrong (i.e., something I dismissed that actually has work to do). The ledger exists so you don't waste effort re-deriving rejected items.
 
 ---

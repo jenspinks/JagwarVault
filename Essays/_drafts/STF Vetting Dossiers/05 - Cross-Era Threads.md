@@ -9,6 +9,24 @@ about: "Vetting dossier 05 — six cross-era threads seeded on the 2018 debut an
 ---
 # Dossier 05 — Cross-Era Threads
 
+> **✅ VETTED — verdict in (2026-06-14).** Recovered 2026-07-29 from the ChatGPT session archive [[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)|the full pass response]] (filed in this folder 2026-07-29). Reviewer's own wording below.
+>
+> **The reviewer ranked all six threads, strongest first:**
+> 1. **C timebomb** — *"strongest mechanism."* `[W]`. *"Clear suppression → pressure → eruption mechanism. It changes interpretation at each end."*
+> 2. **A stars** — *"strong symbolic direction."* Keep `[W]`. It does more than repeat a word *"because star location and authority change: failed sky navigation · Hollywood star beneath foot · conspiring external fate · inner soul star."* Safer claim to adopt: *"The catalogue repeatedly distrusts external star systems and reassigns true starhood to the soul."*
+> 3. **F children's voices** — *"potentially strong, but gated."* **`[?]` → `[W]`.** *"The concept works only after confirming late voices are actually children. Otherwise use childlike/lullaby vocal texture."*
+> 4. **B pieces** — `[W-]`. *"The vocabulary has a real polarity: shattered fragments versus pieces-of-the-whole. Needs 2026 context."*
+> 5. **E Navajo** — `[W-]`, *"corrective/caution, more than continuity finding."*
+> 6. ★ **D blood** — **demoted.** *"Do not call cross-era. Confine to STF motif appendix at `[W-lite]` only if sequence/density are clear."*
+>
+> **E, the Navajo caution in full (the terms the vault had lost):** *"Do not romanticize Indigenous reference. The mother's general Native American flute-music account does not prove Navajo-specific source."* Safe wording to adopt: *"Given Roy's public account of growing up around Native American flute music via his mother's listening, the line is better treated as a metaphor of musical inheritance or absorbed sound than a literal ethnic claim."*
+>
+> **Folded canon already** (2026-07-14 resume pass, do not re-derive): the stars system (F7), pieces/fusion (F8), timebomb (F9), the children's-voices bracket (F3), Sirens (F10).
+>
+> *The dossier text below is the version sent for review, preserved as-is.*
+
+> **📌 Live downstream error on §A (2026-07-21, not part of the pass).** PUBLIC `Symbols/Water — The Deep End.md` names **SOL, an external sun, as "the agent that lifts"** in its stage table, which runs against exactly what §A establishes. The lifting agent is **internal**; that is what makes *"love is the medium"* cohere. Queued as [[Session Fold Inbox]] row `20260721-065f-2`, **still pending**.
+
 **What to vet.** Six threads where a 2018 image recurs across the catalogue with a consistent direction. Each is a **[W] continuity claim**, not an intent claim (retrospective-coherence guard applies). For each, the test is the same: *is this a real organizing pattern, or just "the same common word appears in several songs"?* Tell me which ones are findings and which are merely observations.
 
 ---

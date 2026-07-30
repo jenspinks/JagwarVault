@@ -19,7 +19,7 @@ related: [CONCEPT-WitnessingVsSurveillance, CONCEPT-TheMirror, CHAR-SirLucius, C
 grounded: [CONCEPT-HallOfMirrors]
 strong_read: [CONCEPT-WitnessingVsSurveillance, CONCEPT-TheMirror]
 resonance: [CHAR-SirLucius, CHAR-Mary]
-referenced_by: []
+referenced_by: [MEDIA-PlusForeheadFigure]
 review_date: 2026-12-30
 ---
 # Third-eye watcher — El-Roi face + roses (HoM illustration)

@@ -8,6 +8,25 @@ about: "Shared context primer for the Subject to Flooding vetting dossiers. Plai
 ---
 # Subject to Flooding — Vetting Context Primer (read this first)
 
+> **📍 Pass status — RECOVERED 2026-07-29.** The adversarial pass ran **2026-06-14**. Its text was missing from this vault for six weeks; a 2026-07-28 pass wrote secondhand reconstructions into every dossier, and on **2026-07-29 the full conversation was recovered** from [[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)|the full pass response]] (filed in this folder 2026-07-29). **`01` `02` `03` `05` `06` `07` now carry the reviewer's actual wording**, and `04` keeps its contemporaneous block. **No verdict exists for this primer**, as expected: it carries no claim to vet.
+>
+> | Dossier | Headline outcome |
+> |---|---|
+> | 01 Water-Line | *"good but overconfident in two places"*; arc → `[W-]`/`[~+]`, **retrospective continuity not authored development**; eye/I → `[~]`; first-person-fulfillment → `[P]`/`[W-]` |
+> | 02 Flood's Double Meaning | ★ *"contains its own remedy"* → **`[P]`/`[W-]`**; *"Do not call it the Circle mechanism eight years early"*; Sirens → `[~]` surface-pun only |
+> | 03 Method Was Debut-Native | meta-claim survives **only if narrowed**; ★ Tinker-Tailor is a *"stress fracture"* → `[W-]`/`[?+]` (*"prophet and priest"* also reads as **all-stations / biblical universalizing**) |
+> | 04 Dream / Dream | Mercer survives `[G]`; **C.R.E.A.M. cut or quarantined**; spelling device → pedagogical *(captured at the time)* |
+> | 05 Cross-Era Threads | ranked 1–6: **timebomb strongest**, stars `[W]`, children's-voices gated `[?]`→`[W]`, pieces `[W-]`, Navajo corrective, ★ **blood demoted out of cross-era** |
+> | 06 The 2023 Posts | ★ **the six dream-harvest gates, recovered in full**; *"the kimchi ending matters"*; Russell `[G]` pending a stable pin |
+> | 07 Smaller Leads & Ledger | ★ **face census → `[W]`**; faceless moves *"from object of care to source of care"*; ledger rejections upheld |
+>
+> **Also in the archive, and NOT previously in the vault:** a **meta-evaluation of a second external vetting pass** (its policy line — *"A `[W]` built on an unverified `[G]` lyric is still gated"* — plus an unresolved **EP2/EP3 Song-of-Love override discrepancy** and seven keepers), and a full **Jagwar Twin × Harry Potter** tier cleanup. Both are unfolded.
+>
+> **The governing formulation the pass supplied, worth keeping verbatim:**
+> > *"The soil contained the seed, but the seed was not planted on purpose."*
+>
+> **The lesson worth keeping:** two findings from this era turned out to be **search failures reported as absences** (the Russell pin, the Eye Alaska interview, which was a video all along). An adversarial reviewer returning a confident negative is not proof of absence. Cf. [[feedback_verify_before_absent]].
+
 **What this packet is.** A set of dossiers, each proposing a reading or finding about the **2018 debut album *Subject to Flooding*** by Jagwar Twin (Roy English) — and, in several cases, a thread that runs *from* that debut forward into the later catalogue. They are being sent to you for **adversarial vetting** — your job is to try to **refute, weaken, or sharpen** each claim, name what would falsify it, flag where the analyst has over-read, and surface anything missing. Praise is the least useful thing you can return; a good refutation is the most useful.
 
 **This is a working hand-off, not finished scholarship.** It is plain text (no internal links) so it travels. It uses **public material only** — released songs, lyrics, composer credits, public interviews, social posts, and one decade-old band-name interview. No private messages, no unreleased songs, no privately-held material are used as evidence anywhere; please don't ask the analysis to lean on any.

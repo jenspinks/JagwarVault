@@ -330,7 +330,7 @@ Named art the board pastes in as source-works: Jacob's Ladder, the Creation of A
 
 <img src="{{PLUMCREEK}}/im-33-board/hom-cat-halo-whole-self-icon.png" width="200" loading="lazy">
 
-- **The cat-halo "whole-self" icon** (HoM room 3252cfd9) — distorted by BMRC (rainbow halo → shattered mosaic sweater; gold heart-star → gold spectacle wash; brow-cross → cheek-cross). `[G]` per the color-system session. **Source →** [[Color System and BMRC - findings 2026-07-08]].
+- **The cat-halo "whole-self" icon** (HoM room 3252cfd9) — distorted by BMRC (rainbow halo → shattered mosaic sweater; gold heart-star → gold spectacle wash; brow-cross → cheek-cross). `[G]` per the color-system session. **Source →** [[Color System and BMRC - findings 2026-07-08]]. ⚠ **Board-membership `[?]` (flagged 2026-07-29):** this row shelves the icon as board-pasted art, but the verbatim transcript's image inventories ([[Roy - I'm 33 this year (spreadsheet)]] §8/§16) do not list it, and the colour session cites it as a HoM room. Verify against Jen's hi-res screenshots before treating it as on-board; full reading: [[Brain/Media/The + marked figure (cat ears, star medallion)]].
 
 ---
 

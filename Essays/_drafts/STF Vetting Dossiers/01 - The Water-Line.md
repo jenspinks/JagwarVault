@@ -9,6 +9,33 @@ about: "Vetting dossier 01 — the Water-Line: Eye Alaska → Subject to Floodin
 ---
 # Dossier 01 — The Water-Line (the headline)
 
+> **✅ VETTED — verdict in (2026-06-14).** Recovered 2026-07-29 from the ChatGPT session archive [[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)|the full pass response]] (filed in this folder 2026-07-29). Reviewer's own wording below.
+>
+> **Verdict: "good but overconfident in two places."** *"The water-line is real enough to keep, but the strongest public claim is continuity of water-boundary imagery, not proof that Roy spent sixteen years consciously becoming the Eye Alaska gloss."*
+>
+> **Tier moves:**
+> - Three quoted anchors: `[G]`, **pending stable capture of the 2010 Eye Alaska interview.**
+> - The three-step developmental arc: **`[W-]` or `[~+]`, not clean `[W]`.**
+> - The 2026 line as first-person fulfillment of 2010: **`[P]`/`[W-]`.**
+> - Eye/I anticipation: **`[~]`** — *`[W-]` only if the 2010 source itself discusses looking/seeing.*
+> - Wise One connection: **`[~]`, modestly phrased.**
+>
+> **Skeptical case (reviewer's):** *"Water is a common metaphor. Alaska has a preloaded sea-breaking etymology, Subject to Flooding is collective/ego language, and I am the shore may be a general spiritual aphorism. The sequence may be retrospective arrangement rather than authored development."*
+>
+> **On the borrowing question — the nuance to keep:** *"The 2026 aphorism may be borrowed or commonly circulating. If borrowed, this weakens authorship/origination but not necessarily its relevance as adopted self-description."* So a borrowed source would **not** kill the reading, it would relocate it from origination to adoption.
+>
+> **Sharpened claim (adopt this wording):** *"Water-boundary imagery appears to be one of Roy's longest-running public self-symbols: Eye Alaska looks toward that which the sea breaks against; Subject to Flooding names the human condition as overwhelm; and the 2026 I am the shore post adopts the shore position in the first person. The pattern is strongest as retrospective continuity, not proof of preplanned mythology."*
+>
+> **Falsifiers:** a conflicting Roy gloss of Eye Alaska · evidence the shore line is direct quotation · flood press framing it only as social/political polarization with no self-overwhelm/vulnerability dimension.
+>
+> *The dossier text below is the version sent for review, preserved as-is.*
+
+> **📌 Later work on this dossier (2026-07-21, NOT part of the pass).**
+> - **Citation repoint owed `[G]`.** The pass asked for the 2010 interview to be pinned; the reason it could not be found is now established. It **is not text.** The PunkWorldViews page (14 June 2010, Denise Borders) holds only photos, a lineup, and a two-paragraph intro; the interview sits in an **embedded video**, still public: *"Eye Alaska (Brandon) \*interview with PunkWorldViews.com\*"*, channel Denise Borders (`@enjoydenise`), `https://www.youtube.com/watch?v=Jl3gMpAHA3w` (oEmbed + thumbnail 200, verified 2026-07-21). Anchor sound, citation pointing at a wrapper. **Exact wording still wants an ear-check.**
+> - **Aleut gloss.** *"The object against which the sea breaks"* is a common paraphrase; the attested gloss is **"the mainland"**, more literally *the object toward which the action of the sea is directed*.
+> - ⚠ **A provenance claim that this archive does NOT support.** [[Session Fold Inbox]] row `20260721-065f-6` states that *"the 2026-06-14 external pass reports an Instagram post dated 2026-03-07"* reading *"I am not the wave. I am the shore"*, and that row is **blocked** on locating it. **No such post appears anywhere in the recovered archive.** Either it came from an unarchived part of the conversation or it was misattributed to the pass. **Do not treat the March 7 post as reported-by-the-pass without a second look.** The 2026-07-21 provenance search separately found no pre-2026 source and returned "appears original phrasing"; useful established negative from that search: the famous formulations in this family are all *ocean/water vs wave* and exist to **dissolve** the boundary, while Roy's shore **keeps** it (Thich Nhat Hanh's shore is a destination; Pema Chödrön's is false safety to leave). Nearest attested antecedent is clinical, the ACT *waves-on-the-shore* visualisation (≥Dec 2022), inherited substrate rather than source. Note also the pass's own nuance above: borrowed would weaken origination, not relevance.
+> - **Method note.** Three independent text searches missed the interview because it was a video. **A negative search result is not evidence of absence** — the same failure mode as the Russell case. Cf. [[feedback_verify_before_absent]].
+
 **What to vet.** The claim that the artist's **relationship to water is the longest continuous thread in his self-conception** — visible across three self-namings sixteen years apart — and that the most recent one (2026) is not a new image but the **first claiming, in the first person, of a meaning he stated in 2010.** Judge the tier; try to break the arc.
 
 ---

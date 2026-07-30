@@ -49,7 +49,7 @@ Two separate works build a **fake sun** and position it **at his back**:
 
 ## 3. Korea, in this frame `[?]` — do not fold yet
 
-If §2 holds, the 2026-07-26 One Universe set is the first documented instance of a **real** sun on the character, and it **dissolved the mask** ([[Sources/Reference/One Universe Festival Korea - Lucius live debut (Jen firsthand + fan posts) 2026-07-26]]). Attractive, and **exactly the shape of reading this vault kills**: it needs §2 to hold, needs the melt to be legible as more than sweat, and rests on n=1. **Hold until:** the backlight objection in §2 is addressed, and the Korea record's TO VERIFY list clears.
+If §2 holds, the 2026-07-26 One Universe set is the first documented instance of a **real** sun on the character, and it **dissolved the mask** ([[Sources/Reference/One Universe Festival Korea - Lucius live debut (Jen video review + fan posts) 2026-07-26]]). Attractive, and **exactly the shape of reading this vault kills**: it needs §2 to hold, needs the melt to be legible as more than sweat, and rests on n=1. **Hold until:** the backlight objection in §2 is addressed, and the Korea record's TO VERIFY list clears.
 
 ---
 

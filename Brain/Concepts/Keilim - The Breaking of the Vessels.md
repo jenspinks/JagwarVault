@@ -7,7 +7,7 @@ connections:
   grounded:    [CHAR-Roy]
   strong_read: [CONCEPT-SourceVsReflection, CONCEPT-TheEmptyMirror, CONCEPT-TikkunOlam, SONG-CityOfAngels]
   resonance:   [CONCEPT-Nigredo, CONCEPT-Malkhut, CONCEPT-Tiferet]
-referenced_by: [CONCEPT-TheHouseAndTheVessel, CONCEPT-TreeOfLife, SONG-RoyVoiceMemoS1Arrowhead, SONG-TheWatchers]
+referenced_by: [CONCEPT-TheHouseAndTheVessel, CONCEPT-TheRoseCross, CONCEPT-TreeOfLife, SONG-RoyVoiceMemoS1Arrowhead, SONG-TheWatchers]
 review_date: 2026-12-15
 ---
 # Keilim — The Breaking of the Vessels (Shevirat HaKelim)
@@ -55,6 +55,14 @@ A web-only external report claimed "confirmed absence" of vessel/spark/shevirah 
 - **Private confirmation may be inflating public confidence.** The page is candid that Jen confirms Roy engages the shevirah in privately-held material ("silent context only"). Strip that, and a skeptic sees vessel (Christian), scattered light / City of Angels (plain loss/diaspora imagery), "reclaim your crown" (New-Age royalty) — none *uniquely* Lurianic. The reading must, and mostly does, stand on the public anchors alone; but the **governing-law confidence** is partly sourced from what can't be cited. Keep the structural mapping `[W]`, not `[G]`. `[P]`
 - **The container typology risks unfalsifiable expansion.** Prison / initiatory / kli / kelipah is elegant, but if *every* enclosure (box, banana, mirror, house, egg) slots into one of four shevirah roles, the system absorbs any image and predicts none. A typology earns its keep only where it would *exclude* a reading — note the containers it can't classify, not only the ones it can. `[~]`/`[?]`
 - **Falsifier:** Roy using "vessel" or "spark" in a plainly Christian or secular sense with **no break→repair structure** would show the shevirah lens is over-applied to common vocabulary.
+
+### ⚠ THE FALSIFIER HAS FIRED (2026-07-29) — the lens is SCOPED, not struck
+
+**`t23`** (TikTok, `@elroyjagwar`, 2026-07-19) uses **"spark" in a plainly motivational register with no break→repair structure whatever.** Roy's own **typed caption**, which is a higher tier than any ASR body: *"Why not me? When it feels like everyone else has it figured out. **Remember your inner spark.** Doors open mysteriously. Don't let self-sabotage win. `#InnerSpark #TrustTheProcess #MindsetShift #KeepGoing #Manifestation`"* — manifestation-and-mindset idiom, hashtagged as such. Nothing is broken, nothing is gathered, nothing is repaired. This is exactly the case the falsifier above was written to catch.
+
+**What this costs and what it does not.** The **governing `[P]` lens as stated** — *"whenever Roy uses vessel/shell/spark, read it as shevirah"* — **does not survive as a universal**, and it should not be restated in that form. What survives, and survives well, is the **scoped** claim: the shevirah reading holds where the **break→repair structure is present in the material itself** (the vessel-for-God anchors, the sterile banana, scattered light gathered), and it has no purchase where "spark" is doing ordinary inspirational work. **This is a strengthening, not a wound** — the Counterargument above already predicted it (*"pre-commits three ordinary words to one specialist register"*), and a lens that names the cases it excludes is worth more than one that absorbs everything.
+
+**Operational rule going forward: the structure licenses the lens, not the vocabulary.** Before reading any vessel/shell/spark instance as shevirah, ask whether *that instance* carries break→repair. If it does not, it is common vocabulary and belongs to no lens. ⚠ Note the register-marker that made this legible: **the motivational instances come hashtagged** (`#Manifestation`, `#MindsetShift`) and the doctrinal ones do not. Cf. [[Session Fold Inbox]] `20260729-676a-7`; falsifier surfaced by the 2026-07-22 corpus run and verified here against `t23`'s caption.
 
 ## Tiers
 `[P]` Jen's vessel/shell/spark = shevirah lens · `[G]` the vessel + sterile-banana anchors · `[W]` the structural mappings · `[~]` the Lurianic framework attribution. Never authorial-intent beyond what Roy has publicly said; the Secret-Doc engagement guides silently and is never cited.

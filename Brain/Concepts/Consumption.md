@@ -8,9 +8,9 @@ sources: []
 related: [SONG-WelcomeToTheCircus, CHAR-SirLucius, CONCEPT-TheCircus, CONCEPT-TheMouth, CONCEPT-TheAudience]
 connections:
   grounded:    [SONG-WelcomeToTheCircus, CHAR-SirLucius]
-  strong_read: [CONCEPT-TheCircus, CONCEPT-TheMouth, CONCEPT-TheAudience, SONG-ILikeToParty]
+  strong_read: [CONCEPT-TheCircus, CONCEPT-TheMouth, CONCEPT-TheAudience, SONG-ILikeToParty, CONCEPT-TheCircle, CONCEPT-TheWheel]
   resonance:   [CONCEPT-PanemEtCircenses, CONCEPT-Inversion]
-referenced_by: [CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheBanana, CONCEPT-TheMouth, SONG-BadFeelingOompaLoompa, SONG-GoodDay, SONG-HellOfANightPt2TheHallelujahStickup, SONG-NoFakeFriends, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
+referenced_by: [CONCEPT-PanemEtCircenses, CONCEPT-TheAlgorithm, CONCEPT-TheAudience, CONCEPT-TheBanana, CONCEPT-TheCircle, CONCEPT-TheMouth, SONG-BadFeelingOompaLoompa, SONG-GoodDay, SONG-HellOfANightPt2TheHallelujahStickup, SONG-NoFakeFriends, SONG-NotYourHomie, SONG-WelcomeToTheCircus]
 review_date: 2026-11-16
 ---
 # Consumption
@@ -72,6 +72,24 @@ The Jonah story is the key comparative:
 
 ---
 
+## The Third Case — the Ouroboros
+
+The Jonah table sets two outcomes against each other: **consumed and transformed** vs **consumed and discarded.** The catalogue carries a third, and it is the one that ties this concept to `CONCEPT-TheLoop`: **consumed and recirculated** — a closed system with no outside, feeding on itself to keep going.
+
+Roy engages the ouroboros across three independent public channels:
+
+- **Inked.** A simplified ouroboros, his gloss *"a circle with arrows, like the snake eating itself but simpler"* `[G]` ([[Sources/Artifacts/Roy - Tattoos (body inventory)]], Forearms/arms). That file already reads it as *"the Circle / Loop / eternal return, inked"* `[W]`, and it sits in the cluster carrying **WAKE UP** (Gurdjieff), the Loop's antidote on the same body.
+- **Spoken.** [[Sources/Transcripts/MirrorSessions-AlmondMilkHunni-SelfDoubt|Mirror Sessions (Paris Berelc)]]: *"it's all one thing… we're all eating each other… it's like that ouroboros snake, we're just eating everything… We're eating ourselves, that's what it is"* `[G]`. He arrives there through *"life begets life begets life"* — a self-feeding chain described as total, with nothing outside it.
+- **Written.** The board's aphorism layer: *"Man devours God, God devours Man. One Life feeding another end of its Self"* `[G]` ([[Sources/Artifacts/Board - The Field]] §The aphorism cells, where that file already routes it to this page). The last clause is an ouroboros in prose. *(Attribution caution: the aphorism cells are marked Roy's own voice, but board cells have produced attribution slips before — cf. the Lao Tzu case in [[_System/Framework Registry]]. Eyeball it before quoting as authored.)*
+
+**Why it sits on the Loop pole, not the Circle `[W]`.** [[The Circle]] has a center you travel toward: *"the inside of the inside must be where you go."* An ouroboros has no center. It is entirely circumference, a ring whose whole body is the thing being eaten — verbatim the Circus column of [[The Wheel]]'s table (*"the self is the rim / no center"*). Repetition without transformation is the Loop's definition in [[The Circle]] §Circle vs Loop, and a mouth fastened to its own tail is that definition drawn.
+
+**What it resolves.** Consumption and the Loop are not two concepts that happen to touch; they are the **mechanism** and the **shape** of one structure. Consumption answers *what keeps the Loop turning.* The Loop answers *what shape consumption takes when there is nowhere left to spit.* The ouroboros is the one image in which both are the same drawing.
+
+**Guard `[W]`.** Roy never uses the word *loop* about the ouroboros, and his spoken register in the Mirror Sessions is **unity-of-consciousness, not indictment** (*"it's all one thing"*); the transcript's own load-bearing note reads that passage as a oneness beat. The imagery is grounded three times over; reading it as the Loop is this vault's synthesis. That the same ring can be heard as oneness *or* as trap is the Circle/Loop premise itself, not a weakness in the reading.
+
+---
+
 ## Connections
 
 - [[The Circus]] — the Circus as the consuming system
@@ -80,11 +98,13 @@ The Jonah story is the key comparative:
 - [[The Algorithm]] — attention as the nutrient the Algorithm extracts
 - [[Inversion]] — the Eucharist inverted as the anti-Eucharist; the nourishing consumption become the predatory consumption
 - [[I Like to Party]] — the visual prototype of the consumption mechanism
+- [[The Circle]] / `CONCEPT-TheLoop` — the shape this mechanism makes when nothing leaves the system; see §The Third Case
+- [[The Wheel]] — the same closed geometry as motion rather than as appetite (*"the self is the rim; no center"*)
 
 ---
 
 ## Open Questions
 
-- [ ] Is there a transformation-through-consumption reading available? Is being chewed up the *beginning* of an initiatory process that hasn't completed yet in the WTTC timeframe?
+- [ ] Is there a transformation-through-consumption reading available? Is being chewed up the *beginning* of an initiatory process that hasn't completed yet in the WTTC timeframe? *(Partial answer added 2026-07-28: §The Third Case supplies the negative case, not the positive one. Self-consumption inside a closed ring produces no new material and therefore no initiation — which sharpens rather than settles the question, since it means the Circus's variant and the ouroboros's variant fail transformation for **different** reasons: the Circus ejects too early, the ouroboros never ejects at all.)*
 - [ ] Who is the *consumer* — Lucius, the Algorithm, the industry, the audience? The song attributes it to Lucius-as-ringmaster, who thinks he is the top; but the appetite may run *through* him to the pattern he serves without admitting it. (**Guard, kept:** not "a Boss behind Lucius" — no chain of command, no commission, and "Boss" is **Leif's** word for *Lucius* `[G]`. **Doctrine, retired 2026-07-16 (Jen):** "he acknowledges no higher power" was an argument from silence carrying a `[G]` badge; do not build on it. His sovereignty reads as **bounded** — mastermind of humankind / the material plane, Malkhut-Yesod, boss of the shop rather than of the cosmos `[P]`. The true higher power is the champion he **denies**.)
 - [ ] Is [[SOL]] the Jonah-moment — the prayer from inside the whale's belly, the transformation that happens in the darkness before the ejection?
