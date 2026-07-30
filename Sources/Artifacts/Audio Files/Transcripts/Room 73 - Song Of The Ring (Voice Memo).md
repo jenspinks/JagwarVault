@@ -32,6 +32,16 @@ From the inside of the inside, the circle will grow
 Oh, the circle will grow
 But the inside of the inside must be where you go
 
+Many cycles of the story came and went with their kings
+And the new kings told the jaguars they never could sing
+So the maker of the jaguars hid the song inside their wings
+On the inside of the inside, then left them to sing
+
+Oh, the circle will grow
+From the inside of the inside, the circle will grow
+Oh, the circle will grow
+But the inside of the inside must be where you go
+
 Well, the earth changed and the sky raged for the jaguars on the string
 And the empires built cages and sold everything
 Till a wise one from a small place heard a sound under her wing
@@ -45,18 +55,11 @@ But the inside of the inside must be where you go
 Oh, the circle will grow
 May we always remember the song that we sing
 Oh, the circle will grow
-May we always remember the song of the rain
+May we always remember the song of the [rain / ring — ear-check]
 May we always remember the song of the ring
 ```
-Many cycles of the story came and went with their kings
-And the new kings told the jaguars they never could sing
-So the maker of the jaguars hid the song inside their wings
-On the inside of the inside, then left them to sing
 
-Oh, the circle will grow
-From the inside of the inside, the circle will grow
-Oh, the circle will grow
-But the inside of the inside must be where you go
+*(Order correction 2026-07-30: the reconciled draft originally placed the "Many cycles" verse outside the code fence, after the coda. All three passes' timestamps put it second, 00:50–01:14, between the first chorus and the "earth changed" verse; restored to sung order. "song of the rain" is a large-v3-family reading only; turbo hears "ring" twice — bracketed pending ear-check.)*
 
 ### `fullmix_large_v3`
 
