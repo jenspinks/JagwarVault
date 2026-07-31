@@ -157,6 +157,7 @@ Is the work **fighting** the asymmetry (pain transmits, wisdom doesn't) or **acc
 - `[UPDATE] The Vowels` (genetic-repair, pageless) — add "angels and angles": consonants = wound/structure; vowels = breath/wisdom lost; add the girl's "bullet in her genes."
 - `[UPDATE] [[The Thread]]` — **the Thread's lyric source is [[The Circle]]** (*world-on-a-string* + *she once held the string*); SiaS **extends/ties** that thread, with Joni's voice as the living strand (literal only if the actual-voice claim holds — else the *gesture* still stands: tying a surviving song to a latent one).
 - `[UPDATE] [[Duality]]` (heart-mind / Hermetic Gender) — son/girl as masculine/feminine descent.
+- `[UPDATE] Burial Over Destruction / the latency thread (2026-07-31, adjudicated)` — the audio stratum **answers** this song's never-heard theme: Roy publishes his own lost songs, **self-marked as lost by his own titles** ("Antarctica (Lost Song)," "The Future (2010 demo)") — latency recovered by remembrance, routed through the chorus-turn + Roy's board self-note, **not** through the Son's verse (the Son's unheard songs stay the archetype's). → [[Brain/Media/The vocal autobiography (the audio stratum)]]. Also: the girl-verse line is itself a room — `a bullet in her genes` (`442795f9`), audio captured, **untranscribed**.
 
 *(Several map to already-declared pageless IDs in [[Ontology]]: CollectiveAmnesia, SleepWakeUp, the Loop. Prefer feeding those over minting new ones.)*
 

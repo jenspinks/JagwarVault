@@ -44,6 +44,8 @@ The temptation is to date Lucius to a specific origin — the wound at age seven
 
 The earliest surviving public artifact is from 2008 (see Prior Identities below). That is not the beginning. That is the earliest trace we have.
 
+*(Added 2026-07-31; fuller treatment on the Brain page §Origin/timeline.)* The Hall of Mirrors preserves the pre-history in **sound**: Room 17, *Devil in the Mirror*, is an instrumental shadow-field (strings, tension, sadness, uncertainty), and Room 2 holds Carroll's mirror-poem played backward. Roy has said the recognition himself — his teens and twenties held a *"potential for chaos and destruction and darkness"* (the 2022 Listening Room), and the negative thing you perceive in another *"was a part of your self... that you had not integrated into the whole"* (the Honey podcast). Not the named character, yet — the material he would be formed from.
+
 The Dweller does not begin. It accumulates. Its visibility grows with what has been pushed across the threshold. Glimpses in adolescence. Fuller presence in the touring years. Co-credit and visual takeover by the Lucius Lullaby era. **What is happening is not Lucius arriving. It is Lucius being seen.**
 
 ---

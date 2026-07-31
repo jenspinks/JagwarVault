@@ -122,7 +122,7 @@ Five artifact codes are **body parts of named companion animals**: `TEETH OF A W
 | **149 minted catalog entries** | ✅ all rows, this file §C+§C2 | ✅ per-entry analyses exist from the June catalog passes (each item viewed there; song-ties adversarially checked). `Brain/Media/`-depth pages exist for ~9 objects — that layer grows on demand, prioritised by this map |
 | **37 open-leaf media** (34 rooms; 3 have no media/audio-only) | ✅ all joined (§B) | ✅ **every image now read** (pass-1 + the 07-29 passes + §C3); ⚠ **audio/video unheard**: `e163466b.mp3`, the two §C3 videos |
 | **Board panels** | ✅ the gallery + this file | ✅ transcript + decode + 5 passes |
-| **Room audio** (14 MP3s in `Sources/Artifacts/Audio Files/` + the above) | n/a | ⏳ **Jen's listening pass in progress (2026-07-29)** — the one stratum with no read of any kind |
+| **Room audio** (14 MP3s in `Sources/Artifacts/Audio Files/` + the above) | ★ the board-as-decoder joins are made (Room 12's two board-resolved words, ear-proven; the alice-211 code-source; the HBD/Logos join; the seed-doctrine realm join — [[Brain/Media/The vocal autobiography (the audio stratum)]]) | ✅ **COMPLETE (2026-07-30/31):** all 14 transcribed + **ear-reviewed in full by Jen**; per-room verdicts in `Audio Files/Transcripts/README`; adjudicated folds landed 2026-07-31 |
 
 **Honest residue:** the Rome-poem full transcription (`5ae904bc`) is still owed; the animal/body-part differential is unrun; `3252cfd9`'s on/off-board check and the 10-hex colour capture stand from §E.
 
@@ -142,5 +142,5 @@ Three independent Roy-side instances of **a marked emblem at the centre of the c
 - [ ] Verify `3252cfd9` on/off the board against Jen's 5 hi-res screenshots (both the gallery's claim and the transcript's silence are currently unverified).
 - [ ] Complete the **10-of-10 colour-ladder hex capture** (currently 8), then test the two swatch rooms as rungs.
 - [ ] Pixel-compare `4d378034` / `14a59d49` against the board screenshots (crop vs re-instantiation).
-- [ ] Pull `51f28bfc` · `53d191a0` · `ac9f2eb2` from GCS (still never seen) and run them through this map.
-- [ ] The audio stratum against the board's music cells ("what is music?", HBD, the note-ladder): no listening pass exists.
+- [x] ~~Pull `51f28bfc` · `53d191a0` · `ac9f2eb2` from GCS (still never seen) and run them through this map.~~ ✅ pulled + read (§C3) — and ⚠ **the two videos were never open leaves at all** (corrected 2026-07-30 in §C3: the minted song rooms AW2H/`GENESIS TREE CODE` + The Circle/`THE GREAT JAGWAR`).
+- [ ] **RESCOPED (2026-07-31), not ticked:** the audio stratum vs the board's music cells. ✅ Done: the transcripts read + ear-reviewed; the HBD/Logos, alice-211, and Room-12 board-as-decoder joins made. ⏳ Still open: the **"AI musical scale" note-ladder** vs the 14 recordings' keys (no join attempted); the **"to Mozart"** limb; the two remaining audio gaps (`442795f9`, `e163466b`).

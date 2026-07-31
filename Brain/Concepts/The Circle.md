@@ -10,7 +10,7 @@ connections:
   grounded:    [SONG-TheCircle, SONG-MoveToYou]
   strong_read: [CONCEPT-TheThread, ALBUM-33, SONG-TheCircleLuciusVersion, CONCEPT-Consumption]
   resonance:   [CONCEPT-TheLoop, CONCEPT-Malkhut]
-referenced_by: [ALBUM-33, ALBUM-LuciusLullaby, CHAR-SirRabbit, CONCEPT-CommunionVsSpectacle, CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-Gnosticism, CONCEPT-Love, CONCEPT-SourceVsReflection, CONCEPT-TheBanana, CONCEPT-TheCircus, CONCEPT-TheDivide, CONCEPT-TheJaguar, CONCEPT-TheLaborsOfHercules, CONCEPT-ThePattern, CONCEPT-TheRealm, CONCEPT-TheRoseCross, CONCEPT-TheWheel, MEDIA-CodingConsciousness, SONG-ItSYourTime, SONG-LOOP, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-TheCircle, SONG-TheCircleLuciusVersion]
+referenced_by: [ALBUM-33, ALBUM-LuciusLullaby, CHAR-SirRabbit, CONCEPT-CommunionVsSpectacle, CONCEPT-Consumption, CONCEPT-Fire, CONCEPT-Gnosticism, CONCEPT-Love, CONCEPT-SourceVsReflection, CONCEPT-TheBanana, CONCEPT-TheCircus, CONCEPT-TheDivide, CONCEPT-TheJaguar, CONCEPT-TheLaborsOfHercules, CONCEPT-ThePattern, CONCEPT-TheRealm, CONCEPT-TheRoseCross, CONCEPT-TheWheel, MEDIA-CodingConsciousness, MEDIA-VocalAutobiography, SONG-ItSYourTime, SONG-LOOP, SONG-LuciusLullaby, SONG-NotYourHomie, SONG-TheCircle, SONG-TheCircleLuciusVersion]
 review_date: 2026-12-05
 ---
 # The Circle
@@ -100,6 +100,10 @@ Two dated public quote-cards state a doctrine this page's claim #3 (§Descriptio
 ## Track "O" = the Enso — a mirror of its painter `[G]`/`[W]`
 
 The board's own "Tracks" list (a distinct concept-album list, not *33* — [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]] §7) closes on a track titled **"O,"** glossed on a separate board panel as the Zen **Enso**: *"Enso… wholeness and cyclic return… the void… a mirror of its painter… draw your own circle."* `[G]` (board-transcribed). This is a second, board-sourced naming of the Circle-not-Loop distinction — wholeness and cyclic *return*, not mere repetition — and it adds a specific mechanism the rest of this page doesn't: the circle **mirrors its painter**, so no two passes through it are identical. `[W]` Applied to the catalogue's **"(lucius version)"** re-recordings ([[Sources/Lyrics/The Circle (Lucius Version)]]): each "version" cover reads as a **new Enso** — a re-painting of the same circle by a different hand (Lucius's), not a copy of the original — which reframes the Lucius Version as formally *enacting* the Enso doctrine, not only thematically distorting the founding myth. `[W]`
+
+## The four states — the archive keeps the song's becoming `[G]`/`[W]` (2026-07-31)
+
+The founding myth exists in **four states**, ear-verified across the audio stratum ([[HoM Audio - The Circle, four states (Rooms 4 + 73) 2026-07-31]]): the *Song of the Ring* voice memo (HoM Room 73), the "O (444DEMO)" room holding **the released recording itself** (Room 4, per Jen's ear), the *33* release, and the Lucius Version. The memo carries a **variant resolution** absent everywhere else: the wise one *"from a small place **heard a sound under her wing** / On the inside of the inside, **the song of the ring**"* — plus a coda, *"May we always remember the song that we sing / ...the song of the ring."* `[G]` the texts. **Two endings of the myth, both kept:** the release's wise one **remembers** (anamnesis); the memo's wise one **discovers it on her own body**. `[W]` — the doctrine's own *"I see it different every time"* applied to its keystone song; the ring→O→circle title-axis is the Enso drawn in names. (Lineage *order* stays undated `[W]`; board-track "O" = this composition stays a single-channel `[~]`.)
 
 ## "The crowd sings it back" — the Circle's signature [W]
 

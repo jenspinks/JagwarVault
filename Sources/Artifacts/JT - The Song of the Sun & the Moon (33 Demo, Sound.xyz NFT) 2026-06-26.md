@@ -26,7 +26,7 @@ ingest_source: "A real but DSP-invisible Jagwar Twin track — Sound.xyz NFT-onl
 The at-risk CloudFront-only files are now in the vault (the durable copy — the source is not on IPFS/Arweave and could vanish):
 - **Audio:** `Sources/Artifacts/Audio Files/The Song of the Sun & the Moon (33 Demo).m4a` — 5,875,032 bytes, **exact byte-match to source**, verified ALAC/AAC-LC M4A (4:02).
 - **Cover:** `Media/images/the-song-of-the-sun-and-the-moon-33demo-cover.jpg` — 1000×1000 JPEG (the source `.png` URL serves JPEG bytes; extension corrected).
-- **Pending:** Jen's ear-check against [[SOL]] / the *Interview* EP2 performance → would settle the SOL identity `[W]`→`[G]`.
+- ~~**Pending:** Jen's ear-check against [[SOL]] / the *Interview* EP2 performance → would settle the SOL identity `[W]`→`[G]`.~~ ✅ **ADJUDICATED (Jen, 2026-07-31, after the full listening pass): DE-CENTERED, not confirmed** — no obvious shared musical structure; identity stays `[?]` (see §⚑ verdict below).
 
 ## The writing-process note — Roy, VERBATIM `[G]`
 > I wrote The Song of The Sun & The Moon during the making of my new album "33". I was alone in the woods in Ithaca, NY across from the Dali Lama's Namgyal Monastery watching the sun set with a small acoustic guitar. My nephew had just been born and I was reflecting on my own journey so far. I had just been dropped from a major record label, and had been largely unsuccessful in terms of making a living as an artist, but I felt a peace about it all in that moment. I was proud of myself.
@@ -51,6 +51,8 @@ This is very likely the **origin/demo of the 2026 [[SOL]]** (the wordless closer
 7. **The Father:** *"my dad would make up his own little songs"* ↔ SOL's poem-guide *"I reached for my Father's hand / He said you're half the man that you know."*
 
 **Verification path:** the audio is still downloadable — listening to the 2022 demo and matching it against SOL / the EP2 performance would settle `[W]`→`[G]`. **Held from canon** pending Jen + an ear-check.
+
+> ✅ **VERDICT (Jen, 2026-07-31): DE-CENTERED.** After the full listening pass: **no obvious shared musical structure** between this demo and SOL; the literal demo→finished identity stays **unresolved `[?]`** without a convincing melodic or structural match. Items 1–7 above survive as *relationship* evidence, not identity evidence: the demo **may belong to SOL's compositional history** `[?]`/`[W]`, and it firmly joins the **Move To You / Sun & Moon / SOL three-song tangle** (shared love-question vocabulary, heart-navigation, childhood-growth-return, the lullaby frame) — see [[Essays/Concepts/Songs/SOL]] §the three-song tangle and [[Essays/Concepts/Songs/Move To You]]. The three songs are tangled; they are not one composition.
 
 ## Canon hooks (folds pending Jen)
 - **SOL = "The Song of the Sun & the Moon (33 Demo)"** (demo→finished) → [[SOL]] / [[Lucius Lullaby (album)]].

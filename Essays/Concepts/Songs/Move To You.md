@@ -68,6 +68,8 @@ The thesis indicts a *set* — Move To You, Ballerina Boy, the ballad-after-Lose
 
 **The deepest cut of the split.** The song Lucius singles out to bury — *"does anyone remember 'Move To You'?"* — is **the exact song where Roy first names the Circle** (2019, above): the doctrine that becomes the catalogue's keystone. The shadow's designated *dead weight* is the cosmology's **origin point.** Lucius measures by streams and writes off the forgotten ballad; the forgotten ballad is where Roy's whole system is first spoken aloud. This is the split at its sharpest — not a disagreement about a song, but the optimizer discarding the precise place the meaning was born. *(Circle naming: Digital Journal 2019-09-23. Burial: The Interview EP3.)*
 
+**Addendum (adjudicated 2026-07-31): the early Song-of-Love prototype `[W]`.** The burial above is also a *placement*: The Interview sets this song **inside the Song-of-Love conflict itself** `[G]` — and the lyric earns the seat, because *"Love's a question... that you chose / ...that you know"* is the exact formulation the Song of Love reprises seven years later (*"Love. Love is a question. Everyone's guessing. Everyone knows."*). Move To You is an **early Song-of-Love prototype / doctrinal ancestor** `[W]`, and it stands in a **tangled three-song cluster** with *The Song of the Sun & the Moon* (shared navigation: stars *"out of place"* / *"out of view"*, the heart as the surviving signal; shared childhood-growth-return) and [[SOL]] — tangled, **not flattened into one composition** (the demo→SOL identity stays `[?]`; see [[SOL]] §the three-song tangle).
+
 ---
 
 ## Resonance

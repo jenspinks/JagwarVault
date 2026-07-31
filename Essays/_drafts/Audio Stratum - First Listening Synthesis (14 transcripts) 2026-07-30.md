@@ -1,6 +1,7 @@
 ---
 type: handoff
-status: draft
+status: folded-to-canon
+folded_date: 2026-07-31
 audience: claude-code
 publish: false
 from: audio-stratum-synthesis-session

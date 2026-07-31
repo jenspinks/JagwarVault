@@ -18,6 +18,8 @@ related: [CHAR-SirLucius, CHAR-Roy, ALBUM-LuciusLullaby, SONG-SOL, CHAR-Ballerin
 
 Written at Roy's absolute bottom. Age 35, broke, couch-surfing, back in his parents' house. Recorded into a MacBook microphone in his childhood bedroom, in desperation. This is not a polished studio product — it's a transmission from the floor.
 
+**The other lullaby (added 2026-07-31).** The archive holds this song's structural counterpart: *The Song of the Sun & the Moon* (the 2022 Sound.xyz demo), which Roy calls *"a lullaby to myself, from myself"* `[G]`. Two lullabies, opposite functions: the protector's lullaby builds the soothing cage (*"it's a beautiful life... I'm dreaming"*); the witness's lullaby opens it (*"your heart can be a home," "so live your dreams... I'll be here when you're done"*). The pairing is structural `[W]`, not compositional — the demo's relationship to [[SOL]] stays a de-centered open question (see that page's §the three-song tangle).
+
 ---
 
 ## Who's Speaking

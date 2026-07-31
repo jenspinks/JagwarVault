@@ -46,6 +46,14 @@ A useful diagnostic fell out of it: **if two of our own lists share a count but 
 
 ---
 
+## ★ Governing position (Jen, 2026-07-31) — Bailey
+
+> *"This project IS heavily influenced by Bailey... We don't have to justify that position, its apparent. Much of the project can be read through Bailey and if something conflicts hard its probably being interpreted incorrectly... It is a project that aligns with bailey but it is not Bailey."*
+
+Recorded as a **governing interpretive position** `[P]`: the project is substantially influenced by Bailey but **not reducible to Bailey** — one important organizing lens among several traditions, **including traditions Bailey herself borrowed from**. Operating rules: (1) **a reading that conflicts sharply with the Bailey framework is a reason to re-examine the interpretation — not an automatic veto** (the project stays syncretic); (2) **Bailey is not re-proved from zero as an incidental resonance each time** — the influence itself is settled; per-mapping tiers still apply per the gate. Material anchor added the same day: the Great Invocation's closing clause placed in HoM Room 36, likely via the Lucis Trust's own published audio ([[HoM Audio - Grandmas Song, the four-prayer stack (Room 36) 2026-07-31]]). Row A7 amended accordingly.
+
+---
+
 ## Verdict vocabulary
 
 Built for a syncretist. Roy demonstrably stacks traditions **on purpose**, so "which single tradition is this?" is sometimes the wrong question, and the vocabulary has to be able to say so.
@@ -105,7 +113,7 @@ This is the single most useful table for step 4 of the gate. **Where Roy builds 
 | A4 | **Hermeticism / the Kybalion** | `[G]` **strongest in the vault**: the 7 Principles transcribed verbatim, in his hand, plus the book named in the Book Club | `[G]` engagement / `[W]` applications | Not needed for engagement; per-application differentials still open | Low. Anchor is unimpeachable. |
 | A5 | **Jung** | `[G]` named repeatedly + *CW* volumes photographed; the board's hand-drawn psyche maps are class **(b)** (labels drawn, name absent) | `[~]`/`[W]` | Not run | Low-medium. Anchor strong; the board-map attribution should stay flagged **(b)**. |
 | A6 | **Gnosticism** | `[G]` Roy's own "escape the circus / wake from the fog" register | `[~]` | **✅ Partial** — the Lurianic-vs-Gnostic telos split is explicitly disciplined | Low. |
-| A7 | **Bailey / Theosophy** | `[G]` named outright, the Hercules IG Live, esoteric astrology, his natal chart | `[G]` influence / `[~]` mappings | Not run. ⚠ The board's virtue/vice ladder is *"Bailey-**style**"* by our gloss, class **(c)** | Medium. Separate the named-influence `[G]` from the unlabelled board ladder. |
+| A7 | **Bailey / Theosophy** | `[G]` named outright, the Hercules IG Live, esoteric astrology, his natal chart · ★ the Great Invocation's closing clause in HoM Room 36, likely the Lucis Trust's own audio `[W]` (2026-07-31) | ★ **GOVERNING POSITION `[P]`** (Jen 2026-07-31, §above) — heavily influential lens, not reducible to Bailey; sharp conflict with a Bailey reading = re-examine the reading, not auto-veto; not re-proved from zero | Differential still not run for the board ladder (the *"Bailey-**style**"* class **(c)** gloss stands) | Medium-high. The lens is settled; per-mapping tiers still apply. |
 | A8 | **Gurdjieff** | `[G]` his most-named public influence; the Law-of-Seven reading of the musical scale is class **(c)** | `[G]` engagement / `[~]` Law of Seven | Not run | Medium. The scale is claimed by both the Tree and the octave; likely **compatible-but-undiscriminated**. |
 | A9 | **Tarot / Golden Dawn path lattice** | `[G]` the Devil card (Roy's own, *"it's a kind of code"*), and **Paul Foster Case named as his source**; the Magician card shown not named | `[W]` one rung / `[~]` the rest | **✅ Self-flagged** as an analyst extension on the Kabbalah page | Low. Already honest. The Case attribution strengthens the licensing and should be folded onto that page. |
 | A10 | **Letters of Creation / letter-mysticism** | `[G]` Hebrew engagement; the *method* has **no public Roy source** | `[~]` tradition-correspondence | **✅ RUN.** An external hunt found no public source, and the claim was downgraded from "Roy's method" | **EXEMPLAR.** The other model row. |

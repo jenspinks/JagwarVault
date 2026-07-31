@@ -10,6 +10,8 @@ related: [CONCEPT-TheCircle, SONG-LuciusLullaby, CHAR-SirLucius, CONCEPT-TheAlgo
 ## Album / Position
 *Lucius Lullaby*, **Track 1 — the album opener.** **NOT instrumental** (corrects the prior label). Runs **seamlessly into Track 2, [[Lucius Lullaby]]** — no pause; experienced live as one song; functions as the **intro / overture** to the title track. `[G]`
 
+- **The fourth state (2026-07-31):** this version is one of the founding myth's **four preserved states** (memo → "O (444DEMO)" → the *33* release → this). It carries **none** of the memo's variant material (the under-her-wing verse, the "song of the ring" coda) — the Lucius rework compresses the refrain only. → [[HoM Audio - The Circle, four states (Rooms 4 + 73) 2026-07-31]].
+
 ## Lyrics
 
 ![[Sources/Lyrics/The Circle (Lucius Version)]]

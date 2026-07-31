@@ -57,3 +57,6 @@ All 13 files pulled from IPFS (via the `gateway.pinata.cloud` gateway) into `Sou
 | 109 | Room 109 - Antarctica (Lost Song).mp3 | 4.0 MB |
 | 116 | Room 116 - Everybodys Going To Space Now.mp3 | 4.1 MB |
 | 136 | Room 136 - House Of Spells (Cuz_idea).mp3 | 3.6 MB |
+
+## Transcripts + ear-review ✅ (2026-07-30/31)
+All 13 room files + the Sound.xyz Sun & Moon demo are **transcribed** (3-pass Whisper + Demucs vocal isolation, with a Parakeet cross-architecture check on Room 36) and **ear-reviewed in full by Jen** — per-file reconciled drafts + a machine-vs-ear verdict table live in `Sources/Artifacts/Audio Files/Transcripts/` (`citable: false`: cite the room audio, never the transcript). Adjudicated source pages: [[HoM Audio - The Circle, four states (Rooms 4 + 73) 2026-07-31]] · [[HoM Audio - 33 (The Death Of Me) (Room 3) 2026-07-31]] · [[HoM Audio - Grandmas Song, the four-prayer stack (Room 36) 2026-07-31]]; synthesis: [[Brain/Media/The vocal autobiography (the audio stratum)]].

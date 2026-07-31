@@ -26,6 +26,8 @@ review_date: 2026-12-05
 
 *33* is **the cosmology album.** Where the debut ([[Subject to Flooding (album)]]) turned a personal wound into a *we-not-me* humanism, *33* turns it **outward into a diagnosis of the attention/machine age** (tracks 1–4), poses the catalogue's central question at the literal center (5, *"do you know who you are?"*), and answers it with the **foundational myth** at the close (10, *"the inside of the inside"*). The album moves **from forgetting to remembrance** — from external-system critique to the myth underneath everything — and it does so **before any of it is named "Lucius."** Title = Roy's age (33); by his own framing it *"represents peace within and without."*
 
+**The era's other 33 (added 2026-07-31, adjudicated).** The Hall of Mirrors holds an unreleased song sharing the title-number: **"33 (The Death Of Me)"** (Room 3, ear-verified — [[HoM Audio - 33 (The Death Of Me) (Room 3) 2026-07-31]]), a first-person confession of the compromise (*"Just turned thirty-three... I closed my eyes and compromised / And that was the death of me"*), with the possessor's voice ("That said") delivering the shame-verdict. The era-read this supports `[W]`: 33 is also **the death-year confessed in song**; the board is the response machinery; the album is what surfaced. **Naming direction stays `[?]`**: the grounded title-source remains Roy's age (above); a maze-only song, the album, and the board share the number because all three share the age referent — do not promote "the album is named for the song."
+
 ---
 
 ## Tracklist

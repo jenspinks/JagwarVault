@@ -94,3 +94,4 @@ Ya
 ## Maintenance
 - Ingested 2026-05-16 (AZLyrics); **fully verified against Spotify 2026-05-30 (Jen screenshots, top + back half) → `status: stable`.** Spotify supersedes AZLyrics — stylized quotes/caps now captured ("One, become Two", "I"/"You"/"Us"/"Self"), the "(see it different…)"/"(You'll never get away)" ad-libs, "(5)", and the second chorus "From 1:00 and through 11:00 / Another way II Heaven."
 - Numerology/emanation-return cosmology (the One → two → … → eleven; "I" was still "I"; "All of Us"; "The Great Design") — Kabbalah/Tree-of-Life; for the essay.
+- **2026-07-31:** an **acoustic alternate version exists as HoM Room 12, "Creation w_Aubs"** (ear-confirmed as this song by Jen; transcript in `Sources/Artifacts/Audio Files/Transcripts/`, `citable: false` — cite the room audio). The demo's ear-resolved wording agrees with this released text at both previously-disputed points ("Process and time"; "I was still I").

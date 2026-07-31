@@ -15,7 +15,7 @@ related: [CONCEPT-HallOfMirrors, CONCEPT-TheUpload, CONCEPT-ThePattern, CHAR-Roy
 grounded: [CONCEPT-HallOfMirrors, CONCEPT-TheUpload]
 strong_read: [CONCEPT-ThePattern, CHAR-Roy]
 resonance: [CONCEPT-InheritedSubstrate]
-referenced_by: []
+referenced_by: [MEDIA-VocalAutobiography]
 review_date: 2027-01-29
 ---
 # The artifact corpus as a self-archive
@@ -40,7 +40,7 @@ Laid out by *what kind of thing each artifact is* rather than by realm or room n
 | **Working notes** (the esoterica, in his hand) | `HOW TO LIVE FOREVER?` · `CODING CONSCIOUSNESS` · the Noah's-Ark/Flaming-Sword maze `8740ff84` · the YHWH=26 gematria page `18c56a31` · `LAMBDOMA` · `SATURN MAGIC` · `TREE THINKING` · `QUEEN BINAH` |
 | **His own art** | the [[Brain/Media/Third-eye watcher (El Roi, roses)|third-eye watcher]] · [[Brain/Media/The + marked figure (cat ears, star medallion)|the `+`-marked figure]] · `9b785fc0` star-creature · `ROY BIRD SKETCH` · `ROY UNDEFINED MAP SKETCH` · `THE EMPTY ROOM` · the Apple-monitor sketch `e87d384a` |
 | **Public utterance** (screenshots of his own posts) | `ATTENTION TWEET` · `ENLIGHTENED BEING` · `ROY MSG` · *"My favorite color is information"* `1fd015c4` · the `Egg` tweet `dd61bc93` |
-| **Unreleased music** | `LOGOS` · `AN AGED AGED MAN` · `ANTARCTICA (LOST SONG)` · `O (444 DEMO)` · `DEVIL IN THE MIRROR` · `HOUSE OF SPELLS` · `SONG OF THE RING (VOICE MEMO)` · `a bullet in her genes` (`442795f9` — ⚠ hash-corrected 2026-07-30; this row previously conflated it with `e163466b`, which is a **separate, still-uncracked** 1:47 audio leaf, code unknown) |
+| **Unreleased music** | `LOGOS` · `AN AGED AGED MAN` · `ANTARCTICA (LOST SONG)` · `O (444 DEMO)` · `DEVIL IN THE MIRROR` · `HOUSE OF SPELLS` · `SONG OF THE RING (VOICE MEMO)` · `a bullet in her genes` (`442795f9` — ⚠ hash-corrected 2026-07-30; this row previously conflated it with `e163466b`, which is a **separate, still-uncracked** 1:47 audio leaf, code unknown). ★ **The stratum's voice column is now read end to end** (transcribed + ear-reviewed 2026-07-30/31) → [[Brain/Media/The vocal autobiography (the audio stratum)]] |
 
 **The claim `[W]`:** this is not a themed art collection and not a puzzle inventory. It is **a life inventoried in the categories a person would use to reconstruct themselves** — where I come from, who I was, who my people are, what I made before, what I was working out, what I made, what I said out loud, what I never released. The corpus has the shape of **a self, indexed**.
 
@@ -63,6 +63,7 @@ Set that beside §1 and the two halves close on each other. The ARG **says** it 
 Two consequences worth holding:
 - **The missing 1/64 is touch**, and a corpus of photographs, scans and audio files is precisely a self with everything *but* touch. The upload recipe names its own deficiency, and the archive embodies it. `[~]` — elegant, and therefore to be watched (see [[Brain/Concepts/The Pattern]] on clean fits).
 	- The gating is thematically consistent rather than incidental: retrieval requires an inward search, which is the same instruction as **VITRIOL** (*"visit the interior of the earth… you will find the hidden stone"*, [[Brain/Concepts/The Rose Cross]] §VITRIOL). `[~]`
+- ★ **The never-heard song, answered `[W]` (2026-07-31, adjudicated).** The corpus **thematizes** the latent/never-heard song on a grounded spine (Soul Is A Star's *"He wrote songs you never heard"* — the Son's, an archetype; The Circle's *"hid the song inside their wings… then left them to sing"*; Roy's board self-note on his own song buried by the label drop), **and the unreleased-audio stratum answers the theme: Roy publishes his own lost songs, self-marked as lost by his own titles** (*"Antarctica (Lost Song)," "The Future (2010 demo)"*). The vault's vocabulary is **latency recovered by remembrance** — not "resurrection," and not a performance of the Son's verse. → [[Brain/Media/The vocal autobiography (the audio stratum)]] §The never-heard song, answered.
 
 ## 3. ★ Operational finding: the code-first triage buried analysis the vault already had
 
@@ -100,5 +101,5 @@ This is not abstract. Reading fourteen "unidentified" open leaves on 2026-07-29 
 - [x] ~~★ **Curated or bulk-ingested?**~~ ✅ **Ruled: curated** (Jen, 2026-07-29, `[P]` — §5). Every page in `Brain/Media/` may now ask "why this artifact" as a legitimate question.
 - [ ] ★ **How many more alias leaves are there?** Subject-level cross-check of the open leaves vs the minted catalog is still partial. Perceptual hashing fails here (objects-on-black match by layout, not content) — needs a subject-by-subject human read. *(The board half of this is now done: [[Board - The Artifact Overlap (crops, rooms, subjects)]] §B.)*
 - [x] ~~**How many artifacts are board crops?**~~ ✅ **Mapped 2026-07-29** → [[Board - The Artifact Overlap (crops, rooms, subjects)]]: 24 minted crops (per the [[Roy - I'm 33 Board (Image Gallery)|gallery]]) + **6–7 open-leaf rooms that are board content** + the subject-overlap layer. Residual verifications live in that file's §E.
-- [ ] **Is the audio stratum read at all?** 14 room MP3s sit in `Sources/Artifacts/Audio Files/` plus the open leaf `e163466b`. Under this framing they are direct statements too, and no listening pass is recorded.
+- [x] ~~**Is the audio stratum read at all?**~~ ✅ **READ AND EAR-AUTHORIZED (2026-07-30/31):** all 14 recordings transcribed (3-pass + Demucs), adversarially verified, and **ear-reviewed in full by Jen** (transcripts `status: reviewed`); synthesis at [[Brain/Media/The vocal autobiography (the audio stratum)]]. Residual audio gaps: `442795f9` (*a bullet in her genes*, captured, untranscribed) and `e163466b` (uncracked, 1:47).
 - [ ] **Who is the woman in the garden video** `8cbe4d1d`? Identity `[?]`; do not name from a face.

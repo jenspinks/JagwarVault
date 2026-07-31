@@ -20,6 +20,8 @@ On the board, the lyric block is **color-coded to the board's own ten-rung ladde
 
 The board is titled **"I'm 33 this year"** and self-dates to **2021** — one year before *33* released (birthdate-gematria: `5+22+1+9+8+8` = Roy's 5/22/1988 birthdate; title + digits together give 1988+33 = 2021). Since it carries this song's finished lyric plus [[Soul Is A Star]]'s, the board functions at its origin as ***33*'s concept-document** — the making-of map whose Kybalion/Tree-of-Life/emanation scaffolding *is* the album's conceptual architecture, later kept growing into a running cosmology board. `[G]` the board's contents and self-dating; `[W]` the "concept-document" framing.
 
+**Roy wrote it a THIRD time — and the board decodes the recording (2026-07-31, ear-reviewed).** HoM Room 12, *"Creation w_Aubs,"* is **this song in an acoustic version** (Jen-confirmed by ear), so the cosmogony exists as board-text, released track, and archived alternate performance. Two transcript uncertainties were resolved **by the board against the machines, and Jen's ear then confirmed the board both times**: the weak "[Processing time]" is *"Process and time"* (the board's exact cell), and the machines' "I was still alive" is *"I was still I"* (the board's reading) — the board-as-decoder method, proven twice on one song. The filename's "w_Aubs" preserves a collaborator in the title, as "Cuz_idea" does elsewhere: the archive keeps its **relationships** in its file names. The demo also sings *"From one through eleven"* — the eleven-count carried in every state of the text (released as *"From One and through Eleven,"* stylized *"From 1:00 and through 11:00"* in the second chorus — the count as a **clock**, cf. §6).
+
 ## Lyrics
 
 ![[Sources/Lyrics/Another Way II Heaven]]

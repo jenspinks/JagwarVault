@@ -28,21 +28,20 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 Hey, hey, hey, hey
 Hello, hello, hello, hello, hello
 
-Golden hour, I find myself
-[unclear] than ever before
+Older now, I find myself
+than ever before
 And I lost myself
-[unclear]
 
-[unclear]
-But I ain't [scaring?] you away
+
+But I am scaring you away
 I don't care and I don't think
-That you could be [unclear] in spite of everything
+That you could be awed in spite of everything
 And you have a soul
 But are you an ocean?
-[unclear]
+ 
 But you can have all my love
-You will know when [unclear]
-[unclear]
+Even though when you give it all
+in the
 ```
 
 The apparent closing “Thank you” was rejected because it also appeared in the silence-control behavior and carried high no-speech probability.

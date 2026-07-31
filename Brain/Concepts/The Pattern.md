@@ -59,6 +59,14 @@ The board's ***"Pattern Represented in Movies"*** (22 titles, `[G]` the list). R
 ## Sun/Son [W]
 Board drafts [[Sources/Lyrics/Soul Is A Star|Soul Is A Star]] as **"Sun"** (*"who had a Sun / my Sun was a singer"*) against the released **"Son"** — deliberate homophone, coheres with *"The sun = Symbol of manifesting energy / externalized Life Force"* and *"Sun of God."* (Released lyric verified as "Son" — record the board spelling as artifact detail, do not "correct" the release.)
 
+## The homophone channel — a compositional method [W] (adjudicated 2026-07-31)
+Homophonic doubling recurs as a **method**: identical sound consciously carrying two semantic registers — exactly the level at which a lyricist places two meanings in one audible form. The written core, each instance verified in text:
+- **Sun/Son** — the board-vs-release split above.
+- **Prophets/profits** — Spotify's marked spelling *Prophets* in Soul Is A Star (*"Before Prophets ever turned"*); the weight is the release's spelling *choice* (the "profits" reading was an ingest error, not a Roy variant — [[Claim Ledger]]).
+- **genes/jeans** — ★ decisive: No. 1 Champion's released line *"In the blue jeans, she got good genes"* holds **both spellings and both meanings inside one verified line**; and at the hash level, the HoM code `a bullet in her genes` validates in the Merkle set while the "jeans" spelling fails — deliberate to the byte.
+- **Mourning/morning** — Sir Rabbit's "Mourning Sun," image-confirmed as written.
+The method folds at `[W]` — recurring across songs and visual text, no longer defended as a coincidence — while **each new instance is still evaluated separately**. Excluded after adjudication: *father/farther* (better explained by the rhyme scheme) and *rain/ring* (rejected by ear, 2026-07-30). **Guard:** a device observation, not a letter-method doctrine — it does **not** revive the struck angles/angels row ([[Claim Ledger]]), which stands in its struck→`[~]` state. **Queued:** a systematic catalogue audit per instance — exact spellings · source type · whether both meanings are materially present · what reversal, polarity, or double meaning the pair performs.
+
 ## Anchors this concept gives the vault
 - **Bailey → grounded-in-his-hand:** sun/money "externalized Life Force," *"patterns of right living formed in the unconscious mind of a race / Coding Consciousness."* Supports [[The Labors of Hercules]].
 - **Inherited substrate, itemized:** Fibonacci/golden-ratio/continued-fractions, EM spectrum, tone↔color, torus, gematria (Hebrew YHWH 10/15/21/26; Greek isopsephy; Lo Shu; Eye-of-Horus), Walter Russell octaves → `CONCEPT-InheritedSubstrate` now has a source catalogue.

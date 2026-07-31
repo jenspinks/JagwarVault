@@ -41,6 +41,7 @@ Fear is not the *absence* of prayer — it is prayer **running backward.** Luciu
 - [G] **Lowercase = contraction.** Per the Sir Lucius character card: *"his songs are in lower case because darkness contracts, unlike light that expands."* Typography inverts — capitals (expansion / Jagwar Twin) → lowercase (contraction / sir lucius). Ties to the board's *"one must contract / to expand / to infinity."*
 - [W] **The Dark Circle within the Circle** ([[Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts)|LOOP lore]]) — a counterfeit/contracted circle nested inside the true one.
 - [W] **Same line, opposite spirit** — *"Everyone's a guru"*: Roy says it as rueful humility, Lucius as contempt. The clearest *behavioral* inversion — identical words, reversed vector. → [[Sir Lucius]] / [[The Aquarium]].
+- [G] **Room 2, "An Aged Aged Man" — the poem played backward** (ear-identified + objectively tested, 2026-07-31). The room's audio is an unknown woman reading Carroll's *Looking-Glass* song, **reversed**: inversion functioning as an **audible operation** — the listener must reverse the recording to recover the buried source text. The mirror-book's song, held the way a mirror holds a face: exactly, and backwards. Same grammar as ROSE ESOR and Rorrim Ehtni, in a third medium. ([[Artifacts - Songs, Demos and Mints]] #2 / room code `ALICE 211`; the board frame's title "alice 211 song **mirror**" reads as a possible literal description of the treatment, `[W]` while the frame↔recording mapping stays single-channel.)
 
 ---
 

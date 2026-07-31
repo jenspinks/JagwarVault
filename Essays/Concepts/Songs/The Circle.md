@@ -12,6 +12,7 @@ related: [ALBUM-33, CONCEPT-TheThread, CONCEPT-TheCircle, SONG-AnotherWayIIHeave
 ## Album / Position
 - **Album:** *33* (2022, Big Loud Rock) — **track 10 of 10, the album closer**; 3:50. **Writer: Roy English (sole)**; Producers: Roy English & Matt Pauling ([[Sources/Credits/33]]). *(Roy's solo authorship matters: this is **his** mythic statement, not a co-write — like [[Essays/Concepts/Songs/Another Way II Heaven|Another Way II Heaven]].)*
 - The **33 original** — distinct from [[Sources/Lyrics/The Circle (Lucius Version)]] (the 2026 Lucius reworking). This is the foundational Jagwar myth; the most explicit statement of the `CONCEPT-TheCircle` mythos.
+- ★ **The song exists in FOUR states, and the maze preserves the two streaming lacks** (2026-07-31, ear-verified): the *Song of the Ring* voice memo (HoM Room 73 — a **variant wise-one verse**, *"from a small place heard a sound under her wing / ...the song of the ring,"* + a coda absent from every other state) and the released recording itself filed in-maze as "O (444DEMO)" (Room 4), beside this release and the Lucius Version. Two resolutions of the myth held side by side: the wise one **remembers** (here) vs **hears it under her own wing** (the memo). Full texts + tiers: [[HoM Audio - The Circle, four states (Rooms 4 + 73) 2026-07-31]].
 
 > [!important] Spelling
 > Official lyric spelling is **"Jagwar/Jagwars"** (the artist's own spelling, not "jaguar"). The myth's creatures **share the project's name** — that's the point, not a typo.

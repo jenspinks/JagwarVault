@@ -61,6 +61,8 @@ This is a Resonance — not a Strong Read — but worth sitting with:
 
 This does not require conscious intent from the artist. The resonance is structural.
 
+**The Lucis strand — the trail followed faithfully (added 2026-07-31, adjudicated).** The light-name field is not only etymological in this project. Alice Bailey — a substantially documented influence, now a governing interpretive position ([[Framework Registry]] §Governing position) — publishes through the **Lucis Trust**, whose sibling publishing company the Baileys founded in 1922 as the **Lucifer Publishing Company** and renamed the **Lucis Publishing Company in 1924**. (Precision matters: the publishing company and the Trust are distinct entities; the Trust itself was never named "Lucifer Trust" — the organization's own history distinguishes them and explains the original name through the light-bringer tradition.) The trail as laid: Bailey's influence → **the Great Invocation's closing clause placed inside HoM Room 36, likely via the Lucis Trust's own published audio** ([[HoM Audio - Grandmas Song, the four-prayer stack (Room 36) 2026-07-31]]) → **Lucis / Lucius / lux as a shared light-name field** → Sir Lucius as the project's dangerous Light-Bearer. **The assembled connection is `[W]`.** Whether Roy named Sir Lucius *after* the Lucis Trust is an **open intent question `[?]` — stated and investigated, not suppressed** (→ [[Sir Lucius]] §Open Questions). No protective softening: the vault follows the public trail, distinguishes the entities, and lets accurate naming, direct citation, and honest tiering do the safeguarding.
+
 ---
 
 ## Reclaiming vs integration — stop, re-order, or redeem (by stream) `[W]`
