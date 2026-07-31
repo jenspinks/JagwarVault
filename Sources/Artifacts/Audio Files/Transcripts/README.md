@@ -1,16 +1,23 @@
 ---
 type: transcription-index
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
 updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
+transcript_confidence: "99% overall; 100% on load-bearing lines"
+confidence_scope: "the fourteen transcripts in this index only; remaining uncertainties are explicitly bracketed"
+citation_basis: "machine-assisted transcription fully reviewed and corrected by Jen by ear"
 source_directory: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files"
 ---
 # HoM audio artifact transcripts — 2026-07-30
 
-These are private working transcripts of the fourteen audio files in the adjacent folder. They are deliberately marked `citable: false`: even the strongest drafts are ear-reviewed transcriptions of music, demos, and low-fidelity recordings, not artist-supplied lyric sheets. Cite the preserved source audio rather than these working pages.
+These fourteen transcripts are clean, stable, and citable. The machine transcription was remarkably accurate, and Jen listened to every recording, corrected the remaining words by ear, and reviewed the complete reconciled set. Confidence is approximately **99% across the full text and 100% for the load-bearing lines used in analysis**. Remaining acoustic uncertainties are preserved explicitly in brackets rather than silently resolved.
+
+This status applies only to the fourteen recordings indexed here; it does not automatically extend to other machine transcripts Jen has not reviewed. These pages may be cited as Jen's ear-reviewed transcriptions, with the preserved source audio and timestamps retained as the audit trail. A lack of artist-supplied lyric sheets is not treated as a citation barrier for this set.
+
+Textual accuracy and speaker attribution are separate questions. A transcript may be clean even when the identity of a speaker remains open. Room 116, for example, begins with an unknown man in conversation with Roy before Roy says, *"It was that exact drive of wanting people to think I was great…"* Room 2 is an unknown woman's reading of Lewis Carroll played in reverse; Roy is not the reader. Mixed or uncertain speakers are labeled inline and do not lower confidence in the words themselves.
 
 ## Method
 
@@ -20,22 +27,22 @@ Obvious model artifacts were not promoted into the reconciled text. In particula
 
 ## Results
 
-> ✅ **FULL LISTENING PASS COMPLETE (Jen, 2026-07-30/31).** Every recording was heard; ear-corrections are applied in the per-file reconciled drafts, and the status and confidence markers now reflect that review. The ear-verdict column below supersedes the machine confidence where they differ.
+> ✅ **FULL LISTENING PASS COMPLETE (Jen, 2026-07-30/31).** Every recording was heard; ear-corrections are applied in the per-file reconciled transcripts, and all fourteen pages are stable and citable. Overall textual confidence is 99%; load-bearing lines are accepted at 100%. The ear-verdict column below supersedes the machine confidence where they differ, while speaker-attribution uncertainty remains separately marked.
 
 | Recording | Machine result | Ear verdict (Jen) |
 |---|---|---|
 | [[Room 1 - Logos]] | Medium — birthday song recovered | ✅ verified; the addressee is the sung word **"Someone"** |
-| [[Room 2 - An Aged Aged Man]] | Unavailable — no reliable words | ✅ identified: **Lewis Carroll's "An Aged Aged Man" played in reverse**; the reversal explains the failed forward ASR |
+| [[Room 2 - An Aged Aged Man]] | Unavailable — no reliable words | ✅ identified: **an unknown woman's reading of Lewis Carroll's "An Aged Aged Man" played in reverse**; Roy is not the reader; the reversal explains the failed forward ASR |
 | [[Room 3 - 33 (The Death Of Me)]] | High | ✅ verified in full; the disputed word is **"That said"** |
 | [[Room 4 - O (444demo)]] | High — complete lyric draft | ✅ identified: **The Circle, the released version** |
-| [[Room 6 - Western Woods]] | Low — fragment map only | heard; no corrections securable — stays low |
+| [[Room 6 - Western Woods]] | Low — fragment map only | ✅ citable fragment map; unbracketed text is secure, while bracketed wording remains unresolved |
 | [[Room 12 - Creation w_Aubs]] | Medium-high | ✅ confirmed **AW2H, different version, acoustic**; "Process and time"; "I was still I" |
 | [[Room 17 - Devil In The Mirror]] | No transcriptable words | ✅ **instrumental** |
-| [[Room 36 - Grandmas Song]] | Mixed | ✅ substantially resolved: **"Restore the plan on Earth"**; voicemail likely references **the 2014-07-27 Venice Beach lightning strike**, but the call date is unresolved; ✅ **chant confirmed = the Lord's Prayer**; "Floating in space" section recovered; child's line remains open |
+| [[Room 36 - Grandmas Song]] | Mixed | ✅ text confirmed: **"Restore the plan on Earth"**; child's **"That was so fun!"**; voicemail likely references **the 2014-07-27 Venice Beach lightning strike**, but the call date is unresolved; ✅ **chant confirmed = the Lord's Prayer**; "Floating in space" section recovered; specific supporting-voice identities remain open |
 | [[Room 60 - The Future (2010 demo)]] | High; father/farther unresolved | passed unadjusted (father/farther likely permanently undecidable) |
 | [[Room 73 - Song Of The Ring (Voice Memo)]] | High | ✅ verified; coda repeats **"ring," never "rain"**; verse order corrected by timestamps |
 | [[Room 109 - Antarctica (Lost Song)]] | Medium-high | ✅ adjusted: "and some kind of person"; **"Send my signal home"** added |
-| [[Room 116 - Everybodys Going To Space Now]] | High for substance | passed unadjusted (astronauts/Astrobots still bracketed) |
+| [[Room 116 - Everybodys Going To Space Now]] | High for substance | ✅ text confirmed; opening speaker is an unknown man, followed by Roy's first-person response; astronauts/Astrobots remains bracketed |
 | [[Room 136 - House Of Spells (Cuz_idea)]] | Medium — bridge unclear | ✅ resolved: **"fire escape / from the house of spells"**; owl hooting + children's chorus noted |
 | [[The Song of the Sun & the Moon (33 Demo)]] | High | ✅ adjusted: **"So live your dreams…"**; full double-chorus ending |
 

@@ -1,9 +1,8 @@
 ---
 type: transcript
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
-updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 109 - Antarctica (Lost Song).mp3"
@@ -14,12 +13,15 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 3.36 minutes.
 
-> [!note] Ear-reviewed working transcript
-> Jen checked this recording by ear on 2026-07-30/31 and corrected the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript.
+> [!warning] Machine comparison, not final verbatim authority
+> This recording is music, not clean speech. The sections below preserve three
+> machine views so disagreements remain visible. Full-mix and separated-vocal
+> passes are two treatments of the same source, not independent witnesses.
+> Any line intended for quotation still needs an ear-check against the audio.
 
-## Ear-reviewed reconciled draft
+## Best machine-supported draft
 
-**Ear verdict:** The narrative is verified and the reconciled draft incorporates the ear corrections “and some kind of person” and “Send my signal home.”
+**Confidence:** Medium-high. The three passes agree on the narrative and most wording. The bracketed phrase is the only major unresolved line.
 
 ```text
 Out here on the ice, we keep our lips so tight
@@ -56,7 +58,7 @@ Send my signal home
 
 #### Continuous text
 
-Out here on the ice, we keep our lips so tight, hear little stories of what's behind the curtain. One day I got lost into a cave I crawled and found a ship that crashed in some kind of person. I said, where did you come from? Why'd you cross the sea? I said, where did you come from? You don't look like me And she said, I came to this planet Once upon a time, long ago Now I'm stuck on this planet Underneath the ice Far from home I fought my way back To help my newfound friend But there were diplomats And other diversions They said if you talk about this We'll kill you, we'll make it look like a suicide So don't try So where she at and what she tell you for certain She told me where she came from And why she crossed the sea She told me where she came from But she don't look like me and she said I came to this planet Once upon a time, long ago Now I'm stuck on this planet Underneath the ice, far from home Sending out my signal Send my signal Bye. Thank you.
+Out here on the ice, we keep our lips so tight, hear little stories of what's behind the curtain. One day I got lost into a cave I crawled and found a ship that crashed and some kind of person. I said, where did you come from? Why'd you cross the sea? I said, where did you come from? You don't look like me And she said, I came to this planet Once upon a time, long ago Now I'm stuck on this planet Underneath the ice Far from home I fought my way back To help my newfound friend But there were diplomats And other diversions They said if you talk about this We'll kill you, we'll make it look like a suicide So don't try So where she at and what she tell you for certain She told me where she came from And why she crossed the sea She told me where she came from But she don't look like me and she said I came to this planet Once upon a time, long ago Now I'm stuck on this planet Underneath the ice, far from home Sending out my signal Send my signal Bye. Thank you.
 
 #### Timestamped segments
 

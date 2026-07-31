@@ -1,11 +1,14 @@
 ---
 type: transcript
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
 updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
+transcript_confidence: "99% overall; 100% on load-bearing lines"
+confidence_scope: "unbracketed text; any remaining uncertainty is explicitly marked"
+citation_basis: "machine-assisted transcription fully reviewed and corrected by Jen by ear"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 3 - 33 (The Death Of Me).mp3"
 source_sha256: "98b8a1e279a7ee53eda530fc3b08149e06be4f034d7e896153ea74cbf49342de"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -14,14 +17,14 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 1.31 minutes.
 
-> [!note] Ear-reviewed working transcript
-> Jen checked this recording by ear on 2026-07-30 and verified the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript.
+> [!note] Ear-reviewed citable transcript
+> Jen checked this recording by ear on 2026-07-30 and verified the reconciled transcript below. It is clean and citable at the confidence stated in the metadata; the raw machine passes and preserved audio remain available for audit.
 
 ## Ear-reviewed reconciled draft
 
 **Ear verdict:** Verified in full. The formerly disputed wording is “That said,” referring to the something that got hold of the speaker.
 
-> ✅ **EAR-VERIFIED IN FULL (Jen, 2026-07-30):** listened to the whole recording; transcript confirmed as written, and the disputed word is **“That said”** — the voice belongs to the *something* that got a hold of him. Quotation gate cleared (cite the Room 3 audio artifact, not this file).
+> ✅ **EAR-VERIFIED IN FULL (Jen, 2026-07-30):** listened to the whole recording; transcript confirmed as written, and the disputed word is **“That said”** — the voice belongs to the *something* that got a hold of him. This transcript and the preserved Room 3 audio are citable.
 
 ```text
 Just turned thirty-three

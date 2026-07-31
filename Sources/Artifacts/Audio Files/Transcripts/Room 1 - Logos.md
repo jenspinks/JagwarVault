@@ -1,11 +1,14 @@
 ---
 type: transcript
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
 updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
+transcript_confidence: "99% overall; 100% on load-bearing lines"
+confidence_scope: "unbracketed text; any remaining uncertainty is explicitly marked"
+citation_basis: "machine-assisted transcription fully reviewed and corrected by Jen by ear"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 1 - Logos.mp3"
 source_sha256: "e6095a5a52826cdda7582f5e01d6f9408d0f0edf1758feed6d0656996dbdbf68"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -14,8 +17,8 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 0.56 minutes.
 
-> [!note] Ear-reviewed working transcript
-> Jen checked this recording by ear on 2026-07-30/31 and corrected the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript.
+> [!note] Ear-reviewed citable transcript
+> Jen checked this recording by ear on 2026-07-30/31 and corrected the reconciled transcript below. It is clean and citable at the confidence stated in the metadata; the raw machine passes and preserved audio remain available for audit.
 
 ## Ear-reviewed reconciled draft
 

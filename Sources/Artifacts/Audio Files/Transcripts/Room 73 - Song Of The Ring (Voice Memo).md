@@ -1,11 +1,14 @@
 ---
 type: transcript
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
 updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
+transcript_confidence: "99% overall; 100% on load-bearing lines"
+confidence_scope: "unbracketed text; any remaining uncertainty is explicitly marked"
+citation_basis: "machine-assisted transcription fully reviewed and corrected by Jen by ear"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 73 - Song Of The Ring (Voice Memo).mp3"
 source_sha256: "b801840a304b78bb838bd7ff7f4febabb01cbc2da6e228eda1fa182a52aaafb5"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -14,8 +17,8 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 2.89 minutes.
 
-> [!note] Ear-reviewed working transcript
-> Jen checked this recording by ear on 2026-07-30 and verified the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript.
+> [!note] Ear-reviewed citable transcript
+> Jen checked this recording by ear on 2026-07-30 and verified the reconciled transcript below. It is clean and citable at the confidence stated in the metadata; the raw machine passes and preserved audio remain available for audit.
 
 ## Ear-reviewed reconciled draft
 
@@ -61,7 +64,7 @@ May we always remember the song of the ring
 
 *(Order correction 2026-07-30: the reconciled draft originally placed the "Many cycles" verse outside the code fence, after the coda. All three passes' timestamps put it second, 00:50–01:14, between the first chorus and the "earth changed" verse; restored to sung order.)*
 
-> ✅ **EAR-VERIFIED (Jen, 2026-07-30):** transcript confirmed with one correction: the coda repeats **"the song of the ring"** — the recording **never says "rain"** (large-v3's "rain" was a model artifact; turbo's "ring" was correct). Quotation gate cleared (cite the Room 73 audio artifact, not this file).
+> ✅ **EAR-VERIFIED (Jen, 2026-07-30):** transcript confirmed with one correction: the coda repeats **"the song of the ring"** — the recording **never says "rain"** (large-v3's "rain" was a model artifact; turbo's "ring" was correct). This transcript and the preserved Room 73 audio are citable.
 
 ### `fullmix_large_v3`
 

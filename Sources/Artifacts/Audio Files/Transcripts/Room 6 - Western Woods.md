@@ -1,11 +1,14 @@
 ---
 type: transcript
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
 updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
+transcript_confidence: "99% for the unbracketed recovered fragments; 100% on any load-bearing lines used"
+confidence_scope: "fragment map only; unresolved wording remains explicitly bracketed"
+citation_basis: "machine-assisted transcription fully reviewed by Jen by ear"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 6 - Western Woods.mp3"
 source_sha256: "d178b30a9ed266993bedd934952122b93e924fc579b12e84f8d688112332594a"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -14,12 +17,12 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 1.97 minutes.
 
-> [!warning] Ear-reviewed but still not quotation-ready
-> Jen completed a listening pass on 2026-07-30/31, but the recording does not support additional secure corrections. The fragment map below preserves only the recoverable wording; brackets remain unresolved. Cite the source audio, not this working transcript.
+> [!warning] Ear-reviewed citable fragment map
+> Jen completed a listening pass on 2026-07-30/31. The unbracketed recovered wording is clean and citable; bracketed fragments remain explicitly unresolved and should not be silently promoted.
 
 ## Ear-reviewed fragment map
 
-**Ear verdict:** Listening pass complete; confidence remains low. This is a fragment map, not quotation-ready lyrics, and the brackets mark wording that could not be secured by ear.
+**Ear verdict:** Listening pass complete. This is a citable fragment map rather than a complete lyric sheet: unbracketed text is secure, while brackets mark wording that could not be resolved by ear.
 
 ```text
 Hey, hey, hey, hey

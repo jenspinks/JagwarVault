@@ -1,11 +1,14 @@
 ---
 type: transcript
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
 updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
+transcript_confidence: "99% overall; 100% on load-bearing lines"
+confidence_scope: "unbracketed text; any remaining uncertainty is explicitly marked"
+citation_basis: "machine-assisted transcription fully reviewed and corrected by Jen by ear"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 60 - The Future (2010 demo).mp3"
 source_sha256: "591ce446b0b30ead9516f0eb0eb7a59c81c191d173434d191dbe9d4b321665f5"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -14,8 +17,8 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 3.34 minutes.
 
-> [!note] Ear-reviewed working transcript
-> Jen checked this recording by ear on 2026-07-30/31 and passed the reconciled draft without adjustment. Raw machine passes remain preserved for audit. Cite the source audio rather than this working transcript; the marked homophone remains unresolved.
+> [!note] Ear-reviewed citable transcript
+> Jen checked this recording by ear on 2026-07-30/31 and confirmed the reconciled transcript. It is clean and citable; the marked homophone remains explicitly unresolved.
 
 ## Ear-reviewed reconciled draft
 

@@ -1,11 +1,15 @@
 ---
 type: transcript
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
 updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
+transcript_confidence: "99% overall; 100% on load-bearing lines"
+confidence_scope: "unbracketed text; any remaining uncertainty is explicitly marked"
+citation_basis: "machine-assisted transcription fully reviewed and corrected by Jen by ear"
+speaker_attribution_status: "partially resolved inline; opening speaker is an unknown man, and Roy's first-person statement is identified"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 116 - Everybodys Going To Space Now.mp3"
 source_sha256: "8b349e88eadf034e6b7330c19f9f4c7eb65172e86d18d8a317bb67a93211027f"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -14,27 +18,27 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 2.70 minutes.
 
-> [!note] Ear-reviewed working transcript
-> Jen checked this recording by ear on 2026-07-30/31 and passed the reconciled substance without adjustment. Raw machine passes remain preserved for audit. Cite the source audio rather than this working transcript; the marked word and conversational filler retain explicit limits.
+> [!note] Ear-reviewed citable transcript
+> Jen checked this recording by ear on 2026-07-30/31 and confirmed the reconciled substance. The transcript is citable; the bracketed word, editorial punctuation, and speaker attribution retain the explicit limits stated below.
 
 ## Ear-reviewed reconciled draft
 
-**Ear verdict:** The substance is confirmed at high confidence. `[Astronauts?]` remains unresolved against the competing “Astrobots” rendering, and paragraphing, punctuation, and some filler words remain editorial.
+**Ear verdict:** The substance is confirmed at high confidence. The opening speaker is an unknown man; Roy's first-person response begins with “It was that exact drive of wanting people to think I was great.” `[Astronauts?]` remains unresolved against the competing “Astrobots” rendering, and paragraphing, punctuation, and some filler words remain editorial.
 
 ```text
-I realized what my drives were, were looking for a way, you know, whether it was career-wise or whatever it was, to be special and unique and all this, and elite. You know, like [astronauts?]—it's like, well, not that many of them. But those were drives I had. At my core I was seeking something like that, maybe unhealthily at times.
+AnonMan: I realized what my drives were, were looking for a way, you know, whether it was career-wise or whatever it was, to be special and unique and all this, and elite. You know, like [astronauts?]—it's like, well, not that many of them. But those were drives I had. At my core I was seeking something like that, maybe unhealthily at times.
 
 I guess it's sort of like fame, in a way, but you've got purpose. You're known for being super talented or skilled or something, which is like a way of thinking you're very virtuous. But I think there's a lot of fallacy in that, a lot of not-truth in that pursuit that I have had since I was a kid.
 
-Dang.
+Roy: Dang. Those drives for, you know, position and getting accolades or trophies or whatever, that kind of stuff—that's definitely why I started making music.
 
-Those drives for, you know, position and getting accolades or trophies or whatever, that kind of stuff—that's definitely why I started making music.
+AnonMan: Yeah?
 
-Yeah?
+Roy: Yeah. It was that exact drive of wanting people to think I was great, or for girls to like me, and people to think I did something extra, extra special. And I feel like that's how I got so lost and didn't ever really make it, because that was the drive.
 
-Yeah. It was that exact drive of wanting people to think I was great, or for girls to like me, and people to think I did something extra, extra special. And I feel like that's how I got so lost and didn't ever really make it, because that was the drive.
+Roy: Not going to space because I wanted to prove that going to space was possible so other people could go to space too—for humanity to believe that we could do something great if we all put our minds together. Music for me now has shifted, and the purpose—why I do it. What drives us. Maybe we don't want to go to space because the reason is different. It's like, just a ride.
 
-Not going to space because I wanted to prove that going to space was possible so other people could go to space too—for humanity to believe that we could do something great if we all put our minds together. Music for me now has shifted, and the purpose—why I do it. What drives us. Maybe we don't want to go to space because the reason is different. It's like, just a ride. Probably get sick.
+AnonMan: Probably get sick.
 ```
 
 The vocal-stem passes hear “astronauts”; both earlier full-mix passes rendered the same word as “Astrobots.” The context favors “astronauts,” but it remains bracketed rather than silently corrected.

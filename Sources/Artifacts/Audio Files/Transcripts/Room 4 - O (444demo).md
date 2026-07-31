@@ -1,11 +1,14 @@
 ---
 type: transcript
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
 updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
+transcript_confidence: "99% overall; 100% on load-bearing lines"
+confidence_scope: "unbracketed text; any remaining uncertainty is explicitly marked"
+citation_basis: "machine-assisted transcription fully reviewed and corrected by Jen by ear"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 4 - O (444demo).mp3"
 source_sha256: "f0727ba67ce1e7bca9b739bf845df328b9e5d12830d6cc63490edc2f5a36ef6f"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -14,8 +17,8 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 3.67 minutes.
 
-> [!note] Ear-reviewed working transcript
-> Jen checked this recording by ear on 2026-07-30/31 and identified it as the released version of “The Circle.” Raw machine passes remain preserved for audit. Cite the source audio or released recording rather than this working transcript.
+> [!note] Ear-reviewed citable transcript
+> Jen checked this recording by ear on 2026-07-30/31 and identified it as the released version of “The Circle.” The transcript is clean and citable; the raw machine passes, room audio, and released recording remain available for comparison.
 
 ## Ear-reviewed reconciled draft
 

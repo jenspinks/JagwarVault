@@ -1,11 +1,15 @@
 ---
 type: transcript
-citable: false
-status: reviewed
+citable: true
+status: stable
 created: "2026-07-30"
 updated: "2026-07-31"
 ear_checked: true
 ear_checked_by: "Jen"
+transcript_confidence: "99% overall; 100% on load-bearing lines"
+confidence_scope: "unbracketed text; any remaining uncertainty is explicitly marked"
+citation_basis: "machine-assisted transcription fully reviewed and corrected by Jen by ear"
+speaker_attribution_status: "mixed voices identified inline where secure; attribution uncertainty is separate from textual confidence"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 36 - Grandmas Song.mp3"
 source_sha256: "9e5b18aeb9dda6d5aaab1c19a9026321001a7fceff6eb18fbba43d59de93dfb9"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -14,19 +18,19 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 1.93 minutes.
 
-> [!note] Ear-reviewed working transcript
-> Jen checked this recording by ear on 2026-07-30/31 and corrected the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript; the child's line and normalized prayer transliteration retain explicit limits.
+> [!note] Ear-reviewed citable transcript
+> Jen checked this recording by ear on 2026-07-30/31 and corrected the reconciled transcript below. It is clean and citable; the normalized prayer transliteration and any speaker-attribution uncertainty retain their explicit limits.
 
 ## Ear-reviewed reconciled draft
 
-**Ear verdict:** Substantially resolved. The Bailey line, Venice/map/upgraded voicemail, Lord's Prayer identification, and “Floating in space” section were recovered by ear. The child's line at approximately 00:03 remains open, and the Aramaic text below is a normalized transliteration rather than a syllable-perfect transcription.
+**Ear verdict:** The Bailey line, the child's “That was so fun!”, the Venice/map/upgraded voicemail, the Lord's Prayer identification, and the “Floating in space” section are confirmed. The specific identities of every child or supporting voice remain open, and the Aramaic text below is a normalized transliteration rather than a syllable-perfect transcription.
 
 > ✅ **EAR-REVIEWED (Jen, 2026-07-30/31, from the isolated-vocal package):**
 > 1. The opening sung line is **"for sure 'Restore the plan on Earth'"** — the exact final clause of Alice Bailey's Great Invocation ("…Let Light and Love and Power restore the Plan on Earth"). Enters the vault as a **primary-voice Bailey-engagement anchor only**; Lucis↔Lucius stays `[?]`.
 > 2. The voicemail middle resolves as: **"Lightning hit Venice. / Venice looks good on the map. / Got upgraded."** (the machines' "is venom / on the mask / got operated" were mishearings). **Context (Jen's identification, `[P]`, historically checkable):** the first line likely references the **July 27, 2014 Venice Beach lightning strike** — a rare summer storm in which lightning struck Venice Beach several times and killed a person. The recording does **not** date the call, however; Grandma may have called that day or during later regional weather and flooding while referring back to the deadly event. “Got upgraded” may describe a later forecast, watch, or warning. Do not date the voicemail to 2014-07-27/28 solely from these lines.
 > 3. ✅ **The chant is CONFIRMED as the Lord's Prayer** (Jen, 2026-07-31, by ear) — the Aramaic opening as transliterated below.
 > 4. The middle sung section expands on the ear: **"Floating in space / Out there, if you're out there / ... Just send me a message / Just one little sign / ... Did you see the light? / Are you out there?"**
-> **Still open:** the child's-voice line at ~0:03.
+> **Still open:** the specific identity of the child/supporting voice at ~0:03, not the words spoken.
 
 ```text
 [Sung:] Restore the plan on Earth
@@ -79,7 +83,7 @@ Venice looks good on the map.
 Got upgraded.
 ```
 
-The machine evidence alone left the first two clauses below quote-level certainty. Parakeet's left-channel output blurred the first clause and sometimes rendered the second as *"Then it looks good on the map,"* while Whisper variously produced *"Lightning has vanished," "Lightning is finished,"* and *"Dennis looks good on the map."* Jen's ear review resolves the working transcript as *"Lightning hit Venice / Venice looks good on the map / Got upgraded."* The recording remains an unpublished artifact rather than an artist-supplied transcript, and the call's date and exact weather context remain interpretive.
+The machine evidence alone left the first two clauses below quote-level certainty. Parakeet's left-channel output blurred the first clause and sometimes rendered the second as *"Then it looks good on the map,"* while Whisper variously produced *"Lightning has vanished," "Lightning is finished,"* and *"Dennis looks good on the map."* Jen's ear review resolves the citable transcript as *"Lightning hit Venice / Venice looks good on the map / Got upgraded."* The call's date, exact weather context, and some speaker attributions remain interpretive rather than transcription uncertainties.
 
 ### `fullmix_large_v3`
 
