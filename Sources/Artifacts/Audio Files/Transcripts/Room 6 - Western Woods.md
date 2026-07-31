@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 6 - Western Woods.mp3"
 source_sha256: "d178b30a9ed266993bedd934952122b93e924fc579b12e84f8d688112332594a"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,15 +14,12 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 1.97 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!warning] Ear-reviewed but still not quotation-ready
+> Jen completed a listening pass on 2026-07-30/31, but the recording does not support additional secure corrections. The fragment map below preserves only the recoverable wording; brackets remain unresolved. Cite the source audio, not this working transcript.
 
-## Best machine-supported draft
+## Ear-reviewed fragment map
 
-**Confidence:** Low. This is a fragment map, not quotation-ready lyrics. Brackets replace lines on which the models did not converge.
+**Ear verdict:** Listening pass complete; confidence remains low. This is a fragment map, not quotation-ready lyrics, and the brackets mark wording that could not be secured by ear.
 
 ```text
 Hey, hey, hey, hey

@@ -1,8 +1,12 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
+playback_orientation: reversed
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 2 - An Aged Aged Man.mp3"
 source_sha256: "d8567f016501889c7513e96a008e6c6eeecf9cb4c9f35d0d047648e2533ed194"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,21 +15,19 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 3.56 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed identification with machine audit trail
+> Jen checked this recording by ear on 2026-07-30/31 and identified it as a reversed performance. No forward-playback line-by-line transcript is supplied. The raw machine passes remain preserved only to document why ASR failed on the reversed source.
 
-## Best machine-supported draft
+## Ear-reviewed reconciled identification
 
-**Confidence:** Unavailable. No reliable verbal transcript could be recovered. The full mix produced no stable speech, and the separated-vocal passes produced mutually incompatible repetition and low-probability pseudo-sentences.
+**Ear verdict:** Identified as Lewis Carroll's “An Aged Aged Man” played in reverse. The reversed orientation—not an absence of words—explains the incoherent forward ASR. Use the public-domain poem and a reversed-playback working derivative for any exact comparison.
 
 ```text
-[No reliably intelligible words recovered.]
+[This is Lewis Carol's an Aged Aged Man
+https://allpoetry.com/The-Aged-Aged-Man in reverse]
 ```
 
-The title is a known Lewis Carroll phrase, but the poem was not inserted into the transcript: the recording itself did not provide enough evidence that it is singing or reciting that text.
+Jen's listening identifies both the performed source and the reversal. The poem is not reproduced here because the purpose of this page is to preserve the artifact's transcription record. The raw ASR below was run against the source in its reversed presentation and is therefore not evidence of the forward text.
 
 ### `fullmix_large_v3`
 

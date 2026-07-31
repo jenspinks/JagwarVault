@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 12 - Creation w_Aubs.mp3"
 source_sha256: "68bd8dcdf2410d2bcd089689895cc661c30454435785399f5eba57d792735aa4"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,17 +14,15 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 4.76 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed working transcript
+> Jen checked this recording by ear on 2026-07-30/31 and corrected the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript; brackets retain genuine acoustic ambiguities.
 
-## Best machine-supported draft
+## Ear-reviewed reconciled draft
 
-**Confidence:** Medium-high. Most lines converge across three passes. Alternatives are retained where the sound permits two materially different readings.
+**Ear verdict:** Verified as an acoustic alternate version of “Another Way II Heaven.” “Process and time” and “I was still I” are resolved; `[in reverse / universe]` and `[sun/son]` remain acoustically open as marked.
 
 ```text
+[This is just Another way II Heaven, different version, acoustic]]
 Every, every time
 Every, every time
 Every time
@@ -50,12 +51,12 @@ From one through eleven
 Another way to heaven
 
 Next there was four
-[Processing time]
+[Process and time]
 I opened up a door
 And I just released myself to cover the sky
 Split into five, six, seven, eight
 But when it came to nine
-I had to remind myself that I was still alive
+I had to remind myself that I was still I
 
 Well, all of us could dance forever
 In every space and time
@@ -68,7 +69,7 @@ I see it different every time
 I see it different every time
 ```
 
-“Processing time” is the weakest phrase in the second verse. The three models hear a similar sound, but it is not secure enough to quote without listening.
+The earlier machine reading “processing time” is superseded by Jen's ear correction, “Process and time.”
 
 ### `fullmix_large_v3`
 

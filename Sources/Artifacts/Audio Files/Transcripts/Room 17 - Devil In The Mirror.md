@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 17 - Devil In The Mirror.mp3"
 source_sha256: "7092173d3ba391c998d1fd7c040efa85d700f18f62630e8692372b80f19c7ec1"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,18 +14,15 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 0.74 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed identification with machine audit trail
+> Jen checked this recording by ear on 2026-07-30/31 and confirmed that it is instrumental. The raw machine sections remain only to document the rejected Whisper hallucinations.
 
-## Best machine-supported draft
+## Ear-reviewed identification
 
-**Confidence:** High that no transcriptable words were recovered. Every returned phrase was a known Whisper-on-music hallucination, and no phrase survived comparison across the full mix and isolated vocal stem.
+**Ear verdict:** Verified instrumental. There are no lyrics to transcribe; every phrase returned by the models is rejected.
 
 ```text
-[Instrumental or too processed to transcribe; no reliably intelligible speech detected.]
+[Instrumental]
 ```
 
 “© transcript Emily Beynon” and “Thank you” were rejected as fabricated boilerplate.

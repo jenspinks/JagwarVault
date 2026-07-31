@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 1 - Logos.mp3"
 source_sha256: "e6095a5a52826cdda7582f5e01d6f9408d0f0edf1758feed6d0656996dbdbf68"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,20 +14,17 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 0.56 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed working transcript
+> Jen checked this recording by ear on 2026-07-30/31 and corrected the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript.
 
-## Best machine-supported draft
+## Ear-reviewed reconciled draft
 
-**Confidence:** Medium-high. Two isolated-vocal passes and the earlier full-mix turbo run agree on the birthday song, but the name after “dear” is not intelligible enough to supply.
+**Ear verdict:** Verified. The sung addressee is the literal word “Someone,” not an unresolved personal name.
 
 ```text
 Happy birthday to you
 Happy birthday to you
-Happy birthday, dear [name unclear]
+Happy birthday, dear Someone
 Happy birthday to you
 ```
 
@@ -38,7 +38,6 @@ The full-mix model's “Thanks for watching” and the separated-vocal model's f
 
 #### Continuous text
 
-Happy Birthday to You Thanks for watching!
 
 #### Timestamped segments
 

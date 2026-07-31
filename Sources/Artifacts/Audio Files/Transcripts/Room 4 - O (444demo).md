@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 4 - O (444demo).mp3"
 source_sha256: "f0727ba67ce1e7bca9b739bf845df328b9e5d12830d6cc63490edc2f5a36ef6f"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,17 +14,15 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 3.67 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed working transcript
+> Jen checked this recording by ear on 2026-07-30/31 and identified it as the released version of “The Circle.” Raw machine passes remain preserved for audit. Cite the source audio or released recording rather than this working transcript.
 
-## Best machine-supported draft
+## Ear-reviewed reconciled draft
 
-**Confidence:** High. The three passes agree throughout.
+**Ear verdict:** Verified as the released version of “The Circle”; the reconciled lyrics are confirmed.
 
 ```text
+[This is The Circle, the released version]
 Long ago there was a jaguar with the world tied on a string
 And she made other jaguars, then taught them to sing
 She would come down to the empires of the earth, wind and the sea

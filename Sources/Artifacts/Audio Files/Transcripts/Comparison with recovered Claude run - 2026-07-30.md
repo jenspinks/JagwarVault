@@ -1,11 +1,15 @@
 ---
 type: transcription-comparison
 citable: false
-status: draft
+status: superseded
 created: "2026-07-30"
+updated: "2026-07-31"
 comparison_source: "/Users/jenniferspinks/Claude/Code/JagWeb/recovered/hom-audio-transcription"
 ---
 # Comparison with the recovered Claude transcription run
+
+> [!warning] Superseded machine-only assessment
+> This comparison predates Jen's complete listening pass of 2026-07-30/31. It remains as an audit of the two machine workflows, but its file-level verdicts are superseded by [[README]] and the ear-reviewed reconciled drafts.
 
 The recovered run used the same fourteen source files and decoded each original full mix with MLX Whisper large-v3 and large-v3-turbo. The newer run adds Demucs `htdemucs_ft` vocal isolation, repeats large-v3 and turbo on that vocal stem, and uses targeted filtering on the most difficult recordings. The recovered work is therefore useful as a fourth acoustic treatment, but it is not an independent human witness: all passes belong to the Whisper model family and share many of the same priors and hallucinations.
 

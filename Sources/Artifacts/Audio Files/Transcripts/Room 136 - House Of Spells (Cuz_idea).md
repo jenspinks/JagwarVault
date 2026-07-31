@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 136 - House Of Spells (Cuz_idea).mp3"
 source_sha256: "b69052fd1eb830d4641a0381c22a0b8189083fa0d0fecef129b0db8dd4c61b26"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,39 +14,43 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 2.97 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed working transcript
+> Jen checked this recording by ear on 2026-07-30/31 and corrected the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript.
 
-## Best machine-supported draft
+## Ear-reviewed reconciled draft
 
-**Confidence:** Medium through the first verse and refrain; low for the short line before “from the house of spells.”
+**Ear verdict:** The formerly unclear bridge resolves as “fire escape / from the house of spells.” The owl calls, children's chorus, and closing vocalizations are also identified in the reconciled draft.
 
 ```text
 If my words cast a spell
 And every thought comes true
 Who am I?
 Who are you?
-
+[owl hooting]
 If the sky rains down
 And whispers to the moon
 Who am I?
 Who are you?
+[owl hooting]
+[Kids la la la lalalala La la la lalalalala]
 
 My head is an elevator
+
 Eight floors down the elevator
+[Kids la la la lalalala La la la lalalalala]
 [repeated]
 Who are you?
 Who are you?
 
-[Two unclear lines; possibly “fire escape / from the house of spells”]
+fire escape
+
+from the house of spells
 
 You're all I need
 You're all I need
+[Kids la la la]
 You're all I need
-[final line unclear]
+[Kid La la la lalalalala]
 
 [Vocalizing]
 ```

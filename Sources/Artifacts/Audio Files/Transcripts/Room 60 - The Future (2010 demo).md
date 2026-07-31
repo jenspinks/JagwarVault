@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 60 - The Future (2010 demo).mp3"
 source_sha256: "591ce446b0b30ead9516f0eb0eb7a59c81c191d173434d191dbe9d4b321665f5"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,15 +14,12 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 3.34 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed working transcript
+> Jen checked this recording by ear on 2026-07-30/31 and passed the reconciled draft without adjustment. Raw machine passes remain preserved for audit. Cite the source audio rather than this working transcript; the marked homophone remains unresolved.
 
-## Best machine-supported draft
+## Ear-reviewed reconciled draft
 
-**Confidence:** High. The three passes agree closely. The homophone “father/farther” is left unresolved.
+**Ear verdict:** The listening pass confirms the draft at high confidence. The acoustic homophone `[father/farther]` remains unresolved as marked.
 
 ```text
 I'd like to thank my mom and my pops for the right road

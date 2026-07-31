@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 116 - Everybodys Going To Space Now.mp3"
 source_sha256: "8b349e88eadf034e6b7330c19f9f4c7eb65172e86d18d8a317bb67a93211027f"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,15 +14,12 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 2.70 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed working transcript
+> Jen checked this recording by ear on 2026-07-30/31 and passed the reconciled substance without adjustment. Raw machine passes remain preserved for audit. Cite the source audio rather than this working transcript; the marked word and conversational filler retain explicit limits.
 
-## Best machine-supported draft
+## Ear-reviewed reconciled draft
 
-**Confidence:** High for the substance and medium for exact filler words. This is conversational speech; paragraphing and punctuation are editorial.
+**Ear verdict:** The substance is confirmed at high confidence. `[Astronauts?]` remains unresolved against the competing “Astrobots” rendering, and paragraphing, punctuation, and some filler words remain editorial.
 
 ```text
 I realized what my drives were, were looking for a way, you know, whether it was career-wise or whatever it was, to be special and unique and all this, and elite. You know, like [astronauts?]—it's like, well, not that many of them. But those were drives I had. At my core I was seeking something like that, maybe unhealthily at times.

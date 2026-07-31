@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/Room 73 - Song Of The Ring (Voice Memo).mp3"
 source_sha256: "b801840a304b78bb838bd7ff7f4febabb01cbc2da6e228eda1fa182a52aaafb5"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,15 +14,12 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 2.89 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed working transcript
+> Jen checked this recording by ear on 2026-07-30 and verified the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript.
 
-## Best machine-supported draft
+## Ear-reviewed reconciled draft
 
-**Confidence:** High. All three passes agree closely.
+**Ear verdict:** Verified in full. The coda says “ring” throughout, never “rain,” and the verse order is restored from the recording's timestamps.
 
 ```text
 Long ago there was a jaguar with the world tied on a string

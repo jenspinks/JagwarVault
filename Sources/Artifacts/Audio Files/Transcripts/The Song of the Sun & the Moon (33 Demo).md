@@ -1,8 +1,11 @@
 ---
 type: transcript
 citable: false
-status: draft
+status: reviewed
 created: "2026-07-30"
+updated: "2026-07-31"
+ear_checked: true
+ear_checked_by: "Jen"
 source_audio: "/Users/jenniferspinks/Vaults/JagwarTwin/Sources/Artifacts/Audio Files/The Song of the Sun & the Moon (33 Demo).m4a"
 source_sha256: "5167e12435ed8b3de7c6e568cbde219c7633a30c462ae58ffc6ac032f8dfc0f2"
 transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v3 and large-v3-turbo comparison"
@@ -11,20 +14,18 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Duration:** 4.03 minutes.
 
-> [!warning] Machine comparison, not final verbatim authority
-> This recording is music, not clean speech. The sections below preserve three
-> machine views so disagreements remain visible. Full-mix and separated-vocal
-> passes are two treatments of the same source, not independent witnesses.
-> Any line intended for quotation still needs an ear-check against the audio.
+> [!note] Ear-reviewed working transcript
+> Jen checked this recording by ear on 2026-07-30/31 and corrected the reconciled draft below. Raw machine passes remain preserved for audit and are not independent witnesses. Cite the source audio rather than this working transcript.
 
-## Best machine-supported draft
+## Ear-reviewed reconciled draft
 
-**Confidence:** High. The large-v3 full-mix and isolated-vocal passes agree closely.
+**Ear verdict:** Verified at high confidence with the corrected “So live your dreams…” line and the complete repeated ending preserved below.
 
 ```text
 It took you so long just to get here
 And how I've seen you grow
 In ways you still don't know
+Ohhhh
 I'll always be with you, so don't fear
 Your heart can be a home
 In ways you still don't know
@@ -39,16 +40,25 @@ They always sing their song for you
 
 With every new day, there's a story
 In every setting sun, a new life is begun
-So let your dreams go out exploring
+Ohhhh
+So live your dreams go out exploring
 I'll be here when you're done
 You've only just begun
 
 Oh, rock-a-bye, baby
 Rock-a-bye
 
-[Chorus repeats]
-For you, for you, for you
-[Chorus repeats]
+Listen to the song of the sun and the moon
+They always sing their song for you
+Even when the stars in the sky are out of view
+They always sing their song for you
+
+For you, for you, for you, for you [Repeats]
+
+Listen to the song of the sun and the moon
+They always sing their song for you
+Even when the stars in the sky are out of view
+They always sing their song for you
 They always sing their song for you
 ```
 
