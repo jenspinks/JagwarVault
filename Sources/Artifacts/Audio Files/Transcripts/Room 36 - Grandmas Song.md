@@ -21,13 +21,19 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 **Confidence:** Mixed. The voicemail's closing is clear, its middle is not; the later chant is identifiable but its exact phonetic spelling remains uncertain.
 
+> ✅ **EAR-VERIFIED IN PART (Jen, 2026-07-30, from the isolated-vocal package):**
+> 1. The opening sung line is **"for sure 'Restore the plan on Earth'"** — the exact final clause of Alice Bailey's Great Invocation ("…Let Light and Love and Power restore the Plan on Earth"). Enters the vault as a **primary-voice Bailey-engagement anchor only**; Lucis↔Lucius stays `[?]`.
+> 2. The voicemail middle resolves as: **"Lightning hit Venice. / Venice looks good on the map. / Got upgraded."** (the machines' "is venom / on the mask / got operated" were mishearings). **Context (Jen's identification, `[P]`, historically checkable):** the **July 27, 2014 Venice Beach lightning strike** — a rare summer storm; lightning struck Venice Beach several times and killed a person; the middle lines read as Grandma relaying the news and the forecast map ("got upgraded"). A grandmother's are-you-okay call after real lightning, kept in the room whose code is **`THE LIGHTNING FLASH`** — the Kabbalistic descent-name over literal lightning. Dates the voicemail to ~2014-07-27/28, one of the few datable audio artifacts (≈9.5 months before the Grandma VI hospital photo, iPhone 2015-05-09).
+> **Still open:** the chant (is it the Aramaic Lord's Prayer to the ear?) and the child's-voice line at ~0:03.
+
 ```text
 [Sung:] Restore the plan on Earth
 That was so fun! [child's voice]
 
 [Voicemail:] This is Grandma. Are you okay?
-Lightening hit t
-Got upgraded
+[Likely:] Lightning hit Venice.
+Venice looks good on the map.
+Got upgraded.
 Give me a call.
 Love you, sweetie.
 Hope everything's going good.
@@ -49,6 +55,20 @@ Hawv lan lakhma...
 Amen
 Amen
 ```
+
+## Targeted voicemail ear-check — 2026-07-30
+
+The original-speed voicemail excerpt and a slowed/EQ extraction of its middle were checked with the full Whisper large-v3 model, smaller Whisper models, separate left/right channels, and NVIDIA Parakeet TDT 0.6B v3. Parakeet is a different ASR architecture from Whisper, so its agreement is more useful here than agreement between Whisper variants.
+
+On the cleaner right channel, both Parakeet greedy and beam decoding returned:
+
+```text
+Lightning hit Venice.
+Venice looks good on the map.
+Got upgraded.
+```
+
+The first two clauses remain below quote-level certainty. Parakeet's left-channel output blurred the first clause and sometimes rendered the second as *"Then it looks good on the map,"* while Whisper variously produced *"Lightning has vanished," "Lightning is finished,"* and *"Dennis looks good on the map."* Those errors are phonetically compatible with a degraded *"hit Venice / Venice"* sequence, but they prevent promotion to clean verbatim. The final phrase is more likely *"Got upgraded"* than Whisper's *"Got operated"*: Parakeet recovered *upgraded* from both channels and Whisper large-v3-turbo independently preferred the same word.
 
 ### `fullmix_large_v3`
 
