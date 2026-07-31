@@ -62,7 +62,7 @@ Set that beside §1 and the two halves close on each other. The ARG **says** it 
 
 Two consequences worth holding:
 - **The missing 1/64 is touch**, and a corpus of photographs, scans and audio files is precisely a self with everything *but* touch. The upload recipe names its own deficiency, and the archive embodies it. `[~]` — elegant, and therefore to be watched (see [[Brain/Concepts/The Pattern]] on clean fits).
-- The gating is thematically consistent rather than incidental: retrieval requires an inward search, which is the same instruction as **VITRIOL** (*"visit the interior of the earth… you will find the hidden stone"*, [[Brain/Concepts/The Rose Cross]] §VITRIOL). `[~]`
+	- The gating is thematically consistent rather than incidental: retrieval requires an inward search, which is the same instruction as **VITRIOL** (*"visit the interior of the earth… you will find the hidden stone"*, [[Brain/Concepts/The Rose Cross]] §VITRIOL). `[~]`
 
 ## 3. ★ Operational finding: the code-first triage buried analysis the vault already had
 

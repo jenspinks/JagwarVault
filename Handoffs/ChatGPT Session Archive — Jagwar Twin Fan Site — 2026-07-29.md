@@ -6,7 +6,12 @@ created: 2026-07-29
 source_conversation: "Jagwar Twin Fan Site — 6a46e3f2-1250-83ea-92cb-9424be75a1f0"
 scope: working-archive
 publish: false
+citable: false
 ---
+
+> **📍 Filing note (2026-07-29).** Filed to the SOURCE vault per this archive's own Next Action #1 and its own standing decision that *"the Field Guide is a front door; this vault can preserve research, handoffs, drafts."* **Boundaries-clean:** it references the existence of Roy's direct private feedback but never quotes, describes, or sources from it, and it carries its own guards (*do not cite private DMs · do not expose private feedback as source material · avoid publicizing private feedback as Roy's own keys*). Those guards match [[Boundaries]] and the standing public rule that the symbol map is never called "Roy's keys."
+>
+> **Most of this is restatement** of decisions already in canon (site simplification, the Deep End, Trails, the one-colour menu, the character template). **Candidate deltas worth checking before folding:** the Dove/Cygnus split (*"Dove is the heart descending. Cygnus is the song becoming a map"*), the ***Soul* not *Sun*** board-phrase correction, the *"He has the prop weapon. She has the letters"* contrast for #1 Champion, the Twin-vs-Clone tiering ladder, and §"Image-decode handoff evaluation" (its ten highest-value findings + three-level tiering + eight rules). `citable: false` — cite the underlying public sources, never this archive.
 
 # ChatGPT Session Archive — Jagwar Twin Fan Site
 

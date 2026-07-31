@@ -165,6 +165,8 @@ Ordered by how much interpretation hangs on each. Timestamps are in the transcri
 
 ## 5. FOLD PLAN (per-bullet approval units; nothing folded)
 
+> ⚠ **SUPERSEDED AS THE APPROVAL SURFACE (2026-07-31).** The canonical, post-ear-check, post-correction fold plan is **[[Essays/_drafts/fold-inbox/2026-07-31 Audio stratum fold plan (session 8d6343d3)]]**, with inbox rows `20260731-8d63-1 … -9` in [[Session Fold Inbox]]. Approve THERE. The tranches below are the working history that plan consolidates; where wording differs, the fold-plan file wins.
+
 **Tranche AU-A — Sources capture (post ear-check where marked):**
 - **AU-A1.** New source page `Sources/Artifacts/HoM Audio - The Circle demo lineage (Rooms 4 + 73) 2026-07-30.md`: the three-state genealogy, the variant verse + coda verbatim (after queue item 2), diffed against [[Sources/Lyrics/The Circle]]. `[G]` texts / `[W]` genealogy.
 - **AU-A2.** New source page for Room 3 (the unreleased title-song): verbatim after queue item 1, with the register guard. `[G]`/`[W]`.
