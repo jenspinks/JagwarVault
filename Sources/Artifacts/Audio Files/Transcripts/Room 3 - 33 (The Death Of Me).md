@@ -19,7 +19,9 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 ## Best machine-supported draft
 
-**Confidence:** High. All three passes agree closely. The only material uncertainty is whether the voice that takes hold is introduced as “that said,” “it said,” or “they said”; the separated-vocal large-v3 rendering, “that said,” is used below.
+**Confidence:** High. All three passes agree closely. The only material uncertainty was whether the voice that takes hold is introduced as “that said,” “it said,” or “they said”; the separated-vocal large-v3 rendering, “that said,” is used below.
+
+> ✅ **EAR-VERIFIED IN FULL (Jen, 2026-07-30):** listened to the whole recording; transcript confirmed as written, and the disputed word is **“That said”** — the voice belongs to the *something* that got a hold of him. Quotation gate cleared (cite the Room 3 audio artifact, not this file).
 
 ```text
 Just turned thirty-three

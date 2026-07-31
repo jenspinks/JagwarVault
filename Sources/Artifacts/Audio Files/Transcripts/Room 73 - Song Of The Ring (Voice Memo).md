@@ -55,11 +55,13 @@ But the inside of the inside must be where you go
 Oh, the circle will grow
 May we always remember the song that we sing
 Oh, the circle will grow
-May we always remember the song of the [rain / ring — ear-check]
+May we always remember the song of the ring
 May we always remember the song of the ring
 ```
 
-*(Order correction 2026-07-30: the reconciled draft originally placed the "Many cycles" verse outside the code fence, after the coda. All three passes' timestamps put it second, 00:50–01:14, between the first chorus and the "earth changed" verse; restored to sung order. "song of the rain" is a large-v3-family reading only; turbo hears "ring" twice — bracketed pending ear-check.)*
+*(Order correction 2026-07-30: the reconciled draft originally placed the "Many cycles" verse outside the code fence, after the coda. All three passes' timestamps put it second, 00:50–01:14, between the first chorus and the "earth changed" verse; restored to sung order.)*
+
+> ✅ **EAR-VERIFIED (Jen, 2026-07-30):** transcript confirmed with one correction: the coda repeats **"the song of the ring"** — the recording **never says "rain"** (large-v3's "rain" was a model artifact; turbo's "ring" was correct). Quotation gate cleared (cite the Room 73 audio artifact, not this file).
 
 ### `fullmix_large_v3`
 

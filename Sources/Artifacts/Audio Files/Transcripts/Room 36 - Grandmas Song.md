@@ -23,10 +23,11 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 
 ```text
 [Sung:] Restore the plan on Earth
-[unclear sung line]
+That was so fun! [child's voice]
 
 [Voicemail:] This is Grandma. Are you okay?
-[two unclear sentences]
+Lightening hit t
+Got upgraded
 Give me a call.
 Love you, sweetie.
 Hope everything's going good.
