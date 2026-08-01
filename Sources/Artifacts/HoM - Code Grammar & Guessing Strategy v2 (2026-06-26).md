@@ -25,7 +25,7 @@ The failed Tier-1 guesses (`MAN DEVOURS GOD GOD DEVOURS MAN`, `IMAGES FORMED IN 
 | **Short phrase (2–4 w)** | ~40 | `INSIDE OF THE INSIDE`, `THE PATTERN`, `JOSHUA TREE`, `BUILD A BRIDGE`, `HIGHER RESOLVE`, `LET GO` | Roy's vocabulary, subject-tied |
 | **Full sentence / aphorism** | ~20 | `WE ANTHROPOMORPHIZE EVERYTHING`, `EVERY HUMAN BEING IS A STAR`, `THE GAME IS TO REVEAL THE GAME` | **Harvest verbatim** from tweets/lyrics — don't invent |
 | **Cell-code** `{Letter}{Number}` | ~25 | `J403`, `B1035`, `X672`, `Q763`, `G228`, `D637` | **from the separate "Spreadsheet Map" ARG drop (NOT this board, NOT coordinates) — see §A** |
-| **Body-part coordinate** | ~6 | `LEFT HIP OF A DOVE`, `TEETH OF A WHALE`, `CRANIUM OF A SWAN` | **= the board's somatic map × animal — derive, see §B** |
+| **Animal/body mirror-coordinate** | 6 catalog + 1 later find | `LEFT HIP OF A DOVE`, `TEETH OF A WHALE`, `CRANIUM OF A SWAN`, `Stomach of a cat + 9 lives` | **= fixed complementary addresses, not a free cross-product — see §B** |
 | **Glyph-cipher** | ~12 | the Flood glyphs, `ÇÅ¨†ˆØ˜®Ø¥`=CAUTIONROY | macOS Option-key cipher — decode/encode |
 | **Number** | ~8 | `26`, `51.843`, `167`, `0`, `1941` | gematria / board-numbers (`26`=יהוה) |
 | **Chain-link** (= a neighbor artifact's name) | ~15 | the SARAVI / Ros-Tau / Gate loops | Try adjacent artifacts' names |
@@ -39,17 +39,19 @@ The failed Tier-1 guesses (`MAN DEVOURS GOD GOD DEVOURS MAN`, `IMAGES FORMED IN 
 ## §A-bis. The "I'm 33" board IS a validated PHRASE-code source ✅
 Scanning the same gviz pull, the board contains these **known codes verbatim** — proof it's a real source: `We Fall Down As Seeds On The Ground`, `Logos`, `East Is Everywhere`, `Marduk`, `The Lightning Flash`, `True Voice`, `Roy's Tomb`, `Rorrim Ehtni Lived`, `Everybody's Going To Space Now`, `Let Them Eat Cake`→CAKE, `Joshua`→Joshua Tree, and *"the inside of the inside"*. So its short label-cells are real candidates (→ §Board-label candidates).
 
-## §B. Body-part codes = the board's 10-stage somatic map × an animal `[derived]`
-The "I'm 33" board (§12 "Body Part Stages") lists a 10-stage somatic ladder: **1** feet/base-of-spine · **2** lungs/stomach/sexual organs · **3** right arm, right hip · **4** left arm, left hip · **5** heart · **6** right shoulder, throat · **7** left shoulder, throat · **8** right side of head, forehead · **9** left side of head, forehead · **10** crown. The body-part codes are **`{a stage's body part} OF A {animal}`**:
-- `LEFT HIP OF A DOVE` = stage 4 · `RIGHT SHOULDER OF A HORSE` = stage 6 · `CRANIUM OF A SWAN` ≈ stage 10 (crown) · `TEETH OF A WHALE` / `PITUITARY GLAND OF AN OWL` = head-region (8–10).
-- **Action — generate candidates:** combine a stage's body-part with an animal in Roy's bestiary (dove, horse, dolphin, swan, owl, whale, jaguar, rabbit, fox, elephant…), e.g. `HEART OF A [animal]` (stage 5), `CROWN OF A [animal]` (stage 10), `LEFT SHOULDER OF A [animal]` (7). Match the animal to the artifact's imagery.
+## §B. Body-part codes = fixed inverse addresses across one ten-station map `[G]` inputs / `[W]` rule
+**Correction, 2026-07-31.** The direct board crops `4d378034` and `14a59d49` supply the missing animal index: **Swan 1 · Owl 2 · Whale 3 · Dolphin 4 · Horse 5 · Spider 6 · Dove 7 · Fox 8 · Cat 9 · Rabbit 10**. The separate "Body Part Stages" count runs from the other end: **1** feet/base-of-spine · **2** lungs/stomach/sexual organs · **3** right arm/right hip · **4** left arm/left hip · **5** heart · **6** right shoulder/throat · **7** left shoulder/throat · **8** right side of head/forehead · **9** left side of head/forehead · **10** crown.
+
+Seven extant phrases consistently pair complementary addresses: `CRANIUM OF A SWAN` (animal 1 + body 10) · `PITUITARY GLAND OF AN OWL` (2+9) · `TEETH OF A WHALE` (3+8) · `LEFT SHOULDER OF A DOLPHIN` (4+7) · `RIGHT SHOULDER OF A HORSE` (5+6) · `LEFT HIP OF A DOVE` (7+4) · `Stomach of a cat + 9 lives` (9+2). The animal numbers, body-stage labels, and literal phrases are `[G]` separately; the exact organ-to-stage assignments and conclusion that each phrase names **one station from opposite ends, summing to 11**, are a high-confidence `[W]` reconstruction.
+
+**Operational correction:** do **not** generate an arbitrary body-part × animal cross-product. The full 5,527-candidate matrix was later run against the open leaves and produced zero new hits. The map predicts the uninstantiated complements **Spider 6↔Heart 5 · Fox 8↔Right hip 3 · Rabbit 10↔Feet 1**, but those are structural predictions, **not known codes**. Rabbit 10 is the animal/Tree address of the World/Malkuth threshold; Feet 1 is its body/return address. The two numbers are complementary, not contradictory.
 
 ## The guess playbook (ranked, for any field you face)
 1. **The artifact's own name**, uppercased (self-referential — the single best trick).
 2. **A short thematic word** for its subject, from Roy's vocabulary (`REBIRTH`-type).
 3. **Neighbor artifacts' names** (chain-link logic).
 4. **Cell coordinate** if it's a code-type artifact (read the Sheet — §A).
-5. **Somatic-map × animal** if it's a creature drawing (§B).
+5. **Recognize a fixed animal/body concordance** if the artifact supplies one of the mapped creatures (§B); do not cross-product parts and animals.
 6. **Option-key decode/encode** if it's a Flood/glyph artifact.
 7. **Harvested tweet/lyric lines** — short, verbatim (the tweet-mining list, pending → will append here).
 
@@ -93,7 +95,7 @@ The ARG hides content in **wallet-gated tabs of Google Sheets.** Discovered via 
 ## Pending inputs (folding in as they land)
 - ✅ **Tweet corpus mine — DONE** (2026-06-26): the ~982 tweets scored by code-likeness → see §Harvested tweet candidates above (method validated: blind scorer surfaced 8 known codes near the top).
 - **The live Sheet** (Jen): would convert §A from inference to a direct cell-code list.
-- **Body Parts auction (5/2/22)** material — the original source of the §B system; recover to confirm/extend the map.
+- **Body Parts auction (5/2/22)** material — recover for provenance and campaign context. The fixed §B map is now supplied by the direct board crops and code corpus; the auction is no longer needed to invent or extend combinations.
 
 ## Sources
 - The ~149 codes: [[Sources/Artifacts/Hall of Mirrors - Artifact Gallery (catalog) 2026-06-25]] + [[Sources/Artifacts/HoM - Deep Dive board (room #→ name → code) 2026-06-26]].

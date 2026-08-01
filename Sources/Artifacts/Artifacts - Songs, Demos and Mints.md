@@ -34,6 +34,13 @@ Room 2's audio (a 6.6 MB MP3 preserved from IPFS CID bafybeicpcml..., filed unde
 **Concepts →** [[Sir Lucius]] · [[Hall of Mirrors]] · [[Roy]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 #artifact #audio #song-demo #concept-code
 
+### Room 6 (token 6) · WESTERN WOODS · `3233 Western Woods Dr.`
+*(Absent from the 06-25 gallery crawl — minted token 6, surfaced via the NFT layer; local file `Room 6 - Western Woods.mp3`; realm **"Phantoms of the Past."**)*
+
+An unreleased song whose unlock code is a street address — the answers-in-a-name doctrine performed on a street sign. Ear-reviewed fragments only (low confidence, 2026-07-30): *"Golden hour, I find myself... And I lost myself... you can have all my love."* ⚠ **House identification corrected 2026-07-31 (Jen's address check):** `3233 Western Woods Dr.` appears to exist **only in Alabama** `[P]` — **a family/relative's house** (grandparents' or an uncle's), **not** Roy's own childhood home (that label was an analyst inference, retracted vault-wide); the room belongs to the **ancestry register**, matching its own *Phantoms of the Past* filing. The surrounding synchronicity web (the western wood as the door to the past, across Dante/Narnia/Zelda; the Room 1 `EAST IS EVERYWHERE` ↔ Room 6 dusk compass-axis candidate) is captured at [[Essays/_drafts/fold-inbox/2026-07-31 Western Woods constellation (session 8d6343d3)]], held `[~]`.
+**Concepts →** [[Hall of Mirrors]] · [[Roy]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+#artifact #audio #song-demo #personal-family
+
 ### #3 · O (444DEMO) · `ENSO`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9b505763669a1ce85508ca68153be9a72861db80520993c1bc8be4b46e2040d1..mp3" controls preload="none"></audio> · *(audio — not auditioned)*
 

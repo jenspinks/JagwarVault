@@ -115,15 +115,15 @@ Method as specified: open each image directly, transcribe **visible marks only**
 | Leaf | Media | Subject (first pass) | Status |
 |---|---|---|---|
 | `5ae904bc` | png | Coronation of the Virgin + "Rome" poem | **★ CRACKED `A secret order everywhere`** |
-| `4d378034` | png | Spreadsheet ladder **"AI musical scale… Stages 1-10 (Ascending)"** — 10 animal-stage lines | **★ CODE-CONCORDANCE** — its stage-10/rabbit line *"…standing at the Gate of the World"* keys the **grey-rabbit room** `0da54f73` (cracked). Each animal-stage line may key that animal's image-room. |
+| `4d378034` | png | Spreadsheet ladder **"AI musical scale… Stages 1-10 (Ascending)"** — 10 numbered animal lines | **★ CODE-CONCORDANCE** — its printed Rabbit-10 line *"…standing at the Gate of the World"* keys the **grey-rabbit room** `0da54f73` (cracked). Direction guard: the animal/Tree count runs Swan 1 → Rabbit 10 (source to World), while the body's return count runs Feet 1 → Crown 10; “stage 10” alone does not mean the spiritual summit. `[G]` source header/numbers · `[W]` direction/station reconstruction. |
 | `0da54f73` | jpg | grey rabbit (on black) | **★ CRACKED `standing at the Gate of the World`** (sub-phrase of the ladder's rabbit line; cross-room) |
-| `14a59d49` | png | Spreadsheet ladder **"One become Two"** — 10 lines (point with no beginning / wheel inside a wheel / Half a crown in my hand / The Moon Machine keeping time / I woke up in my shadow) | tested-0 (all 10 lines) — needs deeper read |
+| `14a59d49` | png | Spreadsheet **"One become Two"** field — the same Swan 1 → Rabbit 10 sequence laid across the cosmogonic poem, plus an unnumbered vulture between Whale 3 and Dolphin 4 | tested-0 (all 10 lines); **deep read complete 2026-07-31**. The vulture's placement is observable; reading that unnumbered 3↔4 interval as Da'at/the Abyss remains `[W]`, not a label Roy wrote. |
 | `665a8e1b` | png | iPhone Notes — **Sir Rabbit poem** (The Violet Moon "was a machine" / welcome to the moon / the Cat / Seals & candles) | tested-0 — needs deeper read |
 | `93918ddc` | png | iPhone Notes — **"The Game of Many Things"** (Fox & Rabbit; "the key is hidden in yourself / just listen for the knock") | tested-0 — needs deeper read |
 | `dd5b5bd4` | png | iPhone Notes — Fox & Rabbit poem (same doc, another screen) | unread (read with 665a8e1b/93918ddc) |
 | `6d687a8d` | jpeg | *Through the Looking-Glass* **p.211** — the Knight's "name of the song" (Haddocks' Eyes / The Aged Aged Man / Ways and Means / A-sitting On A Gate) | tested-0 (4 names + apostrophe variants) — try line-forms |
-| `8740ff84` | jpg | **NOAH'S ARK** notebook page (per prior map; holds known codes Flaming Sword/Higher Resolve/A River) | unread this pass |
-| `68c9b388` | jpg | hand-drawn **NOAH'S ARK as a body** (small window / 11 sections / 3 stories Heaven Man Earth / 32 / main door where animals come in) | tested-0 (annotations) — needs deeper read |
+| `8740ff84` | jpg | Full **NOAH'S ARK** notebook page containing the body-Ark plus the Flaming-Sword maze and other notes (holds known codes Flaming Sword/Higher Resolve/A River) | **deep read complete 2026-07-31**; full-page instantiation of the close crop below |
+| `68c9b388` | jpg | close crop of hand-drawn **NOAH'S ARK as a body** (small window / 11 sections / 3 stories Heaven Man Earth / 32 / **main door — where animals come in**) | tested-0 (annotations); **deep read complete 2026-07-31**. `[W]` the human-shaped Ark as an ingress/preservation vessel for the board's bestiary; the inscription itself is `[G]`. |
 | `4b240a5e` | jpg | **USAF Test Pilot School** lighter (Edwards AFB, California) | tested-0 (Test Pilot School/Edwards AFB) |
 | `da3b774d` | jpg | Test Pilot School lighter (likely related to 4b240a5e) | unread this pass |
 | `1fd015c4` | jpg | tweet **"My favorite color is information"** | unread this pass |

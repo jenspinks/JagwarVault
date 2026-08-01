@@ -28,9 +28,9 @@ Never previously joined: the **34 open leaves** were catalogued by code-status o
 |---|---|---|
 | `18c56a31` | §4 the **Tetragrammaton column** (י=10 · יה=15 · יהו=21 · יהוה=**26**), the same handwritten build | **confirmed** (read 2026-07-29; = the gallery's `hebrew-tetragrammaton-column` PLUMCREEK slot) |
 | `83ff23dd` | §16 the **"Horus" cell** — literal spreadsheet **gridlines**, yellow-filled label cell, red cell below | **confirmed board screenshot** (read 2026-07-29) |
-| `4d378034` | §2 the **"AI musical scale… Stages 1–10 (Ascending)"** note→colour ladder | same-content (bench-titled from the image; pixel-level crop status unverified) |
-| `14a59d49` | §11 the **cosmogonic poem** ("One become Two") = the *Another Way II Heaven* lyric panel | same-content (as above) |
-| `8740ff84` | §6 the **Noah's Ark** material (11 sections / 3 stories / 32) — a notebook page also holding the seeds of known codes (Flaming Sword · A River) | same-content, notebook-instantiation |
+| `4d378034` | §2 the **"AI musical scale… Stages 1–10 (Ascending)"** note→colour field plus the numbered **Swan 1→Rabbit 10** animal/first-person lines | direct board-region image; source for the animal sequence and Gate-of-the-World crack |
+| `14a59d49` | §11 the **cosmogonic poem** ("One become Two") = the *Another Way II Heaven* lyric panel, with the same numbered animal column | direct board-region image; independent sequence check |
+| `68c9b388` + `8740ff84` | §6 the human-shaped **Noah's Ark**: "small window / 11 sections / 3 stories (Heaven, Man, Earth) / 32 / **main door — where animals come in**" | `68c9b388` is the close crop; `8740ff84` is the fuller notebook page, also holding Flaming-Sword/A-River material |
 | `de26172b` | §3 the **"Coding Consciousness"** note ("Patterns of right Living are formed in the unconscious mind of a race…") | same-content ([[Brain/Media/Coding Consciousness (note)]]) |
 | `e338a9c6` | §12 **"How to Live Forever? ∞"** hopscotch + Lo Shu + Horus-fractions + Eden elements | same-content ([[Brain/Media/How to Live Forever (Roy cosmology drawing)]]) |
 
@@ -65,7 +65,7 @@ Graded per the standing tiers. **An overlap row is a reading aid, not an identit
 - ★ **ASHIM #120's code is `WHO AM I TO KNOW?`** — a **verbatim line of the board's cosmogonic poem** (§11: *"I was just me / but who was I to know?"*). The poem seeds codes beyond its own panel.
 - ★ **ROMA CALLED ROY #30** — a Roy-hand **self-sketch**: Egyptian wig-cover/beanie figure captioned *"ROMA - true of voice -"*, arrow labelled "Roy", **a marked pendant on the chest**, a small child-figure beneath. Meets the board's **"Statue of Roy"** placard (§16: *Roy, high priest of Amun-Ra, Thebes*) — the same ancient-namesake thread, drawn by hand. Its **code is `TRUE VOICE`** (*maa-kheru*, the Egyptian funerary epithet "true of voice"), which also surfaces in a board DM (*"that whole portal timeline where your 'true voice' came in"*). Board → sketch → code, one thread through three media.
 - **RORRIM EHTNI LIVED #23** ↔ the poem's *"Then I was **in reverse** … and I became You"* (§11): the mirror-reversal register has its cosmogonic ground on the board.
-- **The VI cluster** (Grandma VI · HAMMY VI · VI-LINK · #90's central **6**) ↔ the board's **"VI – Love – Sacrifice"**, the wisdom-triangle **"VI (6)"**, and emanation 6 = *"The mirror of the Soul and the heart"* (§12). ⚠ Grandma **VI** is presumably a real nickname — the join is the *archive's* number-web, not a claim about her name's intent.
+- **The VI cluster** (Grandma VI · HAMMY VI · VI-LINK · #90's central **6**) ↔ the board's **"VI – Love – Sacrifice"**, the wisdom-triangle **"VI (6)"**, and emanation/animal address 6 = *"The mirror of the Sun and the Heart"* / Spider (§12), paired by the inverse body count with Heart 5. ⚠ Grandma **VI** is presumably a real nickname — the join is the *archive's* number-web, not a claim about her name's intent.
 - **EDEN CUBE #98** (`A RIVER`, Genesis 2:10) ↔ the board's Eden/Genesis imagery and the How-to-Live-Forever page's Eden element; the LOOP-garage floating white cube stays `[~]` board-anchored (unchanged).
 
 ## C2. ★ The completeness pass (2026-07-29, second sitting) — all 149 catalog entries swept
@@ -98,9 +98,25 @@ Graded per the standing tiers. **An overlap row is a reading aid, not an identit
 | #17 | 2014 Self Portrait · `DON'T BE A BLACK HOLE` | the black-light cell (*"Nervous organisms congested with black light attract things"*) `[~]` |
 | #41 | THE ANCIENT CHILD · `JUST WOKE UP` | the awake cells (*"Once you're awake you can't go back to sleep"*) `[~]` |
 
-### ★★ The animal body-part code family ↔ the board's Body-Part Stages ladder (`[W]` hypothesis)
+### ★★★ The animal body-part family is a mirror-coordinate system (`[G]` inputs / `[W]` rule)
 
-Five artifact codes are **body parts of named companion animals**: `TEETH OF A WHALE` (#74 Queen Binah) · `LEFT HIP OF A DOVE` (#75 Venus) · `CRANIUM OF A SWAN` (#76 Enoch) · `RIGHT SHOULDER OF A HORSE` (#77 Cinnamon/Trojan) · `PITUITARY GLAND OF AN OWL` (#50 Grey in A#), plus the *stomach-of-a-cat* image in the wider set. The board's **Body-Part Stages** ladder (§12) assigns body parts to ascent stages: 2 = **stomach** · 4 = **left hip** · 6 = **right shoulder**, throat · 8–9 = head · 10 = crown. **Hypothesis: each animal room encodes a ladder stage via its named part** (dove/left-hip → stage 4; horse/right-shoulder → stage 6; owl-pituitary/swan-cranium → the head stages; cat-stomach → stage 2). Not yet differentialed — do NOT fold to any page until each animal's known role is checked against its stage. Open item §E.
+The formerly open differential is now run against both direct animal images (`4d378034`, `14a59d49`), the board's Body-Part Stages, and the code corpus. The animal numbers are **Swan 1 · Owl 2 · Whale 3 · Dolphin 4 · Horse 5 · Spider 6 · Dove 7 · Fox 8 · Cat 9 · Rabbit 10**. The body count runs the other way: **Feet 1 → Crown 10**. Seven extant phrases fit exact complementary addresses:
+
+| Animal / number `[G]` | Body address | Evidence |
+|---|---:|---|
+| Swan 1 | Crown/cranium 10 | `CRANIUM OF A SWAN` |
+| Owl 2 | Left head/pituitary 9 | `PITUITARY GLAND OF AN OWL` |
+| Whale 3 | Right head/teeth 8 | `TEETH OF A WHALE` |
+| Dolphin 4 | Left shoulder 7 | `LEFT SHOULDER OF A DOLPHIN` |
+| Horse 5 | Right shoulder 6 | `RIGHT SHOULDER OF A HORSE` |
+| Dove 7 | Left hip 4 | `LEFT HIP OF A DOVE` |
+| Cat 9 | Stomach 2 | `STOMACH OF A CAT + 9 LIVES` |
+
+The animal numbers, body-stage labels, and code strings are grounded separately. The exact head-organ assignments and the conclusion that these are **two coordinates for the same station, always summing to 11**, are a high-confidence `[W]` reconstruction. This is **not** a pairing of opposite sephirot and not a licence to mix arbitrary parts and animals; the full combinatorial grammar was already mined (5,527 candidates, zero new leaves). It predicts, but does not establish as codes, **Spider 6+Heart 5 · Fox 8+Right hip 3 · Rabbit 10+Feet 1**. The rabbit's "Feet →" label and Earth glyph are therefore explanatory: animal/Tree address 10 and bodily address 1 meet at the World/Malkuth threshold. The old “rabbit = highest ascent” reading is struck.
+
+An unnumbered **vulture** sits between Whale 3 and Dolphin 4 — exactly the visual interval after the supernal three and before the lower seven. Its placement is `[G]`; reading it as the Da'at/Abyss interval is `[W]`, not a Roy-supplied label.
+
+The Noah page sharpens the possible purpose of that exception: its human-shaped Ark is labelled **“11 sections”** and **“main door — where animals come in,”** while the bestiary supplies ten numbered animals plus the unnumbered vulture. `[W]` This makes the Ark a plausible receiving body for the ten stable stations and their hidden interval. The convergence is not a written equation, and the sum-to-11 coordinate rule is mathematically automatic once a ten-item list is reversed; neither should be promoted to `[G]` intent.
 
 ### The explicit nulls (swept, no board tie found — recorded so the sweep is claimable)
 #7 I'M NOT HERE (tattoo-sourced) · #16 · #19 · #21/#42/#66/#82/#95 (index-code rooms) · #25 · #31 Michael the Fox · #35 · #37 · #38 Perspective/Joshua Tree · #46 · #48 Sir Rabbit (its own canon home) · #49 (the attention *cluster* ties via Marduk, the tweet itself null) · #54 · #68 · #69 · #70 (the O/zero family is already rowed) · #78 · #79/#97 (the Mirror pair: the board's *"we reflect ourselves to ourselves"* is register, not a specific cell-tie) · #83/#85 · #92/#93 · #96 · #99–#107 (pets/friends/venues) · #111–#113 · #118/#119 · #123–#137 Flood chain + #126 · #132 · #143–#145. *(A null here means: no specific board cell found in this sweep — not "meaningless"; the source-code rule still applies to each.)*
@@ -124,7 +140,7 @@ Five artifact codes are **body parts of named companion animals**: `TEETH OF A W
 | **Board panels** | ✅ the gallery + this file | ✅ transcript + decode + 5 passes |
 | **Room audio** (14 MP3s in `Sources/Artifacts/Audio Files/` + the above) | ★ the board-as-decoder joins are made (Room 12's two board-resolved words, ear-proven; the alice-211 code-source; the HBD/Logos join; the seed-doctrine realm join — [[Brain/Media/The vocal autobiography (the audio stratum)]]) | ✅ **COMPLETE (2026-07-30/31):** all 14 transcribed + **ear-reviewed in full by Jen**; per-room verdicts in `Audio Files/Transcripts/README`; adjudicated folds landed 2026-07-31 |
 
-**Honest residue:** the Rome-poem full transcription (`5ae904bc`) is still owed; the animal/body-part differential is unrun; `3252cfd9`'s on/off-board check and the 10-hex colour capture stand from §E.
+**Honest residue:** the Rome-poem full transcription (`5ae904bc`) is still owed; `3252cfd9`'s on/off-board check and the 10-hex colour capture stand from §E. The animal/body differential is complete and folded above.
 
 ### ★ The chest-emblem triple (new observable, from this map)
 Three independent Roy-side instances of **a marked emblem at the centre of the chest**: (1) **his body** — the `+`/`ROSE ESOR` tattoo, his own gloss *"I am at the center… Christ… the 4 worlds"*; (2) **his hand** — the ROMA #30 self-sketch's **V† pendant** on the chest; (3) **the kept drawing** — `3252cfd9`'s star-in-rainbow medallion at the heart. With the board's Body-Part ladder putting **stage 5 = Heart** and #90 putting **6 at the centre of the cross of numbers**, the chest-centre is one of the corpus's most consistently marked positions. `[W]` the pattern; each instance `[G]` on its own.
@@ -141,6 +157,6 @@ Three independent Roy-side instances of **a marked emblem at the centre of the c
 ## E. Open actions
 - [ ] Verify `3252cfd9` on/off the board against Jen's 5 hi-res screenshots (both the gallery's claim and the transcript's silence are currently unverified).
 - [ ] Complete the **10-of-10 colour-ladder hex capture** (currently 8), then test the two swatch rooms as rungs.
-- [ ] Pixel-compare `4d378034` / `14a59d49` against the board screenshots (crop vs re-instantiation).
+- [x] Read `4d378034` / `14a59d49` directly against the complete 44-file / 43-distinct-frame screenshot set; animal sequence and board-region identity confirmed. Exact pixel-export genealogy is immaterial to the source claim.
 - [x] ~~Pull `51f28bfc` · `53d191a0` · `ac9f2eb2` from GCS (still never seen) and run them through this map.~~ ✅ pulled + read (§C3) — and ⚠ **the two videos were never open leaves at all** (corrected 2026-07-30 in §C3: the minted song rooms AW2H/`GENESIS TREE CODE` + The Circle/`THE GREAT JAGWAR`).
 - [ ] **RESCOPED (2026-07-31), not ticked:** the audio stratum vs the board's music cells. ✅ Done: the transcripts read + ear-reviewed; the HBD/Logos, alice-211, and Room-12 board-as-decoder joins made. ⏳ Still open: the **"AI musical scale" note-ladder** vs the 14 recordings' keys (no join attempted); the **"to Mozart"** limb; the two remaining audio gaps (`442795f9`, `e163466b`).

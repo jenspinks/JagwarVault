@@ -8,6 +8,8 @@ ingest_source: "Exhaustive 13-agent sweep: dissected the 149 known codes for pat
 
 The output of a full multi-agent sweep. **Casing-insensitive** (see below), so each entry's variants are about *content/punctuation*, not capitalization. Companion to [[Sources/Artifacts/HoM - Code Grammar & Guessing Strategy v2 (2026-06-26)]].
 
+> **2026-07-31 method correction.** This worksheet preserves what was actually generated and tested in June, but its body-part “template” is no longer a live generative rule. Direct board crops show a fixed animal index running Swan 1 → Rabbit 10 opposite the Feet 1 → Crown 10 body index; the extant phrases pair complementary addresses. The later exhaustive 5,527-candidate body-part × animal run produced zero new leaves. Read the body syntax below as a historical recognition fingerprint, not permission to create arbitrary combinations.
+
 ## 🔑 The unlock mechanic — instant code validation (Jen's HAR, 2026-06-26)
 Entering a code calls **`https://us-central1-jagwar-twin-33.cloudfunctions.net/getMintProof?code=<CODE>`** (URL-encoded). The response **instantly tells you if the code is real:**
 - `{"success":true,"proof":[]}` → **NOT a valid code** (empty proof). *(e.g. `U ARE THE KEY`, `THE KEYS TO THE VAULT` came back empty.)*
@@ -24,14 +26,14 @@ Then `updateArtifactsEP` records the unlock in **Firestore** and the room opens 
 
 **③ ONE WORD vs SEVERAL — multi-word wins decisively.** Of 145 distinct codes, multi-word = 58%; among *readable-English* codes it's **78% multi-word.** Median ≈ 3 words; the single commonest shape is a **2–3 word phrase.** → **Default to a 2–4 word phrase.** Reserve a bare single word for: proper names (`MARDUK`, `OSCAR`), one-word punchlines (`CAKE`, `ENSO`, `VIBES`), and self-titled artifacts.
 
-**④ CRACKABLE? — mostly no, but ~35–40% is recoverable, and the method is concordance not deduction.** Three braided layers with no surface signal: MEANING (esoteric/Ra/lyric vocabulary), STRUCTURE (self-codes + chain-links ~22%), BOOKKEEPING (cell-codes/numbers/glyphs ~25%, pattern but no meaning). Only **two generative rules** let you *derive* a code: the **body-part template** `{SIDE} {PART} OF A {ANIMAL}` and the **mirror/reversal** (spell the title backwards). Everything else = **build a concordance of his words and brute-force match** — exactly what this list is.
+**④ CRACKABLE? — mostly no, but ~35–40% is recoverable, and the method is concordance not deduction.** Three braided layers with no surface signal: MEANING (esoteric/Ra/lyric vocabulary), STRUCTURE (self-codes + chain-links ~22%), BOOKKEEPING (cell-codes/numbers/glyphs ~25%, pattern but no meaning). **Mirror/reversal** can derive a code by spelling a title backwards. The animal/body family can be recognized from its fixed paired map, but it is **not generative** beyond the extant concordance. Everything else = **build a concordance of his words and brute-force match** — exactly what this list records.
 
 ## The format rules (apply to every guess)
 - **Caps don't matter** — type fastest form.
 - **Keep:** leading `THE`, literal `&` (no code ever spells "and"), straight ASCII apostrophes, trailing `?`, `_` in filename tokens, hyphens in `-LINK` codes.
 - **Drop commas on the first try**, add them only as fallback.
 - **Numbers → digits**, exact, no zero-padding/hyphens in cell-IDs (`H1066`, not `H 1066`).
-- **Reproduce Roy's misspellings as written** (`MAGIK`, `TORTISE`, `CHRITMAS`) first, then the corrected form.
+- **Reproduce artifact/code spellings exactly as recorded** (`MAGIK`, `TORTISE`, `CHRITMAS`) first, then the corrected form. This is source-specific: the board/artifact label is **Tortoise**, while Roy's 2023 riddle explicitly instructs *"Tortoise can [be] misspelled as Tortise"* and the unlock code uses `TORTISE`. Preserve the intended code-form without corrupting the source transcription or treating spelling variation as a general generator.
 
 ## Roy's code-crafting fingerprints (favor candidates that match)
 1. **"X IS Y" flat aphorism** — his single most characteristic shape (`EVERY HUMAN BEING IS A STAR`). **Top-tier when a candidate is one of these.**
@@ -43,7 +45,7 @@ Then `updateArtifactsEP` records the unlock in **Firestore** and the room opens 
 7. **Self-echo** — the code IS the artifact's own title.
 8. **Chain/loop link** — the code is another artifact's name.
 9. **Bookkeeping ID** — `{1-2 letters}{3-4 digits}` glued.
-10. **Body-part template** `{SIDE} {PART} OF A {ANIMAL}`.
+10. **Animal/body syntax** `{SIDE} {PART} OF A {ANIMAL}` — a fixed inverse-coordinate family, not an arbitrary template (2026-07-31 correction above).
 11. **Verbatim lyrics / tweets** — large slice lifted word-for-word.
 
 ---
@@ -78,7 +80,7 @@ Then `updateArtifactsEP` records the unlock in **Firestore** and the room opens 
 - **`YOUR WEIRDNESS IS THE SUNSHINE`** — weirdness motif.
 - **`EVERYTHING YOU DO IS MAGIK`** (then `MAGIC`).
 - **`YOU ARE NOT YOURSELF`** · **`YOU'RE NOT A REAL BOY`** — clone/identity theme.
-- **`AS ABOVE SO BELOW`** · **`JACOB'S LADDER`** · **`SUN OF GOD`** (then `SON OF GOD`) · **`LET THEM EAT CAKE`** · **`GUARDIAN AT THE GATE`** — on the board; Hermetic/Egyptian/gate clusters.
+- **`AS ABOVE SO BELOW`** · **`THE LADDER OF DIVINE ASCENT`** · **`SUN OF GOD`** (then `SON OF GOD`) · **`LET THEM EAT CAKE`** · **`GUARDIAN AT THE GATE`** — on or directly represented by the board; Hermetic/Egyptian/gate clusters. **`JACOB'S LADDER`** was also tested in this historical run, but it came from the artwork's now-corrected misidentification and the separate Earth→Heaven hopscotch resonance; it is not literal text established by that pasted icon.
 - **`ARTIFACTS ARE POSSESSIONS`** — Roy *repeated* it ("Remember, Artifacts are possessions") = deliberate flag.
 - **`I'M JUST A MIRROR`** · **`SHE'S A REFLECTION`** — mirror self-identity.
 - **`I KNOW NOTHING`** · **`EVERYTHING COMES FROM NOTHING`** — nothing/emptiness koan.

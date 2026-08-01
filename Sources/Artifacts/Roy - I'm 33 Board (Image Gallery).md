@@ -76,9 +76,9 @@ The board writes out **all seven Hermetic Principles**, nearly verbatim from *Th
 
 ---
 
-## 3. The 4-Way Ladder
+## 3. The Mirror-Indexed Ladder
 
-One 10-rung ladder, cross-indexed **four parallel ways** on the board — music/color, body-part, and Japanese soul-plane — counted both ascending (rung 1 = base → rung 10 = crown/white) and descending (emanation), "backwards and forwards." `[G]`
+One 10-station structure, rendered in **tone, color, traits, body, animals, Japanese soul-planes, and emanation**, and counted from opposite ends. The body/return count runs Feet 1→Crown 10; the animal/Tree count runs Swan 1→Rabbit 10. The extant animal-body phrases identify the same station twice and sum to eleven — the operational meaning of "backwards and forwards." `[G]` observables / `[W]` coordinate rule.
 
 ### #80 · David Star — "Where The World Was Crossed" · `TWISTED LADDER`
 <img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png" width="320" loading="lazy">
@@ -90,7 +90,7 @@ A watercolor of a pale sea-dragon rising from dark water, with the full poem "Wh
 #### Board panel: the music/color note-ladder ("AI musical scale… Ascending")
 <img src="{{PLUMCREEK}}/im-33-board/ai-musical-scale-note-color-ladder.png" width="320" loading="lazy">
 
-Ten stages, notes F·C·D·E·F·F#·G·A·A#·B each paired ascending with a color band; a hand-drawn harmonic-series arc over solfège Do·Re·Mi·Fa runs alongside. Rung 6 = "The mirror of the Soul and the heart" (Tiphareth/gold/Sun). `[G]`
+Ten stages, notes F·C·D·E·F·F#·G·A·A#·B each paired ascending with a color band; a hand-drawn harmonic-series arc over solfège Do·Re·Mi·Fa runs alongside. The handwritten emanation list's address 6 is **"The mirror of the Sun and the Heart"**; address 5 is **"Whirling energy of nature"** and 7 is **"Bearing."** `[G]`
 **Source →** [[Roy - I'm 33 this year (spreadsheet)]] §2 · [gallery — not minted]
 
 #### Board panel: Body-Part stages + Japanese soul-plane ladder
@@ -99,11 +99,17 @@ Ten stages, notes F·C·D·E·F·F#·G·A·A#·B each paired ascending with a co
 The same ladder read two more ways: a somatic map (1 feet/base-of-spine → 10 crown of head) and a descending Japanese scale (最高の自己 "highest self" → 身体 "body"), its per-stage colors the exact reverse of the ascending scale — one ladder counted from opposite ends. `[G]`
 **Source →** [[Roy - I'm 33 this year (spreadsheet)]] §12 · [[Image Decode - Spreadsheet BMRC and Social - findings 2026-07-08]] §1.3 · [gallery — not minted]
 
+#### Board panel: animal/Tree addresses + body/return addresses
+<img src="{{PLUMCREEK}}/im-33-board/animal-body-mirror-coordinate-ladder.png" width="320" loading="lazy">
+
+The board's animals are numbered **Swan 1 · Owl 2 · Whale 3 · Dolphin 4 · Horse 5 · Spider 6 · Dove 7 · Fox 8 · Cat 9 · Rabbit 10**, with an unnumbered vulture between Whale and Dolphin. The extant HoM phrases fit the inverse body count: Swan 1+Cranium 10, Owl 2+Pituitary 9, Whale 3+Teeth 8, Dolphin 4+Left shoulder 7, Horse 5+Right shoulder 6, Dove 7+Left hip 4, Cat 9+Stomach 2. Each reconstructed pair sums to **11**. Rabbit 10 therefore meets Feet 1/Earth; it is not the highest spiritual rung. `[G]` animal numbers/body labels/code strings · `[W]` exact organ-to-rung assignments and same-station checksum.
+**Source →** [[Roy - I'm 33 this year (spreadsheet)]] §2/§12 · [[Board - The Ascent Ladder]] · [gallery — direct room crops `4d378034` / `14a59d49`, not minted panel]
+
 ---
 
 ## 4. The Album / Tracklist
 
-A yellow "Tracks" block lists 11 titles; a handwritten Noah's Ark diagram labels the board "11 sections / 3 stories (Heaven, Man, Earth) / 32" — 11 tracks · 3 worlds · the 32 Paths of the Tree of Life. `[G]` list / `[W]` the Ark-cipher reading.
+A yellow "Tracks" block lists 11 titles; a handwritten, human-shaped Noah's Ark diagram is labelled **"small window / 11 sections / 3 stories (Heaven, Man, Earth) / 32 / main door — where animals come in."** The 11 tracks · 3 worlds · 32 Paths relation is `[W]`, not part of the written annotation.
 
 ### #4 · HELLO, ATTENTION (µå®∂¨˚) · `MARDUK`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..jpg" width="320" controls preload="none"></video>
@@ -122,14 +128,14 @@ A single line of Roy's handwriting: "the value of Nothing" — the artifact disp
 ### #3 · O (444DEMO) · `ENSO`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9b505763669a1ce85508ca68153be9a72861db80520993c1bc8be4b46e2040d1..mp3" controls preload="none"></audio> · *(audio — not auditioned)*
 
-An unreleased Roy demo titled "O," archived from IPFS. The unlock code `ENSO` names the Zen circle drawn in a single brushstroke — the board itself carries a panel "ENSO — Tell Us Who You Are" with the same wholeness/mirror gloss, making this a direct audio anchor for the project's circle-and-mirror cosmology; track 11 of the board's concept-album list.
+An unreleased Roy demo titled "O," archived from IPFS. The unlock code `ENSO` names the Zen circle drawn in a single brushstroke. Beside the board's closing track-title **O**, Roy pasted a selected source card, **"ENSO — Tell Us Who You Are,"** whose printed prose describes wholeness, cyclic return, universe/void, and a circle as "a mirror of its painters," then invites the reader to draw their own. The selection is Roy's; the explanatory prose is not attributed to him. This makes the room a direct audio anchor for the project's circle-and-mirror cosmology.
 **Song ties →** [[Happy Face]] *(moderate)* · **Concepts →** [[Hall of Mirrors]] · [[The Circle]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 #artifact #audio #song-demo #concept-code #im-33-board
 
-#### Board panel: the Noah's Ark diagram ("11 sections / 3 stories / 32")
+#### Board panel: the human-shaped Noah's Ark and animal door
 <img src="{{PLUMCREEK}}/im-33-board/noahs-ark-diagram.png" width="320" loading="lazy">
 
-A hand-drawn Ark (figure inside, "small window") annotated "11 sections / 3 stories (Heaven, Man, Earth) / 32" — the vessel of preservation through the flood, architecturally reading the 11-track list as 3 worlds over the Tree of Life's 32 Paths. `[G]` diagram / `[W]` the Ark-as-32-paths reading.
+A hand-drawn Ark shaped as a segmented human figure, annotated **"small window / 11 sections / 3 stories (Heaven, Man, Earth) / 32 / main door — where animals come in."** `[G]` The body-Ark as an ingress/preservation vessel for the board's animal world is `[W]`; reading the numbers as the 11-track list over the Tree's 32 Paths remains `[W]`.
 **Source →** [[Roy - I'm 33 this year (spreadsheet)]] §6 · [[Image Decode - Spreadsheet BMRC and Social - findings 2026-07-08]] §1.4 · [gallery — not minted]
 
 #### Board panel: the full "Tracks" list (11 titles)
@@ -167,11 +173,11 @@ The full released lyric of **"Soul Is A Star"** (*33*, track 5) laid out in colo
 
 ## 6. The Hero's Journey / Master of Twin Worlds
 
-Campbell's monomyth, drawn twice on the board (a stage-list and the full wheel), climaxing at "Master of Twin Worlds." No board panel here is a minted HoM artifact.
+Roy's adaptation of the monomyth, drawn as a stage-list and a wheel and climaxing at "Master of Twin Worlds." Several labels overlap Campbell's schema; **The Pattern Man** is Roy's local addition, so the full sequence should not be called verbatim Campbell. No board panel here is a minted HoM artifact.
 
 <img src="{{PLUMCREEK}}/im-33-board/hero-journey-campbell-wheel.png" width="320" loading="lazy">
 
-**The wheel + stage-labels:** "Review cycles of human consciousness throughout history" beside a Hero's-Journey wheel — Ordinary World · Rabbit Hole · The Fool · Guardian at The Gate · Testing 1,2 · Belly of Whale · Rescue Father · Dragon · Water · Treasure · Ancestors · The Way Back · **Master of Twin Worlds** · New Cycle Begins. `[G]`
+**The wheel + Roy's adapted labels:** "Review cycles of human consciousness throughout history" beside a Hero's-Journey wheel — Ordinary World · Rabbit Hole · The Fool · Guardian at The Gate · Testing 1,2 · **The Pattern Man** · Belly of Whale · Rescue Father · Dragon · Water · Treasure · Ancestors · The Way Back · **Master of Twin Worlds** · New Cycle Begins. `[G]` The Pattern Man's placement between Testing and the Belly region is visible; its identity/function is not resolved.
 **Source →** [[Roy - I'm 33 this year (spreadsheet)]] §13 · [gallery — not minted]
 
 <img src="{{PLUMCREEK}}/im-33-board/facing-the-shadow-self-ordeal-cell.png" width="320" loading="lazy">
@@ -314,11 +320,11 @@ The sun (Hα disk); a twin-lobe nebula; tardigrades and diatom/cell micrographs;
 
 ## 10. The Artworks
 
-Named art the board pastes in as source-works: Jacob's Ladder, the Creation of Adam, the Furtmeyr Tree, the Garden of Eden, the Great Cat of Ra, the Statue of Roy, and the cat-halo whole-self icon. All plumcreek — none of these reproductions are minted HoM artifacts.
+Named/identified art the board pastes in as source-works: *The Ladder of Divine Ascent*, the Creation of Adam, the Furtmeyr Tree, the Garden of Eden, the Great Cat of Ra, the Statue of Roy, and the cat-halo whole-self icon. All plumcreek — none of these reproductions are minted HoM artifacts.
 
-<img src="{{PLUMCREEK}}/im-33-board/blake-jacobs-ladder.png" width="200" loading="lazy"> <img src="{{PLUMCREEK}}/im-33-board/creation-of-adam-michelangelo.png" width="200" loading="lazy"> <img src="{{PLUMCREEK}}/im-33-board/furtmeyr-tree-of-death-and-life.png" width="200" loading="lazy">
+<img src="{{PLUMCREEK}}/im-33-board/ladder-of-divine-ascent-climacus.png" width="200" loading="lazy"> <img src="{{PLUMCREEK}}/im-33-board/creation-of-adam-michelangelo.png" width="200" loading="lazy"> <img src="{{PLUMCREEK}}/im-33-board/furtmeyr-tree-of-death-and-life.png" width="200" loading="lazy">
 
-- **Blake's "Jacob's Ladder."** `[G]` present. **Source →** [[Roy - I'm 33 this year (spreadsheet)]] §16.
+- ***The Ladder of Divine Ascent*** — the Sinai icon associated with **John Climacus**, showing monks climbing toward Christ while demons pull climbers from the ladder. `[G]` identification; **not** Blake's *Jacob's Ladder*. **Source →** [[Roy - I'm 33 this year (spreadsheet)]] §16.
 - **Michelangelo's "Creation of Adam."** `[G]` present. **Source →** [[Roy - I'm 33 this year (spreadsheet)]] §16.
 - **Furtmeyr, "Tree of Death and Life"** (Eve + Mary at the tree → Mary-as-New-Eve). `[W]` mapping. **Source →** [[Image Decode - Spreadsheet BMRC and Social - findings 2026-07-08]] §1.6, §3.11-B.
 
@@ -337,6 +343,12 @@ Named art the board pastes in as source-works: Jacob's Ladder, the Creation of A
 ## 11. Depth-Psychology & Wisdom Sources
 
 Jung's psyche-maps, Campbell's wheel (see Group 6), Besant & Leadbeater's Thought-Forms, Enso, Taoism, and tarot/glyph fragments.
+
+#### Board panel: "ENSO — Tell Us Who You Are"
+<img src="{{PLUMCREEK}}/im-33-board/enso-tell-us-who-you-are-card.png" width="260" loading="lazy">
+
+The selected card calls Ensō a symbol of **"wholeness and cyclic return"** leading to **"enlightenment, the universe and the void"**; describes the circle as **"a mirror of its painters"** reflecting who they are and what they think or feel while painting; invites looking back at oneself and finding one's true self; and closes, **"Be honestly who you are, and draw your own circle."** `[G]` card text/selection. **Authorship guard:** Roy selected and placed the card; its explanatory prose is inherited source material, not Roy-authored copy.
+**Source →** [[Roy - I'm 33 this year (spreadsheet)]] §16 · [gallery — not minted]
 
 ### #56 · Thought Forms · `THOUGHT FORMS`
 <img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg" width="320" loading="lazy">
@@ -369,7 +381,7 @@ A hand-drawn Jung psyche map (Persona/Ego/Shadow/Anima/Self/Collective Unconscio
 
 ## 12. Family / Biography
 
-The board's autobiographical seed-bank — Eye Alaska, Chain Reaction, the childhood home at 3233, Camel Trophy '96, Ms. Jeannie & the Grasshopper Kids, heirlooms, and studio/crew photos. This is where the HoM's existing family-heirloom cluster overlaps the board directly.
+The board's autobiographical seed-bank — Eye Alaska, Chain Reaction, the family house at 3233 (childhood-home label retracted 2026-07-31, see the panel below), Camel Trophy '96, Ms. Jeannie & the Grasshopper Kids, heirlooms, and studio/crew photos. This is where the HoM's existing family-heirloom cluster overlaps the board directly.
 
 ### #32 · Yellow & Elephant 2 · `CHAIN REACTION`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc7f87ec37122f93afd711dda88c305c17f91b8edbc366215c8f6f8f8bca2faf0..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc7f87ec37122f93afd711dda88c305c17f91b8edbc366215c8f6f8f8bca2faf0..jpg" width="320" controls preload="none"></video>
@@ -416,10 +428,10 @@ A photogrammetry 3D-scan of the **framed Camel Trophy Kalimantan '96 family phot
 **Concepts →** [[Hall of Mirrors]] · [[Roy]] · [[The Circle]] · [[Kabbalah - The Tree of Life]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 #video #mint #personal-family #concept-code #artifact #im-33-board
 
-#### Board panel: childhood home "3233" + Eye Alaska poster
+#### Board panel: the family house "3233" + Eye Alaska poster
 <img src="{{PLUMCREEK}}/im-33-board/childhood-home-3233-eye-alaska-poster.png" width="320" loading="lazy">
 
-A photo of a childhood home with the address "3233" visible (→ the minted HoM artifact "3233 Western Woods Dr."); the EYE ALASKA poster (yellow, black rooster/phoenix art), Roy's pre-Jagwar-Twin band — a grounded self-reference. `[G]` inventory.
+A photo of a family house with the address "3233" visible (→ the minted HoM artifact "3233 Western Woods Dr."). ⚠ **CORRECTED 2026-07-31 (Jen):** the address **3233 Western Woods Dr. appears to exist only in Alabama** `[P]` — so this is **not Roy's own childhood home** but a **family/relative's house** (grandparents' or an uncle's, thematic register). The "childhood home" label was an analyst inference from the family-photo context, never Roy-stated; it moves the house from the childhood stratum to the **ancestry / Concealed-Generations register**.  the EYE ALASKA poster (yellow, black rooster/phoenix art), Roy's pre-Jagwar-Twin band — a grounded self-reference. `[G]` inventory.
 **Source →** [[Roy - I'm 33 this year (spreadsheet)]] §8 · [gallery — not minted]
 
 #### Board panel: Ms. Jeannie & The Grasshopper Kids ("Mom's song")

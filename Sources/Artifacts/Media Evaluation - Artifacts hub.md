@@ -52,7 +52,7 @@ Migrated to **The Jagwar Files → `06 Artifacts/`** (hub = [[Artifacts]] + 6 gr
 ## The "I'm 33" board — ✅ evaluated in 4 thematic groups (source vault)
 Roy's own spreadsheet is captured as **one consolidated doc** ([[Roy - I'm 33 this year (spreadsheet)]]; decode: [[The Im 33 Board - Decoded (Roy's upload cosmology)]]) and now **evaluated in 4 thematic passes** — parallel to the 6 artifact groups above, **source vault only for now**:
 - [[Board - The Upload]] — the thesis: consciousness, immortality, the digital double (the pros/cons matrices, life-force economics, the Tracks concept-album, the egg).
-- [[Board - The Ascent Ladder]] — the 10-stage climb encoded ≥6 ways (three scales, somatic/Japanese/0–10, Hero's Journey, Noah's Ark; minted #15, #26).
+- [[Board - The Ascent Ladder]] — the 10-station source/descent and body/return structure, encoded in tone, colour, traits, animals, anatomy, soul-plane, emanation, hopscotch, and Roy's Hero's-Journey adaptation; the animal/body codes supply the inverse-coordinate rule (minted #15, #26).
 - [[Board - The Source-Code]] — traditions, number & sacred geometry (gematria, Kybalion, the "One become Two" cosmogonic poem, the science plates; minted #71, #45, #86, #125).
 - [[Board - The Field]] — image, biography & culture (Pattern-in-Movies, the pasted photographs, aphorism cells, DMs, "Statue of Roy").
 

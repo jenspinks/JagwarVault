@@ -21,7 +21,7 @@ The board's pasted photographs cluster onto the same vault themes as the diagram
 - **The Sun (Hα disk) · the inverted golden Tree** → RA / [[SOL]] / emanation.
 - **Sperm-and-egg · cell micrographs · tardigrades** → generation and the **egg/vessel** (*"Father + Mother concealed in generation"*; *"I'm an egg"* — see [[Board - The Upload]]).
 - **Mushroom cloud** ↔ *"unbalance explodes itself like an atom bomb"* → the vessel that **shatters** (the shevirah — see [[Board - The Source-Code]]).
-- **Neon Vitruvian-man brain-split · Michelangelo's *Creation of Adam* · Blake's *Jacob's Ladder* · a 2001-style desert monolith · the ouroboros/alchemy emblem · human brain-wave charts · the LHC · parts of an atom** → the **as-above-so-below / micro-macro** claim (*"the same formula from a solar system down to the atom"*), and the **duality / Roy↔Lucius** split (the brain-split Vitruvian).
+- **Neon Vitruvian-man brain-split · Michelangelo's *Creation of Adam* · *The Ladder of Divine Ascent* (the Sinai/John Climacus icon: ascent toward Christ under demonic attack) · a 2001-style desert monolith · the ouroboros/alchemy emblem · human brain-wave charts · the LHC · parts of an atom** → the **as-above-so-below / micro-macro** claim (*"the same formula from a solar system down to the atom"*), the perilous-ascent register, and the **duality / Roy↔Lucius** split (the brain-split Vitruvian). The icon was previously misidentified in-vault as Blake's *Jacob's Ladder*; it is not a Bethel image.
 - **Magazine covers** — *LIFE* "JESUS," "HARRY POTTER — 25 Years of Magic" — the pop-canon the mythology quietly draws on (cf. the [[dumbledore]] / Potter thread).
 - A **kangaroo in a hoodie** and other deadpan intrusions — the board's characteristic register-flip (cosmic ↔ silly), the same tonal move as the released work.
 
@@ -33,7 +33,7 @@ Roy finds his **own name** as an ancient Egyptian **sun-priest of Ra** — biogr
 ## The biographical floor `[G]`
 - **EYE ALASKA poster** (yellow, rooster/phoenix art) — Roy's **pre-Jagwar-Twin band**, a grounded self-reference to the origin.
 - **Live-performance & studio photos**, a TV / *AppleMusic.com/Today* / NBC News segment, an *"Roy English / 20m ago"* story frame — the working-artist present.
-- A **Polaroid labelled "Ashwood 2/18/14"** — a dated personal marker; a childhood home tagged **"3233."**
+- A **Polaroid labelled "Ashwood 2/18/14"** — a dated personal marker; a family house tagged **"3233"** *(the "childhood home" label is retracted — the address **3233 Western Woods Dr. appears to exist only in Alabama** `[P]` — so this is **not Roy's own childhood home** but a **family/relative's house** (grandparents' or an uncle's, thematic register). The "childhood home" label was an analyst inference from the family-photo context, never Roy-stated; it moves the house from the childhood stratum to the **ancestry / Concealed-Generations register**.)*
 - *"He who plants a seed believes in God"* (his mom) and the **dropped-by-the-label** note — the seed/garden faith and the industry wound, in his own words.
 
 ## The aphorism cells — Roy's own voice `[G]`

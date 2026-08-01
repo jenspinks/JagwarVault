@@ -37,6 +37,8 @@ At cosmic scale this is the **Roy/Lucius split** stated as a law: Lucius **is** 
 
 **The antagonist is the *severing*, not the machine.** Hold this or the cosmology collapses into generic anti-tech mysticism. (Same shape as the [[Sir Lucius]] guard: the enemy is structure *divorced from* heart, not structure.)
 
+The artifact corpus now supplies a compact image of that guardrail. Roy's numbered bestiary places **Spider at source/Tree 6**, paired by the inverse body count with **Heart 5**, while the emanation page names 6 **“The mirror of the Sun and the Heart.”** `[G]` the source elements; `[W]` the mirror-coordinate pairing. In [[Sources/Artifacts/HoM Artifact - RAPhael the Christmas Spider (Pleiades Honey Bee) 2026-06-26|RAPhael the Christmas Spider]], the web is a solar-heart medium that can weave and carry the song. In [[Online]], the same network-form is predatory: *“Internet is like a web and we're the Spider's food.”* `[W]` Together they make the distinction visible: the web is not condemned as a technology; **connection severed from Heart becomes consumption.**
+
 ## The grounded seed `[G]`
 [[Essays/Concepts/Songs/Superhuman (Interlude)|Superhuman (Interlude)]] (2018) samples **verbatim** the closing speech of Chaplin's *The Great Dictator* (1940): *"You, the people, have the power — the power to create machines, the power to create happiness…"* (Apple Music credits Charles Chaplin; confirmed 2026-05-27). The thread is **planted in borrowed humanist language** and later reworked into JT's own architecture (the Algorithm, the Circus, Lucius).
 

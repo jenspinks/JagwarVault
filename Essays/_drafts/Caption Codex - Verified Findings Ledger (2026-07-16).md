@@ -853,9 +853,9 @@ status: draft
 
 ### [W] 2026-03-20 The universe is a mirror reflecting the image
 - **claim:** Same mechanism as the board's Enso gloss — the circle/universe mirrors its maker; a second Roy-adjacent statement of reflection-follows-the-looker.
-- **targets:** Enso 'mirror of its painter'
+- **targets:** Ensō source-card phrase *"mirror of its painters"*
 - **anchors:** Brain/Concepts/The Circle.md:96-98
-- **verifier:** The Circle.md §'Track O = the Enso' (the section spanning ~:95-98) has the board gloss verbatim: 'Enso... a mirror of its painter... draw your own circle' [G] board-transcribed, with the mechanism 'the circle mirrors its painter'. Same-mechanism parallel to the Hall card ('mirror reflecting the image of the one who looks into it') is a hedged W on two anchors (board receipt [G] + Roy-posted named…
+- **verifier:** The Circle.md §“Track O and the Ensō card” carries the source-card wording *"a mirror of its painters"* and *"draw your own circle."* `[G]` is Roy's selection/placement and the visible inherited card text, not Roy's authorship of that prose; the mechanism applied to the catalogue remains `[W]`. Same-mechanism parallel to the Hall card (*"mirror reflecting the image of the one who looks into it"*) is a hedged `[W]` on two anchors.
 
 ### [G] 2026-02-24 One does not become enlightened by imagining
 - **claim:** Roy posts the shadow-integration doctrine itself, named to Jung ('…but by making the darkness conscious', CW 13 ¶335, The Philosophical Tree). The influences file explicitly holds that broader Jungian shadow doctrine 'still needs its own anchors' — this card is that anchor.

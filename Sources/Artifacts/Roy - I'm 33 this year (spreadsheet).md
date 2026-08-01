@@ -75,6 +75,25 @@ Ten stages, each assigned a color:
 
 *(The three 10-stage scales appear to be parallel encodings — tone, color, and virtue/vice — of one ascent. The virtue/vice sequence reads as esoteric-astrology / Bailey-style sign attributions. Pointer only → [[The Labors of Hercules]], `CONCEPT-InheritedSubstrate`.)*
 
+### The numbered animal column (laid across the scale / cosmogonic-poem field)
+
+Two direct board crops preserve the same numbered animal sequence, with different first-person lines. The animal numbers are: **1 Swan · 2 Owl · 3 Whale · 4 Dolphin · 5 Horse · 6 Spider · 7 Dove · 8 Fox · 9 Cat · 10 Rabbit.** An **unnumbered vulture** is placed between Whale 3 and Dolphin 4. The vulture's placement is observable; identifying it with Da'at/the Abyss is interpretation and belongs in the analysis layer.
+
+| Animal address | Animal | Wording in the two direct crops |
+|---:|---|---|
+| 1 | Swan | "Last night I dreamt I was a point with no beginning and no end" · "I was / I am" |
+| 2 | Owl | "A wheel inside a wheel imagined" · "The whole world imagined" |
+| 3 | Whale | "I was in reverse" · "In darkness" |
+| 4 | Dolphin | "Half a crown was in my hand" · "I found everything" |
+| 5 | Horse | "Generations had gone by" · "The child became a warrior surrounded by serpents who smiled with swords in their mouths" |
+| 6 | Spider | "The Sun was in my eyes" · "A child hung upside down watching a spider spin its web" |
+| 7 | Dove | "Always late to the Party" · "Looking for a lamp hidden in a garden" |
+| 8 | Fox | "I was a scientist" · "Its thoughts followed me" |
+| 9 | Cat | "The Moon Machine was keeping time" · "The Moon was a machine, eclipsed" |
+| 10 | Rabbit | "I woke up in my shadow" · "Last night I dreamt I was standing at the Gate of the World" |
+
+The sequence is printed inside the same board field as the colored scale and the column-laid *Another Way II Heaven* text. Exact sources: open-room crops `4d378034` and `14a59d49`, independently checked against Jen's July screenshot set. See §12 for the inverse body addresses and [[Board - The Ascent Ladder]] for the tiered reading.
+
 ---
 
 ## 3. Cosmological / esoteric notes (typed)
@@ -143,7 +162,7 @@ A stacked column building the divine name letter by letter:
 
 ## 6. The "greatest song" note + Noah's Ark
 - Handwritten music-staff cluster: **"what is music?"**, *"Happy birthday to you / to Mozart / Happy birthday to you,"* resolving to **"the greatest Song ever written: HBD"** *(= "Happy Birthday")* / **"When was I Born?"** — i.e. the birthday motif behind the board's title *"I'm 33 this year."*
-- **"NOAH'S ARK"** sketch (figure inside, "small window") annotated: **"11 sections / 3 stories (Heaven, Man, Earth) / 32."**
+- **"NOAH'S ARK"** is drawn as a vertically segmented human body (figure inside, **"small window"**) and annotated: **"11 sections / 3 stories (Heaven, Man, Earth) / 32"** and **"main door — where animals come in."**
 
 *(The Ark's **"3 stories (Heaven, Man, Earth)"** is a direct architectural echo of the [[Essays/Concepts/Songs/It's Your Time|It's Your Time]] keystone — "a man is like an in-between, animating Heaven and Hell" — man as the middle story; and the **"32"** sits one below the album/board **33**. Pointer only.)*
 
@@ -204,12 +223,13 @@ A numbered **"Tracks"** list (distinct from the released *33* — see [[33 (albu
 
 ## 12. The 10-stage scheme — three more encodings
 - **"Body Part Stages"** (a somatic map): 1 Feet, base of spine · 2 Lungs, Stomach, Sexual Organs · 3 Right arm, right hip · 4 Left arm, left hip · 5 Heart · 6 Right shoulder, throat · 7 Left shoulder, throat · 8 Right side of head, forehead · 9 Left side of head, forehead · 10 Crown of head.
+- **Animal/body mirror coordinates (cross-source reconstruction):** the numbered animal column in §2 runs **Swan 1 → Rabbit 10**, while the somatic scale runs **Feet 1 → Crown 10**. Seven extant HoM phrases fit the two indices as opposite-end addresses that **sum to 11**: `CRANIUM OF A SWAN` (animal 1 + reconstructed body 10) · `PITUITARY GLAND OF AN OWL` (2+9) · `TEETH OF A WHALE` (3+8) · `LEFT SHOULDER OF A DOLPHIN` (4+7) · `RIGHT SHOULDER OF A HORSE` (5+6) · `LEFT HIP OF A DOVE` (7+4) · `STOMACH OF A CAT + 9 LIVES` (9+2). The animal numbers, body-stage labels, and extant code strings are `[G]`; assigning the head organs to exact body rungs and reading the consistent sum as an intentional mirror/checksum is `[W]`. The resulting unsolved complements are Spider 6↔Heart 5, Fox 8↔Right hip 3, and Rabbit 10↔Feet 1; these are predictions, not known codes.
 - **Japanese stage-labels** (for the "Enlightened Being" concentric diagram): 最高の自己 *(highest self)* · 霊的な意志 *(spiritual will)* · 霊的な愛 *(spiritual love)* · 魂の気づき *(soul awareness)* · ソウルパワー *(soul power)* · センター *(center)* · 感情 *(emotion)* · 思索 *(contemplation)* · 下意識 *(subconscious)* · 身体 *(body)*. *(Also 道教 = "Taoism".)*
-- **A 0–10 emanation list** (handwritten, Tree-of-Life glosses): "0. Nothing IS, Nothing Becomes, Nothing is Not / 1. I AM / 2. I speak the word / 3. I hear the word — Abyss (knowledge is relation) / 4. Father + mother concealed in generation / 5. whirling energy = Fortune / 6. The mirror of the Soul and the heart / 7. Beauty / 8. wavering, flowing / 9. stability / 10. The World."
+- **A 0–10 emanation list** (handwritten, Tree-of-Life glosses): "0. Nothing IS, Nothing Becomes, Nothing is Not / 1. I AM / 2. I speak the word / 3. I hear the word — Abyss (knowledge is relation) / 4. Father + mother concealed in generation / 5. **Whirling energy of nature** / 6. **The mirror of the Sun and the Heart** / 7. **Bearing** / 8. wavering, flowing / 9. stability / 10. The World."
 - **"How to Live Forever? ∞"** hopscotch ladder **Earth (1) → … → 9 → Heaven** (top, haloed figure), marked **"NChSh"** (Heb. *Nachash*, serpent).
 
 ## 13. The Hero's Journey (typed stage-labels) + "cycles of consciousness"
-**"Review cycles of human consciousness throughout history"** beside a Hero's-Journey wheel and Campbell stage-labels: **Ordinary World · Rabbit Hole · The Fool · Guardian at The Gate · Testing 1,2 · Belly of Whale · Rescue Father · Dragon · Water · Treasure · Ancestors · The Way Back · Master of Twin Worlds · New Cycle Begins.** Nearby red cell: **"To find truth we must plunge into its bottomless well"** *(↔ It's Your Time's heart-Well)*.
+**"Review cycles of human consciousness throughout history"** beside a Hero's-Journey wheel and Roy's adaptation/adjacent stage-labels: **Ordinary World · Rabbit Hole · The Fool · Guardian at The Gate · Testing 1,2 · The Pattern Man · Belly of Whale · Rescue Father · Dragon · Water · Treasure · Ancestors · The Way Back · Master of Twin Worlds · New Cycle Begins.** **"The Pattern Man"** is visibly placed between **Testing 1,2** and the **Belly of Whale** region; the board does not identify who or what that figure is. Nearby red cell: **"To find truth we must plunge into its bottomless well"** *(↔ It's Your Time's heart-Well)*.
 
 ## 14. Aphorism cells (typed verbatim — Roy's own statements)
 - **"What is Form?"** — "The interlocking of free-moving Force into patterns which then operate as a unity."
@@ -237,10 +257,11 @@ The full **Soul Is A Star** lyric is laid out in colored cells, **but written "S
 - **Walter Russell** cosmology suite (a major influence on the board): "THERE IS BUT ONE DYNAMIC FORCE" (Gravitation/Radiation, Simplicity↔Complexity); "THE LAW" (induction/conduction cones); "ANALYSIS OF THIS PLANET'S POTENTIAL POSITION…"; "THE OCTAVE NUMBERS"; "EVOLUTION OF MASS FROM PLANE TO SPHERE"; "THE SOLAR MYSTERY"; the octave-of-elements spiral (periodic table in octaves).
 - **Platonic Lambda / "World Soul"** — pyramid of numbers **1 · 2,3 · 4,6,9 · 8,12,18,27** labeled "Extended continuous geometric proportion" (Timaeus World-Soul series).
 - **Tree of Life / sephirot** sketches ("A Head of Adam," "Atom = Consciousness of an Atom, Degrees of Being alive"); **Jung psyche map** (Persona/Ego/Shadow/Anima/Self/Collective Unconscious) ×2; **Eye-of-Horus fractions** (½+¼+⅛… → 63/64); **Lo Shu magic square** (4 9 2 / 3 5 7 / 8 1 6); **"Rabbits in the key of F"** (Fibonacci dendrogram); knowledge→understanding→**wisdom** triangle ("Empty cup," "Ascension of consciousness," "VI (6)").
-- **Kabbalah veils:** "Ring Pass-Not / Ring Chaos (Ain Soph) / Ring Cosmos (Ain)"; handwritten "Strange Theory / 4 worlds / Genesis 1:26"; "ENSO — Tell Us Who You Are" (Zen circle = wholeness/mirror); Egyptian hieroglyph strip.
+- **Kabbalah veils:** "Ring Pass-Not / Ring Chaos (Ain Soph) / Ring Cosmos (Ain)"; handwritten "Strange Theory / 4 worlds / Genesis 1:26"; Egyptian hieroglyph strip.
+- **Selected Ensō card — "ENSO — Tell Us Who You Are":** the pasted card says the Zen circle is a symbol of **"wholeness and cyclic return,"** leading to **"enlightenment, the universe and the void"**; it can be **"a mirror of its painters"**, reflecting who they are and what they think or feel as they paint; its minimal form invites looking back at oneself and finding one's true self; it closes, **"Be honestly who you are, and draw your own circle."** This is printed source-card prose Roy selected and placed on the board, not prose attributed to Roy.
 - **"Statue of Roy"** — a museum placard photograph: *"Roy, a well-known high priest of Amun-Ra in Thebes … Ramesside period … cult of Hathor …"* ("Please do not touch"). *(The name **Roy** as an ancient Egyptian high-priest of Amun-Ra — biographical/name resonance.)*
-- Art/photos: Michelangelo's **Creation of Adam**; Blake's **Jacob's Ladder**; a 2001-style **monolith** in desert (Black Rock); ouroboros/alchemy emblem (Star of David, twin dragons; "Volatile/Fixum/Abyssus"); inverted **golden tree** (crown + triangle); **human brain-waves** chart (Gamma→Delta); **LHC**; **parts of an atom**; a **kangaroo** in a hoodie; airplane/festival/studio/family photos; a childhood home with **"3233"**; "**alice 211 song mirror**" voice-memo frame (Feb 28 2022).
-- Handwritten misc: "Logos (Ratio)"; "Element, Tortoise / Eagle, Atlas"; "Matter — 2 main electrical qualities: resistance / Conduction (without resistance — no reaction)"; "Computations of GOD / Theory of Existence / the existence of the Soul? / the essence of man: … microtubules"; acoustics formulas (speed of sound; tensioned-string fundamental); "I.H.S."; "VI – Love – Sacrifice"; "ROSE" (cross); "the Pearl of Great Price"; "Forbidden City"; "East Is Everywhere"; Japanese 出口はドアを通っている ("the exit passes through the door"); "Thought-Form: It is man that anthropomorphises his gods. Images formed in mind."; "Happy Birthday to YOU" (lightbulb); "1-2-ME" (Hanged-Man figure).
+- Art/photos: Michelangelo's **Creation of Adam**; ***The Ladder of Divine Ascent*** (Sinai icon after **John Climacus**: monks climb toward Christ while demons pull climbers from the ladder; previously misidentified in-vault as Blake's *Jacob's Ladder*); a 2001-style **monolith** in desert (Black Rock); ouroboros/alchemy emblem (Star of David, twin dragons; "Volatile/Fixum/Abyssus"); inverted **golden tree** (crown + triangle); **human brain-waves** chart (Gamma→Delta); **LHC**; **parts of an atom**; a **kangaroo** in a hoodie; airplane/festival/studio/family photos; a family house with **"3233"** *(childhood-home label retracted 2026-07-31 — the address exists only in Alabama `[P]`; a relative's house)*; "**alice 211 song mirror**" voice-memo frame (Feb 28 2022).
+- Handwritten misc: "Logos (Ratio)"; "**Elephant, Tortoise / Eagle, Atlas**"; "Matter — 2 main electrical qualities: resistance / Conduction (without resistance — no reaction)"; "Computations of GOD / Theory of Existence / the existence of the Soul? / the essence of man: … microtubules"; acoustics formulas (speed of sound; tensioned-string fundamental); "I.H.S."; "VI – Love – Sacrifice"; "ROSE" (cross); "the Pearl of Great Price"; "Forbidden City"; "East Is Everywhere"; Japanese 出口はドアを通っている ("the exit passes through the door"); "Thought-Form: It is man that anthropomorphises his gods. Images formed in mind."; "Happy Birthday to YOU" (lightbulb); "1-2-ME" (Vesalius-style skeleton + flayed muscle figure, suspended; a Hanged-Man resemblance is an analyst reading, not the descriptive identification).
 
 ---
 
@@ -272,9 +293,9 @@ The full **Soul Is A Star** lyric is laid out in colored cells, **but written "S
 ---
 
 ## Connections (pointers only — no interpretation here)
-**▶ Full analytical breakdown / decode:** [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]] — the board as the project's cosmological source-code (the 10-stage ascent, "One become Two," the Kybalion OS, the upload/vessel, the gematria layer, the image field, board↔HoM).
+**▶ Full analytical breakdown / decode:** [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]] — the board as the project's cosmological source-code (the 10-station source/descent and body/return structure, "One become Two," the Kybalion OS, the upload/vessel, the gematria layer, the image field, board↔HoM).
 - [[The Labors of Hercules]] — the **sun/money "Life Force"**, **"patterns of right living… mind of a race / Coding Consciousness"**, and the **10-stage virtue/vice scale** are Bailey-in-Roy's-hand. The whole board is steeped in **Bailey + Walter Russell + the Kybalion (Hermeticism) + Kabbalah (Tree of Life, Ain/Ain Soph, 4 worlds) + Jung (Shadow/Self) + Plato (Timaeus World-Soul)** — a candidate for a `CONCEPT-` page (see offer in-session).
-- [[Essays/Concepts/Songs/It's Your Time]] — **Noah's Ark "3 stories: Heaven, Man, Earth = 32"** and **"the way to Heaven lies through Hell"** ↔ "a man is like an in-between, animating Heaven and Hell"; the **Well** ("plunge into its bottomless well") ↔ the heart-Well.
+- [[Essays/Concepts/Songs/It's Your Time]] — the human-shaped **Noah's Ark** with **"3 stories: Heaven, Man, Earth / 32"** and its **"main door — where animals come in,"** plus **"the way to Heaven lies through Hell,"** ↔ "a man is like an in-between, animating Heaven and Hell"; the **Well** ("plunge into its bottomless well") ↔ the heart-Well.
 - [[Sir Lucius]] / [[Essays/Concepts/Jacob & Esau]] — the **Jung Persona/Shadow/Self map**, **"One become Two — A Darkness and a Light"**, **Left/Right-hemisphere polarity**, and the Kybalion **Polarity/Gender** principles are the cosmological substrate of the Roy/Lucius split and "two sides to every story."
 - [[33 (album)]] — board title **"I'm 33 this year,"** the **"32"** on the Ark, name-numerology, and the consciousness/immortality preoccupations sit behind *33*; **but the board's "Tracks" list is a distinct concept album** (Fall into Matter → Genesis → The All Is Mind → O), not *33*.
 - [[Sources/Lyrics/Soul Is A Star]] / [[Essays/Concepts/Songs/Online]] / [[Sources/Lyrics/I Like to Party]] — Soul Is A Star drafted here with the **"Sun" (vs released "Son")** pun + "We fall down as seeds"; "Let Them Eat Cake" ↔ I Like to Party's cake; "upload my consciousness / we come from space" ↔ Online.
@@ -282,6 +303,7 @@ The full **Soul Is A Star** lyric is laid out in colored cells, **but written "S
 - `CONCEPT-InheritedSubstrate` — Fibonacci/golden-ratio/continued fractions, EM spectrum, tone↔color, torus, gematria (Hebrew YHWH, Greek isopsephy, Lo Shu, Eye-of-Horus), Walter Russell octaves: received esoteric/scientific motifs.
 
 ## Maintenance / legibility log
+- 2026-07-31: **full 44-file / 43-distinct-frame re-read completed**, including the previously listed 21 unread overlapping frames and direct checks of open-room crops `4d378034`, `14a59d49`, `68c9b388`, and the social-find emanation page. Seven source repairs landed: animal/body inverse coordinates; **Nature / Sun and Heart / Bearing**; **The Pattern Man**; **Climacus's Ladder of Divine Ascent**; the selected Ensō card's substantive text and authorship guard; Noah's **"main door — where animals come in"**; and **Elephant**, not Element. These supersede the earlier OCR-derived readings below.
 - 2026-06-01: created from Chrome pass (regions 1–3, partial); **same day rewritten to `stable`** from Jen's 5 high-res screenshots covering the full board — typed cells now high-confidence (the two matrices, three 10-stage scales, sun/money/Intelligence-Evolution notes, Hebrew+Greek gematria, the 22-film "Pattern in Movies" list, Noah's-Ark 3-stories=32, "greatest song = HBD").
 - 2026-06-01 (later): **Part 2 appended** from Jen's hi-res screenshots of the lower board (rows ~548→end) — the "Tracks" concept-album list, the full Kybalion 7 Principles, the cosmogonic poem, Hero's Journey labels, Body-Part / Japanese / 0–10 stage encodings, the aphorism cells, Soul-Is-A-Star's "Sun" spelling, the Walter Russell suite, "Statue of Roy," ENSO, and the biographical/label note. Whole board now captured.
 - 2026-06-01 (later still): **DMs cleared & transcribed.** Jen confirmed nothing on the board is hers → whole artifact fully citable. Embedded DMs transcribed (senders withheld). Boundary refinement recorded in [[_System/Boundaries]].

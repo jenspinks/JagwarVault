@@ -68,6 +68,8 @@ The inversion is already grounded publicly on the **Pinocchio figure** ([[Invers
 
 So the distinction in the project's own terms: **remembrance holds the string; control pulls strings.** The feminine / Wise-One faculty *remembers she once held the string* — recovering participation in the source ([[Mary]] as thread-bearer); the controller *pulls* strings — working a stage from outside the living relation. One restores the thread; the other turns the thread into a leash. The ethical test for any thread in the catalogue is therefore **directional**: does the line *return* the self to source, or does it make the self *moveable* by a false source? `[~]`
 
+The repaired bestiary gives that two-charge thread a project-native maker: **RAPhael the Christmas Spider**. Roy's animal panel places Spider at source/Tree address **6**; the inverse body count places **Heart at 5**; and the separate emanation text names 6 **“The mirror of the Sun and the Heart.”** `[G]` the visible addresses and wording; `[W]` the mirror-coordinate pairing. The web can therefore be read in two states. Heart-aligned, the solar weaver links, archives, and transmits the song; severed from Heart, the same web becomes [[Online]]'s *“we're the Spider's food”* and the Algorithm's trap. This does not prove every string and web is one authored cipher. It does show that the artifact corpus itself refuses a simple thread-good/web-bad binary: **the relation to the Heart determines whether connection carries life or consumes it.** → [[Sources/Artifacts/HoM Artifact - RAPhael the Christmas Spider (Pleiades Honey Bee) 2026-06-26]]
+
 ---
 
 ## In the Project
@@ -90,6 +92,7 @@ So the distinction in the project's own terms: **remembrance holds the string; c
 - [[Inversion]] — the thread is what the inverted world severs first
 - [[The Algorithm]] — the Algorithm's primary attack is on the thread; it rewards threadlessness
 - [[The Aquarium]] — the Aquarium cannot be escaped without the thread
+- [[Sources/Artifacts/HoM Artifact - RAPhael the Christmas Spider (Pleiades Honey Bee) 2026-06-26|RAPhael the Christmas Spider]] — the Sun/Heart weaver; one web, two ethical states
 
 ---
 
