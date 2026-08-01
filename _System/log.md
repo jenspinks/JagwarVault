@@ -12,6 +12,12 @@ Action types:
 
 For schema, see [[CLAUDE]]. For content catalog, see [[index]].
 
+## [2026-08-01] ingest | Artifact-reread cluster-entry remainder completed (#17/#27/#41/#95/#98/#106/#121/#148)
+
+Completed the eight source-entry additions left queued in [[Session Fold Inbox]] row `20260731-6a15-1`, without replacing their existing object reads. The two gate entries now carry the key-chain's terminus in Roy's positive/negative "battery" gloss and retain the no-gendered-essences guard; KHAWAH, EDEN CUBE, and THE SERPENT MUST TAKE FLIGHT now name the distributed-Eden constellation and distinguish authored relations `[W]` from tradition drawers `[~]`; THE ANCIENT CHILD now carries the waking-child relation to SNOW WHITE and Ballerina Boy; 2014 SELF PORTRAIT now completes the counterfeit-light code triad while preserving the staging backlight objection; and WILLIAM RUDOLPH 1941 now repeats the #35/#148 byte-identity guard so the duplicate mint cannot be counted as a second visual witness.
+
+This entry supersedes only the eight-item "remaining cluster/one-line entries" clause in the historical queue; tranche 3 and the other U11/U12/U14/U15 and public-wing work remain open. `git diff --check` clean; `validate.mjs`: 250 pages · 156 ontology IDs · 0 errors · 32 pre-existing warnings.
+
 ## [2026-08-01] query | ★★ THE COSMOS ESTABLISHED — "is Lucius the moon?" settled, and it resolves by removing a discriminator rather than defending one
 
 **Jen: *"We need to establish the cosmos."*** The breakout dossier ([[Essays/_drafts/BREAKOUT - Is Lucius the moon (light, mirror, and the counterfeit sun) 2026-07-31]]) is worked and retired; the sky-register now has a home it never had: **[[Brain/Concepts/The Cosmos]]** (`CONCEPT-TheCosmos`, Ontology-registered). It holds the luminary **functions** only; the sefirot/planet **coordinates** stay single-homed at [[Kabbalah - The Tree of Life]], which gained a scope note so the triplicate cannot re-form.
