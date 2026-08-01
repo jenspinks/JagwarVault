@@ -58,6 +58,18 @@ This is not an open-ended anatomy/zodiac generator. The full body-part × animal
 - **The Angle/Bird/Map sketches (6)** — `Identified Angle` · `Aubrey's Angle (KAMARI)` · `Unidentified (KEM)` · `Bird † (LEFT HIP OF A DOVE)` · `Bird ∆ (TRIANGLE RESOLUTION)` · `Undefined Map (SUPERFICIAL CONCLUSIONS)`. ⚠ **Privacy flag:** these are *public* artifacts but do NOT auto-promote the `[P]` angle/angel method — inspect the actual sketch images before re-tiering ([[The Angels and the Angles]]).
 - **The SARAVI links (3)** — `Sa-link · Ra-link · Vi-link` (the loop above). Plus `Hammy VI`, `Grandma Vi's Cow`.
 
+## ★ The two numbering systems, reconciled (2026-08-01) — `[G]`, formula-verified
+
+The catalogue carries **gallery slots**; the site, Trello map and NFT tokens carry **room numbers**. They drift apart, which has caused repeated "migration error" flags. The drift is now **fully derivable**:
+
+> **gallery slot = room number − (count of omitted rooms below it)**, where the gallery index skips **rooms 3, 6, 12 and 75**.
+
+**Verified 7/7 exact** against every known pair — Dead Letter Diaries (room 15 = gallery 12), Devil in the Mirror (17 = 14), Grandma's Song (36 = 33), Song of the Ring (73 = 70), Wheels (121 = 117), The Serpent Must Take Flight (125 = 121), Grandfather's Plane (151 = 147). Four of those pairs come from **Jen's visual walk of the sealed-room index, 2026-08-01**, which is what made the rule derivable; the drift is +0 below room 3, then +3, then +4 above room 75.
+
+⚠ **Consequence — three flagged "errors" were never errors.** The audit's *"compressed-vs-extended migration errors (#42→#45, #99→#103, #75→#79)"* all satisfy this formula exactly. They are **correct conversions between the two indexes**, not mistakes. Do not "fix" them.
+
+**Practical rule:** when a number appears without its index named, convert before comparing, and state which index you mean. A room number and a gallery slot for the same artifact will differ by 0, 3 or 4.
+
 ## The key-relation classes (added 2026-07-31, fold report U1) — `[G]` pairings / `[W]` the reading
 How a room is keyed is itself authored structure (the code→artifact pairing is fixed), so every artifact carries a **key-relation** as an interpretive field. Six classes: **self-keyed** (name = code: I'M NOT HERE, TREE THINKING, DEAD LETTER DIARIES, FATHER_MIRROR/MOTHER_MIRROR, FLAMING SWORD, HOUSE OF SPELLS, the SPACE NOW audio — identity without displacement; the parents are their own key); **mutually-keyed pairs** (each holds the other's name: THE TRUTH IS A SPHERE ↔ ENLIGHTENED BEING, GREY ↔ A#, the mirror mechanic built into answer-space); **chain-keyed** (the SARAVI loop, the True-Voice 3-cycle, the Flood series, the gate chain, Ros-Tau); **coordinate-keyed** (the animal/body inverse addresses summing to 11); **cipher-keyed** (Option-glyphs, the numeric index codes); **concept-keyed** (the code is another concept's name: THE PATTERN, ENSO, THE LIGHTNING FLASH, MARDUK, SNOW WHITE, HEIMDALL, CHAIN REACTION, IN MY FATHERS SHOES — the rooms where Roy names the frame himself, the highest-value interpretive targets). DEVIL IN THE MIRROR, keyed by its own reversal, is the class-system's emblem: identity reached through inversion.
 

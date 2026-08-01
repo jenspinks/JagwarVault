@@ -149,7 +149,7 @@ Method as specified: open each image directly, transcribe **visible marks only**
 | `e338a9c6` | jpg | unread (~1 MB) | unread |
 | `e87d384a` | jpg | unread | unread |
 | `f112c376` | jpg | unread | unread |
-| `e163466b` | **mp3** | AUDIO artifact — code likely a sung/spoken phrase, not OCR-able | audio (defer) |
+| `e163466b` | **mp3** | ✅ **TRANSCRIBED 2026-08-01** — a male voice paraphrases the water-descent passage from **Hannah Hurnard, *Hinds' Feet on High Places* (1955)**, then sings a quatrain **recombined** from her "Water Song," then says *"melody just came to me… I didn't have to work at it."* → [[Sources/Artifacts/Audio Files/Transcripts/e163466b - the Water Song (uncracked room)]]. ⚠ machine-only, speaker unconfirmed. | **still open** — 2,291 phrase-candidates from the recitation tested against the leaf, no hit; re-test after the ear check (one corrected word changes every hash) |
 | `7d7a9392` | — | **no GCS media** (mint-type room) | no-media (needs external code) |
 
 ## Next-pass protocol (the manuscript work)
@@ -157,7 +157,7 @@ Method as specified: open each image directly, transcribe **visible marks only**
 2. **Read the ~23 unread images** (above) first-pass, then deep-pass the text-bearing ones.
 3. **Exactness variants** on every candidate: apostrophe (straight/curly/none), punctuation kept/stripped, case (no-op for hash but track), homophone, numeral↔word, separators. *(`father's`≠`fathers`, `genes`≠`jeans` — exactness is the game.)*
 4. **Per-artifact verify every hit** before minting: `meta.jagwartwin.com/artifacts/{id}` / OpenSea — a hit on an already-minted artwork is a dup, not a find (the `in my father's shoes` lesson).
-5. Audio `e163466b` + no-media `7d7a9392` are **not** OCR targets — defer to audio-transcription / external clue.
+5. Audio `e163466b` + no-media `7d7a9392` are **not** OCR targets — defer to audio-transcription / external clue. ✅ **`e163466b` transcribed 2026-08-01** and the predicted "sung/spoken phrase" codes were generated and tested (2,291 strings, no hit — script `Sources/Artifacts/Data/crack_e163466b.py`). The obvious space is now **bounded, not exhausted**: the strongest untested candidates hang on the one word the machines could not reach (line 3 — *urge* / *earth* / *hill* / *moon*), so **this is a re-run target the moment Jen's ear lands**, plus phrases from elsewhere in Hurnard's book.
 
 ## Connections
 - [[_System/HoM - Finds Ledger (all cracks + status)]] — `A secret order everywhere` logged there (#16 frontier).

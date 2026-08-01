@@ -4,41 +4,45 @@ type: concept
 status: draft
 confidence: medium
 source_quality: interpretive-synthesis
-sources: ["Sources/Artifacts/Board - The Ascent Ladder.md", "Brain/Roy Voice/Roy on Mirrors & Collective Consciousness.md", "Brain/Concepts/Kabbalah - The Tree of Life.md", "Brain/Characters/Sir Lucius.md", "Essays/_drafts/fold-inbox/2026-07-27 The counterfeit sun behind Lucius - census findings (session cb88ebe2).md"]
+sources: ["Sources/Artifacts/Audio Files/Transcripts/The Song of the Sun & the Moon (33 Demo).md", "Sources/Artifacts/JT - The Song of the Sun & the Moon (33 Demo, Sound.xyz NFT) 2026-06-26.md", "Sources/Transcripts/Roy TikTok - Sleeping Beauty decode (2025-01).md", "Sources/Lyrics/Another Way II Heaven.md", "Sources/Lyrics/Moths to the Flame.md", "Sources/Artifacts/HoM Room 51 - Sir Rabbit (poem).md", "Brain/Roy Voice/Roy on Mirrors & Collective Consciousness.md"]
 related: [CONCEPT-SourceVsReflection, CONCEPT-TheMirror, CONCEPT-TreeOfLife, CONCEPT-TheLightBearer, CHAR-SirLucius]
 connections:
-  grounded:    [CHAR-Roy, CHAR-SirLucius, SONG-SOL, SONG-WelcomeToTheCircus]
-  strong_read: [CONCEPT-SourceVsReflection, CONCEPT-TheMirror, CONCEPT-TheLightBearer, CONCEPT-TheEmptyMirror]
+  grounded:    [CHAR-Roy, CHAR-SirLucius, SONG-SOL, SONG-AnotherWayIIHeaven, SONG-MothsToTheFlame]
+  strong_read: [CONCEPT-SourceVsReflection, CONCEPT-TheMirror, CONCEPT-TheLightBearer, CONCEPT-TheEmptyMirror, CHAR-Mary]
   resonance:   [CONCEPT-TreeOfLife, CONCEPT-TheMoon, CONCEPT-Yesod]
 referenced_by: []
 review_date: 2027-02-01
 ---
 # The Cosmos
 
-Type: Concept / **Register (the sky)**. The single home of the project's **luminary grammar**: what the Sun, the Moon, the star, and the flashing light *do*, and where each figure stands in relation to a light.
+Type: Concept / **Register (the sky)**. What the Sun, the Moon, and the manufactured luminary *do*, and how the figures stand in relation to them.
 
-> **Established 2026-08-01** to settle the standing question *"is Lucius the moon?"* and the strain Jen flagged on 2026-07-31, that the board's rung 6 (*"The mirror of the Sun and the Heart"*) makes the **heart** a reflector and so appears to dissolve the thing that distinguished Lucius. Dossier: [[Essays/_drafts/BREAKOUT - Is Lucius the moon (light, mirror, and the counterfeit sun) 2026-07-31]]. The strain is real, and it resolves into a sharpening: the answer is that **reflection was never the diagnostic.**
+> **Established 2026-08-01** to settle *"is Lucius the moon?"*, then **substantially rebuilt the same day on Jen's ruling `[P]`**, which corrected the first version on four counts: it over-allocated the Moon to Roy, it made "steady light" the Moon's essence, it read orientation as literal geometry, and it left the Sun outside the cycle. Dossier: [[Essays/_drafts/BREAKOUT - Is Lucius the moon (light, mirror, and the counterfeit sun) 2026-07-31]]. **The first version's built-sky finding survives; its one-character-one-body chart does not.**
 
 ## What this page is, and is not
-- **It holds the sky**: bodies, light, and the direction a body faces. It does **not** restate the sefirot/planet map, which is single-homed at [[Kabbalah - The Tree of Life]] (this page links, never duplicates: that triplicate drifted twice already).
-- **It is not the mirror pages.** [[Brain/Concepts/The Mirror]] is the *device* (self becomes visible as other); [[Brain/Concepts/Source vs Reflection]] is the *ethical test* (does a reflection return you to the source); [[Brain/Concepts/The Empty Mirror]] is the *failure/redemption state*; [[Brain/Concepts/The Flip and the Distorting Mirror]] is the *operation*. This page is the **sky those pages keep gesturing at**, which until now lived only as scattered prose.
-- **Register discipline is the whole point.** Nothing here says a figure *is* a celestial body. Sun, moon, and star are **positions and behaviors relative to a light**, which is the functional language CLAUDE.md's primary-failure-mode guard requires.
+- **It holds the sky as a set of functions.** It does **not** restate the sefirot/planet map, single-homed at [[Kabbalah - The Tree of Life]].
+- **It is not the mirror pages.** [[Brain/Concepts/The Mirror]] is the *device*; [[Brain/Concepts/Source vs Reflection]] is the *ethical test*; [[Brain/Concepts/The Empty Mirror]] is the *failure/redemption state*; [[Brain/Concepts/The Flip and the Distorting Mirror]] is the *operation*.
+- ⚠ **No one-character-one-body chart.** The work moves its symbols between character, place, psychological function, and cosmological process, sometimes inside a single song. **Confidence in any exact figure↔body allocation is LOW `[P]`** (Jen, 2026-08-01), and this page is written to hold functions rather than seats. Where it names a figure, it names the function that figure most clearly *performs*, never an identity.
 
 ---
 
-## 1. There is one source `[G]` text / `[W]` reading
+## 1. The Sun is inside, and it is in the cycle `[G]` anchors / `[W]` reading
 
-**The Sun is the source-light.** Roy's own board prints it, at rung 6 of the 0-10 emanation list: ***"The mirror of the Sun and the Heart"*** `[G]` ([[Sources/Artifacts/Board - The Ascent Ladder]]; transcription corrected and propagated 2026-07-31, [[Claim Ledger]]). Its song is [[SOL]] (*sol* = sun in Spanish; the wordless Song of Love), the one signal the Lucius-system can suppress but cannot absorb.
+The first version of this page treated the Sun as a static external source that reflectors face. Three grounded anchors say otherwise.
 
-On the Tree the Sun is **Tiferet**, and **nobody occupies it.** Not because Roy falls short of the centre but because it belongs to no one in particular: *"he kind of is Christ, in the sense that we all are"* (Jen `[P]`, 2026-07-28), on Roy's own doctrine that *"within us is the way, the truth, and the life"* `[G]`. A shared centre cannot be a character's seat. Full statement and guard: [[Kabbalah - The Tree of Life]] §Tiferet stays unoccupied.
+**It is born from the reunion of the split.** *Another Way II Heaven*: ***"When we crashed and came together / A Sun was born inside"*** `[G]`. The Sun is **emergent**, and what it emerges from is Darkness and Light coming together. That has a hard consequence for the antagonist: **Lucius is not material to be discarded before integration.** His intelligence, perception and protective capacity are half of what crashes together. The inner Sun is born when mind is restored to heart, not when mind is destroyed, which is the same doctrine as *"my mind must serve my heart"* and the same refusal-of-conquest as [[Sir Lucius]] §"integration = dis-identify, not defeat."
 
-**So the sky has exactly one light in it, and no one is standing in it.**
+**It dies and returns.** *The Song of the Sun & the Moon*: ***"With every new day, there's a story / In every setting sun, a new life is begun"*** `[G]`. And Roy's own writing note for that song, verbatim: ***"It reminds me that every night I die, and every morning I am reborn."*** `[G]` The Sun is not an invulnerable source standing outside the cycle. It participates in withdrawal and return, and Roy applies that to himself in the first person.
+
+**It is the subconscious feminine, in everyone.** Roy's *Sleeping Beauty* decode (public TikTok, 2025-01-06, `[G]` citable): ***"Aurora is the Sun"***, read as ***"the subconscious feminine energy, or feminine mind, that exists within each of us"***, with Prince Philip as ***"the conscious mind"***, and the story's resolution being ***"the masculine, the conscious mind, pairing with the subconscious feminine to awaken and change the kingdom."*** This forbids a simplistic masculine-Sun / feminine-Moon allocation, and it makes awakening a **pairing**, not a victory.
+
+> **★ So "Tiferet is unoccupied" must mean SHARED, not ABSENT.** The guard is doing real work only when it stops a character from **arrogating** the centre. It must not be read as excluding anyone from it. Roy participates in the Sun exactly as everyone does (*"he kind of is Christ, in the sense that we all are"*, Jen `[P]` 2026-07-28); Lucius participates **after reintegration**; Mary can carry its subconscious-feminine form; and [[Jagwar Twin]] names the container in which those relations become one. See [[Kabbalah - The Tree of Life]] §Tiferet stays unoccupied, which should be read through this section.
 
 ---
 
-## 2. Everything else is a mirror `[G]`
+## 2. Everything mediates, and mediation is not deficiency `[G]`
 
-This is not an inference. It is Roy's own doctrine, stated continuously in his own voice from 2018 to 2026. [[Roy on Mirrors & Collective Consciousness]] counts **five** explicit mirror-statements (2018 / 2020 / ~2023 / ~2024 / 2026) and holds many more instances; a representative spread:
+Roy's own doctrine, continuous 2018→2026. [[Roy on Mirrors & Collective Consciousness]] counts **five** explicit mirror-statements (2018 / 2020 / ~2023 / ~2024 / 2026); a representative spread:
 
 - **2018** *"We're all really mirrors to each other if we look"* (Atwood)
 - **2020** ***"I just want to be a mirror"*** and *"a song is a mirror"* (American Songwriter)
@@ -46,133 +50,188 @@ This is not an inference. It is Roy's own doctrine, stated continuously in his o
 - **~2023-24** *"we're reflections, everyone's a reflection of each other"* (Mirror Sessions)
 - **2026** *"everything is what is inside of you reflected back out"* (IG Live)
 
-And the board puts the **heart** itself in the same position: rung 6 does not call the heart the sun, it calls it ***the mirror of*** the sun, the place where source-light lands.
+And the board's rung 6 puts the **heart** in the same position: not the sun, ***"The mirror of the Sun and the Heart"*** `[G]`, the place where source-light lands.
 
-> **Therefore: reflecting is not a diagnostic property. It is the universal condition of everything in this cosmos that is not the Sun.** Roy reflects. Mary reflects. The heart reflects. A song reflects. The audience reflects. Lucius reflects. Being a mirror is not the accusation, it is **the vocation Roy claims for himself.**
-
-### ⚠ The shorthand this retires
-The vault has often compressed the map to *"Roy = source, Lucius = reflection."* That compression is **retired here.** It was never what the pages actually said, and [[Brain/Concepts/Source vs Reflection]] warns against it in its own second paragraph (*"the binary is not source good / reflection bad"*), but the shorthand survived because nothing in the sky-register was ever written down in one place. This page is that place.
+> **Therefore reflection is not a diagnostic property.** Being a mirror is the vocation Roy claims for himself. The shorthand *"Roy = source, Lucius = reflection"* is **retired** ([[Claim Ledger]]); [[Brain/Concepts/Source vs Reflection]] always warned against it, and the shorthand survived only because the sky-register was unhomed.
 
 ### ⚠ Correction: *"I'm just a mirror"* is **Roy's** line, not Lucius's `[G]`
-The dossier that prompted this page lists *"I'm just a mirror"* as **"Lucius's own line,"** and treats it as evidence that the reflector-claim is Lucius's self-description. **It is not his line.** *"im just a mirror tho ❤️"* is **Roy**, permalink-verified above, tagged to him in the ingested Discord archive, with his heart emoji on it. The misattribution appears to have entered through [[Brain/Concepts/The Digital Double]] §comparison table, which prints Roy's 2024 line in the **Sir Lucius column**, and through an unattributed *cf. "im just a mirror"* on [[Brain/Characters/Sir Lucius]] §Iconography. Both are corrected as of 2026-08-01. *Falsifier: a permalinked Lucius-signed post or theatrical line in which the figure calls himself a mirror. None is on file.*
-
-This correction is load-bearing, not cosmetic: it removes the last piece of evidence for "the reflector-claim is Lucius's," which was the strain's hinge.
+***"im just a mirror tho ❤️"*** is **Roy**, permalink above, speaker-tagged in the ingested archive. **No Lucius-signed or theatrical mirror-claim is on file.** The error entered through [[Brain/Concepts/The Digital Double]]'s comparison table (Roy's line printed in the Sir Lucius column) and a dangling `cf.` on [[Brain/Characters/Sir Lucius]]; it reached two live published pages, one asserting it as fact. All repaired 2026-08-01, both vaults. *Falsifier: a permalinked Lucius-signed post or theatrical line in which the figure calls himself a mirror.*
 
 ---
 
-## 3. What actually separates the mirrors `[W]`
+## 3. ★ The Sun and the Moon are co-singers `[G]` grammar / `[W]` reading
 
-If everything reflects, the map needs discriminators that are not *"reflects."* Three hold, in ascending reliability:
+This is the section that reorganises the page, and it comes from the song that names both bodies in its title.
 
-### (a) CLAIM: does the reflection admit it is one?
-This is the vault's existing three-step ([[Brain/Concepts/Source vs Reflection]] §the third step): **transmission** (reflection that stays servant to its source) → **distortion** (reflection that forgets it is reflection) → **usurpation** (reflection that sets up as a rival origin). Lucius sits at the far end, and [[Brain/Concepts/The Mirror]] states the rule: *"a mirror is faithful while it knows it is a mirror."*
+**The grammar is decisive.** The singer never says "I am the Moon" or "I am the Sun." The narrator tells the child:
 
-**★ But this test cannot be applied by listening to him, and that is the trap.** Roy's own definition of the figure is *"only tells the truth, but the truth can be deceiving"* `[G]`. A Lucius who said *"I'm just a mirror"* would be saying something **literally true**, and the truth would do the deceiving: the disclaimer would license everything that followed. The claim-test is real, but it is a test of the **structure**, never of the **statement**. This is exactly why the misattribution in §2 mattered, and why the two behavioral tests below outrank it.
+> *"Listen to the song of the sun and the moon / **They** always sing **their** song for you / Even when the stars in the sky are out of view / **They** always sing **their** song for you"* `[G]` (ear-verified transcript, Jen 2026-07-30/31)
 
-### (b) SELF-EFFACEMENT: does the mirror get out of the way?
-Roy states the method, unprompted, four times across four different Mirror Sessions conversations `[G]`:
-> *"one thing that I'm good at, is just sort of **getting out of the way** and having someone else see themselves"*
-> *"part of what I'm supposed to do while I'm here… is **be a mirror for other people** to see themselves more"*
+**Three separate positions:** the first-person witness who speaks, the child who is addressed, and the two celestial bodies referred to as **they**. Nobody in this song *is* a luminary.
 
-The same thing exists as an object: the **Empty Mirror**'s kenotic pole, *"a clean glass adds nothing of its own, so what passes through is undistorted"* ([[Brain/Concepts/The Empty Mirror]]). A mirror transmits **in proportion to how absent it is.** Roy's ego-emptying cluster ("ME" crossed out, *"I have become nothing,"* *"I'm no thing,"* *"just a vessel for God"*) is not modesty, it is **operating procedure for a reflector.**
+**Roy's own frame supplies what they are.** From his verbatim writing note `[G]`: he wrote it alone in the woods in Ithaca watching the sun set, his nephew newly born, thinking about *"the lullabies my parents would sing me as a child. My mom would sing Joni Mitchell or John Denver, and my dad would make up his own little songs. Their songs are so ingrained in me… In some way, I wrote The Song of The Sun & The Moon as **a lullaby to myself, from myself**."*
 
-Lucius is the mirror that **will not get out of the way.** You look into him and you see *him*: the face-paint, the speech, the billing, the boast. Structurally this is why he can hold the guide-seat and still fail, and it is the same mechanism as *arriving too early with true answers* ([[Brain/Characters/Sir Lucius]] §Origin): a mirror that inserts itself between you and what you came to see.
+So the voice and the child are **both Roy**, and the Sun and Moon function as an **internalized, inherited parental pair** whose care the adult self can revoice. The song does not give Roy a celestial identity. It places him inside a **lineage of received, internalized and retransmitted care**, which is the [[Sources/Artifacts/Roy - I'm 33 Board (Image Gallery)|lullaby transmission chain]] stated from the inside.
 
-### (c) ORIENTATION: which way does the mirror face?
-The strongest test, because it is pure geometry and cannot be spoken.
+### What this changes about the two bodies `[W]`
+They are **not** source and deficient copy, sovereign and aspirant, or truth and dangerous reflection. They are **co-singers**, and their shared song survives the stars going out of view. The Sun is in the cycle (§1); the Moon accompanies that death-and-return rhythm. **The Moon does not need to replace or become the Sun.**
 
-- **A mirror facing its source transmits it.** Roy's lunar *position* (Malkhut + Yesod, `[~]/[P]`, subordinate to his Netzach/Venus seat) is exactly that: the vessel that has *"nothing of her own, receives entirely from Tiferet."* His whole arc, *"the moon trying to become a sun,"* is the arc of a body that is **turned toward the light.**
-- **A mirror with its back to the source cannot transmit it.** It can only be *lit*. And that is the staging the corpus builds for Lucius, twice, independently (§5).
-
----
-
-## 4. The bodies
-
-| Body | Function in this cosmos | Where it sits | Tier |
-|---|---|---|---|
-| **The Sun** | the one source-light; the light no reflector can absorb | Tiferet; [[SOL]]; board rung 6; **unoccupied by any figure** | `[G]` text · `[W]` reading |
-| **The Moon** | **steady** reflected light, faithful because it *faces* the source; navigable, you can steer by it | the lunar *position* is **Roy's** (Malkhut + Yesod); the moon's *theology* is **Mary's** (Shekhinah, exile→return) | `[~]/[P]` framework |
-| **The morning star** | the herald that rises just before dawn and is mistaken for it | a **name-field resonance on *Lucifer*, never a seat.** Venus/Netzach is Roy's by Roy's own word | `[~]` buried footnote |
-| **The flashing light** | **intermittent** light that disorients rather than guides; fragments attention, hides the exit | Lucius's actual luminary: *"flashing lights, there's no exit sign in my maze"* `[G]` ([[Brain/Songs/Welcome to the Circus]]) | `[G]` lyric · `[W]` reading |
-| **The built sky** | manufactured luminaries: paper sun, paper crescent moon, cotton clouds, star balloon | the set Lucius stands in (§5); Yesod as the Treasure House of Images, his *operating theater* | `[W]` |
-
-**★ The moon and the flashing light are the same physics with the frequency changed.** Both are borrowed light. The moon is borrowed light held **steady enough to navigate by**; the strobe is borrowed light **broken up until it prevents navigation.** That distinction is already the founding sentence of [[The Light-Bearer]] (*"steady light illuminates. You can navigate by it. Flashing lights disorient"*); this page just notes that it is the **same axis as the lunar one**, not a separate image. It is also why [[The Thread]] exists: in a strobe you navigate by touch, not by sight.
-
----
-
-## 5. Lucius does not have a place in the sky. He has a **set** of one. `[W]`
-
-Two independent works build a **sun** and put it **at his back**:
-- the *lucius lullaby* visualizer: *"a large glowing **orange paper lantern / paper sun** suspended high,"* with Jen's own frame verification, ***"it hangs to his left but BEHIND him, and is not what he looks at"*** (and what he *does* look at is never shown in frame);
-- the *weirdness* visualizer: *"a weird **sun-like object behind him**."*
-
-The same corpus renders the rest of his sky as props: **paper crescent moon, cotton clouds, gold star balloon** on the *Bad Feeling* (LL) lullaby set. **Every celestial body near Lucius is a manufactured one.** ([[Essays/_drafts/fold-inbox/2026-07-27 The counterfeit sun behind Lucius - census findings (session cb88ebe2)]] §2.)
-
-**Second channel, no staging involved.** Three authored HoM codes carry the same doctrine ([[Essays/_drafts/fold-inbox/2026-07-31 Artifact reread synthesis - fold report (session 6a1501e1)]] §F7):
-- `PREVIOUS FACE` → **I AM THE INTERNET**
-- `GENESIS UNDERGROUND` → **DON'T BE FOOLED BY THE INTERNET**
-- `2014 SELF PORTRAIT` → **DON'T BE A BLACK HOLE**
-
-The first pair is the two-voice structure in answer-space: the claim, and the warning against the claim, both authored. The **black hole** is light-that-consumes, the exact counterfeit of a radiating sun, and it is pinned to a **self-portrait**, so the warning is self-directed and stays inside the [[Consumption]] register. Same doctrine the staging performs: *false light claims the position of source; do not orient by it.*
-
-### The reading `[W]`
-Lucius's relation to the cosmos is not **occupancy**, it is **construction**. He is not a body in the sky; he stands inside a sky that was **built**, holding a candle, with a paper sun behind his head that he never turns to look at. That is the [[The Light-Bearer|light-bearer]] doctrine (carried light, not sourced light) rendered as set dressing, and it is the precise thing a figure whose theater is **Yesod, the image-realm**, would be standing in. The [[Brain/Concepts/The Circus|Circus]] is a built world; a built world needs a built sky.
-
-### ⚠ The standing objection, **bounded** (not dismissed)
-**Backlight and rim-light are standard filmmaking practice**, and this remains the strongest counter. It is now bounded rather than open:
-- It **fully explains** why *a light* would be positioned behind a subject. Against the narrow claim *"the sun is placed where he cannot use it,"* the objection **still stands**: that specific placement may be a lighting-rig decision, and this page does not treat it as settled.
-- It **does not explain** why the light was **built as a sun**, in paper, twice, in two separate works; nor why a **crescent moon, clouds, and a star** were built alongside it. A rim-light is a lamp. Nobody builds a paper sun to rim-light someone, and the cheap option is no sun at all. **The prop-sky claim does not depend on placement**, so the objection does not reach it.
-
-**Falsifiers.** For the prop-sky reading: a documented Lucius setting whose luminaries are real (daylight, practical sun, actual night sky) and are not being treated as set dressing. For the placement reading: evidence that the lantern's position was a lighting decision, or a Lucius visual where a real light source is in front of him and functions as his light. ⚠ Do **not** use any of this to resurrect the dead absence-claim (*"Lucius has never been shown in the sun"*), which the base rate defeated at row `20260727-cb88-5`: the whole catalogue is dark.
-
----
-
-## 6. So: is Lucius the moon?
-
-**No.** And now for a better reason than "the seat is taken."
-
-The seat argument is true and stays true: the lunar position is **Roy's** (Malkhut + Yesod, the only figure on both), Mary holds the moon's theology, and Lucius's seat is **Hod / Mercury** with Yesod as his *theater*, not his home ([[Kabbalah - The Tree of Life]]). But that argument was always vulnerable to the charge that the map can be redrawn to fit.
-
-The functional answer does not depend on the map:
-
-> **The moon faces the sun.** That is what a moon *is*: a body with no light of its own that turns toward the source and passes the light on into the dark, steadily enough that you can steer by it. Roy's arc, *"the moon trying to become a sun,"* is the story of a body oriented toward the light.
+> ### ★ Retire the global phrase *"the moon trying to become a sun"*
+> It stays valid **inside the diminished-Moon / Shekhinah Kabbalistic frame** (Chullin 60b → Isaiah 30:26 → Cordovero's *atarah*), clearly labeled as that framework and nowhere else. As a **project-wide image it is too strong**, because the one song that actually names both bodies gives a better one:
 >
-> **Lucius stands with the light behind him, and does not turn around.** His light is intermittent, not steady; borrowed, not sourced; built, not received; and the one luminary in his frame is a prop outside his field of view. **He is not the moon. He is the mirror that will not face the source and will not get out of the way**, standing in a sky he had made.
+> **the Moon learning, or remembering, how to sing with the Sun.**
+>
+> **Restoration is relationship, not promotion.** This also removes the last structural reason the phrase kept getting handed back and forth between Roy and Lucius: it was never the right global frame for either.
 
-`[W]`, on two independent channels (staging × the code cluster) plus Roy's `[G]` mirror doctrine and the `[G]` flashing-lights lyric. The register stays functional throughout: **not identity, not a seat, a relation to a light.**
+⚠ **Do not retro-declare this song to be [[SOL]].** The ear comparison de-centered that identity (no obvious shared musical structure); it changes the cosmic vocabulary while remaining part of the **Move To You / Sun & Moon / SOL three-song tangle**, not the literal demo.
+
+---
+
+## 4. The discriminators `[W]`
+
+Reflection separates nobody (§2), and the first version's **steady-versus-flashing** axis does not survive:
+
+⚠ **Roy's own aphorism: *"The moon is a flashing woman"*** (@JagwarTwin, 2023-01-29, verbatim public capture `[G]`; the ingest file is a curation-draft, the text is verified). Whatever "flashing" means there (phases, intermittent apparition, feminine revelation), it forbids making **steadiness** the Moon's essence. The song reinforces it: guidance continues ***"even when the stars in the sky are out of view."*** The living Moon waxes, wanes, disappears and returns. **What makes it true is not steadiness but fidelity of relation.**
+
+So the axis is not brightness or constancy. It is three paired questions:
+
+| | **Living** | **Captured** |
+|---|---|---|
+| **Orientation** | oriented *by* a real sky; the relation holds even when the body is out of view | orientation hijacked by a **near, artificial** source that occupies the sky's position |
+| **Movement** | **release and return**: distance is permitted, homecoming is promised | **orbit**: you cannot leave, and you never arrive |
+| **Sky** | a living sky, which withdraws and comes back | a **manufactured local source**, a built sky |
+
+★ **"Orientation" here is a relation, not a literal head-angle.** The first version read it as geometry (which way a face points), which over-fit a single frame. The load-bearing sense is **what a body takes its bearings from**, and §7 supplies the mechanism.
+
+---
+
+## 5. The bodies and the figures
+
+| Figure or body | Function, not identity | Tier |
+|---|---|---|
+| **The Sun** | the shared, integrated centre: Love, heart, rebirth, consciousness made whole. **Born inside**, from the reunion of the split; in the cycle, not above it; the subconscious feminine in everyone. Not exclusively occupied by anyone | `[G]` anchors · `[W]` reading |
+| **The living Moon** | the Sun's **companion in darkness**: memory, inward gestation, reflection, continuity, witnessing, return. **It does not need to become the Sun** | `[W]` |
+| **Roy** | heart · Netzach/Venus `[G via relay]`. The child, the singer, the self-witness, the vessel. **Performs a lunar function** (mirror-mission, ego-emptying, memory, carrying his parents' song to the next generation) but is **not "the Moon" as a character identity** | `[G]` seat · `[W]` lunar mode |
+| **Mary** | the healthy witnessing and blessing presence; the **closest personification of the living Moon**, carrying its *theology* and *personhood*. Also participates in the **feminine Sun** (Aurora) when the story calls for awakening rather than preservation | `[W]`/`[~]` |
+| **Sir Lucius** | intellect · Hod/Mercury `[G via relay]`. **Not the Moon**, but the operator of the **machine-Moon**: false luminary, built sky, captured orientation (§6, §7) | `[G]` seat · `[W]` function |
+| **Yesod / the garage** | the shared image, dream, mirror and performance **field** in which both twins appear. **Not anyone's exclusive lunar body** (§8) | `[W]` |
+| **[[Jagwar Twin]]** | the container, the union through which the inner Sun is born: **mind restored to heart**, not mind destroyed | `[W]` |
+
+### ⚠ Why Roy no longer owns the Moon `[P]` Jen, 2026-08-01
+His strongest placement is the one he actually conveyed: **heart, dove, Netzach, Venus**, and even that was given **permissively**. The relayed fundamentals say ***"Can link Netzach / Venus"*** and ***"Can link Hod / Mercury"***, not "is." That is a pointer, not a seating chart, and the source note warns against overstating it.
+
+*"Roy = the Moon"* was produced later, by combining two traditions and observing that the vault's Roy-mapping touched **both** Malkhut and Yesod, the two sefirot sometimes called lunar. Elegant, but **not a statement Roy made**, and **circular in places**: Roy is assigned Malkhut and Yesod, those are called lunar, and his presence on both is then used to prove he uniquely owns the Moon. The [[Brain/Characters/Roy|Roy page]] already flags the precision itself as a possible sign of system-fitting, and [[Kabbalah - The Tree of Life]] §lateral twins says something structurally better: **Yesod is the shared contested axis both twins pour into, not anyone's home.**
+
+**The correction is not "Roy has nothing to do with the Moon."** It is that he does not exclusively own it. **His centre of gravity stays the heart.**
+
+---
+
+## 6. Lucius and the machine-Moon `[W]`
+
+**The lunar evidence around him is real, and larger than the vault has allowed.** Four items, all grounded:
+- Roy, on a fan's Lucius poem: *"Especially intuitive that tonight is a **full moon for Lucius** and his voice sounds like the wind"* ([Discord, 2023-09-29](https://discord.com/channels/705391219915882516/709750776284708955/1157215194871767052)) `[G]`
+- *Bad Feeling (Oompa Loompa)*: ***"When the moon hits the sky, I'm a little unwell"*** `[G]` (verified lyric; Roy also captioned a TikTok with the line)
+- The *Interview* garage, staged with ***"moon-like set light over each shoulder"*** `[G]`
+- The 2026-04-20 caption *"Everything is created twice, first in the mind, then in form. So too **the moon waxes inwardly before it shines**"*, posted on a **`#badfeeling`** Short, not in an exclusively Roy-centred context `[G]` text / `[W]` routing (the Caption Codex assigned it to Roy's lunar arc; that assignment rests on the framework, not the post)
+
+**But every one of them puts the Moon *around, for, or acting upon* him.** *"When the moon hits the sky, I'm unwell"* makes it an **external trigger**. *"A full moon for Lucius"* gives him an **atmosphere**, not an identity. The inward-waxing caption describes **creation as mind-first-then-form**, which is highly compatible with a figure who externalizes mental images into a built sky, and still does not say he is the Moon.
+
+**The object-level evidence is the machine-Moon, and it has two independent channels:**
+1. The [[Sources/Artifacts/HoM Room 51 - Sir Rabbit (poem)|Sir Rabbit poem]]: the moon is *violet in the sky*, beautiful, and on arrival ***"They came upon The Violet Moon but it was a machine / With whirling gears and funny ears that always kept it clean"*** `[G]`. **Charm, then reveal:** beauty concealing apparatus.
+2. Roy's own board, animal row 9 / Cat: ***"The Moon Machine was keeping time"*** · ***"The Moon was a machine, eclipsed"*** `[G]`.
+
+This **predates the fully named Lucius system** and supplies the distinction the later work develops: there is a **living Moon**, and there is **Moon-as-apparatus**. Note that in both sources the false Moon is first a **place or mechanism**, not a villain wearing a lunar name.
+
+> **So: is Lucius the false Moon? Functionally yes, literally no.** He is what happens when the **lunar faculty** (reflection, imagination, protection, mediation, dreaming) is **severed from the heart and industrialized**. Reflection becomes simulation, orientation becomes orbit, protection becomes capture. The Moon becomes a screen, a set, a magic mirror, an algorithm, a machine that no longer helps the traveler return.
+
+### The built sky (retained from the first version) `[W]`
+Two independent works build a **sun** and place it **at his back**: the *lucius lullaby* visualizer's *"large glowing orange paper lantern / paper sun"*, with Jen's frame verification ***"it hangs to his left but BEHIND him, and is not what he looks at"*** (and **what he does look at is never shown in frame**); and the *weirdness* visualizer's *"weird sun-like object behind him."* The rest of his sky is props too: **paper crescent moon, cotton clouds, gold star balloon**. **Every celestial body near Lucius is a manufactured one.** Second channel with no staging involved, the authored codes: `PREVIOUS FACE` → **I AM THE INTERNET** · `GENESIS UNDERGROUND` → **DON'T BE FOOLED BY THE INTERNET** · `2014 SELF PORTRAIT` → **DON'T BE A BLACK HOLE**.
+
+⚠ **The backlight objection, bounded not dismissed.** Rim-light fully explains why *a light* sits behind a subject, and against the narrow claim *"the sun is placed where he cannot use it"* it **still stands and is left unsettled**. It does not explain why the light was **built as a sun**, in paper, twice, in two works, nor the crescent moon, clouds and star built alongside it. **The built-sky claim does not depend on placement**, and §7 is why it matters: a manufactured local source is not a decoration, it is the capture mechanism.
+
+⚠ Do not use any of this to revive the dead absence-claim (*"never shown in the sun"*), defeated by the catalogue-wide dark base rate (row `20260727-cb88-5`).
+
+---
+
+## 7. ★ *Moths to the Flame* supplies the mechanism `[G]` split / `[~]` lens
+
+**Lucius's spoken text** (his, delivered by him) `[G]`:
+> *"The wild animals are wiser than we are / They just follow their instincts / And if a moth mistakes a flame for a mating call and flies into the flame / **So what? / It just keeps the moth population down**"*
+
+He praises instinct, then hits the one case where an **artificial signal hijacks** instinct, and responds with **population management**. The contradiction is the tell: he blames the organism rather than the false environment.
+
+**Roy's affect is the exact inverse** `[G]`: *"**Moths are my guys**"* and *"I love that they **seek the light, even at the cost of burning themselves up**"* ([Discord, 2025-04-12](https://discord.com/channels/705391219915882516/709750776284708955/1360423141993742406)). One symbol, cleanly split: Roy recognizes **longing, sacrifice, and the desire for union**; Lucius converts the same longing into **expendable population data.**
+
+**The explanatory lens `[~]`, labeled as ours and not Roy's source.** Contemporary work on flying insects and artificial light ([Nature Communications, 2024](https://www.nature.com/articles/s41467-024-44785-3)) finds that insects do **not** simply aim at a point light. The light disrupts their **sense of vertical orientation**, producing **orbiting, stalling and inversion**. A response that is correct with respect to the *natural sky* becomes a trap when a **local artificial source occupies the sky's position**. That is almost exactly the project's vocabulary: false orientation, orbit, inversion, inability to leave. ⚠ Hold at `[~]`: an explanatory analogue, never a claim about Roy's intended science.
+
+> **This is the bridge between the lunar system and the Lucius system.** The moth's instinct is not defective. **Its relation to the sky has been hijacked by a counterfeit, too-near luminary.** Lucius does the same to human longing: he does not *create* the desire for love, belonging, beauty, truth or sleep. He **places an artificial source close enough to capture it.** And it explains the built sky as function rather than décor, and [[The Protector]]'s orbit-not-return as an outcome rather than a temperament.
+
+### The two lullabies, opposed `[W]`
+| | *The Song of the Sun & the Moon* | *Lucius Lullaby* |
+|---|---|---|
+| The promise | ***"So live your dreams go out exploring / I'll be here when you're done"*** `[G]` | ***"Life is but a dream, I came to set you free / Now look into this magic mirror, tell me what you see"*** `[G]` |
+| What it does | permits distance, promises homecoming | routes the child into the mirror and **keeps him dreaming** |
+| Result | **release and return** | **orbit** |
+
+The counterfeit call uses the vocabulary of freedom (*"I came to set you free"*) and produces capture. The true call permits departure. **This is the same ethic as the Dove in the Sir Rabbit poem**, who brings a lamp so the Rabbit can see and then says ***"As much as I love company you must be on your way"*** `[G]`: orientation given without orbit demanded, love that remains available while permitting departure.
+
+★ **And the vault already established the join, from the other end.** [[Mary]]'s appearance-tracker records a **2026-06-06 correction**: the *Lucius Lullaby* savior-voice (*"I came to set you free… magic mirror"*) is **not** a Mary appearance, it is **Lucius counterfeiting the rescue / Mary-function** (verified against the lyrics; V3 self-attributes). So the two lullabies are not merely opposites, they are **an original and its forgery**: the counterfeit lullaby is the machine-Moon impersonating the **living Moon's** own gesture. The same tracker names the discriminating trait of the true guide independently, of the Dove: *"she **helps without trapping in devotion** (what separates a true guide from Sir Lucius, who clings)."* Release-versus-orbit was already in the vault; this page only names it as the cosmology's axis.
+
+---
+
+## 8. The garage moons belong to the field, not to a character `[W]`
+
+The *Interview*'s underground garage carries **two moon-like lights, one over each shoulder**, while Roy and Lucius share the same table, altar, candles, fruit, Tree-of-Life pillars and reflective setting `[G]`.
+
+The vault's own color audit already reached the domain-sensitive conclusion independently: **the garage is "Yesod coded via the MOON"** (silver chain/cross/buckle, silver-black stereo, moon-like softbox lights, water, teal wash at ~170°), filed under **place domain**, explicitly *not* ladder colour and *not* wardrobe or character ([[Essays/_drafts/Color System and BMRC - findings 2026-07-08]] §B2.3).
+
+So the **place** is lunar. Both figures are held inside the lunar theater: **Roy as the self being reflected, Lucius as the intelligence operating through and manipulating the reflections.** The paired lights may visually rhyme with the twins, but that is a secondary reading, and what they cannot responsibly prove is that **only Roy** occupies the Moon.
+
+---
+
+## 9. The answer
+
+**Is Lucius the moon? No. Is Roy? Also no.**
+
+> **Roy is not the Moon; he is the heart-bearing self who can become a faithful mirror. Mary most clearly expresses the living Moon's care. Lucius is not the celestial Moon, but he turns the lunar faculty into a machine that captures orientation. The Sun is the shared inner life born when the split learns to sing together.**
+> `[P]` Jen, 2026-08-01, and the canonical statement of this page.
 
 ---
 
 ## Tiers
-- `[G]` — Roy's mirror doctrine (five dated statements, 2018-2026); *"im just a mirror tho ❤️"* as **Roy's**; the board's printed rung 6; the *"flashing lights, there's no exit sign in my maze"* lyric; the three HoM code pairings; the two visualizer props as recorded observations.
-- `[W]` — the three discriminators; moon-and-strobe as one axis; the built-sky reading; the answer in §6.
-- `[~]` — every sefirah/planet placement (framework, single-homed at [[Kabbalah - The Tree of Life]]); the morning-star name-field; Roy's lunar position (`[~]/[P]`, subordinate to his stated Netzach/Venus seat).
-- **Never authorial intent.** Roy has not said "the cosmos works like this." He has said he wants to be a mirror, and he kept a board that calls the heart the mirror of the sun.
+- `[G]` — the *Sun & Moon* lyric and its third-person grammar; Roy's verbatim writing note (*"a lullaby to myself, from myself"*, *"every night I die, and every morning I am reborn"*); *"A Sun was born inside"*; the Sleeping Beauty decode (Aurora = the Sun = the subconscious feminine); *"The moon is a flashing woman"*; Roy's five mirror-statements and the *"im just a mirror"* attribution; the board's rung 6; the Violet Moon machine (poem **and** board row 9); Lucius's *Moths* spoken text and Roy's moth lines; *"full moon for Lucius"*; *"when the moon hits the sky"*; the garage staging; both lullaby promises; the Dove's release line.
+- `[W]` — co-singers as the governing relation; the three discriminators; Mary as the living Moon's clearest personification; Lucius as operator of the machine-Moon; the garage as shared lunar field; the built sky; the two-lullabies opposition.
+- `[~]` — every sefirah/planet placement (framework, single-homed at [[Kabbalah - The Tree of Life]]); the moth-navigation research as an **explanatory lens only**; the diminished-Moon/Shekhinah frame, which is the **only** place *"the moon trying to become a sun"* remains valid.
+- `[P]` — Jen's 2026-08-01 ruling: the retirement of "Roy = the Moon" as a settled placement, and §9.
+- **Confidence declared:** HIGH on the two character seats, the co-singer relation, the inward and shared Sun, and the garage as shared field. **MEDIUM-HIGH** on Mary-as-living-Moon and Lucius-as-machine-Moon (strong cross-source synthesis, but Roy has said neither). **LOW** on any exact one-character-one-body chart.
 
 ## Counterarguments / Alternate Reads
 <!-- anti-totalization defense (CLAUDE.md ANTI-PATTERNS #1/#2) -->
-- **"Everything is a mirror" may be too strong a floor to build discriminators on.** Roy's mirror statements are relational and ethical (*people* mirror each other), not cosmological. Reading them as *"the ontology of this cosmos is that only the Sun is a source"* is the analyst extending a social doctrine into a metaphysics. The five quotes ground the *doctrine*; they do not ground the *sky*. `[P]`
-- **Three discriminators may be one discriminator wearing three hats.** Facing the source, getting out of the way, and admitting you are a mirror are arguably the same disposition described from three angles, which would make the apparent convergence a single claim restated, exactly the risk [[Brain/Concepts/The Mirror]] §Counterarguments already names for its own family. Keep asking whether any real case separates them. `[W]`
-- **The prop-sky reading may be reading a budget.** Two single-room visualizer builds with Amazon boxes in frame are cheap sets, and cheap sets use paper. The counter is that cheapness predicts *no* sky rather than a *built* one, but that counter is an argument from what a producer would plausibly do, not evidence. `[P]`
-- **A moon that "faces the sun" is astronomy imported as ethics.** The moon does not choose to face the sun; it is tidally locked to the Earth and lit by geometry. Making orientation a *virtue* is the analyst supplying agency the physical image does not carry. Held because the corpus stages Lucius's non-facing as a **choice** (*"is not what he looks at"*), but flagged. `[~]`
-- **Falsifier for the page as a whole:** a grounded instance of Lucius **facing** his light source, or of Roy **claiming** sourcehood rather than mirrorhood, would break the orientation axis. So would a Roy statement locating the source-light in a person.
+- **One song is carrying a great deal of weight.** §3 reorganises the page on a **2022 unreleased demo** that Roy says he does not know will ever be finished. Its grammar is decisive *for itself*; treating it as the catalogue's governing celestial frame is the analyst's move. `[P]`
+- **"Everything mediates" may be too strong a floor.** Roy's mirror statements are relational and ethical (*people* mirror each other), not cosmological. Reading them into a metaphysics extends a social doctrine past its evidence. `[P]`
+- **The moth mechanism is an imported explanation.** The Roy/Lucius affect-split is `[G]` and needs no science. The orientation-disruption research explains it beautifully, which is exactly why it should stay `[~]`: a lens that fits this well is evidence for design **and** for projection. `[~]`
+- **"Machine-Moon" may over-unify two different objects.** The Violet Moon is a *place* in a fable; the built sky is *set dressing* in a visualizer; the algorithm is a *system*. Calling all three one function is the vault's habitual move and may be smoothing real differences. `[W]`
+- **Retiring "Roy = the Moon" removes an explanation without fully replacing it.** The lunar re-mapping did real work (it explained the vessel language, the ego-emptying, *"I have become nothing"*). Saying he has a lunar *mode* is weaker and vaguer. The gain in honesty is real; the loss in explanatory tightness should be acknowledged rather than hidden. `[P]`
+- **Falsifier for the page:** a Roy statement giving a character a celestial identity outright, or locating the source-light in one person; either would break the co-singer frame and the shared-Sun guard at once.
 
 ## Open Questions
-- [ ] **What does Lucius look at?** The *lucius lullaby* frame verification records that what he looks at is **never shown in frame** ([[Sources/Reference/Lucius Lullaby visualizer (Jen viewing notes + frame verification 2026-07-16)]]). An off-frame object of attention is a stronger finding than the sun behind him, and it is unworked. Bears on *"why can he not metabolize [[SOL]]?"*
-- [ ] Does **Mary** have a facing? She transmits light *onto* someone (*"you were born to shine"*), which is neither Roy's facing-the-source nor Lucius's back-to-it. A third orientation, and the one the sky-map currently has no slot for.
-- [ ] **The eclipse image** (a body lit from behind reads as a silhouette) is attractive and **untested**; it is recorded in the dossier and deliberately not promoted here. Do not fold it without its own channels.
-- [ ] Korea 2026-07-26, the first documented **real** sun on the character, and the mask dissolved. Held at `[?]` per the census §3: n=1, needs the melt to be legible as more than sweat, and its TO VERIFY list must clear first.
-- [ ] Where do the **stars** sit? Roy's Netzach→Yesod path is Tzaddi / The Star, [[Soul Is A Star]] is a title-level hit, and *Sun & Moon*'s *"even when the stars in the sky are out of view / they always sing their song for you"* suspends celestial navigation in favor of an internal signal. A star-register may be its own section rather than a row in §4.
+- [ ] **What does Lucius look at?** The frame verification records that the built sun *"is not what he looks at"* and that **what he does look at is never shown in frame**. Under §7 this is the sharpest available question: what is the near source he is oriented by?
+- [ ] Does **Mary** ever carry the solar (Aurora) function explicitly, or only the lunar one? The Sleeping Beauty decode licenses it; no Mary-class instance has been tested against it.
+- [ ] The board's word for the machine-Moon is ***"eclipsed."*** Unworked, and adjacent to the dossier's untested eclipse image. Do not fold either without its own channels.
+- [ ] Does the corpus stage a **living** Moon anywhere besides the *Ballerina Boy* outro (*"the moon reminds us that even in the darkness there is light"*, the motherly voice) and the *Sun & Moon* lullaby? Two instances is thin for a body this load-bearing.
+- [ ] Korea 2026-07-26, the first documented **real** sun on the character, and the mask dissolved. Stays `[?]`: n=1, and its TO VERIFY list must clear.
 
 ## Connections
 | Node | Relationship |
 |---|---|
-| [[Kabbalah - The Tree of Life]] | **The single home of the sefirot/planet map.** This page holds the sky; that page holds the coordinates. Never restate one on the other. |
-| [[Brain/Concepts/The Mirror]] | The device. This page is what the device is pointed at. |
-| [[Brain/Concepts/Source vs Reflection]] | The ethical test, and the source of §3(a)'s three-step. Its Sun-vs-Moon row now defers here. |
-| [[Brain/Concepts/The Empty Mirror]] | The kenotic pole: why self-effacement is a transmission mechanism, not a virtue-signal. |
-| [[The Light-Bearer]] | Steady vs flashing light; the *lux-ferre* carried-not-sourced doctrine; the Lucis/Lucius name-field. |
-| [[Brain/Characters/Sir Lucius]] | §Iconography notes carries the counterfeit-light cluster; this page carries the cosmology it sits in. |
-| [[SOL]] | The Sun's song: the source no reflected body can absorb. |
-| [[Brain/Characters/Roy]] · [[Mary]] | The lunar position, and the moon's theology. |
-| [[Brain/Concepts/The Circus]] · [[Brain/Concepts/The Algorithm]] | The built world that needs the built sky, and the engine of the flashing light. |
+| [[Kabbalah - The Tree of Life]] | Coordinates. This page holds functions. ⚠ Its §Tiferet-unoccupied must be read as **shared, not absent** (§1). |
+| [[Brain/Concepts/Source vs Reflection]] | The ethical test. Its Sun-vs-Moon row defers here. |
+| [[Brain/Concepts/The Mirror]] · [[Brain/Concepts/The Empty Mirror]] | The device, and why self-effacement transmits. |
+| [[The Light-Bearer]] | Carried-not-sourced light; the *lux-ferre* and Lucis/Lucius name-field. ⚠ Its steady-vs-flashing distinction is **demoted** by §4. |
+| [[Brain/Characters/Sir Lucius]] | §Iconography carries the counterfeit-light cluster; the machine-Moon function lives here. |
+| [[Brain/Characters/Sir Rabbit]] · [[Sources/Artifacts/HoM Room 51 - Sir Rabbit (poem)]] | The Violet Moon machine, and the Dove's release-not-orbit ethic. |
+| [[Brain/Songs/Lucius Lullaby (2026)/Moths to the Flame]] | The capture mechanism (§7). |
+| [[SOL]] · [[Essays/Concepts/Songs/Move To You]] | The three-song tangle the *Sun & Moon* demo belongs to. ⚠ Not SOL's demo. |
+| [[Brain/Characters/Roy]] · [[Mary]] | The lunar *mode*, and the living Moon's clearest personification. |
+| [[Jagwar Twin]] | The container in which the inner Sun is born. |
+| [[The Protector]] · [[Brain/Concepts/The Algorithm]] · [[Brain/Concepts/The Circus]] | Orbit-not-return, and the industrialized lunar faculty. |

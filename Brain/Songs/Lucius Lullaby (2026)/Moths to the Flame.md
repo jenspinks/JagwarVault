@@ -10,7 +10,7 @@ connections:
   grounded:    [ALBUM-LuciusLullaby, CHAR-SirLucius, SONG-Bananas]
   strong_read: [SONG-Bananas, CHAR-SirLucius, CONCEPT-TheAudience, SONG-GreatTimeToBeHuman, CONCEPT-Fire, SONG-CityOfAngels, CONCEPT-TheUpload]
   resonance:   [CONCEPT-Inversion, SONG-TheWatchers, CHAR-Mary, CONCEPT-TheCircus]
-referenced_by: [SONG-Bananas, SONG-Bounce]
+referenced_by: [CONCEPT-TheCosmos, SONG-Bananas, SONG-Bounce]
 dominant_pole: lunar
 transformation_phase: nigredo
 recursion_state: loop

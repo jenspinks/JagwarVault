@@ -46,6 +46,17 @@ Obvious model artifacts were not promoted into the reconciled text. In particula
 | [[Room 136 - House Of Spells (Cuz_idea)]] | Medium — bridge unclear | ✅ resolved: **"fire escape / from the house of spells"**; owl hooting + children's chorus noted |
 | [[The Song of the Sun & the Moon (33 Demo)]] | High | ✅ adjusted: **"So live your dreams…"**; full double-chorus ending |
 
+## ⚠ Two later transcripts — NOT part of the set above, NOT ear-checked
+
+Added **2026-08-01**, closing the last two audio gaps in the corpus. **The 99%/citable status above does not extend to these.** Both are `citable: false`, machine-only, three-pass; each carries its own ear-gate questions.
+
+| Recording | Machine result | Status |
+|---|---|---|
+| [[442795f9 - a bullet in her genes (Soul Is A Star draft)]] | A **working draft of the *Soul Is A Star* girl-verse**, aligning near line-for-line against the released lyric — with **two lines that never reached the record**: a "Bang bang" hook after the bullet line, and "cut talk" ×3 sitting exactly where *"She wanted Love / But she got Fame"* was later written | ⏳ ear gate open — is "Bang bang" really there? Is "cut talk" a sung placeholder or an actual studio instruction? |
+| [[e163466b - the Water Song (uncracked room)]] | A male voice paraphrases the water-descent passage from **Hannah Hurnard's *Hinds' Feet on High Places* (1955)**, sings a quatrain **recombined out of sequence** from her "Water Song," then: *"melody just came to me… I didn't have to work at it."* | ⏳ ear gate open — **speaker unconfirmed**; line 3 unresolved (*urge* / *earth* / *hill* / *moon*). Room **still uncracked** |
+
+With these, **every recording in the corpus has a transcript.** Speaker attribution on `e163466b` stays open under the rule stated above: textual accuracy and speaker identity are separate questions.
+
 ## Preserved work products
 
 The `_transcription_work` folder beside this index contains the SHA-256 manifest, all raw JSON passes, timestamped segments, Demucs vocal stems, targeted QC outputs, and processing logs. These are working derivatives; the original audio files were not modified.

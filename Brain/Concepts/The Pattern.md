@@ -66,7 +66,33 @@ Homophonic doubling recurs as a **method**: identical sound consciously carrying
 - **Prophets/profits** — Spotify's marked spelling *Prophets* in Soul Is A Star (*"Before Prophets ever turned"*); the weight is the release's spelling *choice* (the "profits" reading was an ingest error, not a Roy variant — [[Claim Ledger]]).
 - **genes/jeans** — ★ decisive: No. 1 Champion's released line *"In the blue jeans, she got good genes"* holds **both spellings and both meanings inside one verified line**; and at the hash level, the HoM code `a bullet in her genes` validates in the Merkle set while the "jeans" spelling fails — deliberate to the byte.
 - **Mourning/morning** — Sir Rabbit's "Mourning Sun," image-confirmed as written.
-The method folds at `[W]` — recurring across songs and visual text, no longer defended as a coincidence — while **each new instance is still evaluated separately**. Excluded after adjudication: *father/farther* (better explained by the rhyme scheme) and *rain/ring* (rejected by ear, 2026-07-30). **Guard:** a device observation, not a letter-method doctrine — it does **not** revive the struck angles/angels row ([[Claim Ledger]]), which stands in its struck→`[~]` state. **Queued:** a systematic catalogue audit per instance — exact spellings · source type · whether both meanings are materially present · what reversal, polarity, or double meaning the pair performs.
+The method folds at `[W]` — recurring across songs and visual text, no longer defended as a coincidence — while **each new instance is still evaluated separately**. Excluded after adjudication: *father/farther* (better explained by the rhyme scheme) and *rain/ring* (rejected by ear, 2026-07-30). **Guard:** a device observation, not a letter-method doctrine — it does **not** revive the struck angles/angels row ([[Claim Ledger]]), which stands in its struck→`[~]` state.
+
+### ✅ Catalogue audit — run 2026-08-01
+
+157 homophone pairs swept for **same-line co-occurrence** across the verbatim stratum (`Sources/Lyrics` fenced blocks, plus fenced/quoted source text elsewhere; `Brain/` and `Essays/` excluded per the [[_System/Framework Registry|Registry]]'s anti-contamination clause). ⚠ **Method limits:** a fixed dictionary cannot find a pair it does not list, so every null is a fact about the list, not the corpus; and co-occurrence is *opportunity*, never intent. Script: `Sources/Artifacts/Data/homophones2.py`.
+
+**★ Finding 1 — the four instances are four DIFFERENT kinds of evidence, currently presented as one class.** Only one meets the same-line standard:
+
+| pair | what the evidence actually is | both meanings materially present? |
+|---|---|---|
+| **genes/jeans** | **both spellings inside one sung line** (*"In the blue jeans, she got good genes"*) — the only pair in the corpus that does this. Elsewhere, *"Kept a bullet in her genes"* | ✅ yes, simultaneously |
+| **prophets/profits** | a **spelling choice**. *profit(s)* appears in **no released lyric at all**; *prophet* appears twice (SiaS, and Long Time Coming's *"Rich man, poor man, prophet and priest"*). The weight is entirely the release's marked spelling | ⚠ one spelling only — the second meaning is inferred, not printed |
+| **mourning/morning** | **cross-medium**, not within-lyric. *morning* appears 8× in lyrics, *mourning* **never**; the single *Mourning* is the Sir Rabbit poem's *"Mourning Sun"* (artifact) | ⚠ split across two media |
+| **sun/son** | a **board-vs-release split**, as the section already states — the two spellings never share a line | ⚠ split across two documents |
+
+⇒ **A sharpening, not a downgrade.** The method is real, but *"recurring across songs and visual text"* flattens four distinct evidence-kinds — *simultaneous*, *orthographic*, *cross-medium*, *cross-document* — which carry different weight and should each be cited as what it is. ★ Note also that ***"Mourning Sun" is a compound***: it runs mourning/morning **and** sun/son through one two-word phrase.
+
+**★ Finding 2 — a genuinely new instance, and the section's own framing structurally cannot hold it.** Roy, closing the Bailey/Hercules IG Live:
+
+> *"I am at peace, in peace, **in pieces**. I'm in pieces, looking for **pieces of one piece**."*
+> — [[Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules]]
+
+Both meanings are present **simultaneously, in one breath**, and the pun *performs its own content*: wholeness against fragmentation, the scattered self seeking the one piece — this section's own "reversal or polarity" test, passed cleanly. ⚠ **The line is already in the vault** ([[Brain/Characters/Roy]] §El Roy, filed as "wordplay" `[W]`) **but was never connected here** — the catalogue missed an instance the vault already held, which is exactly what an audit is for. **The blind spot:** this section defines itself as *"the written core, each instance verified in text,"* so a pun that is **spoken and escalated aloud** (*at peace → in peace → in pieces*) has no route in. ⇒ **the method is not only orthographic; it runs live in speech.** Tier `[W]`, same as the others — one channel, but an unusually clean one.
+
+**★ Finding 3 — the sparseness is itself a result.** Outside the instances already catalogued, 157 pairs produced **exactly one** new same-line candidate. Homophone doubling is **not pervasive** in this corpus; it is rare and placed. That supports the `[W]` tier and stands as an argument against inflating the device into a doctrine — and the sweep independently re-found genes/jeans, which is the check that the instrument works at all. *(father/farther: **zero** verbatim lyric lines corpus-wide, consistent with its exclusion.)*
+
+**Still open:** the pairs no fixed dictionary reaches — near-homophones, proper nouns, and cross-language pairs. The `Lucius / lux / Lucis` cluster is the obvious one, and it is a **name chain, not a word pair**, so it belongs to its own thread rather than to this catalogue.
 
 ## Anchors this concept gives the vault
 - **Bailey → grounded-in-his-hand:** sun/money "externalized Life Force," *"patterns of right living formed in the unconscious mind of a race / Coding Consciousness."* Supports [[The Labors of Hercules]].
