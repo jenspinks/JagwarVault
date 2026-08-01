@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `0f1ec03` (2026-07-28 15:08:25 -0500) · 47 songs · 85 concepts · 6 characters · 3 albums
+> [!info] Generated snapshot — vault commit `e68742a` (2026-08-01 09:55:14 -0500) · 47 songs · 86 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).
@@ -94,6 +94,7 @@ For any song: fetch **Brain → Lyric → Essay → Credits** in that order (the
 | `CONCEPT-TheBanana` | The Banana | `Brain/Concepts/The Banana.md` · draft | — |
 | `CONCEPT-TheCircle` | The Circle | `Brain/Concepts/The Circle.md` · draft | `Essays/Concepts/Songs/The Circle.md` |
 | `CONCEPT-TheCircus` | The Circus | `Brain/Concepts/The Circus.md` · draft | — |
+| `CONCEPT-TheCosmos` | The Cosmos | `Brain/Concepts/The Cosmos.md` · draft | — |
 | `CONCEPT-TheDigitalDouble` | The Digital Double | `Brain/Concepts/The Digital Double.md` · draft | — |
 | `CONCEPT-TheDivide` | The Divide | `Brain/Concepts/The Divide.md` · stub | — |
 | `CONCEPT-DividedSelf` | The Divided Self | — | `Essays/Concepts/The Divided Self.md` |

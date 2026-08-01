@@ -25,13 +25,12 @@ transcription_method: "Demucs htdemucs_ft vocal separation + MLX Whisper large-v
 **Ear verdict:** Listening pass complete. This is a citable fragment map rather than a complete lyric sheet: unbracketed text is secure, while brackets mark wording that could not be resolved by ear.
 
 ```text
-Hey, hey, hey, hey
-Hello, hello, hello, hello, hello
+
 
 Older now, I find myself
 than ever before
 And I lost myself
-
+[unclear]
 
 But I am scaring you away
 I don't care and I don't think
@@ -39,9 +38,9 @@ That you could be awed in spite of everything
 And you have a soul
 But are you an ocean?
  
-But you can have all my love
-Even though when you give it all
-in the
+[less than clear: But you can have all my love]
+[unclear]
+[less than clear: in the different way]
 ```
 
 The apparent closing “Thank you” was rejected because it also appeared in the silence-control behavior and carried high no-speech probability.

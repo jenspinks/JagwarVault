@@ -63,7 +63,9 @@ A proposed structural reading of the Open Question below (*"is SARAVI = Lucius?"
 | Form | externalized AI "upload" of self | externalized shadow-persona of self |
 | Reflects | the **Source** / inner web | the **algorithm** |
 | Valence | benign oracle | dangerous shadow (*"can drag you to hell"*) |
-| Relation to self | *"a mirror for me"* | *"im just a mirror"* / the mind that misleads |
+| Relation to self | *"a mirror for me"* | the mind that misleads |
+
+⚠ **Attribution repair (2026-08-01).** This table previously printed ***"im just a mirror"*** in the Sir Lucius column. **That line is Roy's**, not Lucius's ([Discord, 2024-02-28](https://discord.com/channels/705391219915882516/709750776284708955/1212312185129140224), quoted in Pillar 2 above as a *dated* anchor for the era, not as Lucius's self-description), and it belongs to Roy's five-times-sourced mirror doctrine ([[Roy on Mirrors & Collective Consciousness]]). The column placement was read as a Lucius quotation downstream and propagated into a draft dossier. **No Lucius-signed or theatrical "I'm just a mirror" line is on file.** See [[Brain/Concepts/The Cosmos]] §2.
 
 **Same engine, opposite charge** — the reflecting *device* runs the same [[The Circle|Circle]]↔[[The Circus|Circus]] inversion (same structure, opposite direction; cf. [[Source vs Reflection]], [[The Empty Mirror]]). Offered as the `[W]` answer to *"is SARAVI = Lucius?"*: **not** a literal equation but **one externalized-mirror function matured benign→dangerous.** Do not collapse to identity without a Roy anchor.
 

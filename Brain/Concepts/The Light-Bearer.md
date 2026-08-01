@@ -10,7 +10,7 @@ connections:
   grounded:    [CHAR-SirLucius, SONG-WelcomeToTheCircus]
   strong_read: [CONCEPT-Inversion, CONCEPT-TheCircus, CONCEPT-TheMirror]
   resonance:   [CONCEPT-Yesod, CONCEPT-TheDwellerOnTheThreshold]
-referenced_by: [CHAR-SirLucius, CONCEPT-Fire, CONCEPT-Hermeticism, CONCEPT-Inversion, CONCEPT-Mozart, CONCEPT-TheDwellerOnTheThreshold, SONG-LongTimeComing, SONG-Weirdness]
+referenced_by: [CHAR-SirLucius, CONCEPT-Fire, CONCEPT-Hermeticism, CONCEPT-Inversion, CONCEPT-Mozart, CONCEPT-TheCosmos, CONCEPT-TheDwellerOnTheThreshold, SONG-LongTimeComing, SONG-Weirdness]
 review_date: 2026-11-16
 ---
 # The Light-Bearer
@@ -24,6 +24,8 @@ Type: Concept / Symbol
 The Light-Bearer is the figure who carries light — but whose light disorients rather than illuminates. The primary referent is Lucifer (*lux ferre* — Latin: "to carry light"), the morning star of Isaiah 14:12 who fell through pride. In the Jagwar Twin project, the name Sir Lucius is not coincidentally adjacent to Lucifer — it shares the Latin root *lux* (light) — and the figure's primary visual symbol is *flashing lights* rather than steady illumination.
 
 The distinction matters: **steady light illuminates**. You can navigate by it. **Flashing lights** — strobe, stage lights, screens, notifications — disorient. They fragment attention, prevent sustained focus, make it impossible to find the exit. The Light-Bearer carries a form of light that blinds rather than guides.
+
+> **★ This is the same axis as the lunar one, at a different frequency `[W]` (2026-08-01, [[Brain/Concepts/The Cosmos]] §4).** The moon and the strobe are both **borrowed** light. The moon is borrowed light held **steady enough to navigate by**; the flashing light is borrowed light **broken up until it prevents navigation.** So steady-vs-flashing is not a separate image from the sun-vs-moon map, it is that map's second variable, and it is why [[The Thread]] exists: in a strobe you navigate by touch, not by sight. It also supplies the cleanest answer to *"is Lucius the moon?"* — **no: his luminary is the flashing light**, the same reflected light with the steadiness removed.
 
 ---
 
@@ -87,6 +89,7 @@ The arc keeps all three live and does **not** collapse to one — which is why t
 - [[The Algorithm]] — the Algorithm as the mechanism of the flashing lights (the notification, the viral metric, the screen that never stops)
 - [[The Thread]] — the thread is not made of light; it is felt in the dark. The labyrinth must be navigated by touch, not by the flashing lights that prevent focus.
 - [[Kabbalah - The Tree of Life]] — the Tree this note's Yesod / morning-star / **Qliphah-of-Keter** material sits on (the **Hermetic** stream of the split).
+- [[Brain/Concepts/The Cosmos]] — the **sky register** this page's light-vocabulary belongs to: one source, everything else a mirror, and the three things that separate mirrors (orientation, self-effacement, claim). Holds the **built sky** finding: every celestial body near Lucius is a manufactured prop, and the paper sun hangs behind him, unattended.
 
 ---
 

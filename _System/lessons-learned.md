@@ -5,6 +5,25 @@ rule — so it is not repeated. Newest first. (CLAUDE.md §16.)
 
 ---
 
+## 2026-07-31 — A correction is not done when the brain is clean; it is done when the PUBLISHED page is clean
+
+**What happened.** Three correction waves landed in the source vault (the board's rung 5/6/7 transcription, Blake→Climacus, and the media-verified #128↔#149 swap). Each was executed carefully, validated, and logged. **None of them crossed into the public Field Guide.** A later sweep found roughly twenty published sites still asserting the withdrawn claims — including two pages printing the wrong emanation list as *verbatim*, a page grounding a dervish↔Wheel-of-Fortune fusion on a "Fortune" the board never says, and a page teaching a stepladder as "the staircase in Roy's own hand… Blake's *Jacob's Ladder*" (three errors stacked in one paragraph). Live, to readers, for as long as they stood.
+
+**Two failures, and the second is the reusable one.**
+
+1. **No tracker existed for the direction that matters most.** [[Cross-Vault Fold Status]] tracked PUBLIC → SOURCE only. Source-side corrections had no propagation ledger at all, so "queued for the public wing" quietly meant "published errors stay live." Fixed: that file now opens with a **§0 reverse-direction section**, and a source correction is not closable until its public row is stamped.
+
+2. ★ **Sweep on the WITHDRAWN wording, never on the corrected wording.** The #128/#149 fix patched four sites and looked complete — *because every file it touched now carried a correction banner.* Grepping the new text finds only the pages already fixed; the untouched pages are invisible by construction. Only a grep for the **old, withdrawn phrase** finds what was missed. It found a fifth site immediately, then eleven more in the public vault.
+
+**Rules.**
+- When a claim is withdrawn, grep the **withdrawn phrasing** across **both vaults** before declaring the correction complete, and record the residual count.
+- The public wing uses **different room numbering** (extended IDs vs the compressed 149-row gallery), so never sweep by artifact number alone — sweep by the distinctive *wording*.
+- A correction wave gets a **row in [[Cross-Vault Fold Status]] §0** with its public sites enumerated; the wave stays open until that row is stamped.
+- Duplicated prose is a multiplier: the public galleries repeat each entry as a table blurb *and* a full entry, so one error is two edits. Expect duplicates and count them.
+- When a correction **removes an anchor** from a live argument (Fortune, Bethel), say so on the page in plain language rather than swapping the word and leaving the argument standing on nothing.
+
+---
+
 ## 2026-07-29 — Two arc-reading distinctions the vault was sitting close to
 
 *Folded from the external meta-evaluation ([[Essays/_drafts/STF Vetting Dossiers/_External Vetting Pass - full response (2026-06-14)]] §Keepers). Neither is a drift we were caught in; both are traps the arc pages sit one step away from.*

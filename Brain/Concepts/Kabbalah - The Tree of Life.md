@@ -10,7 +10,7 @@ connections:
   grounded:    []
   strong_read: [CONCEPT-SourceVsReflection, CONCEPT-KeilimVessels]
   resonance:   [CONCEPT-ThePattern, CONCEPT-TheMoon, CONCEPT-Yesod, CONCEPT-Malkhut, CONCEPT-Netzach]
-referenced_by: [CONCEPT-DividedSelf, CONCEPT-Mozart, CONCEPT-TheRoseCross, CONCEPT-TheTwoBirds]
+referenced_by: [CONCEPT-DividedSelf, CONCEPT-Mozart, CONCEPT-TheCosmos, CONCEPT-TheRoseCross, CONCEPT-TheTwoBirds]
 review_date: 2026-12-28
 ---
 # Kabbalah — The Tree of Life
@@ -18,6 +18,7 @@ review_date: 2026-12-28
 **The structural backbone the vault leans on everywhere but never housed.** ~228 notes touch the Kabbalah cluster, yet the *emanation structure itself* — the ten sefirot, the three pillars, the Sun-and-reflected-bodies map — lived only as prose duplicated across three notes, with every sefirah declared "pageless" in [[_System/Ontology]]. This page is that home. Its companion is its opposite: [[Keilim - The Breaking of the Vessels]] is the **fracture** of these vessels (shevirah); this is the **structure** that breaks.
 
 ## What this page is — and is not
+- **Coordinates here, sky next door.** The **luminary functions** (what Sun / Moon / morning star / flashing light *do*, and which way each mirror faces) were split out to [[Brain/Concepts/The Cosmos]] on 2026-08-01. That page never restates a sefirah or a planet; this page never restates the sky. §"The emanation map" below stays the authority on *placement*; the Cosmos page is the authority on *behavior*, and it is where *"is Lucius the moon?"* is answered (**no**, and not by the seat argument).
 - **The single home of the map (as of 2026-07-01).** The emanation mapping was maintained in **triplicate** across [[Brain/Concepts/Source vs Reflection]] §"The Kabbalistic spine", [[Brain/Characters/Sir Lucius]] §"Lucius on the Tree", and [[The Light-Bearer]]; those sections are now **glosses that defer here** (trimmed 2026-07-01; the triplicate had already drifted once — the struck Lucius-moon frame survived two weeks on two essays). Planet/sefirot assignments are stated on THIS page only; everywhere else links.
 - **Tier `[~]`/`[W]` — framework, never authorial intent.** Per the spine note's own caution: the syncretic Tree (Jewish Kabbalah + Hermetic Qabalah held together) is a *lens*, **licensed** by Roy's **documented** Kabbalah engagement — the "I'm 33" board names "Tree of Life / sephirot" + El Roi (see [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] and [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]]) — **not** by any claim Roy built the catalogue on the Tree. `[G]` reaches only the licensing anchors (the board's sephirot, El Roi, "reclaim your crown"); the structural mappings stay `[W]`; the framework attribution stays `[~]`.
 
