@@ -41,7 +41,7 @@ A companion "Online" lyric draft, emoji-glossed line by line (a ladder on "Know 
 #### Board panel: the title-bar Pros/Cons matrix
 <img src="{{PLUMCREEK}}/im-33-board/title-bar-pros-cons-matrix.png" width="320" loading="lazy">
 
-The board's title cell "Uploading my consciousness to the Internet" sits over two typed matrices: **Pros** ("It's cool," "Live forever," "Someone who understands me," "Hack influence?") against **Cons** ("Probably hard to do," "Robot takeover movies," "What if I don't like myself?"), then **"How to live forever?"** (tell the truth, do what matters, create something that outlives your lifespan, put music on chain). `[G]`
+The board's title cell "Uploading my consciousness to the Internet" sits over two typed matrices: **Pros** ("It's cool," "Live forever," "Someone who understands me," "Hack influence?") against **Cons** ("Probably hard to do," "Robot takeover movies," "What if I don't like myself?"), then **"How to live forever?"** (tell the truth, do what matters, create something that outlives your lifespan, put music on chain). `[G]` ★ **Enriched (2026-07-31, U5):** the Pros column's "Live forever" has a released twin: *City of Angels* sings **"Live forever in the bright lights, godlike, live forever"** ([[Sources/Lyrics/City of Angels]]:34) — the working document's promise and the song's advertisement in the same words, the machine-ascent line's lyrical terminus `[W]`.
 **Source →** [[Roy - I'm 33 this year (spreadsheet)]] §1 · [gallery — not minted]
 
 #### Board panel: "Steps to enter the digital dimension" (7 steps) + "Cybernetics"
@@ -437,7 +437,7 @@ A photo of a family house with the address "3233" visible (→ the minted HoM ar
 #### Board panel: Ms. Jeannie & The Grasshopper Kids ("Mom's song")
 <img src="{{PLUMCREEK}}/im-33-board/ms-jeannie-grasshopper-kids-moms-song.png" width="320" loading="lazy">
 
-The yellow "Mom's song" label links to "The Grasshopper Song" by Ms. Jeannie & The Grasshopper Kids (Roy's mother's own published children's song) — the maternal counterpart to "Grandma's Song," the leap-of-faith/seed-and-flower mythology's earliest germ. `[G]` fully public/citable.
+The yellow "Mom's song" label links to "The Grasshopper Song" by Ms. Jeannie & The Grasshopper Kids (Roy's mother's own published children's song) — the maternal counterpart to "Grandma's Song," the leap-of-faith/seed-and-flower mythology's earliest germ. `[G]` fully public/citable. ★ **Enriched (2026-07-31, fold report U9):** the 2026-07-29 audio audit recovered Roy **telling the song on camera with its full lyric** ("There's a little grasshopper sitting on a stick / rubbing his legs to make them click / Will he jump high? Will he jump low? / Jump, Mr. Grasshopper. Ready?") and the detail that he **recorded his mother singing it**, the same preservation gesture as Room 36's voicemail. This is the received end of the **lullaby transmission chain** `[W]`: received (Mom's grasshopper song; her Joni *Circle Game* lullaby, ear-gate pending) → preserved (the recordings) → revoiced (*Sun & Moon*, "a lullaby to myself, from myself") → corrupted (the Lucius Version, dreaming swapped for remembering — EP6: "My lullaby is everywhere as we speak"). A fork, not a decay series: the corruption is an authored substitution, not medium noise.
 **Source →** [[Image Decode - Spreadsheet BMRC and Social - findings 2026-07-08]] §1.9 · [gallery — not minted]
 
 #### Board panel: live-performance, studio & crew photos

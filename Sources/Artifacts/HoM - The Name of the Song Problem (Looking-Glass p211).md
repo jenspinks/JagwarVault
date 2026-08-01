@@ -26,6 +26,9 @@ This is the **literary substrate of two real HoM codes**:
 
 **The method thesis:** HoM keys live at the level of **naming, not depiction.** An unlock phrase may be a *title*, a *name-of-a-title*, a *line that describes the key*, or a *phrase written on the object* — but it is rarely the picture's obvious subject. This is exactly why, on the [[Sources/Artifacts/HoM - Open-leaf artwork reading bench (34 rooms, forensic) 2026-06-29|reading bench]], **exact odd labels beat theme-summaries**, and why image-clue rooms (a cat, a knight, a rooster) resist subject-derived guessing — their codes were *named/seeded elsewhere*. Before guessing, ask **what kind of naming** the room wants: object, title, code, label, or true name.
 
+## ★ The doctrine enacted in the key-space (added 2026-07-31, fold report U2) `[W]`
+Both of the Knight's **"really is"** levels are live catalog codes, and both **"is called"** levels are dead: **AN AGED AGED MAN** (the name-really-is) unlocks `SATURN MAGIC` #108, and **A-SITTING ON A GATE** (the song-really-is) unlocks `THE CITY OF PYRAMIDS` #67, while "Haddocks' Eyes" and "Ways and Means" tested zero against the open leaves (2026-06-29, above). The maze's answer-space performs the Spider's rule: **what a thing really is opens doors; what it is merely called opens nothing.** Two authored positives, two tested negatives.
+
 ## Code status of this page `[G]`
 `6d687a8d`'s own code is **not** one of the four names: `Haddocks' Eyes` (+ `Haddock's`/`Haddocks` apostrophe variants), `The Aged Aged Man`, `Ways and Means`, `A-sitting On A Gate`, plus `It's My Own Invention` and the meta-phrases — **all tested → 0** against the 32 open leaves (2026-06-29). So this page is **inherited literary substrate**, not a self-referential code room; its value is interpretive.
 
