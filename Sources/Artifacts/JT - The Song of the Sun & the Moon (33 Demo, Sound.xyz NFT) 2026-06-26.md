@@ -22,10 +22,26 @@ ingest_source: "A real but DSP-invisible Jagwar Twin track — Sound.xyz NFT-onl
 - **Storage:** AWS CloudFront — **not IPFS/Arweave** (so no permanent CID; the file is at-risk → download to preserve).
 - **Nowhere else:** NOT on Spotify/Apple/YouTube/Bandcamp/SoundCloud, under this or any variant title. NFT-only.
 
+## How our copy was obtained, and its state (re-verified 2026-08-01)
+**Not purchased, not pulled from the chain, not from OpenSea.** The chain of custody:
+1. **Surfaced** from the [[Sources/Quotes/Roy Interview - culture3 (33 + Hall of Mirrors) 2022 [2026-06-26]|culture3 interview]], which mentions a Sound.xyz genesis drop. That is the only reason we knew the track existed.
+2. **Run down 2026-06-26.** The Sound page was gone, but the Internet Archive held **7 snapshots** (2022-10-11 → 2025-06-19).
+3. ★ **The `id_` modifier is what made it recoverable.** `web.archive.org/web/20221011204118id_/…` serves the **raw, un-rewritten original capture** instead of Wayback's framed and URL-rewritten version. That is what yielded Roy's note verbatim **and** the original asset URLs still pointing at their live CDN origin.
+4. **Downloaded directly from that origin** (AWS CloudFront), which returned HTTP 200.
+
+**State on 2026-08-01 re-check:** the CloudFront asset is **still live** — HTTP 200, `content-length: 5875032`, `last-modified: Tue, 11 Oct 2022 16:40:38 GMT` (the original upload). Our local copy is **byte-identical** to it: 5,875,032 bytes, `sha256 5167e12435ed8b3de7c6e568cbde219c7633a30c462ae58ffc6ac032f8dfc0f2`.
+
+★ **THE TRACK IS PUBLICLY LISTENABLE. `[G]` (Jen, direct observation, 2026-08-01):** it **plays in the browser** on the OpenSea item page, `opensea.io/item/ethereum/0x992c4e6e3536882fe3bfa5ac12eaa66340b3083f/1`. No wallet, no purchase, no ownership required. **That URL is the citable public listening link.** The Sound.xyz page (404) and the Wayback capture (page + Roy's note preserved, stream not captured) are the *documentary* references; OpenSea is the *audible* one.
+
+⚠ **Method warning, earned here — do not trust an automated browser for a NEGATIVE media finding on OpenSea.** A same-day automated pass reported *"no audio element, cover art only"* on both the `/assets/` and `/item/` routes, after a deep traversal including shadow roots and iframes. **That finding was wrong**, and it is recorded only so nobody re-derives it: the marketplace serves automated sessions a degraded render, the same *"live, bot-blocked"* behaviour this file already logs for Sound.xyz. Per [[feedback_verify_before_absent]], **a negative result is a fact about the search.** Confirm media playback by eye, in a real browser, before writing any "it does not play / it is not reachable" claim into the vault.
+
+⚠ **Internal inconsistency in this file, flagged not resolved:** the frontmatter's `verified_against` describes the Sound page as *"live, bot-blocked"* while §Hard data says it *"now returns 404 — delisted (confirmed 2026-06-26)"*. Both were written the same day. The body is the more specific and dated claim and is corroborated by the OpenSea outbound link 404ing on 2026-08-01, but the frontmatter has not been changed, because which check ran when is not recorded.
+
 ## ✅ Preserved locally (2026-06-26)
 The at-risk CloudFront-only files are now in the vault (the durable copy — the source is not on IPFS/Arweave and could vanish):
 - **Audio:** `Sources/Artifacts/Audio Files/The Song of the Sun & the Moon (33 Demo).m4a` — 5,875,032 bytes, **exact byte-match to source**, verified ALAC/AAC-LC M4A (4:02).
 - **Cover:** `Media/images/the-song-of-the-sun-and-the-moon-33demo-cover.jpg` — 1000×1000 JPEG (the source `.png` URL serves JPEG bytes; extension corrected).
+  - ★ **What the cover actually depicts `[G]` (observed 2026-08-01, on the live OpenSea render; the record had described only the file, never the image).** It is a **close-up of an infant's face**, eyes and nose filling the frame. **The identification is deliberately left OPEN `[?]` (Jen, 2026-08-01): "either him or his nephew."** Both readings are live and the note supports each — *"My nephew had just been born"* points one way, *"a lullaby to myself, from myself"* and *"every night I die, and every morning I am reborn"* point the other, and a baby photo of **Roy** would make the cover the addressed child of §the co-singer reading. **Do not resolve without an anchor** (a Roy statement, a matching image in [[Sources/Artifacts/Roy - I'm 33 Board (Image Gallery)|the family/friends artifact set]], or EXIF/provenance on the original). Bears on [[Brain/Concepts/The Cosmos]] §3, where the singer and the addressed child are both Roy.
 - ~~**Pending:** Jen's ear-check against [[SOL]] / the *Interview* EP2 performance → would settle the SOL identity `[W]`→`[G]`.~~ ✅ **ADJUDICATED (Jen, 2026-07-31, after the full listening pass): DE-CENTERED, not confirmed** — no obvious shared musical structure; identity stays `[?]` (see §⚑ verdict below).
 
 ## The writing-process note — Roy, VERBATIM `[G]`

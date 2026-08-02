@@ -52,7 +52,7 @@ Added **2026-08-01**, closing the last two audio gaps in the corpus. **The 99%/c
 
 | Recording | Machine result | Status |
 |---|---|---|
-| [[442795f9 - a bullet in her genes (Soul Is A Star draft)]] | A **working draft of the *Soul Is A Star* girl-verse**, aligning near line-for-line against the released lyric — with **two lines that never reached the record**: a "Bang bang" hook after the bullet line, and "cut talk" ×3 sitting exactly where *"She wanted Love / But she got Fame"* was later written | ⏳ ear gate open — is "Bang bang" really there? Is "cut talk" a sung placeholder or an actual studio instruction? |
+| [[442795f9 - a bullet in her genes (Soul Is A Star draft)]] | A **working session** on the *Soul Is A Star* girl-verse: **"Bang bang"** is real and is **not on the record**; **"kut tow" ×3 is nonsense — placeholder structural sound** holding the slot where *"She wanted Love / But she got Fame"* was later written, with the **tempo dropping across it**. Sung **a cappella**, water audible | ✅ **ear-reviewed in full (Jen, 2026-08-01)** — `citable: true`. One spot left open: the switched phrase before *"as I can see it"* |
 | [[e163466b - the Water Song (uncracked room)]] | A male voice paraphrases the water-descent passage from **Hannah Hurnard's *Hinds' Feet on High Places* (1955)**, sings a quatrain **recombined out of sequence** from her "Water Song," then: *"melody just came to me… I didn't have to work at it."* | ⏳ ear gate open — **speaker unconfirmed**; line 3 unresolved (*urge* / *earth* / *hill* / *moon*). Room **still uncracked** |
 
 With these, **every recording in the corpus has a transcript.** Speaker attribution on `e163466b` stays open under the rule stated above: textual accuracy and speaker identity are separate questions.
