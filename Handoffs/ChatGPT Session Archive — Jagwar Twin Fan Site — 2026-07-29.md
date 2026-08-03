@@ -151,7 +151,9 @@ The page should distinguish:
 - Mary as a window, or mirror purified into relation.
 - The crowd singing back as a communal relational mirror.
 
-Critical correction: the board phrase is The mirror of the Soul and the heart, not Sun. Soul keeps the motif within human interior and relational struggle rather than overreaching into achieved solar identity.
+> ⚠ **SUPERSEDED 2026-07-31 — this "critical correction" is itself wrong, in the opposite direction.** Direct reread of the board image settles the printed rung as **"The mirror of the SUN and the Heart"** ([[Claim Ledger]], struck row; corrected and propagated 2026-07-31). The paragraph below is kept only as a record of what this ChatGPT session asserted; do not act on it.
+
+~~Critical correction: the board phrase is The mirror of the Soul and the heart, not Sun. Soul keeps the motif within human interior and relational struggle rather than overreaching into achieved solar identity.~~
 
 Mary and #1 Champion discussion:
 

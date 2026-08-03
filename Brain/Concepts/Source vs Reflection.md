@@ -52,8 +52,8 @@ The catalogue's named oppositions are **species** of this one genus. Each is *so
 | [[Machine vs Human]] | heart-integrated creation | optimization severed from the heart — the industrial **reflection-engine** |
 | [[Witnessing vs Surveillance]] | **El Roi**, the gaze that *transforms* the seen | the apparatus, the gaze that *shapes* the watched |
 | [[Brain/Concepts/The Circle|Circle vs Loop]] | return to *"the inside of the inside"* | closed, self-referential repetition |
-| Sun vs reflected bodies (**Tiferet** vs **Yesod/Malkhut**) | originating light — the Sun (the heart; [[SOL]]) | reflected light — the **Moon** (Roy's *position*, Mary's *theology*); the morning-star register is a buried footnote, not Lucius's signature — coordinates at [[Kabbalah - The Tree of Life]], **sky register at [[Brain/Concepts/The Cosmos]]** |
-| [[Roy]] vs [[Sir Lucius]] | Roy = the **heart** (Netzach/Venus, his own fundamentals) reaching toward the Sun; his lunar *position* (Malkhut+Yesod) is the advanced ascent-frame | Lucius = the **mind** (Hod/Mercury), the reflection that mistakes its borrowed shine for the source — map lives at [[Kabbalah - The Tree of Life]] |
+| Sun vs reflected bodies (**Tiferet** vs **Yesod/Malkhut**) | originating light — the Sun (the heart; [[SOL]]) | reflected light — the lunar current (Roy in its **mode**, Mary its clearest care; nobody's allocation, 2026-08-01); the morning-star register is a buried footnote, not Lucius's signature — coordinates at [[Kabbalah - The Tree of Life]], **sky register at [[Brain/Concepts/The Cosmos]]** |
+| [[Roy]] vs [[Sir Lucius]] | Roy = the **heart** (Netzach/Venus, his own fundamentals) reaching toward the Sun; his lunar *mode* (the Malkhut+Yesod stations; allocation struck 2026-08-01) is the advanced ascent-frame | Lucius = the **mind** (Hod/Mercury), the reflection that mistakes its borrowed shine for the source — map lives at [[Kabbalah - The Tree of Life]] |
 
 So the machine is not a new problem — it is the **late-stage, industrial-strength reflection-engine.** *33*'s screens and Lucius's mirrors are the same forgetting at higher resolution. Naming the genus is what lets the catalogue's pieces sit on one axis. [W] *(a synthesizing lens — the work never names it; see §Cautions.)*
 
@@ -82,7 +82,7 @@ The transmit/substitute pane above has a **graded interior**: *substitution* isn
 
 - **Transmission** — reflection that remains **servant** to the source (points through itself; returns you to it).
 - **Distortion** — reflection that **forgets it is reflection** (the funhouse mirror, the engineered dream, dead citation). It still merely *stands in* — a failed image, not yet a rival.
-- **Usurpation** — reflection that **attempts to become the source itself.** This is **[[Sir Lucius]]**: not merely a bad copy or a smudged mirror, but a reflection that has become a **rival center** — the image-system gaining agency and *claiming sourcehood.* The *"moon trying to become a sun"* read at full strength: not the moon failing to shine, but the moon **staging a coup** on the sun.
+- **Usurpation** — reflection that **attempts to become the source itself.** This is **[[Sir Lucius]]**: not merely a bad copy or a smudged mirror, but a reflection that has become a **rival center** — the image-system gaining agency and *claiming sourcehood.* The reflection **staging a coup** on its source — the retired *"moon trying to become a sun"* image at full strength (phrase retired 2026-08-01, [[The Cosmos]]; the structural claim survives without it): not a failure to shine, but a bid to replace the light.
 
 This sharpens the master question (and addresses the Open Question below): the catalogue's deepest danger isn't a *distorted* image but an **autonomous** one — a reflection that stops serving the source and sets up as its own origin. It's why Lucius can't be "fixed like a dirty mirror": a rival center must be **re-subordinated, stopped, or redeemed** (which one depends on the interpretive stream — see the Keilim note's three readings), not merely cleaned. **`[W]`** — a synthesizing refinement of this note's transmit/substitute axis; the work never names it.
 
@@ -98,11 +98,11 @@ This sharpens the master question (and addresses the Open Question below): the c
 
 **The full planet/sefirot map lives on ONE page, [[Kabbalah - The Tree of Life]], and is stated nowhere else** (single-homed 2026-07-01 after the local copies drifted twice). The gloss this page needs:
 
-- **The Sun is the source (Tiferet, [[SOL]]); the Moon reflects it** — Roy's *position* (Malkhut + Yesod, "the moon trying to become a sun" is HIS arc), Mary's *theology* (Shekhinah). That is the whole source-vs-reflection doctrine written onto the sky.
+- **The Sun is the shared source (Tiferet, [[SOL]]); everything that is not the Sun reflects it** ([[The Cosmos]], Jen `[P]` 2026-08-01). Nobody owns a celestial body: Roy's lunar reading survives as a *mode*, not an allocation; Mary most clearly expresses the living Moon's care (Shekhinah, framework-labeled); Lucius industrializes the lunar faculty (the machine-Moon). *"The moon trying to become a sun"* is retired project-wide, valid only inside the labeled diminished-Moon/Shekhinah frame; the replacement image is the Moon learning to sing *with* the Sun (co-singers; restoration is relationship, not promotion).
 - **The character fundamentals are Roy's own (2026-07-01, via relay): Roy → Netzach/Venus (heart), Lucius → Hod/Mercury (intellect)** — mind-pole against heart-pole. The older "Lucius = Venus/morning-star native signature" framing is Roy-contradicted and survives only as a buried name-resonance footnote on the Kabbalah page.
 - The cure is unchanged: re-subordinate reflection to source — *"my mind must serve my heart"* = Hod (Lucius) serving Netzach (Roy), ascending to the heart-Sun.
 
-> **Supersession trail:** "Lucius is the Yesod moon" (struck 2026-06-14, the moon is Roy's) → "Lucius = Venus/Netzach morning-star signature" (struck 2026-07-01, Netzach/Venus is Roy's, per Roy). Essay-layer stragglers ([[Essays/Concepts/Songs/Ballerina Boy]], [[Essays/Concepts/Songs/Not Your Homie]]) reconciled 2026-07-01.
+> **Supersession trail:** "Lucius is the Yesod moon" (struck 2026-06-14, the moon is Roy's) → "Lucius = Venus/Netzach morning-star signature" (struck 2026-07-01, Netzach/Venus is Roy's, per Roy). Essay-layer stragglers ([[Essays/Concepts/Songs/Ballerina Boy]], [[Essays/Concepts/Songs/Not Your Homie]]) reconciled 2026-07-01. → "Roy = the Moon" struck as an allocation and *"the moon trying to become a sun"* retired project-wide (2026-08-01, [[The Cosmos]]; the lunar reading survives as Roy's mode).
 
 ---
 
@@ -153,7 +153,7 @@ This sharpens the master question (and addresses the Open Question below): the c
 
 ## Sources
 - [[Subject to Flooding (album)]] §"Source vs Reflection" — the originating articulation (reflection→radiance; two brightnesses).
-- [[Essays/Concepts/Songs/Ballerina Boy]] / [[Essays/Concepts/Songs/Not Your Homie]] — the moon/Yesod = reflected-light reading (the moon-line source; *"the moon trying to become a sun"* now correctly **Roy's** arc, not Lucius's — corrected 2026-07-01).
+- [[Essays/Concepts/Songs/Ballerina Boy]] / [[Essays/Concepts/Songs/Not Your Homie]] — the moon/Yesod = reflected-light reading (the moon-line source; ⚠ the 07-01 "Roy's arc" correction was itself superseded 2026-08-01 — the phrase is retired project-wide, [[The Cosmos]]).
 - [[Brain/Characters/Sir Lucius]] — Empty Mirror, *Rorrim Ehtni*, El Roi on the throat.
 - [[Machine vs Human]] · [[Witnessing vs Surveillance]] · [[Brain/Concepts/The Circle]] — the species this genus organizes.
 - Frameworks: Neoplatonism (the One / emanation), Plato (*Republic* VII), Hermetic correspondence. *No private material used.*

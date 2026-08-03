@@ -38,7 +38,7 @@ The Circus is not a 2026 idea — it is a **staged, realized world built across 
 - **~2024 [[Bad Feeling (Oompa Loompa)]]** — the Circus **fully staged:** big-top tent, **carousel** (= the Loop, and the vault's Joni *"Circle Game"* captive-carousel), giant **chess pieces + cards** (Alice *Through the Looking-Glass* = the mirror), **harlequin** dancers, **ringmaster Roy**, fireworks, the moon — closing on **Lucius lighting the performers' heads on fire** ([[Fire]] / [[Nigredo]]).
 - **2026 [[Welcome to the Circus]]** — the song that finally **names** it.
 
-**BMRC** is the Circus's **production-house** (*"Produced In Cooperation With B.MR.C"*) **and its weapons brand** (*"PROPERTY OF B.M.R.C."* on a rocket launcher in *Great Time to Be Human*) = the **industry-Babylon** that manufactures the show *and* the ordnance. The broadcast-frame (*"brought to you by/buy"*) rides on [[The Manifesto Cards]]. *(BMRC decode `[?]` — candidates: Babylon + Music/Media/Mirror/Munitions/Missile + Records/Recording/Rebel + Co/Corporation/Club/Corps; no canonical expansion yet.)*
+**BMRC** is the Circus's **production-house** (*"Produced In Cooperation With B.MR.C"*) **and its weapons brand** (*"PROPERTY OF B.M.R.C."* on a rocket launcher in *Great Time to Be Human*) = the **industry-Babylon** that manufactures the show *and* the ordnance. The broadcast-frame (*"brought to you by/buy"*) rides on [[The Manifesto Cards]]. *(BMRC = **Black Magic Rainbow Circus** — settled as a site-metadata capture, sirlucius.com + jagwartwin.com, fetched 2026-07-07; cite as the metadata capture, never "Roy said." The initials stay unexpanded on the artifacts by design. The old candidate-expansion list is superseded.)*
 
 ---
 

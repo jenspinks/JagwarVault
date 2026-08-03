@@ -88,12 +88,12 @@ Lucius reaches for the **throne** (the ringmaster scaling to the polity; cf. *"f
 
 ## The Moon: Lucius as Reflector, Not Source
 
-The Ballerina-Boy ending closes on a faceless female voice (older, motherly): *"the moon reminds us that even in the darkness there is light"* (confirmed, see [[Essays/Concepts/Songs/Ballerina Boy]]; also §Grounded above). That places the moon as **reflector / witness / relay of hidden source-light** — and Lucius is strongly a **Yesod** figure: reflection, masks, dream-logic, spectacle, the lunar realm. The moon does not generate light; it reflects what reaches it. This resolves much of Lucius's apparent contradiction:
+The Ballerina-Boy ending closes on a faceless female voice (older, motherly): *"the moon reminds us that even in the darkness there is light"* (confirmed, see [[Essays/Concepts/Songs/Ballerina Boy]]; also §Grounded above). That places the moon as **reflector / witness / relay of hidden source-light** — and Lucius works strongly *through* the **Yesod** field: reflection, masks, dream-logic, spectacle, the lunar staging. The moon does not generate light; it reflects what reaches it. This resolves much of Lucius's apparent contradiction:
 
 - illuminated by **fear, algorithms, survival pressure, audience hunger** → he becomes viral, synthetic, dominating;
 - illuminated by **source-light** (the faceless mother, [[SOL]], heart, remembrance) → he becomes reminder, witness, bridge — *carrier of light through darkness.*
 
-He is **the reflection trying to become the source — the mind mistaking its borrowed shine for the light.** That is the tragedy, and the reason he reads as morally complex rather than evil. *(Corrected 2026-07-01: the vault's earlier phrasing here, "the moon trying to become a sun," is superseded — that lunar arc is **Roy's**, and Venus/Netzach is Roy's by his own word; Lucius's register is the **Hod-mind** working *through* the reflective sphere. Single home of the map: [[Kabbalah - The Tree of Life]].)*
+He is **the reflection trying to become the source — the mind mistaking its borrowed shine for the light.** That is the tragedy, and the reason he reads as morally complex rather than evil. *(Corrected 2026-07-01 and again 2026-08-01: the earlier phrasing here, "the moon trying to become a sun," is retired project-wide — the 07-01 interim gave that arc to **Roy**, and the 08-01 ruling retired the allocation too: nobody owns a celestial body, the Sun and Moon are co-singers, and the arc reads as the Moon learning to sing *with* the Sun. Lucius's register is the **Hod-mind** working *through* the shared reflective sphere; functionally he runs the lunar faculty as a machine ([[Brain/Concepts/The Cosmos]]). Map: [[Kabbalah - The Tree of Life]].)*
 
 ## El Roi on the Throat
 
@@ -153,7 +153,7 @@ The honest position: with the visual-lore frame, the Lucius-triumph / shadow-dem
 | [[No. 1 Champion (la Conquistadora)]] | The crown Lucius resells here is revoked there by Mary / La Conquistadora. |
 | [[The Thread]] | The feeling that must not be cut — what NYH trades away. |
 | [[Essays/Concepts/Songs/Ballerina Boy]] | The underperforming sincerity Lucius cites; the moon-line source. |
-| [[Sir Lucius]] | Voicing; Beast refined into strategy; Yesod/moon; El Roi; the mirror-flip. |
+| [[Sir Lucius]] | Voicing; Beast refined into strategy; the Hod-mind via the shared Yesod image-axis; El Roi; the mirror-flip. |
 | [[Happy Face]] / [[The Mask]] / [[Inversion]] | The inverted smile; one of the masks stripped. |
 | [[Bad Feeling (Oompa Loompa)]] | Shared infantilized/carnival register as method. |
 
@@ -177,4 +177,4 @@ The honest position: with the visual-lore frame, the Lucius-triumph / shadow-dem
 - Tarot — the Strength card.
 - Genesis 16 — **El Roi**, "the God who sees me."
 - "Ring a Ring o' Roses" — traditional; plague association is folklore.
-- Roy's publicly stated phonetics-first / "nonsense" writing method — see [[Roy]].
+- Roy's phonetics-first / "nonsense" writing method (no public statement of the technique exists — the 2026-08-01 corpus sweep found the vault's "nonsense" layer is all doctrine, never technique; method description held `[P]`, the public channel is the 442795f9 draft recording) — see [[Roy]].

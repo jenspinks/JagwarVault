@@ -21,7 +21,7 @@ related: [SONG-Loser, SONG-GoodDay, SONG-BALLERINABOY, CONCEPT-TheProtector, CON
 
 ![[Sources/Lyrics/Superhuman]]
 
-*(Source `status: draft` — AZLyrics, partial Apple Music confirmation; the bridge is unverified. See banner above.)*
+*(Source now `status: stable` — verified in the 2026-06-10 Spotify pass; the old draft-status note here was stale. See banner above.)*
 
 ---
 

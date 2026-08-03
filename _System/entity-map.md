@@ -5,7 +5,7 @@ status: stable
 ---
 # Entity Map — canonical ID → file paths (machine-readable)
 
-> [!info] Generated snapshot — vault commit `a43607c` (2026-08-01 13:09:34 -0500) · 47 songs · 86 concepts · 6 characters · 3 albums
+> [!info] Generated snapshot — vault commit `f0e10ca` (2026-08-02 19:23:34 -0500) · 47 songs · 86 concepts · 6 characters · 3 albums
 > Regenerate: `python3 _System/gen-entity-map.py`. **If a row looks stale, `grep -rli "term" .` is authoritative.** Companion to [[index]] (meaning), [[file-map]] (what exists), [[Ontology]] (the ID definitions). Paths are repo-relative; a `—` means *not present in this snapshot* (pageless concept, un-ingested lyric, un-written essay), not necessarily that nothing exists — confirm with grep before concluding absence.
 
 Status tokens come from each file's own frontmatter (`stable` = verified; `draft` = unverified/scaffold).

@@ -53,7 +53,7 @@ The cure is therefore **not destroying the machine but re-subordinating it to th
 ## Where it sits in the concept web
 - **Genus:** [[Brain/Concepts/Source vs Reflection]] — Machine-vs-Human is **one species** of it; the machine is the late-stage **reflection-engine** ("optimization severed from the heart" = a reflection that forgot its source).
 - **Sibling species:** [[Brain/Concepts/Witnessing vs Surveillance]] — surveillance = the machine's **counterfeit of El Roi** (being-watched-and-ranked vs being-seen-and-loved). *Surveillance gathers data; witnessing transforms the witnessed.*
-- **Personification:** [[Sir Lucius]] / [[Brain/Concepts/The Protector]] — the machine acquires a face; the Protector calcified + algorithm-fueled.
+- **Claimant, not personification:** [[Sir Lucius]] / [[Brain/Concepts/The Protector]] — the System predates Lucius and produced him (un-collapsed 2026-07-12, [[Cross-Vault Fold Status]] row B); he is its best student handing back a perfect exam ("the algorithm, baby"), the Protector calcified + algorithm-fueled, a product become would-be usurper, never the machine itself confessing.
 - **Failure-modes:** the **Flood** (*Subject to Flooding* — the severed self *dissolved*) vs the **Circus** (*Lucius Lullaby* — the severed self *sedated*). One disease, two mechanisms.
 
 ## Tier discipline

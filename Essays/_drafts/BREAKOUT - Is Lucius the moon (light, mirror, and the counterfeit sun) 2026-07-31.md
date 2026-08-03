@@ -41,7 +41,7 @@ opens: "Session Fold Inbox rows 20260727-cb88-4 (counterfeit sun) + the 6a1501e1
 - **Lucius is not given a lunar seat.** [[The Light-Bearer]] states it outright: his morning-star/Lucifer thread is **"imagery, not a Tree seat"**; *"Venus / Netzach the sefirah is Roy's… as is the Moon (the lunar position)."* Lucius *operates through* Yesod (the image-realm, the glamour) — **works through it, does not sit in it.**
 - CLAUDE.md's own register rule uses this as its worked example: *"Lucius operates in a lunar/reflection register `[W]` — he is **not literally the moon**."*
 
-**So the settled position is:** Lucius = the mind (Hod/Mercury) working *through* the reflective sphere; Roy = the heart (Netzach/Venus) who *occupies* the lunar position and is reaching toward the Sun (Tiferet / SOL). *"The moon trying to become a sun"* is **Roy's** arc, not Lucius's.
+**So the settled position was, at drafting time (⚠ SUPERSEDED 2026-08-01 by the resolution — nobody owns a celestial body, the lunar reading survives only as Roy's *mode*, and the phrase below is retired project-wide; [[Brain/Concepts/The Cosmos]]):** Lucius = the mind (Hod/Mercury) working *through* the reflective sphere; Roy = the heart (Netzach/Venus) ~~who *occupies* the lunar position~~ and is reaching toward the Sun (Tiferet / SOL). ~~*"The moon trying to become a sun"* is **Roy's** arc, not Lucius's.~~
 
 ⚠ **Known contamination risk:** a 2026-07-31 external (Gemini) pass asserted *"the vault establishes Lucius as the Morning Star (Netzach/Venus)"* **as if current**. That is the **pre-2026-07-01 framing, retired.** It has already been rejected once with receipts (fold report Part IV). Expect it to keep resurfacing, because the correction notes themselves are what a retrieval model finds.
 

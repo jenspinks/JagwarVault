@@ -125,6 +125,24 @@ If you cannot ground a Brain claim, do not write it. An empty slot is recoverabl
 
 ---
 
+## PROCESS NOTES ARE NOT KNOWLEDGE (Jen's rule, 2026-08-02)
+
+The contamination risk has a second entry route: **sessions write their reasoning into the same files that hold the vault's conclusions.** When a conclusion is later corrected, the losing argument stays on the page in the present tense, where retrieval hands it to a later session as fact. A confident sentence pulled out of a hundred-line argument arrives without the argument attached; a wrong verdict in the present tense is indistinguishable from a right one. (Confirmed failure 2026-07-28: a session read a withdrawn verdict in the Korea source record and reported it to Jen as fact; the correction was sitting 84 lines above the text it read.)
+
+**The rule.** The log holds *what we did*. `Brain/`, `Sources/`, and `Essays/` hold *what we know*, in the present tense, once. When a verdict is superseded, the losing argument does not stay on the page: it moves **verbatim to `_System/_archive/`** with a one-line pointer (naming convention: `<topic> (session <id>, SUPERSEDED <date>).md`), and only genuinely portable method findings are lifted out and rehomed. "Keep it so it isn't re-derived" is satisfied by one line plus a pointer, never by retaining the derivation.
+
+**When you supersede anything:**
+1. **Strike or remove the body, not just the header.** A struck header over seventy live-reading lines is not a correction; greps and excerpts never see the header.
+2. **Put the marker inline**, where a grep or an excerpt will land.
+3. **Re-check every checklist, TO VERIFY, and Open Questions item in the file.** Checklists are read first and updated last, and a stale entry that says "resolved" or "do not re-attempt" stops a reader before the correction above it is ever reached.
+4. **Sweep the withdrawn wording, never the corrected wording, across both vaults** ([[lessons-learned]] 2026-07-31), and check for unmarked copies in shorter sibling files (shorter files are likelier to be read whole).
+
+**What this rule never touches:** Counterarguments sections, named falsifiers, one-line negative results kept so they are not re-derived, tier markers and hedging, and framework readings inside an explicitly labeled framework. The test is not "is this long"; it is "does this state a position that is no longer current."
+
+The anti-deletion instinct ("preserve the record") is right for the log and wrong for a source record: every correction that only adds text makes the wrong answer's retrievable surface area larger. Archive first, then cut; git is the net, the archive is the intent.
+
+---
+
 ## INTERPRETATION TIERS
 
 Every analytical claim belongs to ONE tier, marked inline per the ladder in §INLINE EPISTEMIC MARKERS:
@@ -412,6 +430,7 @@ Obsidian wikilink format: `[[PageName]]` — not markdown `[text](url)`.
 11. **Register collapse** — Lucius *is* the moon; Mary *is* Sophia; Roy *believes* X. Use functional/register language.
 12. **Symbol flattening** — naming a symbol without identifying the operation it performs in this specific context.
 13. **Gitignore bypass by move** — relocating a gitignored file into a tracked path (this pushed the privacy-redactions log to GitHub, 2026-07-01; see [[lessons-learned]]). Before ANY move/archive: `git check-ignore <old-path>`; if ignored, the destination must be ignored too, or live in `_Private/`. Sensitive ignore rules stay pattern-based (`**/name*`), never exact paths.
+14. **Supersession-by-append** — correcting a page by only adding text, leaving the losing argument on the page in the present tense where a grep, an excerpt, or a checklist-first read retrieves it as fact. See §PROCESS NOTES ARE NOT KNOWLEDGE: strike the body, fix the checklists, archive the derivation.
 
 ---
 

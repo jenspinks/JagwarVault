@@ -136,7 +136,7 @@ The faceless angel resembles Sophia — divine wisdom, appearing from outside th
 
 ### Kabbalistic — Tiferet and solar reorientation
 
-Lucius operates in the Yesod register: lunar, reflective, mediating, audience-dependent, moon-lit. [[Essays/Concepts/Songs/Ballerina Boy]] lives in the wound between Malkuth and Yesod — earthly shame driving the self into the memory sphere.
+Lucius operates *through* the Yesod register (the shared image-field; his seat is Hod/Mercury, the mind — Roy's own word, 2026-07-01): reflective, mediating, audience-dependent, moon-lit staging, never lunar identity ([[Brain/Concepts/The Cosmos]]). [[Essays/Concepts/Songs/Ballerina Boy]] lives in the wound between Malkuth and Yesod — earthly shame driving the self into the memory sphere.
 
 Weirdness orients toward Tiferet — the solar heart-center, the place where beauty emerges from integration. The keywords here are *sunshine*, *shine*, *light*, *born to* — all solar. The song is not Tiferet achieved; it is the first genuine solar movement after a long lunar passage. Reflected weirdness → owned weirdness → the beginning of solar weirdness.
 

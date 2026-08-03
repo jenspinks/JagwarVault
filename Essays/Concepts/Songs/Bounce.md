@@ -61,7 +61,7 @@ The party-command register **reads in a Lucius register**; the panic line **soun
 
 ## Connections
 
-[[Moths to the Flame]] / [[Bananas]] (the regression cluster — doctrine, id-eruption, kinetic evasion) · [[City of Angels]] (Bounce as escalatory denial *after* the cost is revealed) · [[Sir Lucius]] (defense-mechanism / forced protection) · [[Happy Face]] (the "haha wow" deflation) · [[Playing to the Gods]] (the back-half neighbor it follows) · [[The House & the Vessel — Container Imagery (hold, open, shatter, hatch)]] (the roof/house/Beth spine — *tear the roof off* = the vessel opened at the top) · [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]] (the Beth card that epigraphs the song). *(No [[I Like to Party]] link — the connection is unverified; see Open Questions.)*
+[[Moths to the Flame]] / [[Bananas]] (the regression cluster — doctrine, id-eruption, kinetic evasion) · [[City of Angels]] (Bounce as escalatory denial *after* the cost is revealed) · [[Sir Lucius]] (defense-mechanism / forced protection) · [[Happy Face]] (the "haha wow" deflation) · [[Playing to the Gods]] (the back-half neighbor it follows) · [[The House & the Vessel — Container Imagery (hold, open, shatter, hatch)]] (the roof/house/Beth spine — *tear the roof off* = the vessel opened at the top) · [[Sources/Quotes/JT IG Reel - bounce (Live Underground) 2026-06-10]] (the Beth card that epigraphs the song). *(No [[I Like to Party]] link — the claimed "panic" callback was STRUCK as fabricated ([[Claim Ledger]]); the omitted wikilink enforces the strike.)*
 
 ## Sources
 

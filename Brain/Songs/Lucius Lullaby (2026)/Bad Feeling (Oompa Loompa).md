@@ -48,7 +48,7 @@ Type: Song · [[Lucius Lullaby (album)]], **track 5**; acoustic-live = 15. **202
 - [G] **Dual title + the multiplied role (visual).** The dual title "Bad Feeling (Oompa Loompa)" reads on-screen, not just in metadata. The video stages a **troupe of ~4 identical red-balaclava/red-PVC figures** — the "red = ROLE" jacket (shared single garment in the theatrical canon) pluralized into an interchangeable uniform, matching [[Flattened Identity]] — plus a **black/white checkerboard blindfold**. [W] The multiplied figures visually confirm the consumed-labor Oompa-Loompa reading (§Strong Read).
 
 ## Resonances
-[~] "That's Amore" moon corrupted → **lunacy** (*"when the moon hits the sky, I'm a little unwell"*); reflected light = Yesod, Lucius's medium (the Moon = Roy's; [[Brain/Concepts/Source vs Reflection]]) · [~] candy paradise = false Eden / Maya (Roy-posted Kierkegaard "the crowd is the untruth," Bailey, Blavatsky/Steiner) · [~] sugar = anesthetic/decay (tooth-decay = [[Welcome to the Circus]]) · [~] Jungian shadow-alarm / Gnostic archonic appetite · brushes [[The Algorithm]].
+[~] "That's Amore" moon corrupted → **lunacy** (*"when the moon hits the sky, I'm a little unwell"*); reflected light = Yesod, Lucius's medium ([[Brain/Concepts/The Cosmos]], 2026-08-01: nobody owns the Moon; Lucius runs the lunar faculty as a machine) · [~] candy paradise = false Eden / Maya (Roy-posted Kierkegaard "the crowd is the untruth," Bailey, Blavatsky/Steiner) · [~] sugar = anesthetic/decay (tooth-decay = [[Welcome to the Circus]]) · [~] Jungian shadow-alarm / Gnostic archonic appetite · brushes [[The Algorithm]].
 **Boundary:** "teeth / no-exit maze / chew you up" = [[Welcome to the Circus]] (4), NOT here.
 
 ## Open Questions

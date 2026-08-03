@@ -113,11 +113,11 @@ So the map: the Sun (Tiferet / SOL) is the light; the Moon (Roy's position / Mar
 - **Yesod** — Foundation; the **reflective / image sphere** (Treasure House of Images); Lucius's *operating theater*; the **broken-Yesod** [[The Banana|banana]] (generativity replaced by image).
 - **Malkhut** — Kingdom; *"the kingdom within"* ([[Brain/Concepts/The Circle]]'s "inside of the inside" = return up the axis); **atarah** (Malkhut becomes the crown on ascent).
 - **Shekhinah** — the indwelling feminine Presence = Malkhut, the Lower Mother / Bride; [[Mary]]'s name; the moon's *theology* (reflected light, exile→return).
-- **The Moon** — the lunar / Yesod register; **Roy's position** (Malkhut + Yesod); the diminished-moon → restoration arc.
+- **The Moon** — the lunar / Yesod register; Roy's *mode* (the Malkhut + Yesod stations; nobody's allocation per the retirement flag above — [[Brain/Concepts/The Cosmos]], 2026-08-01); the diminished-moon → restoration arc (labeled frame only).
 - **Tikkun Olam** — repair of the world / raising the sparks (birur); see [[Keilim - The Breaking of the Vessels]] + [[CONCEPT-TikkunOlam|Tikkun Olam]].
 
 ## Where the Tree breaks
-The shevirah ([[Keilim - The Breaking of the Vessels]]) is the *fracture of these very vessels*: **Olam HaTohu** (isolated, shattered sefirot that "couldn't share") → **Olam HaTikkun** (related configuration). *"My mind must serve my heart"* is that re-ordering — **Hod (Lucius's sefirah) re-subordinated to Netzach (Roy's), ascending to the heart-Sun (Tiferet)**; the moon (Roy's position / Malkhut) restored to the sun's light. Structure (this page) and fracture (Keilim) are the two halves of one doctrine.
+The shevirah ([[Keilim - The Breaking of the Vessels]]) is the *fracture of these very vessels*: **Olam HaTohu** (isolated, shattered sefirot that "couldn't share") → **Olam HaTikkun** (related configuration). *"My mind must serve my heart"* is that re-ordering — **Hod (Lucius's sefirah) re-subordinated to Netzach (Roy's), ascending to the heart-Sun (Tiferet)**; the moon (the lunar mode / Malkhut) restored to relationship with the sun's light. Structure (this page) and fracture (Keilim) are the two halves of one doctrine.
 
 ## Tiers
 `[~]` the framework attribution (syncretic Tree) · `[W]` the structural mappings (Sun/Moon/reflected-bodies, the pillars) · `[G]` the licensing anchors (the board's "Tree of Life / sephirot", El Roi, "reclaim your crown") **and, via relay, the character fundamentals** (Roy→Netzach/Venus, Lucius→Hod/Mercury — [[Sources/Quotes/Roy - Character fundamentals for the Field Guide (relayed) 2026-07-01|Roy's word via Jen, 2026-07-01]]; "can link" is permissive, so the Tree *placements* built on it stay `[W]`). **Never authorial-intent beyond Roy's public engagement.** The alignment with Neoplatonism / Hermeticism / Theosophy is **expected from the shared perennialist substrate** Roy assembles on the board — *not* evidence of deliberate cross-encoding (cf. [[The Pattern]]'s anti-totalization guard; [[Brain/Concepts/Source vs Reflection]] §Cautions).
@@ -132,7 +132,7 @@ The shevirah ([[Keilim - The Breaking of the Vessels]]) is the *fracture of thes
 | [[Brain/Concepts/The Angels and the Angles]] | The *other* Kabbalah axis (Sefer Yetzirah letter-mysticism: 22 letters + 10 sefirot = 32 paths). |
 | [[Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology)]] | Roy's own board names "Tree of Life / sephirot" within a 10-station descent/return system counted from both ends — the documented engagement that *licenses* this page. |
 | [[The Pattern]] | The shared theosophical substrate (Bailey · Russell · Kybalion · Kabbalah · Jung · Plato) the board assembles. |
-| [[Mary]] · [[Roy]] | Shekhinah/Binah ascent · the Moon's position + Middle-Pillar return. |
+| [[Mary]] · [[Roy]] | Shekhinah/Binah ascent · the lunar mode (allocation struck 2026-08-01) + Middle-Pillar return. |
 | [[Sources/Reference/Shevirat HaKelim (Lurianic doctrine reference)]] · [[Kabbalah — letter-mysticism source index (Abulafia, letters-as-angels, vowels-as-spirit)]] | Portable source doctrine (both axes). |
 
 ## Open questions

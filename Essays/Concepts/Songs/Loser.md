@@ -21,7 +21,7 @@ Retrospectively, the song occupies a foundational place in the formation of **Th
 
 ![[Sources/Lyrics/Loser]]
 
-*(Lyrics verified against Apple Music streaming; one bridge line — see Grounded — remains unresolved.)*
+*(Lyrics verified against Apple Music streaming; the closing bridge line was confirmed 2026-05-28 via Spotify — all lines verified.)*
 
 ---
 
@@ -72,7 +72,7 @@ At this stage, however, the adaptation remains **emotionally transparent rather 
 
 ### 2. Jericho and the birth of defensive architecture
 
-The opening line — *"Jericho fell like a wave"* — contains one of the song's most important structural paradoxes [W]. Jericho represents collapsing walls, broken fortifications, structures destroyed through resonance and sound. In the larger catalogue grammar, this aligns with the recurring doctrine that **song itself can destabilize systems**: voices break walls; vibration dismantles containment; transmission alters structure. It also names the album's biblical frame — same album, same Genesis-tier source as the Flood (see [[Subject to Flooding (album)]]).
+The opening line — *"Jericho fell like a wave"* — contains one of the song's most important structural paradoxes [W]. Jericho represents collapsing walls, broken fortifications, structures destroyed through resonance and sound. In the larger catalogue grammar, this aligns with the recurring doctrine that **song itself can destabilize systems**: voices break walls; vibration dismantles containment; transmission alters structure. It also rhymes with the album's flood imagery — a labeled `[~]` resonance, not a privileged biblical frame; the `[G]` floor is Roy's own launch gloss (see [[Subject to Flooding (album)]], 2026-06-05 resolution).
 
 That "song destabilizes systems" grammar has a named substrate. The doctrine is the Kybalion's third principle — **Vibration** — in its *destructive* register: if "nothing rests; everything moves; everything vibrates," then a frequency precisely matched to a structure can shake it apart. Roy engages this principle directly: the Vibration cell of his public **"I'm 33" board** transcribes it and pins it to Tesla — *"If you wish to understand the universe, think in terms of energy, frequency and vibration"* ([[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)|"I'm 33" board]]). That Roy collected the Vibration principle onto the board is `[G]` engagement — the same board-transcription that grounds the whole Hermetic stream (see [[Brain/Concepts/Hermeticism - As Above So Below]]). The reading that *"Jericho fell like a wave"* enacts vibration-as-demolition — the wall that falls to a frequency — is the song-level *correspondence*, and it stays `[~]`: the catalogue participates in an older current (sound that unmakes structure) rather than provably encoding the Kybalion. The board names the principle; the line lets it ring on the wall.
 
@@ -150,7 +150,7 @@ Jericho's collapse also carries resonance with the breaking of hardened shells (
 
 ### Gurdjieffian Fourth Way
 
-The song diagnoses **Collective Sleep**: *"Everybody's all the same."* In Gurdjieffian terms, the speaker catches an early glimpse of humanity's mechanical nature and experiences the resulting disorientation: *"I think the world's gone insane"* [?]. But the song also demonstrates one of Gurdjieff's central warnings — **partial awakening without integrated structure** [W]. The repetitive nursery-rhyme cadence functions as both awakening friction and self-soothing repetition: the listener is simultaneously shaken and comforted.
+The song diagnoses **Collective Sleep**: *"Everybody's all the same."* In Gurdjieffian terms, the speaker catches an early glimpse of humanity's mechanical nature and experiences the resulting disorientation: *"I think the world's gone insane"* (bridge line, Spotify-confirmed 2026-05-28). But the song also demonstrates one of Gurdjieff's central warnings — **partial awakening without integrated structure** [W]. The repetitive nursery-rhyme cadence functions as both awakening friction and self-soothing repetition: the listener is simultaneously shaken and comforted.
 
 ### Gnostic
 
@@ -186,13 +186,13 @@ The refrain *"I'm a loser, baby, just like you"* therefore becomes a strange for
 | [[Essays/Concepts/Songs/Lucius Lullaby]] | Reveals the long-term psychological consequences of survival architecture calcifying into identity [W] |
 | `CONCEPT-TheProtector` | The proto-Protector emerges here as anticipatory shame-neutralization |
 | [[Machine vs Human]] | Earliest seed: the "Television on your frame" diagnosis of mediated/flattened consciousness |
-| [[Subject to Flooding (album)]] | Jericho-collapse imagery parallels the album's Flood frame — extinction-event biblical anchor |
+| [[Subject to Flooding (album)]] | Jericho-collapse imagery parallels the album's flood imagery (`[~]` resonance; the `[G]` floor is Roy's launch gloss) |
 
 ---
 
 ## Sources
 
-- Lyrics: [[Sources/Lyrics/Loser]] — Apple Music verified 2026-05-27 (with one outstanding ear-check, see Grounded)
+- Lyrics: [[Sources/Lyrics/Loser]] — Apple Music verified 2026-05-27; closing bridge Spotify-confirmed 2026-05-28 (nothing outstanding)
 - Composer: Apple Music Details field — Matthew Pauling & Roy English (see [[Sources/Credits/Subject to Flooding]])
 - *Subject to Flooding* (2018, Atlantic Records)
 - Roy's words (origin + "we all feel like losers" solidarity): Digital Journal, Markos Papadatos, **2019-09-23** — [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser]] (cite the article)

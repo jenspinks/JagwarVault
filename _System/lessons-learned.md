@@ -5,6 +5,22 @@ rule — so it is not repeated. Newest first. (CLAUDE.md §16.)
 
 ---
 
+## 2026-08-02 — Superseded process notes living inside live knowledge pages (the Korea retrieval failure)
+
+**What happened.** A downstream session read the Korea source record and reported to Jen that the Korean sun/moon stage line had been "attributed to an audience member." That verdict had been withdrawn the same day it was written; the correction sat 84 lines **above** the text the session read. Tracking it down exposed a vault-wide pattern, not a one-file accident: sessions write their reasoning into the same files that hold the vault's conclusions, and when a conclusion is corrected the losing argument stays on the page in the present tense, where it is retrieved as fact.
+
+**Four mechanisms, all of which generalise.**
+1. **Volume asymmetry.** The superseded block was roughly three times longer than the correction and sat below it (44% of the file, 19,054 of 42,955 bytes). Any sampling read lands in the wrong stratum about two times out of three.
+2. **Strikethrough does not propagate.** The section header was struck; the seventy lines of body beneath it were not, and read as live, confident prose with measurement tables. Greps and excerpts never see the header.
+3. **Checklists are read first and updated last.** The TO VERIFY list still stated the withdrawn verdict as "resolved," with no supersession marker, and carried a stop-order ("do not re-attempt"). A session reading the checklist for open items hit a false verdict plus an instruction to stop, and had no reason to read upward to the correction. This is the mechanism that did the damage.
+4. **Propagation gap.** The same withdrawn verdict had been copied into a second, shorter, more readable draft file with no marker whatsoever. Shorter files are likelier to be read whole.
+
+**Root cause.** A category error the vault had never named: **process notes are not knowledge.** The log holds what we did (append-only, read top-few-only, retrieval discipline built in). Brain and Sources hold what we know, in the present tense, once. But sessions write source records in real time, while reasoning, so reasoning lands in the knowledge layer and stays. Compounding it: the anti-deletion instinct ("preserve the record") is right for the log and wrong for a source record; every append-only correction increases the wrong answer's retrievable surface area.
+
+**Rule.** Codified as [[CLAUDE]] §PROCESS NOTES ARE NOT KNOWLEDGE and anti-pattern 14: superseded derivations move verbatim to `_System/_archive/` with a one-line pointer; strike the body, not just the header; put the marker inline where a grep will land; re-check every checklist item in the file; sweep the withdrawn wording (2026-07-31 rule) plus shorter sibling copies. Worked example: the Korea record, 42,955 → 24,370 bytes, nothing lost, the ASR saga archived at `_System/_archive/Korea Korean-speech ASR saga (session cb88ebe2, SUPERSEDED 2026-07-28).md`.
+
+---
+
 ## 2026-07-31 — A correction is not done when the brain is clean; it is done when the PUBLISHED page is clean
 
 **What happened.** Three correction waves landed in the source vault (the board's rung 5/6/7 transcription, Blake→Climacus, and the media-verified #128↔#149 swap). Each was executed carefully, validated, and logged. **None of them crossed into the public Field Guide.** A later sweep found roughly twenty published sites still asserting the withdrawn claims — including two pages printing the wrong emanation list as *verbatim*, a page grounding a dervish↔Wheel-of-Fortune fusion on a "Fortune" the board never says, and a page teaching a stepladder as "the staircase in Roy's own hand… Blake's *Jacob's Ladder*" (three errors stacked in one paragraph). Live, to readers, for as long as they stood.

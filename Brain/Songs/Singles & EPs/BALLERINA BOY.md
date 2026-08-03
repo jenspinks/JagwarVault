@@ -51,7 +51,7 @@ Type: Song · standalone single, **June 13, 2025**; ℗ 2025 **Big Loud Rock / M
 - **Roster:** "Brandon" collapses into Ballerina Boy (Jen 2026-06-08; [[Essays/_drafts/Prior Analysis — Triage, Flags & Expansion]] Part 4).
 
 ## Resonances
-[~] Jungian divine child + compensating shadow · Gnostic misnaming, rescue = gnosis (→ [[Soul Is A Star]]) · Kabbalah: Malkuth → Yesod → Tiferet; [[Sir Lucius]] = the reflection/mind claiming sourcehood (the moon-arc is **Roy's**, not Lucius's — [[Kabbalah - The Tree of Life]]) · Blue Fairy = [[Mary]]-function ([~] strict) · [~] Stromboli = exploiter pole (ARG Darkness_site "Show Biz"; not load-bearing) · Pleasure Island → [[Bananas]] ([?] curio) · string-inversion → [[Inversion]]. Framework-attributed.
+[~] Jungian divine child + compensating shadow · Gnostic misnaming, rescue = gnosis (→ [[Soul Is A Star]]) · Kabbalah: Malkuth → Yesod → Tiferet; [[Sir Lucius]] = the reflection/mind claiming sourcehood (the moon-arc is nobody's allocation — the phrase retired 2026-08-01, [[Brain/Concepts/The Cosmos]]; the reflection-claiming-sourcehood read of Lucius stands) · Blue Fairy = [[Mary]]-function ([~] strict) · [~] Stromboli = exploiter pole (ARG Darkness_site "Show Biz"; not load-bearing) · Pleasure Island → [[Bananas]] ([?] curio) · string-inversion → [[Inversion]]. Framework-attributed.
 
 ## Open Questions
 - [x] ~~Moon line = female voice~~ **CONFIRMED** (Jen, audio): the whole spoken outro is an older *motherly* female voice → divine-feminine / [[Mary]]-class.

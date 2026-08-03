@@ -61,6 +61,7 @@ In the theatrical **Interview EPs** and **Mirror Sessions**, **Lucius speaking �
 - Tier every interpretive claim; cite a repo path for every grounded one.
 - Re-check contested phrasings against [[Claim Ledger]] (so struck claims don't resurrect).
 - End drafts with a **"TO VERIFY"** list — every fact-claim you couldn't pin to a file. That converts uncertainty into a checklist instead of an error.
+- **If you superseded anything:** strike the body, not just the header; fix every checklist / TO VERIFY item in the file; move the losing derivation verbatim to `_System/_archive/` with a one-line pointer; sweep the **withdrawn** wording across both vaults ([[CLAUDE]] §Process notes are not knowledge).
 
 ## The system files, one line each
 [[entity-map]] ID→paths · [[file-map]] what exists · [[index]] what it means · [[Ontology]] the IDs · [[Theme Tracker]] the vocabulary · [[Master Source List]] the sources · [[Boundaries]] public/private · [[Claim Ledger]] contested-claim status · [[CLAUDE]] the full schema · [[GPT]] external-reader behavior.

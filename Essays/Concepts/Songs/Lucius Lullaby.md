@@ -51,16 +51,18 @@ Everything in the Jagwar Twin mythology flows forward from this moment. The arc 
 ## Kabbalistic Mapping
 
 - **Sphere:** [[Malkhut]] → [[Yesod]] threshold
-- Lucius, mapped to [[Yesod]] (the foundation, the sphere of the unconscious, dreams, and reflection), reaches *down* into Malkhut to pull Roy upward
-- The lullaby is the bridge between the two lowest spheres — the moment the unconscious makes contact with someone who has bottomed out in material reality
-- This is the beginning of ascent on the [[Tree of Life]], though Roy doesn't know it yet
+- Lucius — seated at **Hod/Mercury**, the mind (Roy's own word, 2026-07-01) — works *through* [[Yesod]] (the image-realm of dreams and reflection, the shared axis both twins pour into) and reaches *down* into Malkhut for Roy, who has bottomed out in material reality
+- The lullaby is Yesod's own instrument: the image-realm making contact with the material floor — and per the corrected mechanism the contact is **sedative**, preservation rather than awakening
+- Whether this is the beginning of ascent on the [[Tree of Life]] or the perfecting of the orbit is exactly the album's open question `[~]`
+
+*(Reworked 2026-08-02 per the Claim Ledger's C7 rewrite-pass order: the earlier version seated Lucius at Yesod and read the contact as upward rescue; both were pre-correction strata.)*
 
 ---
 
 ## Key Motifs
 
 - [[The Deal]] — Lucius pulls Roy from the bottom; something is exchanged
-- [[The Lullaby]] — form subverted; singing awake, not asleep
+- [[The Lullaby]] — form weaponized: a lullaby that puts the listener under, sedation dressed as rescue (per the 2026-06-06 correction)
 - The childhood bedroom — biographical grounding; Roy returns to the site of original wounding (see [[Essays/Concepts/Songs/Ballerina Boy]])
 - Desperation as portal — the collapse is what opens the channel
 - **The bargain** — V2–V3 are the deal's terms in plain text: *"I'll give you what you've been dreaming"* (mansion / advances / fans) for *"you gotta serve somebody, so stop talking and listen."* Worldly success bought with silence. (*"Serve somebody"* is Roy's **artist-attributed allusion to Dylan's "Gotta Serve Somebody,"** 1979 — `[G]`, he captioned the song's YouTube Short with the Dylan line ([[Sources/Quotes/Roy YouTube Short - lucius lullaby Dylan caption (2026-05)]]); not a credited interpolation — Dylan holds no writing credit on the track.)

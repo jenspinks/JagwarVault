@@ -174,7 +174,7 @@ Is the work **fighting** the asymmetry (pain transmits, wisdom doesn't) or **acc
 - "Soul Is A Star," *33* (Big Loud Rock, 2022) — lyrics [[Sources/Lyrics/Soul Is A Star]]; credits [[Sources/Credits/33]] (**Joni co-write [G]**).
 - *Woodstock* / *For Free* — [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]].
 - "Sun" spelling, "dropped by my record label" self-note, title/birthdate-gematria dating (2021) — [[Sources/Artifacts/Roy - I'm 33 this year (spreadsheet)]] (Roy's citable artifact). Kybalion/Gender transcription also there.
-- **[?] pending in-vault:** idobi review; Hall of Mirrors / CTHDRL campaign docs (the actual-voice / interpolation claim); Masquerade Atlanta bio (Joni+Dylan childhood); Atwood/Honey Pop interview ("dropped by a major label"); a citable source for Roy's use of "Da'at"/"gnosis"; the "Christ/Logos/Sun" verse-annotation.
+- **[?] pending in-vault:** idobi review; Hall of Mirrors / CTHDRL campaign docs (the actual-voice / interpolation claim); ~~Masquerade Atlanta bio (Joni+Dylan childhood)~~ ✅ confirmed verbatim 2026-06-02 (see the Verification Ledger); Atwood/Honey Pop interview ("dropped by a major label"); a citable source for Roy's use of "Da'at"/"gnosis"; the "Christ/Logos/Sun" verse-annotation.
 
 ---
 
@@ -182,7 +182,7 @@ Is the work **fighting** the asymmetry (pain transmits, wisdom doesn't) or **acc
 
 - **[?]** Pin **Hall of Mirrors / idobi** — does the documentation actually state Joni's *voice* is interpolated (vs a melodic nod)? This decides §VIII's tier.
 - **[?]** Citable source for Roy's **"Da'at" / "gnosis"** usage.
-- **[?]** Source the **Masquerade bio** (Joni+Dylan) and reconcile with the board DM ("dad… Woodstock").
+- **[?]** ~~Source the **Masquerade bio** (Joni+Dylan)~~ ✅ sourced and confirmed verbatim 2026-06-02 — the remaining open half: reconcile with the board DM ("dad… Woodstock").
 - **[RESOLVED] "caught in the devil's bargain" is Joni's own line.** Jen (2026-06-02): it's in her **official published lyrics, all versions** — treat as Joni's. (Her Woodstock carries *both* "billion year old carbon" *and* "caught in the devil's bargain"; the dossier Part 3 "CSNY-only" claim was wrong — corrected there.) §III's hinge stands.
 - **[W candidate — verdict reopened 2026-06-15] "Down to You"** — the earlier "leans coincidence" read was **reopened**: Joni's "Down to You" (*Court and Spark*, 1974) shares the resolving hook *"it all comes down to you"* with *33* track 7 and is itself a duality text, and *33* already grounds Joni, so it now reads as a **candidate second Joni dialogue** `[W candidate]` (not `[G]` — ordinary idiom, no Joni credit). Full note: [[Brain/Songs/33 (2022)/Down to You]] §"A candidate second Joni dialogue." *(33 Deep Dive D2.)*
 - **[~] Joni's "Shine" (2007)** vs JT's "Shine" — title coincidence only (both light/benediction); logged, not built.

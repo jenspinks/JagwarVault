@@ -172,7 +172,7 @@ Universal source material — published books, traditions, philosophical systems
 
 - **Greek mythology** — Hercules / the Twelve Labors (Apollodorus, Diodorus Siculus, Hesiod, etc.)
 - **Hebrew Bible** — Genesis (Jacob, Esau, Peniel, the ladder), Mark 8:36
-- **Mayan mythology** — the Jaguar as interworld traveler
+- **Mayan mythology** — the jaguar as a liminal figure (tradition reference only; the "interworld traveler / sees into all beings" gloss as Roy's own etymology is struck to `[?]`, his grounded etymology is mirror-of-consciousness, see [[Claim Ledger]])
 - **Greek myth** — Theseus and the Minotaur (Rosicrucian reading)
 
 ### Modern

@@ -32,7 +32,7 @@ Type: Song · *Lucius Lullaby* (2026), **track 14 of 14, the album closer**. Voi
 - [G] **B.M.R.C door (visual).** The SOL visualizer stages a physical **"B.M.R.C" wall-sign** — a 4th independent BMRC channel (metadata/caption/stencils/in-video signage). [W] Roy exits through a door marked with the circus's own initials: the threshold out of the underworld, branded by its owner (fits the album's survives-not-conquers discipline, §Survival, not triumph).
 
 ## Resonances
-- [~] **SOL / Sol, the sun.** SOL = the solar source no reflected body can absorb; the moon "trying to become a sun" is **Roy's** arc, while **Lucius** is the mind whose borrowed shine can't metabolize the song of love ([[Kabbalah - The Tree of Life]]).
+- [~] **SOL / Sol, the sun.** SOL = the solar source no reflected body can absorb; **Lucius** is the mind whose borrowed shine can't metabolize the song of love ([[Kabbalah - The Tree of Life]]). The old "moon trying to become a sun" framing is retired ([[The Cosmos]], 2026-08-01): the Sun is shared and born inside, and the arc reads as the Moon remembering how to sing *with* the Sun, not a promotion.
 - [~] **Breath substrate:** Genesis 1:2 *ruach* before speech (grammatically feminine, the implicit feminine under the explicit paternal frame) and Theosophy's "Great Breath." Framework-attributed; no private breath-method; Abulafia stays tradition-only ([[The Angels and the Angles]]).
 - **De-attribution (2026-06-27):** the "poem guide" (white rose / Fool / "half the man") is **not** a SOL source; it belongs to [[No. 1 Champion (la Conquistadora)]] (visualizer caption) + the Half the Man post. SOL shares only the leap-on-trust theme.
 

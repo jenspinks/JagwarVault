@@ -7,7 +7,7 @@ related: [ALBUM-33, SONG-PayAttentionFeatLittleLuna, SONG-ILikeToParty, CONCEPT-
 ---
 # Down to You
 
-> **Provenance:** drafted by Gemini; verified/corrected/placed by Code (2026-06-02) against [[Sources/Lyrics/Down to You]] (Spotify-verified, stable) + [[Sources/Credits/33]]. **All quoted lines confirmed verbatim.** Fixes: links repaired (`[[The Kingdom]]` → the kingdom-within theme / `CONCEPT-Malkhut`); Matt Pauling = established *33* core (sole producer here), **not** a new entity; **added the bread/cake cross-track read** (§5). The draft's Joni-"Down to You" non-bridge is correct and kept.
+> **Provenance:** drafted by Gemini; verified/corrected/placed by Code (2026-06-02) against [[Sources/Lyrics/Down to You]] (Spotify-verified, stable) + [[Sources/Credits/33]]. **All quoted lines confirmed verbatim.** Fixes: links repaired (`[[The Kingdom]]` → the kingdom-within theme / `CONCEPT-Malkhut`); Matt Pauling = established *33* core (sole producer here), **not** a new entity; **added the bread/cake cross-track read** (§5). The draft's Joni-"Down to You" non-bridge is correct and kept (ruled out as a connection — same title only, coincidence; [[Claim Ledger]] §Ruled-out).
 
 ## Album / Position
 - **Album:** *33* (2022, Big Loud Rock) — **track 7 of 10**; 3:48. Writers **Roy English, Matt Pauling**; **Producer: Matt Pauling (sole)** ([[Sources/Credits/33]]).

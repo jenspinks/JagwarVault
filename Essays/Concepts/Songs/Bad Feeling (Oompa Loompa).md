@@ -61,7 +61,7 @@ The video stages a **troupe of ~4 identical figures in matching red balaclavas a
 
 **Interpretive (strong):** the cautionary-chorus → intuition-alarm shift; Wonka factory = the Circus (nursery version); toxic positivity as system speech; the body as counter-epistemology; on-demand cannibalism / Consumption; the alarm-and-foreman paradox (anchored by the Wonka-timed release); the gaze turning on the listener; "are you fucking serious?" as rupture.
 
-**Resonance / open:** the corrupted "That's Amore" moon → lunacy (moon = Lucius's reflected light); candy-paradise as Maya / false Eden (Kierkegaard's "crowd is the untruth," Bailey on illusion); the Oompa-Loompas as consumed labor; Jungian shadow-alarm. **Boundary:** "teeth / no-exit maze / chew you up" belong to [[Welcome to the Circus]] (track 4), not here.
+**Resonance / open:** the corrupted "That's Amore" moon → lunacy (no one owns the moon — Lucius's luminary is the artificial flashing source; [[Brain/Concepts/The Cosmos]]); candy-paradise as Maya / false Eden (Kierkegaard's "crowd is the untruth," Bailey on illusion); the Oompa-Loompas as consumed labor; Jungian shadow-alarm. **Boundary:** "teeth / no-exit maze / chew you up" belong to [[Welcome to the Circus]] (track 4), not here.
 
 ## Open Questions
 

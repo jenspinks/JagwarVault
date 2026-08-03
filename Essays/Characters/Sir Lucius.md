@@ -7,7 +7,7 @@ related: [CHAR-Roy, CONCEPT-TheDwellerOnTheThreshold, CONCEPT-TheMirror, CHAR-Ma
 ---
 # Sir Lucius
 
-> **⚠ Older long-form prose (`publish: false`).** The current, maintained Sir Lucius analysis lives at [[Brain/Characters/Sir Lucius]] — the Devil-card grounding, the **Hod / Mercury** seat, the crow / green-apple fundamentals, and the three-register **manipulation / shadow / protective-love** reading. Some Tree placements below predated the **2026-07-01 correction** and are corrected inline: **Lucius's seat is Hod / Mercury, not Yesod** (Yesod is only his *operating theater*, and the Moon is Roy's). Much of this page's unique material (the El Roi cluster, the Rorrim Ehtni origin, the Speech-vs-Song analysis) remains valuable; cross-check the Brain page for current tiering.
+> **⚠ Older long-form prose (`publish: false`).** The current, maintained Sir Lucius analysis lives at [[Brain/Characters/Sir Lucius]] — the Devil-card grounding, the **Hod / Mercury** seat, the crow / green-apple fundamentals, and the three-register **manipulation / shadow / protective-love** reading. Some Tree placements below predated the **2026-07-01 correction** and are corrected inline: **Lucius's seat is Hod / Mercury, not Yesod** (Yesod is only his *operating theater*; and per 2026-08-01 nobody owns the Moon — Roy keeps its *mode*, [[Brain/Concepts/The Cosmos]]). Much of this page's unique material (the El Roi cluster, the Rorrim Ehtni origin, the Speech-vs-Song analysis) remains valuable; cross-check the Brain page for current tiering.
 
 ## Description
 
@@ -183,7 +183,7 @@ Mastermind → Final Boss. The self-naming arc is its own timeline, worth tracki
 - [[The Algorithm]]
 - **The green apple · the crow (Corvus) · cigarettes** — Lucius's grounded fundamentals (2026-07-01); see [[Brain/Characters/Sir Lucius]]
 - The jester / ringmaster
-- *(Not [[The Moon]] — the Moon is Roy's; Lucius works through Yesod's reflected light but is not the moon.)*
+- *(Not [[The Moon]]: nobody owns the celestial Moon ([[Brain/Concepts/The Cosmos]], 2026-08-01). Lucius works through Yesod's reflected light and turns the lunar faculty into a machine, the machine-Moon, but he is not the living Moon.)*
 
 ---
 

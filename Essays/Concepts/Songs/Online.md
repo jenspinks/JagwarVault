@@ -122,7 +122,7 @@ Identity dissolved into automated code — but with no reformation following. Th
 
 ## Sources
 
-- **Lyrics & track facts:** *Online*, *33* (2022), 2:50. Spotify (track `4rUA1L4SkcF0LL1JVMdzd6`), verified 2026-05-30: [[Sources/Lyrics/Online]]. Track # + writer credits `[?]`.
+- **Lyrics & track facts:** *Online*, *33* (2022), 2:50. Spotify (track `4rUA1L4SkcF0LL1JVMdzd6`), verified 2026-05-30: [[Sources/Lyrics/Online]]. Track # confirmed (Track 1 of 10, against the *33* tracklist 2026-05-30); writer credits still `[?]`.
 - **Public posts (Grounded, screenshot-verified, filed):** [[Sources/Quotes/Roy X Post - Everyone's a Guru (Aquarium)]] (X, Apr 14 2026); [[Sources/Quotes/Sir Lucius IG Post - One Hit Wonder]] (IG, signed Sir Lucius — caption top truncated).
 - **Interview `[?]`:** *Ones to Watch* (2022) — "fun and ridiculous" / "spider's food" quotes, pending confirmation.
 - **Esoteric frameworks:** Gnostic trapped-pneuma; the "from above" mytheme (comparative resonance, **no source claim**); alchemical Nigredo. *No private material used. No Bailey-sourcing claim made.*
