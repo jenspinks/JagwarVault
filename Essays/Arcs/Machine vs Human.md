@@ -124,7 +124,7 @@ Per `CONCEPT-InheritedSubstrate`: the thread's raw material is largely **inherit
 | [[Essays/Concepts/Songs/Superhuman (Interlude)]] | The inherited seed — Chaplin: "create machines" vs "free and beautiful" (grounded) |
 | [[Subject to Flooding (album)]] | The Flood frame — extinction event as the stake [P] |
 | [[Brain/Songs/Welcome to the Circus]] | The machine scaled to society; spectacle from collapse |
-| [[Sir Lucius]] | The machine personified — algorithm, optimization, "mind divorced from heart" |
+| [[Sir Lucius]] | The machine's best student and would-be usurper (the System predates and produced him — row B, 2026-07-12) — algorithm-fueled optimization, "mind divorced from heart" |
 | [[The Algorithm]] | The machine's operating logic |
 | [[The Aquarium]] / [[The Audience]] | Surveillance — counterfeit El Roi, being-watched vs being-seen |
 | [[Witnessing vs Surveillance]] | The doctrine: witnessing transforms; surveillance shapes |

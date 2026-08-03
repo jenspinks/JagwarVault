@@ -26,9 +26,9 @@ The catalogue's deepest through-line: **the human** — heart, soul, freedom, th
 | Mode | heart-integrated creation | optimization severed from the heart |
 | Gaze | being **seen and loved** ([[Brain/Concepts/Witnessing vs Surveillance\|El Roi]]) | being **watched and ranked** (the apparatus) |
 | Sefirot | [[Kabbalah - The Tree of Life#Tiferet\|Tiferet]]-guided structure | [[Kabbalah - The Tree of Life#Yesod\|Yesod]] severed from Tiferet |
-| Character-scale | [[Roy]] (heart) | [[Sir Lucius]] (mind divorced from heart) — the machine personified |
+| Character-scale | [[Roy]] (heart) | [[Sir Lucius]] (mind divorced from heart) — the machine's product-become-claimant, never its personification (row B, 2026-07-12) |
 
-At cosmic scale this is the **Roy/Lucius split** stated as a law: Lucius **is** the Algorithm given a body.
+At cosmic scale this is the **Roy/Lucius split** stated as a law — with the un-collapse held: Lucius is not the Algorithm given a body but the Algorithm's **best student**, the answer the siege produced, a product become would-be usurper (the System predates and produced him; [[Cross-Vault Fold Status]] row B, 2026-07-12).
 
 ## ★ The load-bearing guardrail `[W]` — *the antagonist is the severing, not the machine*
 **This is not "technology bad."** The catalogue refuses that flattening and so must any reading of it. [[Essays/Concepts/Songs/Superhuman (Interlude)|Superhuman (Interlude)]] frames machines as **human creative capacity** — *"the power to create **machines**"* sits *beside* *"the power to create **happiness**,"* both gifts of "the people." A machine subordinated to the heart is **creation**; the *same* machine cut loose from the heart becomes the **Algorithm**. So the real opposition is:
@@ -63,5 +63,5 @@ The cure is therefore **not destroying the machine but re-subordinating it to th
 ## Connections
 - [[Essays/Arcs/Machine vs Human]] — **the full narrative arc** (this page is its doctrinal hub).
 - [[Brain/Concepts/Source vs Reflection]] (genus) · [[Brain/Concepts/Witnessing vs Surveillance]] (sibling) · [[The Algorithm]] (the machine's operating logic).
-- [[Sir Lucius]] / [[Brain/Concepts/The Protector]] — the machine personified.
+- [[Sir Lucius]] / [[Brain/Concepts/The Protector]] — the machine's product-become-claimant (never the machine personified; row B, 2026-07-12).
 - [[Essays/Concepts/Songs/Superhuman (Interlude)]] — the grounded seed (Chaplin).
