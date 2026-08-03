@@ -53,8 +53,15 @@ If §2 holds, the 2026-07-26 One Universe set is the first documented instance o
 
 ---
 
-## 4. Related: the sun/moon transcript is WITHDRAWN (resolved same session)
-Three gesture-blind Whisper runs (small/medium/large-v3) disagreed, and `large-v3` produced **no sun**. Then **Jen heard an audience voice in the clip** ("hanaro dorabora"), and an acoustic test confirmed it: the two windows carrying the 하나/다리 tokens run **11–15 dB hotter in HF(>2 kHz) relative to LF(<400 kHz)** than the surrounding audio = **near-field voice, not the distant PA**. All three models were garbling *one nearby fan* asking Roy to turn around. **The 해 that seeded the sun/moon reading was never Roy.** Full table in the source record §Korean-speech beat.
+## 4. ⚠⚠ CORRECTED 2026-07-28 — the sun/moon line WAS said. The withdrawal below was wrong.
+
+**This section was the last unmarked copy of a verdict that had already been reversed, and it misled at least one downstream session into reporting the sun/moon line as an audience member's. It was not.**
+
+**Current position:** *"one became the sun, one became the moon"* **was said in Korean, immediately before *City of Angels*, confirmed by a Korean attendee who was at the show** (2026-07-28). The grounding is **human testimony.** Every ASR verdict on this clip is dead **in both directions** — the withdrawal and the machine "reversal" alike. Do not cite Whisper output for or against it.
+
+~~Three gesture-blind Whisper runs (small/medium/large-v3) disagreed, and `large-v3` produced **no sun**. Then Jen heard an audience voice in the clip ("hanaro dorabora"), and an acoustic test confirmed it: the two windows carrying the 하나/다리 tokens run 11–15 dB hotter in HF(>2 kHz) relative to LF(<400 Hz) than the surrounding audio = near-field voice, not the distant PA. All three models were garbling *one nearby fan* asking Roy to turn around. **The 해 that seeded the sun/moon reading was never Roy.**~~
+
+**What actually happened:** Claude cropped the audio at **4.5 s** when the first clause runs **1.9–3.9 s**, removing it, then reported the missing sun as evidence of absence. **What survives:** only the near-field finding about the **separate audience interjection**, which is a different utterance in a different window and was never the stage line. Full history: source record §Korean-speech beat.
 
 **Why this matters for §2:** the two readings were never allowed to prop each other up, and it is now clear they must not — the transcript has **no evidential floor at all**. §2 (the counterfeit sun) stands or falls entirely on the *visual* record. Treat the two as fully independent; do not let the sun-and-moon idea re-enter by way of §2's staging claim.
 
