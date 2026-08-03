@@ -40,7 +40,7 @@ Track 1, [[33 (album)]] (2022, Big Loud Rock). **Lyrics: Google Drive doc (`stat
 - [[Superhuman]] — still trusts collective activation.
 - **Online — already knows the architecture is recursive.** It names the web and stays in it.
 
-Doctrinal weight: the first song that *sees the system as system* — database, feedback loop, predictive profiling — after the cosmology matured, before Lucius personifies it.
+Doctrinal weight: the first song that *sees the system as system* — database, feedback loop, predictive profiling — after the cosmology matured, before Lucius steps forward as its claimant (its product, never its personification; row B).
 
 ## Moves
 - **The web inversion** (grounded framing; lyric [?]). *"Internet is like a web and we're the spider's food"* [?] — we are prey, not users. → [[The Algorithm]], [[The Aquarium]].

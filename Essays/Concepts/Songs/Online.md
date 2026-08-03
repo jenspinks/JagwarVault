@@ -20,7 +20,7 @@ related: [ALBUM-33, CONCEPT-TheAlgorithm, CONCEPT-TheAquarium, CHAR-SirLucius, S
 
 ---
 
-> **One-line reading:** *Online* is identity collapse staged as a jingle. It diagnoses the predictive-surveillance machine — face captured, brain infiltrated, the self flattened into static and metabolized like prey in a web — and wraps the horror in an upbeat consumer earworm, so the song *is* the sedation it describes. The bridge track: the architecture (database, prediction, "everyone's a guru") that later gets personified as Lucius. The machine precedes the mask.
+> **One-line reading:** *Online* is identity collapse staged as a jingle. It diagnoses the predictive-surveillance machine — face captured, brain infiltrated, the self flattened into static and metabolized like prey in a web — and wraps the horror in an upbeat consumer earworm, so the song *is* the sedation it describes. The bridge track: the architecture (database, prediction, "everyone's a guru") whose best student later steps forward as Lucius (its product, never its personification; row B). The machine precedes the mask.
 
 ---
 

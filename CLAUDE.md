@@ -135,7 +135,7 @@ The contamination risk has a second entry route: **sessions write their reasonin
 1. **Strike or remove the body, not just the header.** A struck header over seventy live-reading lines is not a correction; greps and excerpts never see the header.
 2. **Put the marker inline**, where a grep or an excerpt will land.
 3. **Re-check every checklist, TO VERIFY, and Open Questions item in the file.** Checklists are read first and updated last, and a stale entry that says "resolved" or "do not re-attempt" stops a reader before the correction above it is ever reached.
-4. **Sweep the withdrawn wording, never the corrected wording, across both vaults** ([[lessons-learned]] 2026-07-31), and check for unmarked copies in shorter sibling files (shorter files are likelier to be read whole).
+4. **Sweep the withdrawn wording, never the corrected wording, across both vaults** ([[lessons-learned]] 2026-07-31), and check for unmarked copies in shorter sibling files (shorter files are likelier to be read whole). A sweep is **claim-level, not string-level**: follow the proposition through its paraphrase equivalents ("personified" / "given a body" / "acquires a face" are one claim) and through **every page type it lives in** — concept, arc, album, song, symbol, source gloss, tracker, connection list, callout title, Open Questions row (earned across three verification rounds, 2026-08-02).
 
 **What this rule never touches:** Counterarguments sections, named falsifiers, one-line negative results kept so they are not re-derived, tier markers and hedging, and framework readings inside an explicitly labeled framework. The test is not "is this long"; it is "does this state a position that is no longer current."
 

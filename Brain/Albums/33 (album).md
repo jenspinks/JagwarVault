@@ -74,7 +74,7 @@ Core = **Roy English + Matt Pauling** (write + produce) on most tracks. The exce
 
 The album maps a single arc (track #s + themes `[G]`; the arc-reading `[W]`) — **forgetting → the question → the mask/bottom → the inward turn → the cosmology → resolution:**
 
-1. **Online** `[W]` — the web as trap; identity collapse staged as a jingle (*"they know what you like…"*). The machine **before the mask** (the architecture later personified as Lucius).
+1. **Online** `[W]` — the web as trap; identity collapse staged as a jingle (*"they know what you like…"*). The machine **before the mask** (the architecture whose best student later steps forward as Lucius; row B).
 2. **It's Your Time** `[W]` — the earnest twin of *Online*: the soul *came from elsewhere, forgot on arrival, must find its way back* — **remembrance** disguised as a motivational anthem; the integration thesis, *"a man is like an in-between, animating Heaven and Hell."*
 3. **Pay Attention (feat. little luna)** `[W]` — **Attention personified** as an ancient power that trades you your desires for your awareness; a carnival pitch that collects its toll in the act of being heard. (little luna = guide/chorus; **Roy = Attention** — a Lucius-function prototype.)
 4. **I Like to Party** `[W]` — the attention-force *operating a crowd* (*"stay in and pretend that we're in the club"*), interrupted at the end by a competing broadcast — *the kingdom is within you* — **cut off mid-word.** (Official video description names the stakes: *"loss of identity… a self created hell."*)
@@ -91,12 +91,12 @@ The album maps a single arc (track #s + themes `[G]`; the arc-reading `[W]`) —
 
 ## Cross-Album Threads — where *33* reaches outside itself
 
-1. **Machine vs Human** — *Online* and *Pay Attention* are the **digital-age escalation node** of the catalogue-spanning arc that began with STF's Chaplin relay and ends with **Lucius personifying the machine** (*"the algorithm, baby,"* 2026). The machine becomes *ambient, behavioral, intimate.* ([[Machine vs Human]].)
+1. **Machine vs Human** — *Online* and *Pay Attention* are the **digital-age escalation node** of the catalogue-spanning arc that began with STF's Chaplin relay and ends with **Lucius claiming the machine as its best student** (*"the algorithm, baby"* — the student handing back a perfect exam, never the machine confessing; row B, 2026). The machine becomes *ambient, behavioral, intimate.* ([[Machine vs Human]].)
 2. **Source vs Reflection** (the master key) — *Online*'s database-self and the screen are the **reflection-engine**; *33* is where the mirror goes industrial. ([[Brain/Concepts/Source vs Reflection]].)
 3. **The Circle / remembrance** — the closer's doctrine is **first documented in 2019**, on STF's *Move To You* (*"there is no beginning and no end, it's just a circle,"* [[Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser|Digital Journal 2019]]). So *33* **formalizes a doctrine Roy already held**, and the album's whole arc (forgetting → remembrance) *is* the Circle doctrine staged across 10 tracks. ([[Brain/Concepts/The Circle]].)
 4. **The Pattern / the "I'm 33" board** — the title, *Another Way II Heaven*'s "One become Two," *Soul Is A Star*'s Sun/Son, and *It's Your Time*'s descent-and-return all sit on Roy's own cosmology board (Bailey + Kybalion + Kabbalah + Russell + Jung + Plato). The board is literally titled **"I'm 33 this year."** ([[The Pattern]].)
 5. **Joni Mitchell / *Ladies of the Canyon*** — the *Soul Is A Star* co-write `[G]` is the tip of an **album-wide dialogue** `[W]`: *Woodstock* ↔ Soul Is A Star + *Imagine A World*'s "Garden of Eden"; *The Circle Game* (carousel) ↔ *The Circle* (the growing circle — same image, opposite charge); Joni's *"thirty-third floor"* (*The Arrangement*) ↔ the **title *33*** + the consumerism critique (Online/Pay Attention/Down to You). ([[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]].)
-6. **The Lucius bridge** — *Happy Face* and *Online* are the songs Lucius later **claims** (*"those are me,"* EP1) and the architecture he personifies; their **original videos already wore his iconography** years before the 2026 billing (see [[Sir Lucius]] §Visual emergence). *33*'s machine is the thing that, in 2026, **acquires a face and a billing.**
+6. **The Lucius bridge** — *Happy Face* and *Online* are the songs Lucius later **claims** (*"those are me,"* EP1) — the architecture whose best student he becomes (its product, never its personification; row B); their **original videos already wore his iconography** years before the 2026 billing (see [[Sir Lucius]] §Visual emergence). *33*'s machine is the thing whose would-be boss, in 2026, **steps forward with a face and a billing.**
 
 ---
 
@@ -145,7 +145,7 @@ The album maps a single arc (track #s + themes `[G]`; the arc-reading `[W]`) —
 - [[The Pattern]] — the "I'm 33" board cosmology behind the title; *Another Way II Heaven* = its poem.
 - [[Machine vs Human]] — *Online* / *Pay Attention* = the digital-age escalation node.
 - [[Brain/Concepts/Source vs Reflection]] — *33* is where the reflection-engine goes industrial.
-- [[Sir Lucius]] — the machine that acquires a face; the visual iconography on *Happy Face* / *Online* predates the billing.
+- [[Sir Lucius]] — the machine's product-become-claimant (never the machine personified; row B); the visual iconography on *Happy Face* / *Online* predates the billing.
 - [[Sources/Reference/Joni Mitchell - Ladies of the Canyon (reference)]] — the album-wide Joni dialogue substrate.
 
 ## Sources
