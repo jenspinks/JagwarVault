@@ -222,6 +222,16 @@ Roy maintains a paid Instagram-based subscription chat ("Inner Circle"). The cha
 
 Member-to-member chat content (other Inner Circle subscribers' messages) is private and not citable without their explicit consent.
 
+### ★ Released by Jen, 2026-08-06 — a single scoped exception
+
+| Date | Source | Content | Status |
+|---|---|---|---|
+| 2026-03-28 | Inner Circle phone call with Roy | **Roy's answer on angles and angels, and how the words come.** The angels-as-angles / consonants-and-vowels doctrine; *"nonsense is the only sense that makes sense… that creates sense"*; the nonsense-scaffolding technique; the two writing modes (*Another Way II Heaven* = *"specifically mind coded"*, *The Circle* = a blend); and the nonsense origin of *"flip the switch, flip the stove."* | **citable in the vault, `stable`** — [[Sources/Transcripts/Roy - Inner Circle call on angles and angels (2026-03-28)]] |
+
+**Scope, and it is narrow.** Jen released **only Roy's answer on this subject**, asker removed, the rest trimmed. Her own hand-edited transcript; she retains the audio. **Nothing else from that call or any other private call is released** — specifically not his label, not *SOL*, not unreleased songs or titles, not the April call, not other participants.
+
+⚠ **It is not a public statement.** Cite as *"in a 2026 Inner Circle call, Roy describes…"*, never as something he has said publicly. [[Claim Ledger]] rows 21 and 87 were **amended, not discharged**, because both falsifiers specified a *public* source and that condition is still unmet. The public wing therefore continues to cite the tradition, not the man.
+
 ---
 
 ## 9. Synthesis & Reception
@@ -300,7 +310,7 @@ and none is listen-verified. Dates are `[?]` pending upload-date pinning. Corpus
 | `[?]` | Bru In Studio | https://www.youtube.com/watch?v=s4lTKLpkWMA | `y10` 19:16 — "Jagwar Twin Joins Bru In Studio" | **ingested, unmined** — [[Sources/Transcripts/Bru-In-Studio-JagwarTwin]] |
 | `[?]` | outlet `[?]` | https://www.youtube.com/watch?v=H8lFeQVV3fk | `y11` 10:34 — "Let's Meet Jagwar Twin" | **ingested, unmined** — [[Sources/Transcripts/Lets-Meet-Jagwar-Twin]] |
 | `[?]` Bad Feeling era | Shane & Glory | https://www.youtube.com/watch?v=4oiolSALUNo | `y12` 20:36 — "Talking about Bad Feeling (Oompa Loompa)" | **ingested, unmined** — [[Sources/Transcripts/Shane-and-Glory-Bad-Feeling]] |
-| `[?]` | Bringin' It Backwards (host Adam) | https://www.youtube.com/watch?v=n9mf-4anR3w | `y13` 41:02 — podcast interview. Flagged as one of the three richest bodies | **ingested, unmined** — [[Sources/Transcripts/Bringin-It-Backwards-Podcast]] |
+| `[?]` | Bringin' It Backwards (host Adam) | https://www.youtube.com/watch?v=n9mf-4anR3w | `y13` 41:02 — podcast interview. ~~Flagged as one of the three richest bodies~~ ★ **MINED 2026-08-06, and it carries a load-bearing public anchor the vault did not have:** Roy, L174 — *"I love numerology. I'm super into numerology and hermetics and Kabbalah and all that."* Then on *Good Time (1-08)*, L254/258/262 — *"there's a lot behind 108… You're going in the right direction. **You could also ponder on the letters that are associated with one and eight.** … **The English letters in the alphabet.**"* ⇒ **English letter-number conversion is artist-grounded**, publicly, in his own voice. This does **not** establish a whole-corpus cipher ([[Claim Ledger]] row 79 stands); it establishes that *localized* gematria is his, which is a different claim and was never tested. ⚠ `status: draft` ASR — **ear-check ~38:24–39:55 before quoting his exact formulation.** | **ingested, PARTLY MINED** — [[Sources/Transcripts/Bringin-It-Backwards-Podcast]] |
 | `[?]` Bad Feeling era | outlet `[?]` | https://www.youtube.com/watch?v=M4bL8eqrGFY | `y14` 12:54 — "Grateful For 'Oompa Loompa' Success, Attention After Grinding For Many Years" | **ingested, unmined** — [[Sources/Transcripts/Oompa-Loompa-Success-Interview]] |
 | `[?]` 33 era | outlet `[?]` | https://www.youtube.com/watch?v=n6HhkpNtsbI | `y15` 29:24 — "new album '33', learning yourself, & making choices like Harry Potter". **Closes a registered HoM gap** | **ingested, unmined** — [[Sources/Transcripts/Talking-About-33-Harry-Potter]] |
 | `[?]` 33 / NFT era | outlet `[?]` | https://www.youtube.com/watch?v=DgdHVqNzPF8 | `y16` 7:33 — "working with Josh Dun, fighting Mike Tyson, Happy Face, NFTs" | **ingested, unmined** — [[Sources/Transcripts/Josh-Dun-Happy-Face-NFTs]] |

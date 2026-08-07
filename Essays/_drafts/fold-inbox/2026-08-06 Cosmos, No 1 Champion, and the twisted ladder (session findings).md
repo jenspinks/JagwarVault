@@ -7,7 +7,37 @@ about: "Session body file for the 2026-08-06 conversation: Jen's Mary-as-living-
 ---
 # Session findings, 2026-08-06
 
-**Nothing here is folded.** Facts are marked as verified or not. Where a reading is Jen's, it says so.
+**Partly folded.** §8b/§8c and the angles/angels release are folded to canon; everything else is queued. Facts are marked verified or not. Where a reading is Jen's, it says so. Inbox rows: `20260806-3228-1` through `-5`.
+
+---
+
+## §0. Improvements made (2026-08-06)
+
+**Folded to canon ✅**
+
+| What | Where |
+|---|---|
+| **The angles/angels call released and filed.** Roy's answer verbatim, asker removed, scope-limited | **NEW** [[Sources/Transcripts/Roy - Inner Circle call on angles and angels (2026-03-28)]] |
+| **The named technique**, plus two of the page's own conclusions qualified in place ("non-systematic by design", the "download framing" guard) | [[Brain/Roy Voice/Roy on Process]] §2026 |
+| **"Flip the switch, flip the stove" originated as nonsense**, filed *beside* the alchemical gloss with a do-not-flatten guard | [[Essays/Concepts/Songs/Happy Face]] |
+| **Three Claim Ledger rows amended.** Row 21 (angles/angels method) and row 87 (authorial intent) **amended, not triggered**, because their falsifiers named a *public* source and that is still unmet. Row 43's verification debt (*"nonsense is the only sense"* wrongly anchored on Lucius's EP2 line) **discharged**, with the attribution guard intact | [[_System/Claim Ledger]] rows 21, 43, 87 |
+| **Taxonomy entry corrected** from *"cite the tradition, not the man"* to two registers, plus the note that the page it points at **does not exist** | [[_System/Ontology]] `CONCEPT-TheAngleAngel` |
+| **Two blocked inbox rows unblocked**, one of them fully folded | `20260801-8d63-15`, `20260801-8d63-18` |
+| **Source registered**, with its scope and its non-public status written into the register | [[_System/Master Source List]] §8 |
+| **A podcast moved from "unmined" to a load-bearing anchor**: Roy publicly directing a listener to English letter-number conversion | [[_System/Master Source List]] §11, Bringin' It Backwards |
+
+**Corrections made to my own work this session**
+
+1. Withdrew the objection that the moths could not be joined to the lunar system (§2).
+2. Withdrew the "accounting / price verdict" reading of Mary's A-B-C lines; the vault's own *creation-grammar* reading is right and is Jen's (§4).
+3. Withdrew "the money line is unglossed"; it is glossed, as a **judgment** (§4a).
+4. Corrected "gematria is board-side only" (§8b).
+5. Corrected §8 in full: Roy said **THE GREAT JAGWAR**, not the Wise One (§8a).
+6. Killed two of my own gematria findings under a dictionary control (§8d).
+
+**Standing risk this session did not resolve:** the public wing. The angles/angels work makes the public vault's *"OK'd by him publicly"* an active over-claim, and roughly twenty source files still carry the pre-clearance wording.
+
+---
 
 ---
 
@@ -269,6 +299,68 @@ I told Jen that gematria warrants the frame but is not evidence inside the songs
 **Everything else in the report's cluster tables** (Rabbit/Heart/Earth, Mary/Moon/Rose, Roy/Loop/Jaguar, Sun/Love/Voice) sits at or near the 1.10% noise floor and has no placement argument. Record as resonances, ground nothing on them. The report says this itself and should be taken at its word.
 
 **Recommended, before anything folds:** the podcast transcript is `draft` ASR. An ear-check of roughly **38:24 to 39:55** should precede quoting Roy's exact formulation.
+
+### 8c. ★★★ The one finding that survives every control: **I is the unique letter that doubles when reversed**
+
+Every figure in the second report was recomputed and **all of them check out.** The extension below is new.
+
+**The operation.** In the reverse alphabet (A=26 … Z=1), a letter at forward position *n* has reverse value *27 − n*. Ask which letter satisfies **reverse value = double the forward value**:
+
+> 27 − n = 2n  →  **n = 9**  →  **I**
+
+**I is the only letter in the alphabet for which reversing it is the same as doubling it.** Forward 9, reversed 18, and 18 = 9 + 9 = **I + I**.
+
+**Now the lyric**, [[Sources/Lyrics/Another Way II Heaven]]:
+
+> *"I spoke the words / **'One, become Two' / Then 'I' was in reverse** / But now 'I' could see my Self / And 'I' became 'You'"*
+
+Reverse the I and you get two I's. The song states the operation, and **the title writes the result: II.**
+
+★ **And the typography moves at exactly one moment.** Every chorus reads *"Another way **to** Heaven"* except the last, which reads *"Another way **II** Heaven"* — and it arrives immediately after the count is itself converted from words to numerals:
+
+| First chorus | Final chorus |
+|---|---|
+| *"From **One** and through **Eleven** / Another way **to** Heaven"* | *"From **1:00** and through **11:00** / Another way **II** Heaven"* |
+
+The song spends its length turning words into numbers, and in its last line it turns a **word** ("to") into a **numeral** ("II"). The one place the title's anomaly appears in the body is the one place the conversion has already happened to everything around it.
+
+**Why this survives the noise floor:** it is **not a sum-collision**. The 1.10% baseline governs "two words happen to total the same number." This is a uniqueness property of a single letter, plus a stated operation, plus a single typographic event placed at the exact moment the operation completes. Nothing here was dredged.
+
+**Corroboration:** Roy names this song, unprompted, as the deliberately encoded one: *"'Another Way II Heaven' specifically mind coded of Ascension of the tree of life, right? And it's very specific"* ([[Sources/Transcripts/Roy - Inner Circle call on angles and angels (2026-03-28)]]).
+
+Tier: **`[W+]`**. The lyric, the title, and the letter-arithmetic are all `[G]`; that Roy intended this specific operation is the read.
+
+### 8d. Two findings that fail control, including one of mine
+
+Dictionary control, 120,958 words of 3 to 9 letters:
+
+| Claim | Result | Verdict |
+|---|---|---|
+| **ANOTHER = 108 in the reverse alphabet**, matching Roy's 108 hint | **1,546 words (1.28%)** also hit 108 | ✗ **Kill it.** At the noise floor, and it routes across songs from a different title's hint. Mine, and it was the prettiest thing I found. |
+| **SELF = 66 in reverse**, matching 1+2+…+11 = 66, the song's own count | **528 words (0.44%)** also hit 66 | ✗ **Kill it.** Rarer, but roughly 1 in 227, and I went hunting for it after knowing the target. |
+
+### 8e. ⚠ A coherence problem in the ROY→LUCIUS reading that has to be stated
+
+The report's *TWO = 58 = ROY → reverse → 85 = LUCIUS* uses **digit reversal of a total.** §8c uses **reverse-alphabet substitution.** Those are two different operations both called "reverse," and the lyric's *"'I' was in reverse"* does not say which. **Selecting whichever reversal reaches the desired answer is exactly how a system like this becomes unfalsifiable.**
+
+The two readings are not equally exposed:
+- **The I→II reading is self-contained.** One letter, one uniquely satisfied identity, one title, one lyric line, one typographic event, all inside the song.
+- **The ROY→LUCIUS reading imports two proper nouns that never appear in the song**, and needs the second reversal operator to land.
+
+Keep ROY 58 / LUCIUS 85 at `[~]` as a resonance. Do not let it borrow strength from §8c.
+
+---
+
+## 8f. ★★ Cygnus / Northern Cross: run and failed, cleanly
+
+Jen's pre-registered marker (named before searching): if the corpus ties the dove's name *Cygnus* to the constellation whose asterism is the Northern Cross, the cross-and-rose complex gains a seventh channel. Full 13-agent sweep + adversarial verification, 2026-08-06. **Verdict: no. Four channels found, all reach swan-only; the complex stays at six.** Full dossier: [[Essays/_drafts/Framework Differential 02 - Cygnus and the Northern Cross (2026-08-06)]]; inbox row `20260806-3228-6`.
+
+The three findings worth carrying out of the negative:
+1. **Roy's silence is systematic, not a coverage gap.** He assigns celestial addresses when he means them — whale/Saturn, horse/Mars, dolphin/Jupiter, and the dove's own `VENUS IS A DOVE`. The swan alone never gets one, and his one dove-celestial tie is a planet, not the swan constellation.
+2. **A genuine new find en route:** the 2022-10-07 ten-animal tweet (🐇🐈🦊🕊🕷🐎🐬🐋🦉🦢) is the board's animal ladder in **exact reverse order**, Rabbit 10 → Swan 1 — an uncopyable ten-element ordered match, hand-verified. The socials swan and the board's source-point swan are one system.
+3. **~11 public-vault sites assert the constellation tie unhedged as Roy's act**, traced to a single origin: the relay file's own parenthetical. Repair wording drafted in dossier §7b, **Jen-gated, not executed**.
+
+Fences added source-side (SOL, The Two Birds, Roy's page, Registry B1, The Rose Cross) so no future session re-mints the reading from its elegance.
 
 ---
 
