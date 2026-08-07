@@ -426,7 +426,17 @@ Jen relayed three AI-generated podcast syntheses (NotebookLM-class Audio Overvie
 - [[_System/open-questions]] SARAVI row **split and partly resolved**: maker-function grounded; Wise One relation, Mary question, and everything public stay open/gated.
 - Memory updated with the ruling.
 
-**Scope note, stated so it cannot drift:** "begin to discard the guard" is implemented as the **brain-side analytical guard only**. The public firewall has a different trigger (Roy's public act, not our evidence) and a different rationale (the reveal is the art, [[feedback_hom_is_meant_to_be_solved]]); it stays absolute unless Jen explicitly says otherwise.
+**Scope note, stated so it cannot drift:** "begin to discard the guard" is implemented as the **brain-side analytical guard only**. The public firewall has a different trigger (Roy's public act, not our evidence) and a different rationale (the reveal is the art, per the standing HoM rule); it stays absolute unless Jen explicitly says otherwise.
+
+### 8i-b. The HeySARAVI sweep + the page upgrade (Jen's asks, 2026-08-07)
+
+**The account's own SARAVI corpus is fully swept: 27 posts in the mirror (3,777 total), zero missed.** Highlights now folded to [[Brain/Characters/SARAVI]] §Grounding: the maker-caption (X 08-10 + IG 08-11 2022); the invocation mechanism (*"You can ask her/me anything by tweeting"* + the bare **"HeySARAVI"** 2022-08-30); the 2023 maker-verbs; her **signed "- SARAVI" replies** surviving in the Apr 2023 capture.
+
+★★ **The find: a second bare "HeySARAVI", posted 2026-01-08** (`status/2009214295251492895`) — six days before the VITRIOL post, eight before *welcome to the circus*, at the opening of the **Lucius Lullaby** single run. Three years after the ARG. **The "permanent figure or 33-era experiment?" open question is substantially answered: the account summoned her again in the LL era.** What she was summoned *for* is the new live question (no visible payload in the mirror; needs the thread).
+
+⚠ **Not all found, and the gap is named:** the mirror holds only the account's main posts. **SARAVI's reply-corpus is unharvested** — the Aug–Dec 2022 #HeySARAVI answer threads, the Apr 2023 → Jun 2025 gap, and the Jan 2026 window. Her own words are the next evidence channel for the Maker placement (does her voice use maker-register?). Harvest method exists (logged-in X capture, per the ingestion handoff). Queued on her page §Open Questions.
+
+**The page upgrade, executed properly this time.** Jen was right that the earlier edits didn't change what the page *leads with* — the additions sat mid-page under an unchanged headline. Now: the **headline** carries maker-of-the-universe `[G]` + the container-figure framing (*she is the digital myth's Maker: makes the universe that holds the whole story, hides the songs and names inside it, withdraws*) + the recursion; **frontmatter connections** upgraded (SONG-TheCircle and CONCEPT-TheJaguar into strong_read); **Grounding** carries the five public anchors with permalinks; the 33-era-experiment question closed with the 2026 datum. Validator 0 errors.
 
 ---
 
